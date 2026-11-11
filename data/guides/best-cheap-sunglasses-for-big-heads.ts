@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YHt4FvenL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLF3S7YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLF3S7YQ?tag=rvgearlab-amz-20",
     "description": "The WILDZEN 158mm XL is a rectangular frame with a stated 158mm width, UV400 polarized lenses and a lightweight, no-slip fit. The listing describes it as made for big heads without pressure on the nose or behind the ears.\n\nAgainst the MAXJULI, it is four millimeters wider. Compared with the WISTON, it adds polarized lenses and a spring hinge design.\n\nIt suits men with a very wide head who want a polarized pair for driving, fishing and cycling. A classic rectangular shape keeps the look simple.",
     "specs": [
       "158mm wide frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vZP9CrZ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTGB4LCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTGB4LCQ?tag=rvgearlab-amz-20",
     "description": "The MAXJULI 154mm XXL is a TR90 frame with a 154mm front, 139mm sides, 58mm lens width and a 19mm nose bridge. The listing says it meets ANSI Z87.1 impact standards and suits a head circumference of 58 cm or more.\n\nAgainst the WILDZEN, it adds an impact rating and published dimensions. Compared with the WISTON, it is wider with lighter TR90 material.\n\nIt suits big-headed cyclists and golfers who want a sports frame with a safety rating. The full dimension list makes sizing easy.",
     "specs": [
       "154mm front, TR90 frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Jxkph+GPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWBD7H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWBD7H?tag=rvgearlab-amz-20",
     "description": "The WISTON XL 149mm is a square oversized frame with a 149mm front, 119mm temples, 59mm lens width and 49mm lens height. The extra-dark lenses block UV400 and UVB rays.\n\nAgainst the MAXJULI, it is a few millimeters narrower and costs less. Compared with the WILDZEN, it uses extra-dark lenses rather than polarized ones.\n\nIt suits men with a large head size who want the lowest price. Wide temples add comfort.",
     "specs": [
       "149mm frame, square XL",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416p3dgVMqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4Y32M4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4Y32M4S?tag=rvgearlab-amz-20",
     "description": "The KALIYADI 3 Pack is a classic rectangular design with HD polarized lenses in a set of three. The package includes microfiber pouches, cleaning cloths and a gift box.\n\nAgainst the WILDZEN, it gives three pairs. Compared with the DEMIKOS, it comes with pouches and cloths.\n\nIt suits families or anyone who loses sunglasses often. The listing names driving, fishing and golf.",
     "specs": [
       "3 polarized pairs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tU4fGrA0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09T2L89T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09T2L89T7?tag=rvgearlab-amz-20",
     "description": "The DEMIKOS Retro is a unisex retro-style polarized sunglass with mirror lenses and a flexible lightweight frame. The listing mentions UVA and UVB blocking and no squeezing.\n\nAgainst the KALIYADI, it is a single pair with mirror lenses. Compared with the WISTON, it is polarized.\n\nIt suits casual wear and driving. The frame is flexible.",
     "specs": [
       "Polarized mirror lenses",

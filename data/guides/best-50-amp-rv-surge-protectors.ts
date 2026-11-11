@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "The 2026 GEARGO lists 20,000 joules of 50 amp protection with a built-in circuit analyzer, thermal protection and a real-time LED screen showing line voltage, frequency and wiring status. It disconnects automatically on unsafe voltage, resets itself, and carries a 3-year warranty.\n\nWhere the 3rd-Gen GEARGO uses simple red and green indicator lights, this model reads out actual numbers on a screen. It also adds auto shutoff and reset that the budget 26,000J and MILLIONHOME units describe less fully.\n\nIt suits full-timers and frequent travelers who want a readable display plus a multi-year warranty without paying Power Watchdog prices. The warranty line adds a safety net for a unit that lives outdoors.",
     "specs": [
       "20,000J, 50A with analyzer",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312sQGCcUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-amz-20",
     "description": "The PWD50W is a 50A smart protector with both Wi-Fi and Bluetooth, sending wireless fault alerts and voltage data to a phone. It has IP65 construction, a replaceable surge module and works with dogbone adapters.\n\nAgainst the PWD50EPOW it keeps the same alert and swappable-module features at a much lower price. Compared with the GEARGO 20,000J Smart, it moves monitoring onto your phone so you can watch voltage from inside the coach.\n\nIt is for owners who leave the rig plugged in for weeks and want an alert if the park power sags. The replaceable surge module also means one big hit does not end the unit.",
     "specs": [
       "50A with Wi-Fi and Bluetooth",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The PWD50EPOW lists 50A protection with Wi-Fi monitoring, IP65 water-resistant construction and a replaceable surge module. Its wireless alerts report electrical anomalies, and it connects with dogbone adapters.\n\nIt is the same smart feature set as the PWD50W with the EPOW label, and sits at the top of the price ladder here. Compared with the GEARGO 20,000J Smart, you are buying a longer-established brand name and remote alerts rather than a built-in screen.\n\nIt makes sense for owners of high-value coaches who want the most brand-backed monitoring and will use it daily. The Wi-Fi link keeps voltage data in reach while you are away from the pedestal.",
     "specs": [
       "50A smart, Wi-Fi monitoring",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411DIUD1nNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-amz-20",
     "description": "The 3rd-Gen GEARGO lists 18,000 joules with a built-in circuit analyzer and red and green LED indicators for open ground, reverse polarity and similar faults. It has an IP68 waterproof, flame-retardant body and a waterproof cover.\n\nIt drops the numeric screen and auto shutoff of the 2026 GEARGO and saves roughly ten dollars for it. Compared with the MILLIONHOME unit, it adds an analyzer with clear fault lights.\n\nIt fits weekend campers who just want a protected plug and a quick pass or fail check. The cover keeps the plug dry between trips.",
     "specs": [
       "18,000J, 50A analyzer",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OBeyRHx2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-amz-20",
     "description": "The MILLIONHOME lists 18,000 joules of 50 amp protection in a plug-and-play body with flame-retardant material and a waterproof design. The listing describes it as safety-certified and easy to use.\n\nIt undercuts both GEARGO units while matching the 3rd-Gen on stated joules. Compared with the 26,000J budget unit below it, this one leans on a certification claim instead of a bigger joule number.\n\nIt is aimed at occasional campers who want a basic guard on a 50A pedestal for under $70. It keeps the cost low for rigs that only travel a few times a year.",
     "specs": [
       "18,000J, 50A plug and play",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nv8rI75L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-amz-20",
     "description": "This unit lists a 26,000 joule rating, the highest on the page, plus auto shutoff on faults with a manual reset, a large LED screen showing voltage, current and power, and an oversized waterproof cover with an anti-theft ring. A non-slip handle eases plugging and unplugging.\n\nIt undercuts every other pick, including the MILLIONHOME, while adding a display and a manual-reset shutoff that most plug-in units skip. Against the 2026 GEARGO, it trades a named brand and warranty for a larger joule claim.\n\nIt suits budget-minded campers who want a screen and a lock-ready cover for the lowest cost. The stay-off-until-reset behavior suits owners who want to inspect a fault before power returns.",
     "specs": [
       "26,000J, 50A with LED screen",

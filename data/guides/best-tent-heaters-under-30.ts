@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ByxUuwacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSKLK3X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSKLK3X6?tag=rvgearlab-amz-20",
     "description": "This 1500W PTC heater has a remote control, 75 degree oscillation and an adjustable thermostat with an ECO mode. It lists tip-over and overheat protection, a flame-retardant housing and a quiet brushless DC motor.\n\nIt is the most feature-rich pick here, with a remote and oscillation that the Comfort Zone lacks. It needs a campsite electric hookup, and the safety shutoffs make it a better electric choice for a tent than a bare element heater.\n\nIt suits car campers on a powered site who want quiet, even warmth. Keep it on a flat, hard surface well away from fabric walls.",
     "specs": [
       "1500W PTC with remote",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Av9AkBPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KJPHVPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KJPHVPP?tag=rvgearlab-amz-20",
     "description": "The Comfort Zone CZ442E is a 1500W ceramic heater with a manual thermostat knob, two heat settings and a fan that spreads warmth. It has a compact desktop design and tip-over protection.\n\nIt costs about $3 less than the Nutromo and has no remote or oscillation. The simple knob controls are easy to use with cold hands.\n\nIt suits solo campers who want a small heater for a cot-side table. Plug it into a GFCI-protected outlet.",
     "specs": [
       "1500W ceramic heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KpkiJFv1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH7V9JMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH7V9JMJ?tag=rvgearlab-amz-20",
     "description": "The Caynel is a portable propane heater and stove with a maximum output of up to 9000 BTU and an adjustable fire valve. It is made of steel and copper and is sold for camping, hiking, ice fishing and hunting.\n\nIt is the only pick here that works without electricity, and it can also cook. It is the cheapest of the three and the one with the most safety questions, since a burning flame in a small space produces carbon monoxide.\n\nIt suits outdoor warm-ups and cooking at a camp kitchen. Use it only in open air or in a space designed for fuel heaters.",
     "specs": [
       "Up to 9000 BTU propane",

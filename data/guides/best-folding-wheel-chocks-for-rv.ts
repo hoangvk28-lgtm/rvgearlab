@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PA318FXfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWNCN9YX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWNCN9YX?tag=rvgearlab-amz-20",
     "description": "The Husky Towing 38512 is a pair of foldable heavy-gauge steel chocks that comes with a storage case. It is designed for RVs, travel trailers, boat trailers and utility trailers, and the case keeps both chocks together so one does not wander off.\n\nCompared with the Race-Driven poly chock, the Husky's steel construction gives it more holding power and a stiffer frame, and the carrying case is a feature none of the other folding sets here include. Against the Big RED, the Husky is the same steel idea with a case and a heavier-gauge build, at about $23 more. Compared with the YOKOKO, it is a larger, more substantial chock rather than a thin tuck-away one.\n\nThis is the pick for RV owners who want a durable folding pair they can store in a bin without losing a piece. If you tow a travel trailer or a boat trailer and want steel in a folding format, the Husky is the best all-around choice.",
     "specs": [
       "Heavy-gauge steel",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JxSeDLhHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B32Z58H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B32Z58H?tag=rvgearlab-amz-20",
     "description": "YOKOKO sells two metal foldable chocks, each about 7.48 inches long, 3 inches wide and just 0.43 inch thick when folded. They are intended for cars, SUVs, trucks and campers, and the flat folded shape is the main selling point.\n\nCompared with the Husky set, the YOKOKO folds far thinner, so it slips into a door pocket, a glovebox or the gap beside a spare tire. Against the Big RED, it is a more compact metal design, though it costs about $29 more. The Race-Driven is a poly chock that folds but stays much thicker. If storage space is your main constraint, the YOKOKO is the thinnest option in this group.\n\nIt is the pick for owners of lighter campers, teardrops and small trailers who want a chock pair that disappears when not in use. It also suits owners who carry chocks in a tow vehicle with limited cargo room, where every inch counts.",
     "specs": [
       "7.48 x 3 x 0.43 inch folded",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318eXh7Sp-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJV4VFF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJV4VFF7?tag=rvgearlab-amz-20",
     "description": "BIG RED sells a 2-pack of heat-treated, drop-forged steel chocks with a foldable body and a polished finish. The bright red color makes them hard to miss, and the drop-forged steel is the same kind of construction used in heavy-duty tools.\n\nThis is the lowest-priced option in the guide at about $9, and it covers the steel folding idea the Husky offers without the case. Compared with the Race-Driven poly chock, the steel Big RED is stronger and does not flex under load. Against the YOKOKO, it gives you roughly the same fold-flat convenience for far less money, though the shape is a little bulkier.\n\nThis is the pick for an owner who wants a budget steel pair for a small to mid-size trailer or a second vehicle. If you already have a bin or a bag to keep them in, the savings over the Husky are hard to ignore.",
     "specs": [
       "Drop-forged steel",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-+SYv0jbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BN1K65M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BN1K65M?tag=rvgearlab-amz-20",
     "description": "The Race-Driven chock is molded poly with bottom cleats and a 2 ton weight capacity. It folds for compact storage, and the molded plastic does not rust or scuff paint, which makes it a friendly choice around garage floors and driveways.\n\nCompared with the steel pairs from Husky and Big RED, it is lighter and gentler on surfaces, and the cleats on the bottom give it grip on loose ground. It is marketed for ATV and UTV use, so it fits the same family of smaller vehicles as the YOKOKO rather than a heavy motorhome. At about $25 for a single chock, it costs more per piece than the Big RED pair.\n\nThis is the pick for owners of small utility trailers, ATVs and light campers who want a rust-free folding chock. If you value a lighter carry and do not need the stiffness of steel, the Race-Driven makes sense.",
     "specs": [
       "Molded poly",

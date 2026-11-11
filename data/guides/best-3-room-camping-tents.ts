@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KDilbAb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXQ2HQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXQ2HQV?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP is a 20 x 9 ft tent with 180 sq ft of floor and a 72 inch center height. Two removable curtains turn it into three private spaces, and it fits 3 queen or 5 full air mattresses.\n\nIt is the biggest of the three at 12-person size, and the listing gives a clear 185T polyester with PU1000mm, sealed seams and rain strips. Against the BravArrk it adds floor and sleeps more, while the BravArrk has the stronger coating.\n\nFamilies who want separate zones for kids, adults and gear will get the most from it. The curtains also work as a projector screen.",
     "specs": [
       "20 x 9 ft, 180 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VBKPAjnVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4SX76FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4SX76FG?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 14 x 9 ft tent with a 72 inch center height that fits 8 sleeping bags or 3 queen air mattresses. It has a PU3000mm coating, fully sealed seams and a double-layer rainfly.\n\nThe 3000mm rating is the highest of the three, triple the CAMPROS number. Against the Loyeahcamp it has a bigger floor and a stronger coating, while the Loyeahcamp is an instant-style dome with fewer poles.\n\nFamilies that expect wet camps and want a divider curtain for privacy will like it. Color-coded parts help two people assemble it in minutes.",
     "specs": [
       "14 x 9 ft, 72 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4oZncOYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6DJF8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6DJF8J?tag=rvgearlab-amz-20",
     "description": "The Loyeahcamp is a 14 x 8 x 6 ft extended dome for 8 sleeping bags, with two curtains that divide it into 3 rooms. Its polyester has a PU2000mm coating, and a carry bag with two handles is included.\n\nIt is the least expensive of the three and uses only 5 poles, taking two people about 10 minutes. Against the BravArrk it has a smaller floor and a lower rating, while it keeps the curtain count of two.\n\nBudget families and weekend campers who want three spaces for little money are its audience. Large mesh panels on the roof, door and windows help airflow.",
     "specs": [
       "14 x 8 x 6 ft, 8 bags",

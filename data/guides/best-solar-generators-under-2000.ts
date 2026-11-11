@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AbN-SfMrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCM7X5L?tag=rvgearlab-amz-20",
     "description": "ABOK Ark3600 stores 3840Wh in LiFePO4 and delivers 3600W rated (4500W peak) from 15 ports, including one 30A outlet for an RV cord and four 20A outlets. It expands to 11,520Wh with extra batteries, has wheels and a telescoping handle, and ships in a bundle with a solar panel.\n\nIt is the only pick that exceeds 2 kWh by a wide margin, with nearly four times the energy of the EcoFlow and BLUETTI units at about three times the price. A 30A outlet lets it run a trailer cord directly.\n\nChoose it for a big RV, a cabin or full home outage coverage with a fridge and more. It suits owners who want one system that can grow.",
     "specs": [
       "3840Wh LiFePO4, 3600W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ANAjfl3eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-amz-20",
     "description": "Goal Zero Yeti 1500 offers 2000W of AC with a 3600W surge over four outlets, plus six USB ports with a 140W USB-C. A LiFePO4 battery rated for 4000 cycles recharges to 80 percent from a wall outlet in under an hour, in an IPX4-rated aluminum case.\n\nAt about $1500 it costs more than twice what the EBL does and carries a tougher body and a respected brand. The EBL holds more energy for less than half the price.\n\nPick it if durability and brand support matter on rough trips. It suits overlanding and job-site use.",
     "specs": [
       "2000W inverter, 3600W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417SXWOtkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Z19WRY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Z19WRY?tag=rvgearlab-amz-20",
     "description": "EBL stores 1843.2Wh in LiFePO4 and delivers 2400W from four AC ports, with 12 ports in all and a bidirectional inverter. A 200W panel is offered separately.\n\nAt about $680 it costs less than half of the Goal Zero and carries more energy than the 1024Wh units here. The ABOK adds 30A output and double the capacity.\n\nChoose it for a camper or backup that needs 2400W of AC. It suits owners who plan to add panels.",
     "specs": [
       "1843.2Wh LiFePO4, 2400W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20",
     "description": "EcoFlow Delta 3 Classic stores 1024Wh in LiFePO4 and delivers 1800W with a 3600W surge, a 100W USB-C port and a 0 to 80 percent recharge in 45 minutes. A UPS under 10ms and X-Boost for higher-wattage loads are included.\n\nAt about $499 it is the cheapest pick in this guide and holds a third of the Ark3600's energy at a third of its price. The BLUETTI kit adds a panel for $200 more.\n\nChoose it if you want brand support and fast charging without paying for capacity you will not use. It suits weekend camping.",
     "specs": [
       "1024Wh LiFePO4, 1800W AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ts7U2lIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-amz-20",
     "description": "BLUETTI's Elite 100 V2 kit pairs a 1024Wh station with a 200W solar panel. Output is 1800W AC with 2700W of Power Lifting, and 1200W TurboBoost AC charging or up to 1000W of solar input refills it in about 70 minutes.\n\nIt costs about $200 more than the EcoFlow and adds a panel, app control and a 10ms UPS. It holds a quarter of the Ark3600's energy at a quarter of the price.\n\nChoose it if you want the smallest bundle that charges from the sun and supports home backup. It suits RV weekenders.",
     "specs": [
       "1024Wh, 1800W, 2700W lifting",

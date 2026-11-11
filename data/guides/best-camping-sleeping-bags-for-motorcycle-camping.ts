@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO is an 83 by 30 inch envelope with a waterproof nylon shell and a polyester lining. It weighs 1.7 lb and compresses to 11 inches in height, and the maker states a 55 to 60F operating range.\n\nIt prints both weight and compressed height, which the JEAOUIA does not, so you can hold it against a saddlebag. Its smooth zipper and compression sack make it quick to pack and unpack.\n\nIt suits solo summer tourers who need a small, light bag. The waterproof shell sheds dew.",
     "specs": [
       "83 by 30 in envelope",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vAZ5ucejL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV9YZS9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV9YZS9H?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA measures 31.5 by 86.6 inches and is built from 210T nylon with a polyester pongee lining. The listing names traveling on a motorcycle as a use and gives a design temperature of 59 to 77F, with a drawstring hood and a foot zipper.\n\nIt is a little wider than the ECOOPRO and ventilates through the foot zipper, which helps on warm nights. Its height limit on the listing is 5 ft 11 in.\n\nIt suits riders on summer trips who want a roomy, light shell. A compression sack is included.",
     "specs": [
       "31.5 by 86.6 in, 210T nylon",

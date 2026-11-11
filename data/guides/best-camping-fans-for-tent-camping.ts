@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nXnmVvkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-amz-20",
     "description": "The VOSFEEL holds a 20,000mAh battery with two outputs that lists 12 to 58 hours of runtime. It has four speeds, a three-level LED lantern, a remote, a timer and a hanging hook.\n\nIt offers a better balance than the geonfi or the Coolice by combining a bigger pack with a remote and a lantern. Against the FRIZCOL, it gives up a little battery for the 2-output charging port.\n\nIt suits families in a larger tent who want a single hanging unit for light and cooling. The backpack-sized body stores easily.",
     "specs": [
       "20,000mAh, 12 to 58 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dffuFBRWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDRCR45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDRCR45?tag=rvgearlab-amz-20",
     "description": "The TYJONX has a 20,000mAh battery with a 5V/3A output, a stated runtime of up to 85 hours and 100 speed levels. It weighs 0.89 pounds and measures 1.77 inches thick.\n\nAt under a pound it is light for a 20,000mAh fan. The 100-speed dial gives a finer adjustment than the VOSFEEL's four steps.\n\nIt is for backpackers and cyclists who pitch a small tent and want long runtime in a slim body. The low-noise motor and large blades suit sleeping.",
     "specs": [
       "20,000mAh, up to 85 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24,000mAh pack rated for 11 to 60 hours, with four speeds, three timers and two LED light levels. The listing names noise under 30dB and a motor speed of 3950 r/min.\n\nIt has a bigger pack than the VOSFEEL and TYJONX. The noise claim under 30dB suits a quiet campground.\n\nIt suits families who sleep three or four nights without power. A remote and sturdy ABS body round out the package.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RY0AaHd7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F37WHCCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F37WHCCJ?tag=rvgearlab-amz-20",
     "description": "The geonfi is an 11 inch hanging fan with a 10,040mAh battery, USB-C charging and a 360 degree LED ring light. It lists up to 38 hours of runtime, a remote and 2, 4, 6 and 8 hour timers.\n\nIts ring design spreads light evenly around the tent. Compared with the Coolice, it has a smaller battery and a larger blade.\n\nIt fits campers who want a lantern-first fan with a power bank function. It is built with auto blade stop protection and FCC and CE listing.",
     "specs": [
       "10,040mAh, up to 38 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ha9f+oyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-amz-20",
     "description": "The Coolice has a 12,000mAh battery with a stated 65 hours, three speeds and a 5V/2A USB-C input. A nine-bead LED lantern is rated up to 600 lux, and the head turns 360 degrees.\n\nIt sits below the VOSFEEL on pack size and is more compact, with a built-in foldable hook. The lantern output is stated in lux, a rarity among the fans here.\n\nIt fits solo campers and pairs who need modest cooling for a two-person tent. The remote and timer are included.",
     "specs": [
       "12,000mAh, 65 hours",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419lXN6DeuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWQB9CC?tag=rvgearlab-amz-20",
     "description": "The FIALAME measures 9.25 by 3.53 inches and weighs 390g. A 7,200mAh battery charges over USB and runs four speeds, with three brightness levels and a remote with timers.\n\nIt is the lightest and most affordable pick here, and the small body fits a one-person tent. Against the Coolice, it trades pack size for a lower price.\n\nIt suits backpackers and solo campers who need light and airflow for a night or two. The remote handles speed, light and timers.",
     "specs": [
       "7,200mAh battery",

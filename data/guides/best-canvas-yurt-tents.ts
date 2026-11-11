@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cE0xEHinL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-amz-20",
     "description": "The WHITEDUCK Regatta is a yurt-style canvas bell sold in several sizes, with a standard wall height of 2 ft 7 in that is higher than a typical bell. It ships with a sewn-in groundsheet, stove jack, mesh windows, roof vents, poles, tool kit and weatherproof bag.\n\nAgainst the VEVOR it adds a PFC-free water-resistant finish and two-layer doors and windows, along with an electrical cable outlet. Compared with the WildFinder it is a more complete package.\n\nFamilies who want a proven canvas yurt with everything in the box will like it. Pick the size that matches your group.",
     "specs": [
       "Several sizes, 2 ft 7 in walls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 16.5 ft canvas yurt with walls 55 inches tall and a ridge at 9.2 ft. A 210G TC cotton roof breathes, while a removable floor, roll-up sidewalls and a ring of mesh openings open the tent up.\n\nIt gives more wall height than the WHITEDUCK and a bigger footprint than the VEVOR. Setup is simplified by a positioning sheet that marks the pegs.\n\nLarge groups and families who want to stand up and move around freely get the most from the wall height. A pre-installed stove jack adds winter use.",
     "specs": [
       "16.5 ft, 55 in sidewalls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XAMTpTOwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYHLZ4DL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYHLZ4DL?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 5 m (16.4 ft) TC canvas yurt for up to 8 people with a 3 inch flame-resistant stove hole and a 43 by 43 cm flap. Four mesh windows provide ventilation, and the kit includes 12 reflective ropes, 12 aluminum tensioners, a rain cap, stakes and a hammer.\n\nIt is the lowest priced of the three and close to the WildFinder in size. Compared with the WHITEDUCK it has fewer extras and no cable outlet, and it gives a huge floor for the price.\n\nBudget groups of up to eight who want a big canvas yurt will like the cost. The rope and tensioner set keeps it steady.",
     "specs": [
       "16.4 ft, up to 8 people",

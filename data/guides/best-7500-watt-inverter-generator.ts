@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zAI+DV9SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5YHZDQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5YHZDQS?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 7500 lists 7500 peak and 6000 running watts on gasoline, or 6750 peak and 5400 running on propane, from a 298cc engine with electronic fuel injection. It carries a TT-30R RV outlet, an L14-30R and a 5-20R, plus a CO sensor and up to 14 hours on a 4.75 gallon tank.\n\nAt $1049 it costs $349.01 more than the AIVOLT 7500 and $251 more than the WEN 6800. Pick this if you have a 30A rig and want fuel injection with no choke and a 3 year limited warranty. The caveat is that there is no 14-50R listed, so a 50A coach needs a different model.",
     "specs": [
       "7500W peak, 6000W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415pBLk5K4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMTW2YH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMTW2YH?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 7500 lists 7500 peak and 6300 running watts on gasoline, or 6800 peak and 5800 running on propane, from a 322cc engine. It adds a 14-50R outlet, a 30A twist lock and a CO Watch-Guard that shuts the engine off, plus wheels and a plug and play kit.\n\nAt $699.99 it undercuts the Westinghouse 7500 by $349.01 and the GENMAX 7250 by $600 while stating the highest running watts here. Pick this if you have a 50A coach and a tight budget. The caveat is that the listing title calls it a portable generator rather than an inverter, and no warranty term is listed.",
     "specs": [
       "7500W peak, 6300W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EH-da0UdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-amz-20",
     "description": "The GENMAX 7250 lists 7250 starting and 6000 running watts on gasoline, or 6000 and 5500 on LPG. It adds parallel capability, remote and electric start, a digital display with fuel level and load, a 50A socket, an ATS outlet and CO detection, with a 3 year warranty.\n\nAt $1299.99 it is the most expensive, $250.99 above the Westinghouse 7500 and $600 above the AIVOLT 7500. Pick this if you want to pair a second unit later or need the 50A socket and a fuel level readout. The caveat is that it falls 250 peak watts short of the 7500 mark and costs the most.",
     "specs": [
       "7250W peak, 6000W running",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN 6800 is a true inverter model listing 6800 surge and 5100 rated watts on gasoline, or 6000 and 4500 on propane, from a 224cc engine. It has a TT-30R RV outlet, an L14-30R, two 120V outlets, USB ports and a CO Watchdog shutdown, with wheels and a handle.\n\nAt $798 it is $251 under the Westinghouse 7500 but $98.01 above the AIVOLT 7500, and it gives up 900 running watts to the AIVOLT. Pick this if a 30A trailer with one air conditioner is your load and you want a real inverter with bonded neutral 240V. The caveat is that it is below the 7500 mark.",
     "specs": [
       "6800W surge, 5100W rated",

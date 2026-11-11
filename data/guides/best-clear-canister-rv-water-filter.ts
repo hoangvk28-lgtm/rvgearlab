@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418wjpG1s3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBBVTQY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBBVTQY7?tag=rvgearlab-amz-20",
     "description": "The CFS CC-10-CA and CCI-10-CLW kit pairs solid carbon block cartridges with a clear canister designed for them, so the media and housing arrive matched. The standard 10 inch format is the most common cartridge size made, so future refills are easy to source.\n\nCompared with the Pro Water Parts Clear Housing, it bundles carbon block cartridges rather than a single filter. The clear canister lets you check that the cartridge is seated and the O-ring sits flat in its groove.\n\nIdeal for owners who want to inspect the filter at fitting time and watch sediment build. It also suits anyone replacing a CCI-10-CLW canister.",
     "specs": [
       "Clear CCI-10-CLW canister",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4159hrbLO4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7SPVNHB?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts Clear RV Filter Housing is a standard 10-inch clear heavy-duty housing with 1/2 inch ports, a heavy-duty metal bracket and a plastic wrench. It ships with a 5 micron activated carbon filter and replaces the FRE-10H.\n\nUnlike the CFS kit, it is built to drop into the Forest River-style footprint, and it includes the filter and bracket in one box. The clear wall shows the carbon filter condition at a glance.\n\nBest for owners of travel trailers with a factory FRE-10H who want a direct clear swap. It also suits anyone who prefers to see their water filter at work.",
     "specs": [
       "Clear 10-inch housing",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KPraZYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-amz-20",
     "description": "The WLSINJL RV Water Filter System is a 5-stage setup that lists 0.01 micron filtration, handling up to 3,000 gallons without clogging. It supports 1 inch and 3/4 inch plumbing connections and includes a housing, three cartridges, a wrench, spare O-ring and brass adapters.\n\nNext to the CFS kit, it is a full system with high flow and a detachable handle for portability. It is the largest package on this list, with the most media for the money.\n\nA solid pick for travelers who want a complete multi-stage system and the freedom to move it between sites. It suits anyone who prefers a big capacity housing.",
     "specs": [
       "5-stage filtration",

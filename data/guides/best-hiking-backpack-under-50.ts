@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SJgowlm-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLNQK22D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLNQK22D?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 50L uses rip-stop 210D nylon and includes a rain cover. A thick padded back, adjustable breathable shoulder straps, elastic side holders for two sets of trekking sticks and reflective signs complete the feature list.\n\nIt ranks first for its mix of rain cover, trekking stick holders and a roomy zipper main compartment. Compared with the Loowoko, it costs a touch less and adds trekking stick support.\n\nIt suits weekend hikers who want a large daypack with real extras. A top zipper pocket and several organizers keep gear sorted.",
     "specs": [
       "50L rip-stop 210D nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DkmlxeXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-amz-20",
     "description": "The Loowoko 50L ships with a waterproof rain cover pouch at the base and uses tear-resistant polyester and nylon. A large main compartment, a separate shoe divider and six external pockets organize gear, and the listing says it suits 3 to 5 days of travel.\n\nIt offers more compartments than the Maelstrom 50L, including a shoe divider. It has no internal frame, as the listing states.\n\nIt fits travelers who want a bag that doubles as a hiker. Breathable mesh straps with sponge padding spread the load.",
     "specs": [
       "50L with rain cover",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAM9WKfaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J2LNGHY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J2LNGHY?tag=rvgearlab-amz-20",
     "description": "The Bseash 50L has an independent shoe compartment at the bottom, a spacious main compartment with multiple pockets and ergonomic padded straps. Four adjustable straps tie down a sleeping bag, mat, hammock or tripod.\n\nIt has the dedicated shoe space the Maelstrom lacks, and its four straps carry more outside gear than the SEMSTY. It uses water-resistant fabric for dust and rain.\n\nIt suits campers who want to separate muddy shoes from clothes. The pack handles 3 to 4 day trips by its listing.",
     "specs": [
       "50L with shoe compartment",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JbBkVyufL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RGMRPQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RGMRPQZ?tag=rvgearlab-amz-20",
     "description": "The RuRu monkey is a 50L pack made from premium ripstop and water-resistant polyester, designed for 2 to 3 day adventures. It has a large sleeping bag compartment, breathable materials and cushioned straps.\n\nCompared with the Bseash, it adds a dedicated sleeping bag compartment, which helps pack a bag low. Against the Loowoko, it costs less.\n\nIt fits overnight campers who carry a sleeping bag. Multiple pockets and compartments keep gear sorted.",
     "specs": [
       "50L ripstop polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zNMeP+9nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094VX17D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094VX17D6?tag=rvgearlab-amz-20",
     "description": "The SEMSTY expands from 14 by 8 by 21.5 inches (40L) to 14 by 8 by 25.5 inches (50L) using a bottom zipper. Premium nylon zippers, side buckles and padded breathable straps round out the listing.\n\nIt is the only expandable pick, offering a smaller carry for day hikes and a bigger one for trips. Compared with the Maelstrom, it has a lower price and no rain cover.\n\nIt suits travelers who want one bag for day hikes and carry-on trips. The side buckles keep contents compact.",
     "specs": [
       "40L expands to 50L",

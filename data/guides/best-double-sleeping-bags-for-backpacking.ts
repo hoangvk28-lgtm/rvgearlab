@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EC5rl163L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKGN26XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKGN26XK?tag=rvgearlab-amz-20",
     "description": "The MHTD double pairs a water-resistant cotton canvas shell with hollow synthetic insulation and a graphene polyester pongee interior. The listing prints 8.8 lb and a compressed size of 17.3 by 14.4 by 7.5 inches, and SGS test results of 14 to 46F.\n\nIt is the only pick with both a stated weight and a lab-tested temperature range, and the 14F low end is colder than the Sleepingo's 32F. Double-headed YKK zippers allow ventilation from either end.\n\nIt suits couples who plan a shorter carry on a cold-weather trip. The compression bag lets it ride in a large pack.",
     "specs": [
       "8.8 lb, compresses to 17 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CA02e4TKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJFD4MRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJFD4MRQ?tag=rvgearlab-amz-20",
     "description": "The Sleepingo is a waterproof queen bag measuring 87 by 59 inches, listed for cold climates of 32F and up. It includes two travel pillows and converts between a roomy queen and two individual bags.\n\nIt costs less than the MHTD and GEERTOP, and its pillows save packing two. No weight or packed size is printed, so a scale check is wise.\n\nIt suits couples who camp in a truck, a tent or on pads and want pillows in the box. The 32F figure marks its limit.",
     "specs": [
       "87 x 59 inch queen",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w31tbH9EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8FHH3SY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8FHH3SY?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is an 87 by 59 inch queen bag whose insulated top layer detaches in seconds to turn it into an open blanket. Two extra 75 by 47 inch thermal blankets let each sleeper choose a warmth level, and dual foot zippers vent heat.\n\nIt is the most expensive pick here, and the blankets add a flexibility that the MHTD lacks. The listing gives no weight or temperature range, so its warmth is a matter of adding layers.\n\nIt suits couples whose temperature preferences differ. The detachable top suits changing weather.",
     "specs": [
       "87 x 59 inch queen",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xnUFD9y4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRQZFTN?tag=rvgearlab-amz-20",
     "description": "Sized around 220 by 145 cm, the oaskys comes with a pair of pillows and a strapped compression sack. Its stated design range is 10 to 20 degrees C, and the bag pairs a 210T polyester outer with a 190T pongee inner.\n\nNothing else here costs less, and it splits into two singles like the Sleepingo. The 10 to 20C range keeps it in the mild-weather class, where the MHTD handles colder nights.\n\nIt suits budget couples on warm-weather short carries. The compression sack makes loading easier.",
     "specs": [
       "Roughly 220 x 145 cm",

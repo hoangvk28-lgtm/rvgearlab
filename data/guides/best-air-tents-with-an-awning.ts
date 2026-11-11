@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+2BZQumL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH497XFZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH497XFZ?tag=rvgearlab-amz-20",
     "description": "The DanCoom tent has a 118 by 87 by 75 inch interior for 4 to 6 campers and a 13 by 7 ft (91 square foot) detachable awning. It uses high-density Oxford with a 3000mm waterproof rating, a stove jack and a dormer window design.\n\nAgainst the SHANQUAN and Soboyo it names the awning size, which is the biggest in this list. It also costs less than both.\n\nIt suits a family that wants a big shaded space outside the sleeping room. The awning can be used as a sun canopy on its own.",
     "specs": [
       "118 x 87 x 75 inch, 4-6 person",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Zur4-I3qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMP78JF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMP78JF?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN tent measures 118 by 87 by 79 inches with a 43 inch side wall, 14 inches higher than standard. It is a four-season build with a 3-layer PVC air column, 3000mm waterproofing, six mesh windows and a stove jack rated to 300 C.\n\nIt has a higher interior than the DanCoom at 79 inches, and the removable awning adds shade. The listing also offers a version with a skylight.\n\nIt suits a family that wants headroom. The heat-rated stove jack suits cold-weather camps.",
     "specs": [
       "118 x 87 x 79 inch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145D1z1OAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-amz-20",
     "description": "The Soboyo inflatable tent has a detachable awning, a skylight window and a built-in stove jack, in 420D Oxford for 4 to 6 people. A pump comes in the package for quick inflation.\n\nIts listing names a skylight window and heavy 420D Oxford, the same fabric weight the Outvita lists. It costs a little less than the SHANQUAN.\n\nIt suits a family that wants stargazing and shade together. The listing keeps the setup simple.",
     "specs": [
       "4-6 person, 420D Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mYC7CIBZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV21J5M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV21J5M2?tag=rvgearlab-amz-20",
     "description": "The Outvita inflatable tent is 92.5 by 92.5 by 66.1 inches for 2 to 4 people and has a sun-shade awning, a stove jack and 420D Oxford with a PU3000mm coating. It inflates in 10 to 15 minutes and includes a repair kit.\n\nIt is far cheaper than the other three and smaller, with three mesh windows and a mesh door. The PVC air beams come with a repair kit for patches.\n\nIt suits a couple or a small family on a budget. An air tent with an awning is hard to find at this price.",
     "specs": [
       "92.5 x 92.5 x 66.1 inch",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415pBoECNsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTVWHBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTVWHBG?tag=rvgearlab-amz-20",
     "description": "The DABBSSON 2000L stores 2,048Wh in semi-solid LiFePO4 cells, with 2,200W rated and 3,300W surge output at 41 pounds. It refills in about an hour from AC, takes up to 800W of MPPT solar and switches to backup in under 15ms.\n\nIt carries twice the energy of the Anker, OUPES and AFERIY units, and at 41 pounds it outweighs the 25.57 pound AFERIY. A remote app handles monitoring and charge control.\n\nIt suits RV campers and long weekend groups who want a kitchen-capable battery. The listing says the pack runs 1.3 times longer than comparable 2,048Wh stations.",
     "specs": [
       "2,048Wh, 2,200W / 3,300W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wgUhMXy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 delivers 2,000W continuous and 4,500W surge from 1,024Wh of LiFePO4, with 0 to 80% in 36 minutes through AC or 26 minutes combined with solar. Two B2 Extra Batteries can bring capacity up to 5,120Wh without extra inverters.\n\nIt has the biggest surge number here and one of the quickest listed charges, with a 3,500-cycle pack. The Mega 1 Lite is a sibling that lists dual 140W USB-C and 1,400W AC input for a 46 minute full charge.\n\nIt suits campers who may add capacity later and need to start motors and compressors. Its UPS switchover is under 20ms.",
     "specs": [
       "1,024Wh LiFePO4, 2000W / 4500W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WCwJSqWbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C1000 Gen 2 lists 2,000W output, 3,000W peak and 1,024Wh over nine ports. This listing includes a 200W solar panel, and the pack is rated to keep at least 80% capacity after 4,000 cycles.\n\nIt is the one pick that ships with a panel, and its solar input accepts up to 600W for a full recharge in 1.8 hours. It is 14% smaller and 11% lighter than similar models per the listing.\n\nIt suits campers who want solar from day one and a well-known brand. The panel and station may arrive in two packages.",
     "specs": [
       "1,024Wh, 2,000W / 3,000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GiOCCzSeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD73836W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD73836W?tag=rvgearlab-amz-20",
     "description": "The AFERIY lists 1,800W AC output from 1,024Wh of LiFePO4 with 4,000 or more cycles, in a 25.57 pound body measuring 13.77 by 8.66 by 10.35 inches. It has four 1,800W pure sine wave AC outlets, a UPS under 10ms and a quiet mode below 30dB.\n\nAt 1,800W it is just under 2000W, so it is the nearest fit, and it sits about 15 pounds under the DABBSSON. It refills 0 to 80% in 55 minutes.\n\nIt suits campers who run quiet overnight loads near the tent. Thirteen ports include four AC outlets.",
     "specs": [
       "1,024Wh LiFePO4, 1,800W",

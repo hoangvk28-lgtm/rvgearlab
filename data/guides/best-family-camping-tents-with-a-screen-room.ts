@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3186Rn2eEnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTH9P1YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTH9P1YP?tag=rvgearlab-amz-20",
     "description": "This Portal tunnel runs 20 ft (14 plus 6) by 8 ft by 76 inches and holds 2 full-size airbeds. The 6 by 8 by 76 inch screen room is bug-free and doubles as a vestibule that shelters from rain and sun.\n\nAgainst the TIMBER RIDGE it states the screen room's own dimensions. Compared with the 6-person Portal it adds 5 ft of floor and a 2 ft longer screen room.\n\nIt suits a family of six that wants a screen room big enough for chairs and a table. Two adults can pitch it in about 10 minutes.",
     "specs": [
       "20 x 8 ft, 76 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mFqEtm+HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL5KL8L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL5KL8L9?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE uses 66D fabric with a water-resistant coating and upgraded fiberglass poles for gusty conditions. It has a full mesh ceiling, a removable rainfly, windows, doors and a built-in E-port.\n\nIt costs about 10 dollars more than the 8-person Portal and states pole upgrades and a tunnel shape designed for wind. Compared with the 6-person Portal it has the larger 8-person rating.\n\nIt suits families who plan longer stays and want power access. Color-coded poles and illustrated steps help two campers pitch it in about 15 minutes.",
     "specs": [
       "66D fabric, upgraded fiberglass poles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r9P9RprWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJSMKRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJSMKRT?tag=rvgearlab-amz-20",
     "description": "The Portal 6-person tunnel is 15 ft (11 plus 4) by 8 ft by 76 inches with a 4 by 8 by 76 inch screen room. It uses 66D fabric, fiberglass poles, a removable rainfly and a mesh ceiling.\n\nIt costs about 20 dollars less than the 8-person Portal and about 30 dollars less than the TIMBER RIDGE. Against both it has the shortest floor and the shortest listed setup, at about 5 minutes with two people.\n\nIt suits a family of four who wants a screen room at the lowest price. One E-port handles power.",
     "specs": [
       "15 x 8 ft, 76 in center",

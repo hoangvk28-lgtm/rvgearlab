@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 1,200 has sway control adjusted by clamp that can be turned off for backing. Camco's Eaz-Lift ReCurve TR3 is a weight distribution kit with clamp-adjusted sway control that can be turned off. The title lists the kit as 1,200 lb, while the text cites a 2-5/16 inch ball rated 15,000 lb and 1,500 lb tongue weight.\n\nIt adds an adjustable sway control that CURT Deep Drop 8K-10K lacks, but states no drop. The title and text give different ratings.\n\nBest for an owner who wants adjustable sway control. Use the lower, 1,200 lb figure for the hitch unless the seller confirms the higher one.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-XFMjWS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ML3LPQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ML3LPQC?tag=rvgearlab-amz-20",
     "description": "CURT's Deep Drop trunnion hitch has a 2 by 2 inch shank that flips to give up to 7 inches of drop or 10-1/2 inches of rise. CURT's deep drop trunnion bar hitch is sold for 8,000 to 10,000 lb trailers with 30-5/8 inch bars and a 2 by 2 inch deep drop shank. The shank flips for up to 7 inches of drop or 10-1/2 inches of rise, aimed at large lifted trucks.\n\nIt has far more height range than the Camco and CURT 17057 and is sold for 8,000 to 10,000 lb. It states no tongue weight.\n\nBest for a tall or lifted truck that needs lots of drop. Measure your ball height before choosing, because a 7 inch drop only helps if the trailer coupler sits that much below the receiver.",
     "specs": [
       "Deep drop trunnion, 8K to 10K lb",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-amz-20",
     "description": "CURT's 17057 is a 14,000 lb MV round bar hitch with a grease zerk and a 2 inch shank. CURT's 17057 is an MV round bar weight distribution hitch rated up to 14,000 lb with a 2-inch shank and a grease zerk fitting. The listing says grease must be applied to keep the bars lubricated.\n\nIt states no drop range and costs less than CURT Deep Drop 8K-10K. Its head adjusts for leveling.\n\nBest for a round bar owner who will grease it. It is a heavy-rated round bar option for owners who will keep up with greasing.",
     "specs": [
       "14,000 lb MV round bar",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LpsSL-iIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001EOV4NS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001EOV4NS?tag=rvgearlab-amz-20",
     "description": "CURT's 17123 is a 2 by 2 inch shank that flips for up to 7 inches of drop or 10-1/2 inches of rise. CURT's 17123 is a replacement shank for 2 by 2 inch receivers that flips to provide up to 7 inches of drop or 10-1/2 inches of rise. It is rated 15,000 lb GTW and 1,500 lb tongue weight, limited to the lowest-rated towing component.\n\nIt is a part, not a hitch, and has 3/4 inch head holes spaced 1-1/4 inches apart for height adjustment. It costs far less than a kit.\n\nBest for adding drop or rise to a compatible head. It is a shank only, so use it when you already own a compatible head and bars.",
     "specs": [
       "Replacement shank, 2 x 2 receiver",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ouuD4afDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010MEI1YK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010MEI1YK?tag=rvgearlab-amz-20",
     "description": "CURT's 17337 is a replacement short trunnion bar rated 15,000 lb GTW. CURT's 17337 is a replacement short trunnion spring bar, 28-3/8 inches long and rated 15,000 lb GTW. It comes pre-assembled with a spring bar chain and fits CURT trunnion bar hitches 17333 and 17422.\n\nIt is a part for CURT 17333 and 17422 and does not add adjustability. It costs less than CURT 17057.\n\nBest for replacing a damaged bar. Buy it only to replace a damaged bar on the listed models.",
     "specs": [
       "Replacement trunnion spring bar",

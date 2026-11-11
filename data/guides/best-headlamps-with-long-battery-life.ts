@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vlaOZh5YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BFJ37TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BFJ37TV?tag=rvgearlab-amz-20",
     "description": "The klarus HM1 lists up to 70 hours on low and 8 hours on medium, with 440 lumens, a 2.5 hour full charge and IPX6 waterproofing. It weighs 85 grams and includes a charging cable and a spare headband.\n\nIt states the longest low-mode runtime of the six and the fastest charge. A motion sensor and 3-second delay shutdown give hands-free control.\n\nIt suits multi-day campers and hikers who want a lightweight rechargeable with real runtime numbers. The 2-year replacement warranty adds confidence.",
     "specs": [
       "70 h low, 8 h medium",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qFVL9qLKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00TOOCBU0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00TOOCBU0?tag=rvgearlab-amz-20",
     "description": "The Energizer Vision HD+ lists 400 lumens, 3 hours on high and 35 hours on low, with an 85 meter beam and IPX4 water resistance. It runs on 3 AAA batteries that come in the box, and adds a red mode and digital focus with memory recall.\n\nIt is the only major-brand AAA headlamp here and the only one with memory recall for favorite settings. Its 35 hour low runtime is well below the klarus.\n\nIt suits campers who prefer swappable AAA cells on longer trips. The red light preserves night vision.",
     "specs": [
       "400 lumens, 3 h high, 35 h low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BiPYmsh4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ6KQ6DX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ6KQ6DX?tag=rvgearlab-amz-20",
     "description": "The SKNSL is a two-pack of rechargeable headlamps with high, low and strobe modes, a listed 45 hour runtime and IPX6 waterproofing. Charging takes 4 to 8 hours by USB, and a 90 degree tilt adjusts the beam.\n\nIt supplies two headlamps, which suits two campers, and its IPX6 rating matches the klarus. The listing claims 99000 lumens, a figure far above what small headlamps deliver, so judge it by its runtime and charge details.\n\nIt suits couples or friends who want matching rechargeable headlamps. The listing states a 45 hour runtime for each lamp.",
     "specs": [
       "Two rechargeable headlamps",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bwuibmGJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ8YVNJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ8YVNJD?tag=rvgearlab-amz-20",
     "description": "The ATDOALL is a rechargeable headlamp with a 2A Type-C cable, five lighting modes and a motion sensor. It is rated IPX5 and has a 90 degree adjustable head and an elastic headband.\n\nIt charges by Type-C, which most phones now use, where the SKNSL uses USB. Its modes include moonlight and SOS beyond high and low.\n\nIt suits campers who share Type-C chargers with phones. The motion sensor allows hands-free on and off.",
     "specs": [
       "Type-C 2A fast charging",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SO0CsXiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBF2XCK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBF2XCK4?tag=rvgearlab-amz-20",
     "description": "The Eirnvop is a 9-LED headlamp running on 3 AAA alkaline batteries, with up to 20 plus hours on high and six modes. It has an IPX5 body, a 60 degree tilt, a shatterproof lens and a 1 meter drop rating at 3.3 ounces.\n\nIt lists a longer high-mode runtime than the Energizer's 3 hours, and it costs less than any other pick. The listing claims 2000 lumens, which is a marketing figure.\n\nIt suits budget campers who want hands-free light on AAAs with several modes. It weighs 3.3 ounces with batteries.",
     "specs": [
       "9 LEDs, 20+ h on high",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416UZ8E-6RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KQVSDF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KQVSDF2?tag=rvgearlab-amz-20",
     "description": "The yalumi Spark lists 105 lumens with a 140 lumen max, a CREE LED with a 90 meter spot, three modes and IPX4 water resistance. It weighs less than 2.7 ounces and has a push-button mode switch.\n\nIt is the lightest headlamp here and keeps the claims modest. It leaves runtime hours unstated, so it does not match the klarus for planning.\n\nIt suits ultralight hikers who want a small headlamp for camp tasks. CE and RoHS compliance are listed.",
     "specs": [
       "105 lumens, 140 max",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vdbl4u9CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1FRBMG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1FRBMG3?tag=rvgearlab-amz-20",
     "description": "The ZapLitho 12V 22Ah weighs 5.5 pounds and measures 3 x 7.1 x 7 inches, with an LCD voltmeter and a 30A BMS. Standard M5 terminals and 4P4S expansion let you build a bigger bank later.\n\nAt $55.99 it is $1.00 above the ERYY 22Ah and $2.50 below the ABKPOWER 20Ah, which only has a 20A BMS. You get the voltmeter on the case. Pick this if you want a quick state check without a monitor. Caveat: M5 terminals are small, so use the right lugs and torque.",
     "specs": [
       "12V 22Ah, 30A BMS",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f4R0R17KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGJ36GS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGJ36GS1?tag=rvgearlab-amz-20",
     "description": "The ERYY 12V 20Ah (22Ah actual) uses a 30A BMS and an LCD voltmeter, and weighs 5.5 pounds, about a third of a comparable lead-acid unit. It also supports 4P4S expansion.\n\nAt $54.99 it is $1.00 below the ZapLitho 22Ah and $3.50 under the ABKPOWER 20Ah. It matches ZapLitho's BMS for a dollar less. Pick this for the lowest price at 30A. Caveat: the title says 20Ah while the bullet says 22Ah, so confirm the label on delivery.",
     "specs": [
       "12V, 22Ah true capacity",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41agzLn1bsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKN75GCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKN75GCB?tag=rvgearlab-amz-20",
     "description": "The ABKPOWER 12V 20Ah stores 256Wh, weighs 5 pounds and lists 6000+ cycles at 80% DoD with a 20A BMS. Up to four units connect in parallel for 80Ah.\n\nAt $58.49 it costs $3.50 more than the ERYY and $2.50 more than the ZapLitho but offers a lower 20A BMS. You pay for the cycle claim and the half pound saved. Pick this if you want lighter weight and a stated cycle count. Caveat: 20A is the tightest current limit, and the cycle rating is a manufacturer claim.",
     "specs": [
       "12V 20Ah, 256Wh",

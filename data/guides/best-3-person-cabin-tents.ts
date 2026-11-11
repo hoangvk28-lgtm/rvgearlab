@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p8T+eYNiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNM88FS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNM88FS9?tag=rvgearlab-amz-20",
     "description": "The Vidalido is listed for 3 to 4 people and measures 7.8 by 7.8 feet by 70.8 inches high, or 60.8 square feet. It uses 190D polyester and 150D Oxford with a 1200mm polyurethane coating, and the floor fits a queen air mattress or 3 to 4 sleeping bags.\n\nIt is the only pick whose listing says 3 to 4, and the floor is square, wider than the CORE and UNP's 8 by 7 ft plan on one side. Two people can set it up in about 5 to 8 minutes.\n\nIt suits a family of three who want a lobby for sitting out of the rain. One mesh door, two large mesh windows and a mesh top handle the airflow.",
     "specs": [
       "7.8 x 7.8 ft, 70.8 inch peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YLYvWCB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBFTJTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBFTJTR?tag=rvgearlab-amz-20",
     "description": "The CORE 4-person cabin tent measures 8 by 7 feet with a 72-inch center height and a nearly straight-wall design. The listing says it fits one queen air bed and comfortably holds 2 people with gear or up to 4 without gear.\n\nWeather defense comes from H2O Block fabric rated 1200mm, plus taped rainfly seams, guylines and steel stakes. A gear loft with storage pockets is also built in, and the UNP matches its footprint while the Vidalido has a slightly larger square floor.\n\nIt suits a family of three that packs light. The stated 2-with-gear and 4-without capacity brackets three sleepers.",
     "specs": [
       "8 x 7 ft, 72 inch center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qy-usMKjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRZ1P38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRZ1P38?tag=rvgearlab-amz-20",
     "description": "The UNP listing covers a 2, 4, 6 and 8 person size family, and the 4-person tent is 8 by 7 by 72 inches with nearly straight walls. It weighs 13 lb, uses four steel leg poles and has one large mesh door, two mesh windows and a mesh top.\n\nIt matches the CORE's floor and height at a much lower price, with a one-year warranty. The listing says one person can set it up in about 5 minutes.\n\nIt suits a budget family of three. The light frame makes car camping easy.",
     "specs": [
       "8 x 7 x 72 inch, 4-person size",

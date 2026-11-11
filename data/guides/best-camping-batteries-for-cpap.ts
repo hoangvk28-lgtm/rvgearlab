@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31E+5ZhQK0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN2T2TZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN2T2TZZ?tag=rvgearlab-amz-20",
     "description": "The BLUETTI X30 is a 297Wh CPAP battery with three DC outputs (12V/5A, 15V/4A, 24V/4A) and a USB-A port. It weighs 3.9 lbs and ships with five labelled cables and an accessory bag.\n\nIt holds about the same energy as the EASYLONGER ES960 and nearly double the Freedom. The multiple DC voltages let it match more devices.\n\nIt suits campers who want labelled cables and several voltages. The listing names ResMed and Philips models, so check your exact model with the maker.",
     "specs": [
       "297Wh, three DC outputs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qYyeKqxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-amz-20",
     "description": "The EASYLONGER ES960 is a 297.6Wh LiFePO4 pack with four CPAP cables and six output ports. The listing names ResMed AirSense 10 and 11, AirMini, Philips DreamStation 1 and 2, and Luna G3 as compatible, with a note that heated tubes are not supported.\n\nIt uses LiFePO4 with 3000+ cycles, a chemistry the Freedom does not name. It exceeds the 160Wh airline limit, which the Freedom stays under.\n\nIt suits car campers who want a power station and CPAP battery in one. It also lists compatibility with devices under 180W.",
     "specs": [
       "297.6Wh LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t3qopCAIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4S7D5C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4S7D5C4?tag=rvgearlab-amz-20",
     "description": "The Freedom CPAP Battery is a 160Wh pack within the FAA carry-on limit. The listing names compatibility with ResMed AirSense 10 and 11, AirMini, AirCurve 10 ASV, Philips DreamStation 1 and 2, Luna G3 and Luna TravelPAP.\n\nIt holds about half the energy of the BLUETTI X30. It is the one that fits airline rules.\n\nIt suits campers who fly to a trip. It also suits bedside outage protection.",
     "specs": [
       "160Wh, FAA carry-on size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZtLxeqjXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-amz-20",
     "description": "The MARBERO M823 is a 237Wh power station with two 300W AC outlets (375W peak), USB-A QC3.0 ports and a built-in BMS. It lists three recharge methods, two LED lights and a title that names CPAP among its uses.\n\nIt costs the least and offers AC outlets that the CPAP-specific packs lack. It is a general station, not a CPAP-specific pack.\n\nIt suits campers who also want a station for lights and phones. The title names CPAP among its uses.",
     "specs": [
       "237Wh, two 300W AC outlets",

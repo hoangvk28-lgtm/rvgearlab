@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5198KM7yQOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL252873?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL252873?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST set has 18 stakes plus 2 spares of aerospace-grade aluminum in a 7.1-inch Y-beam profile, with a notched top and a reflective pull cord on each. Each stake weighs 0.39 oz.\n\nIt has the strongest shape of the six, since a three-sided Y-beam grips better than a round or hex rod. The 20 count matches the RITDVNI and doubles the 10-pack SZXXZZMY at the same shelf price.\n\nIt suits a car camper or backpacker who wants enough stakes for a tent, a rainfly and a canopy with spares. The reflective cords keep stakes visible at night.",
     "specs": [
       "20 pack, 7.1-inch Y-beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152atVyc2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T15J92X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T15J92X?tag=rvgearlab-amz-20",
     "description": "The Airoads set has eight 9.06-inch stakes in 7075 series aluminum, weighing 33g each, with a pointed tail, a top hook and a storage bag. The 9-inch length reaches deeper than the 7-inch sets.\n\nIt is the longest stake of the six, so it holds better in loose soil. At eight pieces it has fewer than the AVOFOREST, and it has no pull cord.\n\nIt suits a backpacker or beach camper who needs depth over count. The top hook takes a guyline directly.",
     "specs": [
       "8 pack, 9.06 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UMHwsISJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KYJ5GNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KYJ5GNC?tag=rvgearlab-amz-20",
     "description": "The BIFUNIE set has twelve 7-inch stakes in 7075 aluminum with a three-sided extruded shape, three notches at the top and reflective pull ropes. A carrying pouch comes with it.\n\nIt uses the same three-sided shape as the AVOFOREST at a smaller count. It costs less than the Airoads.\n\nIt suits a camper who wants a Y-beam style stake in a mid-size set. The listing recommends care when pushing them into the ground.",
     "specs": [
       "12 pack, 7-inch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HBxn1EnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7VRN8FN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7VRN8FN?tag=rvgearlab-amz-20",
     "description": "The RITDVNI set has twenty 7-inch by 0.23 inch aluminum stakes with hooks in a hexagon rod shape and a spiked conic tip. The listing says it is rust and acid resistant.\n\nIt matches the AVOFOREST on count at a lower price. It uses a hex rod rather than a Y-beam, which holds less in loose soil.\n\nIt suits a budget camper who needs many stakes for a canopy, tarps and a garden edge. The hooks take a guy line.",
     "specs": [
       "20 pack, 7 by 0.23 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lXg0cfHdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZDNHBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZDNHBD?tag=rvgearlab-amz-20",
     "description": "The SZXXZZMY set has ten blue 7-inch aluminum stakes with hooks, a 6mm hex rod and a plastic storage box. The blue finish stands out in grass.\n\nIt is the same hex rod class as the RITDVNI with half the count and a box. It costs more than the RITDVNI per piece.\n\nIt suits a camper who wants easy-to-spot stakes and a box that keeps the set tidy. It also works for garden and yard use.",
     "specs": [
       "10 pack, 7 inches, 6mm",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-J08DTQiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRFDVJPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRFDVJPQ?tag=rvgearlab-amz-20",
     "description": "The JIONHENK set has six hollow 7075 aluminum tube stakes with black pull cords. The hollow tube cuts weight while staying stiff, aimed at backpackers.\n\nIt is the lowest price of the six per pack and aims at the lowest weight. It has the smallest count, so a larger tent needs more than one pack.\n\nIt suits an ultralight backpacker with a small tent and a tarp who wants the lightest metal stake. It stays stiff on compacted or rocky ground, as the listing says.",
     "specs": [
       "6 pack, hollow 7075 tube",

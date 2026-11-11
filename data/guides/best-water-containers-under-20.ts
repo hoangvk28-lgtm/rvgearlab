@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415duQT3hRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHFLDXT?tag=rvgearlab-amz-20",
     "description": "Each pack holds a pair of 5.3 gallon BPA-free bladders that come with a tap, a loop for hanging and strengthened handles. The opening is wide enough to fill from a spigot and to reach a hand inside for scrubbing, and the thickened walls are meant to survive repeated folding.\n\nAt about $19 it gives you more than 10 gallons of storage for the price of one mid-size jug, and each container folds flat. The CoreMuse is lighter to carry, and these two are the bulk storage option.\n\nFamilies and groups at a drive-up campsite will use both containers for dishes, hand washing and drinking. The hook lets you hang one from a tree or a tailgate.",
     "specs": [
       "Two 5.3 gallon containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kRsSjePVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-amz-20",
     "description": "The ACVOINRR pair is molded from LDPE4 free of BPA, PVC and DEHP and fitted with a PP tap that reads On and Off. Each jug flattens to about 3 cm, and you can order them in 10 L (2.6 gallon) or 20 L sizes.\n\nAt about $17 it costs $2 less than the Alaeseje and gives you the choice of a smaller 10 L size. It has no hanging hook, and the Alaeseje does.\n\nBackpackers and campers who want a pair of smaller jugs will like the 10 L size. Choose the size when you order, since the title does not show it.",
     "specs": [
       "LDPE4, free of BPA, PVC, DEHP",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wo7m2-uvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H355FBR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H355FBR9?tag=rvgearlab-amz-20",
     "description": "CoreMuse is a 12 L container holding 3.17 gallons, with a built-in spigot and multi-layer food-safe construction. The brand states it carries 50 percent more water than its 8 L jug, and it comes with a lifetime warranty.\n\nAt about $12 it costs less than any two-pack and holds a size that most campers can carry with one hand. It holds less than the Alaeseje containers.\n\nSolo campers, hikers and couples who want one easy-to-carry water source will like it. It fits in a car door pocket.",
     "specs": [
       "12 L, 3.17 gallons",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410+vcMoMxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F27M8PQW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F27M8PQW?tag=rvgearlab-amz-20",
     "description": "Cosell uses transparent food-grade PVC so you can see the water level, with a one-button faucet, a hook and a folded thickness of 3 cm. It comes in a 10 L (2.6 gallon) size for short hikes and larger options up to 20 L.\n\nIt costs about $20, the top of this budget, and gives you a see-through body that the opaque containers lack. The CoreMuse has a larger capacity for $8 less.\n\nCampers who like seeing the water level and want a one-button tap will like it. It suits day hikes and short camps.",
     "specs": [
       "Transparent food-grade PVC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pUJfpremL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H2YPMRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H2YPMRM?tag=rvgearlab-amz-20",
     "description": "MYSHAKER is a rigid 1 gallon (128 oz) BPA-free jug with a flip-top lid, a wide mouth and a handle strap. Time markers on the side remind you to drink through the day.\n\nAt about $20 it is the only rigid pick and the smallest by volume, which makes it a drinking bottle more than a camp reservoir. The collapsible containers hold more and pack flatter.\n\nHikers, fishers and day-trippers who want a daily hydration jug will like the time markers. It also works in a car cupholder.",
     "specs": [
       "1 gallon (128 oz), rigid",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WNyllh5WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC9S8K3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC9S8K3?tag=rvgearlab-amz-20",
     "description": "MIAJO is a collapsible 2 gallon water jug with an upgraded leak-resistant spigot that folds flat for camping gear, backpacks and RVs. It is made for car camping and outdoor adventures.\n\nAt about $10 it is the cheapest pick and holds 2 gallons, less than any of the two-packs. It has no hook or handle features.\n\nFirst-time campers and festival goers who need a basic water jug will like it. It is a simple spare jug.",
     "specs": [
       "2 gallon collapsible jug",

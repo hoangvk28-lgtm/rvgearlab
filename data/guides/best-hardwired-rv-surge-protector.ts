@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4132XaZ5qTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-HW30C is a 30 amp, 120V hardwired unit rated 3,600W and 1,790 joules. It watches for over and under voltage, open ground and neutral, reverse polarity, miswired pedestals, accidental 120V on the wrong leg, surge failure and AC frequency problems, and it carries thermal protection and a built-in display.\n\nAt $133.62 it is the cheapest pick, $33.37 under the Southwire, while also listing a fuller fault detection list. Pick this if your RV has a 30 amp service and you want protection that cuts power on a wiring fault, not only on a spike. Its 1,790 joules is lower than the Southwire's 2,450, so it leans on detection over raw absorption.",
     "specs": [
       "30A, 3,600W, 120V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RStr9eSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOHW is a 30 amp hardwired EMS with WiFi monitoring and wireless fault alerts. It uses a replaceable surge module, so after a spike you swap the module rather than the whole unit, and it installs inside the RV so the unit cannot be stolen.\n\nAt $279.99 it costs $146.37 more than the Progressive HW30C, and the listing publishes no joule rating or reset delay. Pick this if you want to see voltage on your phone and keep a spent module from becoming a full replacement. The WiFi link only works when you have a network at the site, and the listing does not give a joule number to compare.",
     "specs": [
       "30A hardwired EMS",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ensq4+TmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-HW50C covers 50 amp, 120/240V service at 12,000W and absorbs surges up to 3,580 joules. It lists the same fault checks as the 30 amp model plus accidental 240V protection, with thermal protection and an integrated display, and it is made in the USA.\n\nAt $172.00 it costs $38.38 more than the HW30C and delivers double the joule rating (3,580 against 1,790). Pick this if your rig has a 50 amp service, since a 30 amp unit cannot carry that load. It is the only 50 amp hardwired option here, and it has no app or WiFi.",
     "specs": [
       "50A, 12,000W, 120/240V",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TLGhdhwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BDWQL8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BDWQL8S?tag=rvgearlab-amz-20",
     "description": "The Southwire Surge Guard 35530 is a 30 amp hardwire unit with 2,450 joules, multi mode surge suppression and automatic reset when power returns. Its 128 second reset delay holds power off long enough to protect an air conditioner compressor from a quick restart.\n\nAt $166.99 it costs $33.37 more than the Progressive HW30C and lists a higher joule rating (2,450 against 1,790), but the listing names no fault detection items like open ground or reverse polarity. Pick this if joules and a long reset delay matter most. The listing publishes fewer details than Progressive on what it will detect.",
     "specs": [
       "30A hardwire",

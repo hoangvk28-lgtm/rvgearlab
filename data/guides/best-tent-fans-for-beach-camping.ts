@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zobFpdklL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT33HGT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT33HGT9?tag=rvgearlab-amz-20",
     "description": "The KopBeau has a 20000mAh battery, a 2500 RPM motor and 4.7 m/s airflow, with a handle and hanging hook. It charges in 8 to 9 hours with its own cable and a 5V/2A adapter, and the listing gives up to 60 hours or more.\n\nIts airflow figure is a real number, which the TDLOL and Odoland do not give. The handle and hook let it hang from a canopy pole or stand on a table.\n\nIt suits a beach camper who wants a lot of airflow and battery from one fan for the day and the night. Pair it with a 5V/2A adapter as the listing asks.",
     "specs": [
       "20000mAh, up to 60 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GtvKY9ATL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W41D6XT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W41D6XT?tag=rvgearlab-amz-20",
     "description": "The Odoland is a 2-in-1 fan and lantern with a 6000mAh battery that runs 7.5 to 23 hours of cooling and 41 to 124 hours of lighting. It weighs 1.2 lbs, charges in 4 hours over USB-C and has a carabiner clip for hanging.\n\nIt is much smaller than the KopBeau, with four speeds and three color temperatures that suit an evening on the beach. The under 60 dB noise listing and the compact body make it an easy tote-bag fan.\n\nIt suits a day-trip beach tent camper who wants light after sunset and a fan in the afternoon. The clip fits a pole or umbrella frame.",
     "specs": [
       "6000mAh, 7.5 to 23h cooling",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Wf3afOp9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSSW6DR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSSW6DR1?tag=rvgearlab-amz-20",
     "description": "The TDLOL is a rechargeable camping fan with a 270 degree head rotation, a hanging hook and a foldable handle. It has adjustable speeds, three brightness levels and a brushless motor with low noise.\n\nIt is the most carry-friendly design of the five, since the handle folds flat and the hook hangs from a pole. It gives fewer specs than the KopBeau and Odoland, so it ranks lower on detail.\n\nIt suits a beach camper who moves the fan between a chair, a table and a tent. The 270 degree rotation helps aim it at a lounger.",
     "specs": [
       "270 degree head rotation",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dVWaQCOiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQB3H8SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQB3H8SF?tag=rvgearlab-amz-20",
     "description": "The Yinenio is a misting fan with a 250mL water tank, nano-mist atomization and a 20000mAh battery that doubles as a power bank. It has timers of 1, 2, 4 and 8 hours, three LED colors, 360 degree rotation and 90 degree oscillation.\n\nIt is the only pick that cools with mist as well as air, which suits dry, hot beaches. It is bigger than the others at 4.4 by 8.4 by 11.1 inches and the most expensive of the five.\n\nIt suits a beach camper who wants a cooling burst on hot afternoons and can carry the tank. Keep it hanging on the hook or standing on a table.",
     "specs": [
       "250mL tank, nano mist",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315R9AKhXhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-amz-20",
     "description": "The Yueidung is a ceiling fan with four speeds including a natural wind mode, three light modes and a remote with timer. An 8000mAh battery charges in 4 hours for up to 10 hours of use.\n\nIt is the lowest price of the five, and its remote is a feature neither the KopBeau nor the TDLOL lists. It is aimed at hanging from a tent ceiling rather than carrying around.\n\nIt suits a beach tent camper who wants a fan and a night light on a tight budget. Its natural wind mode gives a gentler breeze at night.",
     "specs": [
       "8000mAh, up to 10 hours",

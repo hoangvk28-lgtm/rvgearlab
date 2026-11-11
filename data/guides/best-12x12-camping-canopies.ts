@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DXbVzcZSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP5W8F9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP5W8F9R?tag=rvgearlab-amz-20",
     "description": "The Crown Shades side-wall canopy covers 144 sq ft and is listed for up to 12 people. A one-push CenterLOK hub locks all four legs, and the Sto-N-Go system lets you store it with fabric still on the frame.\n\nIt has no overhead crossbars, giving 9 ft 4 in of interior height and 6 ft 3 in of clearance under the valance. Compared with the other Crown Shades, it adds a side wall and a dedicated storage pocket for anchor gear.\n\nBeach and park campers who pitch every weekend will value the fast, tool-free routine. The silver-coated interior gives UPF 50+ shade.",
     "specs": [
       "144 sq ft, up to 12 people",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vOcRLW5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP5WSK25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP5WSK25?tag=rvgearlab-amz-20",
     "description": "This Crown Shades canopy is 12x12 ft with a 144 sq ft footprint, over 9 ft of interior height and 6.3 ft of clearance. Its 150D silver-coated fabric carries UPF 50+ and a CPAI-84 flame resistance and water repellency rating on a corrosion-resistant steel truss frame.\n\nIt shares the footprint of the side-wall model and adds a stated fire rating for the fabric. Against the Benass it has the same size and a steel truss frame with pre-assembled bolts.\n\nEvent and camp hosts who care about flame-resistant fabric will find the label useful. It also ships with a storage bag.",
     "specs": [
       "150D UPF 50+, CPAI-84 fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510PhhnlLeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNHZ58VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNHZ58VG?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 12x12 ft pop-up gazebo with mosquito netting, six removable wind panels and two mesh windows. High-density polyester mesh blocks UPF 50+ sun while fiberglass poles and luminous stakes keep it steady.\n\nIt is the one here that closes completely against bugs, while the Crown Shades models are open-sided or lightly walled. Against the GDY it uses cloth panels for wind and netting for bugs instead of clear PVC walls.\n\nCampers in mosquito country who still want a 12x12 footprint get a living room from it. Panels come off when the air is still.",
     "specs": [
       "12x12 ft pop-up gazebo",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H2b8KWwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7RP8ZYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7RP8ZYL?tag=rvgearlab-amz-20",
     "description": "The Benass is a straight-leg 12x12 canopy with a height range of 8.7 to 9.32 ft, listed for 10 to 12 people. Two-way vents let wind pass, and it includes 4 sandbags, wind ropes and spiral ground nails.\n\nIt ships with a fuller anchor kit than the Crown Shades One-Push and costs less. Compared with the GDY, it has a vented top and bag with three handles, with no transparent walls.\n\nWeekend campers in breezy spots can set it up right away with the included anchors. The upgraded bag has a top handle and 2 side handles.",
     "specs": [
       "12 x 12 ft, 9.32 ft peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rI-iGL-+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPWW6X8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPWW6X8P?tag=rvgearlab-amz-20",
     "description": "The GDY is a 12x12 ft pop-up canopy with four PVC transparent sidewalls in 420D water-resistant fabric. A center-lock button lets one person set it up, and anti-pinch buttons protect hands.\n\nIt is the lowest-priced 12x12 here and the only one with clear walls, so you keep a view in rain. Against the Benass it adds four walls and a wheeled carry bag, and has no named anchor kit.\n\nBudget campers who want to pitch alone and stay dry will get the most from it. The wheels ease the walk from car to site.",
     "specs": [
       "12 x 12 ft, four clear walls",

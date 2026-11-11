@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
     amazonQuery: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
-    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60 Hz",
     amazonQuery: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60 Hz",
-    amazonUrl: "https://www.amazon.com/dp/B07W5WSPJ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B07W5WSPJ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41v3pSuXQ6L._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60Hz",
     amazonQuery: "PowerMax PMTS-50 50 Amp Automatic RV Transfer Switch 120/220Vac 60Hz",
-    amazonUrl: "https://www.amazon.com/dp/B00IJ7UJM0?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B00IJ7UJM0?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51eedV73-FL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "50 Amp Automatic Transfer Switch",
     amazonQuery: "50 Amp Automatic Transfer Switch",
-    amazonUrl: "https://www.amazon.com/dp/B0FX4J29PY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FX4J29PY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41idz0-HiaL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "KUTTOLE RV 50 Amp Transfer Switch Automatic Transfer Switch",
     amazonQuery: "KUTTOLE RV 50 Amp Transfer Switch Automatic Transfer Switch",
-    amazonUrl: "https://www.amazon.com/dp/B0DFTJ5WKZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFTJ5WKZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41MWK13t9BL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral product page",
-    "href": "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

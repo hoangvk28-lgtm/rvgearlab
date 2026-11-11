@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31l64X0CP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2751FK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2751FK1?tag=rvgearlab-amz-20",
     "description": "The TYTAN Professional Flex Spray is an 11.3 ounce black aerosol that dries into a flexible rubberized coating. Its listing says it seals leaks, cracks and gaps on roofs, gutters, flashing, vent pipes, RVs, masonry, metal, PVC and wood.\n\nIt is the only true spray sealant in this group. It stays flexible after curing to resist cracking.\n\nIt fits owners who need a fast aerosol for small leaks. With spray on rv roof sealant, quick small leaks fits it best.",
     "specs": [
       "11.3 oz black aerosol",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxbmOjHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-amz-20",
     "description": "The Ziollo RV roof sealant is a 100 percent silicone liquid rubber coating with a self-leveling formula. Its listing describes a highly reflective white rubberized surface that moves with the camper through heat and cold.\n\nIt is a pour-and-spread coating, not an aerosol. It is the largest-coverage product here.\n\nIt fits owners coating a larger leak area. Among spray on rv roof sealant, think larger leak areas.",
     "specs": [
       "100% silicone liquid rubber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517mWhq6oNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-amz-20",
     "description": "The Erigathe self-leveling sealant is a white lap caulk for camper and trailer roofs. Its listing says it is tack-free in 2 hours, withstands a wide temperature range and is paintable.\n\nIt seals roof edges, vents, skylights and trim. It is the cheapest sealant tube here.\n\nIt fits owners who want a low-cost tube for roof details. For spray on rv roof sealant, it suits roof detail sealing.",
     "specs": [
       "White self-leveling caulk",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PDBD+IBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY 4 pack self-levels within 30 seconds after extrusion and is UV resistant. Its listing names bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood.\n\nIt gives four tubes for a modest price. It is low odor and non-toxic.\n\nIt fits owners resealing several roof details. Among spray on rv roof sealant, think several roof details.",
     "specs": [
       "4 pack, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DNuJKNcxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-amz-20",
     "description": "The Dicor Roof Guard is a 1 gallon protectant spray that helps protect RV roofs from sun, water and grime. Its listing says it helps avoid oxidation and leaves no residue or oily build-up.\n\nIt is a maintenance product, not a sealant. It works with other Dicor care products.\n\nIt fits owners who maintain a rubber roof after sealing. Under spray on rv roof sealant, expect roof maintenance to suit it.",
     "specs": [
       "1 gallon protectant spray",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tg5PRDrCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB0ZG?tag=rvgearlab-amz-20",
     "description": "The Dicor deep cleaning rubber roof cleanser is a 1 gallon spray refill that removes dirt and grime. Its listing says it is safe for all RV roofing and exteriors and preps for coating.\n\nIt is a cleaner, not a sealant. It is useful before any sealant or tape.\n\nIt fits owners prepping a roof. For spray on rv roof sealant, it suits roof prep.",
     "specs": [
       "1 gallon cleaner refill",

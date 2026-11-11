@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001DMFO6O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001DMFO6O?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW0550 SwayPro states 5,500 lb gross towing and a 550 lb tongue weight with a 2-inch receiver. Blue Ox's BXW0550 SwayPro is a light-duty weight distributing hitch with spring bars rated 550 lb tongue weight and 5,500 lb gross towing. It has a 2-inch receiver and 7-hole shank.\n\nIt is the only kit here rated under 1,000 lb, so its bars are the least oversized for a 400 lb tongue weight. It costs more than the 1,000 lb class kits.\n\nBest for a light trailer with a tongue weight of 400 to 550 lb. It is a match for small trailers with a tongue weight under about 550 lb.",
     "specs": [
       "5,500 lb, 550 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QbuWYLpDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-amz-20",
     "description": "RVGUARD's 1,000 lb kit includes sway control, a 2-inch shank and a 2-5/16 inch ball. The listing describes the sway control as adjustable and the shank as universal for standard 2-inch receivers.\n\nIt is rated well above a 400 lb load and costs a fraction of Blue Ox BXW0550. Its listing gives no gross rating.\n\nBest for a budget buyer who accepts oversized bars. Measure first, then match its listed ratings to the 400 lb tongue requirement.",
     "specs": [
       "1,000 lb class with sway control",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31y88-deBSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBP7XT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBP7XT8?tag=rvgearlab-amz-20",
     "description": "XtremepowerUS states a 1,000 lb tongue weight capacity with sway control and a 2-inch shank. XtremepowerUS sells a 1,000 lb weight distribution hitch with sway control and a 2-inch shank.\n\nIt is similar to RVGUARD 1000 in rating and price. The bars may feel stiff at 400 lb.\n\nBest for a low-cost option with sway control. Verify the gross trailer weight and hardware grade with the seller before using it on a heavy trailer.",
     "specs": [
       "1,000 lb tongue capacity",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T7XFA0k4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HP9YK82?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HP9YK82?tag=rvgearlab-amz-20",
     "description": "Andersen's 2 inch hitch has a 4 inch drop, 4-3/8 inch fixed brackets and a 10,000 lb GTWR. Andersen's 2 inch shank hitch has a 4 inch drop, a 2 inch ball and 4-3/8 inch fixed brackets and is rated 10,000 lb GTWR. It uses tension chains in place of spring bars.\n\nIt is a chain system that needs no grease and states no tongue weight in this listing. It costs far more than the 1,000 lb class kits.\n\nBest for a light trailer where a chain system is preferred. It is the fixed-bracket version for common truck and trailer heights.",
     "specs": [
       "2 inch shank, 4 inch drop",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UaMM78U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP84KVC4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP84KVC4?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 48903-A is a 1,200 lb kit with clamp-adjusted sway control. Camco's TR3 48903-A is a 1,200 lb weight distribution kit with clamp-adjusted sway control that can be turned off for backing. The text cites a 2-5/16 inch ball rated 15,000 lb.\n\nIts 1,200 lb class is three times a 400 lb load, so the bars will be stiff. It costs far less than Blue Ox BXW0550 for far more rating.\n\nBest only if you plan to tow heavier later. Use the 1,200 lb title figure for the hitch unless the seller confirms a higher rating.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tn1gmb8SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T36E3Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T36E3Q4?tag=rvgearlab-amz-20",
     "description": "Camco's R6 lists a 1,200 lb maximum tongue weight and adaptive sway control. Camco's Eaz-Lift ReCurve R6 1000 lb kit is titled with a 1,200 lb maximum tongue weight and includes a 2-5/16 inch ball rated 15,000 lb. The listing describes adaptive sway control that disengages for tight turns.\n\nIt has the most rating here and costs more than Camco TR3 48903-A. It is too heavy-duty for a 400 lb tongue weight.\n\nBest only for a future heavier trailer. The title mixes 1,000 lb and 1,200 lb figures, so confirm the tongue weight rating.",
     "specs": [
       "1,200 lb R6 kit",

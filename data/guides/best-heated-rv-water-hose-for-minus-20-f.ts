@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZHPcHxF4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ABONB0A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ABONB0A?tag=rvgearlab-amz-20",
     "description": "Camco's 25 ft heated hose is built from NSF/ANSI 61 certified drinking water hose with a lead-free certification to NSF/ANSI 372. It is rated to -20°F.\n\nPricing runs about 50 dollars below the Camco 50 ft, and it carries more certification detail than the RVMATE. It is made in the USA.\n\nA thermostat-controlled heating cable delivers the -20°F freeze protection. It is a good match for owners who want certification at that rating.",
     "specs": [
       "25 ft, -20°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lt1rIMgVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ABONAS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ABONAS8?tag=rvgearlab-amz-20",
     "description": "The Camco 50 ft hose has a 5/8 inch ID, NSF/ANSI 61 certified hose and -20°F protection. Camco's 50 ft heated hose has a 5/8 inch ID, NSF/ANSI 61 certified drinking water hose and freeze protection down to -20°F.\n\nIt gives twice the reach of the 25 ft Camco at the highest price of the six. A thermostat-controlled cable saves power.\n\nAn energy-saving, thermostat-controlled heating cable runs only when needed. It suits owners who need 50 feet and certified hose.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51m1ksZPXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLKKTHQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLKKTHQB?tag=rvgearlab-amz-20",
     "description": "The WABUPD 15FT is rated to -45°F, with thickened heating wires and a five-layer shell. WABUPD's 15FT hose has a -45°F rating, thickened heating wires and a five-layer shell.\n\nIt gives 25 degrees more margin than the -20°F picks at a low price. It is short, at 15 feet.\n\nIt undercuts most -45°F hoses on price while keeping a 15 ft length. It suits owners who want extra margin on a short run.",
     "specs": [
       "15 ft, -45°F protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S-zdH3uRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-amz-20",
     "description": "The RVMATE 15FT combines -20°F protection with a UL Listed heating cable drawing 7 watts per foot. Antifreeze protection to -20°F covers most winter camping without paying for a deeper rating.\n\nIt is the lowest priced in the group and the one that states its wattage. Copper nickel plated connectors replace aluminum.\n\nLead-free copper nickel plated connectors replace aluminum, and compression technology joins them to cut down on leaks. It suits budget buyers in moderate winters.",
     "specs": [
       "15 ft, -20°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vRaMuyTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5B8G8W6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5B8G8W6?tag=rvgearlab-amz-20",
     "description": "The Kohree 20 ft sleeve heats an RV sewer hose with an external thermostat set between 41°F and 59°F and overheat protection at 194°F. Kohree's 20FT unit is a heated sleeve for RV sewer hoses, with an external thermostat set at 41°F to 59°F.\n\nIt protects the other freeze point of a winter rig, which a water hose does not. It is a sleeve, not a water hose.\n\nInternal overheat protection trips at 194°F, protecting the cable. It suits winter campers who also need a heated sewer line.",
     "specs": [
       "20 ft sewer hose sleeve",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41seAnedd8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWK2H2HY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWK2H2HY?tag=rvgearlab-amz-20",
     "description": "The Glooglitter 20 ft cover heats an RV sewer hose with automatic temperature regulation and an extra-long heating wire. Glooglitter's 20 ft kit is a heated cover for RV sewer hoses, with automatic temperature regulation.\n\nIt costs about 18 dollars less than the Kohree sleeve. It is a sewer cover, not a water hose.\n\nThe extra-long heating wire boosts the heating coverage of the sleeve. It suits budget buyers who need a heated sewer line.",
     "specs": [
       "20 ft sewer hose cover",

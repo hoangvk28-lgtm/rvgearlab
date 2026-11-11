@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WFs3ii2gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKCJQH9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKCJQH9Y?tag=rvgearlab-amz-20",
     "description": "Pure RV Grey Water Tank Treatment is a 32 oz enzyme product that says it breaks down grease, soap scum, food particles and hair, and dissolves the slimy biofilm that coats gray tank walls and fouls sensors. It works in gray tanks, camper sinks and marine galley drains.\n\nAgainst Green Gobbler Enzyme, it is made for RV gray tanks rather than grease traps and septic lines. Against Happy Campers, it focuses on gray water instead of black tank cleaning.\n\nBest for a gray tank that smells or drains slowly from grease and soap buildup. It is a maintenance product, not a plunger.",
     "specs": [
       "Enzyme gray tank treatment",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51plBv0ztgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK13Q9YH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK13Q9YH?tag=rvgearlab-amz-20",
     "description": "Green Gobbler Ultra Concentrated is a clog remover for hair, grease and soap, with directions to pour a full bottle for tough clogs and half for lighter ones. The listing says it dissolves hair and soap scum in as little as 30 minutes and is bleach-free and safe for septic.\n\nCompared with Green Gobbler Ultra B, this is the higher-priced listing for the same product family. Compared with Pure RV Grey Tank, it is a fast-acting clog dissolver rather than a maintenance enzyme.\n\nBest for a shower drain clogged with hair. Check your pipe material on the label before use.",
     "specs": [
       "Hair and soap clog remover",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qucNmYH+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH38BGQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH38BGQQ?tag=rvgearlab-amz-20",
     "description": "This lower-priced Green Gobbler Ultra Concentrated listing carries the same text: a bleach-free hair, grease and soap dissolver that works in as little as 30 minutes. It is described as safe for showers, sinks, tubs, pipes and septic.\n\nCompared with Green Gobbler Ultra A, it is the cheaper listing with the same claims. Compared with Green Gobbler Enzyme, it acts faster but is not a long-term enzyme maintenance product.\n\nBest for a cheap fix on a shower clog. Bottle size is not shown, so confirm it before ordering.",
     "specs": [
       "Hair, grease, soap dissolver",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418qJWpRlsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079K94HHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079K94HHV?tag=rvgearlab-amz-20",
     "description": "Green Gobbler Enzyme Drain Cleaner is a 1 gallon product whose enzymes digest grease, fats, oils, paper and food waste. The listing says it supports septic systems, grease traps and sewer lines.\n\nAgainst Pure RV Grey Tank, it is a bigger, cheaper gallon but is not RV-specific. Against the Ultra clog removers, it works slowly as a biological treatment.\n\nBest for regular maintenance on kitchen drains and gray lines. It will not clear a hard clog quickly.",
     "specs": [
       "1 gallon enzyme drain cleaner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DxyJCNsRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DKDFVVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DKDFVVC?tag=rvgearlab-amz-20",
     "description": "Happy Campers RV Black Tank Cleaner is a treatment aimed at odor and film in a black tank, and it says it works as a sensor cleaner. The listing says it also maintains gray tanks by removing grease, mineral deposits and persistent film.\n\nCompared with Unique Clean-It, it is more of an all-around tank cleaner than a deep reset. Compared with Pure RV Grey Tank, it spans black and gray use but has fewer plumbing claims.\n\nBest for owners who want one product for tank odor and probe film. It is not a drain opener.",
     "specs": [
       "Black tank cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XzWgpOxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-amz-20",
     "description": "Unique Clean-It is a 32 oz black and holding tank cleaner that uses enzymes and probiotics to break down waste, sludge and residue. It works in 48 to 72 hours with no driving and is septic safe.\n\nIt is a tank product, not a drain cleaner, so it ranks below products that act in sink and shower lines. Compared with Happy Campers, it is a reset rather than daily upkeep.\n\nBest when the real problem is a fouled tank behind a slow drain. Do not expect it to clear a hair clog.",
     "specs": [
       "Black and holding tank cleaner",

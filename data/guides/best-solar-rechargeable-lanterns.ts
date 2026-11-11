@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+EfiRa4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-amz-20",
     "description": "The Westinghouse lists 1000 lumens of 5000K daylight white with five lighting modes. It charges by solar or fast USB-C and includes an SOS flashing mode, with IPX4 water resistance.\n\nIt states more light than the LETRY's 330 lumens maximum. Compared with the LETMY four-pack, it is a single bright lantern rather than a set.\n\nIt suits campers who want one strong lantern with a quick USB-C top-up. An integrated handle makes it easy to hang.",
     "specs": [
       "1000 lumens, 5000K white",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y4wr0KAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F631BBN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F631BBN5?tag=rvgearlab-amz-20",
     "description": "The LETMY four-pack runs on solar, USB rechargeable or AA batteries, with a COB LED design for 360 degree light. The lanterns collapse for storage and are described as water-resistant.\n\nIt offers three power sources, which the Westinghouse and LETRY do not. Four lanterns cover a family.\n\nIt suits families who want redundancy and a lantern per tent. A built-in battery doubles as a power bank.",
     "specs": [
       "Solar, USB and AA power",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp Solar Lantern has solar and USB charging, overcharge protection and a USB output port. It combines a flashlight with a collapsible 360 degree lantern in military-grade ABS.\n\nIt is a single unit with a stated output port. Against the SAMUUN, it offers a flashlight mode at a similar price.\n\nIt suits hikers who want a flashlight and lantern in one. The folding handle serves as a flashlight grip.",
     "specs": [
       "Solar and USB charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QDLrhz+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRR3GGY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRR3GGY6?tag=rvgearlab-amz-20",
     "description": "The SAMUUN lists a 5000mAh 3.85V 19.25Wh battery, a 1W monocrystalline solar panel and 2000 lumens. It has five light modes, four battery indicator levels and IP65.\n\nIt has the highest stated output of the five and the biggest battery. Compared with the Westinghouse, it offers double the lumens at a lower price.\n\nIt suits campers who want a power-bank-grade lantern. The red light mode preserves night vision.",
     "specs": [
       "2000 lumens, 5000mAh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61DqyDAE74L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCWRCT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCWRCT7?tag=rvgearlab-amz-20",
     "description": "The LETRY is a rechargeable table lantern with solar and USB charging and three brightness steps of 35, 140 and 330 lumens. The body is PC and ABS, a matte finish that will not rust.\n\nIt is the softest light here, aimed at tables rather than whole tents. Compared with the Westinghouse, it offers a warmer, dimmer glow.\n\nIt suits campers who want a stylish bedside or table light. Touch control switches steps.",
     "specs": [
       "35, 140 and 330 lumens",

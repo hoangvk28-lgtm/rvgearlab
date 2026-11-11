@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514RxB7S7dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSS8MLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSS8MLS?tag=rvgearlab-amz-20",
     "description": "This bell tent is listed for 6 to 8 campers and measures 16.4 ft wide, with full standing height at the center. It uses lightweight polyester, multiple mesh windows with insect-resistant doors and a reinforced stove jack.\n\nIt has the biggest stated floor of the six, so six adults can sleep around a stove without stacking pads. Against the inflatable tents it uses poles and offers a far wider footprint, at a price close to the Soboyo.\n\nIt suits a family or friend group that wants a glamping-style heated shelter. The mesh also keeps summer use comfortable.",
     "specs": [
       "16.4 ft wide bell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eAwwVm-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XM8FXRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XM8FXRF?tag=rvgearlab-amz-20",
     "description": "The FireHiking is a tipi hot tent listed for 4 to 8 people, with a semi inner tent that holds 4 to 5 and open space for 4 to 8 without it. It uses 70D polyester with a 3000mm rating, two opposite doors and four vents with mesh.\n\nIt is the one pick with a stated waterproof number and an optional inner, and it costs less than the bell tent. The Ranch Fire is cheaper, while this one gives a more flexible layout.\n\nIt suits bushcrafters and groups who want to cook and heat in the same space. The vents work in all seasons.",
     "specs": [
       "4 to 8 person tipi",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N-b2tUpFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-amz-20",
     "description": "The HUDEX inflatable listing offers 68 sq ft of space at 9.8 x 6.9 x 6.6 ft for 4 to 6 adults, with a stainless steel stove jack and mesh filter. TPU air beams sit in a zippered Oxford cover, and the fabric is UPF 30+ with a PU3000mm rating.\n\nIt describes a stainless jack with a mesh filter and adds a panoramic PVC skylight. The Soboyo adds an awning, while this one adds a replaceable beam cover.\n\nA no-pole pitch and a stove-ready air tent make sense for a four to six person family. The listing includes a hand pump.",
     "specs": [
       "68 sq ft, 6.6 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145D1z1OAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-amz-20",
     "description": "The Soboyo inflatable offers a detachable awning, a skylight and a pump, with 420D Oxford fabric and a stove jack. It is listed for 4 to 6 people as an air cabin design.\n\nIt adds an awning where the HUDEX adds a replaceable beam cover, and it costs a little more than the HUDEX. Its dimensions are not given on the listing, so it ranks below the HUDEX on data.\n\nIt suits families who want shade at the door and an easy pitch. The skylight allows stargazing.",
     "specs": [
       "4 to 6 person air cabin",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dNWpXCKkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKBWMG9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKBWMG9W?tag=rvgearlab-amz-20",
     "description": "This inflatable hot tent has 67.8 sq ft at 9.8 x 6.9 x 6.4 ft, TPU air beams, a hand pump and a built-in insulated stove jack. The fabric is 420D Oxford with PU3000mm and UPF50+, and the shell has 2 large doors and 6 windows with double-layer mesh.\n\nIt costs less than the Soboyo and HUDEX, with the same size class. The listing frames it as room for 2 to 4 sleeping adults or a family of 6 at camp, a more honest count than the larger claims.\n\nIt suits groups who will mostly sit inside rather than sleep six. Setup takes about five minutes.",
     "specs": [
       "67.8 sq ft, 6.4 ft peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+Cw-K99UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVPVKNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVPVKNN?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire in the 4 to 6 person size is a cold-weather teepee with a fire-retardant stove jack and a snow skirt. It is described as windproof, waterproof and four-season.\n\nIt is the lowest-priced tent in this list, undercutting the FireHiking and the bell tent. It has fewer details on its listing than the FireHiking, which has a stated rating and vents.\n\nIt suits groups of four to six who want an inexpensive teepee with a snow skirt. The skirt helps in winter wind.",
     "specs": [
       "4 to 6 person teepee",

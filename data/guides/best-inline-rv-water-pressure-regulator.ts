@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IFGW1sMzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9QUEYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9QUEYZ?tag=rvgearlab-amz-20",
     "description": "The Camco Adjustable is a lead-free brass regulator with an adjustment screw under the cap, and it ships preset at 45 psi. That preset sits in the range most RV plumbing is happy with, so you can attach it and go without touching a tool.\n\nCompared with the RVGUARD Valve below it, this is the slimmer body because there is no gauge on top. Less hangs off the spigot, but you lose the live psi reading, so you are trusting the preset rather than checking it.\n\nIt suits owners who want a compact inline unit with a recognizable name and a safe default. The listing itself warns that settings above 60 psi are not recommended, so treat the screw as a fine-tune, not a way to push pressure up.",
     "specs": [
       "45 psi factory preset",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THEbJviQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Knob swaps the usual screwdriver slot for a hand knob, so you turn clockwise to raise pressure and counterclockwise to lower it. It also carries a gauge and an inlet screen, and the listing names NSF/ANSI 61 and 372 for the lead-free brass.\n\nAgainst the RVGUARD Valve just below, the hardware is nearly identical; the difference is the knob. If you move between campsites often, adjusting by hand at a spigot is easier than hunting for a flat screwdriver.\n\nBest for frequent travelers who like to reset pressure at every stop. The gauge and knob make the body taller, so check your spigot clearance and hose angle before assuming it will fit a tight wall hookup.",
     "specs": [
       "Hand adjustment knob",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hOYf87xmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Valve is the screwdriver-adjust version of the same design: factory set to 45 psi, with a gauge, an inlet screen, and C46500 lead-free brass tested to under 0.13 percent lead. Turning the screw clockwise raises pressure.\n\nIt undercuts the RVGUARD Knob in feel, since you need a screwdriver, but that also means the setting is less likely to wander once set. Compared with the Camco Adjustable above it, you gain a gauge for a modest step up in bulk.\n\nA good fit if you set your pressure once and leave it, and you want the gauge to confirm it. The listing does not claim a flow rating, so owners with long showers should keep an eye on flow after install.",
     "specs": [
       "Factory set at 45 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bOpa0X+QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092NJDWR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092NJDWR4?tag=rvgearlab-amz-20",
     "description": "The Morvat Kit is a nickel-plated lead-free brass regulator with a silicone oil filled gauge, a screwdriver, washers and a roll of Teflon tape in the box. Its screw adjusts across a 0 to 160 psi range, and it comes with a one year manufacturer warranty.\n\nWhere the RVGUARD Valve gives you the regulator, this one hands you the install supplies too, which matters if you have misplaced a hose washer before. The oil filled gauge also damps needle bounce better than a dry dial.\n\nBest for first-time buyers who want everything in one box. The wide gauge range means the useful 40 to 60 psi zone is a small part of the dial, so read it with a steady hand.",
     "specs": [
       "Oil filled gauge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B57gUhH0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1MZPMTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1MZPMTD?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure packs a 90 degree housing, a pressure gauge, an adjustable regulator and a shutoff valve into one body measuring roughly 5 5/16 by 2 5/8 by 4 13/16 inches. It is meant to pair with the Tastepure and Tastepure XL filters and Camco or EvoFlex hoses.\n\nUnlike every straight pick above, the elbow turns the hose down right at the spigot, which cuts the sideways strain that bends brass threads over time. The tradeoff is size and cost, since it is the second most expensive pick here.\n\nBest for owners who already run Camco filters or hoses and want one tidy, strain-relieved connection. If your hose already drops straight from the spigot, you are paying for an elbow you may not need.",
     "specs": [
       "90 degree angled housing",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ddqEm5bHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DYVT3FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DYVT3FQ?tag=rvgearlab-amz-20",
     "description": "The Baagialdic Fixed is a brass inline regulator that outputs a fixed 55 psi, listed as the Fairview WR-RV55 and described as lead free. There is no gauge or adjustment, so what you see is a short plain body.\n\nIts 55 psi sits at the upper end of the safe range, higher than the 45 psi presets on the Camco Adjustable and RVGUARD units. That can feel better in a shower, but it leaves less margin if your coach is rated near 60 psi.\n\nBest for owners who want zero fuss and a stronger stream. The listing carries no certification details or spec bullets, so confirm lead content and your RV's pressure rating before buying.",
     "specs": [
       "Fixed 55 psi output",

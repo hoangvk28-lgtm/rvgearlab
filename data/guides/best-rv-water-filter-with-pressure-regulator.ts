@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yLaKdijwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-amz-20",
     "description": "The deluxe rVandtt kit includes a pressure regulator with gauge and adjustable pressure, an exterior multi-stage filter, drinking and sanitation hoses, a leak repair kit and a hard carrying case. The listing says the filter removes chlorine, bad odor and taste and intercepts rust and debris.\n\nAgainst rVandtt Starter Kit below, you pay far more for the hoses, repair kit and case. Compared with Boltigen Kit, it covers the whole hookup rather than just the regulator and filter.\n\nIt suits new RVers who want everything for the first trip. The price is high for what is mostly accessories.",
     "specs": [
       "Gauge and adjustable regulator",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hG+IAXAHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDJW6R2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDJW6R2W?tag=rvgearlab-amz-20",
     "description": "The lower-priced rVandtt kit has a regulator with gauge and adjustable pressure, an inline filter, a hose splitter, brass fittings, a leak repair kit and a hard carrying case. It is described as everything needed to connect to a campground fresh water source.\n\nAgainst rVandtt Deluxe Kit above, it drops the dedicated hoses and costs less. Compared with Boltigen Kit below, it adds the gauge and carrying case.\n\nGood for campers who already own hoses. Check that the hose connections are what you need.",
     "specs": [
       "Gauge and adjustable regulator",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qzecXGeKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPS4JMY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPS4JMY2?tag=rvgearlab-amz-20",
     "description": "Boltigen includes an upgraded adjustable regulator with a blue handle, two NSF certified inline filters, a hose splitter and brass fittings. The filters use GAC and are described as made of material-safe plastic.\n\nAgainst rVandtt Starter Kit above, you get a spare filter but no gauge or case. Compared with OBALOGI Kit below, the adjustable handle lets you set pressure.\n\nBest for campers who want a spare filter and a regulator in one box. The listing names the filters as NSF certified without specifying which standard.",
     "specs": [
       "Adjustable regulator",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BDxZMLMKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV8XHD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV8XHD8?tag=rvgearlab-amz-20",
     "description": "OBALOGI includes a regulator that the listing says is NSF-tested with less than 0.13% lead, an NSF-certified inline filter with KDF and activated carbon, a hose splitter, brass elbow and flexible connector.\n\nAgainst Boltigen Kit above, it talks more clearly about lead content and certifications. Compared with Enkreefi Kit below, it costs a bit more.\n\nSuits buyers who care about lead-free parts. It uses a single filter and no gauge is named.",
     "specs": [
       "Lead-free brass accessories",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512VFN5RI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43S14SY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43S14SY?tag=rvgearlab-amz-20",
     "description": "Enkreefi has a regulator with a 0 to 140 PSI adjustment range, a five-layer inline filter, a hose protector, brass elbow and a Y-shaped brass splitter. The pipeline is mainly brass.\n\nAgainst OBALOGI Kit above, it costs less but lacks named lead and NSF claims. Compared with Firebelly Kit below, it lets you adjust the pressure.\n\nGood for budget buyers who want an adjustable regulator. No gauge is named, so you cannot see the setting.",
     "specs": [
       "0 to 140 PSI regulator",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jheiXVh7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z5CW8M9?tag=rvgearlab-amz-20",
     "description": "Firebelly has a lead-free brass regulator that reduces pressure to 50 to 55 psi, with a filter screen, plus an ISO certified KDF and GAC cartridge and a hose. The listing says its five-stage filter reduces chlorine, lead, iron and hydrogen sulfide down to 20 microns.\n\nAgainst Enkreefi Kit above, the regulator is fixed rather than adjustable. Compared with the rVandtt kits, it is much cheaper and has fewer extras.\n\nBest for the cheapest working setup. The broad contaminant claims on the listing are the maker's, so check any certification before relying on them.",
     "specs": [
       "50 to 55 psi regulator",

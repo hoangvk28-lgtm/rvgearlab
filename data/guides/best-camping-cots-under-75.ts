@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416WYbmXCML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PHH5NNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PHH5NNR?tag=rvgearlab-amz-20",
     "description": "The ABORON is a 28 inch wide cot rated for 800 lb, with a detachable soft pad, double-layer 1200D Oxford and a steel frame. It opens in under 10 seconds, unfolds to 75 by 28 by 14 inches and folds to about 41 by 8 inches.\n\nIt carries the highest weight rating of the group and costs about the same as the ZENPETIO, which is rated at 500 lb. The crossbar sits lower than the fabric, which reduces pressure points compared with the cheaper cots.\n\nIt suits campers who want a heavy-duty cot with a pad at a mid price. It also works as a guest bed at home.",
     "specs": [
       "28 inch wide, 800 lb rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWkBlB+EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDFJCP1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDFJCP1R?tag=rvgearlab-amz-20",
     "description": "The TrailBlaze is a 75 inch cot with an integrated cushion and pillow, a 500 lb rating and a 3-in-1 oversized pocket. It sets up instantly with no tools.\n\nIt costs the most of the six and has a pillow built in, so there is nothing extra to pack. The ZENPETIO and ABORON have detachable pads, while the TrailBlaze cushion is part of the cot.\n\nIt suits campers who want an all-in-one bed with storage. It also works on a patio or at the beach.",
     "specs": [
       "75 inch, 500 lb rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cHhhJNCML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYNP9TJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYNP9TJK?tag=rvgearlab-amz-20",
     "description": "This cot has an aluminum alloy frame, a 900D Oxford surface of 75 by 25.6 inches and a 330 lb rating. It weighs 6.4 lb, sets up in under 60 seconds with a lever-lock system and stands 15 inches high.\n\nAt 6.4 lb it is far lighter than the 12 lb Outvita steel cot and second only to the Sutekus. Aluminum costs more per pound of capacity, so its 330 lb rating sits below the 500 and 800 lb cots.\n\nIt suits campers who carry the cot a distance or have little trunk space. A side pocket keeps small items close.",
     "specs": [
       "Aluminum frame, 6.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419YYIirFCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6XY8MFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6XY8MFB?tag=rvgearlab-amz-20",
     "description": "The ZENPETIO includes a mattress and a 500 lb capacity with 10 round bars 25mm thick. It sets up in about 10 seconds with no tools.\n\nIt costs about the same as the ABORON and carries a 500 lb rating against the ABORON's 800 lb, with a mattress included in the price. That mattress is a feature the Aluminum 900D cot lacks.\n\nIt suits campers who want a mattress-style cot with a high weight limit. It works for a guest bed too.",
     "specs": [
       "500 lb rating, mattress included",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kr95e5RnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZQB36JR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZQB36JR?tag=rvgearlab-amz-20",
     "description": "The Outvita is a 25 inch wide cot with 600D Oxford fabric on 25 by 25 mm tubes, a foot pad on each leg and a carry bag. It weighs 12 lb and sets up in seconds with no screws.\n\nIt costs less than the ABORON and the TrailBlaze, and it is narrower at 25 inches. It has no mattress and a lower profile than the aluminum cot.\n\nIt suits campers who want a simple folding cot with a carry bag. It works in a tent, at the beach or on a fishing trip.",
     "specs": [
       "25 inch wide, 600D Oxford",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bqkIopj7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TQWR9G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TQWR9G2?tag=rvgearlab-amz-20",
     "description": "The Sutekus is a 75 by 27.5 by 6.6 inch cot that folds to 7 by 14 inches and weighs 4.7 lb. It supports 330 lb with 10 points of contact and has a side pocket.\n\nIt is the lightest and smallest cot of the six, and the cheapest at about $47. The poles and brackets assemble in a few steps, so it takes longer to set up than the lever-lock aluminum cot.\n\nIt suits backpackers, kayakers and hunters who want a cot in a pack. It is also useful as a guest bed in a small space.",
     "specs": [
       "4.7 lb, folds to 7 x 14 inches",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61jFElr2MYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V9QP6FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V9QP6FD?tag=rvgearlab-amz-20",
     "description": "The Lynx 22 Pack includes 20 leveler blocks, 2 cap level tops and 2 nylon storage bags. The modular interlocking blocks are rated to withstand up to 40,000 lbs and have been manufactured in the USA since 1992.\n\nWith 20 blocks it builds taller, wider stacks than the Lynx 11 Pack or the 12-piece kits. It is the original design that other brands copy, and the two bags split the load. It suits owners of heavy trailers and dual-axle rigs who level on rough ground.",
     "specs": [
       "22 pieces, 2 caps",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JjknoZy6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0028PJ10K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0028PJ10K?tag=rvgearlab-amz-20",
     "description": "The Lynx 11 Pack includes 10 leveler blocks, 1 cap level top and a nylon storage bag. It uses the same modular interlocking design and 40,000 lb rating as the 22 pack.\n\nIt is half the size of the 22 pack, which cuts cost and storage space. One bag keeps the blocks together. It suits single-axle trailers and campers that need to level one wheel at a time.",
     "specs": [
       "11 pieces, 1 cap",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417nTIGYz6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPRJJ4B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPRJJ4B?tag=rvgearlab-amz-20",
     "description": "The Keltrion 12-Pack uses 12 interlocking blocks measuring 8.5 by 8.5 by 1.3 inches. Stacking options include 6 plus 6 or 3 plus 3 plus 3 plus 3, to level single, dual or all wheels.\n\nA non-slip surface and a carry bag make it portable. Compared with the Lynx 11 Pack, it gives more block count at a lower price. It suits owners who want to level more than one wheel on a budget.",
     "specs": [
       "12 blocks, 8.5 inch square",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413oMH9vjWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNTGWG7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNTGWG7T?tag=rvgearlab-amz-20",
     "description": "The RVMATE 12-Pack has blocks that measure 8.5 by 8.5 by 1.5 inches and top blocks at 0.75 inches. They work with single wheels, dual wheels, hydraulic jacks, tongue jacks, stabilizer jacks and fifth wheel jacks.\n\nThe 1.5 inch height gives more lift per block than the Keltrion's 1.3 inches, and the high-density reinforced material is interlocking. It also works as a jack pad. It suits owners who want one set for tires and jacks.",
     "specs": [
       "12 pieces, 1.5 inch blocks",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OBfbjVCiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8B398KR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8B398KR?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 12-Pack has 10 interlocking blocks, 2 top caps and 2 Velcro storage straps. Each block adds 1.25 inches of lift, and the non-slip surface and solid bottom resist sinking on soft ground.\n\nIt is the lowest priced of the five and includes straps for bundling. The solid bottom spreads load on gravel and dirt. It suits budget-minded campers who level on soft ground.",
     "specs": [
       "10 blocks, 2 caps",

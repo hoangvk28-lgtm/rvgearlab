@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cTwckXquL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00OS7ETIA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00OS7ETIA?tag=rvgearlab-amz-20",
     "description": "Amazon Basics is a 50 foot grounded cord with a 3-prong plug, rated for 13 amps, 1625 watts and 125 volts. Its 16-gauge all-copper wire sits under a vinyl jacket that resists moisture, abrasion and sunlight, and it is ETL certified.\n\nAt about $19 it costs a little more than the GE 40 ft and gives you 10 extra feet. It is the longest cord here and the only one that is both grounded and rated for indoor and outdoor use, so it reaches a distant campsite post cleanly.\n\nIt suits a campsite pedestal or a picnic table far from the post. Use it with lights, a fan and chargers.",
     "specs": [
       "50 ft, 16 gauge, 13A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m2tgAVzDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJDGQK32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJDGQK32?tag=rvgearlab-amz-20",
     "description": "GE's 40 ft cord is a 16AWG grounded three-wire cord rated 125V, 13A and 1625W. It has a double-insulated PVC jacket and a one-piece molded plug, and its green finish blends into grass and gardens.\n\nAt about $17 it costs $2 less than the Amazon Basics 50 ft and gives up 10 feet. It is a better fit than the 20 ft GE for a campsite with a longer gap.\n\nIt suits a lawn or campsite where the pedestal is a bit farther than 20 feet. It is lower profile on grass.",
     "specs": [
       "40 ft, 16AWG, 13A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PUEfViLgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5G1BCQN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5G1BCQN?tag=rvgearlab-amz-20",
     "description": "GE's 20 ft cord shares the 16AWG, 125V, 13A and 1625W rating of its longer sibling, with a double-insulated PVC jacket and a one-piece molded plug. It is green, so it hides on a lawn.\n\nAt about $13 it costs $4 less than the GE 40 ft and covers half the distance. A shorter cord loses less power than the 50 ft cords.\n\nIt suits a tent beside a post or a table near the site. Pick it when length is not an issue.",
     "specs": [
       "20 ft, 16AWG, 13A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d00WDnU8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73BFX1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73BFX1J?tag=rvgearlab-amz-20",
     "description": "Energeaster is a 20 foot 16/3 SJTW cord with three outlets, rated 13A and 1625W and listed ETL and cETL. It has IP65 sealing, stays flexible in the cold and ships with a hook-and-loop strap.\n\nAt about $17 it is the only pick here with three outlets, which helps at a campsite with one post. The single 13A limit is shared across all three sockets.\n\nIt suits a camp setup with a lamp, fan and chargers. It handles cold mornings.",
     "specs": [
       "20 ft, 16/3 SJTW, 3 outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dvmQVBGeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000KKLOOG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000KKLOOG?tag=rvgearlab-amz-20",
     "description": "Southwire Woods is a 50 foot, 16-gauge SJTW cord in bright orange for weatherproof outdoor work. It has two prongs, so it is a 16/2 cord without a ground.\n\nAt about $18 it costs a little less than the Amazon Basics 50 ft, and the bright color reduces trip risk. It gives up the grounding pin.\n\nIt suits lawn tools and string lights where a grounded plug is not needed. The color helps at night.",
     "specs": [
       "50 ft, 16 gauge, SJTW",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hMMaGS4ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075BNXVGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075BNXVGS?tag=rvgearlab-amz-20",
     "description": "Amazon Basics 20 ft is a white indoor cord rated 13A and 125V in 16 AWG. It accepts both 2- and 3-prong plugs and is meant for consumer electronics, tools and media gear.\n\nAt about $9 it is the cheapest pick, and it covers the same 20 feet as the energeaster for about $8 less. It is meant for indoor use, so keep it inside the camper.\n\nIt suits a van or RV interior. Do not leave it outdoors.",
     "specs": [
       "20 ft, 16 AWG, 13A",

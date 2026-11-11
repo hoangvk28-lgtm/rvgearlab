@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w2cQus1SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643K26D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643K26D?tag=rvgearlab-amz-20",
     "description": "The Coleman Kompact is a cool-weather bag sold in 20, 30 or 40F options, with Coletherm Max fill and a compressible stuff sack. The packed size is printed as 9.8 x 9.8 x 15.7 inches, and a Thermolock draft tube and ZipPlow zipper are included.\n\nIt is the only one here with a cool-weather rating down to 20F, ahead of the ASHOMELI at 40F comfort. The listing says the bag packs smaller than traditional Coleman bags.\n\nA fit for car campers with tight trunks who want a cool-weather bag that does not eat space. Pick the rating that matches your nights.",
     "specs": [
       "20, 30 or 40F options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41csJ0-C5JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQN8TGZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQN8TGZS?tag=rvgearlab-amz-20",
     "description": "Sportneer's bag measures 87 x 31.5 inches, weighs 3.3 lb and is rated for 50 to 80F. A 190T polyester taffeta shell, a hood, two-way zippers and a Velcro flap that holds the zipper closed are included, with a compression carry bag.\n\nAgainst the TANSTRIDER and ECOOPRO, it is longer and fits adults up to 6 feet, and it is cozy enough for younger campers. It unzips into a blanket and is machine washable on gentle.\n\nA good pick for families who camp in warm weather and want one bag that fits most of them. The water-repellent shell wipes clean.",
     "specs": [
       "87 x 31.5 inches, 3.3 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b1QCuSjtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G57WPPR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G57WPPR2?tag=rvgearlab-amz-20",
     "description": "ASHOMELI lists a comfort range of 40 to 60F and a limit of 32 to 77F, in a roomy 86.6 x 32.68 inch rectangular bag for campers up to 6.8 feet. An inflatable pillow and a compression sack are included.\n\nIt states both a comfort and a limit range, which the TANSTRIDER and ECOOPRO do not, and no other pick here includes a pillow. Foot zippers vent heat and a half-circle hood warms the head.\n\nA smart pick for tall campers who want a pillow and a clearly stated range. A water-resistant taffeta shell guards against dew.",
     "specs": [
       "Comfort 40 to 60F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w-NONSdZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK99H94M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK99H94M?tag=rvgearlab-amz-20",
     "description": "TANSTRIDER's bag measures 75 x 30 inches and weighs 1.5 lb, with a nylon exterior, a washed cotton lining and a 50 to 70F range. The two-way zipper connects two bags or opens into a quilt, and Velcro collars keep it secure.\n\nIt is the lightest rectangular option here and the lowest-priced of the five, with separate foot zippers for venting. A compression bag is included.\n\nA fit for summer campers who want a light, blanket-style bag. Pinch-resistant zippers add convenience.",
     "specs": [
       "75 x 30 in, 1.5 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO envelope is cut 83 x 30 inches in a nylon outer with polyester lining, aimed at the 55 to 60F band. Its bundle stands 11 inches tall at 1.7 lb, and a compression sack comes along.\n\nIt gives a printed packed height, which the Sportneer and ASHOMELI do not list. At 83 inches it is longer than the TANSTRIDER.\n\nA good choice for hot-weather trips where you want a longer bag than the TANSTRIDER. The waterproof nylon shell sheds dew.",
     "specs": [
       "1.7 lb, 11 inches tall",

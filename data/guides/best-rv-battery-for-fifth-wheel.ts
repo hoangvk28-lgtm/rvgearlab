@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JwstCdc5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFJ2RZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFJ2RZH?tag=rvgearlab-amz-20",
     "description": "The Redodo 165Ah is a 12.8 volt LiFePO4 battery rated at 2112 watt hours, with a 165 amp battery management system, Bluetooth monitoring and an IP65 rated case in Group 31 size. It costs $429.99.\n\nIts 2112Wh capacity is about 65 percent more than the 100Ah model's 1280Wh, and the 165 amp BMS supports up to 2112 watts of output, which handles a residential refrigerator on an inverter without strain. Bluetooth shows voltage, current and state of charge on your phone, so you can check the bank without opening a compartment.\n\nFifth wheel owners with residential refrigerators, inverters and heavy evening loads who camp in mild weather will get the most from the extra capacity.",
     "specs": [
       "12.8V 165Ah, 2112Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Y8dEQCXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFCYHQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFCYHQQ?tag=rvgearlab-amz-20",
     "description": "The Redodo 100Ah is a 12.8 volt LiFePO4 battery with self heating that allows charging down to minus 4 degrees Fahrenheit, rated at 1280 watt hours, in a Group 31 case weighing 23.32 pounds. It costs $279.99.\n\nThe heater is the headline feature, since it lets the battery charge in cold weather when other lithium batteries stop. At 23.32 pounds it is light enough to lift into a compartment, and it can be expanded in up to 4 parallel and 4 series connections, so you can build a larger bank over time. Compared with the 165Ah at $429.99, it costs $150 less and adds winter charging.\n\nWinter campers, snowbirds and owners who want a flexible, expandable bank at a lower entry price will find it the better fit.",
     "specs": [
       "12.8V 100Ah, 1280Wh",

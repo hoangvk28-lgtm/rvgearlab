@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Hb9lgfBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1JPWHWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1JPWHWF?tag=rvgearlab-amz-20",
     "description": "BougeRV's Li 20A is the best-documented 20A PWM, stating 300W at 12V and 600W at 24V with a 55V PV limit. BougeRV's Li 20A is a PWM controller for 12V or 24V banks that takes 300W on 12V (600W on 24V) at up to 55V PV input. Its backlit LCD cycles PV and battery readings and shows dedicated icons for LFP, ternary lithium and LTO chemistries.\n\nIt lists lithium icons on the display, which Saooer 20A and HilapriSol 20A do not, and costs far less than LNEX 20A. It is PWM, so a high-voltage array would need an MPPT instead.\n\nBest for a lithium or lead-acid camper with up to 300W of panels. It is the best-documented 20A PWM here, which makes sizing straightforward.",
     "specs": [
       "20A PWM, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtEoFMKVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YXZMKD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YXZMKD2?tag=rvgearlab-amz-20",
     "description": "Renogy's Voyager is a 20A IP67 PWM with four-stage charging, built for marine use. Renogy's Voyager is a 20A four-stage PWM controller rated IP67 and aimed at marine use. It senses 12V or 24V systems on its own and lists protection against reverse polarity, overcharge and short circuit for gel, AGM or flooded batteries.\n\nIt adds weatherproofing that BougeRV Li 20A does not claim, but names gel, AGM and flooded rather than lithium. It costs more than most of the group.\n\nBest for exposed mounting on a boat or bumper. It suits exposed mounting on a boat or an RV bumper compartment, but it costs more than basic IP67 units.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41azAFPmt1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFJJ7HG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFJJ7HG7?tag=rvgearlab-amz-20",
     "description": "LNEX's 20A is a super-thin waterproof PWM with five charge stages and a long chemistry list. LNEX's 20A model is a thin, waterproof PWM controller with five charge stages (soft start, bulk, absorption, float and more) and a backlit LCD. It auto-detects 12V or 24V and the listing names LiFePO4, LTO, gel, AGM, lead-acid and calcium batteries.\n\nIt names LiFePO4, LTO and calcium where Renogy Voyager 20A does not, but it carries a premium price. Confirm the waterproof rating.\n\nBest for tight spaces and mixed chemistries. You pay a premium for the slim profile and the long chemistry list, so confirm the waterproof rating with the seller.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iZYXH6ZzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095764VB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095764VB7?tag=rvgearlab-amz-20",
     "description": "Saooer's 20A PWM adds an adjustable LCD, dual USB ports and short, open-circuit and reverse protection. Saooer's 20A controller is a PWM unit for 12V or 24V systems with an adjustable LCD, dual USB ports and an industrial microcontroller. The listing says it shuts off if battery voltage leaves its range and describes overload and open-circuit protection.\n\nIt costs far less than LNEX 20A and keeps USB ports that Cxztcl 20A offers only as a single port. Its listing is vague about battery types.\n\nBest for a budget camper that wants USB charging. Confirm the battery chemistries it supports before connecting a lithium bank.",
     "specs": [
       "20A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z8-HyLULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MF1ZR1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MF1ZR1W?tag=rvgearlab-amz-20",
     "description": "Cxztcl's 20A PWM is the cheapest option here and states it is for lead-acid batteries only. Cxztcl's 20A PWM controller adapts to 12V or 24V automatically and shows data on an adjustable LCD with a USB port. The listing says it is designed exclusively for lead-acid (open, sealed and gel) batteries and lists overcurrent, short-circuit, reverse and low-voltage protection.\n\nIt undercuts Saooer 20A but cannot serve a LiFePO4 bank. It does add a USB port and an adjustable LCD.\n\nBest for a flooded or AGM bank on a tight budget. It is a cheap fit for flooded or AGM banks and a wrong fit for LiFePO4.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41si8jvh36L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9Q192N7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9Q192N7?tag=rvgearlab-amz-20",
     "description": "HilapriSol's 20A PWM is a low-cost, plain unit with labeled terminals and standard protections. HilapriSol's 20A controller uses pulse width modulation on 12V or 24V systems, with a blue housing and clearly labeled terminals. The listing mentions safeguards against overcharging, over-discharging and short circuits.\n\nIt matches BougeRV Li 20A on rating but gives much less detail and no lithium icons. It also lacks the USB ports of Saooer 20A.\n\nBest for a basic 20A job where documentation matters less. It is a basic low-cost 20A unit, so confirm battery compatibility before wiring.",
     "specs": [
       "20A PWM, 12V/24V",

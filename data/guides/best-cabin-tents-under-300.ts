@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Zj-W5I+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-amz-20",
     "description": "The CORE cabin has a floor of roughly fourteen by nine feet under a 78 inch peak, fits two queen air beds and goes up in about two minutes because the poles are pre-attached. H2O Block 1200mm fabric, a taped fly and sealed seams keep rain out.\n\nIt has the best balance of pitch speed and weather sealing in the list, ahead of the Fanttik on seam detail and the KTT on speed. It gives up floor to the 16 ft KTT.\n\nFamilies who value time at camp will like it. Storage pockets keep small items organized.",
     "specs": [
       "14 by 9 ft, 78 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XZyxzAv5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRWY36S1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRWY36S1?tag=rvgearlab-amz-20",
     "description": "The KTT is a 16 ft by 11 ft cabin with a 7.4 ft peak that fits four full air mattresses and sleeps 12 to 14. Two rooms, three doors, three windows, a large rear window and two top windows supply light and air.\n\nIt offers the biggest floor in the list and a 7.4 ft ceiling. The CORE is faster, and the 12-person KTT is cheaper.\n\nLarge groups and multi-family trips will use all of it. Hand assembly takes time.",
     "specs": [
       "16 ft by 11 ft, 7.4 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fe1rEMrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-amz-20",
     "description": "The Fanttik cabin covers 168 by 120 inches and sets up in under 60 seconds. Mesh panels line every side, floor vents and a screened ceiling move air, and a channel at the door drains water away.\n\nIt pitches faster than the CORE and holds ten for sleeping only, with five comfortable with gear. The CORE has more detailed seam sealing.\n\nFamilies who want a very quick setup will like it. Pull zippers gently.",
     "specs": [
       "168 by 120 in, 60-second setup",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416cjawrvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MDTJTZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MDTJTZP?tag=rvgearlab-amz-20",
     "description": "The KTT 12P covers a fourteen by ten foot floor under a 6.58 ft ceiling and fits four air beds. Two rooms, three doors and three windows, all with mesh, come standard.\n\nIt costs less than the CORE and far less than the 14-person KTT. The trade-off is that poles are not pre-attached, so the pitch takes real work.\n\nLarge families on a budget will like the volume. Repair patches and buckles are in the box.",
     "specs": [
       "14 by 10 ft, 6.58 ft ceiling",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUwytM0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQBQZ2R?tag=rvgearlab-amz-20",
     "description": "The four-person Happy Travel cabin spans eight by seven feet with a 75 inch peak and a 3000mm waterproof rating. A mesh body, removable fly and electrical port come with it.\n\nIt costs about a third of the CORE and has the highest stated rain rating in the list. The floor is the smallest here, so it suits couples and one child.\n\nSmall families who camp in showery climates will like the value. It is also the easiest to carry.",
     "specs": [
       "Eight by seven ft floor",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal measures about fourteen feet by eight under an 80 inch ceiling, with two rooms and a porch roughly as long as the tent. Ground vents, six windows and taped seams finish the build.\n\nIts porch is larger than anything else here and its rooms are separate. The CORE pitches faster, while the Portal gives more room to sit outside.\n\nFamilies who want a living area will like the layout. Fiberglass and steel poles hold the frame.",
     "specs": [
       "About 14 ft by 8 ft, 80 in peak",

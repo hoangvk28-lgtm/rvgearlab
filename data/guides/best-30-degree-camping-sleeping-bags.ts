@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmzLs-hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-amz-20",
     "description": "Coleman rates the Brazos to 30F for campers as tall as 5 ft 11 in. Its listing credits Thermolock tubing at the zipper, Fiberlock stitching against shifting fill, roll fasteners and a stuff sack.\n\nIts label is exactly 30F, and the named construction features give it more credibility than the VENTURE. The HiZYNICE offers more room at a higher price.\n\nA dependable choice for campers under 6 ft who want a brand-name bag. It also carries the lowest price, and the stuff sack handles storage.",
     "specs": [
       "Rated to 30F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH prints a 30 to 70F range for this XXL bag, which measures 90 x 39 inches and ships with a compression sack. A lifetime replacement guarantee, a water-resistant shell and machine washing are listed.\n\nIts range begins at 30F, which suits the guide, and its 39 inch width gives far more room than the Coleman. The silver-and-black version is marketed as a backpacking bag, and its size makes it a car camper first.\n\nChoose it for tall campers who want space and a long guarantee. Toss it in the wash after muddy weekends.",
     "specs": [
       "30 to 70F stated range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "HiZYNICE sells a 90 x 39 inch bag for adults up to 6 ft 7 in with a 30F comfort rating, a 15F limit rating and a 0F extreme rating. A cotton flannel lining, a draft tube along the zipper and a dual-pull two-way zipper are listed.\n\nIt is the only pick that prints comfort, limit and extreme figures, which makes the 30F claim easy to read. A left-zip and right-zip pair can join into a double.\n\nA good fit for campers who want a three-tier rating and a soft lining. The flannel feels warm the moment you climb in.",
     "specs": [
       "30F comfort, 15F limit",

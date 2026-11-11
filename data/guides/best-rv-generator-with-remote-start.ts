@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cs60X1ZjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen5000DFc is a dual fuel inverter generator with 5,000 peak and 3,900 running watts on gasoline, and 4,500 peak on propane. It has an RV-ready TT-30R outlet, a 224 cc engine with CO sensor, a remote start key fob and under 3% THD. The listing claims noise as low as 52 dBA.\n\nAt $999 it costs $339.01 more than the Lifan 4800W and $500 more than the Westinghouse 4650. For that you get inverter-quality power safe for electronics and a parallel kit option. Pick this if you run an air conditioner plus electronics. The caveat is price, and the parallel kit is sold separately.",
     "specs": [
       "3,900W running, 5,000W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517C5p52dfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7VVLGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7VVLGW?tag=rvgearlab-amz-20",
     "description": "The Lifan 4800W Dual Fuel Inverter gives 3,800W running and 4,800W peak on gas, and 3,400W and 4,300W on propane. It offers a key fob, electric start and recoil backup, a CO-Minder auto shutoff and 68 lb weight with wheels. The listing claims a 10-hour runtime with a 2.64 gallon tank.\n\nAt $659.99 it costs $339.01 less than the Westinghouse iGen5000DFc and $160.99 more than the Westinghouse 4650. The Lifan adds recoil backup and lighter weight. Pick this if you want remote start and a manual fallback. The caveat is that you must connect or charge the starter battery before using the fob.",
     "specs": [
       "3,800W gas, 4,800W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vep608ZyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KT1HXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KT1HXV?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 delivers 3,600 rated and 4,650 peak watts on gasoline, and 3,240 rated on propane. Outlets include a 5-20R, an RV-ready TT-30R and an L5-30R, plus a 4 gallon tank with fuel gauge, electric push button and remote start. It carries a 3-year limited warranty.\n\nAt $499 it is $160.99 under the Lifan 4800W and $500 under the Westinghouse iGen5000DFc. It is a conventional open frame design, so expect more noise and less clean power. Pick this if you want remote start at the lowest cost. The caveat is no inverter and battery hookup still required.",
     "specs": [
       "3,600W gas, 4,650W peak",

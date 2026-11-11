@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall for power station for van life",
     name: "Jackery Explorer 300 Portable Power Station",
     amazonQuery: "Jackery Explorer 300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option for power station for van life",
     name: "ALLWEI Portable Power Station 300W",
     amazonQuery: "ALLWEI Portable Power Station 300W",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Battery cycle claim: 3,000 cycles"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Battery cycle claim","value":"3,000 cycles"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option for power station for van life",
     name: "Portable Power Station 120W",
     amazonQuery: "Portable Power Station 120W",
-    amazonUrl: "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
     specs: ["Capacity: 97.6Wh","Continuous output: 120W","Listed weight: 2.2 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"97.6Wh"},{"label":"Continuous output","value":"120W"},{"label":"Listed weight","value":"2.2 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick for power station for van life",
     name: "GRECELL Portable Power Station 500W",
     amazonQuery: "GRECELL Portable Power Station 500W",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519Wh","Continuous output: 500W","AC waveform: Pure sine wave","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"519Wh"},{"label":"Continuous output","value":"500W"},{"label":"AC waveform","value":"Pure sine wave"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick for power station for van life",
     name: "ZeroKor Portable Power Station 100W Outdoor Power Pack",
     amazonQuery: "ZeroKor Portable Power Station 100W Outdoor Power Pack",
-    amazonUrl: "https://www.amazon.com/dp/B0CXJ8S9Q9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CXJ8S9Q9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41xqWDIBbAL._SL500_.jpg",
     specs: ["Continuous output: 100W","Listed weight: 3.3 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"100W"},{"label":"Listed weight","value":"3.3 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -138,7 +138,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Explorer 300 Portable Power Station product page",
-    "href": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC portable generator safety",

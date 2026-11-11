@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p1KgBqOXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF7GDSP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF7GDSP7?tag=rvgearlab-amz-20",
     "description": "The CORE 6-person tent is 11 ft by 9 ft with a 72 inch center height, fits two queen air beds and pops up in 60 seconds or less. H2O Block fabric at 1200mm, a taped full rainfly that forms a vestibule, a hanging organizer and a gear loft complete the listing.\n\nCompared with the EVER ADVANCED, it adds a vestibule and a loft at a higher price. Against the hand-pitched tents, it trades cost for a faster pitch.\n\nIt suits families that want a fast pitch and a dry gear zone. The listing itself rates it for three people with gear and six without.",
     "specs": [
       "11 x 9 ft, 72 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w6Eos1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH81KHF8?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED is a 9 ft by 9 ft by 73 inch instant cabin with blackout fabric that blocks light and moderates temperature swings. It sets up in about 60 seconds, even for one person, and packs to 7.9 by 7.9 by 47.6 inches.\n\nAgainst the CORE, it is more affordable and adds the blackout fabric. Compared with the BravArrk, it has an instant frame and a skylight.\n\nIt suits families with kids who nap and campers who want a dark morning. The woven belt and storage bags add small conveniences.",
     "specs": [
       "9 x 9 x 73 in instant",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CKkf7tY8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHL3C9C7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHL3C9C7?tag=rvgearlab-amz-20",
     "description": "The Happy Travel 6-person cabin measures 10 ft by 9 ft with a 79 inch center height, the tallest peak in this group. A 190T polyester taffeta fabric with a 2000mm waterproof rating covers it, and a removable rainfly and electrical access port are listed.\n\nAgainst the BravArrk it adds 1 inch of height and an electrical port. Compared with the UNP it has a stated millimeter rating.\n\nIt suits tall campers who like to stand while changing. Two people can pitch it in about three minutes.",
     "specs": [
       "10 x 9 ft, 79 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c34Dn6EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1N15P7J?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 10 ft by 9 ft cabin with a 78 inch center height that fits six sleeping bags or two air mattresses. A large mesh door, multiple mesh windows and a mesh roof ventilate it, and two people can pitch it in about five minutes.\n\nIt costs about the same as the UNP and sits just under the Happy Travel on price. Against the EVER ADVANCED it has a larger floor.\n\nIt fits families who want a simple tent with plenty of mesh. The one-person pitch is listed as possible.",
     "specs": [
       "10 x 9 ft, 78 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OufasrtNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDKK2DXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDKK2DXY?tag=rvgearlab-amz-20",
     "description": "The UNP 6-person tent measures 10 ft by 9 ft by 78 inches, which the listing puts at 90 square feet. It has one large mesh door, five mesh windows and a mesh top, and it weighs about 18 lb in a 24.6 inch carry bag.\n\nIt is the lowest-priced pick and weighs less than the CORE. Two people set it up in about five minutes, a one-person pitch takes around ten.\n\nIt suits budget campers who want a roomy floor and plenty of windows. A one-year warranty comes with it.",
     "specs": [
       "10 x 9 x 78 in, 90 sq ft",

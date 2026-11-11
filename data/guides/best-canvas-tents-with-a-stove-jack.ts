@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder includes a pre-installed stove jack in a 16.5 ft canvas bell with a 9.2 ft peak. Its 210G TC cotton roof reduces condensation, and the double-stitched seams are reinforced for year-round use.\n\nThe jack is already fitted, while the WaldZimmer ships a pre-cut chimney opening. Next to the ShinHye it gives more height around a stove, 55 inch sidewalls and eight mesh openings.\n\nGroups that plan to run a stove and need space to spread out and stay clear of the walls get the most from it. A removable floor makes ash and ember cleanup easier.",
     "specs": [
       "Pre-installed stove jack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PHxTVhHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRRX9SW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRRX9SW9?tag=rvgearlab-amz-20",
     "description": "The ShinHye 3M bell is 9.85 ft across with a 7.22 ft peak and 1.9 ft sidewalls, carrying a stove jack hole about 3.3 ft up. Its canvas has a PU 5,000mm rating, with a PE bottom and sewn-in groundsheet.\n\nIt is the smallest tent here and the only one that gives a stated PU rating. Compared with the WaldZimmer, it has a sewn-in floor and roof vents, and it costs less than the WildFinder.\n\nA couple or small family wanting a stove in a compact tent will like it. Mesh windows, poles and a tool kit are included.",
     "specs": [
       "9.85 ft, 7.22 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ahVWjmrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is a 13 ft polycotton bell tent with a pre-cut chimney opening for stove use and a removable floor. It has an 8.2 ft top, a 5 ft door and four double-layer windows pairing cotton with mesh.\n\nIt costs less than the WildFinder and offers more floor than the other two mid-price tents. Against the ShinHye 3M it is larger with more clearance around a stove, and it lacks the PU coating.\n\nCampers who want a stove and plenty of room at a moderate price will like it. Cotton insulates and slows temperature swings.",
     "specs": [
       "13 ft, 8.2 ft top, 5 ft door",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QAbyIUoSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMQXMFJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMQXMFJV?tag=rvgearlab-amz-20",
     "description": "The ONLYCTR is a 13 x 13 x 8.2 ft bell tent for 4 to 6 people made of 7.0 oz cotton with polyester, a PVC floor and SBS zippers. Its fabric is listed as SGS tested to reject up to 99.9 percent of UV, and a stove jack is named in the title.\n\nIt is the lowest priced of the four and carries a PVC floor and roll-up sidewalls for ventilation. Against the WaldZimmer it uses a mixed cotton and polyester fabric, with a UPF50+ roof.\n\nBudget campers who want a spacious cotton tent that suits stoves will like it. Roll-up sidewalls give a 360 degree view in warm weather.",
     "specs": [
       "13 ft, 8.2 ft peak, 4 to 6",

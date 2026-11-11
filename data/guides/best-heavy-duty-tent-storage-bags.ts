@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tRLz9DytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFS4K17G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFS4K17G?tag=rvgearlab-amz-20",
     "description": "The XIDEAN bag gives 260 liters of room across an 83 inch length, built for tent poles and large tents. It uses a dual-layer composite fabric with a 600D Oxford outer and a dual zipper system, with a detachable wide strap.\n\nIts composite fabric adds a moisture-repelling inner layer beyond the plain 600D of the COOLBEBE. Against the HAOPENGYOU it adds a detachable strap and fixing straps at both ends.\n\nIt suits campers with party-tent poles or large tents who want a waterproof-tagged bag. The end straps cinch long loads so they do not slide.",
     "specs": [
       "83 x 16 x 12 in, 260 L",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipQReDefL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMF1NQCR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMF1NQCR?tag=rvgearlab-amz-20",
     "description": "The HAOPENGYOU bag is 83 inches long, 12 inches wide and 8 inches tall, made from heavy-duty 600D Oxford with an interior PVC coating. It has a dual zipper system and handles at both ends and in the center.\n\nIts PVC interior gives it more moisture resistance than the plain-fabric bags. Compared with the XIDEAN it is narrower and lower, so it fits pole sets better than large tents.\n\nIt suits campers with long poles, fishing rods or hammock stands who want a slim bag. The three handles balance the weight.",
     "specs": [
       "83 x 12 x 8 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pCG2cO2uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0030SFSW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0030SFSW4?tag=rvgearlab-amz-20",
     "description": "The ShelterLogic Store-It is a heavy duty nylon rolling bag with a reinforced bottom and sides. It has a wrap-around double zipper and three heavy duty rolling wheels.\n\nIt is the only pick here with wheels, and its nylon build is aimed at canopy frames rather than pole sets. Compared with the XIDEAN it moves heavy loads without carrying.\n\nIt suits owners who haul a metal canopy frame and need strength more than length. The reinforced bottom takes drag on pavement.",
     "specs": [
       "Heavy duty nylon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GNyLs4M4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVPQSJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVPQSJ1?tag=rvgearlab-amz-20",
     "description": "The COOLBEBE bag is a 260 liter shell, 83 inches long and 16 wide, made from water-resistant 600 denier fabric with a heavy-duty metal SBS zipper. It adds an extra-large zippered pocket and carries by shoulder strap or dual handles.\n\nIt matches the XIDEAN on size while costing less, and swaps the composite lining for a simpler fabric. Against the HAOPENGYOU it is wider and taller, so it takes whole tents.\n\nIt suits campers who want a large metal-zip bag for tents and accessories. The folding design stores flat when empty.",
     "specs": [
       "83 x 16 x 12 in, 260 L",

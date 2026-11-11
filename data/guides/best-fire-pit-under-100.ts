@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F6q6pbSZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX624JLD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX624JLD?tag=rvgearlab-amz-20",
     "description": "The Panovue is a 32 inch square fire pit table with a 4.8 inch deep, 23 inch wide bowl, thicker iron frame and triangular plates reinforcing each leg. The box includes the pit, mesh lid, poker and a wood grate.\n\nIts bowl is a touch deeper than the EcoNook, so it holds more wood and burns longer between refuels. It also adds a wood grate that lifts logs for better airflow, which the Quilushey does not list.\n\nIt suits backyard gatherings of four to six people that want a full-size square pit with the most complete kit. The 3-in-1 design adds grill and ice bucket uses.",
     "specs": [
       "4.8 inch deep, 23 inch bowl",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qdDnmUIJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM54MHGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM54MHGM?tag=rvgearlab-amz-20",
     "description": "The VINGLI is a 32 inch steel fire pit with a mesh lid, poker and a screen cover that the poker can lift. The solid steel mesh frame holds up to 33 lbs of wood and takes about 15 minutes to assemble with included tools.\n\nCompared with the Panovue it is lighter on features and quicker to put together. The listing says the size suits 4 to 8 people, and the airflow of the mesh bowl helps a larger fuel load burn cleanly.\n\nIt fits campers and backyard hosts who want the fastest path to a fire. The poker lifts the screen so adding logs is safe.",
     "specs": [
       "32 inch steel, mesh bowl",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GGvpuufxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBKNMD89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBKNMD89?tag=rvgearlab-amz-20",
     "description": "The EcoNook is a 32 inch square fire pit table with a 24 inch wide, 4.6 inch deep bowl, iron legs with triangular reinforcements and a spark screen, mesh lid, poker and wood grate in the box. It works as a pit, a grill or an ice bucket.\n\nIt is nearly identical to the Panovue in layout, with a slightly wider bowl and slightly shallower depth. It is also priced lower, so it is the stretch pick for buyers who want the table style.\n\nIt suits first-time fire-pit owners who want the standard 3-in-1 table at the lower price. The wood grate and poker are in the box.",
     "specs": [
       "24 inch wide, 4.6 inch deep bowl",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZG-dmZBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-amz-20",
     "description": "The Quilushey is a 32 inch square pit measuring 27 inches deep, 23 inches wide and 11 inches high, made from heavy-duty iron with a powder coated black finish. It includes a spark screen mesh cover and a fire poker.\n\nIt is slightly smaller in footprint than the Panovue and does not list a wood grate. In exchange you get a clean, simple setup with the safety accessories already in the box.\n\nIt works for patios, gardens and campsites where the pit moves between locations. The 3-in-1 design lets it double as a grill or a drink cooler.",
     "specs": [
       "27 x 23 x 11 inch iron pit",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512eaEhO78L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09L4R5JFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09L4R5JFG?tag=rvgearlab-amz-20",
     "description": "The Devoko is a 32 inch square fire pit table with a heavy-duty steel frame treated with a high-temperature coating, and it ships with a waterproof cover. A mesh spark screen and poker are included, and legs are described as sturdy.\n\nIt is the only pit here that includes a waterproof cover in the listing, which protects the steel between uses. Against the Quilushey, that cover adds to the value at a slightly higher price.\n\nIt suits backyard owners who leave the pit outside year-round. The cover helps the finish last.",
     "specs": [
       "32 inch steel, high-temp coating",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SSFv8UajL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097KJ2TQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097KJ2TQ9?tag=rvgearlab-amz-20",
     "description": "The Fire Beauty is a 22 inch round wood-burning pit made from heavy-duty carbon steel with a 600 degree high-temperature coating and a four-leg base. A built-in mesh spark screen blocks embers, and only a screwdriver is needed for setup.\n\nIt is the smallest and lowest-priced pit here, which makes it easy to store and move. Compared with the 32 inch tables, it trades bowl size for portability and a lower price.\n\nChoose it for small patios, camping trips and two to four people who want cozy ambiance without a big footprint. The four-leg base keeps it steady on a patio.",
     "specs": [
       "22 inch round, carbon steel",

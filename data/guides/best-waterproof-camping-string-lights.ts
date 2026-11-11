@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lx8iu8zkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW8LG5X5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW8LG5X5?tag=rvgearlab-amz-20",
     "description": "The Brightown has 108 ft of string with 52 LEDs at 2 ft spacing, an IP65 rating, a remote with timer and brightness levels of 25%, 50%, 75% and 100%. It lists 36 hours or more of continuous illumination, auto on and off, and solar or USB charging.\n\nIt is the only pick that states an IP rating, and it covers the longest run here. It costs more than the addlon.\n\nIt suits campers who want a large awning or site covered with weatherproof lights. The auto dusk switch saves attention.",
     "specs": [
       "108 ft, 52 LEDs, IP65",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516rONdcd8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C68WNH8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C68WNH8W?tag=rvgearlab-amz-20",
     "description": "The addlon 100 ft set has 50 G40 shatterproof LED bulbs, a 5000mAh battery, solar and USB charging, a remote with 3 brightness levels and 3 modes, a built-in timer and a dusk-to-dawn sensor. It includes a 6 ft lead from the panel and is sold as a 106 ft kit.\n\nIt carries the largest named battery here and costs less than the Brightown. It lists waterproof durability without an IP number.\n\nIt suits campers who want runtime after cloudy days and bulbs that survive drops. The sensor handles on and off.",
     "specs": [
       "100 ft, 50 G40 bulbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514waGKJgKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XRB4PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XRB4PS?tag=rvgearlab-amz-20",
     "description": "The OGERY has a 5400mAh battery that doubles as a USB power bank, a 49.2 ft string mixing warm and cool white LEDs across 11 lighting modes and a 1.68 lb body. It combines camping light, string light, work light and flashlight, with USB-C fast charging and up to 20 hours per charge.\n\nIt has the biggest battery here and it charges phones, which the others do not. It is shorter than the Brightown and splash-proof only.\n\nIt suits campers who want a multi-use unit that lights the table and charges a phone. The solar panel adds charge in the sun.",
     "specs": [
       "5400mAh, 49.2 ft, 11 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l-m1LbKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-amz-20",
     "description": "The KUQIHUG has 32.8 ft of RGB string on a storage reel, weighs 7.4 oz and has a 2000mAh battery that charges in about 5 hours. It lists 8 lighting modes including camping light and SOS, 5 to 12 hours of runtime and up to 30 hours on string lights alone.\n\nIt is the cheapest pick and a light one, with a reel that stops tangles. It is shorter than the others.\n\nIt suits campers who want quick-hang lights with a reel and an SOS mode. The ABS and PC body is listed for humid conditions.",
     "specs": [
       "32.8 ft RGB on a reel",

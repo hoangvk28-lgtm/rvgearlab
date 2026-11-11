@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D-tGqN9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-amz-20",
     "description": "The AMEHO 50 amp unit is rated at 19,000 joules, with a large LED screen showing six readings: wattage, kWh, and the voltage and amperage of both power lines. Its listing states that it cuts power on over-voltage, under-voltage or over-temperature and reconnects when voltage returns to 104 to 132 volts. It carries an IP67 cover, a fireproof ABS housing, and FCC, RoHS and UL cord testing.\n\nIt ranks first because it states its cutoff window, shows both legs separately and prints the fault guide on the unit, at $79.99. It costs $6.00 less than the Kohree 20000J, which states a similar window but offers a simpler display, and $35.00 more than the 26000J manual-reset unit, which lacks a stated window and brand. It is $30.00 below the Carmtek, which lists only 4,200 joules.\n\nPick this if you want a relay with a stated window and a screen that shows each leg and kWh. The caveat is that the listing does not name a warranty period.",
     "specs": [
       "19,000J, 104 to 132V window",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QsucWqS0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPBHLYB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPBHLYB?tag=rvgearlab-amz-20",
     "description": "The Kohree 50 amp unit is rated at 20,000 joules and its listing explains its operating principle: a relay trips when input voltage rises above 132 volts or falls below 104 volts, and reconnects automatically when voltage normalizes. It adds a large LED screen showing voltage and current, an IP67 cover, flame-retardant housing, pure copper contacts, a right-angle plug and two U.S. design patents.\n\nIt ranks second at $85.99, $6.00 above the AMEHO, which shows more readings but similar protection. It costs $41.00 more than the 26000J manual-reset unit, and $24.00 below the Carmtek. The listing includes a useful caution: if voltage sits near 105 volts, adding load can push it past the threshold and trip the unit.\n\nChoose it if you want a manufacturer that explains how the relay works and a patent-protected design. The caveat is a simpler display than the AMEHO and no stated warranty length.",
     "specs": [
       "20,000J, relay 104 to 132V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nv8rI75L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-amz-20",
     "description": "This $44.99 50 amp unit is rated at 26,000 joules, with an LED display for voltage, current and power, indicator lights for wiring faults, an oversized waterproof cover, an anti-theft ring and ETL and FCC certification. The listing says it shuts off power during faults such as low voltage or overheating and stays off until you reset it manually, and states that typical models offer only 9,500 to 15,000 joules.\n\nIt ranks third because it adds a shutoff, a lock ring and certification for far less than the AMEHO or the Kohree, which cost $35.00 and $41.00 more, but it does not state a voltage window. It is $3.00 below the RVRVHOMM, which lists more joules but no shutoff or lock ring. Compared with the GEARGO 13000J, it costs $5.00 less and adds a relay and a lock ring.\n\nPick this if you want a relay and a theft ring at the lowest price and are happy to reset it by hand. The caveat is that a manual reset leaves the coach dark after any trip until you return, and the brand is unnamed.",
     "specs": [
       "26,000J, ETL and FCC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VzE7mbjTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-amz-20",
     "description": "The RVRVHOMM 50 amp is rated at 30,000 joules with MOV, GDT and TVS protection layers, an IP68 cover, a circuit analyzer with nine indicator states including missing L1 and missing L2, and a three-year warranty. Its listing gives ratings of 50A, 125V and 6,250 watts and an operating range of minus 35 to plus 110 degrees Celsius. It costs $47.99.\n\nIt ranks fourth because it lists the highest joule number in the group but no display, no cutoff and no lock ring. It is $3.00 above the 26000J Manual Reset, which adds shutoff and a ring, and $2.00 below the GEARGO 13000J, which lists fewer joules and fewer fault states. Note that its 6,250 watt figure is one 125 volt leg; a full 50 amp service carries two legs.\n\nChoose it if you want plain surge and wiring protection with a warranty at a low price. The caveat is that it will not disconnect in a brownout, so it does not protect the air conditioners from low voltage.",
     "specs": [
       "30,000J, IP68 cover",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q0Fbl8DGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-amz-20",
     "description": "The GEARGO 50 amp is a plain plug-in protector rated at 13,000 joules with a circuit analyzer chart listing correct wiring, open ground, open neutral, reverse polarity, hot and ground reversed and no power. The listing mentions FCC testing, V-1 flame-retardant materials, an IP68 design with a protective cover, a right-angle plug with grip handles and a three-year warranty. It costs $49.99.\n\nIt ranks fifth at $49.99, $2.00 above the RVRVHOMM that lists more joules and more fault states, and $5.00 above the 26000J Manual Reset that adds a relay and ring. It is $36.00 below the Kohree. Its fault chart omits the per-leg L1 and L2 states a 50 amp pedestal can show, which the RVRVHOMM lists.\n\nPick this only if you prefer this brand and need nothing but a basic check. The caveat is that the 26000J Manual Reset costs $5.00 less and adds a shutoff and lock ring.",
     "specs": [
       "13,000J, FCC tested",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNi4HMcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-amz-20",
     "description": "The Carmtek 50 amp unit absorbs spikes up to 4,200 joules, rated 50A at 125/250 volts and 50/60 Hz, with an operating range of minus 35 to plus 110 degrees Celsius. Its circuit analyzer chart lists ten conditions including L1 open, L2 open and L1 or L2 reversed with neutral or ground, and the listing says it is UL tested, built from flame-retardant material, weather resistant and thermally protected.\n\nIt ranks last at $109.99 because it is the second most expensive pick and has the lowest joule rating. It costs $24.00 more than the Kohree and $30.00 more than the AMEHO, both of which list relays and 19,000 to 20,000 joules. Its strongest point is the detailed ten-state fault chart, which is longer than the RVRVHOMM's nine, and a named UL test.\n\nChoose it if the UL test and the long fault chart matter most and you do not need a relay. The caveat is that the listing describes no display and no automatic cutoff for the price.",
     "specs": [
       "4,200J, UL tested",

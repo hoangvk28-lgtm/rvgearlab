@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aTxJgUWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-amz-20",
     "description": "BLASOUL packs a 49800mAh lithium polymer battery with 22.5W fast charging through PD 3.0 and QC 3.0. It includes four built-in cables, three for output and one for input, and it also has wireless charging.\n\nIt combines the biggest listed capacity with fast charging and no loose cables, which the 38800mAh YELOMIN cannot match. The built-in cables mean you cannot forget the right one.\n\nCampers who charge phones, tablets and earbuds on multi-day trips will like having so many options on one device. It also tops up earbuds and a watch in one sitting.",
     "specs": [
       "49800mAh, 22.5W PD and QC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NlvJTsrsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9LPZ1NW?tag=rvgearlab-amz-20",
     "description": "TecoHikee is a 49800mAh solar power bank with 22.5W fast charging and four built-in data cables. It has an IP65-rated enclosure for the unpredictable outdoors.\n\nThe IP65 rating is the standout against the BLASOUL, which does not list one. It is built for extended outdoor adventures.\n\nHikers and anglers who face splashes and dust will like the tougher case. The sealed shell also protects it in a loaded pack.",
     "specs": [
       "49800mAh, 22.5W fast charging",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n45GlbYgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H297J9T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H297J9T2?tag=rvgearlab-amz-20",
     "description": "Uukto is a 20000mAh solar power bank with three built-in cables, three output ports and a large camping light plus two multi-mode flashlights. The case is compact for its capacity.\n\nThe lights set it apart from the plain 49800mAh banks, and it is lighter and more pocketable. It makes a handy tent light at night.\n\nTent campers who want a light and a charger in one will like it. It slips into a tent pocket without taking much room.",
     "specs": [
       "20000mAh power bank",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZqNckzWKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WDZW7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WDZW7G?tag=rvgearlab-amz-20",
     "description": "wongkuo is a 49800mAh solar charger that supports QC 3.0 fast charging and a USB-C port. A smart protection IC chip guards against overcharging.\n\nIt offers the same listed capacity as the BLASOUL for less, and the protection chip adds peace of mind. It has fewer extras than the pricier banks.\n\nBudget campers who want large capacity will like the price. Groups can share one bank for a whole weekend.",
     "specs": [
       "49800mAh, QC 3.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJBVZoE7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSS56BYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSS56BYQ?tag=rvgearlab-amz-20",
     "description": "Nuynix is a 49800mAh solar power bank with 15W USB-C fast charging and multiple USB ports. It supports solar and USB dual recharging.\n\nIt is one of the lowest-priced large banks, and it supports charging several devices at once. The 15W output is slower than the 22.5W on the BLASOUL.\n\nCampers who need capacity on a tight budget will like it. It will keep a couple of phones going for days.",
     "specs": [
       "49800mAh bank",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hX4LN+ZcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWCG53DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWCG53DH?tag=rvgearlab-amz-20",
     "description": "YELOMIN is a 38800mAh solar power bank with USB-C fast charging and three simultaneous outputs. Heat-dissipating materials and a weatherproof design are listed.\n\nIt sits between the 20000mAh Uukto and the 49800mAh banks and is the cheapest of the group. It recharges by wall adapter or solar.\n\nWeekend campers who want a lighter bank will like the middle capacity. It fits a daypack without feeling like a brick.",
     "specs": [
       "38800mAh bank",

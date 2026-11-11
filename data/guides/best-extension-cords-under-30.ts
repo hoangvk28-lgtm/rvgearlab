@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pGiVmzY+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2KCK9DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2KCK9DN?tag=rvgearlab-amz-20",
     "description": "HONDERSON is a 30 foot, 16/3 SJTW outdoor cord rated 13A, 1625W and 125V. It is UL listed, works from -40F to 140F, and has a slip-resistant design with a thick vinyl jacket.\n\nAt about $23 it costs the same as the PALARINE 30 ft and states the full temperature range. It sits between a 20 foot cord and the 50 foot options for reach.\n\nIt suits winter camping and string lights. Its black cable hides along a tent or fence.",
     "specs": [
       "30 ft, 16/3 SJTW, 13A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yL-JH7-KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMTF4W8H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMTF4W8H?tag=rvgearlab-amz-20",
     "description": "PALARINE is a 30 foot black outdoor cord with a UL-certified SJTW build in 16 gauge. It has a thick vinyl sheath, copper conductors and a 13A, 125V rating.\n\nAt about $23 it costs the same as the HONDERSON 30 ft and gives the same reach. It is a plain cord without a stated temperature range.\n\nIt suits a campsite where a UL mark matters. The black cable blends in.",
     "specs": [
       "30 ft, 16 gauge, 13A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dd22bgPuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1B4WQCN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1B4WQCN?tag=rvgearlab-amz-20",
     "description": "HUANCHAIN is a 50 foot, 16 AWG black outdoor cord rated 13A, 125V and 1625W with a flame-resistant jacket and IP65 weather resistance. A long strain relief design passes 20,000 bends.\n\nAt about $25 it costs $3 more than the other HUANCHAIN 50 ft and adds the flame-resistant jacket. It gives you 20 feet more than the 30 foot cords.\n\nIt suits a site with a distant post. Its highly flexible vinyl resists kinks.",
     "specs": [
       "50 ft, 16 AWG, 13A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fEaovNbUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TGQYRYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TGQYRYT?tag=rvgearlab-amz-20",
     "description": "HUANCHAIN's 50 foot cord is 16/3 SJTW rated 13A, 125V and 1625W with extra-size NEMA 5-15 ends and strain relief at both plugs. The vinyl is flame and cold resistant.\n\nAt about $22 it costs $3 less than the HUANCHAIN 50 ft with the flame-resistant jacket and gives the same length. It is the cheaper way to get 50 feet in this guide.\n\nIt suits a long reach in cold weather. The large plug ends are easy to grip with gloves.",
     "specs": [
       "50 ft, 16/3 SJTW, 13A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41de+Bq8MLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ1B39DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ1B39DD?tag=rvgearlab-amz-20",
     "description": "Skrizcable is a 16 gauge, 50 ft cord rated 13A, 1625W and 125V, with an IP65 vinyl jacket, a three-strand copper core and ETL and cETL listing. A 100 ft version drops to 10A.\n\nAt about $24 it is between the two HUANCHAIN cords on price and carries both ETL and cETL marks. It offers a single clean 50 foot run.\n\nIt suits a campsite with a distant post. It is listed for use in the US and Canada.",
     "specs": [
       "16 gauge, 50 ft, 13A",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411SZZMRvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08V8TW462?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08V8TW462?tag=rvgearlab-amz-20",
     "description": "DEWENWILS is a 25 foot white flat-plug cord with three grounded outlets, rated 16/3 and ETL listed. Its SPT-3 insulated wire stays flexible, and the flat plug saves space behind furniture.\n\nAt about $20 it carries the lowest price in this guide and pairs three outlets with a flat plug. It is meant for indoors, so it fits a camper interior.\n\nIt suits a van or RV where the outlet is behind a bench. Keep it off the wet ground.",
     "specs": [
       "25 ft, 16/3, 3 outlets",

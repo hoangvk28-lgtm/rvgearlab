@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JdXA0Q6NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-amz-20",
     "description": "Evernexta uses a 208cc engine to deliver 4000 starting and 3400 running watts at under 3 percent THD. It has a 30A outlet, two 120V AC outlets and a 12V DC port, a 2 gallon tank for up to 6.5 hours at 50 percent load, and an ECO mode that slows the engine under light loads.\n\nIt has roughly double the running watts of the 1800W units here for about $55 less. The cost is weight, 55 lb in an open frame, and a louder engine than the enclosed Aceup.\n\nChoose it for an RV with a 30A inlet, a cabin or a site with a fridge and a small air conditioner. Overload protection, an AC breaker and low-oil shutdown are built in.",
     "specs": [
       "4000 starting, 3400 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7mVV4WaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWD6HGVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWD6HGVF?tag=rvgearlab-amz-20",
     "description": "All Power's inverter generator has a 79.7cc engine that delivers 2000 starting and 1800 running watts at 39.6 lb. It runs as low as 62 dBA at a quarter load, gives up to 6.5 hours at half load on 0.88 gallons and has a CO detect shutdown sensor.\n\nIt carries a CO sensor where the Evernexta and LIFAN rely on the owner, and it weighs 15 lb less than the Evernexta. It gives up 1600 running watts to get there.\n\nChoose it for camping and tailgating with lights, a fan, a TV and a laptop. A low-oil alarm, overload alarm and CO warning light sit on the panel.",
     "specs": [
       "2000 starting, 1800 running watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RK8XmeKAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLZTGNYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLZTGNYW?tag=rvgearlab-amz-20",
     "description": "LIFAN lists 2300 peak and 1800 running watts from a gas inverter generator aimed at camping and tailgating. Eco mode manages engine speed under light loads, and a parallel-ready design supports a compatible second unit for more output.\n\nIt matches the All Power on running watts and adds the option to double up later. It does not have a CO sensor, so a battery CO alarm is a must near your campsite.\n\nChoose it if you want to start with one unit and add a second when your needs grow. It suits RV trips and event stands.",
     "specs": [
       "2300 peak, 1800 running watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U5glQ08BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJSR8W1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJSR8W1Q?tag=rvgearlab-amz-20",
     "description": "Aceup is a 1500 peak and 1200 running watt inverter generator with a 4-stroke OHV engine and a fully enclosed case. It gives up to 6 hours at half load on 0.6 gallons, and has a 120V AC outlet, a 12V DC outlet, USB-A and USB-C ports and a digital display.\n\nTHD below 1.5 percent is the cleanest sine wave here, which protects phones, TVs and laptops. It has the lowest running watts of the gas units.\n\nChoose it for a tailgate or a small camp where electronics matter more than raw power. It carries a 2-year warranty and lifetime technical support.",
     "specs": [
       "1500 peak, 1200 running watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20",
     "description": "Jackery's Explorer 300 holds 292Wh in LiFePO4 cells rated for 4000 or more cycles and weighs 7.5 lb. It has a 300W inverter with a 600W peak, a 100W USB-C PD jack plus a 120W car socket.\n\nIt stores a fraction of what a gas unit can run on, and it makes no noise, no fumes and no refueling trips. It is the only pick safe to use inside a tent.\n\nChoose it for CPAP nights, phones and lights where a generator would be noisy. It suits buyers who camp in quiet hours.",
     "specs": [
       "292Wh LiFePO4, 4000+ cycles",

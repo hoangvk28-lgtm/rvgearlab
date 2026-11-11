@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YNqhne5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-amz-20",
     "description": "Rated at 20,000 BTU across two propane burners, the ODSD folds to 10.63 by 9.06 by 5.12 inches. The title lists a windshield, a frying pan, a coffee stand and a carry bag, and the listing describes a magnetic closure and 304 stainless steel.\n\nIt is the only two-burner here that comes with a pan and coffee stand, and at 3.98 lb it is easy to move from trunk to table. The Coleman Triton states a bit more output.\n\nIt suits families and weekend campers who want a ready-to-cook set. The windproof shield keeps the flame steady.\n\nFolded, the ODSD measures about 10.63 by 9.06 by 5.12 inches and closes with a magnet, so it tucks beside a cooler in the trunk. The 304 stainless steel build and 20,000 BTU across two burners are enough to boil water and fry at the same time, and the included pan and coffee stand mean breakfast can start without extra shopping. Weekend campers get a ready-made kitchen.",
     "specs": [
       "20,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "Two independently adjustable burners share 22,000 total BTU on the Coleman Triton, and revised knob rotation improves simmering. Two wind guards flank the burners, the chrome grate lifts out for washing and a sturdy latch locks the lid for the drive.\n\nIt lists more output than the ODSD and comes from a brand with deep camp-stove roots. The latch keeps it closed on the drive.\n\nIt suits families who want a familiar stove they can find parts and fuel for. Cleanup is easy with the removable grate.\n\nWith 22,000 BTU split between two burners that adjust independently, the revised knob rotation gives finer control at the low end, which is where simmering sauces and rice live. Two wind guards flank the burners to hold the flame steady at a breezy site. A chrome grate lifts out for washing, which suits a family that cooks full dinners every night of the trip.",
     "specs": [
       "22,000 BTU, two burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The GasOne GS-3400P is a single-burner stove that runs on a butane cartridge or a propane cylinder. Piezo ignition, an adjustable dial and a built-in cartridge ejection system are listed.\n\nIt costs a fraction of the two-burners and still handles coffee and eggs. Fuel flexibility is its edge over the butane-only GasOne Butane.\n\nIt suits car campers who want a spare or a breakfast stove. A carrying case is included.\n\nRunning on either a butane cartridge or a propane cylinder makes this GasOne the flexible spare in the kit, since whichever fuel is in the truck will light it. Piezo ignition and a heat dial keep it simple, and the cartridge ejection safety gives peace of mind when swapping canisters. A carrying case rides in the bin, so the stove is always ready for a quick coffee.",
     "specs": [
       "Butane or propane fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The GasOne Butane stove lists 7,650 BTU, CSA approval, automatic ignition and a safety shut-off. It comes in a carrying case and is described as quiet in operation.\n\nIt is simpler than the dual-fuel GS-3400P and costs a little less. The CSA mark is the key difference from the BIG HORN.\n\nIt suits car campers who want a tidy, approved butane stove. The listing says outdoor use only.\n\nCSA approval gives this 7,650 BTU stove a certification that matters to campers who want a recognized safety mark on the equipment they use near a tent. Automatic ignition and a safety shut-off handle the start-up and stop, and the quiet burner keeps early mornings peaceful. The included case and the $24.99 price make it a tidy butane stove for a couple of coffee-and-eggs mornings.",
     "specs": [
       "7,650 BTU, CSA approved",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "The BIG HORN is a bucket-style folding butane stove with one-touch ignition and a 2200 W (7500 BTU) output. Its burner mixes cast iron, copper and aluminum, and it carries SGS certification for North America.\n\nIt folds into a compact carry bag and is the least expensive butane stove in this list. The cast iron and copper burner adds heft and even heat.\n\nIt suits campers who want to save space and money. It also doubles as an emergency stove.\n\nThe bucket-style body folds into a carry bag, so the stove stows into small gaps in a trunk or pantry box. A cast iron, copper and aluminum burner spreads the 7,500 BTU of heat evenly under a pan, and one-touch ignition lights it in a single press. At $20.89, it is a practical butane stove for a weekend or as a backup at home.",
     "specs": [
       "2200 W (7500 BTU)",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VcXqbraSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-amz-20",
     "description": "Coghlan's Folding Stove is a coated steel stove with a 6.5 by 6.5 inch surface that weighs 16 oz and folds flat. It burns condensed fuels such as fuel cubes and solidified alcohol, per the listing.\n\nIt is the cheapest stove here and weighs only 16 oz, with no regulator or hose. It handles small and medium pots only.\n\nIt suits campers who want an emergency or backup stove. Fuel is sold separately.\n\nFolding flat, this coated steel stove weighs 16 oz and gives a 6.5 by 6.5 inch cooking surface for a small pot or a cup of coffee. It burns fuel cubes or solidified alcohol, which means there is no regulator, hose or canister to buy. At $16.49 it is a simple backup that sits in a glove box, ready for an emergency brew.",
     "specs": [
       "6.5x6.5 inch surface, 16 oz",

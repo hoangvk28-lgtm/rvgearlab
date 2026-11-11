@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eXlkCeNYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7CF58H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7CF58H?tag=rvgearlab-amz-20",
     "description": "SUNGOLDPOWER's 5000W is a 48V hybrid inverter with an 80A MPPT and a 40A AC charger, with four charging and four output modes. SUNGOLDPOWER's 5000W 48V hybrid inverter converts to 110/120V AC and combines an 80A MPPT solar charger with a 40A AC battery charger. Four charging modes (AC priority, solar priority, only solar, mains and solar) and four output modes are listed, with up to 5500W and 500V of PV input.\n\nIt outputs more than Renogy 3500W Hybrid but is bigger. UL1741 is named in the title.\n\nBest for a large 48V rig. It is the strongest AC-plus-solar option for a large 48V off-grid rig with 120V loads.",
     "specs": [
       "5000W hybrid inverter, 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311d6iKWahL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKFYZ8DL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKFYZ8DL?tag=rvgearlab-amz-20",
     "description": "Renogy's 3500W hybrid has an 80A/150V MPPT and a 40A battery charger at 120V output. Renogy's 3500W hybrid inverter charger converts 48V DC to 120V AC with 7000W peak surge and integrates an 80A/150V MPPT solar controller and a 40A battery charger. Idle draw is listed at 48W, falling to 25W in power-saving mode.\n\nIt is smaller than SUNGOLDPOWER 5000W and priced lower. It needs a 48V bank.\n\nBest for a mid-size 48V rig. It is a clean, 120V-output option for a 48V bank where solar and shore or generator AC both need to charge.",
     "specs": [
       "3500W hybrid inverter, 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KO5hNchYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH9G2MXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH9G2MXP?tag=rvgearlab-amz-20",
     "description": "SUMRY's 3600W is a 24V hybrid with a 120A MPPT and a 100A AC battery charger. The SUMRY hybrid inverter charger turns 24V DC into 110V AC at 3600W (7200W peak) and has a built-in 120A MPPT controller. It works with most 24V batteries (AGM, gel, lead-acid and lithium-ion) and lets you set the charging and output priority for solar, battery or utility.\n\nIt has a stronger AC charger than Renogy 3500W Hybrid but a 24V bank. The listing is home-oriented.\n\nBest for a 24V system that wants utility priority. It is a mid-power 24V option when you want to prioritize solar over utility power.",
     "specs": [
       "3600W hybrid inverter, 24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QoYt5LhsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJZRRQ2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJZRRQ2M?tag=rvgearlab-amz-20",
     "description": "DATOUBOSS's 1800W is a 12V to 120V inverter with dual 100A MPPT that draws utility power when needed. DATOUBOSS packs an 1800W 12V-to-120V pure sine inverter and dual 100A MPPT controllers into one case. The listing cites 99.9% tracking efficiency and a clear LCD with multi-color LEDs, and says it draws utility power when solar and battery are not enough.\n\nIt is the only 12V choice here but is much smaller than SUMRY 3600W.\n\nBest for a 12V RV with modest AC loads. It is the only 12V option in this set with 120V output, but add up your appliance wattage first.",
     "specs": [
       "1800W inverter, 12V to 120V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jVMXXRkHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WP54ZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WP54ZJ?tag=rvgearlab-amz-20",
     "description": "PROSOLI's 12000W is a 48V split-phase hybrid with two MPPT controllers and grid support. PROSOLI's 12000W unit is a 48V split-phase hybrid inverter with two built-in MPPT solar controllers and Wi-Fi monitoring. It supplies household loads from solar first, tops up from the grid when load is high, and lets up to six units be paralleled for 72kW.\n\nIt is far larger than any other pick and not RV-sized. It parallels up to six units.\n\nBest for a fixed off-grid home. It is a home-scale system and impractical for a travel trailer, so consider it only for a fixed off-grid build.",
     "specs": [
       "12000W hybrid inverter, 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Oas+kz3bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1D4QGSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1D4QGSY?tag=rvgearlab-amz-20",
     "description": "VEVOR's 6000W is a 48V hybrid with a 120A MPPT and 220/230V output. VEVOR's 6000W hybrid inverter pairs a pure sine wave inverter with an MPPT solar controller and a Wi-Fi module, for 48V battery systems. The listing gives its output as single-phase 220/230V AC.\n\nIts listing does not spell out AC charging terms the way SUNGOLDPOWER 5000W does, so check the manual.\n\nBest for a 230V cabin. Its 220/230V output does not match standard US 120V RV outlets, so confirm the voltage before buying.",
     "specs": [
       "6000W hybrid inverter, 48V",

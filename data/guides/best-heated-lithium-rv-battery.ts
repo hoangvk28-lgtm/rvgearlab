@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41suGiXe1sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ957H39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ957H39?tag=rvgearlab-amz-20",
     "description": "The LiTime 100Ah Self-Heating is the easiest heated upgrade for most RVs. It fits a standard Group 24 tray, and its Regular mode starts heating below 41F once charge is applied, then begins charging at 50F. An Energy-Efficient mode is also available to save solar input on marginal days.\n\nThe MARSENERGY below costs about $100 less and also fits Group 24, but its listing gives fewer details on how heating behaves and it does not offer two modes. LiTime also adds IP65 sealing, a 30-second overload auto-recovery, and Bluetooth temperature readout.\n\nIt suits owners with one Group 24 tray who camp through freezing nights. For larger loads, you will want two in parallel or the 320Ah LiTime below.",
     "specs": [
       "Heats below 41F, charges at 50F",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UodzrGQeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCMTQHFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCMTQHFD?tag=rvgearlab-amz-20",
     "description": "The LiTime 320Ah Mini brings the same two-mode heater as the top pick to a full house bank. It stores 4,096Wh and supports 2,560W of continuous output in a 14.49 x 7.44 x 10.04 inch case, smaller than most 300Ah batteries.\n\nIt ranks behind the 100Ah LiTime only because most owners need the drop-in fit first. Compared with the generic 300Ah heated battery below, it costs roughly $170 more but adds a 5-year warranty, IP65 sealing, and documented heater thresholds.\n\nIt is the pick for full-time RVers in cold regions running a 2000W inverter. Measure your bay first, since it will not fit a Group 31 tray.",
     "specs": [
       "320Ah, 4096Wh",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cMUfmrSxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXGHP6Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXGHP6Y6?tag=rvgearlab-amz-20",
     "description": "The MARSENERGY 100Ah is the lowest-cost way to get a heated Group 24 battery. Its 60W heater activates between -4F and 32F, and it measures 10.16 x 8.46 x 6.54 inches at 21 lbs.\n\nIt is about $100 cheaper than the LiTime top pick, but offers a single heating mode and fewer details on when charging resumes. The VATRER Group 31 below costs a little more and gives a clearer heat-then-charge sequence but needs a bigger tray.\n\nIt is a strong value for weekend winter trips. Below -4F the BMS shuts the battery down, so in very deep cold keep it in an insulated compartment.",
     "specs": [
       "60W heater",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XiarPxSPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNVQXN2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNVQXN2J?tag=rvgearlab-amz-20",
     "description": "The VATRER Group 31 heated battery documents its heater cleanly: it activates below 32F when connected to a charger, stops at 41F, and then charging begins normally. It fits Group 31 trays common in motorhomes.\n\nIt costs slightly more than the MARSENERGY above for a larger footprint at the same 100Ah. A key catch is that heating only runs when charge current exceeds 10A, so a small trickle charger or weak winter solar may not trigger it.\n\nIt suits rigs with Group 31 trays and a 20A or larger charger. Do not pair it with non-heated batteries, as the listing warns.",
     "specs": [
       "Heats below 32F, stops at 41F",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ntErG5hKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-amz-20",
     "description": "This 300Ah self-heating battery is the cheapest way to get a large heated bank in this roundup. It claims more than 5,000 cycles at full depth of discharge and tracks temperature and cycle count through an app.\n\nIt costs around $170 less than the LiTime 320Ah above, but its listing does not state the temperature where heating starts or stops, and it gives no warranty term. Those gaps are why it ranks below the documented options.\n\nIt can be worth it for DIY builders who want 300Ah of heated storage on a budget. Ask the seller for heater thresholds before relying on it in freezing weather.",
     "specs": [
       "300Ah, 3840Wh",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sXWrk-5GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW3PJ634?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW3PJ634?tag=rvgearlab-amz-20",
     "description": "The VATRER 460Ah is the heavyweight option. Its 300A BMS supports high loads like air conditioners and ovens through a large inverter, and the heater runs from -4F to 41F before charging begins.\n\nIt costs well above every other pick and is too big for most bays at 18.9 x 10.82 x 9.84 inches, which is why it sits last despite top capacity. Compared with two LiTime 320Ah units, it saves cabling but offers less total energy.\n\nIt suits Class A motorhomes with a dedicated bay that want air conditioning on battery. Make sure your inverter, cabling, and fusing are rated for 300A.",
     "specs": [
       "460Ah, 300A BMS",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JTCK+YRXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBJGJTMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBJGJTMK?tag=rvgearlab-amz-20",
     "description": "The SunJack lists rugged ETFE, IP67-rated ports and a waterproof casing, with integrated kickstands and carabiners. It folds in 4 panels to tablet size and has PD30W USB-C, dual USB ports and a DC output that can all charge at once.\n\nIt has the strongest USB-C port of the four at 30W and costs about twice the others. It adds sealed ports and integrated kickstands on top of the ETFE build.\n\nIt suits campers who set up in rough places and want to charge a laptop or phone. The DC output tops up a power station.",
     "specs": [
       "ETFE cells, 4 panels, tablet size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wQDxPoGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY1K8TLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY1K8TLH?tag=rvgearlab-amz-20",
     "description": "The upgraded FlexSolar lists a triple-port setup with PD2.0 USB-C at 18W, QC3.0 USB-A and a 19V DC output for power stations. It has 24 percent efficiency, IP67 protection against heavy rain and a smart safety chip.\n\nIt adds a 19V DC output the older FlexSolar 40W lacks. It costs less than that sibling and is a better match for station feeding.\n\nIt suits campers who want to feed a station and charge phones. The 19V DC output is stated clearly.",
     "specs": [
       "24% cells, IP67",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The older FlexSolar lists 24 percent cells with two 18W ports, one QC3.0 and one PD2.0, a DC output and an IC chip. It carries an IP67 rating and 2 carabiners.\n\nIt has the same ports as the upgraded model with a less specific DC listing, and it costs about $18 more. It leans on simultaneous fast charging of two devices.\n\nIt suits campers who mostly charge phones. The smart chip detects devices.",
     "specs": [
       "24% cells, IP67",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UvVHpG9gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09G2Z6ST8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09G2Z6ST8?tag=rvgearlab-amz-20",
     "description": "The ZeroKor lists 22 percent monocrystalline cells, a weight of 3.3 lbs and a kickstand design. It offers USB output at 5V/3A, 9V/2A and 12V/1.5A and a TIR-C chip that recognizes devices.\n\nAs the least expensive option, it the only one with a stated weight. It has no DC output listed, unlike the upgraded FlexSolar.\n\nIt suits budget campers who want to prop the panel at an angle. The device recognition helps protect phones from overcharging.",
     "specs": [
       "22% cells, 3.3 lbs",

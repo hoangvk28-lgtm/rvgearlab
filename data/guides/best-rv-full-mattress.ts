@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dULMYwr2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GWVHXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GWVHXV?tag=rvgearlab-amz-20",
     "description": "The INEHM is an 8 inch all-foam short full RV mattress measuring 48 by 75 inches, with cooling gel memory foam and wave foam. It is fiberglass-free and holds CertiPUR-US and OEKO-TEX certifications.\n\nIt is the only pick here made to the RV short full dimension, so it fits platforms that household fulls cannot. It suits camper owners with narrow beds who want a boxed mattress with a long trial.",
     "specs": [
       "48 by 75 inch short full",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vrWhx-YUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSJTDWXS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSJTDWXS?tag=rvgearlab-amz-20",
     "description": "The Zinus 8 inch Full Cooling Essential is a memory foam mattress with a medium feel that contours to the body for pressure relief. The cooling design helps in warm campers.\n\nCompared with the 6 inch Zinus it adds two inches of foam for more cushioning, while staying well below the INEHM in price. It suits larger RVs with true 54 inch full platforms.",
     "specs": [
       "8 inch memory foam",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cW3xuSMUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKT9ZGW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKT9ZGW3?tag=rvgearlab-amz-20",
     "description": "The EGOHOME is an 8 inch medium firm memory foam full mattress with green tea infusion and a breathable bubble-hole foam structure. It supports a range of sleep positions by following body curves.\n\nIt sits near the Zinus 8 inch on thickness and feel, with a green tea infusion as its distinguishing feature. It suits sleepers who like a firmer memory foam.",
     "specs": [
       "8 inch memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416dGEG58JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QW9612?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QW9612?tag=rvgearlab-amz-20",
     "description": "The GAESTE is an 8 inch cooling gel memory foam full mattress with a medium feel and pressure relief. It is the lowest priced 8 inch option here.\n\nIt matches the Zinus 8 inch on thickness at a lower cost and adds cooling gel. It suits budget buyers outfitting a larger camper or guest bed.",
     "specs": [
       "8 inch cooling gel foam",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RHvE5oDcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSK5HBNJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSK5HBNJ?tag=rvgearlab-amz-20",
     "description": "The Zinus 6 inch Full Cooling Essential is a thinner version with the same medium feel and cooling design. It reduces mattress height for platforms with limited headroom.\n\nIt trades two inches of foam for a lower profile than the Zinus 8 inch, and costs about the same. It suits bunks and guest beds where height matters.",
     "specs": [
       "6 inch memory foam",

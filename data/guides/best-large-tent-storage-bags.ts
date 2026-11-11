@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Tk9H8hhaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP5ZMQWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP5ZMQWW?tag=rvgearlab-amz-20",
     "description": "The Adnee is an 83 by 12 by 8 inch bag made of 600D Oxford cloth with an inner PVC coating for water resistance. Carry handles sit at both ends and in the center, and a dual zipper system opens the bag for loading.\n\nAgainst the LUCKIPLUS long bag, it has padded handles and a PVC-lined interior, with similar length. Compared with the DoYiKe duffle, it is shaped for poles rather than general gear.\n\nIt suits party tent owners who need a long, padded-handle pole bag. A two-piece version of the same bag is also sold for owners with two sets.",
     "specs": [
       "83 x 12 x 8 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M1JqI2dDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGDC1VM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGDC1VM?tag=rvgearlab-amz-20",
     "description": "The LUCKIPLUS long bag measures 82.7 by 12.6 by 8.3 inches in water-resistant 600D Oxford with double-stitched seams and internal reinforcement. It has four handles, two adjustable and two fixed, and a double zipper.\n\nIt is slightly wider than the Adnee and adds adjustable straps for shoulder carry. Compared with the shorter LUCKIPLUS 32-inch bag it covers long party tent poles, hammock stands and tripods.\n\nIt suits campers carrying poles a long way who want to adjust the carry length. Four handles let two people share the load.",
     "specs": [
       "82.7 x 12.6 x 8.3 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DP+DgpJaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F837FNTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F837FNTW?tag=rvgearlab-amz-20",
     "description": "The shorter LUCKIPLUS tent bag measures 32 by 16.1 by 24 inches in 600D water-resistant Oxford with double-stitched seams. Adjustable handles allow shoulder or hand carry, and dual zippers give full access.\n\nAt 24 inches high it holds more fabric than the long pole bags and fits a smaller vehicle, since it is only 32 inches long. It is the lowest priced bag here and suits folded tents, guy lines and a canopy.\n\nIt suits campers who fold poles short and want one roomy bag for a tent. It is a practical fit for a smaller car.",
     "specs": [
       "32 x 16.1 x 24 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+04SaVOaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QJGNHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QJGNHV?tag=rvgearlab-amz-20",
     "description": "The DoYiKe is a 100 liter duffle in tightly woven 1680D Oxford fabric with webbing that wraps the body and horizontal reinforcement straps. It has a lockable two-way zipper with lock holes and folds flat when empty.\n\nIts 1680D fabric is far heavier than the 600D fabrics on the pole bags, and it takes the shape of its contents. The listing says larger 170 liter and above sizes suit tents and folding tables, so the 100 liter size is better for sleeping bags and small tents.\n\nIt suits campers who want a tough, lockable bag for a compact tent plus clothes and gear. It also doubles as a travel duffle.",
     "specs": [
       "100L, 1680D Oxford",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418FrYwbXwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F89YTY4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F89YTY4W?tag=rvgearlab-amz-20",
     "description": "The TAILI set includes two 45 by 22 by 16 inch bags, each rated at about 68 gallons (250 liters) and a listed 130 lb load. Three-stitched reinforcement at zippers, handles and side straps, a clear window and a label slot are included.\n\nIt offers far more volume than the DoYiKe and provides two bags, since it is a moving bag rather than a tent bag. It suits soft items such as tent bodies, tarps, bedding and cushions.\n\nIt suits family camping where the car carries a lot of soft gear and you want to sort it by bag. The window and label slot help find items quickly.",
     "specs": [
       "Two 68-gallon bags",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EMd-t7pkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LGCP5DC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LGCP5DC?tag=rvgearlab-amz-20",
     "description": "The JOYIN Rocket Ship Pop Up Play Tent is a set that includes a white space-themed tent, a tunnel and a cube play tent. The pieces can be used separately or as a connected set.\n\nIt gives the most play options of the five, where the Britik and Pacific Play Tents are a single tent each. The listing describes soft, thick fabric with breathable mesh walls and a foldable design.\n\nIt suits kids who like to crawl and build, and a family that wants a bundle for the price of a single tent. It works indoors and outdoors.",
     "specs": [
       "Tent, tunnel and cube set",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C5eSwuVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YJF2JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YJF2JT?tag=rvgearlab-amz-20",
     "description": "The Britik Fire Truck Pop Up Tent has a 44.1 x 27.5 x 27.5 inch play area that fits up to 4 kids. It is made from durable waterproof fabric with a steel support frame.\n\nIt has a roll-up door, rounded edges and breathable windows, and folds into a storage bag. It is the only single-tent pick here with a stated play area, and it is rated for ages 3 and up.\n\nIt fits kids who love vehicles and want a spot for reading, naps or toy storage. Several kids at once can share it.",
     "specs": [
       "44.1 x 27.5 in play area",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51brDgspmsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KKB4LFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KKB4LFM?tag=rvgearlab-amz-20",
     "description": "The Fun Little Toys Pop Up Play Tent comes with 17 camping pieces, including a pretend battery-powered gas stove and an oil lamp toy that lights up. It is collapsible and portable.\n\nNo other tent here includes accessories, so it is the pick for imaginative play, with a mini space for napping or reading. Recommended for ages 3 and up.\n\nIt suits kids who love pretend camping and want to cook and explore like parents do. It makes a practical rainy-day activity.",
     "specs": [
       "Tent plus 17 camping pieces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411zvTjPhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2PWBVSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2PWBVSY?tag=rvgearlab-amz-20",
     "description": "The Pacific Play Tents Farm House is a pop-up playhouse for toddlers and kids that works indoors or outdoors. It is lightweight and compact, with an included carry bag.\n\nThe farm theme gives it a different look from the vehicle and space tents, and the listing says the pop-up design assembles fully in seconds. It is priced below the JOYIN and Britik.\n\nIt suits a bedroom or yard playhouse for kids who like a barn. Toddlers and preschoolers can use it comfortably.",
     "specs": [
       "Pop-up farm house playhouse",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gexze4YRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHRT8B8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHRT8B8?tag=rvgearlab-amz-20",
     "description": "The ROIWUIE Dinosaur Pop Up Play Tent uses non-toxic polyester fabric and a sturdy wire frame, with a dinosaur print. It opens in seconds and folds flat into an included carry bag.\n\nOf the five it carries the smallest price tag, and its design is the simplest. The dinosaur graphics give it a different look from the farm or fire truck.\n\nIt suits kids who love dinosaurs and a parent who wants an easy, low-cost fort. It works as a gift.",
     "specs": [
       "Dinosaur print play tent",

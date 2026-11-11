@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315pbQi7y5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Dune 2-person hot tent carries a 75D silver-coated polyester fly rated at 3000mm and a 150D Oxford floor rated at 4000mm with taped corner seams. It adds a snow skirt, 7001 aluminum poles, four double-layer doors and a removable inner tent measuring 86.6 x 59 x 63 inches.\n\nIt has the strongest stated floor rating of the six and a documented total weight near 16.5 lb. The Ranch Fire weighs less on paper, and the POMOLY is roomier in plan, while the Dune is the most fully specified.\n\nIt suits two campers who want a documented winter shelter with a vestibule and a removable inner. The mesh doors help when the stove is cold.",
     "specs": [
       "Floor rated at 4000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire is a double-walled teepee with a mesh inner tent, a fire-retardant stove jack and a snow skirt. It measures 10.8 x 10.8 x 6.9 ft, weighs about 10.6 lb and packs to 23.6 x 7.5 x 35 inches.\n\nIt is lighter than the Dune and offers a tall central space for a stove, which a cabin tent like the POMOLY cannot match. The REDCAMP is lighter again, with a longer footprint.\n\nIt suits a group that wants standing room next to a stove and a snow skirt for drift. The 210T flame-retardant polyester is described as self-extinguishing.",
     "specs": [
       "10.8 x 10.8 x 6.9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U9gC0d-QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ5WB5M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ5WB5M2?tag=rvgearlab-amz-20",
     "description": "The OneTigris TEGIMEN measures 12.5 x 6.6 x 6.2 ft and is built for hammock campers, with 70D ripstop nylon at 3000mm, YKK zippers and a sod skirt for heat retention. It folds to 20.8 x 5.9 x 5.9 inches and includes 14 stakes and 10 guy lines.\n\nIt is the smallest folded bundle here and is compatible with general-size tent stoves. Compared with the REDCAMP, which also targets hammocks, it uses heavier 70D nylon and costs more.\n\nIt suits hammock hangers and winter walkers who want a long hot tent that folds to a small bundle. It also works as a frame tent with sticks.",
     "specs": [
       "70D ripstop, 3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The POMOLY Chalet 70 Pro is a 2 to 3 person cabin tent in 70D plaid ripstop polyester rated at 2500mm. It sets up on two 7001 aluminum poles with two sets of guy lines and eight tie-down points, and side rain curtains cover both doors.\n\nIt gives a squarer footprint than the TEGIMEN or REDCAMP, at 8.2 x 6.56 ft, with a 4.9 ft peak that sits well under the Ranch Fire's teepee height. It costs a little more than the CampRavox.\n\nIt suits two or three campers who want a cabin layout with rain curtains and a stove jack. Opposing doors improve airflow.",
     "specs": [
       "70D plaid ripstop, 2500mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QJXQy4TtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-amz-20",
     "description": "The CampRavox is a 2-person tent with an inner compartment, a separate vestibule, two large doors and a Y-pole structure. It uses 70D ripstop with a waterproof coating, and the stove jack is supplied uncut so you cut it to your own pipe.\n\nIt differs from the POMOLY by keeping sleeping and gear space apart, and it undercuts the POMOLY on price. The listing gives no millimeter rating, so the Dune and TEGIMEN are better documented.\n\nIt suits beginners who want a simple winter tent with a gear porch and a custom-fit jack. Stove and pipe are not included.",
     "specs": [
       "70D ripstop with coating",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D0O9UeYQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMN3RS51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMN3RS51?tag=rvgearlab-amz-20",
     "description": "The REDCAMP measures 11.8 x 6.6 x 6.2 ft and weighs 7.9 lb, with 210T polyester grid fabric and two stove jack openings. Its three-zipper doors suit hammock setups, and six stainless attachment points help it hold.\n\nIt is the lightest and lowest-priced tent in the list, and the only one with two jacks. Next to the TEGIMEN it uses lighter polyester, so it is less rugged.\n\nIt suits winter campers on a budget who want a light long tent with a choice of stove position. Dual jacks allow either end for the pipe.",
     "specs": [
       "7.9 lb listed weight",

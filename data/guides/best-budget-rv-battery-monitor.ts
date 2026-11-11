@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fJudCHUCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWK5DDNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWK5DDNH?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY monitor uses a Hall sensor rated to 300A, so there is no current-carrying shunt to wire in. It has a 3.5 inch backlit touchscreen with 10 brightness levels, programmable alarms and battery health tracking.\n\nAt $59.99 it is $19 above the BINTA 500A and $9.00 above the DROK. You pay for the touchscreen, alarms and cycle tracking. Pick this if you want setup without a bulky shunt. Caveat: the highest price here, and standby draw is not listed.",
     "specs": [
       "300A Hall sensor",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uc6M-snfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCN9PRD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCN9PRD9?tag=rvgearlab-amz-20",
     "description": "The BINTA monitor handles 8 to 120V and 0 to 500A with a shunt, and works with lead-acid, LiFePO4 and lithium-ion. It shows SOC percent, remaining capacity up to 999Ah and voltage on a backlit round display.\n\nAt $40.99 it is $19.00 under the ECO-WORTHY and $1.99 above the HENGSHAN AILI at $39. The 500A shunt is the biggest rating here, so it suits an inverter circuit. Pick this if you run a 2000W inverter. Caveat: standby draw is not listed.",
     "specs": [
       "8-120V, 0-500A shunt",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41omBUCYWVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CTKYFTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CTKYFTG?tag=rvgearlab-amz-20",
     "description": "The AILI monitor comes with a 100A shunt, a 2 meter extension cable and a manual. It lists 50 to 60 microamp standby draw, an 8 to 120V range and SOC up to 999Ah.\n\nAt $39 it is $1.99 under the BINTA and $20.99 under the ECO-WORTHY. The 100A shunt limits it to smaller loads than the BINTA. Pick this if you want a stated low standby draw. Caveat: 100A will not cover a large inverter.",
     "specs": [
       "100A shunt included",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yuvh-MrXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D146ZJL2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D146ZJL2?tag=rvgearlab-amz-20",
     "description": "The DROK is a DC meter for 8 to 100V and 0.05 to 100A, with a 2.4 inch color screen and a low-battery alarm at 20% remaining. It reads voltage, amps, watts and capacity.\n\nAt $50.99 it costs $11.99 more than the AILI and $9.00 less than the ECO-WORTHY. It adds a color screen and 0.05A low-current reading. Pick this if you want a bench-style meter that also tests batteries. Caveat: 100A maximum and ±1%+2 digit voltage accuracy.",
     "specs": [
       "8-100V, 0.05-100A",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EmHTSj2kS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Y61CNLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Y61CNLK?tag=rvgearlab-amz-20",
     "description": "The CGELE displays nine measurements, including 0 to 200V, 0 to 100A and power up to 60000W, on a full view backlit LCD. Pressing terminals mean no screws to install.\n\nAt $18.59 it is $20.41 under the AILI and $41.40 under the ECO-WORTHY. That is the lowest price, but it reads more like a meter than a dedicated SOC monitor. Pick this if you just need amps and volts cheaply. Caveat: the listing does not describe state of charge or alarms.",
     "specs": [
       "0-200V, 0-100A",

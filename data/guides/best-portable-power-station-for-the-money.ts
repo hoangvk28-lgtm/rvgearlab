@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D55awBh3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-amz-20",
     "description": "The STARYLINE pairs a 1,024Wh LiFePO4 battery with 1000W continuous output for $299.99, which works out to about $0.29 per watt-hour. That is the lowest cost per Wh in this article. The listing also gives a 27.73 lb weight and a 60W USB-C port, so one person can lift it into a bay.\n\nAgainst the OUPES Mega 1 it costs $170.00 less and gives up 1000W of continuous output and expandability. Against the EnginStar at $132.99 it costs $167.00 more but stores about 3.5 times the energy. Pick this if you want one battery for a fridge, router and CPAP; the caveat is that the listing does not state a warranty length.",
     "specs": [
       "1,024Wh LiFePO4, 1000W",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wgUhMXy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 is the premium option here at $469.99: 1,024Wh, 2000W continuous with 4500W surge, and a listed UPS transfer under 20ms. It can add up to two B2 extra batteries to reach 5,120Wh, which no other pick in this article offers.\n\nIt costs $170.00 more than the STARYLINE for the same 1,024Wh, so you are paying for the inverter and the upgrade path, about $0.46 per Wh. Pick this if you plan to grow the system or want to run a coffee maker or small induction burner. The caveat is that extra batteries cost more on top, and the listing does not give a weight.",
     "specs": [
       "1,024Wh, 2000W (4500W surge)",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AT-tNKNgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-amz-20",
     "description": "The EnginStar is a 296Wh, 300W unit at $132.99, with two pure sine wave AC outlets and a body of 9 x 5.5 x 7.5 inches. It recharges from a wall adapter in about 7 hours, per the listing. That is slow but fine for overnight top-ups.\n\nIt costs $38.00 more than the MARBERO and stores twice the energy, about $0.45 per Wh. Against the STARYLINE it saves $167.00 but runs far fewer hours. Pick this for a CPAP, laptop and phone setup; the caveat is that the listing says lithium without naming the chemistry, and warranty is only 12 months.",
     "specs": [
       "296Wh, 300W pure sine",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20",
     "description": "The MARBERO M822 is a 148Wh power station with a 200W inverter (270W max) priced at $94.99. It has 2 QC3.0 USB-A ports, a PD USB-C port and two built-in LED lanterns, which makes it more a camp light and charger than an RV backup.\n\nIt costs $34.71 more than the ZeroKor and gives you 50Wh more storage, about $0.64 per Wh, the highest cost per Wh in the group apart from the ZeroKor. Pick this for lighting and phone charging on short trips; the caveat is that 148Wh runs a 60W fan for roughly two hours and a wall recharge takes 7 hours.",
     "specs": [
       "148Wh, 200W (270W max)",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20",
     "description": "The ZeroKor is the lowest price here at $60.28: a 97.6Wh (26,400mAh) lithium-ion pack with two 120W AC outlets, a DC port and USB-C. It charges from a USB-C wall adapter, a car port or a solar panel that is not included.\n\nIt saves $34.71 against the MARBERO but stores about a third less energy, so cost per Wh is about $0.62. It also uses lithium-ion, not LiFePO4. Pick this as an emergency phone, light and router bank; the caveat is that 120W cannot run a fridge, space heater or most power tools.",
     "specs": [
       "97.6Wh lithium-ion",

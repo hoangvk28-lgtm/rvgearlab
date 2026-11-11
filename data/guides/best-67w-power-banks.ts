@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21saxt9UI+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHHNTC1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHHNTC1J?tag=rvgearlab-amz-20",
     "description": "The UGREEN Nexode lists 67W max output for laptops and 45W for a Samsung S25 Ultra, with a 48-layer braided nylon built-in cable tested for 10,000 bends. It recharges in about 2 hours at 65W and is flight-friendly under 100Wh.\n\nIt sells for a little less than the PISEN. Set against the EcoFlow and Baseus, it has double the capacity.\n\nIt suits campers who want 67W with 20,000mAh and a rugged cable. Powering a MacBook Air for extra hours is listed.",
     "specs": [
       "20,000mAh, 67W max",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312clbK3urL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHB84B41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHB84B41?tag=rvgearlab-amz-20",
     "description": "The EcoFlow RAPID Pro is a 10,000mAh bank with 67W output, a foldable AC plug and a detachable USB-C cable in one unit, plus two USB-C ports and a 1.3 inch color screen. It weighs 13 oz and measures 1.7 by 1.5 by 4.5 inches.\n\nIt replaces the wall brick like no other pick here, at half the capacity of the UGREEN. It costs less than the PISEN.\n\nIt suits travelers who want one device for wall and bank duty. The screen shows speed, voltage and time remaining.",
     "specs": [
       "10,000mAh, 67W, folding AC plug",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41145kiyJ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXGHMHBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXGHMHBS?tag=rvgearlab-amz-20",
     "description": "The PISEN lists 20,000mAh with 67W PD output, a built-in cable and a smart LED display. It is CCC certified and the listing names CE, FCC, RoHS and UL testing.\n\nIt sits above the UGREEN in price and names more safety marks. Both offer 20K with fast PD charging.\n\nIt suits buyers who want named certifications on a laptop-class bank. It also shows percentage in real time.",
     "specs": [
       "20,000mAh, 67W PD, built-in cable",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21TeXZQLoFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDTJMKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDTJMKB?tag=rvgearlab-amz-20",
     "description": "The Baseus Mini lists 67W fast charging, 10,000mAh, dual built-in braided USB-C cables and a body of 0.98 by 2.16 by 4.33 inches at 7.4 oz. It claims a 30 minute iPhone charge and describes itself as a pocket-ready pack.\n\nIt is the lightest and cheapest pick, and it has two built-in cables, unlike the others. It holds half the capacity of the 20K banks.\n\nIt suits day trips and commuters who want 67W in a pocket. The dual cables cover two devices.",
     "specs": [
       "10,000mAh, 67W, 7.4 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHGJzpk+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1Y37QTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1Y37QTL?tag=rvgearlab-amz-20",
     "description": "The Feidyns lists 26,800mAh with dual 65W USB-C ports, 130W total output across three ports, built-in USB-C and Lightning cables and a 99.1Wh capacity. It names IATA PI965 Section II certification, NTC thermal sensors, and a 5-year warranty.\n\nIt is 65W rather than 67W, and its capacity is the largest of the group. It costs less than the PISEN and UGREEN.\n\nIt suits campers who want the most energy under the airline limit. The lanyard doubles as a carry strap.",
     "specs": [
       "26,800mAh, 99.1Wh, 130W total",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wx0UbzjbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTP6NKB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTP6NKB4?tag=rvgearlab-amz-20",
     "description": "The MOKiN lists up to 65W USB-C PD, 20,000mAh, a built-in USB-C cable, plus extra USB-C and USB-A outputs. It measures 3.2 by 7 by 11.4 cm and weighs about 350g, about 30 percent smaller than conventional 20000mAh banks.\n\nIts price sits under the UGREEN and PISEN. It tops out at 65W, 2W under the 67W models.\n\nCampers who want 20K for less money will like it. The display shows voltage and current.",
     "specs": [
       "20,000mAh, 65W PD",

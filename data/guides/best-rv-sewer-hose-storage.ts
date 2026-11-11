@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrWia1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino Ultimate is an 11-piece kit with a 20 foot hose, a pre-attached clear elbow, a 4-in-1 adapter and two storage caps. A snap-lid storage box with handles holds everything and doubles as the start and end supports while you dump.\n\nAgainst the Camco RhinoEXTREME, the Ultimate swaps two 10 foot sections for one 20 foot hose and adds the box, so nothing rides loose in a bumper. Against the budget kits, it solves carrying and storing in one piece of gear.\n\nBest for campers without a bumper tube who want a single, tidy box in a bin or truck bed. A strong all-in-one for people who dump often.",
     "specs": [
       "20 ft hose, 11-piece kit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JhNvtlPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME is a pre-assembled 20 foot kit of two 10 foot sections with bayonet and transparent elbow swivel fittings, a 4-in-1 adapter and four storage caps. Its 24-mil thermoplastic elastomer wall has a reinforced polymer core, and each section compresses to about 57 inches.\n\nAgainst the Camco Rhino Ultimate, the EXTREME gives up the storage box and gains a fitting layout built for 4 inch square bumper tubes with the removable adapter. Against the DUMPMAN 20 ft, it offers a stated reinforced core and the longer 57 inch compressed length.\n\nBest for travel trailer and fifth wheel owners who store hoses in a rear bumper. The most durable-sounding tubes-and-caps kit in the group.",
     "specs": [
       "24-mil TPE, reinforced core",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VhDN69JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN is a 20 foot kit of two 10 foot hoses with rotating fittings, a removable clear elbow with a 4-in-1 adapter and four end caps. It uses TPE with a 24 mil vinyl layer, and its 4-prong bayonet fittings carry a rubber seal.\n\nCompared with the Camco RhinoEXTREME, it matches the 24 mil wall and the four caps at a lower price, with each 10 foot hose collapsing to about 45 inches. That shorter compressed length makes it easier to fit into smaller carriers than the 57 inch Camco sections.\n\nBest for budget campers with a modest bumper tube who want a stated wall thickness. A good everyday kit when the Camco price is a stretch.",
     "specs": [
       "24 mil TPE, 2 x 10 ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1inPKJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 20 foot kit includes two 10 foot hoses, four covers and a 90-degree four-in-one ground converter. The listing gives the length as 20 feet total across the two hoses.\n\nAgainst the DUMPMAN 20ft, it carries the same two-hose layout and four covers while giving a simpler spec sheet. Against the Amazon Basics 15ft, it adds 5 feet and two covers for a modest step up in price.\n\nBest for casual campers who want a basic two-hose kit with covers. A simple pick for moderate use at nearby dumps.",
     "specs": [
       "Two 10 ft hoses, 20 ft total",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qer6DDsML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 15 foot kit has a single 15 foot hose, two covers and a 90-degree four-in-one ground converter. A single piece means no center coupling to clean or seal.\n\nAgainst the Amazon Basics 20ft, it is five feet shorter and cheaper, with two covers instead of four. Against the Valterra 5ft extension, it is a full kit rather than an add-on section.\n\nBest for campers who park close to a sewer connection and want one simple hose. A basic pick for short, flat dump runs.",
     "specs": [
       "Single 15 ft hose",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ww+2Rop9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-amz-20",
     "description": "The Valterra Dominator is a 5 foot sewer hose extension in 23 mil poly with UV protection. It stays flexible down to -20 degrees F, tolerates up to 150 degrees F, and collapses from 5 feet to 12.5 inches.\n\nCompared with the 20 foot kits, the Dominator is a small add-on and carries the most compact collapsed length at 12.5 inches. Compared with the DUMPMAN 20ft, it gives a stated cold-weather range for winter campers.\n\nBest for cold-weather campers and anyone who needs a few extra feet of reach. A compact spare that fits almost any bin.",
     "specs": [
       "5 ft, collapses to 12.5 in",

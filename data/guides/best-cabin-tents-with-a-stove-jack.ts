@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The POMOLY Chalet 70 Pro is a cabin-style hot tent with a stove jack, built from 70D plaid ripstop polyester rated at 2500 mm. Two 7001 aluminum alloy poles hold the frame, and 8 tie-down points and 2 sets of guylines anchor it.\n\nCompared with the Dandelion Shell it adds side rain curtains over both doors and a two-door layout that stays dry in a downpour. Against the Ytaoeo it uses a heavier 70D ripstop fabric on a more compact floor.\n\nIt is the pick for two or three campers who want a sturdy, quick-pitching hot tent for rain, wind and cold. The medium size is listed for 2 to 3 people.",
     "specs": [
       "70D ripstop, 2500 mm rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dM9VJILNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6S5R9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6S5R9Q?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell Cabin X3 is a four-season hot tent for 2 to 3 people, with 70D silicone-coated polyester, aluminum poles and a heat-resistant stove jack. It weighs about 11.24 pounds and measures 98.43 by 59 by 78.74 inches.\n\nNext to the POMOLY it adds a fireproof ground mat and a longer accessory list that includes 16 stakes, 5 guy ropes and four hooks. It is also the lightest of the three and costs less than the POMOLY.\n\nIt suits a couple who want a stove-ready tent with a fireproof ground cover included. The mesh design adds ventilation during stove use.",
     "specs": [
       "4 season, 70D silicone polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xdhbP1fHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K4RBZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K4RBZN?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo hot tent has a floor of 9.8 feet by 6.9 feet under a 6.6 foot peak and is listed for 2 to 4 people. It uses 210T polyester with a PU3000 mm coating, two aluminum poles, 12 reflective guy lines and 18 stakes, plus an integrated stove jack.\n\nIt has the largest floor and tallest headroom of the three, and a higher waterproof rating than the POMOLY. It uses a lighter 210T fabric rather than the 70D of the other two.\n\nIt suits small families or groups who want standing room and a stove in a hot tent. The listing names winter camping, snow and hunting as uses.",
     "specs": [
       "Floor 9.8 x 6.9 ft, 6.6 ft peak",

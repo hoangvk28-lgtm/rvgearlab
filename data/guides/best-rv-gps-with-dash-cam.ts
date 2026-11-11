@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hCDWnh2EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SVDCC8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SVDCC8R?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 785 is a 7 inch RV navigator with a built-in dash cam and custom routing that accounts for the size and weight of your RV. It lists road warnings for steep grades, sharp curves and weight limits, plus a directory with content from Ultimate Public Campgrounds, KOA, PlanRV and TripAdvisor.\n\nAgainst the Garmin DriveCam 76, it adds RV routing and the RV park directory. Against the stand-alone dash cams, it adds navigation, voice control and live traffic in one screen.\n\nBest for RV owners who want routing and recording in one device. A clean choice for a single windshield mount.",
     "specs": [
       "7 inch RV navigator, dash cam",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uRg7hKHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZKLP7JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZKLP7JZ?tag=rvgearlab-amz-20",
     "description": "The Garmin DriveCam 76 is a 7 inch navigator with a built-in dash cam, forward collision and lane departure warnings and alerts for school zones and sharp curves. It lists hands-free calling and a U.S. national parks directory with TripAdvisor ratings.\n\nAgainst the Garmin RV 785, it offers collision warnings that the RV unit does not list. Against the stand-alone dash cams, it adds a full navigator.\n\nBest for a tow vehicle or smaller rig that does not need RV profile routing. A good pick for a pickup pulling a light trailer.",
     "specs": [
       "7 inch navigator, built-in dash cam",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YdqnvRooL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096MQRZG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096MQRZG7?tag=rvgearlab-amz-20",
     "description": "The Truckeela is an 11 inch split-screen GPS monitor with a 128GB memory card, built-in DVR and wide 12 to 36V DC power input. Its listing describes up to six camera channels with 1080P cameras and names RV, trailer, truck and motorhome use.\n\nAgainst the Garmin units, it covers blind spots with multiple camera angles. Against the 70mai, it adds a big monitor and side and rear views for a long rig.\n\nBest for owners of long trailers and motorhomes who want a camera system with GPS and a large display. A strong fit for blind-spot coverage.",
     "specs": [
       "11 inch monitor, 128GB card",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d1kDo9QUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP514FN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP514FN6?tag=rvgearlab-amz-20",
     "description": "The 70mai T800E is a three-channel dash cam with 4K front, 1080P interior and 1080P rear cameras, built-in 5-mode GPS, Wi-Fi 6 and voice control. It lists 24/7 parking monitoring, a G-sensor emergency lock and a 64GB card that supports up to 512GB.\n\nAgainst the WANLIPO, it adds a cabin camera and parking mode. Against the Garmin navigators, it records in 4K but offers no turn-by-turn navigation.\n\nBest for owners who already have a navigator and want strong 4K video evidence. A neat add-on for a truck or van.",
     "specs": [
       "4K front, 1080P interior and rear",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51loPWY8vvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP5XZLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP5XZLB?tag=rvgearlab-amz-20",
     "description": "The ZMOPO is a four-channel dash cam with four Full HD 1080P cameras covering front, rear, left and right. It lists time-lapse recording, 5GHz Wi-Fi, an app for iOS and Android, eight infrared lights and WDR night vision.\n\nAgainst the 70mai, it covers the sides as well as front and rear. Against the Truckeela, it is a compact camera rather than a large monitor.\n\nBest for owners who want side coverage on a van or truck at a modest price. A solid option for wide-angle protection.",
     "specs": [
       "Four 1080P cameras, 360 view",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vonf2A5PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP7BBSN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP7BBSN7?tag=rvgearlab-amz-20",
     "description": "The WANLIPO A13 is a dual-channel dash cam with 4K front and 2.5K rear cameras, built-in GPS, 5GHz Wi-Fi and a 64GB card. It lists loop recording, a G-sensor and a companion app that does not need a subscription for footage viewing.\n\nAgainst the 70mai, it skips the cabin camera and parking features while costing much less. Against the ZMOPO, it records in higher resolution but has two cameras instead of four.\n\nBest for budget buyers who want a front and rear 4K camera with GPS. A smart add-on beside an existing navigator.",
     "specs": [
       "4K front, 2.5K rear",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V9rm2p8wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GYS7SR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GYS7SR1?tag=rvgearlab-amz-20",
     "description": "The CORE 9 Person LED Tent is 14 by 9 ft with a 78 inch center height, and it is the only one of these with lights built into the ceiling poles. A wall switch controls high, low and night modes, and the listing says two queen air beds fit.\n\nAgainst the CORE Blackout Tent it trades dark mornings for evening convenience at the same list price. Compared with the CORE Full-Fly Tent it gives you lighting and no covered gear porch.\n\nIt is the best pick for families who arrive after sunset or want a dim light for kids. The 1200mm H20 Block fabric and fully taped rainfly come along with it.",
     "specs": [
       "14 x 9 ft, 78 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S5eSdTqrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1D8C4V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1D8C4V7?tag=rvgearlab-amz-20",
     "description": "The CORE Blackout 9 Person tent blocks 90 percent of sunlight, which Core says reduces heat and lets people sleep past sunrise. It matches the 14 by 9 ft footprint, with a sewn-in room divider that makes two spaces.\n\nNext to the CORE LED Tent it swaps lighting for a darker interior, and it holds the same price. Compared with the Bushnell Shield Tent, it offers a sewn-in divider and a more specific light-blocking figure.\n\nIt is the right call for families with early risers or hot summer mornings. The 1200mm weather fabric and guylines come with it.",
     "specs": [
       "Blocks 90 percent of sunlight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K4cxs0lxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFBV76W4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFBV76W4?tag=rvgearlab-amz-20",
     "description": "The CORE 9 Person Instant Cabin Tent has a full rainfly that forms a vestibule for gear outside the tent. It is 14 by 9 ft, sets up in two minutes or less, and carries a room divider and storage pockets.\n\nUnlike the CORE LED Tent and CORE Blackout Tent, it adds an outdoor storage area for wet boots and bags. It costs more than both, which is the price of the extra weather cover.\n\nChoose it for wet climates, where muddy gear needs a place outside the sleeping space. Four people with gear is the stated comfort level.",
     "specs": [
       "Full rainfly, gear vestibule",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OxKh5gBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WJVX8Z1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WJVX8Z1?tag=rvgearlab-amz-20",
     "description": "The Bushnell Shield Series 9 Person tent sets up in under a minute with pre-attached poles. A reflective Heat Shield coating on the rainfly underside blocks UV and keeps the interior cooler.\n\nIt is the only pick here with two mesh AC ground vents, each 12.5 by 17 inches, and it has 150 denier walls and a 240 denier floor. Compared with any CORE, it costs far less.\n\nIt suits hot-weather campers who plan to run an air conditioner. A room divider splits the interior into two rooms.",
     "specs": [
       "Heat Shield rainfly",

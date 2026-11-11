@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS7QFDPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS7QFDPY?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is an extra-large 10 inch touchscreen RV navigator with a bright high-resolution display. It runs in landscape or portrait, uses custom RV routing and carries a directory of RV parks and services.\n\nIt has the biggest screen in this list and the only 10 inch one. Against the 9 inch budget units, it adds profile routing and campground content.\n\nIt is the pick for owners with a wide dash who want the most map in view. In large screen rv gps, wide-dash owners is its lane.",
     "specs": [
       "10 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G6-75C+mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS6XCMB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS6XCMB2?tag=rvgearlab-amz-20",
     "description": "The Garmin RV Cam 795 is a 7 inch RV navigator with a built-in dash cam and automatic incident detection. It lists custom routing and forward collision and lane departure warnings.\n\nIt is smaller than the 1095 but adds the camera, which no 9 inch budget unit matches. It gives the lowest price of the Garmin units here.\n\nChoose it for a compact RV navigator that also records the road ahead. For large screen rv gps, it suits navigation plus recording.",
     "specs": [
       "7 inch RV navigator",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Suf52EX0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3DXXC7H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3DXXC7H?tag=rvgearlab-amz-20",
     "description": "This 9 inch touchscreen GPS offers navigation, an FM transmitter, multimedia playback and a built-in speaker with voice guidance. The box includes a suction cup mount and car charger.\n\nIt is one of the cheapest 9 inch screens in this list. It lacks the routing language of the QEDASS.\n\nIt fits drivers who want a large display for basic navigation at a very low cost. Under large screen rv gps, expect basic big screen to suit it.",
     "specs": [
       "9 inch HD touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zp51zF5AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8SF8B26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8SF8B26?tag=rvgearlab-amz-20",
     "description": "The QEDASS is a 9 inch HD touchscreen with 2026 North America maps and free lifetime updates. It lists vehicle-specific routing for cars, trucks and RVs, day and night display modes and four route options.\n\nIt is the budget 9 inch unit that explicitly names truck and RV routing. That puts it a step above the Generic 9in.\n\nChoose it for a big screen with routing language on a small budget. For large screen rv gps, it suits big screen on a budget.",
     "specs": [
       "9 inch HD touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QzWC6k+2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFB2C9LF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFB2C9LF?tag=rvgearlab-amz-20",
     "description": "The VEVOR 7 inch GPS offers a built-in dash cam, overspeed alerts and speed camera warnings. It has 16GB of storage with TF card expansion, a 1200mAh battery and a car charging cable.\n\nIt is the cheapest unit here with a dash cam. It trades screen size for that function.\n\nIt suits budget drivers who want a recorder in a single device. For large screen rv gps, it suits budget recording.",
     "specs": [
       "7 inch touchscreen",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ck+BEsx6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKSQ4BD4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKSQ4BD4?tag=rvgearlab-amz-20",
     "description": "The JOGANVE is a 7 inch GPS with 2025 maps and lifetime free updates. It lists speed and red light warnings, lane guidance and speed limit indicators, and works with cars, trucks and RVs.\n\nIt is the lowest-priced pick here, though its maps are a year older than the 2026 units. Page details fit large screen rv gps needs.\n\nIt fits owners who want a simple low-cost 7 inch navigator. With large screen rv gps, lowest-cost navigation fits it best.",
     "specs": [
       "7 inch touchscreen",

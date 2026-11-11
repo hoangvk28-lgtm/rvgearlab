@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CQeTs7kzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLFY6TGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLFY6TGQ?tag=rvgearlab-amz-20",
     "description": "Paopaoyu stores 27,000mAh (98Wh) and has a 100W AC outlet, a 65W PD USB-C port for input and output, and is TSA compliant, FCC and CE certified. At 98Wh it sits just under the 100Wh airline limit.\n\nAt about $90 it stores about 10Wh more than the MARBERO while staying under the airline line, and it adds 65W USB-C power. The UGREEN costs $38 less and has no AC outlet, and the MARBERO costs $33 less.\n\nChoose it for a laptop, a camera and phone on a flight or road trip. It runs a standard laptop brick from the wall socket.",
     "specs": [
       "27,000mAh (98Wh), 100W AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CXgItzozL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3GTMX5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3GTMX5M?tag=rvgearlab-amz-20",
     "description": "UGREEN's Nexode holds 20,000mAh with 100W USB-C output, 65W input for recharging, a digital display and three ports (two USB-C and a USB-A). It is compact for its capacity.\n\nAt about $52 it is the cheapest pick that charges a laptop at full speed and a third cheaper than the Paopaoyu. It has no AC outlet, so it suits USB-C devices only.\n\nChoose it for a USB-C laptop, a phone and a tablet. The 65W input refills it fast.",
     "specs": [
       "20,000mAh, 100W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+1PxfYX8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ8HTS9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ8HTS9R?tag=rvgearlab-amz-20",
     "description": "INIU holds 25,000mAh with 100W output and EV-grade cells that the maker rates at a genuine 25,000mAh. Half an hour on it lifts a 14 inch laptop by over 50 points and an iPhone 17 Pro Max by about 57 points, and it can keep a Steam Deck or ROG Ally going for hours.\n\nAt about $67 it costs $15 more than the UGREEN and carries 5,000mAh more. A 0.4 foot 100W cable is included.\n\nChoose it for a gaming handheld, a laptop and a phone on a flight. It fits in a bag.",
     "specs": [
       "25,000mAh, 100W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wZl-HiHhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV2GH2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV2GH2S?tag=rvgearlab-amz-20",
     "description": "MARBERO is a 2.27 lb pack of 88.8Wh (24,000mAh) with a 110V AC outlet rated 100W continuous (150W surge), 60W two-way PD USB-C and pass-through charging. It recharges to full in 2 hours over USB-C and has a flashlight rated up to 20.7 hours.\n\nAt about $57 it is about $33 cheaper than the Paopaoyu and has the lightest body. It is the best pick for a tent with a mini fan and string lights.\n\nChoose it if you want AC power on a budget and light weight. It stays under the airline limit.",
     "specs": [
       "88.8Wh, 100W AC, 150W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-K6eu6gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D947C332?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D947C332?tag=rvgearlab-amz-20",
     "description": "Apowking holds 146Wh (39,600mAh) with two 110V AC outlets at 100W (200W peak), seven outputs and a dual LED flashlight. It can also be recharged by a 13 to 23V solar panel that is sold separately.\n\nAt about $80 it holds 50 percent more than the Paopaoyu and has two AC outlets, and it is too big for a flight at 146Wh. It weighs more than the other banks.\n\nChoose it for a car camp with a laptop, a fan and phones. It runs from a panel.",
     "specs": [
       "146Wh, 100W AC (200W peak)",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L49hL89EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F4T4KDC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F4T4KDC?tag=rvgearlab-amz-20",
     "description": "The Atarashi XL measures 87 by 40 inches and fits adults up to 5 ft 11, with a printed pack weight of 4.2 lb and a compressed size of 11 to 14.2 inches. A 290T polyester taffeta shell carries a DWR finish, and the listing gives a 32F limit with a comfort range of 32 to 77F.\n\nIt is the only XL here that prints both a weight and a packed size, and at 40 inches it is the widest of the four. The 290T shell is denser than the 210T used on most budget bags.\n\nIt suits broad-shouldered hikers who want a numbered carry weight and a DWR shell. It costs less than the VENTURE 4TH.",
     "specs": [
       "87 x 40 inches, 4.2 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "Measuring 90 by 39 inches, the VENTURE 4TH is the longest bag here, with a printed comfort range of 30 to 70F. A lifetime replacement guarantee, a water-resistant polyester shell and a compression sack are listed.\n\nIt runs three inches longer than the Atarashi and states a colder 30F at the low end, so it suits taller hikers on cool nights. It also costs more than the Atarashi, and no weight is printed.\n\nIt suits very tall hikers who want maximum length and a guarantee. It is sold in several colors under the same line.",
     "specs": [
       "90 x 39 inch XXL",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CRXb-1MmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DFGX6D8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DFGX6D8?tag=rvgearlab-amz-20",
     "description": "Tough Outdoors sizes the XL Prolite at 88 by 34 inches for anyone up to 6 ft 6, with ThermoCore synthetic insulation and a certified 40 to 60F rating. A rugged compression sack comes in the box.\n\nAgainst the Atarashi it adds an inch of length and trims six inches of width, and its certified range starts warmer than the VENTURE 4TH's 30F. The price is near half that of the VENTURE.\n\nIt suits tall hikers on mild trips who value a certified range and a low price. The 34 inch width helps hold heat.",
     "specs": [
       "88 x 34 inches, to 6 ft 6",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gxHRoDBzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQTYPH22?tag=rvgearlab-amz-20",
     "description": "MEREZA calls its XL boxy, at 86.6 by 32.3 inches for campers up to 6 ft, with a 210T ripstop waterproof shell and filling that the listing says reaches 3.5 lb. A double pull zipper and a bottom zipper for ventilation are listed.\n\nIt costs the least here, and the fill amount is printed in place of a total weight. It is also shorter than the VENTURE and Tough Outdoors.\n\nIt suits budget hikers around 6 ft who want a roomy synthetic bag. The comfort figure is 59F, so it fits warm nights.",
     "specs": [
       "86.6 x 32.3 inches",

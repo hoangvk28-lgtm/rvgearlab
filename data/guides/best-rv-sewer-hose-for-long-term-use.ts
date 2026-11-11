@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jWuxhnwML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTKBW83M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTKBW83M?tag=rvgearlab-amz-20",
     "description": "The AVERONR is a 40 foot sewer hose with swivel bayonet fittings, described as commercial-grade thermoplastic elastomer that resists crushing, abrasion, punctures, chemicals and sun. The listing says it stays flexible in freezing weather and routes around obstacles without collapsing.\n\nAgainst Amazon Basics 20ft, it gives double the reach and a hard-use material claim but costs about twice as much. Against Camco Deluxe 10ft, it is a single long hose rather than a short extension.\n\nBest for seasonal sites with a distant dump. A 40 foot hose is bulky to store and needs a support for slope.",
     "specs": [
       "40 ft hose, swivel bayonet",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1inPKJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 20 ft kit includes two 10 foot hoses, four covers and a 90-degree four-in-one ground converter. The listing calls the design durable but gives no material or mil rating.\n\nAgainst AVERONR 40ft, it is half the length with no material detail and costs much less. Against Amazon Basics 15ft Kit, it adds 5 feet and two covers.\n\nBest for moderate use where a 20 foot reach is enough. For long stays, check the material and wear over a season.",
     "specs": [
       "20 ft kit, two 10 ft hoses",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qer6DDsML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 15 ft kit has one 15 foot hose, two covers and a 90-degree four-in-one ground converter. The listing offers no material detail beyond calling it durable.\n\nAgainst Amazon Basics 20ft Kit, it is shorter, cheaper and a single piece. Against AVERONR 40ft, it is far shorter.\n\nBest for a nearby dump and budget. Not a hard-use choice.",
     "specs": [
       "15 ft single hose kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Hv64M39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-amz-20",
     "description": "The Camco Deluxe 10 ft extension is 18 mil HTS vinyl with pre-attached REVO swivel fittings and included caps. It needs no tools or clamps and stores in a 4 inch square bumper.\n\nAgainst AVERONR 40ft, it is a short add-on with a stated wall thickness but a thin 18 mil. Against Camco Internal Coupler, it is a hose rather than a joiner.\n\nBest for lengthening an existing hose by 10 feet. Check an 18 mil wall for wear on long stays.",
     "specs": [
       "10 ft extension",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p-kE-eTYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0922XJPY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0922XJPY1?tag=rvgearlab-amz-20",
     "description": "The Camco Universal Internal Sewer Hose Coupler connects two sewer hoses internally and comes with two twist-it clamps. The listing says it works with all Camco brand sewer hoses and kits and can repair or extend a hose.\n\nAgainst Camco Deluxe 10ft, it joins existing hoses and adds no length itself. Against AVERONR 40ft, it is a repair part that can rescue a cut hose.\n\nBest for repairing a damaged section or joining spare hoses. It works with Camco hoses by listing.",
     "specs": [
       "Internal sewer hose coupler",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rmiFcmuqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ73J2DZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ73J2DZ?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino Sewer Extender PRO is a 5 inch extension with a torque-grip handle and built-in LED flashlight. It gives leverage for connecting to the sewer outlet and adds a bit of reach.\n\nAgainst Camco Internal Coupler, it eases hookup rather than repairing a hose. Against AVERONR 40ft, it is a tool and not a hose.\n\nBest for tight outlets and night dumps. It does nothing for hose durability.",
     "specs": [
       "5 inch sewer extender",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvVec7JvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SM5HBK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SM5HBK1?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 500 v2 pairs 512Wh with 500W rated output and 1,000W surge through two pure sine wave outlets. At 14 pounds it is billed as the lightest LiFePO4 station in its class, and the cells are rated for 6,000 cycles.\n\nWhere the ALLWEI takes about 2.5 hours to fill, the Jackery quotes 0 to 80% in 52 minutes from the wall. A 10ms UPS and bypass charging mode also let it sit between a wall socket and a router or PC.\n\nCampers who run a laptop, cooler and lights for a long weekend get the most from it. The foldable handle makes loading the car simple.",
     "specs": [
       "512Wh LiFePO4, 500W / 1000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413JL-PoS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-amz-20",
     "description": "The ANTPO 500W has a 512Wh LiFePO4 pack, 500W continuous output with a 1,000W surge, and 3,500 or more cycles. It refills 0 to 80% in about one hour through a 500W AC input and offers PD 60W and QC3.0 ports.\n\nIts refill time rivals the Jackery for a lower price, and it carries a 24-month warranty. The retro oil-can styling is the clearest design difference from the boxy rivals.\n\nIt suits campers who want fast turnarounds and a bit of style at a moderate price. The package includes AC and car charging cables.",
     "specs": [
       "512Wh LiFePO4, 500W / 1000W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k8tvlD1bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCNTFDJJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCNTFDJJ?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 500W stores 512Wh in LiFePO4 cells with a BMS and MPPT system, and refills in 2.5 hours from the wall in Q Mode. Its two AC outlets share 500W, joined by a 100W USB-C, a 36W USB-C, two USB-A, two DC5521 ports and a car port.\n\nIt gives the most port variety of the five and prices below the Jackery. The listing says the pack reaches 70% after 3,000 cycles, or about 10 years.\n\nIt suits campers who want a UPS for a desktop or server at home and a camp box on weekends. A 100W solar panel fills it in about 6.5 hours.",
     "specs": [
       "512Wh LiFePO4, 500W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415iy5vNP7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZKT5FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZKT5FQZ?tag=rvgearlab-amz-20",
     "description": "This 519.48Wh unit lists 500W with a 1,000W peak, two 120V pure sine wave outlets and room for up to 10 devices. It weighs 14.1 pounds and charges from a 100W or 200W panel, with a full solar charge in 6 to 9 hours.\n\nIt holds more watt hours than any other box here, at roughly half the Jackery's price. A second listing of the same unit exists, so the two count as one pick.\n\nIt suits shoppers who want 519Wh at the lowest price for fair-weather weekends. The listing names a built-in BMS for overload and temperature protection.",
     "specs": [
       "519.48Wh, 500W / 1000W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414IJAwRTDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJXYNPPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJXYNPPD?tag=rvgearlab-amz-20",
     "description": "The HOWEASY is rated 260W with a 500W peak, so it is the nearest fit rather than a true 500W unit. It has nine ports including two AC outlets, a 65W Type-C and three USB-A, in an 8.19 by 4.72 by 5.43 inch body at 5 pounds.\n\nIt trades the 500Wh class of capacity for a package a third the weight of the Jackery. The listing names solar input at 18 to 24V and an SOS flashlight.\n\nIt suits solo campers with a laptop, phone and lights who want a lighter box. A hidden handle keeps the shape tidy.",
     "specs": [
       "260W rated, 500W peak",

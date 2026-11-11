@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NUyHPn7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73GJ6ZW?tag=rvgearlab-amz-20",
     "description": "The TURBRO RV Air Conditioner is a 15,000 BTU unit with 1,500W electric heat on 115V AC. It lists noise as low as 52 dB, a remote and smart app, and fan and dry modes.\n\nAgainst the RecPro 15K, it is cheaper and trades the heat pump for electric heating, with app control added. Against the Arsenda 18K Non-Ducted, it gives up 3,000 BTU of cooling but states a 23 foot RV length and a roof opening of 14.25 by 14.25 inches.\n\nBest for campers and travel trailers up to about 23 feet who want a straightforward 115V unit with an app. The listing says most setup accessories are included.",
     "specs": [
       "15,000 BTU, 115V AC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NbPn8BcVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089MH5WCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089MH5WCM?tag=rvgearlab-amz-20",
     "description": "The RecPro RV 15K Quiet AC is a non-ducted 110-120V rooftop unit with a built-in heat pump for supplemental warmth. It lists 55.4 dB operation, a low amp draw and a wireless remote with an LED touch display.\n\nAgainst the TURBRO 15K, it adds a heat pump but costs noticeably more. Against the LAOFINA 18K, it offers the same heat pump at 3,000 BTU less cooling and a higher price.\n\nBest for owners who want a heat pump on a 15,000 BTU unit. Its low amp draw helps when multiple appliances share the circuit.",
     "specs": [
       "15,000 BTU, 110-120V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g+bJiaOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5VMRC9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5VMRC9?tag=rvgearlab-amz-20",
     "description": "The LAOFINA RV Air Conditioner is an 18,000 BTU rooftop unit with a heat pump that delivers 10,236 BTU of heating. It lists 50 dB operation and an outdoor temperature range from 23 to 115 degrees F.\n\nAgainst the Arsenda 18K Non-Ducted, it adds a heat pump. Against the RecPro 15K, it offers 3,000 more BTU of cooling at a lower price.\n\nBest for larger trailers and fifth wheels that need extra capacity. It requires both a 115V AC and a 12V DC connection.",
     "specs": [
       "18,000 BTU, 110-120V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2ur8hKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS7LLPG6?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU RV Air Conditioner with Heat Pump is non-ducted and runs on 115V power. The listing says it uses R32 refrigerant and fits standard 14.25 by 14.25 inch roof openings.\n\nAgainst the Arsenda 18K Non-Ducted, it lists R32 refrigerant and heat pump details more clearly. Against the LAOFINA 18K, it matches the capacity at a lower price.\n\nBest for buyers replacing a standard 14.25 inch roof unit with an 18,000 BTU heat pump. The listing says it needs both 115V AC and 12V DC.",
     "specs": [
       "18,000 BTU, 115V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RCxEWWSHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8DCBQV?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU Rooftop RV Air Conditioner is a non-ducted 110-120V unit with an operating range of 23 to 115 degrees F. It uses the same 18,000 BTU rating as the other Arsenda listing.\n\nCompared with the Arsenda 18K R32, it carries similar capacity at the same price, with less detail on heating. Compared with the TURBRO 15K, it adds 3,000 BTU of cooling for a similar spend.\n\nBest for buyers who want maximum rated BTU for the money on a non-ducted roof. It also lists the same 12V DC requirement.",
     "specs": [
       "18,000 BTU, 110-120V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nmm3cvtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series is a 15,000 BTU rooftop unit with e-coated evaporator coils and a lighter design. The listing says it is backwards compatible with an existing ADB, so non-ducted units can upgrade without changing the control.\n\nAgainst the TURBRO 15K and RecPro 15K, it comes from an established RV supplier with a clear replacement path. Against the 18,000 BTU units, it offers less rated capacity and a simpler spec sheet.\n\nBest for owners swapping an existing Dometic and wanting to keep its air distribution box. The e-coated coils add corrosion resistance.",
     "specs": [
       "15,000 BTU rooftop unit",

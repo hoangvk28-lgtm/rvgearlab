@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MwQfVMr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCP3363Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCP3363Y?tag=rvgearlab-amz-20",
     "description": "The VANSTON is a 6L tankless propane heater producing up to 37,500 BTU per hour and 1.45 GPM of near-instant hot water, with an adjustable temperature and an operating pressure range from 7 psi up to 145 psi. It weighs about 9 lb with a folding handle, and its six safety protections include overheat, low-flow, dry-fire and freeze protection plus a flame failure device. It costs about $120.\n\nCompared with the LiberLive just below it, the VANSTON has a broader stated pressure range and ships with a complete accessory pack that includes a shower head, a gas regulator, connectors and mounting hardware. The LiberLive offers a little more output, but the VANSTON is the lighter of the two by about 0.7 lb and gives you everything needed in the box. Against the CAMPLUX below, it trades the lower 3 psi starting pressure for a higher flow and a more generous kit.\n\nIt suits campers who run a standard garden-hose hookup or a stronger 12V pump, anyone who wants to get a shower going without hunting for fittings, and families who want stable temperature on a freeze-prone shoulder-season trip.",
     "specs": [
       "6L, 1.45 GPM, up to 37,500 BTU/hr",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VDFwisqDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2PQ196G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2PQ196G?tag=rvgearlab-amz-20",
     "description": "The LiberLive is a 6L tankless propane heater rated at 41,000 BTU per hour and 1.58 GPM, with an LED digital display that shows the water temperature so you can keep it from running too hot or too cold. The body measures 11.8 by 5.1 by 17.3 inches, weighs 9.7 lb and carries a folding handle, and the listing says it is CSA certified to Canadian and US safety standards with six protections. It costs about $120.\n\nCompared with the VANSTON above it, the LiberLive adds the display and a higher heat output, which means it can warm a faster flow of water, and the price is the same. Against the two Amzgachfktch units below it, the LiberLive has the display and a lighter body, as those heaters weigh about 12 lb and have a 40,000 BTU rating. The six protections include overheat, low water flow and dry burn, among others.\n\nIt works for families who like to dial in a comfortable temperature, hunters and anglers who clean up at camp, and anyone who wants a readout instead of guessing.",
     "specs": [
       "6L, 1.58 GPM, 41,000 BTU/hr",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DeCldygFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CJPU6JI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CJPU6JI?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX is a 5L tankless propane heater delivering 1.32 GPM that lights with just 3.0 psi of water pressure, which means a small 12V pump or a gravity-fed supply can drive it. The ignition runs from two D-size batteries, so it needs no electricity from the RV, and the unit weighs about 10 lb with a folding handle. The listing says it is CSA approved with six-in-one protection including overheat and anti-flame checks. It costs about $160, the highest price here.\n\nCompared with the VANSTON above it, the CAMPLUX starts at 3.0 psi against 7 psi, which is the reason to pay more if your water comes from a small pump, while the VANSTON offers more flow and a bigger kit. Against the Amzgachfktch units below it, the CAMPLUX is a 5L unit at 1.32 GPM, with the wall bracket and dolly cart sold as separate accessories for hanging or wheeling it.\n\nIt makes sense for remote cabins, van-life setups, off-grid camps and anyone using a 12V pump who needs a heater that lights from a trickle.",
     "specs": [
       "5L, 1.32 GPM, lights at 3.0 psi",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cx2IgS8jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3BPXB6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3BPXB6T?tag=rvgearlab-amz-20",
     "description": "This Amzgachfktch is a 6L tankless propane water heater delivering 1.58 GPM at up to 40,000 BTU per hour, activating at a 2.5 psi minimum starting pressure, and measuring 11.8 by 5.3 by 17.3 inches at about 12 lb. It runs from a standard 20 lb propane tank with electronic ignition powered by two D-cell batteries and lists a CSA approved regulator and six protections. It costs about $108.\n\nCompared with the other Amzgachfktch listing below it, this one is about $10 cheaper with the same 6L body, flow and pressure requirement, and its copy mentions an included accessory. Against the LiberLive above it, this one lowers the starting pressure to 2.5 psi and saves about $12, and it adds about two pounds with no digital display. The listing describes the heater as needing no preheat time and delivering hot water as soon as the tap opens.\n\nIt suits cost-conscious RVers, hunters and cabin owners who want an instant propane heater and are comfortable with a plain control layout.",
     "specs": [
       "6L, 1.58 GPM, 40,000 BTU/hr",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMgOjDbhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4JVVGGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4JVVGGW?tag=rvgearlab-amz-20",
     "description": "This second Amzgachfktch listing describes a 6L, 1.58 GPM outdoor propane tankless heater at a maximum 40,000 BTU per hour, with the same 11.8 by 5.3 by 17.3 inch body, 12 lb weight and 2.5 psi minimum starting pressure. It uses a standard 20 lb propane tank, an electronic ignition powered by two D cells and a CSA approved regulator, and it costs about $118.\n\nCompared with the $108 listing above it, the two read almost identically on flow, output and pressure, so the extra $10 buys no documented difference, and the choice comes down to which seller you prefer. Against the BSEED below it, this heater is a gas appliance that heats water as it flows, rather than an electric immersion element in a bucket. The listing says it is suited to off-grid use, RVs, hunting, poolside use and cabins.\n\nIt makes sense only if the other listing is unavailable or you favor this seller, and for campers who want a propane heater in this class with a documented starting pressure and a standard 20 lb tank connection.",
     "specs": [
       "6L, 1.58 GPM, 40,000 BTU/hr",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kgbCVn5rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF29G797?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF29G797?tag=rvgearlab-amz-20",
     "description": "The BSEED is a portable camping shower that pairs a 2000W stainless steel immersion water heater with an 8000mAh rechargeable battery that charges in about 3 hours and runs the pump for 120 to 180 minutes. It includes a large foldable bucket, an LED display that shows battery level and water temperature, five water flow modes and a shower head with four spray modes. It costs about $68, the lowest price here.\n\nCompared with the propane tankless units above it, the BSEED works the opposite way: you heat a bucket of water with the immersion element, then pump it through the shower head, so there is no open flame and no gas tank. Against the CAMPLUX at the top, it costs less than half as much and weighs less, and the quiet pump and suction cup base keep it stable. The 2000W element is an electric load, so plan how you will power it, with shore power, an inverter or a generator.\n\nIt suits pet baths, quick rinses at a tent camp, vehicle washing and anyone who wants hot water without carrying propane. It is not a flow-through shower for a whole family.",
     "specs": [
       "2000W stainless immersion heater",

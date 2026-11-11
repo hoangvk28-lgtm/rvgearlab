@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cbeZw5KtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5YD38H7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5YD38H7?tag=rvgearlab-amz-20",
     "description": "The ECOHUB hydration backpack includes a 2L bladder with an insulated compartment, adjustable shoulder and chest straps, a breathable mesh back panel and multiple pockets for a phone, keys, wallet and snacks. The listing covers hiking, running, cycling, marathon training and festivals.\n\nCompared with the Criuage vest, it adds an insulated bladder compartment and a lower price. Against the NEVO RHINO, it carries more water.\n\nIt suits everyday hikers and runners who want cooler water at a low cost. Straps adjust for a secure fit.",
     "specs": [
       "2L bladder, insulated compartment",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hzi9q35gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8ZHH5X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8ZHH5X1?tag=rvgearlab-amz-20",
     "description": "The Criuage is a vest-style hydration backpack with a 2.0L bladder, a quick-release drinking tube and a front chest pack. A composite of ultra-light polyester and breathable mesh, an adjustable shoulder strap and chest strap, and reflective elements are listed.\n\nCompared with the ECOHUB, it is a closer-fitting vest with front storage. Against the NEVO RHINO, it carries a larger bladder and reflective safety details.\n\nIt suits trail runners and hikers who want a bounce-free fit. The front chest pack puts snacks and a phone in reach.",
     "specs": [
       "2.0L bladder, chest pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dzjGofhLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHF7HG48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHF7HG48?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO hydration backpack weighs 0.67 pounds, measures 10.24 by 2.36 by 15.7 inches and includes a 1.5L bladder with a detachable anti-kink drinking tube. A 3D honeycomb mesh gives ventilation, and it has two chest pockets and a separate hydration compartment.\n\nIt is the lightest pack here. Compared with the ECOHUB, it carries less water and weighs less.\n\nIt suits cyclists and hikers who want a streamlined pack. The listing says it is compact and aerodynamic.",
     "specs": [
       "0.67 lb, 1.5L bladder",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q6mKpJ9VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9D1PGGN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9D1PGGN?tag=rvgearlab-amz-20",
     "description": "The CamelBak Mini M.U.L.E. is a hydration pack with a 50 ounce reservoir, a stretch overflow pocket, a zippered pocket and a ventilated harness. The listing describes it as sized for young adventurers and smaller frames.\n\nCompared with the ECOHUB, it is a brand-name pack sized for smaller wearers. Against the Criuage, it focuses on kids and small frames.\n\nIt suits children and very small adults on trails and bike rides. The ventilated harness adds comfort.",
     "specs": [
       "50 oz reservoir",

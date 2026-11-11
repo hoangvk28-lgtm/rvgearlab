@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a titanium alloy canister stove that weighs 25 g and is rated at 2700 W. The listing states a boil time of about 2 minutes 58 seconds for 1 L of water and a gas use of roughly 140 g per hour.\n\nIt is the lightest stove here by a wide margin, well under the 85 g Fire-Maple Greenpeak 1 and the 2.6 oz MSR PocketRocket 2. The stove and a 110 g canister nest inside a 750 ml pot, which keeps the whole kit compact.\n\nIt suits gram-counting solo hikers who boil water for dehydrated meals and coffee. The pot support legs flip out and the stove twists straight onto the canister.",
     "specs": [
       "25 g titanium, 2700 W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 is a folding canister stove weighing 2.6 oz that collapses to 2 by 2 by 3 inches. The listing says it boils 1 liter in 3.5 minutes, adjusts from a simmer to a rolling boil and needs no priming or pressurizing.\n\nIt sits above the BRS-3000T in pot support and flame control, since serrated supports hold a wide range of pot sizes. Against the Deluxe it keeps the price lower by leaving out the regulator and push-start lighting.\n\nIt suits hikers who want a simple, widely sold stove that runs on isobutane-propane canisters sold in most countries. A protective case is included.",
     "specs": [
       "2.6 oz, folds to 2x2x3 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GjeuZcdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L5S65HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L5S65HR?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket Deluxe weighs 2.9 ounces and adds a pressure regulator and a built-in push-start igniter. The listing says it boils 1 liter in 3.5 minutes, even in colder weather and with low fuel.\n\nCompared with the PocketRocket 2 it adds regulated output as the canister empties, and it carries a 3-year limited warranty. Its broad burner improves wind resistance and gives better simmering than the bare-bones BRS-3000T.\n\nIt suits shoulder-season hikers who want steady performance as the fuel runs down. The igniter is protected inside the burner and the stove folds into its stuff sack.",
     "specs": [
       "2.9 oz with regulator",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312K0+YdclL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14D7LS2?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Greenpeak 1 weighs 85 g (3 oz) and folds to 2.1 by 2.8 inches. It has piezo ignition and is built from stainless steel, ceramic, aluminum alloy and silicone.\n\nIt carries a built-in igniter that the BRS-3000T lacks, at a price below either MSR. The listing suggests pairing it with a G3 pot, and it is not compatible with the Z1 adapter.\n\nIt suits hikers who want a lighter-free start without paying MSR prices. The folded size fits a mug or pot nest easily.",
     "specs": [
       "85 g (3 oz), piezo ignition",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a canister stove rated at 3000 W with a piezo igniter and a fire board of 9.5 by 9.5 cm, which the listing says suits a 20 cm pot and 1 to 3 people. It packs into a 4 by 5 by 8 cm box and fits any 7/16 thread single butane or butane-propane canister (EN 417).\n\nIt is the lowest-priced stove in this list and still carries an igniter, which the BRS-3000T leaves out. A honeycomb aluminum windproof net surrounds the burner, a feature the MSR and Fire-Maple stoves do not describe.\n\nIt suits budget-minded hikers and backup-stove shoppers who want a light, self-lighting burner. The control valve runs from full heat down to a simmer.",
     "specs": [
       "3000 W, piezo ignition",

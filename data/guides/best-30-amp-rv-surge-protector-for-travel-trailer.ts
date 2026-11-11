@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FL6hH-izL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWMDRDBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWMDRDBR?tag=rvgearlab-amz-20",
     "description": "The GEARGO 4th-Gen is a plug-in 30 amp protector rated at 15,000 joules with an LED display for line voltage, a built-in circuit analyzer for open ground, open neutral and reverse polarity, and an IP68-rated oversized cover. The listing states that it disconnects power below 103V or above 132V and also on overheating, and that it carries a five-year warranty.\n\nIt ranks first because it is the only trailer-sized pick that publishes both of those cutoff voltages and a long warranty at $63.99. The KIRFEIHT 18000J costs $18.00 less and lists a higher joule figure, but its listing describes a circuit analyzer and weatherproof cover without stating a voltage cutoff. The Southwire Surge Guard costs $11.28 more and adds a lock ring, but its listed surge rating is 2,100 joules.\n\nPick this if you want the unit to actually cut power in a brownout while you are away from the trailer. The caveat is that the listing does not mention a theft lock or ring, so add a cable lock if you leave it at a busy campground.",
     "specs": [
       "15,000J, 103V to 132V cutoff",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41alKualxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BVJF8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BVJF8C?tag=rvgearlab-amz-20",
     "description": "The KIRFEIHT is a 30 amp plug-in unit rated at 18,000 joules for $45.99. Its listing describes a built-in circuit analyzer that flags open ground and reverse polarity, an IP68-rated waterproof cover, flame-retardant housing, a right-angle plug with a rubber grip, and UL Listed and RoHS certification.\n\nIt ranks second because it is the cheapest pick with a stated certification and a joule rating above the GEARGO 4th-Gen's 15,000. It gives up the 4th-Gen's published 103V and 132V cutoff and its display, and it costs $16.00 more than the TOWTAMER, which does include a display. Against the GEARGO Orange it adds 6,000 joules and UL Listing for $14.00 less.\n\nChoose it if you want a certified, plain protector at a modest price and mostly camp at pedestals you have already checked. The caveat is that the listing does not say what happens at low or high voltage, so treat it as surge and wiring-fault protection rather than brownout protection.",
     "specs": [
       "18,000J, UL Listed",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QDrYLvukL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071DK1SL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071DK1SL9?tag=rvgearlab-amz-20",
     "description": "The Southwire Surge Guard 44280 is a portable 30 amp unit marketed for pop-ups and travel trailers. Its listing describes enhanced diagnostics to identify faulty park power, thicker brass in the receptacle to reduce heat, an Easy-T-Pull handle with an integrated receptacle, and an anti-theft lock ring on the cord. The surge rating is 2,100 joules.\n\nIt ranks third because it is the only pick here that ships with a theft ring, which costs $11.28 more than the GEARGO 4th-Gen to get, yet its listed energy rating is far lower than the 15,000 to 18,000 joules on the others. Joule figures from different brands are not directly comparable, but a seven-fold difference on paper is worth noticing. It is $39.28 above the Compact 2100J, which shares the same joule number.\n\nPick it if the trailer sits at seasonal sites or crowded pedestals and theft is your bigger worry than the biggest joule number. The caveat is no stated voltage cutoff or display in the listing, so it will not shut off in a brownout.",
     "specs": [
       "2,100J surge rating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+leiR3dpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-amz-20",
     "description": "The TOWTAMER is a $29.99 plug-in 30 amp unit rated at 15,000 joules with an LED display that shows real-time voltage and readable error codes. The listing says it detects open ground, reverse polarity, voltage and temperature, and that its IP68 waterproof cover has a 2.2 inch by 3 inch interior meant to fit most RV plugs. It carries a 30-day return policy and a stated lifetime assurance against defects in materials or workmanship.\n\nIt ranks fourth because it is the cheapest display unit here, $16.00 less than the KIRFEIHT and $34.00 less than the GEARGO 4th-Gen, but it does not publish cutoff voltages or a certification the way those two do. Against the Compact 2100J it costs $6.00 less and lists seven times the joule rating, though the Compact is smaller and lighter.\n\nChoose it if you want to read pedestal voltage before you plug in and you are not leaving it unattended through storms. The caveat is that the listing says it detects voltage and temperature but never states that it disconnects power.",
     "specs": [
       "15,000J, LED display",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "This GEARGO unit is a 30 amp plug-in protector rated at 12,000 joules with a fault chart that lists correct wiring, open ground, open neutral, reverse polarity, hot and ground reversed, and no power. The listing mentions FCC testing, V-1 flame-retardant material, an IP68 waterproof design with a cover, a right-angle plug with grip handles, and a three-year warranty.\n\nIt ranks fifth because at $59.99 it has no display and no stated cutoff, while costing $4.00 less than the GEARGO 4th-Gen that has both and five years of coverage. It is $14.00 more than the KIRFEIHT, which lists UL certification and 6,000 more joules. Its one clear edge is the fault chart wording, which names six distinct conditions.\n\nPick it only if you specifically want a simple light-chart analyzer from a brand you already use. The caveat is that the 4th-Gen and the KIRFEIHT both beat it on features and price.",
     "specs": [
       "12,000J, FCC tested",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yLmfy+-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJCYGT13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJCYGT13?tag=rvgearlab-amz-20",
     "description": "This compact 30 amp unit weighs 6 ounces and measures 4.3 by 3.5 by 2.5 inches, with a display screen for real-time input voltage, a circuit analyzer, 2,100 joules of surge protection, and LED indicator lights. The listing says it detects open ground, reverse polarity, voltage fluctuations and temperature issues, is FCC and RoHS certified, and has an 18-month replacement service.\n\nIt ranks last because 2,100 joules is the lowest rating here and it carries the shortest warranty, yet at $35.99 it sits between the TOWTAMER at $29.99 and the KIRFEIHT at $45.99. It is $39.28 under the Southwire, which has the same joule number but adds a lock ring. Its weight and size are the real draw for a pop-up or teardrop trailer with a tight storage bin.\n\nChoose it for a small trailer where storage space matters and you mainly want a voltage readout. The caveat is the low joule rating and no listed cutoff or waterproof cover.",
     "specs": [
       "6 oz, 4.3 by 3.5 in",

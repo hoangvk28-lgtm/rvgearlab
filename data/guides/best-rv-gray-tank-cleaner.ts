@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WFs3ii2gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKCJQH9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKCJQH9Y?tag=rvgearlab-amz-20",
     "description": "Pure RV Grey Water Tank Treatment is a 32 oz enzyme formula built around gray water, with the listing naming grease, soap scum, food particles and hair as its targets. It also says it dissolves the biofilm that coats tank walls and fouls sensors.\n\nAgainst Clean Camper EcoBlast, it carries a more detailed list of soils and a broader set of stated uses, from camper sinks to boat gray systems. Against Happy Campers, it is purpose-made for gray water instead of a black tank product that also covers gray.\n\nIt suits owners with slow-draining sinks and a musty smell from the shower drain who want a gray-first treatment. Think of it as the pick for gray-first odor control.",
     "specs": [
       "32 oz enzyme formula",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513lbGQRRRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3QXV7W3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3QXV7W3?tag=rvgearlab-amz-20",
     "description": "Clean Camper EcoBlast is a 32 oz citrus enzyme treatment described as designed specifically for RV gray tanks. It targets grease, soap residue and food particles that build up from sink and shower use.\n\nCompared with Pure RV Grey, it covers the same soil list at a lower shelf price. Compared with Thetford Tank Blaster, it is a liquid you pour in and leave, with no soak or foam routine.\n\nA smart pick for weekend campers who want a gray-specific treatment at a gentle price. Buyers focused on budget gray maintenance will find it a sensible match.",
     "specs": [
       "32 oz citrus enzyme",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Cki71a7tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D3XYRG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D3XYRG5?tag=rvgearlab-amz-20",
     "description": "Thetford Tank Blaster is a two-in-one cleaner for black and gray tanks and portable tanks, with a micro-foam action meant to cling to vertical walls. The routine is to leave it overnight and then dump.\n\nCompared with Pure RV Grey, it is a reset treatment used occasionally, not a steady maintenance dose. Compared with Happy Campers, it focuses on foam contact for coated walls.\n\nBest for a tank that has been neglected and needs one concentrated cleaning cycle before a trip. It earns its slot for occasional deep reset.",
     "specs": [
       "Two-in-one tank cleaner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DxyJCNsRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DKDFVVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DKDFVVC?tag=rvgearlab-amz-20",
     "description": "Happy Campers RV Black Tank Cleaner targets film and hardened build-up, and the listing adds that it maintains gray tanks by removing grease and mineral deposits. It also describes use as a sensor cleaner.\n\nCompared with Pure RV Grey, it covers both tanks with one bottle. Compared with Uncle Todd's, it speaks more directly about mineral deposits and hardened layers.\n\nGood for owners who want a single product across both holding tanks and a clean sensor routine. It is a natural fit for one product for both tanks.",
     "specs": [
       "Black and gray maintenance",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VgdUn2w-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H27B8NT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H27B8NT8?tag=rvgearlab-amz-20",
     "description": "Uncle Todd's is a 16 oz concentrated enzyme and bacteria liquid sold as 8 treatments, with a sage scent. The listing says it works in all tanks and doubles as a gray tank treatment.\n\nCompared with Clean Camper EcoBlast, it ships as a small concentrate with a fixed treatment count, which makes cost per treatment easy to work out. Compared with Thetford Tank Blaster, it is a regular-use dose.\n\nA fit for small rigs and portable cassette systems where you dose in measured amounts. Think of it as the pick for small rigs, portable tanks.",
     "specs": [
       "16 oz, 8 treatments",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31foRqVhAtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXNGDP1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXNGDP1Y?tag=rvgearlab-amz-20",
     "description": "Liquified RV Sensor Treatment is a concentrated formula described as a deep cleaner for black and gray tanks and as a sensor cleaner. The listing says it dissolves waste and helps prevent clogs.\n\nCompared with Pure RV Grey, it leans on the sensor angle and concentration. Compared with Happy Campers, it is a lower-priced alternative with the same dual-tank framing.\n\nWorth a look for owners whose main complaint is sensors that read full early. Buyers focused on sensor-focused owners will find it a sensible match.",
     "specs": [
       "Concentrated formula",

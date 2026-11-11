@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ss9Jx2EEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9F5M77W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9F5M77W?tag=rvgearlab-amz-20",
     "description": "The Tikfoam 3.15 inch by 14 foot clear tape is waterproof and reinforced. Its listing says it repairs awnings, RV roofs, underbelly, tarps, tents and boat covers.\n\nIt is wider and longer than the OAZ-style short rolls. It costs the same as the other Tikfoam.\n\nIt fits owners who need a wide clear patch for an awning. With clear rv roof repair tape, awning patches fits it best.",
     "specs": [
       "3.15 in x 14 ft clear",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jJ8xi6LGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4CFK2QK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4CFK2QK?tag=rvgearlab-amz-20",
     "description": "The Tikfoam heavy duty clear tape is thick, waterproof and reinforced. Its listing names fabric, canvas, nylon, leather, metal, wood, plastic, glass and vinyl.\n\nIt has the longest material list here. It costs about the same as the 3.15 inch roll.\n\nIt fits owners who patch many material types. With clear rv roof repair tape, mixed material patches fits it best.",
     "specs": [
       "Thick clear repair tape",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HxdfB28vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBP5X7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBP5X7V?tag=rvgearlab-amz-20",
     "description": "The WENSSKKU clear tape is made of PET material coated with acrylic adhesive. Its listing says it is thick and waterproof for awnings, RV roofs, underbelly, tarps and boat covers.\n\nIt adds a stated PET and acrylic build. It costs the same as Tikfoam.\n\nIt fits owners who like documented materials. Under clear rv roof repair tape, expect awning and tarp repairs to suit it.",
     "specs": [
       "Clear PET film tape",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HunG2285L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B6F5PJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B6F5PJ7?tag=rvgearlab-amz-20",
     "description": "The Flex Tape clear 4 inch by 5 foot roll is a rubberized waterproof tape. Its listing says it can be applied hot or cold, wet or dry, even underwater, with a thick flexible backing.\n\nIt is the best known brand here, with a wet-surface claim. It is the shortest roll.\n\nIt fits owners who want a quick emergency patch. For clear rv roof repair tape, it suits emergency patch.",
     "specs": [
       "4 in x 5 ft clear",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310F2rDxS9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ2YJL8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ2YJL8V?tag=rvgearlab-amz-20",
     "description": "The OAZ clear tape is 4 inches by 79 inches, a self-adhesive fabric patch tape. Its listing says it repairs tents, awnings and outdoor fabric products.\n\nIt costs less than the Tikfoam rolls. It has a simple clean, cut, strip install.\n\nIt fits owners with a tent or awning tear. Among clear rv roof repair tape, think tent and awning tears.",
     "specs": [
       "4 x 79 in clear tape",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31unj-2FX4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPR7L16T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPR7L16T?tag=rvgearlab-amz-20",
     "description": "The GAQWOK clear tape is 4 inches by 10 feet. Its listing says it repairs leaks on vinyl, canvas and PVC and works as a tarp patch kit.\n\nIt is the cheapest roll here. It lists no special tools.\n\nIt fits owners who need a cheap patch. In clear rv roof repair tape, cheap patches is its lane.",
     "specs": [
       "4 in x 10 ft clear",

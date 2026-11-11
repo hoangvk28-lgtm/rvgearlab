@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQxAzUqiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMVMZRPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMVMZRPT?tag=rvgearlab-amz-20",
     "description": "The Hansing 4-Layer is the one pick here that is a filter as well as a support. It combines PP cotton, non-woven fabric, activated carbon fiber, a molecular sieve and KDF-55 media, with 3/4 inch GHT brass threads and a brass adapter kit in the box. The listing claims a 5,000 to 7,000 gallon capacity and flow up to 5 gpm, so the stand comes with a high-flow filter already matched to it.\n\nCompared with the standalone stands below it, you get filtration and a support in one purchase, and the brass threads with an 85 psi rating on the listing are a step up from the plastic threads of hose filters like those the Camco 2-in-1 Stand holds. The adapter kit gives a stronger connection point at the spigot, which is where strain relief matters most.\n\nIt is best for owners who want a single purchase and plan to stay with one filter system. A matched filter and stand removes the guesswork about fit, and brass threads give the connection to the spigot a more durable footing for a long stay. If the water supply stays the same all season, that bundled setup is the least fuss.",
     "specs": [
       "4-layer media with KDF-55 and a stand",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CtW2SCYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TXRLHQ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TXRLHQ7?tag=rvgearlab-amz-20",
     "description": "The Camco 2-in-1 Stand holds both standard (blue and white) and XL Camco inline filters in two holding positions. It is made from UV-stabilized ABS, made in the USA and patented, and the listing says it reduces hose kinking and maximizes flow. For a Camco owner it is the most flexible stand in the lineup, since one purchase covers two filter sizes.\n\nIt ranks above the Camco Universal Stand because it adapts to two filter sizes, where the Universal is built around a single size. Against the Triple-Prong iron stand, it uses plastic that stays rust-free and carries a UV-stable finish, so it suits a stand that lives outdoors on a level pad for a whole season. Switching filter sizes between trips needs just the one stand.\n\nIt is best for owners who use Camco filters and may switch between standard and XL cartridges. A rig that changes filters between trips keeps the same stand, and the upright position keeps the hose in a gentle curve at the spigot so flow stays steady. Made in the USA and patented, it is a stand that treats the hose and the spigot well on repeat trips.",
     "specs": [
       "Holds standard and XL Camco inline filters",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W66qRMOPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHPCT9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHPCT9J?tag=rvgearlab-amz-20",
     "description": "The Camco Universal Stand is a plastic stand that holds filters upright and keeps hoses from kinking. It is made to fit most 4 inch filters and is listed as stable on level ground, built from sun-resilient plastic that stays rust-free. The simple one-piece design makes it the easiest stand here to drop into place at a new site.\n\nIt is cheaper than the Camco 2-in-1 Stand and fits one size, which suits owners with a single standard filter. Compared with the Triple-Prong iron stand, it relies on a flat spot for stability, so it pairs with a gravel pad or flat dirt where the base can sit true without prongs or stakes. The lower price makes it a sensible choice for a first stand or a spare for the bin.\n\nA good pick for a campsite with a gravel pad or flat dirt where the stand will be left undisturbed. It gives a standard 4 inch filter an upright home at the spigot, and the upright position keeps flow steady without needing tools or hardware. It also works as a quick drop-in for a filter you swap between trips.",
     "specs": [
       "Fits most standard 4 inch filters",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21doa16KQVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTMGKJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTMGKJ2?tag=rvgearlab-amz-20",
     "description": "The scottchen Triple-Prong is a powder-coated iron stand with a three-prong base meant to stay upright on soil, grass, concrete and gravel. Its inner diameter is 4-1/8 inches, and the listing says it can be screwed to the ground for a permanent installation. The prong base is the feature that sets it apart in this lineup.\n\nNext to the scottchen Iron Stand below, it pushes stability harder with the prong base, while the Iron Stand relies on stakes and rings. Against the Camco Universal Stand, the iron body has more mass and resists wind, which matters when a hose tugs on the filter from the side, and the prongs hold position against that pull.\n\nBest for sites with wind or soft ground where a flat base would slide. The prongs sit into the surface, the filter stays upright, and the option to screw it down suits a seasonal pad where the stand stays put and the filter hangs straight. Wide soil sites with gusts are where the three prongs pay off most, and the iron body keeps the filter planted while the hose is moved.",
     "specs": [
       "Triple-prong base for soil, grass and gravel",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21q0n52H93L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7BVHYMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7BVHYMW?tag=rvgearlab-amz-20",
     "description": "The scottchen Iron Stand is rust-resistant powder-coated iron with rings and brackets that you assemble with included hardware. The listing gives actual dimensions, 17 inches high, 5.25 inches wide and 4.1 inches deep, and says stakes anchor it into soil. Seeing real dimensions makes it easy to compare against the filter you own, so you can tell at a glance whether the ring will hold it.\n\nIt is cheaper than the scottchen Triple-Prong and anchors with stakes, so it suits ground soft enough to push them in. The listing suggests wetting dry or hard ground first. Compared with the Camco Universal Stand, it takes more effort to set up and holds position in a breeze that would slide a plastic base.\n\nA good pick if you want a stake-anchored iron option and like seeing exact dimensions on the listing. It lifts the filter out of the mud, keeps it upright and gives wind resistance on a soil or grass site at a low price. Assembly with the included hardware takes a few minutes, and the finished stand gives the filter a steady footing for the rest of the stay.",
     "specs": [
       "17 in high, 5.25 in wide, 4.1 in deep",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Aq8nZRnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSFY97TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSFY97TV?tag=rvgearlab-amz-20",
     "description": "The Hansing Plastic Stand is made for Hansing 4.5 x 10 RV filter systems, models HSG-03 and HSG-04. The title names the exact fit, so a matching owner knows the stand suits the canister the day it arrives. It is a plastic body that stays rust-free and holds a full-size canister upright. It fits a rig that already runs a Hansing canister and needs a tidy footing for it.\n\nUnlike the universal scottchen and Camco stands, this one is aimed at a specific filter family, so it suits the Hansing system named in its title and gives that canister a base made for its wider body and for the extra length of a 10 inch housing. It is also the lowest priced stand in the lineup, which makes it a low-risk replacement.\n\nIt makes sense for owners who already have a matching Hansing system and need a replacement or a second stand. The named models take the guesswork out of fit, and the plastic body keeps weight off the spigot with a simple upright hold. It also makes a spare stand for a second hookup, such as a seasonal pad where a Hansing canister lives.",
     "specs": [
       "Fits Hansing 4.5 x 10 filter systems",

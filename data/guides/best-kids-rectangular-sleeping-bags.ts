@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CbZOTBS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007JTLQHQ?tag=rvgearlab-amz-20",
     "description": "The TETON Junior is a kids bag rated 20 degrees, with a taffeta or canvas shell and a full-length zipper draft tube. A pocket in the lining holds a phone or flashlight, and the zippers run both ways.\n\nIt is the only bag here rated for real cold, and the draft tube along the zipper helps keep warm air in. It costs more than the others because of that range.\n\nIt suits children who camp in spring and fall and need a bag that stays warm. A stuff sack and hang loops are included.",
     "specs": [
       "20 degree rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QHbzwVouL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPD78ZT3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPD78ZT3?tag=rvgearlab-amz-20",
     "description": "The Wake In Cloud bag measures 61 by 26 inches and weighs 2.9 lb, with a backpack-style sack for kids ages 3 to 8 to carry themselves. A 210T water-repellent shell, a pongee lining and a rated range of 45 to 77F are listed.\n\nIts stated weight and range are easier to plan around than the Coleman's, and the double-pull zipper frees feet on warm nights. A hook-and-loop fastener secures the zipper.\n\nIt suits young campers who like a character print and want to carry their own bag. The drawstring hood tightens for chilly nights.",
     "specs": [
       "61 x 26 inches, 2.9 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4112E3ObzEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSDQXJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSDQXJB?tag=rvgearlab-amz-20",
     "description": "The Coleman kids bag is rated to 50F, fits ages 6 and older up to 5 ft tall, and glows in the dark. An interior flashlight pocket is listed.\n\nIt has the clearest age and height fit of the six, and the glow design helps kids find the zipper at night. The 50F rating is the same warm-weather class as the Xelaro.\n\nIt suits school-age kids who want a fun glow print and a trusted brand. Pack a liner for chilly nights.",
     "specs": [
       "Rated to 50F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41csJ0-C5JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQN8TGZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQN8TGZS?tag=rvgearlab-amz-20",
     "description": "The Sportneer is an 87 by 31.5 inch bag with a 50 to 80F range, a 190T polyester taffeta shell and a drawstring hood. It weighs 3.3 lb and packs into a compression carry bag.\n\nIt is the longest bag in this guide, so it fits adults up to 6 ft as well as kids, and a child can use it for years. The velcro flap keeps the zipper from slipping, and the bottom unzips to vent.\n\nIt suits families who want one bag a child will not outgrow. It fully unzips to become a blanket.",
     "specs": [
       "87 x 31.5 inches, 3.3 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510NY7X1QQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4GHTHC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4GHTHC8?tag=rvgearlab-amz-20",
     "description": "The tuphen kids bag is rated 40 to 77F, with a polyester shell, a 210T taffeta lining and 3D inner fibers. A two-way zipper and a strapped compression sack are included.\n\nIts 40F low end beats the Wake In Cloud's 45F and the Xelaro's 50F, and it costs less than most of the others. Weight is not printed.\n\nIt suits parents who want a low-cost 3-season bag for backyard camping and school trips. Bright colors appeal to kids.",
     "specs": [
       "40 to 77F rated",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bOMAgdEBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6WNJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6WNJHX?tag=rvgearlab-amz-20",
     "description": "The Xelaro kids bag measures about 59 by 23.6 inches, weighs 2 lb and packs to 6.3 by 13.4 inches. It lists a 50 to 59F rating, a 210T polyester shell and a 190T lining, and opens flat as a blanket.\n\nIt is the lightest and cheapest pick, and its packed size is printed. The narrow temperature range keeps it for summer.\n\nIt suits younger children on summer trips or sleepovers. It is a low-cost option for a short season.",
     "specs": [
       "59 x 23.6 inches, 2 lb",

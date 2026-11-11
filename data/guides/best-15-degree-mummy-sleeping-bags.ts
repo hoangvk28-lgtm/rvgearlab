@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "Bessport's 3-4 season mummy prints 15 to 45F in its title, which includes 15F at the cold end. The listing gives girth figures of 63, 50.3 and 33 inches at shoulder, hip and foot, a fit for sleepers from 6 ft 1 in to 6 ft 6 in, and a 210T ripstop polyester shell.\n\nWithin this group it is the only title that names 15F, which makes it the closest literal match. Quilted construction and an insulated footbox set it apart from the thinner TETON Trailhead.\n\nA fit for tall campers on a budget who want one bag for shoulder seasons and cold nights. Pair it with an insulated pad for the colder end.",
     "specs": [
       "15 to 45F in the title",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman's North Rim is a 0F mummy cut for campers as tall as 6 ft 2 in, measuring 82 x 32 inches. The listing names Coletherm hollow polyester insulation, a Thermolock draft tube along the zipper, an adjustable hood and a no-snag zipper.\n\nIt carries the most conservative label in the group and the most detailed construction notes. Compared with the Bessport, it gives more margin below 15F, and its Thermolock tube is a named draft feature the BISINNA only describes in general terms.\n\nA reliable pick for campers who expect nights to fall below 15F and want a recognizable brand. It suits car camping first.",
     "specs": [
       "0F rated mummy, up to 6 ft 2 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ihNiFP0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-amz-20",
     "description": "BISINNA builds this mummy with a 40D nylon shell and a DWR coating, a 210T pongee lining, and a full 7 ft length for users up to 6 ft 1 in. It weighs 1.8 kg and compresses to 15.7 x 11 inches in the included sack.\n\nIt is lighter than the Coleman North Rim in print and adds an adjustable drawstring hood, a full-length insulated draft tube and a YKK two-way zipper. The listing sells it as a 3-4 season bag, with no explicit rating, so it fits the milder side of 15F nights.\n\nA good choice for hikers and festival campers who want a lighter mummy. It machine washes, which helps after dusty weekends.",
     "specs": [
       "1.8 kg, packs to 15.7 x 11 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "TETON's LEEF is a lightweight mummy sold in 0, 20 and 30 degree options and three sizes, with a roomier mummy cut. The listing calls it comfortable and compact and includes a compression sack.\n\nIt is the only pick here that lets you choose the temperature option, so you can match the label to 15F. The Bessport and Coleman each come in one rating, and the Trailhead is fixed at 20F.\n\nChoose it if you want to pick a size and a warmth level instead of settling for one. Order the 0 degree option when 15F is likely.",
     "specs": [
       "0, 20 and 30 degree options",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "TETON labels the Trailhead 20 degrees and builds it as a microfiber mummy. A hood closes gaps around the face, zipper draft tubes seal the opening, and vaulted footboxes carry added insulation. A compression sack and hang loops are included.\n\nIt is the most affordable of the TETON bags here and sits near the warm end of the group. Against the Bessport, it is simpler and carries less detail, while the LEEF gives size choices that the Trailhead lacks.\n\nA fit for first-time cold-weather campers who want a name-brand mummy at a lower cost. Hang it from the loops between trips.",
     "specs": [
       "20F mummy, microfiber fill",

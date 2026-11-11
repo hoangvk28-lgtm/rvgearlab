@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pqTG3VE-S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076BBXZL1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076BBXZL1?tag=rvgearlab-amz-20",
     "description": "The Lippert Ground Control TT is a 5-point automatic leveling system for travel trailers. It levels and stabilizes the trailer in under three minutes, and it uses Hall Effect technology for more precise leveling than a simple bubble reading. It is compatible with OneControl technology, so it can share a control ecosystem with other trailer systems.\n\nThe kit comes with mounting hardware for a bolt-on install with no welding, and it includes a wall-mountable touchpad. The steel frame is heavy gauge with a powder-coat finish, built for weather exposure. Compared with a drive-on leveler, which needs you to spot a ramp and creep forward, this system levels from a button. Against manual stabilizer jacks, it removes cranking and guessing, and against block-and-bubble leveling, it removes the trial and error.\n\nThis is the system for full-timers, frequent movers and owners who set up every few days and want leveling to take minutes instead of a half hour. If your trailer is a travel trailer with a frame that can accept bolt-on jacks, and you value the time and effort saved, it is the premium answer.",
     "specs": [
       "5-point automatic leveling",

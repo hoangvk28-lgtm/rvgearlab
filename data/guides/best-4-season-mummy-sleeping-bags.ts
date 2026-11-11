@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f3WKJuk9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYFWNK8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYFWNK8P?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering Blaze is a 0F synthetic mummy filled with 60 ounces of TechLoft Silver insulation, a staple-length siliconized fiber, and built in two offset layers so the seams of one layer sit over the middle of the other. That construction removes the cold stripes that run along stitching lines in single-layer bags, and it is the main reason this bag leads the list at around $130.\n\nAgainst the Browning Discover just below it in price, the Blaze carries the same TechLoft Silver family but publishes every number a buyer needs: 80 by 32 inches, 5 lb 5 oz, and a stuffed size of 18.5 by 12.5 inches. It also adds a full-length zipper baffle and an insulated chest baffle, and uses a rugged polyester ripstop shell with a soft lining. Versus the Browning Endeavor, it carries a warmer-feeling cut at nearly 2 lb less weight.\n\nThe Blaze suits winter car campers, hunters and scouts who need a dependable cold-weather bag and prefer fill that keeps working in a damp tent, as well as shoppers who want a bag they can read the specs for before buying.",
     "specs": [
       "60 oz TechLoft Silver synthetic fill",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xBgeDJYWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085B1Q9J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085B1Q9J2?tag=rvgearlab-amz-20",
     "description": "The TETON Altos is a 0 degree mummy using water-resistant down, which is the only down bag among the five and the reason it has the highest price at about $264. Down compresses far smaller than synthetic fill for the same warmth, and the Altos ships with a heavy-duty compression sack with straps so the whole thing can be cinched small.\n\nCompared with the ALPS Blaze below it in the ranking, the Altos swaps synthetic fill for down, which gives much better compressibility and a lighter carry, at roughly twice the price. It also adds a built-out footbox for more foot room and extra shoulder and leg space, so the cold-weather taper feels less confining than most mummies at this rating. Against the budget Browning bags, it is in a different class of pack size entirely.\n\nIt makes sense for winter backpackers, bikepackers or anyone who has to haul a 0F bag in a pack rather than a trunk, and for side sleepers who want a bit more elbow and knee room in a cold-weather mummy.",
     "specs": [
       "Water-resistant down insulation",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cCG6M5VkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NDXHBYJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NDXHBYJ?tag=rvgearlab-amz-20",
     "description": "The Browning Endeavor is the coldest bag here with a -20F label, filled with 84 ounces of TechLoft Silver synthetic insulation in a two-layer construction. At about $84, it is the lowest-priced way into sub-zero territory on this list, and the specs are plain: 80 by 32 inches and 7 lb.\n\nSet against the ALPS Blaze above it, the Endeavor adds 24 ounces of insulation, which is where the colder rating comes from, and it matches the zipper baffle and chest baffle that help hold heat. Compared with the lighter Browning Discover below it, it carries a sturdier build around a larger fill weight, and it trades pack-friendliness for warmth. Its polyester outer and liner are rated for both indoor and outdoor use, which gives it a second life as a guest or cabin bag.\n\nIt is the right pick for ice fishing, deer camps, cold-weather car camping and anyone sleeping in an unheated cabin who wants a large insulation margin without spending much.",
     "specs": [
       "84 oz TechLoft Silver fill",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314XJA7pIKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVL626CG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVL626CG?tag=rvgearlab-amz-20",
     "description": "The Browning Discover is a 0F extreme-cold mummy with TechLoft Silver synthetic insulation, a tapered mummy shape, a chest baffle and a full-length zipper baffle, all for about $97. The shell is a water-resistant polyester that is described as standing up to moisture and abrasion, and a stuff sack is included.\n\nCompared with the Browning Endeavor above it, the Discover offers a less extreme 0F claim for the same family of insulation, so it fits a wider range of trips without feeling like overkill in a milder winter. Against the ALBOMI below it, it uses a proven synthetic fill instead of a cotton and flannel blend, which brings better moisture handling and a more conventional performance.\n\nThe Discover works for cold-weather campers, winter hunters and shoppers who want proven synthetic insulation in a sub-$100 package without stepping to the extreme -20F label.",
     "specs": [
       "0F rated TechLoft Silver synthetic",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ORvdKQBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYD5BBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYD5BBX?tag=rvgearlab-amz-20",
     "description": "The ALBOMI is the least expensive bag here at about $43, and it takes a different path from the rest: 250 grams of cotton filling inside a waterproof 210T polyester shell, with a skin-friendly flannel lining. The label describes performance in a range of -15 to -5, and the bag weighs about 5.5 lb in an 87 by 31 inch cut that compresses to 17 by 9 inches.\n\nCompared with the Browning Discover above it, the ALBOMI is roomier at 87 inches and lighter on the wallet by more than half, and its flannel lining feels softer against bare skin. It adds an adjustable drawstring hood, a heat-locking neck collar and a windproof side Velcro closure. Because it is machine washable, it also handles the muddy-kid, cabin and guest-room use that stretches a bag out.\n\nIt is a sensible choice for casual cold-weather campers, backyard winter sleepovers, cabin stays and buyers who value comfort and a low price over a lab-backed rating.",
     "specs": [
       "250g cotton fill, flannel lining",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OkvDQjtIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20",
     "description": "The P5000 Plus packs 5,120Wh of LiFePO4 behind a 3,600W pure sine wave inverter with five AC outlets sharing 3,600W. It accepts 1,800W AC and 1,000W solar for a full recharge in 2.2 hours and lists an EPS switchover under 0.01 seconds.\n\nIt holds about 1,300Wh more than the ABOK and roughly 1,500Wh more than the Jackery, at a lower price than the Jackery. The pack is rated for over 3,500 cycles and up to 20 years.\n\nIt suits cabin owners and long RV stays that run heavy appliances for hours. Fifteen ports cover most devices.",
     "specs": [
       "5,120Wh LiFePO4, 3,600W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3600 Plus holds 3,584Wh with 3,600W output, rising to 7,200W when two units run in parallel at 120V and 240V. High-temperature ceramic membrane cells are tested at 302 degrees F, and a full recharge takes 2 hours via hybrid AC and DC.\n\nIt is billed as the lightest 3.6kWh LFP station, 34% smaller and 29.3% lighter than other models. It has less capacity than the P5000 Plus and costs more.\n\nIt suits households that want plug-and-play backup with a transfer switch. Parallel use lets you reach 240V.",
     "specs": [
       "3,584Wh LFP, 3,600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 delivers 3,600W rated and 4,500W peak from 3,840Wh, with expansion up to 11,520Wh. It has 15 output ports including one 30A AC and four 20A AC outlets, plus an extendable handle and wheels.\n\nIt lists a 4,500W peak from a single unit and the strongest growth path. The Jackery 3600 Plus holds slightly less at 3,584Wh.\n\nIt suits RV and off-grid cabin owners who may add capacity later. Wheels and a telescoping handle make moving it easier.",
     "specs": [
       "3,840Wh LiFePO4, 3,600W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4176znNi+ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTQ2T42W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTQ2T42W?tag=rvgearlab-amz-20",
     "description": "The SolarPlay lists 2,500W continuous with a 5,000W surge and 2,304Wh of LFP cells. It recharges fully in 1.5 hours with 1,100W AC plus a 500W solar panel, and adjustable AC input lets you set 300W, 500W, 700W, 900W or more.\n\nIt is the one pick with a 5,000W surge number, and it costs less than half the Jackery. It holds the least energy of the four and is rated for 3,500 or more cycles.\n\nIt suits campers who need to start a big motor or compressor with a 5,000W surge. It has 14 ports and an 18 month warranty.",
     "specs": [
       "2,304Wh LFP, 2,500W / 5,000W surge",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "Coleman stuffs the Heritage Big & Tall with 5 lb of Holofill 808 insulation and rates it to 10F. The bag measures 40 x 84 inches, suits campers to 6 ft 7 in, and uses a cotton outer, a synthetic flannel lining and FiberLock stitching.\n\nIt carries the thickest named fill of the four, which is why it ranks above the HiZYNICE XXL and TETON Deer Hunter Canvas for real cold. FiberLock keeps the insulation from shifting, and a no-snag zipper keeps late-night entry simple.\n\nThe right call for large winter campers who park next to the site and want maximum loft. Plan on dedicated storage space.",
     "specs": [
       "10F rated, 5 lb Holofill 808",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggZVlyhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-amz-20",
     "description": "The TETON Deer Hunter carries a 0 degree label and wraps double-layer fiber insulation in heavy canvas, finished with a poly-flannel interior. A half-circle hood tops it off, and a second sales page for the same bag is folded into this entry.\n\nCanvas stands up to ground, sparks and branches better than the polyester shells on the HiZYNICE XXL and MEREZA 0 Degree. It is also the dearest of the four.\n\nRight for hunters and ranch campers who haul their gear over rough ground in winter. The canvas holds up through years of use.",
     "specs": [
       "Canvas shell, fiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL spans 90 x 39 inches and lists three temperatures, 30F comfort, 15F limit and 0F extreme. A draft tube, a dual-pull zipper and a cotton flannel lining come with it, and it fits adults to 6 ft 7 in.\n\nIt is the only bag here that shows a full comfort-limit-extreme set, so you can plan a winter night against real numbers. The Coleman Heritage Big & Tall has more fill, while this one has more detail.\n\nGood for large winter campers who want numbers they can check against the forecast. The wide cut gives room for layers.",
     "specs": [
       "90 x 39 inch XXL cut",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmnCg6OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBN8GPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBN8GPC?tag=rvgearlab-amz-20",
     "description": "MEREZA cuts this rectangle at 32.3 x 90.5 inches for campers up to 7 feet, with a waterproof windproof 210T shell and a 3D hood. The package adds a plush pillow, plus a compression sack for storage.\n\nPriced under the other three and sized for the tallest sleepers, it also admits a 40F comfort temperature on the listing, which makes it the mildest winter pick. The Coleman Heritage Big & Tall and TETON Deer Hunter Canvas are far warmer.\n\nA sensible choice for winter campers in mild climates or anyone who wants a cheap, roomy bag with a pillow. Layers fill the gap.",
     "specs": [
       "32.3 x 90.5 inch rectangle",

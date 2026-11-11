@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w0teu3CdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P7HZQNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P7HZQNG?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Aeros Premium Large is an inflatable pillow with a memory foam top layer, measuring 16.5 by 11 by 5.1 inches. It weighs 4 ounces, packs to 3.1 by 4.1 inches and has a multi-function mini valve for quick inflation and fine pressure tuning.\n\nIt costs about $42, around $8 under the Aeros Regular and far lighter than the IWVE and Wise Owl foam pillows. The larger size and 5.1 inch height cushion a side sleeper better than the Regular, and it clips onto compatible Sea to Summit mats with PillowLock patches.\n\nIt suits backpackers and car campers who want an airy pillow that nearly disappears in a pack. Tune the firmness with a small puff of air.",
     "specs": [
       "Inflatable, memory foam top",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21NKkaDf9xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFY69THW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFY69THW?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Aeros Premium Regular is a curved inflatable pillow in recycled stretch knit, measuring 13.4 by 9.4 by 4.3 inches. It weighs 3.5 ounces and packs to 4.3 by 3.1 inches, with a mini XPRESS valve for quick inflation and deflation.\n\nIt costs about $50, roughly $8 more than the Aeros Large, and it is the lightest pick in the group. It is smaller than the Aeros Large, which suits back sleepers and gram counters better than restless side sleepers.\n\nIt suits thru-hikers and ultralight backpackers who shave ounces. The scalloped shape cradles the head inside a sleeping bag hood.",
     "specs": [
       "3.5 oz, packs to 4.3 x 3.1 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi42QllCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C87R6B2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C87R6B2?tag=rvgearlab-amz-20",
     "description": "The Wise Owl is a compressible memory foam pillow with a micro-suede cover that is removable and machine washable. It comes in a small 12 by 16 inch or medium 14 by 18 inch size, weighs under 12 ounces and compresses into a waterproof stuff sack.\n\nIt costs about $40, around $11 more than the IWVE, and it adds a waterproof stuff sack and a cover that comes off. It is far heavier than the Aeros pillows, needs no inflating and never leaks.\n\nIt suits car campers, travelers and side or back sleepers who want a real-feeling pillow. It also works on planes and road trips.",
     "specs": [
       "Memory foam, micro-suede cover",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Soc1nNy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-amz-20",
     "description": "The IWVE is a 10 cm (4 inch) thick memory foam pillow that weighs 400 grams and packs to about 25 by 12.5 by 12.5 cm. It has a removable dual-season cover and offers neck and lumbar support.\n\nIt costs about $29, about $11 less than the Wise Owl Memory Foam, and it states the 4 inch thickness that suits side sleepers. It is heavier than the Aeros Large by about 10 ounces.\n\nIt suits side sleepers who want a firm, thick pillow at a modest price. It doubles as lumbar support on long drives.",
     "specs": [
       "10 cm (4 inch) memory foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xXXCkVR+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DDP3B1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DDP3B1Y?tag=rvgearlab-amz-20",
     "description": "The TETON Camp Pillow is a self-lofting soft pillow sold with a washable pillowcase. It needs no inflating and matches the lining of TETON sleeping bags.\n\nIt costs about $16, the lowest here and a third of the Aeros Regular. It is bulkier and softer than the foam and inflatable pillows, which suits sleepers who want a plain, soft pillow.\n\nIt suits car campers, kids and anyone who wants a no-fuss pillow. It packs down tight when you need it to.",
     "specs": [
       "Self-lofting soft pillow",

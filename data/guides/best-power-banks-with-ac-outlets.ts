@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h1U+eC4sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWLBNXKH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWLBNXKH?tag=rvgearlab-amz-20",
     "description": "The ZeroKor lists a 24000mAh lithium-ion pack with one 110V 65W maximum AC outlet, a 9V to 12.6V 10A DC output and two USB ports. A 30W solar panel is included, and the pack recharges from wall, solar or a car adapter.\n\nNo other bank in this list ships with a solar panel in the box, and the powkey kit lists only chargers. Compared with the wall-plug banks, it can run an actual AC device.\n\nIt suits a camper who wants AC power for a small laptop charger or a camera battery, and off-grid recharge. Short-circuit, over-current and overload protection are named.",
     "specs": [
       "24000mAh, 110V 65W AC outlet",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bJaaGxfDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SH2R19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SH2R19?tag=rvgearlab-amz-20",
     "description": "The powkey lists 24000mAh, 88.8Wh, with a 120V 65W AC outlet, two USB outputs (QC 3.0 9V/2A and 5V/3A) and a DC 9 to 12.6V 10A output. It recharges in under 4 hours from a 30W DC15V/2A input, with an LED display.\n\nIt matches the ZeroKor on capacity and AC wattage at a lower price. The 88.8Wh rating is printed, which puts it under common carry-on limits.\n\nIt suits a car camper after a compact AC source for a laptop charger or a small fan. The kit includes a car charger and a cigarette lighter adapter.",
     "specs": [
       "24000mAh, 88.8Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fCXdcwwKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJM7TXYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJM7TXYL?tag=rvgearlab-amz-20",
     "description": "The Sucrosey lists 50000mAh with a built-in foldable AC plug that recharges it from a 100V to 240V outlet in about 6 hours. It measures 4.61 x 2.87 x 1.26 inches, weighs 0.79 lb, and offers 22.5W from its USB-C port, built-in USB-C cable and USB-A port.\n\nNote that its AC plug recharges the bank and does not supply AC power. It beats the other two on capacity, with the AIFENG at 10000mAh, and its pass-through charging powers devices while recharging.\n\nIt suits a camper who wants a big phone bank with no charger brick to remember. It is for phones and tablets, not for plug-in appliances.",
     "specs": [
       "50000mAh, 22.5W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HMFAPGhUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYPZ92VM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYPZ92VM?tag=rvgearlab-amz-20",
     "description": "The AIFENG lists 10000mAh in a 3.66 x 2.36 inch body at 7.05 oz, with a foldable AC plug that recharges it in about 2.5 hours. It carries built-in cables, 22.5W fast charging and charges up to four devices at once.\n\nIts plug serves only recharging, like the Sucrosey, and it trades capacity for a body that is up to 45 percent smaller than average banks. The 2.5 hour wall recharge is quicker than the Sucrosey's.\n\nIt suits a minimalist who wants a small daily bank with built-in cables and a fold-out plug. It is carry-on friendly for travel days.",
     "specs": [
       "10000mAh, 7.05 oz",

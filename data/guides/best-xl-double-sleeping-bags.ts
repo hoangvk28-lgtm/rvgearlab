@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tm-bVTTvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YDWWFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YDWWFP?tag=rvgearlab-amz-20",
     "description": "The SWTMERRY is a rectangular queen XL double that fits two people up to 7 ft and prints a comfort range of 5 to 25C with an extreme of 0C. Two pillows, a hooded top and a handled compression sack complete the package.\n\nIt is the only XL double here that states a 7 ft fit, and it gives both a comfort and an extreme number, a pair the MEREZA and ETGLCOZY skip. Flannel lines the inside, and it splits into two singles.\n\nIt suits big and tall couples who want clear ratings and pillows in the box. The compression sack handle makes carrying easy.",
     "specs": [
       "Fits two people to 7 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xs1fzi8-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D645RGGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D645RGGX?tag=rvgearlab-amz-20",
     "description": "The Coleman is a 45F queen XL double sized for sleepers to 6 ft 4 in. A 3-in-1 design zips apart into two bags, a lightweight sheet handles layering, and Roll Control with a Quick Cord helps packing.\n\nIts packing aids are the easiest of the five, and the sizing is clear. It costs the most and carries the mildest rating.\n\nIt suits couples who camp in warm weather and want the easiest bag to roll up. A brand name adds familiarity.",
     "specs": [
       "45F queen XL double",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411iU5r8l1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-amz-20",
     "description": "The ETGLCOZY XL queen has a dual-zipper system that converts it into two bags or two blankets, a bottom vent, a flannel liner and a Thermolock draft tube. A storage bag, a waterproof fabric and machine washing are listed.\n\nIt turns into blankets as well as bags, which the Coleman and SWTMERRY do not mention, and the draft tube helps hold heat. No fit height or temperature range is printed.\n\nIt suits families who want flexible bedding for camping and guests. The bottom vent releases heat.",
     "specs": [
       "Converts to bags or blankets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ill9WMoWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6V9KBXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6V9KBXP?tag=rvgearlab-amz-20",
     "description": "MEREZA builds this XL double from 100 percent flannel and adds an OEKO-TEX certification statement. It targets two big-and-tall adults, and brushed flannel is said to trap air for warmth.\n\nIt leans on fabric feel and certification, where the SWTMERRY leans on printed ratings. It sits in the middle on price.\n\nIt suits couples who want a soft, certified flannel double for mild weather. It is one of the plushest to sleep on.",
     "specs": [
       "100% flannel XL queen",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mW+QibjJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRVXWR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRVXWR3?tag=rvgearlab-amz-20",
     "description": "The oaskys is a queen XL double with a 210T anti-tearing polyester shell and a 190T pongee lining, designed for 10 to 20 degrees C. It comes with two pillows and splits into two individual bags.\n\nNothing else here costs less. The shell is tougher than a plain flannel, and the pillows are included.\n\nIt suits budget couples on warm trips who want pillows in the box. The shell resists tears.",
     "specs": [
       "10 to 20C design range",

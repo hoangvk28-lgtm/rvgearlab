@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410APOY7urL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC62Y41N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC62Y41N?tag=rvgearlab-amz-20",
     "description": "The Ecarke cordless pump runs on a Dewalt 20V battery (tool only) and lists 9.6 GPM with a 75 foot maximum vertical and horizontal lift. Self-priming and single-speed operation are listed.\n\nIt has the highest flow of any pick here and needs no cord. The SEESII pump adds batteries in the box.\n\nBest for owners who already own Dewalt 20V batteries. On the plus side, long 75 foot lift.",
     "specs": [
       "9.6 GPM, Dewalt 20V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410734E1J3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1GW3LLZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1GW3LLZ?tag=rvgearlab-amz-20",
     "description": "The SEESII cordless pump moves up to 760 GPH, about 12.7 GPM, with a 65 foot head and two 4.0 Ah batteries. It handles water, diesel and other non-flammable liquids.\n\nIt includes the batteries that the Ecarke lacks, which makes it a ready-to-use kit. Its flow is lower than the Ecarke.\n\nA fit for owners without a battery platform. It also stands out because 65 foot head.",
     "specs": [
       "760 GPH, 65 ft head",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410XrpYIpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06X9BDQ6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06X9BDQ6G?tag=rvgearlab-amz-20",
     "description": "The Comet VIP Plus is a 12V submersible pump producing 20 L/min, about 5.28 GPM, made in Germany. It draws 35 to 45 W, can run dry up to 30 minutes and measures about 4.84 by 1.9 inches.\n\nIt has the highest flow of the submersibles and the longest stated run-dry time. The Bazpo pump below is smaller.\n\nBest for campervans that drop a pump in a water jug. It also stands out because made in Germany.",
     "specs": [
       "5.28 GPM, 12V submersible",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LcaXK2r7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01M3XOXQ0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01M3XOXQ0?tag=rvgearlab-amz-20",
     "description": "The Bazpo is a 12V submersible pump at about 2 GPM and 16 foot head, built to work with microswitch 12V faucets. It connects to a kitchen faucet with a 10 mm (3/8 inch) hose.\n\nIt is the lower-flow, lower-power submersible and pairs with faucet switches. It is cheaper than the Comet VIP.\n\nA good fit for van sinks with a push faucet. Another reason it earns a slot: lower price than Comet VIP.",
     "specs": [
       "2 GPM, 16 ft head, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21T-neNu4WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN3ZHCG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN3ZHCG8?tag=rvgearlab-amz-20",
     "description": "The HomeSoGood hand pump is a metal drum-style sink pump for caravans, trailers and boats, with a mounting hole of about 32 mm (1.25 inch). It installs without complicated steps.\n\nIt needs no power at all, which makes it the backup pick. It is sturdier than the plastic ZWQY pump.\n\nBest for backup water at a sink without electricity. On the plus side, low price.",
     "specs": [
       "Metal drum-style pump",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aAtWnQ+-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WRNZWQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WRNZWQY?tag=rvgearlab-amz-20",
     "description": "The CALIDAKA is a double-action manual pump for caravan and camper sinks that pumps on both up and down strokes. It is self-priming and sold as a replacement hand pump.\n\nIt is a lighter-duty alternative to the metal HomeSoGood pump with easier operation. It also needs no power.\n\nA good fit for sinks where an electric pump is not needed. Among its strengths, low price.",
     "specs": [
       "Double-action manual pump",

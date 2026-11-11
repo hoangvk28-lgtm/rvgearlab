@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZB+M8l-iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47PQNQF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47PQNQF?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-68100A-AD is a 100 amp deck-mount converter in the WF-6800 series that RV builders already install, so it fits the cutout and wiring of an existing 6800 series bay. The listing states that it automatically detects lead-acid or LiFePO4 batteries, holds full output down to 100 volts of AC input, and uses power factor corrected charging that it says is up to 30 percent more efficient. It is listed as UL/CSA and FCC compliant.\n\nIt ranks first because it is the only unit here that publishes a low-voltage output claim, a safety listing and automatic battery detection together. The cost is $519.99, which is about $300 more than the PowerMax PM3 and roughly five times the VEVOR. Against those, you are paying for the standards listing and the drop-in fit, not for extra amps, since every unit here shares the same 100A label.\n\nPick this if you are replacing a failed factory converter in a 6800 series bay or want the most documented protection at a campground with weak voltage. The caveat is price, and the listing does not publish dimensions or a warranty term in the feature text, so confirm both before ordering.",
     "specs": [
       "100A, auto lead-acid or LiFePO4",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yv6-i1eBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH5W?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-100A lists up to 100 amps of regulated 12V output, multi-stage charging for lead-acid banks, and adjustable output so a lithium bank can be charged to its required settings. It is a standalone deck-mount box with current limiting, reverse-polarity and thermal protection, priced at $189.\n\nIt ranks second because it combines an adjustable lithium profile with a lower price than the PM3 unit of the same brand, which sells for $30 more with a nearly identical feature list. Compared with the WFCO, it gives up the detected-battery convenience and the published low-voltage behavior, so you set the profile yourself. Compared with the VEVOR, it costs about $85 more but does not publish fixed voltage steps or a cooling description.\n\nChoose it if you have a lithium bank, you are comfortable reading the battery maker's charge voltage and entering it, and you want a name-brand box under $200. The caveat is that \"adjustable\" is not a numbered range here, so check the manual for the actual voltage you can set before relying on it.",
     "specs": [
       "100A regulated 12V output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413g05BxehL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W7XW9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W7XW9J?tag=rvgearlab-amz-20",
     "description": "The RecPro 100 Amp converts 120VAC shore power into usable 12VDC, charges the battery while powering low voltage lights and appliances, and uses 4-stage charging. The listing says it works with both lead and lithium batteries and notes that the brand makes this line in 35, 45, 55, 60, 75 and 100 amp sizes. It sells for $189.95.\n\nIt lands third because the listing says lithium works but publishes no profile or voltage detail, which is thinner than the PowerMax PM4 at nearly the same price. Its advantage over the cheaper units is a named, established RV-focused brand and a line of smaller sizes, so you could buy a 55 or 75 amp version of the same family if the bank is small. Compared with the generic 100A ranked last, it offers a clearer description of the charging stages.\n\nPick it if you run a conventional lead-acid or AGM bank and want a straightforward 4-stage charger at a mid price. The caveat is that lithium compatibility is a one-line claim, so ask the seller for the lithium setting before connecting a LiFePO4 bank.",
     "specs": [
       "100A, 4-stage charging",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yv6-i1eBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2TKFYJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2TKFYJ8?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM3-100-SME carries the same feature list as the PM4: up to 100 amps of regulated 12V output, multi-stage charging for lead-acid, adjustable output for lithium, deck-mount format and built-in current limiting, reverse-polarity and thermal protection. It is priced at $219.\n\nIt ranks fourth because it costs $30 more than the PM4 and the listing text shows no difference in features or stated capability. If the model suffix indicates a newer or revised design, the listing does not say so, which makes the PM4 the better value on paper. It does stay ahead of the VEVOR and generic units by being a recognizable brand with a lithium adjustability claim.\n\nChoose it only if the PM4 is unavailable or you want to match another PowerMax part already in the rig. The caveat is the price gap with no published reason for it, so ask the seller what changed between the PM3-100-SME and the PM4-100A.",
     "specs": [
       "100A regulated 12V output",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouwA+5sBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-amz-20",
     "description": "The VEVOR 100 Amp is the cheapest unit here at $103.90 and publishes the most checkable controls: a 13V to 16.5V operating range, dedicated lead-acid and LiFePO4 modes, and fixed voltage options of 13.0V, 14.6V and 16.5V. It lists an intelligent cooling fan that starts above its rated temperature, a metal housing for heat dissipation, six protections and a 100 percent copper cable.\n\nIt sits fifth because the listing itself says it is suitable for large-capacity batteries rated 75Ah to 80Ah, which is a small bank for a 100 amp box and a mismatch worth noticing. Compared with the $163.99 generic unit, it explains its charge steps more clearly and states a cooling method. Compared with the PowerMax boxes, it costs $85 to $115 less but lacks a published safety listing.\n\nPick it for a low-cost secondary or workshop supply and a small to mid bank where you will set the voltage mode by hand. The caveat is that 16.5V fixed mode is not a lithium charge voltage, so never leave it selected on a battery bank, and a fan means audible noise in a small cabin.",
     "specs": [
       "13V to 16.5V operating range",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X+KpgAE0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMWXBDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMWXBDV?tag=rvgearlab-amz-20",
     "description": "This unbranded 100 amp converter lists a steady 100 amp output with three preset voltage modes of 13V, 14.6V and 16.5V, and four charging stages named Boost, Normal, Storage and Desulfation. The listing describes steel, plastic, aluminum alloy and copper construction and says the unit is meant for RVs, marine, automotive and car audio use. It is priced at $163.99.\n\nIt ranks last because its name field is a generic description with no brand to identify warranty or support, and it offers little that the VEVOR does not: the same three voltage presets for $60 more. Against the RecPro it gives a clearer list of stages, but the RecPro has a recognizable name and a broader size line. It shares the same fixed modes as the VEVOR, so voltage choice is the same.\n\nChoose it only if you need these three fixed voltages and the other units are out of stock. The caveat is the lack of a named brand, so confirm who handles returns and what the warranty covers before you hardwire it into a coach.",
     "specs": [
       "100A, 13V/14.6V/16.5V presets",

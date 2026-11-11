@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iyW-a-nNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBFLBHRL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBFLBHRL?tag=rvgearlab-amz-20",
     "description": "The METII offers white light plus two red power levels, three modes with memory, a zoom lens that adjusts coverage and a pocket clip and lanyard. It runs on three AAA batteries, sold separately, and has a 12-month warranty.\n\nIt is the only pick with both high and low red settings, so you can dim the red for reading a map. The NHCXGAN has more colors, while single-mode torches like the Honoson cannot dim.\n\nIt suits campers and stargazers who want a gentle low red and a white option in one small body. Memory recalls the last mode used.",
     "specs": [
       "White plus high and low red",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o1kdqRqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WVYWN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WVYWN5?tag=rvgearlab-amz-20",
     "description": "The NHCXGAN is a USB-C rechargeable zoomable flashlight with four colors (white, red, blue and green) and 4 modes on one button. It lists a beam reaching up to 656 feet, an aluminum alloy body with a carrying strap, and about 4 hours to charge and 5 to 7 hours of use.\n\nIt is the only rechargeable pick, which saves batteries on a long trip, and it adds green and blue beams that the METII lacks. Its red cannot be dimmed like the METII's low red.\n\nIt suits campers and anglers who want rechargeable power and several colors. The strap helps carry it.",
     "specs": [
       "4 colors, 656 ft reach",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tmFx2LdlS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097M5PNQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097M5PNQC?tag=rvgearlab-amz-20",
     "description": "The Honoson set includes four single-mode red flashlights, each with one on/off switch, a scalable red lens and a beam listed at more than 150 yards. Each runs on one AA battery, and the design suits astronomy, cycling, aviation and camping.\n\nFour lights make it easy to put one in each tent, car and pack, and no mode cycling to fumble in the dark. The METII has more features, while this set is simpler.\n\nIt suits group trips and scout leaders who need several red lights at a low price. The zoom lens switches between wide and narrow.",
     "specs": [
       "Four single-mode red lights",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DI+qRwUyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5QMRKGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5QMRKGH?tag=rvgearlab-amz-20",
     "description": "The HinsGEAR 2-pack gives two single-mode red LED torches with a scalable red lens for wide or narrow beams. The listing suits cycling, astronomy, aviation, night observation, hiking and camping.\n\nIt is the simplest pair, with two lights rather than the four of the Honoson set. It matches the Honoson's single-mode design and lacks the METII's dimming.\n\nIt suits couples who want a red light for each person without extra features. The scalable lens covers a tent or a trail.",
     "specs": [
       "Two single-mode red LED lights",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FXuWT0o4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF1ZG3Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF1ZG3Y6?tag=rvgearlab-amz-20",
     "description": "The WAYLLSHINE 2-pack has two single-mode red LED flashlights with zoom, a beam listed at more than 150 yards and a note that red light can be used for sending a signal, asking for help or warning. Human eyes are most sensitive to the red range of light.\n\nIt states the beam range and signaling use more clearly than the HinsGEAR pair. The single mode matches the Honoson set, with fewer lights.\n\nIt suits campers who want a red light that doubles as a warning or signal light, for example at a tent pole or tow hitch. The zoom adjusts the spread.",
     "specs": [
       "Two single-mode red LED lights",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray & Forget RV and Camper Wash and Wax combo includes a 1 quart wash and a 1 quart wax with hose end adapters. The wash uses foaming action for a streak-free finish, and the wax lists water-beading technology and protection from acid rain and tree sap.\n\nAgainst the DAGREM U, it handles whole-rig washing and waxing rather than just streaks. Against the THINKWORK kit, it is made for RVs and campers instead of cars.\n\nBest for owners who want a simple two-step wash and wax with the sprayer built in. A fast way to cover the full exterior.",
     "specs": [
       "1 quart wash and 1 quart wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hh9jQ6rfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-amz-20",
     "description": "DAGREMU is a 16.9 oz concentrate that mixes 1 part product to 8 parts water for up to 1.2 gallons. It lists use on fiberglass, vinyl, metal, aluminum, plastic and painted surfaces and targets streaks from rain runoff and roof seal oxidation.\n\nAgainst the Spray & Forget combo, it focuses on streak removal and gives more solution per bottle. Against the awning and roof cleaners, it is the one made for sidewalls.\n\nBest for sidewalls streaked by roof runoff. A good partner for a regular wash.",
     "specs": [
       "16.9 oz concentrate, 1:8 dilution",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ofXLJq++L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXPQWV12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXPQWV12?tag=rvgearlab-amz-20",
     "description": "The THINKWORK kit is a 40-piece set with a low-pressure foam gun, a car wash brush, a folding bucket, cleaning gloves, an adjustable 180-degree mop and 7 brushes for vents and wheels. The foam gun connects to a garden hose with the included quick coupler and leak-proof tape.\n\nAgainst the Spray & Forget combo, it supplies tools while leaving the soap to you. Against the single products, it is the only bundle of brushes and a bucket.\n\nBest for owners who need washing tools more than chemicals. A broad starter set for a first RV.",
     "specs": [
       "40-piece wash tool kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sUb88EeFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N6807LL?tag=rvgearlab-amz-20",
     "description": "STAR BRITE Premium RV Rubber Roof Cleaner uses marine-grade technology to remove tough dirt and stains without corrosive acids. It is applied by spraying, brushing lightly and rinsing, and is designed not to dry out rubber or seals.\n\nAgainst the DAGREM U, it is for roofs rather than sidewalls. Against the awning cleaner, it works on rubber, fiberglass and painted surfaces.\n\nBest for rubber roofs that need cleaning before sealing or coating. A necessary item before any roof repair.",
     "specs": [
       "Rubber roof, fiberglass, painted surfaces",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515DypfebrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH92LSVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH92LSVF?tag=rvgearlab-amz-20",
     "description": "The awning cleaner is a 2-piece spray set for removing dirt, dust, road grime and stains from RV and camper awnings and other outdoor fabric. It uses a spray-on formula that reduces scrubbing and is made for vinyl and fabric surfaces.\n\nAgainst the STAR BRITE roof cleaner, it is gentler on fabric and vinyl. Against the Spray & Forget combo, it focuses on awnings only.\n\nBest for owners with a fabric or vinyl awning. A cheap way to refresh an awning before storage.",
     "specs": [
       "2-piece awning spray set",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P9tjektaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-amz-20",
     "description": "PROSOL WORKS RV Interior Cleaner is a 16 oz water-based spray for furniture, carpets, seats, vinyl floors and cabin fixtures. It is a no-scrub formula that is free from harsh chemicals and is described as safe for children and pets.\n\nAgainst the exterior picks, it is the only interior product here. Against the tool kit, it is a ready-to-use spray.\n\nBest for RV interiors with fabric, vinyl and fixtures. A gentle all-purpose cleaner.",
     "specs": [
       "16 oz water-based spray",

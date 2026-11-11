@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JhNvtlPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 20 ft is a pre-assembled kit of two 10 foot hoses with 24 mil TPE walls, swivel fittings and reusable locking rings. It is made in the USA with an abrasion-resistant exoskeleton design.\n\nIt is the most durable 20 foot option here and sits just above the Rhino Ultimate combo in price. Compared with the AVERONR 30 Ft, it trades five extra feet for a stronger, branded build.\n\nBest for owners who want a tough 20 foot base and plan to add a short extension. A premium choice for long-term use.",
     "specs": [
       "2 x 10 ft, 24 mil TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrWia1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-amz-20",
     "description": "The Rhino Ultimate 20 ft combo is an 11-piece kit with a 20 foot hose, a pre-attached clear elbow, a storage box with a secure lid and snap closure. The dual-function box works as the start and end hose supports during use.\n\nCompared with the plain RhinoEXTREME 20 Ft, it adds carrying and support that cut down on extra purchases. It costs slightly less than the RhinoEXTREME while bundling more parts.\n\nBest for campers who want everything in one carry box. A neat pick for those who hate scattered parts.",
     "specs": [
       "20 ft hose, 11-piece kit",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dpznMgdLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-amz-20",
     "description": "The AVERONR 30 ft hose is made of commercial-grade TPE with reinforced threaded fittings and locking bayonets for a leak-proof, odor-tight link. It is listed as flexible in cold and snow and runs a full 30 feet, about 12 meters.\n\nIt is the longest hose here and costs less than either Camco kit. The extra reach is the feature that answers a 25 foot run most directly.\n\nBest for owners with a distant riser who prefer extra length over an exact fit. A strong pick for big sites.",
     "specs": [
       "30 ft commercial-grade TPE",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qVA-86IbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F7ZKD?tag=rvgearlab-amz-20",
     "description": "DUMPMAN makes its 20 ft hose as one continuous TPE piece with a 24 mil wall, and the clear 90 degree adapter in the box suits four different inlet sizes. A one-piece build removes the mid-hose coupling.\n\nIt costs about half what the Camco kits do and stays a single run. Against the AVERONR 30 Ft, it is ten feet shorter and includes a clear elbow.\n\nBest for a shorter 25 foot job where 20 feet nearly reaches. A well-priced hose for budget buyers.",
     "specs": [
       "20 ft one piece, 24 mil TPE",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 ft kit has a 24 mil TPE wall with crush recovery, swivel 4-prong bayonets and a clear 90 degree adapter. It is the most compact and lowest priced option here.\n\nIt serves as a short backup next to a longer hose and costs less than every pick above. Compared with the DUMPMAN 20 Ft, it sacrifices five feet for lower cost.\n\nBest for owners who keep a short hose for easy sites and a long hose for hard ones. A useful second hose.",
     "specs": [
       "15 ft TPE, 24 mil wall",

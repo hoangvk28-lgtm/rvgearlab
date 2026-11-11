@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yiIrwNqyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0822KRNCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0822KRNCW?tag=rvgearlab-amz-20",
     "description": "Odoland packs 19 pieces for one or two campers, including a 2 qt (1.9L) pot, a 0.8L kettle, a nonstick pan, cups and utensils. Hard anodized aluminum heats quickly and evenly, and the listing says a full pot of water boils fast.\n\nIt has the largest pot of the group, which matters for pasta or chili for two. The kettle adds hot drinks, and it works on any stove or campfire.\n\nThat mix makes it an easy first purchase for couples who want one set that covers breakfast and dinner. Everything fits in one set, so you buy once.\n\nThe 2 qt (1.9L) pot is the real centerpiece, large enough for a pasta dinner for two or a pot of chili without crowding the stove. A 0.8L kettle lets coffee or tea run alongside the main course, and the nonstick pan handles eggs at breakfast. Cups and utensils round out the 19 pieces, so one bag outfits a complete camp kitchen for a couple.",
     "specs": [
       "19 pieces, 2 qt pot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIHmh00lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-amz-20",
     "description": "THTYBROS includes a 1.70L pot, a 1.15L kettle, a 7 inch frying pan and two 200ml cups in hard anodized aluminum. The surface is wire drawn and oxidized for sturdiness, and aluminum conducts heat faster than titanium or iron.\n\nIts pot and kettle are both bigger than the compact sets below, so it handles bigger breakfasts. It sits a step under Odoland on pot volume.\n\nChoose it if you cook for two or three and want a pan, a pot and a kettle in one bag. The kettle means coffee and soup do not tie up the pot.\n\nA 1.70L pot paired with a 1.15L kettle and a 7 inch frying pan gives three cooking vessels that can all run at once on a two-burner stove. The wire-drawn, oxidized hard anodized surface is built to take the knocks of car camping and heats quickly. Two 200ml cups come in the box, which suits a small family or a couple who each want a mug.",
     "specs": [
       "1.70L pot, 1.15L kettle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mt+B68ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-amz-20",
     "description": "MalloMe has a 1.7L pot with a lid, a 1.1L kettle and extra pieces in hard-anodized aluminum. It is designed to nest, so the whole kit minimizes space in a pack.\n\nNext to THTYBROS the kettle is a little smaller, and the nesting is the selling point. It is the lowest-priced of the larger sets.\n\nBackpackers who still want a full set will appreciate how tightly it packs. It slides into a pack without leaving gaps.\n\nThe pieces are designed to nest, so the 1.7L pot, lid and 1.1L kettle pack into each other with little wasted air. That nesting makes a 17-piece set practical for a larger backpack or a crowded car trunk. Hard-anodized aluminum heats evenly and resists dings, and the $33.99 price puts it near the bottom of the large-set range.",
     "specs": [
       "1.7L pot, 1.1L kettle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qJOZswJOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYQM9W6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYQM9W6?tag=rvgearlab-amz-20",
     "description": "Sanheshun includes a large aluminum alloy hanging pot, a frying pan, a pot with lid and a 1.2L kettle. A nonstick coating helps food release and the pieces nest for easy carrying.\n\nThe hanging pot makes it unusual in the group, since it can hang over a fire. It is lighter on the wallet than the Odoland set.\n\nPick it for campfire cooking where a hanging pot is handy. Nested pieces keep it tidy in the car.\n\nA large hanging pot is the feature that sets this kit apart, since it can dangle from a tripod or a hook over a campfire for stew, soup or boiled water. Alongside it come a frying pan, a pot with lid and a 1.2L kettle, all with a nonstick coating that helps food release. The nesting pieces pack up cleanly, which suits families cooking over open flame.",
     "specs": [
       "Hanging pot with lid",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kbVdIJ5JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019Z31RQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019Z31RQS?tag=rvgearlab-amz-20",
     "description": "BeGrit weighs 1.72 lbs and includes a pot and pan for one or two people. Folding handles and a small footprint keep it easy to carry.\n\nIt is the lightest and most compact set, lighter than the 17 and 19 piece kits. The pieces are built to last and clean easily.\n\nHikers and solo campers will find it the best match for a small pack. It is easy to forget it is in the pack.\n\nAt 1.72 pounds, this pot and pan set suits a solo hiker or a pair sharing a tent, and the folding handles collapse the whole set into a compact stack. The pieces clean easily and handle everyday boil-and-fry meals on a small canister stove. With a price of $24.99, it works as a straightforward step up from a single pot for weekend backpacking.",
     "specs": [
       "1.72 lb pot and pan set",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SaCHPnvuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLPSM7PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLPSM7PP?tag=rvgearlab-amz-20",
     "description": "This 12-piece kit includes a nonstick pot, pan, lid, bowls, utensils, a sponge and a wooden spatula in a mesh carry bag. It uses ultralight anodized aluminum that is scratch-resistant and safe for campfires.\n\nIt is the least expensive set and includes cleanup gear the others skip. Pot volume is not listed.\n\nA good first set for casual weekend campers. The included utensils save a separate purchase.\n\nA sponge and a wooden spatula come in the box with the nonstick pot, pan, lid, bowls and utensils, so a camper can cook and clean from one bag. Ultralight anodized aluminum is scratch-resistant and safe for campfires, and the mesh carry bag lets the set dry between uses. At $15.99 it is a low-risk way to put together a first camp kitchen.",
     "specs": [
       "12 pieces with utensils",

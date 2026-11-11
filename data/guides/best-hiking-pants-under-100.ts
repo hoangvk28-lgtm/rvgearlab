@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R86pFTJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H82HLHPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H82HLHPQ?tag=rvgearlab-amz-20",
     "description": "The Lzzidou Men's 4-Way Stretch is made from an 88 percent nylon and 12 percent spandex blend with a crotch mesh vent and active thigh ventilation zones. The listing describes six pockets, including a phone sleeve, and a 3D tailored fit with an elastic waistband.\n\nAgainst the baleaf Men's, it adds venting for humid days and a sleeker, trail-to-town cut. Compared with the keihTrail, it leans on airflow where the keihTrail leans on UPF and water resistance.\n\nIt suits men who hike in warm weather and want one pair that also works in the office. The anti-theft pocket layout keeps a phone secure.",
     "specs": [
       "88% nylon, 12% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j77aMyCmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C58VTBN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C58VTBN6?tag=rvgearlab-amz-20",
     "description": "The baleaf Men's Cargo is a 30-inch inseam cargo pant with spandex stretch, 3D knee tailoring and UPF 50+ fabric. The water-resistant, quick-dry cloth comes with two zippered hand pockets and two cargo pockets.\n\nCompared with the Lzzidou Men's, it lists sun protection and light-rain resistance directly. Next to the Boonlight, it keeps a classic straight-leg look with a full elastic waistband.\n\nIt suits men who want a straightforward sun-safe, shower-ready pair for hiking, camping and casual work. The cargo pockets hold a 7-inch phone.",
     "specs": [
       "UPF 50+ fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rYH5A4NtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMVHTN1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMVHTN1P?tag=rvgearlab-amz-20",
     "description": "The keihTrail Men's 6-Pocket is cut from a 90 percent nylon and 10 percent spandex blend that is water resistant and UPF 50+. Six pockets, articulated knees and an elastic waist round out the build.\n\nIt costs noticeably less than the baleaf Men's and offers more pockets. Against the Lzzidou Men's, it sacrifices the dedicated venting for sun and water treatments.\n\nIt suits men who want a well-equipped, low-cost pair for day hikes and camping. Slant, zip thigh and hip flap pockets keep gear sorted.",
     "specs": [
       "90% nylon, 10% spandex",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lPEWqAZ+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCPB47K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCPB47K?tag=rvgearlab-amz-20",
     "description": "The Boonlight Men's Ripstop uses a lightweight ripstop fabric with a Teflon coating that repels light rain and spills. A gusseted crotch, 4-way stretch and an adjustable elastic waistband give it a flexible athletic fit.\n\nNext to the keihTrail, it uses a tougher ripstop weave and a slim-fit silhouette. It is also the cheapest of the men's stretch pants here.\n\nIt suits men who hike, hunt or work outdoors and want a ripstop fabric that handles snags. Cargo pockets with flaps and zip closures secure the essentials.",
     "specs": [
       "Teflon-coated ripstop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qf1ETV1vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RDK9PD3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RDK9PD3?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Men's Rain Pants use a 5000mm rated waterproof fabric with a fully seam-taped TPU membrane and a mesh lining. A half leg zip with hook and loop fasteners opens the ankle wide enough to pull over boots.\n\nIt is the only waterproof layer in the men's group, so it fills a role the cargo pants cannot. An adjustable drawstring and elastic waistband handle sizing.\n\nIt suits men who want an emergency rain layer for hiking, cycling or camping. It packs small enough to stash in a daypack.",
     "specs": [
       "5000mm waterproof fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F6PEoUy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXPY9QD3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXPY9QD3?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Women's Packable Rain Pants are listed as waterproof and windproof, weighing only 195g, and come with a storage bag. A fully elasticated waistband, zipped flap pockets and Velcro leg closures adjust the fit.\n\nIt mirrors the men's rain pant and adds a packable pouch and reflective piping. It is the cheapest pick in the list.\n\nIt suits women who want a small, light emergency rain layer for hikes, travel and cycling. The Velcro ankles let you adjust width over footwear.",
     "specs": [
       "195g with storage bag",

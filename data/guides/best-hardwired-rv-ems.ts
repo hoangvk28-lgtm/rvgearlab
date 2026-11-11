@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nZA1uuVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOH is a 50 amp hardwired surge protector with an EPO function and Bluetooth. Its listing says it powers the RV off automatically during extreme voltage fluctuations, sends wireless fault alerts, and uses a replaceable surge module.\n\nIt ranks first because it is the only hardwired pick for a 50 amp rig and the only one whose listing describes automatic power off. The Power Watchdog PWD30EPOHW below is the 30 amp, WiFi counterpart, and the Progressive LCHW30 offers far less detail.\n\nBest for a 50 amp motorhome or fifth wheel where the unit should live inside and out of reach of theft. The listing mentions an optional RVWhisper add-on for WiFi or cellular monitoring, which is sold separately.",
     "specs": [
       "50A hardwired, EPO, Bluetooth",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RStr9eSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOHW is a 30 amp hardwired EMS surge protector with WiFi monitoring. Its listing uses the same emergency protection wording as the PWD50EPOH, including automatic power off during extreme voltage fluctuations, plus wireless fault alerts and a replaceable surge module.\n\nCompared with the Power Watchdog PWD50EPOH above, it is aimed at 30 amp rigs and costs less, and it uses WiFi where the 50 amp unit lists Bluetooth. Next to the Progressive LCHW30 below, it costs more but tells you far more about what it does.\n\nBest for a travel trailer or small motorhome with a 30 amp inlet that wants protection and remote data from inside the coach. It still needs wiring into the rig, so budget for installation.",
     "specs": [
       "30A hardwired EMS, WiFi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ssudRcRKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-LCHW30 is a hardwired 30 amp surge and electrical protector. The listing gives dimensions of 21.09 by 10.59 by 18.29 inches in the package and a weight of 2.75 pounds, but names no protections, no joule rating and no display.\n\nIt is the cheapest hardwired pick here, at roughly $125, and the Power Watchdog PWD30EPOHW costs about twice as much for more stated features. The tradeoff is that this listing leaves the key questions unanswered.\n\nBest for a 30 amp owner who values the price and the Progressive name, and who will confirm the protections before buying. Ask the seller about voltage cutoffs, reconnect delay and any remote display, since the listing does not state them.",
     "specs": [
       "Hardwired 30 amp protector",

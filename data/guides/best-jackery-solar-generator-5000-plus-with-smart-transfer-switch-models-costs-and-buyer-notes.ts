@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Explorer 5000 Plus and Smart Transfer Switch, 5040Wh, 7200W Output",
     amazonQuery: "Jackery Explorer 5000 Plus and Smart Transfer Switch, 5040Wh, 7200W Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41InfImR7gL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Solar Generator 5000 Plus and 2x500W & Transfer Switch, 5040Wh",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 2x500W & Transfer Switch, 5040Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0DKJ7P5L8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DKJ7P5L8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41nzeYiDEOL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery Smart Transfer Switch,Max. 60 kWh/14400 W",
     amazonQuery: "Jackery Smart Transfer Switch,Max. 60 kWh/14400 W",
-    amazonUrl: "https://www.amazon.com/dp/B0DKP22VYQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DKP22VYQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31yLkspBAdL._SL500_.jpg",
     specs: ["Product type: Transfer and connection component","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Transfer and connection component"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 5000 Plus and Battery & Smart Transfer Switch, 10kWh",
     amazonQuery: "Jackery Explorer 5000 Plus and Battery & Smart Transfer Switch, 10kWh",
-    amazonUrl: "https://www.amazon.com/dp/B0GBPD92YC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GBPD92YC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31JnVQy8fFL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Solar Generator 5000 Plus and Extra Battery & 500W, 10kWh, 7200W",
     amazonQuery: "Jackery Solar Generator 5000 Plus and Extra Battery & 500W, 10kWh, 7200W",
-    amazonUrl: "https://www.amazon.com/dp/B0H3KVDY3R?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0H3KVDY3R?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31qQk4irv9L._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Explorer 5000 Plus and Smart Transfer Switch, 5040Wh, 7200W Output product page",
-    "href": "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

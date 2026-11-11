@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y5-nzWEhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-amz-20",
     "description": "The Weize BCI Group 31M is a dual-purpose AGM marine and RV battery rated 110Ah with 825 CCA and 240 RC. The listing names quick charging, vibration resistance and a leak-proof design with specialized valves.\n\nIt matches the Mighty Max 27M on price while offering 10Ah more capacity and higher CCA. Compared with the Weize 24M it is bigger and stronger in both starting and reserve capacity.\n\nIt suits boats with a large starter and a fish finder or lights. The Group 31 size fits many marine trays.",
     "specs": [
       "12V 110Ah, Group 31M",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fqXu0oO2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G27M is a Group 27M marine AGM rated 100Ah with 800 CCA and 850 marine cranking amps. It lists up to 700 cycles at 50 percent depth of discharge.\n\nIt is the only pick here that states marine cranking amps and a cycle count. Compared with the Weize 31M it has 10Ah less capacity and adds a defined cycle figure.\n\nIt suits boaters who want marine cranking numbers on the label. It also serves as a camp-house battery on the shore.",
     "specs": [
       "12V 100Ah, Group 27M",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fj1LvTddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQSKG3G?tag=rvgearlab-amz-20",
     "description": "The Weize BCI Group 24M offers 90Ah, 550 CCA and 150 RC in a sealed AGM marine and RV case. The listing names quick charging, low maintenance and vibration resistance 20 times better than flooded units.\n\nIt sits below the Weize 31M and costs less. Compared with the Newport 50Ah it nearly doubles the capacity and adds starting power.\n\nIt suits mid-size boats and small RV banks. The Group 24M size is common in smaller trays.",
     "specs": [
       "12V 90Ah, Group 24M",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTEgM99JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-amz-20",
     "description": "The VEMDIA is a 12V 100Ah LiFePO4 battery in Group 31 size, weighing 24 lb. It has a 100A smart BMS, a listed 15,000 cycles at 60 percent DoD and discharge from -4 to 140 degrees F.\n\nIt is far lighter than the AGM picks and cheaper than any of them per amp-hour. Compared with the Newport 50Ah it doubles capacity and handles a trolling motor and electronics.\n\nIt suits anglers who run a trolling motor all day. The listing names fast charging with a 14.6V 20A charger.",
     "specs": [
       "12V 100Ah LiFePO4, Group 31",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aqWZlH+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT43QFML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT43QFML?tag=rvgearlab-amz-20",
     "description": "The Newport is a sealed 12V 50Ah AGM marine battery for trolling motors, kayaks and small boats. The listing says it is sized and optimized for Newport trolling motors and other 12V marine electronics.\n\nIt is the lowest-priced and smallest pick. Compared with the Weize 24M it cannot start an engine, and compared with the VEMDIA it carries half the capacity.\n\nIt suits kayak and jon boat anglers who need a compact trolling-motor battery. Its small size is easy to carry from truck to shore.",
     "specs": [
       "12V 50Ah sealed AGM",

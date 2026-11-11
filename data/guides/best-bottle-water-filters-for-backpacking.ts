@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3158xWeiMDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01M0MZ7NI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01M0MZ7NI?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree 0.6L is a collapsible bottle that weighs just 59 g and filters through 0.1 micron hollow fibers. Flow is rated at 2 liters per minute over a 1,000 liter life, and the maker says shaking or swishing is all the cleaning it needs.\n\nIt is the lightest and fastest-flowing pick here, and it folds flat to fit a running vest or pocket. It holds less than the JEYOGO 1L, which is the price of the lower weight.\n\nIt suits trail runners, ultralight backpackers and day hikers who refill at every stream. It disappears into a vest pocket.",
     "specs": [
       "0.6 L collapsible bottle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21dYs6xEEdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQB33YCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQB33YCD?tag=rvgearlab-amz-20",
     "description": "The JEYOGO is a 1 liter collapsible bottle with 0.1 micron hollow fiber filtration inside a flexible 0.4 mm BPA-free TPU body. The listing says it removes more than 99.9999 percent of total coliform under lab conditions at the start of life, with a flow of up to 1 liter per minute.\n\nIt holds more than the Katadyn BeFree 0.6L and adds a filter integrity check, which lets you test the filter after a drop or freeze. It also cleans by shaking, with no syringe needed.\n\nIt suits backpackers who want a full liter per fill and a way to test the filter after rough handling. The wide TPU body is easy to roll up when empty.",
     "specs": [
       "1 L collapsible bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sZ0APFhzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9CR8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9CR8Y?tag=rvgearlab-amz-20",
     "description": "The Bachgold Squeeze is a Swiss-made squeeze bottle whose filter pairs a nanofiber adsorption layer with a 0.2 micron hollow fiber membrane. It stays leak-resistant when closed and folds to pocket size.\n\nIt is the lowest-priced pick and is described as needing no replacement cartridges, only a rinse to restore flow. Its 0.2 micron membrane is coarser than the 0.1 micron rating of the Katadyn BeFree 0.6L and JEYOGO 1L.\n\nIt suits casual hikers and travelers who want a first filter bottle at the lowest cost. The leak-resistant cap lets it ride in a daypack.",
     "specs": [
       "0.2 micron hollow fiber",

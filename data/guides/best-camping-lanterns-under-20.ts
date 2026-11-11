@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TrXM3L7lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB67KH4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB67KH4P?tag=rvgearlab-amz-20",
     "description": "The Energizer S-500 is a hybrid lantern that runs on 3 AA batteries or a rechargeable lithium-ion pack charged by its solar panel or USB. It offers High, Low and Night modes, puts out up to 500 lumens of 360-degree light on the rechargeable battery and collapses with a handle and hook.\n\nIt costs about $18, around $2 less than the Glocusent Pocket Lantern, and it is the brightest and the only pick with both solar and AA backup. The Glocusent has a bigger battery and a longer runtime.\n\nIt suits car campers and power outage kits where a backup fuel source matters. Hang it in a tent or on a picnic table.",
     "specs": [
       "Up to 500 lumens on High",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g2DGqLKLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHCPRVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHCPRVQ?tag=rvgearlab-amz-20",
     "description": "The Glocusent is a 5000mAh rechargeable lantern with 60 LEDs in a semi-cylindrical design that covers 161 square feet. It has five brightness levels, three colors with an SOS mode and Type-C charging, and it weighs 5.4 ounces in a 3.2 inch cube.\n\nAt about $20 it uses the full budget, $2 above the Energizer S-500 Hybrid, and it runs up to 120 hours on a charge. It has reverse charging for phones, which the Energizer lacks.\n\nIt suits backpackers and tent campers who want a small lantern with a long runtime. The warm 3000K mode is easy on the eyes.",
     "specs": [
       "5000mAh, Type-C, reverse charging",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RwcpGDvBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBV87CYX?tag=rvgearlab-amz-20",
     "description": "The Blukar uses 116 LED beads with a 360-degree beam, seven lighting modes and a 4800mAh built-in battery that lasts 10 to 48 hours. It folds and expands, with a body that adjusts 90 degrees.\n\nIt costs about $17, a dollar less than the Energizer S-500 Hybrid, and it offers more modes than any other pick with side, bottom and full-light settings. The battery is not removable, so it does not take AAs like the Energizer.\n\nIt suits campers who want light aimed where they need it, such as on a table or tent floor. The adjustable body works as a task light.",
     "specs": [
       "116 LEDs, 360 degree beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4105+8kDSkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00XM8HTIS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00XM8HTIS?tag=rvgearlab-amz-20",
     "description": "The Etekcity set includes two collapsible lanterns with 30 LEDs that reach 154 lumens and run up to 50 hours on 3 AA batteries. The ABS body strengthens for knocks, and you adjust brightness by changing the height.\n\nIt costs about $17, close to the Blukar 116 LED, and it gives two lanterns, so one lights the tent and one lights the kitchen. Each is dimmer than the Energizer S-500 Hybrid.\n\nIt suits families and emergency kits that need two simple lights. AA batteries are easy to find.",
     "specs": [
       "Two lanterns, 154 lumens each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lYJ7l-Q-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNZB7WNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNZB7WNX?tag=rvgearlab-amz-20",
     "description": "The ILEEDear two-pack gives collapsible battery lanterns that put out 350 lumens at three brightness levels of 20, 50 and 100 percent with a 360-degree glow. The build is rugged and water resistant.\n\nIt costs about $10, nearly half the Energizer S-500 Hybrid, and the pair has the highest lumen figure of the AA lanterns. It uses plain batteries and has no solar panel.\n\nIt suits kids, backup kits and campers who will leave a lantern in the car. The collapsed body slips into a glovebox.",
     "specs": [
       "350 lumens, 2-pack",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ltDmReucL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDWKCV4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDWKCV4C?tag=rvgearlab-amz-20",
     "description": "The VAVOFO is a 20W lantern with 25 LEDs rated at 1200 lumens, a 3000mAh battery with Type-C charging and stepless dimming. It weighs 150 grams, carries an IP65 rating and has an emergency flash mode.\n\nIt costs about $10, around half the Energizer S-500 Hybrid, and its lumen claim is the highest here. It runs about 5 hours at maximum, which is much less than the Glocusent Pocket Lantern.\n\nIt suits tent campers who need strong light for a quick chore such as cooking. Dim it for a longer evening.",
     "specs": [
       "1200 lumens, 25 LEDs",

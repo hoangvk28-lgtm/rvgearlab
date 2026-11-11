@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Cl34tGn2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT8KH82G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT8KH82G?tag=rvgearlab-amz-20",
     "description": "The ELECAENTA UT-25H weighs only 0.9 lbs and uses HPBC cells at 25.4 percent efficiency. It has USB-C and USB-A outputs, an IP68 ETFE laminate, two climbing carabiners and a USB-C to USB-C cable in the box.\n\nIt has the lowest weight stated in the group, and its IP68 rating tops the list. Against the BigBlue, it saves over half a pound and drops the IP44 limit.\n\nIt suits thru-hikers and ultralight packers who want the least weight that still charges a phone. Carabiners clip it to the outside of a pack.",
     "specs": [
       "25W HPBC, 25.4%, 0.9 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 40W has a QC3.0 USB-A and a PD2.0 USB-C port at up to 18W each, plus a 19V DC output. It uses 24 percent monocrystalline cells with an IP67 rating, a smart IC chip with an LED status light and two carabiners.\n\nAgainst the ELECAENTA, it adds a DC output and faster ports for tablets and larger banks. Compared with the BigBlue, it gives 12 more watts and a much higher waterproof rating.\n\nIt suits backpackers who carry a power bank and a tablet or camera and need to refill between camps. Aim it at 45 degrees toward direct sun for best results.",
     "specs": [
       "40W, QC3.0 + PD2.0 18W ports",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jiYtfANJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-amz-20",
     "description": "The BigBlue 28W has two USB-C ports and one USB-A port at 5V and 3A each, and 4.8A combined. It folds to 11 by 6 by 1.4 inches, weighs 1.5 lbs and lists 25.4 percent efficiency with a shadow-free cell surface.\n\nIt has three simultaneous ports, more than the ELECAENTA, and a stated size and weight that the FlexSolar 40W lacks. The IP44 rating handles splashes.\n\nIt suits groups who share one panel among several phones and headlamps. The listing puts the combined output at 4.8A.",
     "specs": [
       "28W, 25.4% efficiency",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41132ElKTQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5XSSYWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5XSSYWY?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 10W folds to 6.3 by 4.8 by 1 inches and unfolds to 19.4 by 6.3 inches. It has one 5V and 2A USB-A port, an ETFE film over monocrystalline A+ cells and a smart IC chip with an LED status light.\n\nIt is the smallest and cheapest, and the listing suggests power banks under 10,000mAh. Against the ELECAENTA, it trades 15 watts for a pocket-size fold.\n\nIt suits weekend hikers who only need to keep a phone and headlamp topped up. It is a day-trip supplement rather than a full charger.",
     "specs": [
       "10W, 5V/2A USB-A",

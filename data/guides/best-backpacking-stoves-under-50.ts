@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efRlqaVNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-amz-20",
     "description": "The XT-2F from CAMPINGMOON weighs 68 g, or 2.4 oz, for the body and builds in a pressure regulator and a piezo igniter. Its bowl-shaped burner sits low behind a raised rim, and four supports hold the pot.\n\nIt is the only stove here that combines a titanium body, a regulator and an igniter, which is why it takes the top spot. The Fire-Maple weighs 20 g less with no igniter, and the XD-2F is heavier steel at a lower price.\n\nIt suits backpackers who want a light, regulated, self-igniting canister stove. It works for solo trips and trips for two.",
     "specs": [
       "68 g titanium body",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vel2ULO0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078ZD89KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078ZD89KZ?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple FMS-116T is a titanium canister stove weighing 1.7 oz, or 48 g, with a big burner top for larger pots. A round valve cuts size and weight and improves valve stability.\n\nIt is the lightest canister stove here and costs about 50 cents less than the XT-2F. It has no regulator or igniter, so it is a simpler stove for summer.\n\nIt suits ultralight hikers who want a titanium stove with a wide burner. It works with wider pots than the 25 g burners.",
     "specs": [
       "Titanium, 1.7 oz (48 g)",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-9oVajyIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09S5Y9J6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09S5Y9J6C?tag=rvgearlab-amz-20",
     "description": "The CAMPINGMOON XD-2F has a built-in pressure regulator and a piezo igniter and puts out up to 3.3 kW. It connects to isobutane canisters with a Lindal valve and has a detachable four-arm pot support in stainless steel.\n\nIt costs about $10 less than the XT-2F and adds the same regulator and igniter in a heavier stainless body. It is the cheapest regulated stove here.\n\nIt suits backpackers who want a regulated stove with an igniter at a lower price. It works well in shoulder seasons.",
     "specs": [
       "3.3 kW, built-in regulator",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HDt5Q-MSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR44HJ4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR44HJ4S?tag=rvgearlab-amz-20",
     "description": "The Odoland is a collapsible bucket-style butane stove with electronic ignition, adjustable flame, an anti-leak design and magnetic over-pressure protection. An alloy windproof hob puts out up to 1400W, and the trivet supports pots from 3.9 to 10.2 inches.\n\nIt sits at about $36 in the middle of the range and uses butane cartridges, not threaded backpacking canisters. It is heavier and bulkier than the titanium stoves.\n\nIt suits base-camp and car-to-trail cooks who want a collapsible stove with built-in safety. It is not an ultralight pick.",
     "specs": [
       "1400W alloy windproof hob",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HdA4zad9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6FMFZGV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6FMFZGV?tag=rvgearlab-amz-20",
     "description": "This alcohol stove weighs 6.5 oz, or 193 g, and folds to a pocket size. It has a stainless steel windscreen shelf, a copper tube that vaporizes fuel quickly and a sealed fuel container to prevent leaks.\n\nIt costs about $46, close to the cap, and is the only alcohol stove here with a built-in windscreen. It is heavier than the titanium canister stoves.\n\nIt suits backpackers who like alcohol stoves and want built-in wind protection. It is silent.",
     "specs": [
       "6.5 oz (193 g) alcohol stove",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RJTMbP37L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSSP89ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSSP89ZL?tag=rvgearlab-amz-20",
     "description": "Boundless Voyage makes this titanium wood stove fold flat. Vent holes at the base improve airflow, the ash filter and burning area can be adjusted to your pot size, and two wave-shaped brackets hold the pot or kettle.\n\nIt costs about $49, the most of the six, and it burns twigs, so you carry no fuel. It requires gathering dry wood and is limited by fire restrictions.\n\nIt suits backpackers on long trips where they can gather fuel. It is a fire stove and needs care.",
     "specs": [
       "Titanium, folds flat",

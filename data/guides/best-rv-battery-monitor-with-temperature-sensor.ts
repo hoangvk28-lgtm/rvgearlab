@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7gevyKGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-amz-20",
     "description": "The Renogy Shunt 300 is a Bluetooth shunt monitor that lists a battery temperature sensor and reports through the DC Home app. It supports lead acid, lithium iron phosphate and lithium-ion banks, and keeps historical data with alerts. It costs $118.65.\n\nIt is $18.66 more than the LiTime 500A and $76.66 more than the Coolschmax CZ212. You pay for the dedicated temperature sensor and Renogy ecosystem. Pick this if you already own Renogy gear and want temperature and SOC in one app. Caveat: the listing notes it is not currently compatible with Renogy ONE M1.",
     "specs": [
       "300A shunt, Bluetooth app",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KiVa2nGBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-amz-20",
     "description": "The LiTime 500A is a Bluetooth smart shunt for 8V to 120V systems, covering 12V through 48V lithium, flooded, AGM and gel banks. It tracks current, voltage, power and SOC, and supports adjustable temperature, voltage and over-current alarms. It costs $99.99 and has a 1-year warranty.\n\nIt sits $18.66 under the Renogy Shunt 300 and $58.00 above the Coolschmax CZ212. It adds an app and history the Coolschmax lacks. Pick this if you want a roomy 500A shunt with phone data. Caveat: the listing mentions a temperature alarm but does not clearly say a probe is included, so confirm before buying.",
     "specs": [
       "500A shunt, 8V to 120V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pe6AYBUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LFZBG2?tag=rvgearlab-amz-20",
     "description": "The Coolschmax CZ212 is a $41.99 shunt monitor with a 2.4 inch TFT display that shows SOC, voltage, current, power and temperature in C or F. The included 300A/75mV shunt works on 12V to 100V systems with most battery chemistries.\n\nIt is $58.00 below the LiTime 500A and $76.66 below the Renogy Shunt 300, but it has no app listed. Pick this if you want temperature and SOC on a single screen near the door. Caveat: the listing does not say whether the temperature reading comes from a battery probe or the unit itself.",
     "specs": [
       "300A shunt, 2.4 in TFT",

@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5115fTyYQrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PHZ9DWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PHZ9DWD?tag=rvgearlab-amz-20",
     "description": "The BLAVOR Solar Power Bank 10 is a 10000mAh bank described as the smallest and lightest solar bank in its class, with a 20W USB-C port, Qi wireless charging and IPX5 water and dust protection. Lithium-cobalt cells support more charge cycles, and it sells for $29.99.\n\nCompared with the 20000mAh bank below it, the BLAVOR gives a faster 20W USB-C port and a much lighter load on the shoulders. That makes it the one to carry when every ounce counts on a long trail.\n\nIt is the best match for thru-hikers, fastpackers and weekend backpackers who want a trail-ready bank with rugged protection and quick phone charging.",
     "specs": [
       "10000mAh, 20W USB-C",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+rn1PO2NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H153HTD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H153HTD2?tag=rvgearlab-amz-20",
     "description": "The Solar Charger Power Bank 20000mAh holds 20000mAh, 2x the BLAVOR's 10000mAh capacity at $19.99. Three built-in cables serve six devices, a wireless pad is included, and the listing states a phone reaches 60 percent in 30 minutes on 15W fast charge.\n\nCompared with the BLAVOR above it, this bank carries enough energy for several more phone charges, plus built-in cables so nothing gets left behind. It delivers more stored power at a lower price.\n\nIt suits week-long trips, car campers and two hikers sharing one charger, who want built-in cables and extra capacity for phones, a watch and a headlamp.",
     "specs": [
       "20000mAh, 15W fast charge",

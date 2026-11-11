@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HpSURHf0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9NHQPJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9NHQPJ?tag=rvgearlab-amz-20",
     "description": "Realcook is a foldable briefcase-style charcoal grill that sets up in about 10 seconds without tools. A multi-functional lid flips into a heat-insulating baseboard and leg reinforcement, and a 27.5 x 27.5 cm chrome grate suits 1 to 3 people.\n\nThe heat shield lid is what sets it apart from the other grills here, since it protects a table or tailgate. A built-in carrying handle makes it feel like a briefcase.\n\nChoose it for a couple or a small family on the beach. It is the easiest to set up.",
     "specs": [
       "10-second tool-free setup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DR7BnXOwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HL7XQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HL7XQR?tag=rvgearlab-amz-20",
     "description": "Charmline folds to 14 x 9 x 3 inches, about the size of a letter-size sheet of paper, and suits 1 to 3 people. It needs no assembly, has a dedicated sauce space when unfolded and a grill net that lifts for safer charcoal changes.\n\nIt is the slimmest here, flatter than the Realcook. It is made from thickened alloy steel.\n\nChoose it for a backpack or beach bag. It slips in next to a towel.",
     "specs": [
       "Folds to 14 x 9 x 3 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gcs2WZSuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH1M5X8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH1M5X8F?tag=rvgearlab-amz-20",
     "description": "Zarkind is a tabletop charcoal grill in stainless steel for 2 to 4 people, with a flat-fold structure that collapses slim and a carry bag. Assembly is tool-free and it is described as heat-resistant and rust-resistant.\n\nStainless steel is the key difference versus the painted-steel grills, since salt air is hard on paint. The carry bag keeps sand off the rest of your gear.\n\nChoose it for beach trips where rust is a worry. It suits 2 to 4 people.",
     "specs": [
       "Stainless steel mini grill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J8k8vKWvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096B7VW5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096B7VW5W?tag=rvgearlab-amz-20",
     "description": "Uten is a folding stainless steel charcoal grill with five vents on the sides to control airflow, rotating legs that fold away and a four-step setup. The listing says it is rust-proof, scratch-resistant and heat-resistant.\n\nFive vents give it better airflow control than most grills here, and it costs the least. A removable charcoal mesh keeps coals off the base.\n\nChoose it for the lowest cost with stainless steel. It suits picnics and camping.",
     "specs": [
       "Stainless steel folding grill",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XzlpH8xfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H635H3YS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H635H3YS?tag=rvgearlab-amz-20",
     "description": "Flaryth is a mini foldable charcoal grill measuring 7.8 x 10 x 16.7 inches, in black-painted high-temperature steel with a round vent at the base. It comes with barbecue tools.\n\nThe included tools save you buying tongs, and the bottom vent feeds air to the coals. It folds smaller than a kettle.\n\nChoose it for a gift or a first beach grill that comes with accessories. It also suits camping and backyard use.",
     "specs": [
       "7.8 x 10 x 16.7 inches",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Ak13Cm1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN9DYPP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN9DYPP8?tag=rvgearlab-amz-20",
     "description": "Odoland is a folding charcoal and wood-burning grill that measures 13 x 10.5 inches folded and comes with a carrying case. It has a 304 stainless steel grill and heavy-duty iron coated black, and can also act as a fire screen to stop sparks.\n\nIt burns either wood or charcoal, which no other grill here does, so a driftwood fire is possible where allowed. It costs the most of the six.\n\nChoose it for beach fires and campsites where you want more than a plain charcoal grill. The case keeps soot off your gear.",
     "specs": [
       "Wood or charcoal burning",

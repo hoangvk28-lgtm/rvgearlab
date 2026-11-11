@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZD1sJo9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTRLCKH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTRLCKH2?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal 4-Pack lists bacteria removal at 99.999999 percent and parasite removal at 99.999 percent, with microplastics caught down to 1 micron and turbidity reduced to 0.2 micron. The listing says claims are verified with laboratories using EPA, NSF and ASTM protocols, and gives a 4,000 liter (1,000 gallon) life per straw.\n\nNo other straw here names test protocols, and it gives separate figures for bacteria and parasites. Against the Practical Survival 2-Pack it lists a lower gallon rating, with more detail on how it was tested.\n\nIt suits solo hikers and emergency kits that want the most carefully documented straw. The straw needs no setup, batteries or tablets.",
     "specs": [
       "99.999999% bacteria claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518nGwoTuLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B72JVNFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B72JVNFC?tag=rvgearlab-amz-20",
     "description": "The Practical Survival 2-Pack includes two reusable straw filters, each 8 inches long and weighing 2 ounces. The maker puts bacteria and parasite removal above 99.99 percent for each straw and the life at up to 1,800 gallons.\n\nIt states the longest life of the five, a figure the maker translates into about a decade of use. Compared with the LifeStraw Personal 4-Pack, it comes as a pair instead of four and names Legionella.\n\nIt suits solo hikers and couples who want a long-life pair of straws at a lower price than the larger packs. Each 8 inch straw is long enough to reach into a stream.",
     "specs": [
       "Two 2 oz, 8 inch straws",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5176vN2xcJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSLMLLZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSLMLLZB?tag=rvgearlab-amz-20",
     "description": "The 60S 4-Pack is rated at 0.01 micron, with the maker claiming 99.99 percent of harmful particles removed and a life of 1,500 liters (396 gallons) and a flow of 550 ml per minute. It adds a 7-inch extension tube so you can drink from a source without lying down, and it attaches to hydration pouches and standard bottles.\n\nThe extension tube separates it from the LifeStraw and Practical Survival straws, which you sip from directly. The listing gives a shelf life of up to 5 years.\n\nIt suits hikers and kit builders who want a tube-equipped straw that also works on bottles and pouches. The extra length helps at low streams.",
     "specs": [
       "0.01 micron filter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EtN6roilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YJZFZSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YJZFZSN?tag=rvgearlab-amz-20",
     "description": "The NatureNova straw uses a 4-step design with a hollow fiber membrane, PP cotton and activated carbon, and the listing gives 1,500 liters (396 gallons) of drinking water. It weighs under 3.5 ounces and is sold as a camping and survival straw.\n\nThe activated carbon stage is aimed at taste, which the lighter LifeStraw does not describe. The 0.01 micron figure on the listing is a maker's claim.\n\nIt suits campers who want a carbon-equipped straw at a low price. The 4-step design catches grit before the membrane.",
     "specs": [
       "4-step filtration with carbon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F51RXEO3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6XP853M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6XP853M?tag=rvgearlab-amz-20",
     "description": "The joypur 4-Pack straws are 5.59 inches long, 0.71 inch across and weigh 1.5 ounces each, the lightest on the page. The listing is positioned for bike rides, off-road trails, travel and emergency kits.\n\nIt costs the least per straw of the five and is the smallest, so one fits in a jersey pocket. Its listing makes broad claims about removing contaminants, odors and chlorine that go beyond what a simple straw is known to do.\n\nIt suits budget-minded hikers and bikers who want a cheap, tiny backup straw. It slips into a jersey pocket with room to spare.",
     "specs": [
       "5.59 in long, 1.5 oz",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413SXT-Qh1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRVKT6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRVKT6C?tag=rvgearlab-amz-20",
     "description": "The MSR MiniWorks EX is a microfilter pump with a replaceable carbon and ceramic cartridge that the listing says removes bacteria, protozoa, organic compounds and particulate. It pumps one liter per minute and meets NSF protocol P231 for 99.9999 percent of bacteria and 99.9 percent of protozoa, with a cartridge rated to 2,000 liters.\n\nIt is the only pump here that names a test protocol, and the 2,000 liter cartridge is replaceable. The pump measures 7.5 by 2.75 inches and weighs 1 pound, and the maker adds a limited lifetime warranty.\n\nIt suits backpackers who want a durable, serviceable pump with a tested standard behind it. The storage bag keeps the hoses tidy.",
     "specs": [
       "1 L per minute, NSF P231",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XjfIXlVfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000KUVVY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000KUVVY4?tag=rvgearlab-amz-20",
     "description": "The Katadyn Vario is a 15 oz dual mode pump with a three-stage cartridge made of 0.2 micron glass fiber, a cleanable ceramic pre-filter and activated carbon. One dial switches between Longer Life mode, which uses the ceramic pre-filter for silty water, and Faster Flow mode for up to 2 liters per minute in clear water.\n\nIt pumps up to twice as fast as the MSR MiniWorks EX when the water is clear, and the dial lets you protect the cartridge when it is not. The listing gives a cartridge life of up to 530 gallons.\n\nIt suits backpackers who meet both clear and silty sources and want one pump to cover them. One dial turn changes the mode.",
     "specs": [
       "15 oz, up to 2 L per minute",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FZZ2NI6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0047QV0AM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0047QV0AM?tag=rvgearlab-amz-20",
     "description": "The Katadyn Hiker is an 11 oz pump-action microfilter that the listing says screens out sediment and fine particles from streams, ponds and lakes. It uses a manual pump for consistent flow with no gravity or batteries and can be cleaned in the field.\n\nIt weighs less than the Vario and the MSR and is pitched as the lighter alternative to the Katadyn Hiker Pro. It costs less than the MSR MiniWorks EX or the Katadyn Vario.\n\nIt suits backpackers who want a lighter pump and are happy to skip extras like dual modes. Anyone in the group can run it.",
     "specs": [
       "11 oz pump-action microfilter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319OGQJLv3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F48T9CVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F48T9CVN?tag=rvgearlab-amz-20",
     "description": "The SurviMate is a 5-stage hand pump with a 0.01 micron hollow fibre ultrafiltration membrane and a flow of up to 1,500 ml per minute. The listing says it filters up to 793 gallons (3,000 liters) before the cartridge is replaced, and a rubberised base keeps it steady.\n\nIt costs about a third of the MSR MiniWorks EX and lists a faster flow than the MSR's one liter per minute. Its claims about removing fluoride, arsenic and heavy metals go beyond what a hollow fibre membrane is known to do.\n\nIt suits budget-minded groups who want a pump for sharing water. The rubberised base keeps it steady on the ground.",
     "specs": [
       "0.01 micron, 5-stage",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kvdpSO8HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGS4JGQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGS4JGQ8?tag=rvgearlab-amz-20",
     "description": "The FS-TFC Pocket filter uses triple filtration with a 0.01 micron membrane and a collapsible handle that keeps it compact. The listing gives a flow of 500 ml per minute and a 4,000 liter capacity that it calls SGS certificated.\n\nIt is the lowest-priced pump here and the most compact thanks to the collapsible handle. It pumps slower than the SurviMate and Katadyn Vario.\n\nIt suits hikers who want a cheap pump that can also be used directly from a source or into a bottle. The handle collapses to save pack space.",
     "specs": [
       "0.01 micron, triple filtration",

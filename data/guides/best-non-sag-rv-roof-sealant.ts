@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nR3ESYFvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2WTSLS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2WTSLS3?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSB-1 is a 10.3 ounce black non-sag lap sealant made for roof edges, sidewalls, vents, window frames, termination bars and screw heads. The listing says it adheres to EPDM, TPO, PVC, aluminum, fiberglass, vinyl, galvanized metal, wood and concrete.\n\nAgainst Dicor Tan, it fits black trim and dark roof edges instead of tan. Against Gociean, it names a longer list of substrates and the exact joints.\n\nIt is the best match for owners who want a named, RV-focused non-sag sealant for trim and edges. Think of it as the pick for edges and trim.",
     "specs": [
       "10.3 oz black tube",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fWKIS6pRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HJ6Y0WM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HJ6Y0WM?tag=rvgearlab-amz-20",
     "description": "Dicor 551LST-1 is a 10.3 ounce tan non-leveling lap sealant formulated for EPDM and compatible with Dicor DiFlex II, Tufflex, PVC and PriTEK TPO roofing. It seals roof edges, air vents, vent pipes and screw heads.\n\nAgainst Dicor Black, it blends with tan trim and older fiberglass or tan roof caps. Against Dicor Ultra White, it is a lap sealant and not a polyether system.\n\nIt is a fit for rigs with tan or beige roof edges. Buyers focused on tan roof trim will find it a sensible match.",
     "specs": [
       "10.3 oz tan tube",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gFlCcL0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0949J5PQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0949J5PQZ?tag=rvgearlab-amz-20",
     "description": "Dicor 651SANSW-1 is a 10.1 ounce white non-leveling Ultra Sealant System made from a high-performance polyether. The listing says it is made for PVC, TPO, EPDM, metal and fiberglass roofing and for installing or maintaining roof appliances.\n\nAgainst Dicor Black, it is a polyether system rather than a lap sealant. Against Kohree 2 Pack, it is a single branded tube with a stated vertical-surface design.\n\nIt suits owners installing appliances or vents who want a white non-leveling sealant. It earns its slot for appliance installs.",
     "specs": [
       "10.1 oz white polyether",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zPNR9VaAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F48967BM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F48967BM?tag=rvgearlab-amz-20",
     "description": "Kohree Non Sag RV Roof Sealant 2 Pack is a white lap sealant that keeps its shape and dries quickly. The listing says it bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst Kohree 1 Pack, it doubles the tubes for a small price premium. Against Dicor Black, it gives a white color and two tubes.\n\nIt suits owners with several vents and edges to seal in one afternoon. It is a natural fit for multi-joint jobs.",
     "specs": [
       "2 white tubes",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411AYsx+m2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT47YC9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT47YC9M?tag=rvgearlab-amz-20",
     "description": "Gociean Non-Leveling RV Roof Sealant is a lap sealant for roof edges, sidewalls, windows and skylights that stays where you apply it. The listing says it forms a surface-dry layer in 30 minutes.\n\nAgainst Kohree 2 Pack, it highlights a quicker surface dry. Against Dicor Black, it names windows and skylights directly.\n\nIt suits owners who want a quick surface dry before weather turns. Think of it as the pick for quick weather windows.",
     "specs": [
       "Non-leveling lap sealant",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y6o3JTdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHGXB2QK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHGXB2QK?tag=rvgearlab-amz-20",
     "description": "Kohree Non Sag RV Roof Sealant 1 Pack is a non-leveling sealant engineered for upright and overhead surfaces around windows, entry doors and compartment doors. The listing says it bonds to EPDM, TPO, PVC, aluminum, fiberglass and wood.\n\nAgainst Kohree 2 Pack, it is a single tube for small fixes. Against Gociean, it names the doors and compartments it targets.\n\nIt is a fit for a single small leak at a window or door seam. Buyers focused on single small repairs will find it a sensible match.",
     "specs": [
       "Single white tube",

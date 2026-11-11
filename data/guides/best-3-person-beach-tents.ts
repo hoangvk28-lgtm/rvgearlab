@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPqSBnWoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XWRLDML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XWRLDML?tag=rvgearlab-amz-20",
     "description": "The Wolfwise is a pop-up beach tent for three, measuring 86 by 57 by 47 inches and weighing 4.2 pounds. It uses 190T anti-tear polyester with a silver coating rated UPF 50+ and a reinforced fiberglass pole frame.\n\nOnly it and the Glymnis are true pop-ups, so it opens and folds in seconds with no assembly. Pole-frame tents like the Abahub list larger anchor kits.\n\nIt suits families who want shade up quickly after a long carry from the car. Mesh windows on several sides give 360 degree ventilation, and two pockets under each window keep small items off the sand.",
     "specs": [
       "86 x 57 x 47 in, 4.2 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I4ljXsPgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-amz-20",
     "description": "The Gorich fits three to four people in an 86.6 by 59 by 48 inch space, and folds to 17 by 4 by 4 inches at 3.9 pounds. It has 8mm imported fiberglass poles, silver-coated fabric, three mesh windows and 40 more inches of floor at the front.\n\nIt weighs less than the Wolfwise and folds into a slimmer bundle than the Glymnis disc. Compared with the Abahub it is a little wider, and its extended floor adds 40 inches of sand-free lounging.\n\nIt suits families who carry everything in one trip and need a long floor for kids. The curtains close for changing.",
     "specs": [
       "3.9 lb, 17 x 4 x 4 in fold",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cv6v20GxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLPGBRDY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLPGBRDY?tag=rvgearlab-amz-20",
     "description": "The Abahub is a 3-person tent measuring 82.7 by 55.9 by 45.7 inches, with a floor extension that adds 52 inches of usable space. It has two doors, two mesh windows, 8mm fiberglass poles, four sandbags, four steel stakes and eight plastic stakes.\n\nIt carries a bigger anchor kit than the Gorich and a floor extension longer than the Gorich's 40 inches. Against the Wolfwise it takes a few minutes to pitch.\n\nIt suits windy shoreline days where you want more anchor points than a simple pop-up offers. The wide floor extension gives extra room for towels.",
     "specs": [
       "82.7 x 55.9 x 45.7 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XRfvOQF3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SJGS7M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SJGS7M7?tag=rvgearlab-amz-20",
     "description": "The WhiteFang is a 3-person tent with 8.0mm thickened fiberglass rods and 190T sun-proof coated polyester that blocks 98 percent of UV. It includes three sandbags, eight steel stakes and six sand stakes, plus three large mesh windows.\n\nIt lists three sandbags plus steel stakes and sand stakes for loose beach sand. Its omni-directional floor zipper opens the mat from inside, outside or both sides.\n\nIt suits groups that move in and out of the tent often and want the floor opened from either side. The thick rods keep their shape in a breeze.",
     "specs": [
       "8.0mm fiberglass rods",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNnqlxoNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNT63FYB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNT63FYB?tag=rvgearlab-amz-20",
     "description": "The Glymnis Pop Up Beach Tent comes in a small size for one or two and a large for three or four, opening at 86.6 by 74.8 by 53.1 inches. It uses silver-coated 190T polyester rated UPF 50+, 7 by 2mm poles, four guy ropes and ten pegs.\n\nIt is the widest tent here at 74.8 inches, so it suits three adults who want elbow room. Compared with the Wolfwise it takes a larger 24 inch folded circle in exchange for that width.\n\nIt suits groups of three or four who want pop-up convenience and extra width. A big mesh window lets the breeze through.",
     "specs": [
       "86.6 x 74.8 x 53.1 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b5s+kFDdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPMMS8P4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPMMS8P4?tag=rvgearlab-amz-20",
     "description": "The Etto beach tent lists dimensions of 98 by 59 by 63 inches, with an 8.0mm imported fiberglass frame in a cross design and silver-coated fabric. It blocks up to 98 percent of UV, comes in four sizes and sets up in three steps.\n\nIt stands taller at 63 inches than any other tent here, so adults can sit up and change comfortably. No tent here is priced lower.\n\nIt suits budget buyers who want a roomy, tall shelter. The cross frame adds stability in light wind.",
     "specs": [
       "98 x 59 x 63 in",

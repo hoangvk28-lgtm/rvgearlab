@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LK3sZEb3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-amz-20",
     "description": "The ZMNT lists 1000 lumens, a 6700mAh battery rated up to 300 hours at the lowest setting and four modes including SOS. A built-in magnet and hook let you attach it to metal or hang it, and the waterproof rating is IPX5.\n\nIt has the biggest battery of the five and the longest stated runtime, ahead of the iodoo and YZMYUKS. The 2-year warranty named in the listing backs the build.\n\nIt suits campers who want a dependable all-rounder that doubles as a phone power bank. Infinite dimming handles bedside to campsite use.",
     "specs": [
       "1000 lumens, 6700mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j9HrfOs4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YY4S4PJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YY4S4PJ?tag=rvgearlab-amz-20",
     "description": "The iodoo lists 4000 lumens, IPX5 waterproofing and a hook and magnet on the base so it can hang upside down to throw light over a large area. Short presses adjust brightness and a long press starts the flash mode.\n\nIt is the brightest light on the list, well ahead of the YZMYUKS at 1500 lumens. Next to the ZMNT, it states a higher lumen figure and no runtime hours.\n\nIt suits campers who light a canopy or a large campsite. An SOS flash mode adds an emergency signal.",
     "specs": [
       "4000 lumens",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413TbkOsSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-amz-20",
     "description": "The Lepro four-pack has bulbs under the size of an A19 light bulb, weighing 55g with batteries, and three AAA cells come included in each. Modes include 80 lumens daylight and soft white for 10 hours, and a 140 lumen high beam.\n\nIt is the only pick that ships with its cells in the box. Against the MalloMe, it adds a top hook and a flashlight-style handheld mode.\n\nIt suits families who want one light per person at low cost. Hook tops make them easy to hang from tent loops.",
     "specs": [
       "Three AAA included, 55g",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fuhgVhgoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGWHJ8XJ?tag=rvgearlab-amz-20",
     "description": "The MalloMe is a battery-operated lantern with COB LED technology producing up to 300 lumens in a 360 degree glow. It collapses to 3.7 inches tall and turns on by lifting the top, with foldaway handles.\n\nIt sits at the bottom of the price range and packs smaller than the other picks. Compared with the ZMNT, it swaps the rechargeable pack for a simple pull-up design.\n\nIt suits backpackers and emergency kits where size matters. The water-resistant build suits a drawer or glove box.",
     "specs": [
       "300 lumens, COB LED",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xz6V2KytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-amz-20",
     "description": "The YZMYUKS lists 1500 lumens, a Type-C port and five modes across three light colours. It folds, rotates 180 degrees and weighs 0.64 lb, in ABS and PC.\n\nIt is brighter than the MalloMe by a wide margin and lighter than a typical lantern. Against the iodoo, it adds Type-C charging and a foldable body.\n\nIt suits car campers on a budget who want a bright, rechargeable light. The 5.91 by 3.8 by 1.18 inch body is easy to pack.",
     "specs": [
       "1500 lumens, Type-C",

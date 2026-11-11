@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-kFYBzxDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRFGWVC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRFGWVC5?tag=rvgearlab-amz-20",
     "description": "The SVINGE RV Sewer Hose Elbow 4-in-1 Adapter is a clear 90 degree elbow with a 360 degree swivel and a gasket described as odor-tight. The four-in-one design adds flexibility for different connections at $14.99.\n\nCompared with the Camco 39857 below it, the SVINGE adds a full swivel and the multi-function adapter, so the hose can be aimed freely at the dump inlet. Compared with the Aussio 90 degree, it offers a sealed gasket and swivel in a package priced $1 lower.\n\nIt is the best choice for frequent dumpers who face varied inlet positions and want a clear view of the flow with an easy-to-align fitting.",
     "specs": [
       "Clear 90 degree elbow",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314iXDg4qrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006OQ3NMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006OQ3NMQ?tag=rvgearlab-amz-20",
     "description": "The Camco 39857 RhinoFLEX is a clear 90 degree sewer hose fitting with a swivel lug and bayonet connection, priced at $8.99. The transparent body lets you see when the tank is running clean.\n\nCompared with the SVINGE above it, this fitting keeps things simple with a swivel lug at a much lower price. Compared with the Aussio models below it, it brings a familiar, widely recognized brand and a straightforward clear-view design.\n\nIt suits weekend campers who want a low-cost way to watch the flow and finish rinsing sooner, with a trusted brand name on the fitting.",
     "specs": [
       "Clear 90 degree fitting",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hidzPE2DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5MC5BHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5MC5BHC?tag=rvgearlab-amz-20",
     "description": "The Aussio 90 degree Clearview RV Sewer Hose Adapter has a 3 inch bay lug, reinforced ears and a leak-proof seal, priced at $15.99. The clear body shows flow, and the 90 degree angle suits low outlets.\n\nCompared with the Camco 39857 above it, the reinforced ears add strength where the lugs take the stress of twisting on. Compared with the 45 degree Aussio below it, the sharper turn drops the hose straight down into a dump inlet.\n\nIt is a strong pick for owners who dump regularly and want a rugged clear elbow with a good seal for low outlets.",
     "specs": [
       "Clear 90 degree adapter",
@@ -114,7 +114,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZqstBHvYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5MF7JRS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5MF7JRS?tag=rvgearlab-amz-20",
     "description": "The Aussio 45 degree Clearview RV Sewer Hose Adapter uses a 3 inch bay lug, reinforced ears and a leak-proof seal at $14.99. The gentler 45 degree bend keeps waste moving smoothly through a clear body.\n\nCompared with the 90 degree Aussio above it, this version eases the turn, which suits setups with room for the hose to curve. Compared with the Valterra below it, it shares the reinforced ears and adds a seal in a package from a brand focused on this part.\n\nIt is well matched to owners with a hose path that can bend gently, who want a clear, strong fitting for easy flow.",
     "specs": [
       "Clear 45 degree adapter",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415TEwANE2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000NCS7GE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000NCS7GE?tag=rvgearlab-amz-20",
     "description": "The Valterra 1218.103 T1026-1 is a 45 degree Clearview adapter with a 3 inch bay lug, reinforced ears and an included seal at $6.97. It has the lowest price in the roundup and a convenient angle.\n\nCompared with the Aussio 45 degree above it, the Valterra delivers the same angle, lug size and reinforced ears at less than half the price. It provides a clear view of the flow without any extra spend.\n\nIt is the best fit for budget campers, spare-parts kits and occasional dumpers who want a clear 45 degree adapter for the least money.",
     "specs": [
       "Clear 45 degree adapter",
@@ -170,7 +170,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31a88sT-C5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00192KZQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00192KZQ2?tag=rvgearlab-amz-20",
     "description": "The Camco Clear RV Sewage Hose Adapter is a straight clear extender that adds about 5 inches of reach and shows the flow through a transparent body. It uses bayonet and lug fittings at $16.99.\n\nCompared with the Valterra above it, this piece adds visible length rather than an angle, and it can be paired with an elbow to see the rinse and aim the hose. It carries the Camco name for fit and finish.\n\nIt suits owners who want extra reach at the outlet and a clear view of the flow, especially when stacked with a separate elbow.",
     "specs": [
       "Clear straight extender",

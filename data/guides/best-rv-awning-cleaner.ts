@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414r++E5iPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFXCD99?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFXCD99?tag=rvgearlab-amz-20",
     "description": "The Walex RV Awning Cleaner is safe for vinyl and fabric awnings and dissolves dirt, grime, tree sap, bird droppings, mold, mildew and stains. The listing offers 32 ounce, 64 ounce and 1 gallon sizes.\n\nAgainst the Thetford 1 gallon, it names specific stains and awning materials. Against the MiracleMist, it is aimed squarely at awnings rather than roofs and panels as well.\n\nBest for owners with vinyl or fabric awnings who want a cleaner with a clear stain list. The gallon-size option suits several cleanings.",
     "specs": [
       "Safe for vinyl and fabric",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p0gsE5uiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPGBJ4Y9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPGBJ4Y9?tag=rvgearlab-amz-20",
     "description": "This second Walex RV Awning Cleaner listing carries the same vinyl and fabric formula, with the same stain list of dirt, sap, bird droppings, mold and mildew. It lists 32, 64 and 1 gallon options, and this version is the lower-priced size.\n\nAgainst the larger Walex listing, it is the smaller, cheaper bottle. Against the Thetford 32 oz, it offers a clearer stain list.\n\nBest for a single awning clean or a trial of the Walex formula. A smaller bottle also means less leftover product to store.",
     "specs": [
       "Safe for vinyl and fabric",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416bdnj4ciL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BB84X8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BB84X8?tag=rvgearlab-amz-20",
     "description": "The Thetford 32519 Awning Cleaner is a 1 gallon non-bleaching, non-toxic, nonflammable and 100 percent biodegradable liquid. The listing says the formula will not discolor or stain fabrics and surfaces.\n\nAgainst the Walex listings, it states a non-bleaching formula and gallon size at a lower price. Against the Valterra 32 oz, it gives much more volume and more detail.\n\nBest for colored or patterned awnings where bleaching is a worry. The gallon size lasts several cleanings.",
     "specs": [
       "1 gallon, non-bleaching",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+i0CO7DAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFTJKSXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFTJKSXN?tag=rvgearlab-amz-20",
     "description": "The MiracleMist RV Roof and Awning Cleaner is a 32 ounce two-pack spray for compatible RV roofs, awnings, exterior panels, campers and travel trailers. The listing says it loosens dirt, grime, stains and road residue.\n\nAgainst the Walex listings, it covers roofs and panels as well as awnings. Against the Thetford 1 gallon, it comes as two bottles with a spray formula.\n\nBest for owners who want one spray for the awning and other exterior surfaces. Two bottles make it easy to keep one in the garage and one in the rig.",
     "specs": [
       "Two 32 oz spray bottles",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vvyAmXD2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EXKU6LA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EXKU6LA?tag=rvgearlab-amz-20",
     "description": "The Thetford 32639 Awning Cleaner is a basic awning cleaner from a known RV chemical maker. The listing gives package dimensions of 12 by 9.75 by 9.25 inches and a weight of 2.4 pounds.\n\nAgainst the Thetford 1 gallon, it carries the same brand with fewer details. Against the Valterra, it costs more and is larger.\n\nBest for owners who simply want the Thetford name. Read the label for dilution and fabric notes.",
     "specs": [
       "Thetford awning cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j-h6qo8cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGPQNO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGPQNO?tag=rvgearlab-amz-20",
     "description": "The Valterra V88542 Awning Cleaner is a 32 ounce bottle sold by a well-known RV parts maker. The listing gives no detail beyond the name and size.\n\nAgainst the Thetford 32639, it costs less and holds 32 ounces. Against the Walex Awning Cleaner Small, it costs less and says less.\n\nBest for owners who want the cheapest awning cleaner and will read the label. A fine option for a quick spot job.",
     "specs": [
       "Valterra awning cleaner",

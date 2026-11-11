@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410zMRKjDPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKFKXSKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKFKXSKL?tag=rvgearlab-amz-20",
     "description": "The dumfume set includes two 12V 150Ah batteries, each 10.04 x 7.68 x 9.84 in and 43.0 lb, with a 100A BMS and 15000+ cycle claim. The listing says they can build a 48V system with 4S4P wiring and each has independent low temperature protection. At $368.96 the pair yields about 3840Wh.\n\nVersus the Dyness 100Ah pair at $325.98, you pay $42.98 more for 50Ah more per battery. Pick this if you want a solar bank that can grow to 48V. The caveat is the 100A BMS per battery, which limits inverter size.",
     "specs": [
       "2 x 12V 150Ah",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419Q4SYd7UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVZP4DRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVZP4DRK?tag=rvgearlab-amz-20",
     "description": "The Dyness set includes two BCI Group 31 12V 100Ah batteries at 13.0 x 6.77 x 8.43 in with a 100A BMS and low temperature charging protection. The cells are A+ grade with a 4000+ cycle rating. At $325.98 the pair stores about 2560Wh.\n\nIt costs $9.39 more than the yeagulch 200Ah but divides capacity across two compact batteries. Pick this if your solar bay uses Group 31 trays. The caveat is that two 100A BMS units are limiting for a big inverter.",
     "specs": [
       "2 x 12V 100Ah Group 31",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z88V9T45L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-amz-20",
     "description": "The yeagulch 12V 200Ah has a 200A BMS, a 15000+ cycle claim and supports up to 4 in series for 48V and 4 in parallel. It weighs about 58.86 lb. At $316.59 it delivers about 2560Wh in one case.\n\nIt costs $139.61 more than the single Dyness 100Ah yet doubles the capacity and BMS. Pick this if you want one battery with room for an inverter. The caveat is the weight and its length of about 20 in, so check the bay.",
     "specs": [
       "12V 200Ah, 200A BMS",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mIFvkyqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBM2PGPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBM2PGPW?tag=rvgearlab-amz-20",
     "description": "The Dyness 12V 100Ah is a Group 31 battery measuring 13.00 x 6.77 x 8.43 in with a 100A BMS and extreme cold charge protection. It is described for RV, solar and off grid use. At $176.98 it is the cheapest entry in this guide.\n\nIt costs $139.61 less than the yeagulch 200Ah and gives half the capacity and BMS headroom. Pick this if you are starting a small solar setup with a single panel. The caveat is that 1280Wh runs out quickly.",
     "specs": [
       "12V 100Ah Group 31",

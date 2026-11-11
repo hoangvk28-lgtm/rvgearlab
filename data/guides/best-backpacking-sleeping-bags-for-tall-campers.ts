@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F2Ik1MEJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Cloud 20 is a zipperless down bag in the Long size, filled with 16.4 ounces of 800 fill power DriDown inside a 15D nylon ripstop shell, and it weighs 1 lb 13.3 oz on the trail. The listing prints an ISO comfort figure of 26F and an ISO limit of 15F, and it costs about $250, which is a fair price for a bag that is both long and extremely light.\n\nWhere the Kelty Cosmic 0 Long below it uses a conventional zippered mummy, the Cloud swaps the zipper for an oversized integrated comforter, which gives a tall body more room to shift and removes the zipper line that tends to catch on long legs. A rear sleeping pad sleeve keeps the bag aligned with your pad so you do not slide off at night, and insulated hand pockets and a self-sealing foot vent help with temperature control.\n\nIt is the pick for tall side sleepers, ultralight backpackers and anyone who finds a tapered mummy confining, since its design adds freedom without adding pounds.",
     "specs": [
       "800 fill DriDown, 16.4 oz fill",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uAReTN9QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT237S1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT237S1R?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 0 in the Long size is a 550-fill down mummy with trapezoidal baffle construction, recycled shell and liner fabrics with PFAS-free DWR, and an internal stash pocket for a phone. It costs about $330, the highest price here, and it is the only pick that combines a long cut with a true 0 degree rating.\n\nCompared with the Sierra Designs Cloud above it, the Kelty is a classic tapered mummy with a full draft collar rated at 0 degrees plus a 20 degree upper draft collar, which seals the neck far more firmly than a comforter style. Versus the Kelty Cosmic 40 Long below it, it adds the warmer insulation load and the heavier collar system, so the same long frame can be used in freezing weather. The trapezoidal baffles shape the down chambers to the body for fewer cold spots.\n\nIt suits tall winter campers, cold sleepers and shoulder-season backpackers who want one dependable long bag, and who are willing to carry the extra bulk of a 550-fill bag for the warmth.",
     "specs": [
       "550 fill down, 0F rating, Long size",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkMSqFwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-amz-20",
     "description": "The RIOYALO is the longest wearable pick on this list: its dimensions are 74.8 inches plus an 11.8 inch hood, about 7.2 feet in total and 30.7 inches wide, and the listing says it suits people up to 6 ft 10 in. It uses 450GSM microfiber fill, a 210T ripstop polyester shell and a 190T pongee lining, weighs 5 lb and packs to 15.6 inches tall by 7.6 inches round with a strapped compression sack. It sells for about $60.\n\nCompared with the Coleman North Rim below it, the RIOYALO adds more than eight inches of usable height range, since the Coleman stops at 6 ft 2 in, and it costs about $34 less. A wind buffer is built in, and an anti-pinch grosgrain ribbon along the zipper is designed to prevent snags. Against the BISINNA at the bottom of the list, it carries a genuine mummy hood, so it holds far more heat.\n\nIt makes sense for very tall campers, big and tall car campers and anyone shopping on a tight budget who cares more about fit than gram counting.",
     "specs": [
       "About 7.2 ft total, fits up to 6 ft 10 in",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a 0F cold-weather mummy with a Big and Tall cut for campers up to 6 ft 2 in. It uses Coletherm hollow polyester insulation, a Thermolock draft tube along the zipper, a no-snag zipper and an adjustable hood, and it costs about $94.\n\nCompared with the RIOYALO above it, the Coleman gives you a recognized brand and a specifically engineered draft tube. Against the Kelty Cosmic 40 Long below it, the Coleman is a heavier, colder-rated synthetic bag at lower cost, which is a better match for cold nights where a 40F bag would fail. The hollow polyester fill dries faster than down if condensation gets in.\n\nIt is a solid pick for tall campers of average-tall height, six feet to 6 ft 2 in, who want winter-rated warmth at a fair price from a brand with a wide service network. It is more useful as a car-camping bag than as a long-distance carry.",
     "specs": [
       "0F rating, fits up to 6 ft 2 in",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oArwGrwKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT27G6H9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT27G6H9?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 40 in Long is a 550-fill down bag aimed at summer, with recycled shell and liner fabrics and PFAS-free DWR, a full draft tube to retain heat, a quad-stitch anti-snag zipper and an internal stash pocket for a phone. It costs about $160 and is the pick for a tall sleeper who wants down on a milder trip.\n\nCompared with the Kelty Cosmic 0 Long above it, the Cosmic 40 trades the heavy collar system and large down load for a lighter, more compressible summer bag at roughly half the price. Against the BISINNA below it, the Kelty is a tapered mummy with a real draft tube, so it holds warmth in a way an oversized envelope cannot, and the down packs far smaller than hollow fiber.\n\nIt is built for summer thru-hikes, warm-season tall backpackers and anyone who wants a long bag they can carry comfortably, and who plans to use a liner or extra layers if the night turns cooler.",
     "specs": [
       "550 fill down, 40F, Long size",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IS0DUi9IS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DPNZPPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DPNZPPD?tag=rvgearlab-amz-20",
     "description": "The BISINNA XXL is an envelope-style bag measuring 90.55 by 39.37 inches, the longest and widest here by a clear margin, filled with hollow fiber under a 190T polyester shell with a skin-friendly sponge lining. It weighs 3.4 lb, packs to 16 by 7.87 inches with a strapped compression sack and costs about $47.\n\nCompared with the RIOYALO above it, the BISINNA gives up the mummy hood for extra width, 39 inches versus about 31, which suits broad sleepers who find any taper restricting. Its comfort figure of 68F and extreme figure of 50F mark it as a warm-weather bag, so it works for summer camping, kids and plus-size adults who want room to turn over. It is also the lightest of the oversized options, at 3.4 lb.\n\nIt makes sense for summer car campers, broad-shouldered tall adults, Scouts and anyone using a bag indoors as well as out, where the priority is comfort and size instead of cold performance.",
     "specs": [
       "90.55 x 39.37 inch envelope cut",

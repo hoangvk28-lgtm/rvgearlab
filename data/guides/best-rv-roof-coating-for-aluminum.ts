@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NPxmeTyPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJJX9I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJJX9I?tag=rvgearlab-amz-20",
     "description": "Dicor RP-MRC-1 is a 1 gallon white acrylic elastomeric coating made for metal RV roofing. Its listing states that it is for metal RV roofs only and is not recommended for EPDM or TPO.\n\nAgainst LUVBOATE 4 Gal, it names the substrate it is built for, rather than a long list of materials. Against Gardner Aluma-Kote, it gives a bright white reflective finish in place of a silver one.\n\nIt is the best match for owners of an aluminum or steel skinned RV who want a coating made for that roof. Think of it as the pick for metal skinned rvs.",
     "specs": [
       "Acrylic elastomeric, 1 gallon",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51enkX9WscL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3XD5174?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3XD5174?tag=rvgearlab-amz-20",
     "description": "LUVBOATE is a 4 gallon white solar reflective RV roof coating that the listing says bonds to metal, plastic and fiberglass. It applies by brush, roller or sprayer and stays flexible through expansion and contraction.\n\nAgainst Wadities Pail, it names the materials it bonds to, which makes checking an aluminum roof simpler. Against Dicor Metal, it comes in a larger size for a bigger roof.\n\nIt is a strong choice for long metal roofs that need several gallons in one order. Buyers focused on large metal roofs will find it a sensible match.",
     "specs": [
       "4 gallon white coating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mZqNZllpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPX7L6YV?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY is a repair kit with 1 gallon of white water-based coating, two 10.5 ounce tubes of self-leveling sealant and a 4 inch by 20 foot roll of RV tape. The listing describes it as water-based with no solvents.\n\nAgainst LUVBOATE 4 Gal, it adds tape and sealant for seams, though only one gallon of coating. Against Dicor Metal, it bundles the extras you would otherwise buy separately.\n\nIt suits owners who need to treat seams and patches before they roll on coating. It earns its slot for seam and patch repairs.",
     "specs": [
       "1 gallon coating plus sealant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21AtxCeiDIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CP838MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CP838MW?tag=rvgearlab-amz-20",
     "description": "Gardner Aluma-Kote is a gloss silver fibered aluminum roof coating sold in a 1 gallon can. The aluminum pigment and fibers are the point of the product, which is a traditional silver finish for metal and low-slope roofs.\n\nAgainst Gardner 3.6QT, it is the larger can of the same style of coating. Against Dicor Metal, it gives a silver look instead of white.\n\nIt is a fit for owners who want a classic fibered aluminum coating in a gallon size. It is a natural fit for classic silver coating.",
     "specs": [
       "Gloss silver fibered aluminum",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516n5rCYe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00E07IA9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00E07IA9M?tag=rvgearlab-amz-20",
     "description": "The Gardner-Gibson 6241-GA is a 3.6 quart aluminum roof coating made in the United States. It is a smaller container of the aluminum coating family for touch-ups.\n\nAgainst Gardner Aluma-Kote, it holds less coating for a lower price. Against CUKWUYBY Kit, it is the coating alone with no tape or sealant.\n\nIt suits small patches and trailer repairs where a gallon is too much. Think of it as the pick for small touch-ups.",
     "specs": [
       "3.6 quart aluminum coating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vkQT7KLyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D965XGGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D965XGGW?tag=rvgearlab-amz-20",
     "description": "Wadities is a white solar reflective coating with a stated 1000 percent flexible membrane. The listing says to apply a minimum of 1 gallon per 50 square feet and expect 2 to 3 heavy coats, with one gallon covering an RV up to 30 feet.\n\nAgainst LUVBOATE 4 Gal, it gives a clearer coverage rule. Against Dicor Metal, it is a liquid rubber style coat with more flex.\n\nIt is the right choice for owners who want a thick, flexible white layer and a clear coverage rate. Buyers focused on thick flexible coats will find it a sensible match.",
     "specs": [
       "1000% flexible membrane",

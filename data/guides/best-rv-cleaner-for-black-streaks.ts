@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZYi0RMy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KARB5V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KARB5V6?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium Black Streak and Bug Remover is a 64 oz spray-and-wipe product that the listing says needs no rinsing. It is described as non-toxic, non-flammable and 100 percent biodegradable, and it also targets bugs and tough stains.\n\nAgainst STAR BRITE Spray, it adds a no-rinse claim and a bigger bottle but has no wax-friendly note. Against the Korkay, it skips the brush and rinse routine.\n\nBest for owners who want a large bottle and a spray-and-wipe job without a hose. Spot test on graphics first.",
     "specs": [
       "64 oz spray and wipe",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318utVqWqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQD9TMFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQD9TMFG?tag=rvgearlab-amz-20",
     "description": "STAR BRITE Instant Black Streak Remover Gel is formulated to cling to vertical and contoured surfaces so it sits on a streak instead of running off. The listing says you spray on, wait and wipe away with no heavy scrubbing, on fiberglass, vinyl, metal, painted finishes and most plastics.\n\nCompared with STAR BRITE Spray, the gel stays put on a wall but costs more. Compared with Thetford Streak and Bug, it gives a longer dwell without rinsing instructions.\n\nBest for tall walls with deep streaks. Keep an eye on the dwell time so it does not dry on the surface.",
     "specs": [
       "Gel clings to vertical surfaces",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TVEhrRJCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EXIVUEU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EXIVUEU?tag=rvgearlab-amz-20",
     "description": "STAR BRITE Instant Black Streak Remover is a spray-on soak and wipe product for grease, oil and smoke stains as well as black streaks. The listing says it is formulated not to strip wax or polish when used as directed.\n\nAgainst the gel, it is the cheaper thin version, and against Walex it carries a clearer wax-friendly line. It also asks for a rinse after wiping.\n\nBest for waxed finishes where you want a quick streak pass. Work in small panels so it does not dry.",
     "specs": [
       "Streak and grease remover",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ZaXUSJcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFYVT12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFYVT12?tag=rvgearlab-amz-20",
     "description": "The Walex Premium Black Streak Remover is described as removing stubborn streaks and restoring shine on RVs, campers and boats. The listing says to apply, let it penetrate and wipe away, and it comes in several sizes.\n\nCompared with STAR BRITE Spray, it gives size choices for larger rigs but fewer named surfaces. Compared with the Korkay, it is a wipe-away product with no brush step.\n\nBest for owners who want to pick a bottle size to match a big rig. The listing does not name specific surface lists, so test a hidden area.",
     "specs": [
       "Streak remover for RV and boats",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312gffqb0mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JMJR9BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JMJR9BS?tag=rvgearlab-amz-20",
     "description": "The Korkay is a 1 gallon cleaner sold as both an awning cleaner and a black streak remover, which instantly removes road grime and streaks on RVs, trailers, coaches and boats. It also lists vinyl siding and furniture use.\n\nAgainst Thetford Streak and Bug, it asks you to spray, brush and rinse, so it is a more hands-on method. Against Walex, it doubles as an awning cleaner.\n\nBest for owners who want one gallon for awning fabric and streaks. The brush-and-rinse routine takes more time.",
     "specs": [
       "1 gallon streak and awning cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-KbD1xozL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EXKUU3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EXKUU3Y?tag=rvgearlab-amz-20",
     "description": "The Thetford 32632 Streak Remover has a listing that gives only package size and weight, with no cleaning claim, surface list or directions. It is a Thetford product, but the details needed to compare it are missing.\n\nCompared with Thetford Streak and Bug, it gives far less information at a similar price. It cannot be judged against the others on method or surface fit.\n\nBest only if you already know this product. Otherwise pick a listing with directions.",
     "specs": [
       "Thetford streak remover",

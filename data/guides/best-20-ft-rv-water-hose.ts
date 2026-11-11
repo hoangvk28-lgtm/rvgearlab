@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ROLY+VjsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6X4RVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6X4RVV?tag=rvgearlab-amz-20",
     "description": "Fabric outer construction on the Camco EvoFlex2 lets this 25 ft, 5/8 inch hose pack down into 50 percent less space than traditional PVC. The listing adds CSA lead-free certification to NSF/ANSI 372.\n\nWhen stowed, it is the most compact of the group. It sits above the RVMATE and OULEME-style hoses on price.\n\nOwners short on storage get the most from it. The fabric build stays flexible at the spigot.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z8mUhn7ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL9FLHRB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL9FLHRB?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 25FT is a 5/8 inch hose with 3/4 inch aluminum fittings and a sealing rubber ring. It is NSF 372 tested lead-free and lists a temperature range starting at -22°F.\n\nIt lists lead testing and a cold range together, which sets it apart from the Kohree and RVMATE. It sits in the middle of the price range.\n\nIt suits owners who camp in cooler weather. The 3-layer hybrid polymer coils easily.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a8tLORvrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JRZ17T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JRZ17T?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 25FT is a food-grade rubber hose with a swivel grip, a 3-layer reinforced build and aluminum fittings rated to 450 PSI. It is lead and BPA free.\n\nIt adds the swivel grip that the CircleRiver lacks. It costs a little less than the CircleRiver.\n\nIt suits owners who often connect and disconnect. The grip reduces wrist strain.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417j3hoopfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MVYY2ZZ?tag=rvgearlab-amz-20",
     "description": "The Kohree 25FT is a 5/8 inch hose with solid aluminum fittings and a large rubber grip. It lists CA65 compliance and a sturdier, lightweight build with no memory.\n\nIt sits near the RVSNAIL on price and offers a bigger grip. It is UV stabilized.\n\nIt suits owners who want a sturdy hose with a broad grip. The UV stabilization suits long summer stays.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61P2KMH9nfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ2GX2XP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ2GX2XP?tag=rvgearlab-amz-20",
     "description": "The Giraffe Tools hose is a 5/8 inch, 20 ft hybrid garden hose with fittings that can be removed to shorten it. It lists a 3-layer design, lightweight material and a 24-month warranty.\n\nIt is the only true 20 foot pick, and its custom length feature is unique here. It is a garden hose by listing.\n\nIt suits owners who want exactly 20 feet or a custom length. It is a utility hose.",
     "specs": [
       "5/8 inch, 20 ft",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eJk3lDRoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQV3PR4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQV3PR4G?tag=rvgearlab-amz-20",
     "description": "The RVMATE 25FT is a 5/8 inch hose with 3 layers of hybrid polymer and 3/4 inch fittings. It lists CA65 compliance, UV-resistant material and compression technology.\n\nIt is the lowest priced of the 25 ft picks. It lists a rubber sealing ring.\n\nIt suits owners who want 25 feet on a budget. The 3/4 inch fittings fit standard pedestals.",
     "specs": [
       "5/8 inch, 25 ft",

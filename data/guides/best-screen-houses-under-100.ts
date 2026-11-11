@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+2lGoWjRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00KJNLYFS?tag=rvgearlab-amz-20",
     "description": "Measuring 11 feet by 9 feet and 7.5 feet tall, the TAILGATERZ pairs magnetic front and back doors with large mesh walls. Its perimeter floor sits over a picnic table, a mud mat catches boots at the entry and a color-coded steel and fiberglass frame speeds assembly.\n\nIt has the most thoughtful dining features of the three, from the table-friendly floor to doors that close themselves. It costs about $40 more than the Abahub and gives far more headroom.\n\nIt suits tailgaters and campers who eat outdoors and want mud and bugs left outside. The 7.5 foot ceiling lets adults stand.",
     "specs": [
       "11 x 9 x 7.5 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zuxIMY8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-amz-20",
     "description": "This 12 by 12 foot pop-up gazebo has an awning, zipper ventilation, wind panels that roll up or pull out with traction rope and a 300D polyester top rated to 5000mm waterproof. The surrounding windbreak can be rolled up or lowered as needed.\n\nIt is the biggest and most weather-ready of the three, with a stronger waterproof rating than the Abahub. It costs about as much as the TAILGATERZ and has a pop-up frame instead of loose poles.\n\nIt suits groups who want shade, a screen and wind protection in one big pop-up. Zippered openings make entry easy.",
     "specs": [
       "12 x 12 ft pop-up gazebo",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51T3VsS5UDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKCYMBRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKCYMBRK?tag=rvgearlab-amz-20",
     "description": "The Abahub 9.2 ft screen house measures 9.2 by 9.2 by 6.6 feet for four people, with two doors, a PU4000 top and manual pole setup. It weighs about 7.7 pounds packed and folds down for a backpack.\n\nIt costs about half of the other picks and carries a light-rain top. It trails both of them on headroom and floor.\n\nIt suits four campers who want a basic bug-free room at the lowest price. The top is built for sun and drizzle, not storms.",
     "specs": [
       "9.2 x 9.2 x 6.6 ft, 4 people",

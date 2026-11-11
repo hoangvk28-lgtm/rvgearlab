@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fwJICMEML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RWF2VX1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RWF2VX1?tag=rvgearlab-amz-20",
     "description": "The CARMTEK Premium Kit is a curved leveler set with wheel chocks, rubber mats and a carry bag. A patented anti-slip jointing system links the leveler to the chock, and the high-performance polymer body is built for long service. The levelers can be trimmed to fit tight dual axles. It costs $119.47.\n\nIt is the only pick here that bundles chocks, mats and a bag with curved levelers, and the curved shape gives continuous height rather than fixed steps. Compared with the MaxxHaul stepped ramps, the CARMTEK offers smoother adjustment and a more complete kit, and the trimmable design adapts to dual axles that other ramps cannot fit.\n\nIt is the pick for owners who level at every stop, tow dual-axle trailers and want one complete kit with a bag and mats.",
     "specs": [
       "Curved levelers, chocks, mats",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V8zTGGV3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYH6HSF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYH6HSF5?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 50939 is a three-step ramp set with wheel chocks, rated for 3,250 lbs per ramp and 6,500 lbs per pair. Each ramp lifts a tire up to 4 inches and weighs only 2.7 lbs. It costs $36.99.\n\nWhere the curved CARMTEK ramps give continuous height, the three steps give set heights that are easy to repeat from stop to stop. It is lighter than any other pick, and the included chocks complete the kit without a separate purchase.\n\nIt is the pick for owners of lighter trailers who want a simple stepped ramp they can carry in one hand, and who like repeatable heights.",
     "specs": [
       "3,250 lbs per ramp",
@@ -87,7 +87,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fz8cKrg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNSW63VB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNSW63VB?tag=rvgearlab-amz-20",
     "description": "The OFISPEED kit includes two levelers, two chocks, two anti-slip mats and a gearwheel mesh surface that stops sliding. It levels in any increment between 1/2 inch and 4 inches in about 5 minutes. At $32.99 it is priced well below the premium kit.\n\nUnlike the CARMTEK, its size is designed to fit most dual-axle trailers without modification, so there is no cutting or trimming. It includes mats and chocks in the box, which makes it a complete kit for the money.\n\nIt is the pick for dual-axle trailer owners who want a ready-to-use kit with chocks and mats at a low price and no trimming.",
     "specs": [
       "1/2 to 4 inch range",
@@ -115,7 +115,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-4c-+BZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SPLJD95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SPLJD95?tag=rvgearlab-amz-20",
     "description": "The RVMATE 8-piece kit uses high-density polyethylene that works with vehicles up to 35,000 lbs. A double anti-slip gear mesh stops slippage between levelers and chocks, and it lifts in 1/2 to 4 inch increments. Eight pieces cover levelers, chocks and mats. It costs $29.99.\n\nIt lists the 35,000 lb rating, well above the Camco's 3,500 lb figure, and costs less than the CARMTEK. The eight pieces mean you get levelers, chocks and mats in one order, which saves buying extras later.\n\nIt is the pick for owners of heavier trailers and fifth wheels who want a high stated capacity and a full set of pieces at a modest price.",
     "specs": [
       "Up to 35,000 lbs",
@@ -143,7 +143,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21qA--xRBuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHPPJVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHPPJVT?tag=rvgearlab-amz-20",
     "description": "The Camco Tri-Leveler raises any tire up to 3 7/8 inches, with a 3,500 lb load capacity. Its lightweight resin has a non-slip surface and a built-in handle. At $29.90 it is the lowest priced option and the lightest.\n\nIt trades capacity against the RVMATE, listing 3,500 lbs against 35,000 lbs, while offering a very easy-to-carry single unit with a handle. For a small trailer or pop-up the rating is a reasonable match, and the three-step design is simple to use.\n\nIt is the pick for owners of small trailers, pop-ups and campers on a budget who want a simple leveler they can pick up with one hand.",
     "specs": [
       "3 7/8 inch lift",

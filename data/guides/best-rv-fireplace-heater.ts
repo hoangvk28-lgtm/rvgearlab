@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gsqWK1cQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRBX9HW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRBX9HW2?tag=rvgearlab-amz-20",
     "description": "The Shinic is a portable electric fireplace heater with 1500 and 750 watt settings and 5118 BTU output, using PTC ceramic technology. It weighs 7 pounds, has a leather carry handle, V0 flame retardant materials and ETL certification.\n\nIt costs about half the RealSmart and is far lighter. The flame-only mode lets you run the effect without heat, which most inserts also offer.\n\nBest for RV owners who want a light, movable fireplace heater. A practical pick for small living areas.",
     "specs": [
       "1500W and 750W, 5118 BTU",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s3qII+UzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9Q4LKDC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9Q4LKDC?tag=rvgearlab-amz-20",
     "description": "The RealSmart is a 22 inch freestanding infrared fireplace stove with a three-sided 3D rolling flame effect and 5118 BTU output from three infrared quartz elements. It measures 15.74 by 9.06 by 21.65 inches, weighs 10.47 pounds and is listed below 48 dB.\n\nIt costs more than the Shinic and gives a larger flame window. The infrared elements add radiant heat.\n\nBest for owners who want a realistic flame view in a small space. A good looking stove.",
     "specs": [
       "5118 BTU infrared quartz",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cCyr5SXuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDW816HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDW816HV?tag=rvgearlab-amz-20",
     "description": "The Burutpike is an ultra-thin freestanding electric fireplace stove on a solid wood stand. It uses PTC ceramic heating with a brushless DC motor and winglet fan, and UL certified V-0 flame retardant material.\n\nIt costs the same as the Shinic and is a stove rather than a carry heater. The brushless motor is its quiet-operation feature.\n\nBest for living areas that want a slim stove look. A neat, quiet pick.",
     "specs": [
       "PTC ceramic, brushless motor",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518rqqnmdgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMV9T1QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMV9T1QN?tag=rvgearlab-amz-20",
     "description": "The PRETZI is a 23 inch electric fireplace insert with 750 and 1500 watt heat and a 1 to 8 hour timer. It has five levels of LED flame brightness, 3D flame technology and UL lab-certified overheat protection.\n\nIt costs about two thirds of the Giantex and is smaller. It includes a timer, which the VEVOR listing leaves out.\n\nBest for a recessed install in an RV cabinet. A mid-price insert with a timer.",
     "specs": [
       "23 inch insert, 750 and 1500W",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XohMCYYKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCKC4Z2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCKC4Z2?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 26 inch recessed or wall-mounted electric fireplace insert delivering 5000 BTU and warming up to 400 square feet. It has adjustable flame color and brightness, mounting hardware and touch panel or remote control.\n\nIt costs less than the Giantex and is wider than the PRETZI. The 400 square foot rating is stated on the listing.\n\nBest for a built-in install where size and output matter. A strong value insert.",
     "specs": [
       "26 inch insert, 5000 BTU",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RTMPb4nTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N6C2RHH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N6C2RHH?tag=rvgearlab-amz-20",
     "description": "The Giantex is a 28.5 inch electric fireplace insert that mounts on a wall or recesses, with a tempered glass front and three flame colors. It has a thermostat from 62 to 82 degrees Fahrenheit, two heat modes and remote control.\n\nIt is the largest and most expensive insert. The thermostat range is its main advantage over the PRETZI and VEVOR.\n\nBest for an RV with a large living wall. A statement piece with a thermostat.",
     "specs": [
       "28.5 inch insert",

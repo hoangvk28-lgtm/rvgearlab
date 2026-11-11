@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a 0 degree F rated mummy with a Thermolock draft tube along the zipper and an adjustable hood. It fits campers up to about 6 ft 2 in and pairs a snug cut with car-camping practicality.\n\nThe mummy shape holds heat closer than the TETON Celsius cut, and the zipper draft tube is the main edge over the budget MEREZA. It is priced a little above the TETON bags, which buys a better-known brand name.\n\nIt suits winter car campers of average height who want a proper mummy cut. Add a warm pad underneath, since the floor is where most of the cold gets in.",
     "specs": [
       "0 degree F rated mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31McqzoK49L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius XXL is a 0 degree bag with SuperLoft Elite fiber fill, a poly-flannel lining and double-layer construction with draft tubes. A half-circle mummy hood and a stuff sack with heavy-duty straps are included.\n\nIt offers more room than the Coleman North Rim at a slightly lower price. Compared with the regular TETON Celsius, the XXL cut suits taller or broader campers.\n\nIt suits tall car campers who want a 0 degree class bag without the snug mummy fit. Pair it with an insulated pad and a hat.",
     "specs": [
       "SuperLoft Elite fiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419KkXH3iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius Regular is the standard-size version of the same 0 degree design, with a poly-flannel lining, fiber fill and draft tubes. The listing says it suits adults and kids, and a stuff sack is included.\n\nIt costs a few dollars less than the XXL and shares the same tips for staying warm, from a camp pad to a stocking cap. It has less shoulder and length room than the TETON Celsius XXL.\n\nIt suits budget buyers who want a 0 degree class bag at an average camper's size. Choose the XXL if you are above about 6 ft.",
     "specs": [
       "0 degree, standard length",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL is a 90 by 39 inch bag with a cotton flannel lining, a draft tube on a dual-pull two-way zipper and printed ratings of 30 degrees F comfort and 15 degrees F limit. It fits adults up to about 6 ft 7 in.\n\nIt is the roomiest rectangular pick here and gives the clearest comfort figure in the list. Against the Coleman Heritage it is wider, and its warmth is stated as 15 degrees F at the limit.\n\nIt suits large campers who want a clear temperature rating and plenty of room. It is the nearest-fit comfort bag in this list rather than a 0 degree one.",
     "specs": [
       "90 x 39 inch XXL size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big and Tall is a 10 degree F rated bag with 5 lb of Holofill 808 insulation, a cotton cover and a flannel liner. The 40 by 84 inch cut fits campers up to 6 ft 7 in and the bag is machine washable.\n\nIt carries far more fill than the TETON Celsius bags and uses a FiberLock layout to keep insulation from shifting. It is the warmest-feeling rectangular bag here, and it is rated 10 degrees F rather than 0.\n\nIt suits large car campers who sleep cold and want thick fill and an easy-care liner. It is a vehicle-based bag only.",
     "specs": [
       "10 degree F rated, 5 lb fill",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GCh7iVsrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBCC5D3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBCC5D3?tag=rvgearlab-amz-20",
     "description": "The MEREZA is sold as a 0 degree winter bag with a 32.3 by 90.5 inch rectangular cut that the listing says suits campers up to 7 ft. It has a 210T polyester taffeta shell, a 3D hood with drawstrings, a compression sack and a pillow included.\n\nIt is by far the cheapest pick and the only one with a pillow in the box. The listing itself gives a comfort temperature of 40 degrees F, so it works as a cool-weather bag rather than a winter one.\n\nIt suits budget campers on mild-to-cool nights who want size and a pillow. Do not rely on it for subfreezing weather.",
     "specs": [
       "32.3 x 90.5 inch rectangle",

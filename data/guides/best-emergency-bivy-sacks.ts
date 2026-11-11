@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UueMZ6P6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB6NZKCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB6NZKCP?tag=rvgearlab-amz-20",
     "description": "The Preboun case holds 50 emergency sleeping bags in orange and green, each about 84 x 36 inches. The listing describes tear and puncture resistant PE material that reflects 90% of body heat, with reinforced wide tape joints and a four-season, wind, rain and snow rating.\n\nNo other pick here covers a whole organization, and it is the only listing that calls out reinforced tape joints. Next to the Sierra Madre it trades a per-bag stated weight for a huge pack count.\n\nIt suits schools, church groups, shelters, event teams and neighborhood emergency stockpiles. The bright colors also help rescuers see people.",
     "specs": [
       "50 bags, about 84 x 36 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tliKOtgwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY2YM8PN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY2YM8PN?tag=rvgearlab-amz-20",
     "description": "The Sierra Madre single pack uses a PET mylar bivy that the listing says reflects 90% of body heat and weighs about 6 ounces. It is described as waterproof, windproof and reusable, and it fits back into a drawstring stuff sack.\n\nSold in packs of 1, 2 and 10, the same design is available in the size that suits a pocket, a household or a team. Against the Bivy Bag 4-Pack it gives a stated weight and a durability claim.\n\nIt fits solo hikers, anglers and drivers who want one reliable layer in the kit. A bag in each vehicle is an easy way to use it.",
     "specs": [
       "PET mylar, 90% reflective",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rb0SYWYkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KYHSH2Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KYHSH2Q?tag=rvgearlab-amz-20",
     "description": "This four-pack holds mylar foil bags that reflect 90% of body heat. Each bag packs to roughly 7 x 3 inches and weighs 2.8 oz (3.0 oz with the carry bag), and the listing calls them extra large.\n\nA four-pack covers a small family or a car, which is where the Sierra Madre single pack falls short, and the compact pack size is comparable to the Leberna. It states the lowest per-bag weight alongside the Leberna.\n\nIt suits families, hunting parties and road-trip kits. Four bags let each person carry their own.",
     "specs": [
       "Four mylar bags",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vClL5A6AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HGV8R50?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HGV8R50?tag=rvgearlab-amz-20",
     "description": "The Leberna bag is 84 x 36 inches, comes in a 2 pack and includes a 120 decibel whistle with a 21 inch wide head cover. Each pack weighs 2.8 oz (3.0 oz with its drawstring bag), and a bright strip on the edge helps rescuers.\n\nIt is the best-equipped pick for signaling, ahead of the Sierra Madre and the Bivy Bag 4-Pack, and its head cover gives more coverage than a plain sleeve. The Preboun gives volume while this gives features.\n\nIt fits hikers and drivers who want a whistle in the same pouch as the bag. The extra-large size suits tall adults.",
     "specs": [
       "84 x 36 inches",

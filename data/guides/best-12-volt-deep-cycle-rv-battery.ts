@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FZ7hxQb5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRPC85J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRPC85J?tag=rvgearlab-amz-20",
     "description": "The yeagulch 2-pack contains two 12V 100Ah LiFePO4 batteries in the Group 31 size, each weighing 21.6 pounds with a 100A battery management system. The listing gives the cycle curve in three steps: 4,000 cycles at 100 percent depth of discharge, 6,000 at 80 percent and 15,000 at 60 percent. It also claims about 95 percent usable capacity even at a 100A draw, thanks to a flat discharge curve, against about 50 percent for lead-acid.\n\nAt $286.59 for the pair, each battery costs about $143.30, which is $11.70 less than the HeyFuture, $31.70 less than the SUPER EMPOWER and $66.69 less than the MARSENERGY. On the listing's 80 percent claim, 6,000 cycles of roughly 1,024Wh each is about 6,144 kilowatt-hours delivered, or around 2.3 cents per kilowatt-hour, an estimate based on the stated cycle count. It lists no warranty length and no cold-charging threshold.\n\nPick this when you want two batteries for a 200Ah bank at the lowest cost per cycle in this guide. The caveat is that the missing warranty and cold-limit details should be confirmed with the seller before you buy.",
     "specs": [
       "2 x 100Ah, Group 31",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gWoCAeKnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HPR6JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HPR6JG?tag=rvgearlab-amz-20",
     "description": "The MARSENERGY 12V 100Ah is a single Group 24 LiFePO4 battery weighing 21 pounds with a 100A battery management system. It claims the most generous cycle curve here: 4,500 cycles at 100 percent depth of discharge, 8,000 at 80 percent and 15,000 at 60 percent. The listing also says the cells include low-temperature additives and gives a five-year after-sales service period, and it contrasts this with lead-acid at 300 to 500 cycles.\n\nAt $209.99 it is $66.69 more than a single yeagulch battery and $45.50 more than the Renogy AGM. On the listing's 80 percent claim, 8,000 cycles of 1,024Wh is 8,192 kilowatt-hours over its life, so it delivers energy at about 2.6 cents per kilowatt-hour, an estimate, which is actually a hair above the yeagulch's 2.3 cents because of the higher purchase price. What you gain is a better cycle claim at full depth, 4,500 versus 4,000.\n\nPick it if you drain the battery completely most days and want the strongest written claim at 100 percent depth. The caveat is the price premium for a single battery, and cycle numbers here are claims from the seller, not independent results.",
     "specs": [
       "Group 24, 21 lb",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518ExH8UveL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQLCQ7NF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQLCQ7NF?tag=rvgearlab-amz-20",
     "description": "The HeyFuture 2-pack gives you two 12V 100Ah LiFePO4 batteries in the Group 24 size with Bluetooth, a BMS described as having a low-temperature cut-off, and series or parallel expansion to 48V and 400Ah. The listing frames the batteries around trolling-motor shock resistance, which also suits a vibrating trailer, and offers three years of customer service for this pack.\n\nAt $309.99 the pair is $23.40 more than the yeagulch pair and $40.00 less than the SUPER EMPOWER pair, working out to about $155 per battery. It adds Bluetooth monitoring where neither rival pair does, which helps you track real depth of discharge. The excerpt gives no cycle count, weight or exact cold threshold, so you cannot compute cost per cycle from it the way you can for the yeagulch.\n\nPick it if you want two Group 24 batteries and a phone view of each. The caveat is the missing cycle claim: without a stated number, its cost per kilowatt-hour over life cannot be compared with the others.",
     "specs": [
       "2 x 100Ah, Group 24",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xsrlCtKOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER 2-pack holds two 12V 100Ah LiFePO4 batteries in Group 24 cases, each 6.49 by 10.24 by 8.98 inches and 21.6 pounds, with a 100A BMS. The listing spells out a 14.4 to 14.6 volt charge profile, lithium mode on MPPT or PWM controllers, DC-DC charging from a generator or alternator, and charging that pauses below 32°F and resumes above 41°F. A five-year warranty is stated.\n\nAt $349.99 for the pair, each battery is about $175.00, which is $31.70 more than a yeagulch and $20.00 more than a HeyFuture. You are paying for the written charge recipe and the warranty, not for a better cycle number, since the excerpt gives no cycle count. One detail needs care: this pack's expansion line says 1,200Ah at 51.2V, while the maximum for four-in-parallel of 100Ah units is 400Ah.\n\nPick it for a first lithium setup where the charger settings and cold limits matter more than the last few dollars. The caveat is that the pack costs the most here and the Ah figure contradicts itself, so check the real maximum before building a big bank.",
     "specs": [
       "2 x 100Ah, 21.6 lb each",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah is a sealed AGM lead-acid battery with a 1100A maximum discharge current, a discharge range of minus 4°F to 140°F and self-discharge below 3 percent a month at 77°F. Nominally it holds about 1,200 watt-hours, and the common 50 percent limit for lead-acid leaves about 600Wh usable. The listing says it can power a fridge, microwave or CPAP, though it states no cycle count.\n\nAt $164.49 it is $45.50 below the MARSENERGY and $21.19 more than a single yeagulch battery. Using the MARSENERGY listing's own 300 to 500 cycle range for lead-acid, a 400-cycle midpoint at 600Wh gives about 240 kilowatt-hours over its life, or roughly 68 cents per kilowatt-hour, about 29 times the yeagulch's 2.3 cents. It is the cheapest to buy but the most expensive to run.\n\nPick it only for a battery that sees few deep cycles, or for sub-freezing charging where lithium would refuse. The caveat is that no cycle figure is published, so the cost-per-kWh estimate leans on a range from another listing.",
     "specs": [
       "12V 100Ah AGM",

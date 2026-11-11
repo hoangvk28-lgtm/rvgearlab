@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qmiLNfqRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR3Z7HH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR3Z7HH2?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 90195 is a controller sold with a wiring harness under the 90195 part number, and its listing covers Lexus GX460, GX470, LX470, LX570, and Toyota 4Runner, Land Cruiser, Sequoia, Tacoma and Tundra. The bullets describe brake control for 1 to 4 axes in a compact, dash-hugging design.\n\nIt tops the list because it is the most complete package here: controller plus harness, with a broad Toyota fitment line. The Rizz-Man 8507111 below is a timed controller with a narrower year range, so the 90195 gives more headroom for a heavier trailer, though its listing does not state the controller type.\n\nBest for a Tundra owner who wants one purchase and wide axle support. Read the full fitment line for your Tundra year, since the visible text lists models rather than years.",
     "specs": [
       "Controller plus harness",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ybvxl9PWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRHGXKPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRHGXKPX?tag=rvgearlab-amz-20",
     "description": "The Rizz-Man 8507111 is a timed electric brake controller with a wiring harness, and its listing says the harness fits 2016 to 2023 Tacoma and 2015 to 2017 Tundra. It has a real-time LED display for brake voltage, adjustable braking power and sync rate control.\n\nA timed controller ramps braking over a fixed interval rather than tracking the truck's deceleration, so it is simpler and typically cheaper than a proportional unit, though it can feel less smooth. It ranks below the Rizz-Man 90195 because that listing promises 1 to 4 axle control while this one does not state an axle count.\n\nA good fit for a 2015 to 2017 Tundra towing a light, occasional trailer. The caveat is the narrow Tundra year range, so a newer truck should look elsewhere.",
     "specs": [
       "Timed electric controller",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v5PMsRKLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XJNCMZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XJNCMZC?tag=rvgearlab-amz-20",
     "description": "The ESP TP3MNT is not a controller or a harness. It is a dashboard mounting kit for the Tekonsha P3 controller in 2014 to 2019 Toyota Tundra models, and the listing says it gives the truck a factory-look installation.\n\nThat makes it a complement to the other picks rather than a rival: it pairs with a Tekonsha P3 and a harness such as CURT 51456. It ranks mid-list because it solves placement only, not wiring or braking.\n\nBest for a 2014 to 2019 Tundra owner who has or plans to buy a Tekonsha P3 and wants a clean mount. The listing is a single line, so confirm which P3 variant it fits before buying.",
     "specs": [
       "Tekonsha P3 mounting kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OsqIpnFzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWR64G7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWR64G7K?tag=rvgearlab-amz-20",
     "description": "The Fozipamy TPH-015 is a third-party replacement for the TPH-015 harness, listed for Toyota Tacoma 2016 to current and Tundra 2015 to 2017, and compatible with REDARC Tow-Pro Liberty and Elite. It uses copper wires with thick PVC insulation and black nylon braid.\n\nIt exists for REDARC owners: unlike the CURT 51456 below, it is built around one controller family rather than a quick-plug connector. The trade is that it is a clone of the REDARC part, so you rely on the seller's fitment claim.\n\nBest for a 2015 to 2017 Tundra paired with a REDARC Tow-Pro Liberty or Elite. A newer Tundra needs a harness whose listing names its year.",
     "specs": [
       "Replaces TPH-015",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c3G-MvMfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00S1FBX84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00S1FBX84?tag=rvgearlab-amz-20",
     "description": "The CURT 51456 is a Quick Plug harness for select Toyota Tacoma and Tundra models, built with 12-gauge wire and a slit-loom sleeve. It works with CURT controllers that have a quick plug connector, whether proportional, inertia or time delay.\n\nCompared with the Fozipamy TPH-015, which targets REDARC, this is the CURT-brand option, and it comes from the controller maker. It is also the only harness here that names the 12-gauge wire and loom sleeve, though it does not spell out Tundra years in the visible text.\n\nA solid pick for a Tundra owner using a CURT controller. Check CURT's fitment chart for your year first.",
     "specs": [
       "12-gauge wires",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KFQOIyVyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNMZXRDL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNMZXRDL?tag=rvgearlab-amz-20",
     "description": "The Lunwag 3040 is a plug connector listed for 2005 to 2015 Tacoma, 2003 to 2022 Sequoia and 2003 to 2021 Land Cruiser, each with a factory tow package, and the same for Lexus GX and LX. Its Tundra years are not fully visible, so confirm them on the listing.\n\nIt is the clearest about the factory tow package condition, which is the real fitment test for any plug-in harness. It ranks last because the Tundra coverage is the least explicit of the six.\n\nPick it for an older Tundra with a factory tow package and a 4-pin controller. Verify the Tundra year on the listing before you buy.",
     "specs": [
       "Needs factory tow package",

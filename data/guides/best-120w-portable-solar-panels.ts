@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ApjAmEpLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBJDSZVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBJDSZVH?tag=rvgearlab-amz-20",
     "description": "The SunJack lists a 3-panel briefcase design at just over 11 lbs, ETFE exterior, IP68 MC4 plugs and IP67 USB ports. It offers up to 25 percent efficiency with PD60W USB-C and QC3.0 USB-A, kickstands and grommets with carabiners.\n\nIt carries the most water-resistant plugs of the six and the highest price. Compared with the UDPOWER, it adds ruggedness and USB-C, while weighing more.\n\nIt suits rugged campers who set up in wet or dusty places. The carry bag with a pocket keeps cables with the panel.",
     "specs": [
       "25% cells, 3-panel briefcase",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bMXBynyBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ2GZHKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ2GZHKD?tag=rvgearlab-amz-20",
     "description": "The Renogy ShadowFlux lists anti-shading technology, N-type 16BB cells at 25 percent efficiency and an IP67 rating that handles snow, rain and small hail. It carries a 5-year warranty on materials and a 25-year output guarantee at 80 percent.\n\nCompared with the SunJack, it focuses on shade and warranty rather than briefcase ruggedness, at less than half the cost. It is 10 percent smaller than comparable PERC panels.\n\nIt suits campers who park under trees or beside buildings. The long warranty adds comfort.",
     "specs": [
       "N-type 25%, anti-shading",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vyUho9yjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXF94G51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXF94G51?tag=rvgearlab-amz-20",
     "description": "The UDPOWER lists 120W output at 23 percent efficiency with anti-reflective coating, 7.5 lbs and a folded size of 18.6 x 15.9 x 1.57 inches. It opens to 58.7 x 18.6 inches with built-in orange handles and an open-circuit voltage of 21.5V.\n\nIt weighs less than the SunJack and costs less. The 21.5V open-circuit voltage is listed, so you can check it against a station's limit.\n\nIt suits campers who want a large open surface and a simple handle design. The clear voltage number helps matching.",
     "specs": [
       "120W, 23%, 7.5 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sQJWUCbcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJZT1H4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJZT1H4K?tag=rvgearlab-amz-20",
     "description": "The BROWEY lists single-crystal silicon cells, an 18V/6.67A DC output, USB and Type-C outputs and IP68 in its title. It includes two cables and 10 adapters, folds to a briefcase size and has four foldable brackets.\n\nIt offers more adapters than the SunJack and UDPOWER. The 5-layer construction includes four protective ETFE films.\n\nIt suits campers with an older or unusual station. The kickstand brackets angle it for the sun.",
     "specs": [
       "18V/6.67A with USB-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n32oVuuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HN2KVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HN2KVZ?tag=rvgearlab-amz-20",
     "description": "The GRECELL lists a double-sided design where the back also absorbs sunlight over reflective ground. It has Type-C, 2 USB and XT60 outputs, IP65 rating and ETFE on both sides, plus a reflective storage bag and 3 removable brackets.\n\nBifacial collection is its edge over the others, with gains that depend on what sits beneath the panel. It costs less than the BROWEY.\n\nIt suits campers who set up over light ground such as sand or snow. The reflective bag doubles as a carrying case.",
     "specs": [
       "Bifacial, 120W, IP65",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xfDLJHIDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS4ZQKJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS4ZQKJH?tag=rvgearlab-amz-20",
     "description": "This 120W kit lists 23.5 percent monocrystalline cells, a 98 percent transmittance ETFE coating and IP65 rating. It has a 4-in-1 connector cable, adjustable kickstands and a 4-fold briefcase-size design.\n\nIt is the lowest-priced panel in the list, at about a third of the SunJack. It offers the same IP65 as the GRECELL bifacial with a simpler build.\n\nIt suits budget campers who want a standard foldable and a universal cable. The kickstands help with angle.",
     "specs": [
       "23.5% cells, 98% ETFE",

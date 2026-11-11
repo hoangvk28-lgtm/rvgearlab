@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+FKCapb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-amz-20",
     "description": "Covacure makes this 9.5 by 4.6 foot double hammock from 210T parachute nylon, rated for 772 lb and weighing 1.93 lb with an insect net. The fabric is tear-resistant and quick-drying.\n\nIt carries the highest capacity of the six and the roomiest cut, for a price near the top of this budget. The Chihee costs the same and packs smaller, and the cheaper hammocks skip the net.\n\nIt suits couples, larger campers and anyone who wants a roomy double with a net. It also suits backyard use between trees.",
     "specs": [
       "772 lb capacity, 210T nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DClJEziKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C38ZLK49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C38ZLK49?tag=rvgearlab-amz-20",
     "description": "The Chihee has a pop-up net with a double-way zipper that opens from inside or outside, a 660 lb load rating and an attached stuff sack. It packs to about the size of a volleyball, and the non-stretch polyester end straps are designed to replace the weaker ropes on many hammocks.\n\nIt costs nearly the same as the Covacure and has a more structured net, which holds off your face with a buckle frame. The Covacure rates higher for capacity and is more spacious, while the Chihee packs small.\n\nIt suits solo campers and backpackers who want a bug net they can zip open and shut. The attached sack means it never gets lost.",
     "specs": [
       "660 lb load, pop-up net",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hBbAeM12L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-amz-20",
     "description": "This hammock uses a curved spreader bar and breathable mesh fabric. It has a 102 inch loop-to-loop length with about 72 inches of lying area, a 550 lb rating and a weight of about 490 g with a carry bag and straps.\n\nIt is the most expensive pick at about $28 and the only one with a spreader bar, which flattens the lying surface and reduces the chance of flipping. The 72 inch lying length suits users up to about 5 feet 9 inches, so tall campers should look at the larger hammocks.\n\nIt suits shorter campers, kids and lounging in a backyard who want a flat hammock. It is less suited to nights in the backcountry.",
     "specs": [
       "Spreader bar, mesh fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gbH1GriRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1BMXWQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1BMXWQX?tag=rvgearlab-amz-20",
     "description": "This hammock has integrated mesh netting, heavy-duty nylon that supports up to 400 lb and an attached stuff sack. It comes with carabiners and tree-friendly straps and fits one adult.\n\nIt costs about $17 and is the cheapest pick with a mosquito net, which makes it a clear value against the Chihee and Covacure. It carries a lower weight rating than both, so it suits one adult only.\n\nIt suits solo campers and backpackers who want a net on a tight budget. It also works for a backyard nap.",
     "specs": [
       "400 lb nylon, integrated net",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412evmdR0GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09T2Z8HPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09T2Z8HPD?tag=rvgearlab-amz-20",
     "description": "This hammock is a single or double 210D nylon model that includes 2 hooks and 2 straps. The storage bag holds the hammock and a few small items.\n\nIt costs about $2 more than the cheapest pick and gives more size options than the single-only net hammock. There is no bug net, so it suits cool, bug-free nights or covered patios.\n\nIt suits campers who plan to hang near a patio, a beach or a bug-free site. It is a basic hammock with hooks and straps.",
     "specs": [
       "210D nylon, single or double",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uRQURQwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-amz-20",
     "description": "The PUPTILY is a parachute-fabric hammock sold in single and double sizes. It is rated up to 600 lb and ships with two tree straps in the bag.\n\nIt is the cheapest hammock here and carries a high 600 lb rating. It has no net and fewer extras than the Covacure and Chihee.\n\nIt suits first-time hammock campers and festival goers who want an inexpensive way to try hanging. Pick the double size for two people.",
     "specs": [
       "Up to 600 lb, single or double",

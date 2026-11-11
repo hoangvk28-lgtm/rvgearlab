@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c4AxRYlYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0721GPJCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0721GPJCF?tag=rvgearlab-amz-20",
     "description": "Tripp Lite's APS750 is an inverter and charger that delivers clean 120V AC from either an AC or DC source. It supplies 750W continuous, 1125W of reserve power for up to an hour and 1500W of peak for up to 10 seconds.\n\nAt about $583 it costs more than the Cummins 4000W and far more than the LVYUAN 4000W, and it gives one fifth of their watts. It is the only pick here that also charges the battery from shore power.\n\nIt suits an RV that switches between shore power and a battery bank. The reserve rating handles motor start-ups.",
     "specs": [
       "750W continuous, 1500W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OECvwVFdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8P6LGGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8P6LGGG?tag=rvgearlab-amz-20",
     "description": "Cummins provides 4000W continuous through four 110V sockets with protective port covers, plus an 18W USB-C and a 2.4A USB-A port. Bluetooth monitoring lets you read it from a phone.\n\nAt about $500 it costs about $83 less than the Tripp Lite and delivers more than five times the watts. It trades the charger for raw capacity and an app.\n\nIt suits trucks and RVs with a big bank. The covers keep dust out.",
     "specs": [
       "4000W, four 110V sockets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2HBLhliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-amz-20",
     "description": "LVYUAN pairs a 4000W continuous rating with four AC sockets and a USB port. The hardwire terminal suits a fixed install, and a long cabled remote lets you switch it from inside the cabin.\n\nAt about $170 it costs less than a third of the Cummins and gives the same watts. It leaves over $500 of the cap for cable, fuses and a bank.\n\nIt suits van and RV conversions. It is the value anchor of this list.",
     "specs": [
       "4000W continuous, 8000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "TVNIKD sits at 2500W continuous, with a trio of AC sockets plus a 2A USB output. It carries ten 30A fuses and three fans, and the screen shows battery status.\n\nAt about $155 it costs less than the LVYUAN by a small amount and offers 1500W fewer. It suits loads up to a microwave.\n\nIt suits a truck or camper. Heavy cable is required.",
     "specs": [
       "2500W, three AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4154d4GMlYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-amz-20",
     "description": "The EGO kit bundles a 400W pure sine inverter, its 56V 4.0Ah pack and a 100W PD charger. Three USB outputs cover most small devices.\n\nAt about $250 it costs a third of the Tripp Lite and is the only cordless option here. It needs no installation.\n\nIt suits laptops, lights and phones. The battery doubles as a tool pack.",
     "specs": [
       "400W pure sine",

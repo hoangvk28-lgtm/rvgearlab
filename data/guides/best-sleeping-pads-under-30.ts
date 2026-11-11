@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5160WInnJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY5RG3RV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY5RG3RV?tag=rvgearlab-amz-20",
     "description": "LLUAII inflates this pad to 78.7 by 29.5 by 5.9 inches with a built-in foot pump that fills it in 30 to 60 seconds. The shell is 200T pongee fabric with a TPU coating, and it packs to about the size of a water bottle at 2.65 lb.\n\nIt is the cheapest pad here and still gives the widest, thickest cushion of the group, with a built-in pillow and side buttons that join two pads into a double. The Leroci matches the thickness and weight, and the foam mats cannot offer anything close to this much cushion.\n\nIt suits car campers and side sleepers who want a real mattress feel for the price of a pizza. It also suits couples who plan to join two pads.",
     "specs": [
       "78.7 x 29.5 x 5.9 inch inflated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYPZR3YDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQDRFF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQDRFF8?tag=rvgearlab-amz-20",
     "description": "The Leroci measures 79 by 28 by 6 inches inflated and has an integrated foot pump, a built-in pillow and snap buttons for linking several pads. Its 200T pongee fabric has a TPU coating, and it weighs 2.65 lb, folding to 10.5 by 5.5 inches.\n\nIt costs about a dollar more than the LLUAII and is an inch and a half narrower, which saves a little space in a small tent. The weight matches the LLUAII, and it is 6 inches thick against the LLUAII's 5.9.\n\nIt suits solo campers and backpackers who want a thick pad that fits into a small pack. Plan to carry a patch for the TPU skin.",
     "specs": [
       "79 x 28 x 6 inch inflated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s1-xxLt8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHS2DQMB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHS2DQMB?tag=rvgearlab-amz-20",
     "description": "This air pad uses a wavy air-cell structure that conforms to uneven ground, with a 40D nylon shell with TPU coating. It weighs 1.8 lb, inflates in about 50 seconds with an attached foot pump and has side snaps that join two pads.\n\nIt is the lightest inflatable of the three, at 0.85 lb less than the LLUAII and Leroci, which matters on a long carry. The wavy cells aim to follow uneven ground, where the 6 inch pads rely on sheer thickness.\n\nIt suits hikers and backpackers who want an inflatable under 2 lb. It also suits van campers who stack gear tight.",
     "specs": [
       "1.8 lb, 40D nylon, TPU coated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hXcEzyacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-amz-20",
     "description": "The Wakeman Outdoors foam pad measures 72 by 24 by 0.75 inches and is made of NBR foam with a grippy waterproof face. It weighs about 3 lb, rolls to roughly 24 by 9 inches and includes a carrying strap.\n\nAt 0.75 inches it is the thickest closed-cell pad here and the toughest, since foam cannot puncture. It costs the most of the six and weighs more than the EVA foam pad, which is the price of the extra cushion.\n\nIt suits kids, cot campers and anyone who wants a pad that never fails. A foam pad also works under an inflatable as a backup layer.",
     "specs": [
       "72 x 24 x 0.75 inch NBR foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313JmPXYHkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-amz-20",
     "description": "The Wakeman EVA pad weighs only 0.6 lb and measures 72 by 24 inches, rolling to about 24 by 7 inches. It is made of EVA foam with a grippy waterproof face and includes a carrying strap.\n\nIt is the lightest pad of the six by a wide margin and rolls smaller than the NBR Wakeman. At 0.5 inches thick it gives much less cushion than the inflatables, and it costs about $1.50 less than the NBR pad.\n\nIt suits hikers who want a light sleeping pad or a pad to put under an inflatable. It also works as a camp seat.",
     "specs": [
       "0.6 lb EVA foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FUwwn7L9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08C7NHQMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08C7NHQMH?tag=rvgearlab-amz-20",
     "description": "The Aehma mat is double-sided aluminum foil over EPE foam, about 5.65 oz and 78.7 inches long. It is waterproof, folds into a carry pack and doubles as a thermal blanket or tent-floor layer.\n\nAt about 2 mm thick it is the thinnest and lightest item here, and its reflective face is its selling point. It gives little cushion compared with the inflatables, so it works as an insulating layer, not a mattress.\n\nIt suits campers who need a heat-reflective layer under a bag or on the tent floor. It does not replace a real pad.",
     "specs": [
       "Double-sided aluminum foil, 5.65 oz",

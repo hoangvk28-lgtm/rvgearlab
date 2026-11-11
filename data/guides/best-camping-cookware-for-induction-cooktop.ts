@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ss8yV2w2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYZ1KQVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYZ1KQVF?tag=rvgearlab-amz-20",
     "description": "BEZIA is a 10-piece induction cookware set with non-stick pots and pans, removable handles and a stackable design for small kitchens, RVs and camping. The handles support up to 22 pounds with a double-lock safety setting.\n\nThe removable handles make it more compact than the Aufranc. The title names induction, which several other sets here do not.\n\nChoose it for an RV kitchen with an induction burner. The stack fits a cabinet and the handles detach for storage.",
     "specs": [
       "10 pieces, induction named",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lWBKhuahL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6JW6L7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6JW6L7?tag=rvgearlab-amz-20",
     "description": "Umite Chef is a 21-piece set with a PFOA-free, PTFE-free mineral-reinforced granite coating on die-cast aluminum. The listing states an induction-ready base and dual-layer safety lock removable handles.\n\nIt is the largest set here, with more pieces than the BEZIA. It is oven safe.\n\nChoose it if you cook full meals in the RV and want variety. It works on gas, electric and induction.",
     "specs": [
       "21 pieces, die-cast aluminum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IGvyKlLbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHXSQWH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHXSQWH9?tag=rvgearlab-amz-20",
     "description": "Aufranc is a 6-piece stainless steel set with 2 Qt, 2.6 Qt and 3.7 Qt pots with lids. The 3-ply base has an aluminum core, and glass lids vent steam.\n\nIt is the only stainless set here, and is scratch resistant and dishwasher safe. It is cheaper than the BEZIA.\n\nChoose it for durable pots that handle metal tools. It suits an induction burner.",
     "specs": [
       "6 pieces, stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HeXlKWXzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B31N3SGV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B31N3SGV?tag=rvgearlab-amz-20",
     "description": "Moss & Stone is a 5-piece set with a 6.5 inch pot, an 8.4 inch fry pan, a tempered glass lid, a removable handle, a silicone mat and an oven glove. The base is induction-compatible.\n\nIt is the smallest set here and the cheapest nonstick option. It suits one or two people.\n\nChoose it for a small RV or a solo camper. It packs away easily.",
     "specs": [
       "5 pieces, 6.5 inch pot",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418+oxzkG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMYLSJYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMYLSJYL?tag=rvgearlab-amz-20",
     "description": "EWFEN is a 3-piece pre-seasoned cast iron skillet set made of pure iron and natural vegetable oil, free of PFOA and PTFE. It is heat safe to 500F for searing, baking and grilling.\n\nCast iron is the most rugged option here and works on a campfire too. It is the cheapest per piece.\n\nChoose it for searing steaks and baking. It lasts for years.",
     "specs": [
       "3-piece cast iron skillets",

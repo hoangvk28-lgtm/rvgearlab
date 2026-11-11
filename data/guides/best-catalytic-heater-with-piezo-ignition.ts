@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZGfzTGcOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHSS4VCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHSS4VCF?tag=rvgearlab-amz-20",
     "description": "The Camco Wave-8 is a catalytic safety heater with a self-generating piezo starter, so lighting it needs no battery and no outside power. It has no visible flame, no flue and no chimney, and it includes a 100 percent safety shut-off valve. It runs silently, with no fan or blower, and it is priced at $946.54.\n\nCompared with a portable propane burner that uses pulse ignition and AAA cells, the Wave-8 keeps working when the house batteries are flat or the cells have died. Against an RV furnace, it is silent and uses no 12 volt power, so it does not drain the batteries overnight or add fan noise. Against an electric space heater, it works without shore power or a generator, which is the whole point for dry camping.\n\nThis is the pick for boondockers, winter campers and anyone who values reliable, quiet heat without depending on electricity. It also suits owners who want a backup heater that will light every time, in a van, a camper or a small trailer with good ventilation.",
     "specs": [
       "Self-generating piezo starter",

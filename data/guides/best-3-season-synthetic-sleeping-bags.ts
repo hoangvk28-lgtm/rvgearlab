@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310-7Uv355L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVFYXWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVFYXWV?tag=rvgearlab-amz-20",
     "description": "The BORULL uses 300GSM whole-piece synthetic fill in an 87 by 34 inch bag rated for 40 to 65 degrees F, with a stated limit range of 30 to 70 degrees F. It has a draft collar, an insulated zipper guard, a two-way zipper and an adjustable half-circle hood.\n\nAlone among the four, it names a fill weight and prints both a comfort and a limit range. Its one-piece construction is machine washable and does not shift.\n\nIt suits budget campers who want a named synthetic fill and clear temperature numbers. It handles cool spring and fall nights.",
     "specs": [
       "300GSM whole-piece synthetic",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RpdNwDg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007JTLKCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007JTLKCC?tag=rvgearlab-amz-20",
     "description": "Sold under a 20 degree label, the TETON Trailhead pairs microfiber insulation with a roomy footbox. A draft tube runs along the zipper, and the kit adds an anti-snag zipper and a compression sack.\n\nIt carries the coldest label of the four, 20 degrees against the BORULL's 30 degree limit. It costs more than the BORULL and prints no weight.\n\nIt suits campers who want a colder-rated mummy with named microfiber. A mummy cut limits knee room.",
     "specs": [
       "20 degree mummy label",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410hw-ctwwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5QCQ3TR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5QCQ3TR?tag=rvgearlab-amz-20",
     "description": "The BISINNA is a 7 ft mummy for users up to 6 ft 1 in, with a 40D nylon shell and DWR coating, a 210T pongee lining and an adjustable drawstring hood. It weighs 1.8 kg and packs to 15.7 by 11 inches with a mesh storage bag.\n\nIts full-length insulated draft tube and water-repellent shell are more developed than the MalloMe's. It costs nearly twice what the BORULL does.\n\nIt suits campers in damp climates who want a shell that sheds moisture. The listing does not name its fill.",
     "specs": [
       "1.8 kg, 15.7 x 11 in pack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qQDjjjrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XNG72Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XNG72Y?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated for 50 to 77 degrees F, weighs around 3 lb and fits a 6 ft adult. Its waterproof shell wipes clean, the construction is machine washable and the zippers are double-sided and snag-free.\n\nIt is the warmest-weather bag here, rated well above the BORULL's range, and priced close to the BORULL. It lists no fill type.\n\nIt suits families and casual campers on warm nights. Teens and adults both fit.",
     "specs": [
       "50 to 77F rated",

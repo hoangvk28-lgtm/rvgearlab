@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qpl8TonaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-amz-20",
     "description": "The AquaQuest Pharaoh is a waterproof-breathable shell of 70D nylon that wraps a sleeping bag and pad. Its listing gives a 10,000 mm waterproof rating and a 10,000 gr per square meter per day moisture vapor rating, with a 1.1 lb weight and a built-in 9 x 5 inch stuff sack.\n\nIt is the only pick here that gives a numeric breathability figure, which puts it ahead of the AKMAX and Litume covers. Next to the USGI system it is a single shell rather than a four-piece kit.\n\nIt suits backpackers and stealth campers who sleep in a bag and want a minimalist rain layer. Zipper access on both sides and a fit for users up to 6 ft 6 inches help with entry.",
     "specs": [
       "10,000 mm waterproof rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TUM4xZb3S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-amz-20",
     "description": "The AKMAX bivy cover is modeled on the U.S. Army modular sleep system and uses three laminated nylon fabrics that are windproof, waterproof and breathable. It weighs 1.9 pounds and ships with a compression sack and straps.\n\nIt sits below the AquaQuest Pharaoh on stated data, since it gives no numeric rating, and above the Litume on weight claim and pack kit. Next to the USGI system it costs far less because it is only the cover.\n\nIt suits campers who own a sleeping bag and want a rugged outer shell that compresses small. The straps help it pack tight on a rucksack.",
     "specs": [
       "Three laminated nylon layers",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51riPyGNlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-amz-20",
     "description": "The USGI system sells as a four-piece modular set, and the part that matters here is its triple-laminated waterproof cover. The outer fabric is 210T nylon ripstop with a DWR coating, and sleeping bags plus a stuff sack come with it.\n\nIt is the only pick here that includes the sleeping bags, so it replaces the shell-only picks rather than competing with them. Its stated comfort range of 50 F to minus 50 F is the widest in the list.\n\nIt suits cold-weather campers and preppers who want one set that covers warm nights and winter. Each layer can be used alone or combined.",
     "specs": [
       "Four-piece modular system",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yjhHzwm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV883PQB?tag=rvgearlab-amz-20",
     "description": "The Litume bivy folds to 17.5 x 8.5 cm and weighs under 400 g on its listing. It is cut for mummy-style bags with a spacious footbox and a hood with an elastic drawcord, and its fabric is OEKO-TEX certified.\n\nIt undercuts the AKMAX on price and states a packed size, which the AKMAX does not. The AquaQuest is the pick with ratings, while the Litume focuses on fit.\n\nIt suits hikers with a mummy bag who want an affordable cover that stays dry and breathable. Hand washing keeps the coating in shape.",
     "specs": [
       "Under 400 g stated weight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412S6eoM6RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C77Q857X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C77Q857X?tag=rvgearlab-amz-20",
     "description": "The Upneargo bivy weighs 5.1 ounces and uses a 400T nylon with honeycomb heat-reflective technology rather than plain film. The drawstring ends in a 120 dB whistle, and a carabiner clips it to a pack.\n\nIt carries the lowest price and the lowest stated weight of the five, and it is an emergency layer where the AquaQuest is a breathable shell. Compared with the other covers it adds a whistle and three color choices.\n\nIt suits hikers and drivers who want a waterproof layer for emergencies, not a nightly shell. The nylon is described as more durable than PE film.",
     "specs": [
       "5.1 oz stated weight",

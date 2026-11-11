@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bWORLTZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC35LX15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC35LX15?tag=rvgearlab-amz-20",
     "description": "The CURT Discovery Next 51126 is a time-delay controller with a slim, low-profile body and a bracket system built for better dash clearance. Its power and ramp time are fully adjustable, and it operates 2 to 8 trailer brakes, which the listing equates to 1 to 4 axles.\n\nIt leads this list because it gives the most universal route to a factory-looking install, with plug-and-play connection and no internal moving parts or leveling needed. The Orceed 90195 below adds an LCD and proportional braking, but the Discovery Next is the simpler, better-documented choice.\n\nBest for a truck owner who wants a clean dash look without a model-specific module. As a time-delay unit it ramps braking over a fixed interval, which suits lighter or occasional towing more than heavy trailers.",
     "specs": [
       "Time-delay, adjustable ramp",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Uhh3RfboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-amz-20",
     "description": "The Orceed 90195 is an electric proportional controller sold as a replacement for the 90195 part, with a compact dash-hugging design and an LCD with multiple color options. It supports up to 4 braking axles and flashes a red warning when there is no trailer brake connection.\n\nIt is third-party hardware modeled on the Tekonsha P3, and its listing tells you to verify the OE number and your vehicle before purchase. Compared with the CURT Discovery Next, it adds proportional braking and diagnostics, but you lose the original brand behind it.\n\nA fit for owners wanting a P3-style controller at a lower cost. The caveat is the verify-first note, so match the OE number carefully.",
     "specs": [
       "Proportional, LCD display",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-b2f5FepL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07R6T4C51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07R6T4C51?tag=rvgearlab-amz-20",
     "description": "The Mopar Ram integrated controller is a factory part for the Ram 1500 new body style, and its title calls it an OEM Mopar unit. The listing provides no feature bullets, so the title is the only specification.\n\nIt is the only genuine factory part in this guide, which is its whole appeal: it is the same style of integrated controller a Ram would leave with, rather than an aftermarket lookalike. Next to the SIYOEN Ram Module it costs far more, so the premium is for the Mopar part itself.\n\nBest for a Ram 1500 owner who wants a genuine factory module and is willing to pay for it. Because the listing says little, confirm the part number and your truck's configuration with a parts counter first.",
     "specs": [
       "Mopar OEM part",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LxPwYYEEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX4552BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX4552BS?tag=rvgearlab-amz-20",
     "description": "The SIYOEN module with switch kit is built for the RAM DT 1500 from 2019 to 2023, new body style only, and the listing says it does not fit the RAM 1500 Classic. It lists replacement OE numbers 82215278AE, AC, AB and AD for cross-referencing.\n\nIt aims at the same job as the Mopar Ram Integrated at a fraction of the cost, and its listing says it is designed to match the original. As an aftermarket part it carries the usual risk that fit and function are the seller's claim.\n\nPick it if you drive a 2019 to 2023 RAM DT 1500 and want an integrated-style controller for less. Cross-check the OE number against your truck before ordering.",
     "specs": [
       "RAM DT 1500, 2019 to 2023",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sac3mPbCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HT0VGEC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HT0VGEC?tag=rvgearlab-amz-20",
     "description": "The REESE 7805011 is an OEM-style wiring harness that plugs into a factory under-dash connector, with a factory connector on one end and a brake-control plug on the other. Its listing names GM trucks and SUVs such as 2003 to 2006 Chevrolet Silverado, Suburban, Tahoe and GMC Sierra, plus the Cadillac Escalade and Avalanche.\n\nIt works with REESE Towpower and Tekonsha controllers, and it locks positively when plugged in tightly. Compared with the REESE 8506911, it names the earlier GM trucks in its visible fitment text, while the 8506911 listing does not show vehicles.\n\nBest for an owner of an early-2000s GM truck or SUV who already has a compatible controller. It is a harness only, so a controller is a separate purchase.",
     "specs": [
       "Factory connector to brake-control plug",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aatv+jO5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HZWEHPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HZWEHPY?tag=rvgearlab-amz-20",
     "description": "The REESE 8506911 is another OEM-style harness that links a factory under-dash connector to a controller. Its listing says the positive locking connector stays connected when plugged in tightly, and that it works on time-proportional and time-based controls.\n\nIt matches the REESE 7805011 in purpose but the visible listing gives no vehicle names, so you have to confirm fitment elsewhere. That is why it ranks below the 7805011 in this guide.\n\nChoose it only after verifying that its connector matches your vehicle. It suits a buyer who already knows the number their truck needs.",
     "specs": [
       "OEM-style factory connector",

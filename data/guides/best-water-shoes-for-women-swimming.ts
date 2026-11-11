@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eai-4kfeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MW1GHLV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MW1GHLV?tag=rvgearlab-amz-20",
     "description": "The SIMARI Lock-Lace is a barefoot-style shoe with a soft mesh upper, a natural rubber sole with deep treads and a 360 degree drainage system that sends water out through soles and insoles. Adjustable elastic lock laces set the tension.\n\nThe lock laces and deep treads give a more stable hold in a current than the slip-on YALOX Aqua Socks or the ATHMILE Aqua Socks. Full drainage empties faster than the KOLILI Aerobics lists.\n\nIt suits a woman who swims in lakes, paddles or snorkels and wants the shoe to stay snug. The air-mesh dries faster than a regular pool shoe.",
     "specs": [
       "360 degree drainage system",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ohDoHBwjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQW5YP95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQW5YP95?tag=rvgearlab-amz-20",
     "description": "The KOLILI Aerobics shoe has a breathable air mesh upper, a Solyte midsole with strong bounce-back, a water-drain outsole and a ComforDry sockliner. Open mesh and sole holes support quick drying, and a slightly arched cushioned sole is listed.\n\nMidsole and sockliner cushioning is unique to this pick, which makes it far more cushioned than the Racqua Aqua Shoe and the YALOX Aqua Socks. It costs less than the SIMARI Lock-Lace.\n\nIt suits a woman who spends time in a pool for aerobics or lap swimming and wants cushioning on the deck. The slip-on design is quick to put on.",
     "specs": [
       "Solyte midsole, ComforDry liner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yNNBf5ZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SLQJLY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SLQJLY3?tag=rvgearlab-amz-20",
     "description": "The Racqua Aqua Shoe has an anti-slip rubber sole with tread, drainage holes that remove moisture without letting sand enter, and a soft stretch upper that twists flexibly. The listing names an exchange and refund service.\n\nThe sand-resistant drainage holes are a feature the YALOX Aqua Socks and ATHMILE Aqua Socks do not mention. It costs less than the SIMARI Lock-Lace and KOLILI Aerobics.\n\nIt suits a woman who swims at a sandy beach or lake and wants water out without grit in. The stretch upper keeps a snug feel.",
     "specs": [
       "Anti-slip tread sole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HPoVr-B0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S1T7D9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S1T7D9M?tag=rvgearlab-amz-20",
     "description": "The YALOX Aqua Socks have a non-slip firm-grip sole, a soft elastic heel and breathable smooth fabrics that let water flow out. The listing notes they are fast drying and easy to clean.\n\nIt costs far less than the KOLILI Aerobics and SIMARI Lock-Lace, and it packs much smaller. The elastic heel holds better than the plain neck on the ATHMILE Aqua Socks.\n\nIt works for a woman who wants a light swim shoe for pool, kayak and yoga days at a modest price. Rinse and hang it to dry.",
     "specs": [
       "Non-slip firm-grip sole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411n-mUoHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-amz-20",
     "description": "Cushion comes from a thick insole in the ATHMILE Aqua Socks, which pair a stretchy dry-fast upper with a special anti-slip sole. They are foldable, lightweight and flexible, and the listing advises choosing a size half smaller.\n\nIt carries the lowest price here and is the softest underfoot of the sock styles, with a thick insole that the YALOX Aqua Socks do not list. It folds smaller than the KOLILI Aerobics.\n\nIt suits a woman who swims occasionally and wants a very light, low-cost shoe for a bag. It also works as a spare for pool trips.",
     "specs": [
       "Thick insole, anti-slip sole",

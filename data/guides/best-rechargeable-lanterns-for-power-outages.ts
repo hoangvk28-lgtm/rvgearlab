@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4124EStkA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-amz-20",
     "description": "The Glocusent carries a 5000mAh battery and lists 14 to 130 hours of runtime from 340 down to 5 lumens, plus up to 400 hours on its lowest setting. It offers warm, cool and combined light, a 1800K night mode, a red mode and Type-C charging in about 3.5 hours.\n\nCompared with the CT CAPETRONIX it has a bigger battery and a far longer stated runtime, and it adds a 10W reverse charging function. Against the Lepro it costs less and offers many more light modes.\n\nIt suits households that expect a multi-day outage and want a night light that sips power. Phones can draw from it through the reverse fast charging port.",
     "specs": [
       "5000mAh, up to 400 hours low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYSwx1tSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-amz-20",
     "description": "The CT CAPETRONIX uses two COB light panels for 3200 lumens and a 4600mAh battery that doubles as a phone charger. It has five modes (high, medium, low, red steady and red strobe), collapsible hooks, IPX4 water resistance and a weight of about 1.2 lb.\n\nIt outshines the Glocusent and Lepro on peak lumens by a wide margin. The collapsible hooks and 7 by 4 inch body also make it smaller than its brightness suggests.\n\nIt fits campers who want a lantern that can light a yard or a kitchen area during an outage. The red modes suit signaling and night vision.",
     "specs": [
       "3200 lumens, double COB panels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413XCSzVJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-amz-20",
     "description": "This 1800 lumen lantern has 46 LED bulbs, a 4400mAh battery, four modes (daylight, warm, both and flash) and an IP44 rating. Its listing says a full charge lasts up to 12 hours, and it can charge a phone or tablet.\n\nIt sits between the Lepro and the CT CAPETRONIX on brightness, and the daylight and warm modes are dimmable. The slip-proof handle makes it easy to hang as a hands-free light.\n\nIt suits households that want a mid-range lantern with warm light and a power bank in one body. It is a straightforward pick for a storm kit.",
     "specs": [
       "1800 lumens, 46 LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a9vXTRZCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QZ8M5FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QZ8M5FS?tag=rvgearlab-amz-20",
     "description": "The Lepro is a 1000 lumen rechargeable lantern with a 4400mAh battery and a stated runtime up to 12 hours. It offers 6000K white, 3000K warm and combined light plus a flash mode, IPX4 resistance and hooks on top and bottom.\n\nIt is the dimmest of the four on paper, and it also lacks the red modes of the CT CAPETRONIX. It is a simpler design than the Glocusent, with fewer settings to learn.\n\nIt suits buyers who want a plain lantern for a storm shelf. A Type-C cable comes in the box.",
     "specs": [
       "1000 lumens, 4400mAh",

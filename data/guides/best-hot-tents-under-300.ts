@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire is a double-wall tipi, 10.8 by 10.8 by 6.9 feet, with a mesh inner tent included and a fire-retardant stove jack. The 210T polyester is described as flame retardant, there is a snow skirt and two doors, and the whole set weighs about 10.6 lbs.\n\nCompared with the VEVOR pair it adds the mesh inner tent, so bugs stay out in warm weather and the stove jack is a bonus rather than the whole point. Against the Zoring it is about 5 lbs lighter and gives standing room for 3 to 4 people in a smaller footprint.\n\nIt suits campers who want one tent for both summer trips and winter trips with a stove. The double-wall build keeps condensation away from sleeping bags better than a single layer.",
     "specs": [
       "10.8 ft tipi, 6.9 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oGtlpVBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDC298FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDC298FM?tag=rvgearlab-amz-20",
     "description": "The Zoring has a 13.12 by 13.12 foot base and an 8.2 foot peak, sized for 3 to 4 people. It uses 210T polyester, weighs about 15.4 lbs with a stove jack, 12 wind ropes and a center pole in the kit, and has two large vents for snow and airflow.\n\nIt gives the most standing room of the four, and the 8.2 foot peak lets a stove sit away from the walls. Compared with the Ranch Fire it trades portability for space, and against the VEVOR 4-Person it adds a bigger footprint while keeping the same tipi design.\n\nIt suits a group that sets up at a drive-in site and cooks and sits inside the tent. The listing also stresses snow protection and winter use.",
     "specs": [
       "13.12 ft base, 8.2 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AI6HKEI1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP2BHXCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP2BHXCM?tag=rvgearlab-amz-20",
     "description": "The VEVOR 2-Person is a tipi with a 3.2 m (10.5 ft) diameter, 1.6 m (5.2 ft) height and a flame-retardant stove jack. It weighs 3.4 lbs, uses 210T polyester at PU2500mm, and ships with 12 stakes and 8 guy ropes.\n\nIt is the lightest of the four by a wide margin, 7 lbs under the Naturehike, and the second cheapest here. The 5.2 ft peak is lower than the Ranch Fire or the Zoring, so standing room is limited.\n\nIt suits a solo camper or couple who wants a stove-capable shelter for hiking in. The listing notes the ground mat and inner mesh are not included.",
     "specs": [
       "10.5 ft diameter, 5.2 ft height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SQpD3LrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4-Person has a 4 m (13.1 ft) diameter and a 2 m (6.56 ft) height, with a flame-retardant stove jack and 210T polyester at PU2500mm. It weighs 6.83 lbs and includes 16 stakes and 8 guy ropes.\n\nIt matches the Zoring on width, weighs about 8 lbs less and costs less with a 6.56 ft peak. Compared with the VEVOR 2-Person it doubles the listed capacity for a modest weight increase.\n\nIt suits budget-minded groups and families who want stove-ready shelter without paying for an inner tent. The listing says the ground mat and inner mesh are not included.",
     "specs": [
       "13.1 ft diameter, 6.56 ft height",

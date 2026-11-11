@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fFB-0+scL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00W49ZPPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00W49ZPPK?tag=rvgearlab-amz-20",
     "description": "The Renogy Z Brackets arrive as two sets. Each set lists 8 Z brackets, 8 M6 hex bolts, 8 split lock washers, 8 hex nuts, 16 flat washers and 16 #11 self-drilling screws with plastic retaining rings. The brackets are etched aluminum alloy with stainless steel screws, ship with pre-assembled bolts and washers, and carry a 1-year warranty. They sell for $22.03.\n\nIt ranks first because the parts list is exact, which lets you count fasteners against your panel layout, and the retaining rings help seat the screws. Against the HULKNPE 16-pack for $20.49, you pay about $1.50 more for a named hardware count and a stated warranty. Against the tilt mounts, Z brackets keep the panel flat, so they give up tilt gain but need no legs and hold a lower profile in wind.\n\nPick this for a flat-mounted two-panel roof where you are willing to drill and seal. The caveat is that every screw is a roof penetration, so plan sealant for each of the 16 screws per set, and the listing gives no wind rating.",
     "specs": [
       "Two sets of 8 Z brackets",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FUPwr0bDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPFMY38X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPFMY38X?tag=rvgearlab-amz-20",
     "description": "The HULKNPE kit is a 16-pack of aluminum Z brackets at $20.49, with a multi-slot design for fine alignment, mounting hardware included and installation guidance. The listing calls the aluminum corrosion-resistant and wind-resistant, but it does not state a bolt size, a screw count or a warranty period.\n\nIt ranks second because it is the cheapest bracket kit here and the 16-piece count matches the Renogy sets, but with less detail. The multi-slot design lets you shift the bracket position by a few millimeters to align with panel holes, which the Renogy listing does not mention. You trade a published hardware list for a slightly lower price and slot adjustability.\n\nChoose it for budget builds where you will verify the fastener sizes against your panel's holes on arrival. The caveat is that the listing does not publish what screws are included for the roof, so you may need to buy sealant and extra screws, and wind performance is only described qualitatively.",
     "specs": [
       "16 aluminum Z brackets",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ex5XqcnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LFJJZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LFJJZY?tag=rvgearlab-amz-20",
     "description": "This 8-piece adjustable mount is aluminum alloy and secures with a centre screw to set a tilt angle from 10 to 60 degrees. The listing says it is assembled largely in advance, uses stainless steel screws and nuts to attach to existing panel holes, and suits boats, caravans, flat roofs, walls and motorhomes. The title cites use with panels up to 400W. It sells for $49.39, the most in this guide.\n\nIt ranks third because the 10 to 60 degree range is wider than the BougeRV mount, which lists a 28 inch maximum panel width, and the listing does not name a panel width limit. It costs $9.40 more than the BougeRV, and unlike the Z kits it needs legs on the roof, which raises the panel into wind. The listing publishes no wind rating, which matters for any raised panel.\n\nPick this if you park long stretches facing the sun and want to set a steep winter angle. The caveat is that raising a panel on a moving vehicle is a wind-load risk, so lower it flat before driving and confirm the legs are secured to the roof.",
     "specs": [
       "Tilt from 10 to 60 degrees",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313FD3lUZtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DNQGLZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DNQGLZR?tag=rvgearlab-amz-20",
     "description": "The BougeRV tilt mount has foldable legs, rust-free aluminum alloy, and fits panels up to 28 inches wide. The listing claims tilting can gather up to 50 percent more solar energy than a horizontal panel and says assembly takes four steps with a PDF manual available. The box lists 4 aluminum mounting rails, 2 tilt angle brackets, 6 knob bolts, 6 wing nuts, 4 flange nuts and 6 self-tapping screws among other parts. It costs $39.99.\n\nIt ranks fourth because it publishes the clearest tilt benefit and a width limit, but the 28 inch ceiling excludes many wider panels, which the 8PCS Tilt kit does not state. Against the Z kits it costs about twice as much and uses fewer roof screws, with the 6 self-tapping screws and plastic retaining rings as the roof points. The up to 50 percent figure is a best-case claim, not a typical gain.\n\nChoose it for a 100W to 200W panel on a cabin roof or camp setup where you tilt for winter sun. The caveat is that the tilt claim is a ceiling, and at highway speed the legs must be folded flat and locked.",
     "specs": [
       "Panels up to 28 inches",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-aguL0leL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKG89726?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKG89726?tag=rvgearlab-amz-20",
     "description": "The Cheersolar kit is seven pieces: four ABS corner brackets, a cable entry gland, stainless steel screws and installation hardware. The listing describes a drill-free approach using adhesive backing plus screws for a watertight seal, and ABS plastic rated from minus 40 to 176 degrees Fahrenheit and resistant to UV, rain and snow. It sells for $27.99.\n\nIt ranks fifth because the listing says drill-free yet also says to secure with adhesive backing and screws, which leaves the actual penetration count unclear. Compared with the Sunway kit at $29.99, you save $2 and get a cable gland for wire entry, but the Sunway lists a frame thickness of up to 40mm and includes two extra side mounts. Against the Z kits, it holds the panel at the corners rather than along its length.\n\nPick it if you want to minimize roof holes and need a cable gland in the box. The caveat is that adhesive bond strength depends on roof surface prep and the listing does not state a wind rating or a frame thickness limit.",
     "specs": [
       "Seven pieces, four ABS corners",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XXhAl+d7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QXX89MB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QXX89MB?tag=rvgearlab-amz-20",
     "description": "The Sunway corner mount kit lists four corner mounts and two side mounts made of hard ABS plastic, and states that it fits frames up to 40mm thick on most aluminum-framed panels. The listing says it can be installed without drilling or with screws, lifts the panel for airflow underneath to reduce panel temperature, and resists ultraviolet light and temperature swings. Price is $29.99.\n\nIt ranks last of the six only because it has the least detail on sealing and wind. Against the Cheersolar kit it costs $2 more but adds two side mounts, which the listing says help support long, heavy panels that might bow in the middle, and a stated 40mm frame limit. Against the Z kits it raises the panel slightly, which helps cooling, but the plastic is a different load path than aluminum brackets.\n\nChoose it if you have a long, heavy panel or a thicker frame and want the airflow gap. The caveat is that the listing gives no wind rating, so for a roof exposed to highway speeds you should confirm fastening with screws, not adhesive alone.",
     "specs": [
       "Four corners plus two side mounts",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "Camco's Tastepure is the pick that documents its claims most clearly. The listing states independent testing to NSF/ANSI 42 and NSF/ANSI 53, plus CSA lead-free content certification to NSF/ANSI 372, and the filter is built with GAC and KDF in a six-step design. That combination of three printed standards puts it at the top of a drinking-focused ranking.\n\nAgainst the AQUA CREST below it, the difference is the Standard 53 listing, which is the standard tied to health-related claims rather than just taste. AQUA CREST lists 42 and 372, so the Camco has the broader paper trail for a buyer who fills a fresh tank from campground spigots and wants more than a taste promise.\n\nIt suits anyone who wants better taste with a documented certification behind it. The filter threads onto a standard garden hose, so a drinking-water buyer can set it up in seconds, and the printed standards make the claim easy to look up before and after the trip. A fresh two-minute flush on arrival keeps the carbon working from the first glass.",
     "specs": [
       "NSF/ANSI 42 and 53 listing wording",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+6cuN6tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-amz-20",
     "description": "AQUA CREST is certified against NSF/ANSI 42 and 372, uses KDF with activated carbon and ships with a rotating hose protector that has copper ends. The listing also describes pressure testing up to 400 PSI. It brings named standards and hardware together, which gives it the strongest paperwork of the multi-feature filters here and a hose-end build ready for daily use.\n\nCompared with Camco Tastepure above, it trades the NSF 53 listing for a hose protector that swivels 360 degrees, and it costs a little more per filter in single form. Against Kohree below, it has stronger certification wording and sturdier fittings, so the weight of a filled housing sits more kindly on the spigot and the hose keeps a clean curve.\n\nGood for campers who want a certified filter plus a built-in hose protector and tool-free installation. Its three-month service life is the stated figure, so plan to swap it each camping season, and expect the swivel protector to make hookups at awkward spigots easier. The copper ends and the tool-free install suit a camper who connects at a new site every few days.",
     "specs": [
       "NSF/ANSI 42 and 372 listing wording",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-amz-20",
     "description": "Kohree sells a two-pack with a 20 micron sediment stage inside a five-layer GAC and KDF design. The listing states 0.5 gpm flow and up to 1,057 gallons of capacity, in a wider body meant to keep flow up. Those two figures are rare among hose filters, so a drinking-water buyer gets numbers to plan around.\n\nAgainst Beckacher below, Kohree states a lower capacity figure and a specific flow rate, so you know what flow to expect from the tap. Compared with AQUA CREST above, you get two filters instead of one at a similar spend, which stretches a season and leaves a spare in the drawer for a mid-trip swap when flow or taste changes.\n\nIt is a sensible choice for a full season plus a spare. The NSF wording on the listing is general, so it fits a buyer whose goal is better taste from a trusted supply, and the 20 micron stage adds a basic silt screen ahead of the carbon. The wide body helps flow, and the thick housing is described as burst-tested for peace of mind at the hookup.",
     "specs": [
       "20 micron sediment stage, five-layer design",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "Beckacher is another two-pack, built on GAC and KDF, with a stated 1,350 gallons over about three months, the highest gallon claim among the inline filters here. It reduces taste, odor, chlorine and sand, and it installs by hand in about five minutes. The listing names lead-free and BPA-free materials and includes a flexible hose protector with the pair.\n\nCompared with Kohree above, it states a higher gallon figure, which gives a season-long plan a bigger number to lean on. Against Crystala below, you get two filters rather than three and a different hose build, so it sits in the middle of the cheap filters for volume per pack, with a clear number on the label for a long weekend season.\n\nIt works for weekend campers who want spares at a low cost and a clear gallon figure to track. The hand-install in about five minutes keeps swaps simple, and the hose protector helps the filter sit kindly on the spigot while the taste and chlorine work happens inside. Spare filters from the pair cover the second half of a busy season.",
     "specs": [
       "1,350 gallon rating over about three months",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4133yuVZpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4FC18HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4FC18HW?tag=rvgearlab-amz-20",
     "description": "Crystala packs three inline filters with two flexible hoses, using GAC and KDF to cut chlorine, taste and odor. The hose ends are anti-rust copper and swivel 360 degrees, and the filters fit any 3/4 inch standard hose. It is the volume pick in this lineup, built for people who go through filters on a regular schedule and want spares on the shelf.\n\nBeside Beckacher above, you get one extra filter and the swivel hoses, which spreads the cost across more swaps and keeps a spare ready for each change in flow or taste. Against the External RV Filter System below, you stay in the cheap, replace-it-each-season format, which fits a rig that travels often and likes sealed filters over a mounted canister.\n\nBest for full-timers or long seasons that rotate through filters. Three in the pack means a swap whenever flow or taste changes, and the swivel hoses protect the connection at the spigot, which suits an owner who connects and disconnects often. Because the cost of three filters is spread across a season, it is the volume buy for people who plan ahead.",
     "specs": [
       "GAC and KDF media, three filters in the pack",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bm+sZcDnS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-amz-20",
     "description": "The External RV Filter System is an external three-stage system on a powder-coated steel stand, which makes it the one canister pick in this lineup. The listing says it filters sediment and reduces odor in the drinking water, and it can be mounted or staked. Replaceable cartridges are the draw, because you swap a cartridge rather than the whole unit, and the stand keeps the housings upright beside the hookup.\n\nIt costs several times what any hose filter above does, in exchange for a steadier setup and cartridges you can change. Beside Camco Tastepure, its appeal is the format rather than the paperwork, so it suits a buyer who values replaceable cartridges more than a printed standard, and it sits as the long-stay alternative to the sealed hose filters, trading portability for a steadier setup.\n\nPick it if you camp in one spot for long stretches and want cartridges you can swap. It sits on a stand beside the hookup, handles sediment loads that a sealed filter would clog, and gives drinking water a sturdier first stage for a stay measured in weeks. Replacement is a cartridge swap, so the stand and housings stay in service.",
     "specs": [
       "Three-stage external canister system with replaceable cartridges",

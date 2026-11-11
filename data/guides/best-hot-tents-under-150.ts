@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JLaMPP3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLTYMVL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLTYMVL8?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4-6 tipi is 15.09 feet across and 8.53 feet tall, fitting four to six adults with a flame-retardant stove jack. It uses tear-resistant 210T polyester with a PU2500mm rating, weighs 9.7 pounds and packs with 20 stakes and 10 guy ropes.\n\nIt gives the largest floor and tallest peak in the group for a very low price, well beyond the 7.42 foot CampRavox chalet. The smaller VEVOR 4-Person is the same line at a lower weight and a shorter peak.\n\nIt suits families and friends who want a roomy stove-ready tipi on a budget. It also packs light enough to carry from the car to a nearby site.",
     "specs": [
       "15.09 ft wide, 8.53 ft tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "Naturehike built the Ranch Fire as a double-wall tipi with a mesh inner tent included, roughly 10.8 feet square and 6.9 feet tall. A snow skirt, two doors, two top vents and a fire-retardant 210T polyester shell make it cold-weather ready at about 10.6 pounds.\n\nIt is the only pick here with an included inner tent and a snow skirt, which the VEVOR tipis do not provide. It costs about double the VEVOR 4-6 for a smaller floor and a taller, more bug-proof interior.\n\nIt suits campers who want a comfortable, bug-free four-season tent that holds heat. Pack size is 23.6 by 7.5 by 35 inches.",
     "specs": [
       "Roughly 10.8 ft square tipi",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+069M4-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF9WVY81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF9WVY81?tag=rvgearlab-amz-20",
     "description": "The CampRavox chalet is made from 70D ripstop polyester rated 3000mm and sleeps two adults in a 7.42 by 5.25 by 4.25 foot space. It has two high-carbon steel poles, 10 guy lines, 13 pegs, symmetrical double doors and an adjustable chimney vent.\n\nIts 3000mm rating is the highest in the group and its ripstop shell is sturdier than the 210T polyester of the tipis. It has a lower peak than the Naturehike or VEVOR tents and costs the most here.\n\nBest for pairs wanting a compact wall-style tent with strong weather protection near the cap. Side rain curtains and bottom mesh keep the doors flexible.",
     "specs": [
       "70D ripstop, 3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jx7hccKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNV53L6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNV53L6?tag=rvgearlab-amz-20",
     "description": "The Soulchen is a hammock-friendly hot tent weighing 7.9 pounds, about 11.8 feet long and 6.6 feet wide. It uses high-density polyester with two stove pipe vents, a snow skirt and a carry bag with 12 stakes and 6 wind ropes.\n\nIt is lighter than the Naturehike and cheaper than the CampRavox, and it keeps two pipe openings where many tents offer one. The long, narrow shape suits a hammock line better than the roomier VEVOR tipis.\n\nIt suits solo or paired hammock campers who hike between sites. It also holds two or three sleepers on the ground.",
     "specs": [
       "7.9 lb, 11.8 x 6.6 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SQpD3LrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4-Person tipi is 13.1 feet across with a 6.56 foot peak, a flame-retardant stove jack and 210T polyester at PU2500mm. It weighs 6.83 pounds and ships with 16 stakes and 8 guy ropes.\n\nIt matches the width of the Naturehike at a fraction of the price and weighs about 4 pounds less. Compared with the VEVOR 4-6 it is lighter and smaller, with a lower peak.\n\nIt suits solo campers and pairs who want to test a hot tent before committing. Add a ground mat or an inner tent as you go.",
     "specs": [
       "13.1 ft wide, 6.56 ft peak",

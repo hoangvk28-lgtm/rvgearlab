@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x5s9iBs4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH11Q27?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH11Q27?tag=rvgearlab-amz-20",
     "description": "The Purebox is a 6-person cabin tent with near-vertical walls, two entry doors, four oversized mesh windows and a pre-attached instant frame that sets up in about 60 seconds. The integrated rainfly extends into a front awning that adds about 50 percent more shaded living space.\n\nAgainst the UNP cabin it adds the instant frame and an awning, while the UNP has a bigger floor in numbers. Compared with the Portal it swaps the screen room for a rainfly that forms a mudroom.\n\nChoose it if you want a fast pitch, a covered entry and a roomy cabin. A full-coverage fly and skirts add weather protection.",
     "specs": [
       "6 person, near-vertical walls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r9P9RprWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJSMKRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJSMKRT?tag=rvgearlab-amz-20",
     "description": "The Portal measures 15 ft (11 plus 4) by 8 ft by 76 inches and fits two full-size airbeds. A 4 ft by 8 ft screen room, a tunnel shape, sturdy 66D fabric with a water-resistant coating and a removable rainfly form the shell.\n\nIt brings a bug-free porch that the Purebox and UNP lack, at a price that sits below the Purebox. An E-port and color-coded poles round it out, and two people can set it up in about 5 minutes.\n\nIt suits families who want a screen room and a tunnel layout at a mid price. The full mesh ceiling gives an open view.",
     "specs": [
       "15 ft (11+4) x 8 ft x 76 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w3dnjC5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-amz-20",
     "description": "The Skydome 2/4/6/8 is a size family with poles attached to the body, so the pitch takes under 5 minutes. Nearly vertical walls add headroom, and a wider door makes loading air beds easier.\n\nIt sits at the same price as the Portal and offers the WeatherTec welded corners, inverted seams and a frame tested to 35 mph. Against the UNP and WildFinder it adds a brand and wind testing, and drops the floor details.\n\nIt suits families who want a name-brand dome and a quick setup. The listing is a size family, so pick the 6-person option.",
     "specs": [
       "2/4/6/8 person size family",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zOlmR0pqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NJG6Y9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NJG6Y9J?tag=rvgearlab-amz-20",
     "description": "The UNP is a 6-person cabin measuring 10 ft by 9 ft by 78 inches, or 90 sq ft, and fits two air mattresses or six sleeping bags. It has one large mesh door, five mesh windows, a mesh top and four steel leg poles, and it weighs about 18 lb.\n\nAgainst the WildFinder it lists a floor in square feet and a weight of about 18 lb. Compared with the Purebox it takes more steps to pitch and costs less.\n\nIt suits families who want a documented 90 sq ft cabin floor at a modest price. The listing offers a 1-year warranty.",
     "specs": [
       "10 x 9 ft, 78 in center",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WH733lXvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJZ6B1B4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJZ6B1B4?tag=rvgearlab-amz-20",
     "description": "The WildFinder measures 120 by 108 inches with a 78 inch center. It has high-density mesh windows on all four sides, lower floor vents, ultra-fine anti-insect mesh and heavy-duty zippers on a protected steel frame.\n\nPriced below the other four, it packs into a 21.7 by 8.7 by 8.7 inch bag. Against the UNP it adds four-sided airflow and fine insect mesh.\n\nIt suits families who want airflow and a stand-up center at a budget price. The waterproof fabric blocks rain and moisture.",
     "specs": [
       "120 x 108 in, 78 in center",

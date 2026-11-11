@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "MSR's PocketRocket 2 packs a 2.6 oz canister stove into a 2 by 2 by 3 inch bundle that opens to 4.8 by 4.8 by 3.6 inches. It runs on isobutane-propane canisters and brings a liter to a boil in 3.5 minutes, per the listing.\n\nTwo hikers share one pot of water faster here than on the AOTU, since MSR states the time. Serrated supports hold a variety of pot sizes, and a case comes with it.\n\nIt suits couples sharing one pot and one canister. Simple operation and a light pack make it a safe default.",
     "specs": [
       "2.6 oz, opens to 4.8 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k3RLPjcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D81PZWBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D81PZWBS?tag=rvgearlab-amz-20",
     "description": "The Cofiyard is a folding propane stove with two adjustable burners, a 17,000 BTU total and a hexagonal symmetrical design that holds two 10 inch frying pans. It folds to 9.5 by 9 by 4.6 inches and comes with a connector and woven carry bag.\n\nIt is the only stove in this group that cooks two dishes at once, which the single-burner MSR cannot do. A coffee percolator can run on one side while a pan cooks on the other.\n\nIt suits couples on short trips and car-assisted camps who want to cook a real dinner. The compact fold still fits a pack, per the listing.",
     "specs": [
       "17,000 BTU, two burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sJYXEhoIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0822LVK37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0822LVK37?tag=rvgearlab-amz-20",
     "description": "The Odoland 17-Piece Set is a camping cookware kit equipped for 1 to 2 people, with anodized aluminum pots, a pan, a kettle and a folding stove. It adds two sets of stainless cutlery and a cleaning cloth.\n\nIt states a total weight of 3.3 lb and an adjustable control valve on the stove. Compared with the bare MSR stove, it also gives the pair pots, cups and cutlery.\n\nIt suits a couple starting out who want one set instead of piecing gear together. Everything nests into a nylon mesh bag.",
     "specs": [
       "Equipped for 1 to 2 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "With a 3000 W rating and a piezo igniter, the AOTU is a budget canister stove whose fire board suits a 20 cm basin and 1 to 3 people. It ships in a small box and fits 7/16 thread canisters.\n\nPrice is the lowest of the group, and it still gives two hikers an igniter. The control valve runs from full heat to a simmer, and a honeycomb net blocks wind.\n\nIt suits partners who want a low-cost stove or a backup. The listing says it does not fit propane canisters.",
     "specs": [
       "Suits 1 to 3 people",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L1-CYVUKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXNLZ7HB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXNLZ7HB?tag=rvgearlab-amz-20",
     "description": "The Foldable Charcoal Stove is aimed at 1 to 2 people and weighs 0.4 kg. It folds flat to 11.5 by 11.5 by 1.5 cm and expands to 11.5 by 11.5 by 9 cm, with a 201 stainless steel body, a 304 stainless grill net and a wooden insulated base.\n\nIt burns charcoal instead of canister gas, so it suits grilling skewers and vegetables as well as boiling tea water. The listing says one piece of charcoal is enough to start.\n\nIt suits partners who like grilling and want a flat-packing stove. It needs charcoal rather than gas.",
     "specs": [
       "0.4 kg, folds to 1.5 cm thick",

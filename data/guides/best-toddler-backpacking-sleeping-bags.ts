@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J1VZZ9b0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTH3GG4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTH3GG4H?tag=rvgearlab-amz-20",
     "description": "Wake In Cloud measures this bag at 61 x 26 inches, weighs 2.9 lb and says it suits children ages 3 to 8, who can carry the backpack-style sack themselves. It has a 210T water-repellent polyester shell, a 240T pongee lining and soft polyester filling, with a 45 to 77F rated range.\n\nThat is the clearest fit and weight story of the two, with a hook-and-loop closure over the zipper, a drawstring hood and a two-way bottom zipper that frees the feet on warm nights. The tuphen 3-Season states a lower range and leaves out the size.\n\nA good match for preschool to early school-age campers who like fun designs and want a bag they can carry. It also works for sleepovers at home.",
     "specs": [
       "61 x 26 inch, 2.9 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RRizmZ+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZPHKRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZPHKRC?tag=rvgearlab-amz-20",
     "description": "tuphen rates this three-season kids' bag from 40 to 77F, with a waterproof, breathable polyester shell and 210T poly taffeta lining. Double S-stitching and 3D inner fibers hold the fill, and a compression sack with straps is designed as a backpack-style carry.\n\nIt reaches five degrees lower than the Wake In Cloud Kids Bag and costs about the same. The listing prints no length or weight, so it takes a little more checking before you buy.\n\nA reasonable choice for toddlers on spring and fall overnights, from preschool trips to backyard camping. A 2-way zipper makes it easier to open.",
     "specs": [
       "40 to 77F printed range",

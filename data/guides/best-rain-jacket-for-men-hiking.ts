@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WF9NeJtYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNC4F4FP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNC4F4FP?tag=rvgearlab-amz-20",
     "description": "The North Face Antora is a men's jacket with a seam-sealed DryVent 2L shell made from recycled fabric and coated with a non-PFC durable water-repellent finish. It lists an adjustable 3-piece hood, a standard fit with mobility through the chest and shoulders and a waterproof, windproof, breathable build.\n\nCompared with the 33,000ft Packable, it brings a branded, sustainable fabric and a 3-piece hood. Against the COOFANDY Ultralight, it gives a more durable two-layer shell.\n\nIt suits hikers who want one dependable jacket across seasons. The listing describes it as a classic year-round rain jacket.",
     "specs": [
       "Seam-sealed DryVent 2L shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310jmwQEMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T5YDGXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T5YDGXJ?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Packable jacket lists waterproof fabric rated at 10000mm with full heat seam-sealed construction. Armpit air vents and a mesh lining help move air, and a drawstring hood adjusts for width and height.\n\nCompared with the COOFANDY Ultralight, it adds armpit vents and a stated waterproof number. Against the 33,000ft Fleece Lined, it is a lighter shell without warmth.\n\nIt suits hikers who run warm on climbs. Four zippered pockets hold a phone, snacks and a map.",
     "specs": [
       "10000mm waterproof, seam-sealed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yvb7rH9TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR9VP6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR9VP6C?tag=rvgearlab-amz-20",
     "description": "The Columbia Glennaker Lake II is a men's waterproof nylon shell that packs into its own hand pocket. A stow-away hood unfolds from the collar, and zippered hand pockets, elastic cuffs and an adjustable hem complete the layout.\n\nCompared with the 33,000ft Packable, it is simpler and carries brand support. Against The North Face Antora, it uses a lighter shell at a much lower price.\n\nIt suits day hikers who want a simple, trusted shell for the pack. The stow-away hood keeps the profile clean.",
     "specs": [
       "Waterproof nylon shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kcdQgp3kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YRS85P2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YRS85P2?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Fleece Lined jacket is a three-layer softshell with an outer soft shell, a TPU membrane mid-layer and a brushed fleece inner lining. Polyester blended with spandex adds stretch, and five pockets include one on the left arm.\n\nCompared with the 33,000ft Packable, it adds a fleece lining for warmth and stretch. Against The North Face Antora, it is a warmer softshell instead of a hard shell.\n\nIt suits hikers in cool, wet weather who want warmth without a separate layer. Ribbed cuffs and a drawcord hood and hem block cold wind.",
     "specs": [
       "Three-layer fleece-lined softshell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LZHLv6guL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083P27818?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083P27818?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Ultralight lists a high-density soft shell fabric with a waterproof coating inside and fully sealed seams. It weighs 0.4 lb and folds into its back pocket, with a hidden full zip, elastic cuffs and an adjustable drawstring hood.\n\nCompared with The North Face Antora, it is far lighter and cheaper. Against the 33,000ft Packable, it drops vents and pockets for lower weight.\n\nIt suits ultralight and emergency packing. It also works for running and cycling.",
     "specs": [
       "0.4 lb, folds into back pocket",

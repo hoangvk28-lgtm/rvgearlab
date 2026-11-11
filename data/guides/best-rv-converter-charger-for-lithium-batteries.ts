@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412G2-jbB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN7BZMHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN7BZMHB?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD9360V earns the top spot because it gives lithium owners the clearest, best documented charge modes of any unit here. A colored LED shows the active profile: blue is a lithium 2-stage mode that bulk charges at 14.4V and drops to 13.6V idle once current tapers, alongside separate flooded, AGM, and constant voltage modes. It is rated for 60 amps from a 105 to 130VAC input.\n\nCompared with the PowerMax PM4-100A ranked second, it gives up 40 amps of charging current but explains exactly what it does in each mode, including an automatic storage mode after 33 hours of light use. That transparency is why it outranks bigger chargers. It costs about $80 more than the PowerMax.\n\nThis is the pick for a typical trailer with 100 to 300Ah of lithium on regular shore power. The caveat: its 14.4V lithium bulk is slightly conservative, so a battery that asks for 14.6V may finish a little below 100 percent, which is usually easier on cells anyway.",
     "specs": [
       "60A, 1000W input",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yv6-i1eBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH5W?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-100A is the high-current option in this list, delivering up to 100 amps of regulated 12V power from a standalone deck-mount case. Its output is adjustable for properly configured lithium charging, and it includes current limiting, reverse-polarity, and thermal protection.\n\nIt sits behind the PD9360V because its listing offers less detail on charge stages and modes, but it nearly doubles the current. That matters when you run a generator to refill a 400Ah or larger bank, because every hour of runtime costs fuel and quiet hours. Next to the MWXNE and VEVOR 100A units below, PowerMax brings a longer RV track record at a higher price.\n\nBuy it if you have a large lithium bank and limited generator time. Make sure your wiring, fuse, and battery BMS can accept 100 amps of charge current, because many 100Ah batteries are rated for 50 amps of charge.",
     "specs": [
       "100A regulated output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jyujD7ALL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W886Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W886Y6?tag=rvgearlab-amz-20",
     "description": "The RecPro 65 amp unit splits the difference between the 55 amp replacements and the 100 amp chargers. It converts 120VAC to 12VDC with 4-stage charging and is listed for both lead and lithium batteries.\n\nIt offers five more amps than the PD9360V ranked first, but RecPro's listing does not describe a lithium mode or voltages the way Progressive Dynamics does, so it ranks third. Against the cheaper MWXNE below, you trade a 100A ceiling and a mode button for an RV-focused brand and a size that most 30 amp rigs can wire without upsizing cables.\n\nThis suits owners who want a modest bump over the stock 55 amps without rewiring for 100. Confirm with RecPro how lithium charging is selected before relying on it, since that detail is missing from the listing.",
     "specs": [
       "65A, 4-stage charging",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sRLacF5tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCH7RS9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCH7RS9R?tag=rvgearlab-amz-20",
     "description": "The MWXNE 100 amp converter is a lot of charging current for about $133. A switch selects dedicated lead-acid or LiFePO4 charging, or a fixed voltage mode at 13.0V, 14.6V, or 16.5V, and the unit runs automatic Boost, Normal, and Trickle stages with a temperature-controlled fan.\n\nCompared with the PowerMax PM4-100A above, it delivers the same 100 amps for about $56 less and documents its modes more clearly, though it comes from a less established brand. It beats the VEVOR 100A ranked below on its explicit staging description and included extra fuses, which accounts for the roughly $29 price gap.\n\nPick this if you want 100A lithium charging on a budget. The caveat is the 16.5V fixed setting: it is too high for a 12V LiFePO4 battery, so keep the unit in the dedicated lithium mode for normal charging.",
     "specs": [
       "100A output",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouwA+5sBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-amz-20",
     "description": "The VEVOR 100 amp converter brings high-output lithium charging to about $104. It offers dedicated lead-acid and LiFePO4 modes, a fixed voltage mode with 13.0V, 14.6V, and 16.5V options, six listed protections, and a copper cable in the box.\n\nIt closely mirrors the MWXNE above in features, ranking lower because its staging is described less specifically. It costs about $29 less, and against the Rugaest 55 amp unit below it nearly doubles the current while losing the bay-matching WF-9855 footprint.\n\nThis is a sensible pick for a standalone install where price matters most. The caveat is that its 100A rating needs proper cable gauge and fusing, and VEVOR's own sizing note pairs it with large batteries, so check that your BMS accepts that charge rate.",
     "specs": [
       "100A output",
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hQp71M4pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RMSQRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RMSQRK?tag=rvgearlab-amz-20",
     "description": "The Rugaest WF-9855 replacement fixes the most common complaint about auto-detect converters: they can misread a battery when solar or heavy loads confuse the voltage. Here a front push button locks in lead-acid mode with a green light or lithium mode with a blue light, and the lithium mode charges at a dedicated 14.6V for 12V LiFePO4.\n\nIt is the lowest-current charger in this roundup at 55 amps and 950 watts, so it refills a bank more slowly than every pick above it. The upside is that it fits WF-9855, WF-9855-AD, WF-9855-LiS, and WF-9855AN deck-mount bays at 9.65 x 5.91 x 4.06 inches, so it drops in where the factory unit sat.\n\nThis suits owners who want a cheap, exact-fit lithium upgrade and have solar on the roof. The caveat is a 2-year warranty, shorter than several clones, and 55 amps will feel slow on a generator.",
     "specs": [
       "55A, 950W",

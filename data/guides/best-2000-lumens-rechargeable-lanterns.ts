@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w-OzGGQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WDJLYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WDJLYL?tag=rvgearlab-amz-20",
     "description": "The Lepro lists 2000 lumens from a 20W LED, with touch control cycling through cool white, warm gold, combined, red and red flash. It charges over Type-C in 6 to 7 hours with the cable included and has IPX4 resistance with an LED life of 15000 hours.\n\nIt gives the full 2000 lumens with warm and red modes, which the Durapower does not list. The listing also describes a dual-power setup that works as a power bank and a battery case.\n\nIt suits anyone lighting a large tent who also wants gentle warm and red settings. The auto-off feature saves battery.",
     "specs": [
       "2000 lumens, 20W LED",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ecYafp4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF43K3SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF43K3SM?tag=rvgearlab-amz-20",
     "description": "The LUXPRO is a dual-power 2000 lumen lantern rated for up to 150 hours of use with a built-in power bank. A patented 360 degree beam and a variable knob dial control dimming.\n\nIt lists the longest runtime of the group, at up to 150 hours, which the Lepro and Durapower do not match. The knob gives smooth control without cycling modes.\n\nIt suits campers who want a simple dial and long runtime on a dimmed setting. The power bank function lets it top up a phone.",
     "specs": [
       "2000 lumens, up to 150 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TMB45IYSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V4RSL4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V4RSL4R?tag=rvgearlab-amz-20",
     "description": "The Durapower lists 2000 lumens with a 360 degree beam, a 4000mAh built-in battery and five modes. It has IP44 water protection, two slip-proof handles and a power bank function.\n\nIt costs less than the LUXPRO and states about 20 hours from its battery. Its two handles make hanging easy.\n\nIt suits buyers who want a bright lantern for emergencies and camps. The IP44 rating handles splashes.",
     "specs": [
       "2000 lumens, 4000mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31moI3tsRmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2ZF4RK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2ZF4RK1?tag=rvgearlab-amz-20",
     "description": "The Coast EAL40R is a 2500 lumen rechargeable lantern with warm low, warm medium, cool low, cool medium and cool high modes and a red flashing mode. A removable polycarbonate diffuser, a foldable handle, a carabiner and a lifetime warranty come with it.\n\nIt is above the 2000 lumen mark, so it is the nearest step up. Its removable diffuser softens the light, which the other three listings do not mention.\n\nIt suits campers who want a brand-backed bright lantern with a soft glow option. A moonglow low-level setting works as a night light.",
     "specs": [
       "2500 lumens, red flash",

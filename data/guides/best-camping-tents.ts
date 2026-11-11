@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-SB66U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-amz-20",
     "description": "The Londtren pop-up tent has a 9.2 ft by 6.6 ft floor that fits 3 to 4 people in sleeping bags or 2 to 3 people with lots of gear. Pre-assembled poles let it pop open from its bag, and a 190T polyester shell, a 110G PE groundsheet and a vestibule are listed.\n\nIt is the biggest tent here and the only one that pitches by letting go of the bag. Against the Amazon Basics dome it sets up faster and adds a vestibule.\n\nIt suits car campers who want a fast, roomy tent for festivals and weekends. Mesh front and back doors give airflow.",
     "specs": [
       "9.2 x 6.6 ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+A9gSG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-amz-20",
     "description": "Amazon Basics sells this two-person dome as a three-season, self-supporting tent made of coated polyester with welded seams. A removable rainfly with a back window and cool-air port, shock-corded poles that set up in under 4 minutes, a mesh pocket and a compact bag are listed.\n\nIt is the best-known dome at a low price and sets up quickly. Against the Clostnature it uses welded seams and a back window.\n\nIt suits first-time campers and hikers on a budget. The free-standing frame can be moved without taking it down.",
     "specs": [
       "Three-season free-standing dome",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "Night Cat builds this one-to-two person backpacking tent at about 4.4 lb (2 kg), with an inner floor of 7 ft long and under 4 ft wide. Taped seams under a 3000mm PU fly and fiberglass poles with protective cases come with a pack that rolls up to 16.5 inches.\n\nIt has the highest listed rain rating here. Against the Clostnature it is narrower and lighter.\n\nIt suits solo hikers who want a taped-seam tent at a very low weight. One to two minutes is the stated setup time.",
     "specs": [
       "7.0 x 3.8 x 3.6 ft, 4.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EXGv3DbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person dome stands on its own with an X-pole frame and a PU 2000 coated fly. Factory-sealed seams, a net-and-fabric double door, 8 stakes, 4 ropes and a carry sack are part of the kit.\n\nIt costs less than the Amazon Basics dome and includes a stake and rope set. Compared with the Wakeman it has a rated fly and a double-layer door.\n\nIt suits couples who want a cheap, free-standing tent. A one-year guarantee is listed.",
     "specs": [
       "Free-standing X-pole dome",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JAmQXcakL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XPKZRGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XPKZRGS?tag=rvgearlab-amz-20",
     "description": "The Wakeman 2-person tent measures 77 by 57 by 40 inches, weighs 2.75 lbs and uses 190T polyester with 3mm fiberglass poles. It has a removable rain fly, a ventilation window and a dual-layer door with an inner screen and an outer zipper.\n\nIt is the cheapest tent here and weighs far less than the Londtren. Against the Clostnature it has a simpler frame and no rating number.\n\nIt suits festival-goers and beach campers who want a very cheap two-person shelter. The carry bag is 23 inches long.",
     "specs": [
       "77 x 57 x 40 in, 2.75 lbs",

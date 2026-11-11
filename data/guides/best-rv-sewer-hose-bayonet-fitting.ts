@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KfuPHFhsS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EDUTPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EDUTPY?tag=rvgearlab-amz-20",
     "description": "The Camco 39422 has a straight fitting on one end and a bayonet fitting on the other, so it joins a standard bayonet sewer hose to a 3 inch threaded plumbing pipe. The listing describes a non-restrictive design with unobstructed flow, strong polymer construction, dimensions of about 4.5 by 4 by 5.4 inches and a Made in USA label. It costs about $14.\n\nCompared with the Valterra rotating adapter below it, the Camco handles the threaded-pipe case directly instead of a slip hub that must be glued, so it suits sites with an existing threaded dump port. Against the TonGass combo pack, it is a single multi-purpose fitting rather than a two-piece permanent drain kit, which makes it quicker to use and easier to move between sites. The straight and bayonet ends mean you do not need a separate thread adapter.\n\nIt works for travel trailer owners, campers who visit a mix of sites and anyone who just needs one reliable fitting to connect a hose to a threaded pipe. It is a good first item in a sewer kit.",
     "specs": [
       "Straight end plus bayonet end",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rMi3SZdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38SG9FR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38SG9FR?tag=rvgearlab-amz-20",
     "description": "The TonGass combo pack holds two black ABS plastic pieces made to OEM specifications: a rotating rigid pipe adapter with a 3 inch female slip hub and four bayonet hooks, and a termination adapter with a 3 inch female slip hub and four bayonet lug nubs. The rotating piece twists on for a quick connection to the waste outlet, and the termination piece connects to a hose or cap. It costs about $15.\n\nCompared with the single Valterra T1028 below it, the TonGass gives you both ends of the connection in one pack for about $3 more than the two Valterra pieces would cost separately, with the same 3 inch hub and bayonet design. Against the Camco above it, this kit is for gluing into a pipe, so the connection is a permanent fixture rather than a portable adapter. The listing reminds buyers to use the correct glue when joining ABS or PVC pipe to the slip hub.\n\nIt suits seasonal sites, owners who install a dump line to a septic tank or dump port and anyone who wants a standard bayonet connection at a fixed point.",
     "specs": [
       "Rotating rigid adapter and termination adapter",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQjhDkTfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGNXK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGNXK2?tag=rvgearlab-amz-20",
     "description": "The Valterra T1028 is an RV waste outlet adapter with a 3 inch hub and bayonet hooks that rotates for easy connection. It is a single, standard replacement for the outlet fitting that joins a bayonet hose to a rigid 3 inch pipe, and it costs about $9.\n\nCompared with the TonGass combo above it, the Valterra is a single piece, so it costs less and suits an owner who already has a termination fitting and only needs the rotating side. Against the Valterra T1029-2 below it, this adapter has bayonet hooks on the outlet side, while the T1029-2 carries the lug nubs and acts as the termination piece, so the two together make a full connection. The rotating action lets you line up the hooks with your hose without twisting the pipe.\n\nIt makes sense for owners fixing a cracked outlet fitting, DIYers building their own drain line and anyone who wants the simplest standard part for a rigid pipe connection.",
     "specs": [
       "3 inch hub by bayonet hooks",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nbMQWDnhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006MRRWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006MRRWG?tag=rvgearlab-amz-20",
     "description": "The Valterra T1029-2 is a black termination adapter that joins a 3 inch bayonet lug fitting to a 3 inch slip hub, with a female slip hub end for gluing to pipe. It is a universal fit part meant for RV drain fittings, and it connects a sewer hose or a cap to a fixed pipe. It costs about $3, the lowest price here.\n\nCompared with the TonGass combo above it, the T1029-2 is the termination half sold on its own, which is the cheapest way to finish a pipe end if you already have the rotating adapter. Against the Valterra T1028 above, this one carries bayonet lug nubs and a hub, so it receives a hose instead of rotating onto an outlet. Together with the T1028 the two cost about $12 and make the same connection as the TonGass pack.\n\nIt works for DIY drain lines, campsites with a permanent connection and anyone who wants a spare termination in the bay. It is also useful for capping a pipe end so odors and bugs stay out.",
     "specs": [
       "3 inch bayonet lug by 3 inch slip hub",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418ryLHB+KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS3H3JF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS3H3JF9?tag=rvgearlab-amz-20",
     "description": "This TonGass listing is titled as a 2 x combo pack, using the same black ABS rotating rigid pipe adapter and termination adapter as the single combo, each with a 3 inch female slip hub and four bayonet hooks or lug nubs. It costs about $24 and carries the same note to use the correct glue for ABS or PVC pipe.\n\nCompared with the single TonGass combo above it in price, the larger listing is intended to cover two connections, which works out to about $12 per combo, a little less than buying singles at $15 each. Against the Camco, it is again the permanent route rather than a portable adapter. The bullets describe one rotating adapter and one termination adapter per combo, so check the quantity on the product page to confirm you are getting both sets.\n\nIt suits owners with two sites, couples sharing a dump setup, and anyone who wants a spare termination and rotating adapter on hand in case one cracks from sun and handling.",
     "specs": [
       "Two combo packs, rotating plus termination",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IaRVGmyXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYNSLD4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYNSLD4P?tag=rvgearlab-amz-20",
     "description": "The Outopakkle 360785 is a converter that changes a male bayonet fitting to a male cam lock fitting on a Waste Master sewer hose. The listing gives the part number 360785 with NPT threads, says it works with all Waste Master hose systems, old and new, and describes an external helical coil and a smooth interior that prevents debris buildup. It costs about $30, the highest price here.\n\nCompared with the Camco and TonGass parts above it, this one does a different job: it switches the hose end from bayonet to cam lock, instead of connecting a bayonet to a pipe. That makes it useful when a dump station or a drain system uses cam lock hardware and your hose ends in a bayonet. Installation is a DIY job with no tools or professional help, according to the listing.\n\nIt works for Waste Master owners, campers who want quicker, tighter connections at cam lock outlets and anyone who runs a long sewer hose and wants a smoother joint. Confirm your hose brand before ordering, since the listing is specific to Waste Master systems.",
     "specs": [
       "Male bayonet to male cam lock converter",

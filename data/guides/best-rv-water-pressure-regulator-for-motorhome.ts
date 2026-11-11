@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TuXFs4PRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CHP9BJT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CHP9BJT?tag=rvgearlab-amz-20",
     "description": "The Backyard Flock MaxFlow is a fixed regulator that the listing says delivers up to 18 gallons per minute and gives safe pressure at any input up to 125 psi. The listing names motorhomes as an application, and says it needs no adjustment.\n\nIt is the opposite of the adjustable gauge picks below: no dial, no gauge, but a stated flow ceiling that none of the others publish. It also costs well above every other pick here.\n\nBest for a large coach where flow matters more than tuning. The listing gives no psi output figure, so confirm what pressure it delivers.",
     "specs": [
       "Up to 18 gpm claimed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IFGW1sMzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9QUEYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9QUEYZ?tag=rvgearlab-amz-20",
     "description": "The Camco Adjustable uses a screw under the cap to set pressure and ships at 45 psi. The brass is CSA certified lead-free to NSF/ANSI 372, and the listing warns against settings above 60 psi.\n\nCompared with the BRIGHTDECK Handwheel below it, you get a recognized name and named standards but no gauge. It costs more than the gauge-equipped picks below.\n\nBest for motorhome owners who trust the preset and want a certified part. Without a gauge, confirm pressure with a separate gauge when you can.",
     "specs": [
       "45 psi factory preset",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uEcOqMLPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK25MXR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK25MXR7?tag=rvgearlab-amz-20",
     "description": "The BRIGHTDECK has a handwheel you pull up and twist, defaulting to 45 psi and adjusting up to 160 psi without tools. It has a gauge and a dual-layer stainless steel filter, and the listing names motorhomes among its uses.\n\nIt adds a tool-free adjuster that the Hourleey Gauge below lacks, and the double screen catches more sediment but can clog faster. The listing describes NH 3/4-11.5 threads, which matches a standard hose.\n\nBest for motorhome owners who adjust at each stop and want to see pressure. Check the screen after sandy sites.",
     "specs": [
       "Pull-up twist handwheel",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vR29RKmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085HCXPQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085HCXPQL?tag=rvgearlab-amz-20",
     "description": "The Hourleey Gauge is a lead-free brass regulator with a gauge and inlet screen, adjustable from 0 to 160 psi with a top screw. Lead content is listed as under 0.13 percent. The listing also warns that a missing gasket can cause leaks and that gauge bubbles are normal.\n\nCompared with the BRIGHTDECK Handwheel, it needs a screwdriver but costs less. Against the TONDA Screw, the gasket warning is a useful honest note on the listing.\n\nBest for budget motorhome owners who want a gauge. Check the gasket is in place before first use.",
     "specs": [
       "0 to 160 psi screw adjust",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BmUsxYysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-amz-20",
     "description": "The TONDA is a lead-free brass regulator with a 0 to 160 psi gauge, a brass adjustment screw and an inlet screen, using 3/4 inch garden hose threads. The listing says the corrosion-resistant body is built for repeated outdoor use.\n\nIt is similar to the Hourleey Gauge but cheaper, and it names motorhomes among its uses. The listing carries no named lead standard.\n\nBest for owners who want a basic gauge regulator at a low price. Confirm certifications on the packaging.",
     "specs": [
       "0 to 160 psi gauge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m12zXmD5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX267L97?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX267L97?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN is a brass regulator with an adjustable setting, a built-in gauge and an inlet filter screen. The listing calls out lead-free brass and standard 3/4 inch garden hose threads.\n\nIt is the cheapest of the gauge models, below the TONDA Screw, with a similarly sparse listing. The screen protects the seat but needs cleaning.\n\nBest for a spare regulator or a second coach. Do not expect named certification detail on the listing.",
     "specs": [
       "Adjustable with gauge",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R7Rgj5D1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-amz-20",
     "description": "Buyers of the TETON LEEF mummy choose among 0, 20 or 30 degree ratings and three sizes. The listing includes a compression sack and shapes the mummy cut roomier than most.\n\nIt is the only bag here that lets you choose a colder rating, which beats the fixed warm ranges of the ECOOPRO, BORULL and MalloMe. That makes it the most flexible pick across seasons.\n\nIt suits hikers who want one budget bag and may camp in cooler months. Choose the rating that matches your coldest night.",
     "specs": [
       "0, 20 or 30 degree options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BG+Vm+T2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-amz-20",
     "description": "The BORULL bag weighs 1.5 lb and packs to 7.9 inches. It measures 79 by 30 inches and lists a comfort range of 50F to 77F.\n\nOf the warm-weather bags it carries the lightest weight and the longest cut, giving taller hikers room that the standard-length ECOOPRO does not. It undercuts the MalloMe on weight by roughly half.\n\nIt suits summer hikers over six feet tall who watch pack weight. Continuous insulation is listed as washable.",
     "specs": [
       "1.5 lb, packs to 7.9 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO has a waterproof nylon shell, a polyester lining and an 83 by 30 inch envelope cut. It weighs 1.7 lb and compresses to 11 inches in height, with a stated range of 55 to 60F.\n\nIt trades a little weight against the BORULL for a waterproof outer fabric. Compared with the MalloMe it weighs well under 3 lb, which matters for carrying.\n\nIt suits summer scouts and campers who may meet a shower. It rolls into its carry sack.",
     "specs": [
       "83 by 30 in envelope",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated for 50 to 77F and weighs around 3 lb. It fits a 6 ft adult and has a waterproof outer shell that wipes clean, double-sided snag-free zippers and a headrest drawstring.\n\nIt is roughly twice the weight of the BORULL, so it fits casual trips better than long-distance ones. Machine-washable construction makes it the easiest to keep clean.\n\nIt suits family backpackers and scouts who share one bag among kids and adults. The zippers resist snagging.",
     "specs": [
       "50 to 77F rated",

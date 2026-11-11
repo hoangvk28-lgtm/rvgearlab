@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dvanec4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-amz-20",
     "description": "The Garmin RV Cam 795 is a 7 inch RV navigator with a built-in dash cam, forward collision and lane departure warnings and custom RV routing. It also lists a preloaded directory of RV parks and services with Tripadvisor ratings and content from KOA and Ultimate Public Campgrounds.\n\nAgainst the Garmin RV 1095, it uses a smaller 7 inch screen and adds the camera and driver alerts. Against the budget navigators, it brings RV profile routing and the campground directory.\n\nBest for iPhone owners who want recording, driver alerts and RV routing in a single dash device. A strong all-in-one for long tows.",
     "specs": [
       "7 inch RV navigator, dash cam",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS7QFDPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS7QFDPY?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is a 10 inch RV navigator with a bright high-resolution touchscreen in landscape or portrait mode. It lists custom routing for RV size and weight, a preloaded RV park directory with Tripadvisor ratings and satellite imagery.\n\nAgainst the Garmin RV Cam 795, it has the largest screen in this list and no camera. Against the budget units, it adds RV profile routing and campground content.\n\nBest for owners who want the biggest, easiest-to-read map on the dash. A natural fit for large motorhomes.",
     "specs": [
       "10 inch touchscreen, RV routing",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zdSfTSkiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWHR84TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWHR84TM?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY is a 7 inch HD touchscreen navigator preloaded with 2026 maps of the USA, Canada and Mexico and free lifetime map updates. It lists seven vehicle modes including truck, four route options and offline navigation that relies on the satellite signal.\n\nAgainst the HINYFVOZ and OHREX, it names more vehicle modes. Against the Garmin units, it costs a fraction and keeps updates free.\n\nBest for budget shoppers who want an offline second screen beside an iPhone. A simple unit for a modest rig.",
     "specs": [
       "7 inch, 2026 North America maps",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zZH8QWFJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFMTGWT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFMTGWT9?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch navigator is preinstalled with North American maps and offers lifetime free map updates. It broadcasts voice guidance through the car stereo by FM transmission and searches by postal code, address, coordinates or POI.\n\nAgainst the MRSXWPY, it adds FM transmission to the car speakers. Against the OHREX, it updates without a computer and mentions speed and school zone alerts.\n\nBest for buyers who want a cheap navigator with voice prompts through the stereo. A simple add-on beside an iPhone.",
     "specs": [
       "7 inch touch screen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K19e400lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-amz-20",
     "description": "The OHREX N700 is a 7 inch navigator with 2026 North America maps that works offline without cell service. It updates its maps by connecting to a Windows PC or an external TF card and customizes routes by vehicle weight, length, height and width.\n\nAgainst the HINYFVOZ, it works fully offline and lists a computer or card update path. Against the Garmin units, it costs a fraction.\n\nBest for travelers who want a no-signal navigator with computer-based updates. A good backup for an iPhone.",
     "specs": [
       "7 inch, 2026 North America maps",

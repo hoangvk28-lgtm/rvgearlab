@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EfYBvMkhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z9D35DS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z9D35DS?tag=rvgearlab-amz-20",
     "description": "The WolfWise 1-2 person pop-up weighs 2.8 lb and folds to 18.2 by 18.2 by 1.6 inches. It opens in about ten seconds, uses 190T silver-coated polyester blocking up to 98% of UV, and ships with four metal and four plastic stakes, four guy lines and sandbags.\n\nAgainst the Glymnis it lists a smaller carry size and a bigger anchoring kit, while the Glymnis offers a larger L option. Compared with the NARMAY it has a fuller spec sheet and a waterproof claim.\n\nIt suits couples who travel light and want something that opens in seconds. The complete windproof kit is good for breezy beaches.",
     "specs": [
       "2.8 lb, folds to 18.2 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fb90Ju7KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QV2NKVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QV2NKVF?tag=rvgearlab-amz-20",
     "description": "The Glymnis small size opens to 72.8 by 55.1 by 45.2 inches for 1 to 2 people, with 190T silver-coated polyester at UPF 50+. It uses 5 by 1.8 mm poles with four guy ropes and ten pegs, and a large mesh window for ventilation.\n\nIts open width is greater than the TOBTOS and NARMAY, and the same listing offers an L size for 3 to 4 people. It is the priciest tent here, paying for the extra flexibility.\n\nIt suits couples who want a bigger changing area and a size upgrade option. Choose the S size for two adults.",
     "specs": [
       "72.8 x 55.1 x 45.2 in open",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qO0SeGSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09S8WQGT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09S8WQGT7?tag=rvgearlab-amz-20",
     "description": "The TOBTOS opens to 63 by 49.6 by 50 inches with a 38.2 inch front porch, in 190T silver rubber polyester blocking up to 98% of UV. It has a door and three mesh windows, pops up in about one second and includes two sandbags on each side plus ropes and pegs.\n\nThe porch gives extra sitting space over the Glymnis in front of the tent, and the listing claims a 1 second pop-up. It sits at a similar price to the WolfWise.\n\nIt suits two adults with a child who want a porch for shoes and a bag. The four sandbags make it stable on soft sand.",
     "specs": [
       "63 x 49.6 x 50 in, 38.2 in porch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yHAqcphBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNPS34Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNPS34Y?tag=rvgearlab-amz-20",
     "description": "The Rhino Valley measures 82.7 by 63 by 55 inches with a semi-circular arch design, front and rear zippered doors and six windproof ropes, 12 stakes and four sandbags. It offers UPF 50+ protection.\n\nIts price is the lowest here, and it is the only tent with two doors, which gives a through-breeze. Compared with the pop-ups it needs poles inserted, so setup is slower.\n\nIt suits budget couples who want the most anchoring for the money. The arch adds headroom for sitting.",
     "specs": [
       "82.7 x 63 x 55 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516K8p+qMrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM2Y5NH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM2Y5NH?tag=rvgearlab-amz-20",
     "description": "The NARMAY is a silver-coated pop-up measuring 42 by 42 by 36 inches with a double-sided zipper front door that can extend as a floor. The back mesh window provides ventilation and the listing says it folds into a handbag.\n\nThis is the smallest tent here, which suits a single adult or a small couple. Compared with the WolfWise it sells for far less and lists fewer stake kit details.\n\nIt suits solo beachgoers who want a tiny privacy tent. The front door can double as a floor extension.",
     "specs": [
       "42 x 42 x 36 in",

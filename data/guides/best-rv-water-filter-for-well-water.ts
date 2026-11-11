@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vh-EmxwCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-amz-20",
     "description": "GoBluTech AR3 stacks a 0.2 micron high-flow filter, a charcoal and coconut shell carbon filter and a sediment filter that extends the life of the others, in compact 5 inch cartridges on a carbon fiber frame. The listing says the 0.2 micron stage reduces particulates commonly associated with well water and city water, and quotes 3 to 4 months per set.\n\nIt is the only pick that mentions well water by name, and it costs roughly twice the WLSINJL 5-Stage. The compact 5 inch cartridges are a trade for portability. It does not claim iron or sulfur removal.\n\nBest for buyers who want a named well-water use and a fine 0.2 micron stage. Expect to replace a set every 3 to 4 months.",
     "specs": [
       "0.2 micron high-flow filter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KPraZYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-amz-20",
     "description": "WLSINJL uses five stages with 0.01 micron filters and states that up to 3,000 gallons can be processed without clogging. It supports standard 1 inch and 3/4 inch connections and ships with one housing, three cartridges, a wrench and a detachable handle.\n\nIt sits below GoBluTech AR3 on well-water wording but costs about half as much and offers a bigger multi-stage layout. The 3,000 gallon figure is lower than a canister kit with large cartridges would typically give.\n\nBest for heavy sediment loads where you want a full sediment, carbon and fine stage. The listing does not name iron or sulfur removal.",
     "specs": [
       "5 stages, 0.01 micron",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gkmtp4oaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-amz-20",
     "description": "Drupany ships four hose filters using KDF and GAC, each rated for up to 1,350 gallons or three months, with two hose protectors. The listing says it helps reduce chlorine, taste, odors and sediment.\n\nIt costs far less than the system kits, but a sealed hose filter has little sediment capacity for a well. Compared with Stokk 2-Pack it gives more cartridges but no named standard.\n\nBest for light well use as a backup drinking filter. Do not expect it to handle heavy sediment.",
     "specs": [
       "KDF and GAC media",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HCqXu9R7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR7YC9R?tag=rvgearlab-amz-20",
     "description": "Stokk offers a 10 micron internal sediment filter with GAC and KDF, a 360 degree swivel hose protector and a wide body. The listing says it is independently tested to NSF/ANSI 42.\n\nThe 10 micron stage is finer than the 20 micron screens common in cheap hose filters, and it carries a named standard. It is still a taste filter rather than a well-water system.\n\nBest for a well with fairly clear water that needs a certified chlorine and taste hose filter. Move to a canister system if the water carries visible silt.",
     "specs": [
       "10 micron sediment filter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco's Tastepure 2-pack uses GAC and KDF, and the listing says they are independently tested and listed to NSF/ANSI 42 and 53 with CSA lead-free content certification. The listing gives no micron rating, so judge it on those certifications.\n\nIt is documented better than WELLUCK 2-Pack but gives no micron figure and no sediment capacity for a well. It is a good drinking hose filter, not a well-water solution.\n\nBest for a well that is already tested and clear. Pair with a canister if there is sediment.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TYkbVBy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPLMXGJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPLMXGJ6?tag=rvgearlab-amz-20",
     "description": "WELLUCK uses KDF and GAC with five layers of fine filtration, according to the listing, with a three-month life and connects to any standard faucet or garden hose. It is a simple hose-end design with no brackets or housings.\n\nIt is the cheapest option and has no named standard, sitting below Camco 2-Pack on documentation. It is a hose-end filter, so it will clog quickly on silty well water.\n\nBest for budget use on a well that is already clear. Check the water first.",
     "specs": [
       "KDF and GAC, five layers",

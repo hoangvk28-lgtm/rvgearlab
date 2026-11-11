@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311-6iZrB8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095FCY299?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095FCY299?tag=rvgearlab-amz-20",
     "description": "The Venture 75 lists 19200mAh with a 60W USB-C Power Delivery port that refills the bank in 1.5 hours, plus two 15W USB-A outputs. It carries an IP67 rating with a protective sleeve and waterproof port plug, and a 50 lumen flashlight.\n\nIt is the only pick in this list with a 60W USB-C port, ahead of the 20W BLAVOR and the 22.5W banks. Against the aswayke it trades light output for a stronger USB-C port and a 1.5 hour refill.\n\nIt suits a camper who wants one bank for a phone, a tablet and an occasional small laptop in wet weather. The IP67 rating covers rain, snow and dust.",
     "specs": [
       "19200mAh, 60W USB-C PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r3aN9O+5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX35TL2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX35TL2X?tag=rvgearlab-amz-20",
     "description": "The aswayke lists 20000mAh with fast-charging USB-C PD, an IP68 rating that survives 1.5 meters of water for 30 minutes, and a pre-attached 420 lumen LED light. A digital display shows percentage and input and output current.\n\nIt carries a brighter light than the Goal Zero and a higher ingress rating. Next to the BLAVOR, it offers more capacity and a real lantern.\n\nIt suits a tent camper who wants light and phone power in one rugged case. The 3.2mm ABS and PC shell adds drop protection.",
     "specs": [
       "20000mAh, IP68 waterproof",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xl0qZKy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-amz-20",
     "description": "The YELOMIN lists 38800mAh with 22.5W USB-C fast charging, four built-in cables, a USB-C in/out port and a USB-A output for up to six devices. It adds solar recharging, dual LED flashlights with SOS and an IP65 rating.\n\nIt carries more capacity than the aswayke or Goal Zero and brings its cables with it, where the Goal Zero relies on your own. The solar recharge is slow, so treat it as a top-up.\n\nIt suits a family car camper who wants a cable-free kit that can drift between wall and sun. Two flashlights with SOS and strobe modes cover night errands.",
     "specs": [
       "38800mAh, 22.5W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315BXQxwp4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZK8SR35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZK8SR35?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists a 15000mAh LiFePO4 cell with 3500 plus charge cycles, dual USB-C ports at 20W and an IP67 rating. A USB-C cable is built into the lanyard, and the cylindrical body measures 17.7 x 5.2 x 4.1 cm.\n\nIt uses a longer-life cell chemistry than the lithium-ion banks, and it is lighter and smaller than the aswayke. Against the Goal Zero, it gives up wattage and a flashlight for a much lower cost.\n\nIt suits a backpacker who wants a rugged, one-handed bank that lasts for years. The lanyard cable doubles as a carry strap.",
     "specs": [
       "15000mAh LiFePO4, 3500 cycles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nkmLzgnOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQZKGGQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQZKGGQH?tag=rvgearlab-amz-20",
     "description": "The MaiVoz lists 56800mAh with 22.5W PD fast charging, one two-way USB-C port and two USB-A outputs for three devices at once. An LED display shows remaining power.\n\nIt carries about three times the cell of the aswayke at a lower price. The list of supported phones is long, and it adds a multi-layer safety system.\n\nIt suits a basecamp or a long weekend where you charge phones for several people. It stays in the tent or the car.",
     "specs": [
       "56800mAh, 22.5W PD",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gvLlBewTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H149YDN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H149YDN3?tag=rvgearlab-amz-20",
     "description": "The JKELAR lists 50000mAh with 22.5W fast charging, built-in USB-C and iOS cables plus an extra USB-C port, a flashlight and an LED display. It adds a 3-year replacement plan.\n\nIt is the least expensive of the six and matches the MaiVoz on 22.5W while adding built-in cables. Against the YELOMIN, it skips solar and weatherproofing for a lower price.\n\nIt suits a budget camper who wants lots of phone charges and its own cables. The flashlight and display come standard.",
     "specs": [
       "50000mAh, 22.5W",

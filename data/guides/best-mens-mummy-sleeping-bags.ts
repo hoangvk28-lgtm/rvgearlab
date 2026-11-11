@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman's North Rim is a 0F-rated mummy cut for big and tall men who stand up to 6 ft 2 in. Hollow Coletherm polyester provides the loft, while a Thermolock tube behind the zipper and an adjustable hood seal the drafts.\n\nIts 0F label is the lowest of the five, and it costs far less than the NEMO Forte for men. The snug mummy cut holds heat close to the body, which suits cold nights more than the wider SYWSKW Large.\n\nA great fit for men who camp in real cold and want a brand-name bag at a fair price. Pair it with a warm pad.",
     "specs": [
       "0°F rated mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PS38242lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3WTSG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3WTSG1?tag=rvgearlab-amz-20",
     "description": "NEMO's Forte is sold as a men's 35F regular wide synthetic bag, with a spoon cut that gives the elbows and knees extra space. Zerofiber 800 insulation is made from post-consumer recycled content, and Thermo Gill vents stretch the comfort range.\n\nIt is the only men's-labelled bag in the group, and the Blanket Fold collar blocks drafts or releases heat. Against the Coleman North Rim 0F it is a milder three-season bag with a better cut.\n\nBest for men who side sleep or want a premium mummy for spring through fall. The recycled insulation suits buyers who care about materials.",
     "specs": [
       "Men's 35F regular wide",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eSyQ9NVuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP1V5T9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP1V5T9H?tag=rvgearlab-amz-20",
     "description": "Kelty's Cosmic Synthetic is a 40F two-season mummy with Cirroloft insulation and a natural-fit footbox. The regular size fits sleepers to 6 ft, holds 24 oz of fill and comes in at 2 lb 6 oz overall, with lengths from 5 ft 8 in up to 6 ft 6 in.\n\nIt is lighter than the Coleman North Rim 0F and carries an integrated compression sack and an exterior stash pocket. The listing here is the Long size, a fit for taller men.\n\nA good match for men who hike in spring through fall and want a synthetic bag that stays warm when damp. It packs to about 15 x 8 inches uncompressed.",
     "specs": [
       "40F two-season mummy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "OneTigris builds this mummy for 46 to 59F, using a 300T pongee outer, 190T lining and 7 oz of polycotton fill in a 6.8 by 2.7 foot cut. The zippers are YKK and resist snagging, and the hood closes with a cord stop.\n\nIt is the sturdiest shell of the five and costs about half what the Kelty Cosmic Synthetic 40F does. The polycotton fill is heavier than synthetic, so it suits car camping and bushcraft.\n\nGood for men who want a rugged bag for spring through fall. Zippers that resist snagging help in the dark.",
     "specs": [
       "Mummy, 46F to 59F rated",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "SYWSKW uses 680 fill power RDS-certified duck down in a mummy-envelope body with a widened 33.5 inch shoulder. A detachable 80 g pillow and reflective drawcords come with it.\n\nIt is the widest-shouldered bag here and the only down one, which beats the narrow cut of the Coleman North Rim 0F for broad men. It packs far smaller than the synthetic bags.\n\nBest for men with broad shoulders who backpack and want down's small pack size. Choose the fill weight for your nights.",
     "specs": [
       "680 fill RDS duck down",

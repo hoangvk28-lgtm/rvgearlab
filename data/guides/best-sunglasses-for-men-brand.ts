@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eVFCTyJLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TLVFPZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TLVFPZ1?tag=rvgearlab-amz-20",
     "description": "The Versace Rectangle is a full-rim men's frame in black with dark grey lenses in a 56 mm size. The listing gives 56, 19 and 140 mm for lens width, bridge and temple, and calls the rectangle shape a good match for oval and round faces.\n\nAmong the three designer frames, it is the one with a sleek black-on-grey look and the most face-shape guidance. Compared with the Armani Exchange pairs, it carries the more premium name, and the lens is listed as not polarized.\n\nIt is the right pick for men who want a classic designer rectangle for city wear and casual trips. The size numbers make fit checking easy.",
     "specs": [
       "Full-rim rectangle, 56 mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21lwjOJIiuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GKQKW7W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GKQKW7W?tag=rvgearlab-amz-20",
     "description": "The Armani Exchange Square Mirror is a full-rim men's frame in matte black with black mirror lenses in a 57 mm size. The listing gives 57, 19 and 145 mm for lens, bridge and temple, and describes the square shape as suited to oval and round faces.\n\nA matte finish and mirror coat give a more modern look than the Versace Rectangle. Its 57 mm lens is a little wider than the Versace, and its 145 mm temples suit larger heads.\n\nIt suits men who want a designer mirror lens for driving, beaches and travel. A larger size works for broader faces.",
     "specs": [
       "Full-rim square, 57 mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21eRfaWKTNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GQPJK2P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GQPJK2P?tag=rvgearlab-amz-20",
     "description": "The Armani Exchange AX4113S is a men's rectangular frame in matte black with dark grey lenses and a 55 mm size. The listing calls it suitable for everyday wear and outdoor activities.\n\nIt is the most compact of the three designer frames, with a 55 mm lens next to the Versace's 56 mm and the Square Mirror's 57 mm. Compared with the Armani Exchange Square Mirror, it uses a plain dark grey lens instead of a mirror.\n\nIt suits men with smaller to average faces who want a discreet designer frame. The matte finish handles daily wear.",
     "specs": [
       "Rectangular frame, 55 mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iVlLdMdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWTW5DX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWTW5DX2?tag=rvgearlab-amz-20",
     "description": "The KALIYADI Rectangle 3-Pack has HD polarized lenses with UV400 protection and a classic rectangular frame. Adjustable metal spring hinges, an integrated nose pad and anti-scratch lenses are named, and each pair comes with a pouch and cloth.\n\nCompared with the Versace Rectangle, it gives the same shape in a polarized lens and three pairs for far less. Against the Fanshen Square 3-Pack, it uses a rectangular frame with metal spring hinges.\n\nIt suits men who want the rectangle look with polarization for driving, golf and hiking. Spare pairs live in the car and the pack.",
     "specs": [
       "HD polarized, UV400",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315GH7LHHUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R5DZKY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R5DZKY9?tag=rvgearlab-amz-20",
     "description": "The Luenx Square Aviator is a polarized UV400 pair in a square aviator style made for larger men's faces. A striped, thickened frame, one-piece plastic temples and adjustable silicone nose pads are all named on the listing.\n\nOne-piece temples avoid the screw failures of assembled temples, an angle that none of the designer listings address. Next to the Armani Exchange Square Mirror, it adds polarization and silicone nose pads.\n\nIt works for men who want an aviator look for driving and outdoor use. The listing mentions elegant accessories.",
     "specs": [
       "Polarized UV400 lenses",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41101rcfSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNX3YNGZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNX3YNGZ?tag=rvgearlab-amz-20",
     "description": "The Fanshen Square 3-Pack is a set of three square polarized sunglasses with TAC lenses, a lightweight plastic frame, soft nose pads and flexible spring hinges. A soft pouch is included, and the listing names driving, fishing, golf, hiking and beach use.\n\nIt costs less than every pair here, and gives three pairs to the Versace's one. Compared with the KALIYADI Rectangle 3-Pack, it uses a sportier full-frame square cut.\n\nIt is a smart buy for men who want spares for the car, boat and backpack. The shared pouch design keeps them protected.",
     "specs": [
       "Polarized TAC, square frame",

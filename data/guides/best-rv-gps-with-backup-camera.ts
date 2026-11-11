@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qUUYG5oTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS4V8PTC?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch touchscreen navigator built around custom routing for the size and weight of your RV or trailer. It adds a preloaded RV park directory, BirdsEye satellite imagery and warnings for steep grades, sharp curves and weight limits.\n\nNext to the camera monitors below, it is the one that puts route quality first. The screen is smaller than the 10 inch camera units, which keeps the dash tidy and leaves room for a separate camera display.\n\nPick it when the navigation is the job and the rear view is handled by a camera you already own. It suits drivers who want trusted RV-specific map content and a screen that stays out of the way.",
     "specs": [
       "7 inch RV navigator",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fqKSPpwAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LL8X1LH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LL8X1LH?tag=rvgearlab-amz-20",
     "description": "The Truckeela is a 10.33 inch touchscreen monitor that combines GPS, a six-channel 1080P camera system and a built-in DVR with a 128GB card included. It lists wireless CarPlay and Android Auto, plus IP69 cameras rated for 59 to 176 degrees F.\n\nIt sits above the RVeligacy on the strength of its more complete package, while both share the same six-view layout. Against the VSSTECH, it leans on recording and phone mirroring rather than AI alerts.\n\nThis is a good fit for large rigs with long blind sides, where you want rear, side and front views on one screen. It works well for owners who also want trip recording from a single install.",
     "specs": [
       "10.33 inch six-channel monitor",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r8IAZKluL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGG3XPKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGG3XPKL?tag=rvgearlab-amz-20",
     "description": "The VSSTECH is a six-channel, 10.1 inch touchscreen system with four 1080P cameras and AI blind-spot pedestrian detection on front, rear, left and right channels. It also lists Sentry Mode push alerts, WiFi live view on phones and live GPS tracking recorded with the footage.\n\nWhere the Truckeela and RVeligacy lean on a plain multi-view display, this one adds alert logic and remote viewing. That makes it the most security-minded camera monitor in this group.\n\nIt is best for owners who park in busy lots or campgrounds and want phone alerts when someone approaches the rig. Drivers who value pedestrian warnings in tight lots will also appreciate it.",
     "specs": [
       "10.1 inch six-channel monitor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512kb7u81AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL35S53M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL35S53M?tag=rvgearlab-amz-20",
     "description": "The RVeligacy pairs a 10.36 inch touchscreen with a six-channel 1080P camera system, built-in DVR and 128GB of storage. Its listing names RV, trailer, Class A, bus and fifth wheel use, and mentions CarPlay.\n\nIt shares its feature set with the Truckeela but costs less, which is its main edge in this list. The VSSTECH has smarter alerts, while this one keeps the layout simple.\n\nChoose it when you want the large six-view screen and DVR without paying the top camera-monitor price. It is a sensible middle step for owners of one big rig.",
     "specs": [
       "10.36 inch touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515X+U2ZF8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1J56R5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1J56R5P?tag=rvgearlab-amz-20",
     "description": "The Pelsee S12 is a mirror-style dash cam with a true 4K front camera and a 2.5K rear camera with IP67 protection. It adds Wi-Fi 6 video transfer, OTA upgrades, f/1.5 night imaging and a 64GB card.\n\nIt is the lowest-cost route to a full-time rear view in this list. Unlike the larger monitors, it replaces the rearview mirror rather than adding a dashboard screen.\n\nPick it for a tow vehicle or small rig where a clean rear view and recording matter more than a six-view layout. It suits drivers who already use a separate navigator.",
     "specs": [
       "4K front, 2.5K rear",

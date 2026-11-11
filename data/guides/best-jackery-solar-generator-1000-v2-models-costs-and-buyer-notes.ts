@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC",
     amazonQuery: "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
     amazonQuery: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
-    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
     amazonQuery: "Jackery Solar Generator 1000 Plus v2 200W Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0HF4JKGMC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0HF4JKGMC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31FECM5Xx+L._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Included panel: 200W"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Included panel","value":"200W"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Solar Generator 1000 v2 and 100W Solar Panel,1070Wh,1500W AC",
     amazonQuery: "Jackery Solar Generator 1000 v2 and 100W Solar Panel,1070Wh,1500W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0F6YN3XJ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F6YN3XJ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41uRYFJL8OL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Solar Generator 300 and 40W Solar Panel,292Wh,300W AC",
     amazonQuery: "Jackery Solar Generator 300 and 40W Solar Panel,292Wh,300W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Solar Generator 1000 v2 and 200W Solar Panel,1070Wh,1500W AC product page",
-    "href": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

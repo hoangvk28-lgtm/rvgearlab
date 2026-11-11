@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNVAuvpkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BZ6BWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BZ6BWL?tag=rvgearlab-amz-20",
     "description": "The Golabs FP1 is a 19.5 inch stainless steel smokeless pit weighing 13.3 lbs with a double-wall design the listing says increases airflow circulation by 300%. It uses 304 stainless steel with a ceramic coating and includes a removable ash pan.\n\nIt is the most complete kit in the group, with three pokers, an ash pan and a carry bag, plus fuel flexibility with wood, charcoal or pellets. Compared with the OutVue, it adds the ash pan and tools that make cleanup easier.\n\nIt fits campers and backyard owners who want a stainless build that handles repeated use. The 19.5 inch size suits small groups.",
     "specs": [
       "19.5 inch 304 stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FMhExRBKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-amz-20",
     "description": "The Ridge measures 15.76 inches wide by 12.49 inches high and uses Infused Airflow Technology to recirculate air into the burn chamber. It burns firewood, pellets or both, and the listing says it can exceed 1,400F.\n\nIt ships with a carry bag, spark screen and a screen lift, which the HGD does not offer. It is smaller than the Golabs and OutVue, so it packs more easily.\n\nIt suits beach trips, tailgates and camping where space is tight. The powder-coated heavy steel body holds up to regular outdoor use.",
     "specs": [
       "15.76 x 12.49 inch steel pit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DOYbe3fNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF8SC1GR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF8SC1GR?tag=rvgearlab-amz-20",
     "description": "The OutVue is a 19.5 inch stainless steel smokeless pit with an internal airflow system and a tote bag. It assembles in seconds without tools and burns wood or pellets.\n\nCompared with the Golabs, it skips the ash pan and extra pokers and sets up with no hardware. It sits above the Ridge in size and below the Golabs in extras.\n\nChoose it for campers who want a stainless pit and the fastest possible setup. Teardown is just as quick for packing.",
     "specs": [
       "19.5 inch stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pF7WOr7nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZGZQ2QH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZGZQ2QH?tag=rvgearlab-amz-20",
     "description": "This foldable stainless steel pit packs down flat in seconds and ships with a carry bag, so it fits in a car trunk, RV or small space. An advanced airflow design is listed for a more complete, lower-smoke burn.\n\nIt is the only pit in this group that collapses flat, which beats the rigid Golabs, OutVue and Ridge for storage. It also costs less than all three.\n\nIt suits RV travelers and small-space campers who need a smokeless pit that stores flat. Setup is simply unfolding it.",
     "specs": [
       "Folds flat, stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A7a6mU-nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8VP3YNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8VP3YNX?tag=rvgearlab-amz-20",
     "description": "The HGD is a mini tabletop smokeless pit made from stainless steel with a double-wall design and strategic vent holes for airflow. It burns wood or pellets, has a removable ash grate and includes a carry bag.\n\nIt is by far the smallest and cheapest pit here, aimed at s'mores rather than heating. It sits on a table, patio or camp surface, unlike the larger floor pits.\n\nIt fits solo campers, couples and small patios where the goal is a few marshmallows and a cozy flame. The carry bag keeps soot off the rest of your gear.",
     "specs": [
       "Mini tabletop, stainless steel",

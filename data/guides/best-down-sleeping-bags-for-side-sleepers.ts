@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUpv2w2cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3WF7SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3WF7SJ?tag=rvgearlab-amz-20",
     "description": "NEMO's Disco 15 is a men's regular wide bag with 650 fill power down that the listing calls hydrophobic, PFAS-free and RDS-certified. A spoon-shaped cut gives elbows and knees more room, and Thermo Gill vents plus a Blanket Fold draft collar help manage temperature.\n\nThe spoon shape is the clearest design answer to side sleeping in this group, since it widens the bag where a bent leg needs it. The Green Elephant 20 and Naturehike Hybrid use different shapes to solve the same problem.\n\nIt suits side sleepers who want a purpose-built shape and are happy to pay for it. The vents also let it stretch across a wider range of nights.",
     "specs": [
       "650 fill RDS down, spoon shape",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Z9f+j7jXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWNC7G5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWNC7G5Y?tag=rvgearlab-amz-20",
     "description": "Green Elephant prints a 20F comfort and 7F limit rating tested by SGS to ISO 23537-1:2022. The semi-rectangular cut is 29.5 inches wide, and the listing says it suits side sleepers. It holds 600 g of 700 fill power RDS-certified 90/10 duck down in box baffles.\n\nIt offers the only independently tested ISO rating in this group, plus a YKK two-way zipper, zipper garage, insulated draft tube and ThermalSeal collar. Against the NEMO Disco 15 it costs much less and shows its comfort numbers.\n\nA strong fit for side sleepers who camp in cold weather and want a number backed by a lab. The compression sack and mesh storage bag are included.",
     "specs": [
       "20F comfort, 7F limit, ISO 23537",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iGf3a81UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRR7SNCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRR7SNCB?tag=rvgearlab-amz-20",
     "description": "Naturehike pairs a snug mummy top with a straight, rectangular bottom in this 650 fill power duck down bag, so the head stays warm while the feet and knees can move. It weighs about 2 lb, packs to 13.8 x 7.1 inches and prints a 40.4F comfort rating.\n\nThe hybrid shape is a milder answer to side sleeping than the NEMO Disco 15 spoon, and the bag is a much lighter carry than the Green Elephant 20F Down. It costs less than both and uses a 20D ripstop nylon shell with YKK zippers.\n\nBest for side sleepers who backpack in mild weather and want to save weight. It is not a deep-cold bag.",
     "specs": [
       "650FP duck down, about 2 lb",

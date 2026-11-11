@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-Ti3gPxFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJL6P5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJL6P5Y?tag=rvgearlab-amz-20",
     "description": "The BELTTT lists 3000W continuous and 6000W peak as pure sine wave, with dual AC sockets, a 20A outlet, a hardwire port and a 5V 2.1A USB port. An LCD and a 23 ft remote are included.\n\nCompared with the Yinleader it adds the hardwire port that a fixed RV install uses. Against the 1000W units it carries the loads of a microwave or air fryer, which they cannot.\n\nIt suits larger rigs with a lithium or multi-battery bank. The remote lets the inverter sit near the batteries while the switch stays by the door.",
     "specs": [
       "3000W continuous, 6000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oaHnMDj4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4GT891V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4GT891V?tag=rvgearlab-amz-20",
     "description": "The Yinleader delivers 3000W continuous and 6000W peak through three AC outlets and one USB port. Dual LCD screens on the unit and its 16.5 ft remote give two views, and battery chemistry support spans lead-acid, gel and lithium.\n\nIt matches the BELTTT on watts and adds a third outlet in place of the named hardwire port. It also costs less than the BELTTT.\n\nIt suits RV owners with plug-in appliances who want three outlets without wiring into the panel. The listing says installation is straightforward.",
     "specs": [
       "3000W continuous, 6000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1000W provides 1000W continuous and 2000W peak as pure sine wave with dual AC sockets, a USB port and an LCD. It ships with thicker 3 ft cables and an installation tool.\n\nIt is the pure sine option for lighter rigs, between the 3000W units and the 500W JARXIOKE. Compared with the OYPSX it adds an included cable set and thicker cables.\n\nIt suits small trailers and camper vans running a laptop, lights and a fan. Overload and reverse connection protection are named.",
     "specs": [
       "1000W pure sine, 2000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OQ1-AwpCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXRC2J74?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXRC2J74?tag=rvgearlab-amz-20",
     "description": "The OYPSX is a 1000W pure sine inverter built for RV and truck camping, with a 5 m wired controller and LCD readouts of voltage, power and fault codes. Protections include reverse polarity and leakage.\n\nIt is the 1000W pick with a remote, which the BELTTT 1000W lacks. Compared with the JARXIOKE it doubles the output.\n\nIt suits campers who mount the inverter in a bay and control it from inside. The listing advises matching the battery voltage to the inverter input.",
     "specs": [
       "1000W pure sine",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gihZSdDdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C33JVCBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C33JVCBY?tag=rvgearlab-amz-20",
     "description": "The JARXIOKE provides 500W continuous and 1000W peak as pure sine wave through two AC outlets and a Type-C port. It lists over 90 percent efficiency, soft-start and isolated input and output.\n\nIt carries the smallest output of the five at the lowest price. Compared with the 1000W units it handles a laptop and lights, with a cigarette-socket mode for loads under 150W.\n\nIt suits tent-trailer and weekend RV owners with light loads. A 24 month warranty is listed.",
     "specs": [
       "500W pure sine, 1000W peak",

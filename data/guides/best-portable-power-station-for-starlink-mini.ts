@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "288Wh 90000mAh Battery Pack Power Station",
     amazonQuery: "288Wh 90000mAh Battery Pack Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYMW1YQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYMW1YQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31inM7jhApL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 100W","Runtime claim: Up to 8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"100W"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "CEEOUTSY Starlink Mini Battery Pack 99Wh 27600mAh",
     amazonQuery: "CEEOUTSY Starlink Mini Battery Pack 99Wh 27600mAh",
-    amazonUrl: "https://www.amazon.com/dp/B0H1WZ9LTY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0H1WZ9LTY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31tdCZ9aEQL._SL500_.jpg",
     specs: ["Capacity: 99Wh","Continuous output: 65W","Runtime claim: Up to 5 hours","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"99Wh"},{"label":"Continuous output","value":"65W"},{"label":"Runtime claim","value":"Up to 5 hours"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ROVEDGE MK-1 Portable Power Station",
     amazonQuery: "ROVEDGE MK-1 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0H7J8XTX7?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0H7J8XTX7?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31OBGdKWZnL._SL500_.jpg",
     specs: ["Capacity: 189Wh","Runtime claim: Up to 8 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"189Wh"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "StarGrid All-in-One Kit",
     amazonQuery: "StarGrid All-in-One Kit",
-    amazonUrl: "https://www.amazon.com/dp/B0GLYF1K2K?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GLYF1K2K?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31kpfBTL0NL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 100W","Runtime claim: Up to 8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"100W"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "288Wh 90000mAh Battery Pack Power Station product page",
-    "href": "https://www.amazon.com/dp/B0GLYMW1YQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GLYMW1YQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

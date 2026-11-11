@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51v8xQPtykL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3HNGLD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3HNGLD6?tag=rvgearlab-amz-20",
     "description": "The Giosolar kit packs two 120W rigid monocrystalline panels, a 20A MPPT controller, a 1000W pure sine wave inverter and a 100Ah 12.8V LiFePO4 battery rated 1280Wh. It is the only pick here that is a genuinely full system with enough battery to run AC loads in the evening.\n\nAt $599 it costs $169.01 more than the ECO-WORTHY and doubles the battery to 1280Wh versus roughly 640Wh. Its 240W array refills about 1,200Wh at 5 sun hours before losses. Pick this for a weekend camper with a laptop and fan; the caveat is that 1000W will not start a roof AC.",
     "specs": [
       "240W array, 20A MPPT",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UZa6C13CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MQGHWSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MQGHWSZ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 200W starter kit integrates a 600W pure sine wave inverter and a 30A charger in one unit, with a 12V 50Ah LiFePO4 battery that includes an XT60 port. That integration keeps the wiring simple for first-time installers.\n\nAt $429.99 it is $169.01 below the Giosolar and $36.99 above the OVCRSZSGY. The 50Ah battery is about 640Wh, so it covers phones and lights but not long AC use. Pick this if you want the cleanest install; the caveat is that 640Wh runs out quickly if you plug in anything above 100W.",
     "specs": [
       "200W panels, 600W inverter",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51h4BK0aG0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WV3PGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WV3PGL?tag=rvgearlab-amz-20",
     "description": "The OVCRSZSGY kit has a 100W foldable monocrystalline panel, a 50A controller and a pure sine inverter listed at 1500W rated with a very large peak claim. The title says 10000W, which should be read against the 1500W rated figure, because rated power is what runs continuously.\n\nAt $393 it is the cheapest kit here, $36.99 below the ECO-WORTHY 600W, but no battery is clearly listed and the panel is only 100W. Pick this if you already own a battery and want a bigger inverter; the caveat is that 100W of solar will take days to refill heavy AC use.",
     "specs": [
       "100W foldable panel",

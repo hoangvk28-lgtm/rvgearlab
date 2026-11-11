@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o7y8nYJBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XP8RBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XP8RBD?tag=rvgearlab-amz-20",
     "description": "The INIU Outdoor Rugged bank has 10,000mAh, 45W output and an IP67 rating, with a 6.9 oz body that measures 3.6 by 2.3 by 1.1 inches. It has a built-in 1/4 inch thread for tripods and bike mounts, and lists 63 percent for an iPhone 17 Pro in 30 minutes.\n\nIt is the only 45W bank here with IP67 protection, which beats the plain-cased Anker Nano and the 20K models. It costs more than the Anker Nano.\n\nIt suits hikers, cyclists and photographers who need a bank that survives rain and dust. The thread lets it ride on a mount.",
     "specs": [
       "10,000mAh, 45W, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HplclDEnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGKWTQQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGKWTQQC?tag=rvgearlab-amz-20",
     "description": "The Anker Nano holds 10,000mAh with 45W max output, a smart display and a pull-out built-in retractable cable rated for over 20,000 bends. It measures 3.21 by 1.99 by 1.42 inches, weighs 8.2 oz and supports pass-through charging with 30W input.\n\nIt costs about the same as the INIU Rugged and lacks its IP67 rating. It has a retractable cable and a display, and it is shorter than the INIU.\n\nIt suits travelers who want an all-in-one pack with a display and cable. It is 16 percent smaller than the standard model it replaces.",
     "specs": [
       "10,000mAh, 45W, pass-through",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I0Ym5iexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM2X9H9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM2X9H9H?tag=rvgearlab-amz-20",
     "description": "The Anker Zolo 20K lists 20,000mAh with 45W output on the built-in USB-C port or cable, a 5.98 inch built-in cable rated for 10,000 plus bends and ActiveShield 2.0 temperature control. It says up to 3.3 charges for an iPhone 17 Pro and 3 for a Galaxy S25 Ultra.\n\nIt doubles the INIU Rugged's capacity at a lower price and with a built-in cable. It lacks the IP67 case and runs larger.\n\nIt suits campers who want 45W with plenty of capacity and temperature management. Samsung 45W charging is listed.",
     "specs": [
       "20,000mAh, 45W on cable and port",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JTnHOAUeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPVDYQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPVDYQ9?tag=rvgearlab-amz-20",
     "description": "The UGREEN Nexode lists 20,000mAh and 45W with a built-in braided USB-C cable that supports both charge and recharge, one USB-C port and one USB-A port. It can power three devices together and lists up to 3.7 charges for an iPhone 16 Pro.\n\nIt adds a USB-A port that the Anker Zolo lacks, and it costs less than the Anker. It is the better pick for sharing between devices.\n\nIt suits campers who share a bank between a phone, a tablet and earbuds. The braided cable is high strength.",
     "specs": [
       "20,000mAh, 45W, 3 outputs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iu2d3yjEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD6T9LJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD6T9LJK?tag=rvgearlab-amz-20",
     "description": "The Kuulaa lists 20,000mAh with PD3.0, PPS 45W and QC4+ support, a built-in USB-C cable tested for over 10,000 cycles and a USB-A port. It measures 11.4 by 7.2 by 3.0 cm, weighs 345g and lists about 3.4 charges for an iPhone 16.\n\nIts price is the lowest of the six, and it keeps the 20K capacity of the Anker and UGREEN. The body is a slim 345g.\n\nIt suits budget shoppers who want 20K at 45W for little money. The PPS support helps with Samsung fast charging.",
     "specs": [
       "20,000mAh, PD3.0, PPS 45W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G2SC7GwhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW45F3ZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW45F3ZJ?tag=rvgearlab-amz-20",
     "description": "The INIU 10000mAh 45W bank uses TinyCell technology to be 40 percent smaller and lighter, with 45W output and a detachable 0.4 ft braided USB-C cable. It lists an iPhone 17 Pro Max at 76 percent and a Galaxy S25 Ultra at 84 percent in 30 minutes.\n\nIt is the second cheapest pick and the smallest of the 45W banks. Against the Anker Nano, it swaps the retractable cable for a detachable one and costs far less.\n\nIt suits travelers who want fast charging in a tiny pack. The listing says it is TSA compliant and flight safe.",
     "specs": [
       "10,000mAh, 45W, TinyCell",

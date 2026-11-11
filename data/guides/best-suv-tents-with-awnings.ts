@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDKnEHY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 5-9 person SUV tent with a 14.1 ft by 9.2 ft floor and an extra camping awning for dining or storing gear. It has a PU3000 coating, UPF 50+ protection and drainage mesh with large windows.\n\nIts awning is separate from the sleeping area, which keeps meals and beds apart. Next to the TIMBER RIDGE it has the higher coating, and next to the Napier it is a full tent rather than a hatch shade.\n\nIt suits families who want shade, sleep space and a sun rating in one package. It also stands alone when the vehicle leaves.",
     "specs": [
       "Extra camping awning",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41npgroHzZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE pairs a screened porch and awning, listed at 6 by 8 ft, with a 13 by 10 ft tent that is 87 inches tall in the middle. The shell is PU2000 polyester with two doors and windows.\n\nIt is the only pick that gives the porch dimensions, so you can plan chairs and a cooler. Against the WildFinder it is taller inside, and against the Napier it adds sleeping room.\n\nIt suits groups of four or five who want a bug-free porch to store shoes, coolers and chairs. It works with SUVs, CUVs, minivans and trucks.",
     "specs": [
       "Screened porch and awning",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ev0ZNFSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MUEGMLR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MUEGMLR?tag=rvgearlab-amz-20",
     "description": "The Napier Sportz Cove is a tailgate shelter that doubles the shade over the hatch, with an awning that extends for sun and rain cover. It sets up with one pole, comes in two sizes for small to large SUVs and is listed with a five minute setup.\n\nIt is the least costly and the simplest here, and it is an awning shelter rather than a sleeping tent. Compared with the WildFinder and TIMBER RIDGE it gives no room divider or floor, while it packs far smaller.\n\nIt suits tailgating, road trips and day stops where shade and privacy at the hatch are enough. Choose the size option that matches your vehicle.",
     "specs": [
       "One-pole setup, five minutes",

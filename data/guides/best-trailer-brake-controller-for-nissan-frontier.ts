@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s2da8rU6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QF3MQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QF3MQL?tag=rvgearlab-amz-20",
     "description": "The Tekonsha 305000 is a custom harness with a vehicle end and a brake-control end, and its listing names Nissan Frontier for 2005 through 2025, along with Armada, Infiniti QX80 and several NV vans. It excludes the Titan XD and asks you to verify fitment before ordering.\n\nIt earns the top spot because it states the widest Frontier year range of any harness here and comes from the same brand as the Tekonsha controllers it plugs into. Against the Tekonsha 3050 below it, the 305000 lists newer model years, while the 3050 listing shows less clearly which Frontier years it covers.\n\nBest for a Frontier owner who plans to pair it with a Tekonsha controller and wants a plug-and-play install with no cutting or splicing. It is a harness only, so a controller is a separate purchase, and you should still confirm your exact year and port style.",
     "specs": [
       "Frontier 2005 to 2025 listed",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315WsgAUcyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008KZ0FVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008KZ0FVQ?tag=rvgearlab-amz-20",
     "description": "The Tekonsha 3050 is the older numbered Tekonsha harness, and its listing names Nissan Armada, Frontier, Pathfinder, Titan and Xterra. It uses four copper wires under a braided mesh sleeve for a factory-installed look.\n\nCompared with the Tekonsha 305000 above, the 3050 reads as a broader multi-model listing but gives a less clearly stated Frontier year range, which is why it sits second. The shared design means either one plugs into any Tekonsha controller regardless of activation type.\n\nChoose it if your Frontier years line up with what the full listing shows and you like the Tekonsha pairing. The caveat is that you should read the complete fitment table before buying, because the Frontier years are less obvious than on the 305000.",
     "specs": [
       "Frontier, Armada, Titan, Xterra",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31P5Uj79S3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YJ6GVNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YJ6GVNF?tag=rvgearlab-amz-20",
     "description": "The REDARC TPH-014 is the Tow-Pro harness whose title says compatible with Infiniti and Nissan. The listing gives only the part number and brand, with no model-year table, so it is a harness you verify against REDARC's own fitment guidance.\n\nIt slots below the two Tekonsha harnesses because their listings spell out Frontier years and this one does not. Its advantage is brand match: if you buy a REDARC Tow-Pro controller, this is the harness named for that family.\n\nBest for a Frontier owner already committed to a REDARC controller. The honest caveat is the thin listing, so confirm the Frontier year and connector before you order.",
     "specs": [
       "REDARC Tow-Pro harness",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ePeyvQ4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWR3PVNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWR3PVNQ?tag=rvgearlab-amz-20",
     "description": "The Fozipamy TPH-014 is a third-party harness built to replace the REDARC part number, and its listing gives Frontier as 2005 to now, plus Armada, Titan, Pathfinder, NV vans and Xterra. It adds Honda Pilot and Infiniti QX56, QX60 and QX80 as well.\n\nAgainst the REDARC TPH-014 above, it publishes the year range the REDARC listing leaves out, and it says it is compatible with REDARC Tow-Pro Liberty and Elite. The tradeoff is that it is a replacement part rather than the original brand.\n\nGood for a Frontier owner who wants clear year coverage for a REDARC-style install without paying for the brand. Treat it as a clone, check the connector style, and keep your receipt in case the fit is off.",
     "specs": [
       "Frontier 2005 to now",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wq6sUqhIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7VVLRQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7VVLRQD?tag=rvgearlab-amz-20",
     "description": "The Shulgf TPH-014 is another third-party replacement for the TPH-014 harness, listing Nissan Titan, Frontier, Pathfinder, NV1500, NV2500, NV3500 and Xterra, plus Honda Pilot and Infiniti models. It is built with copper core wiring and insulated outer material.\n\nNext to the Fozipamy TPH-014, the Shulgf listing names models but gives no model-year range for the Frontier, and it openly asks you to confirm your vehicle model and connector style. That makes it the less specific of the two for a Frontier owner.\n\nFits a household with a Frontier and a Honda Pilot or Infiniti who wants one harness style across vehicles. The caveat is the missing year range, so match it to your truck before you buy.",
     "specs": [
       "Replaces TPH-014",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KtsREO23L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHMXFT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHMXFT2?tag=rvgearlab-amz-20",
     "description": "The Nilight adapter has a standard 4-pin brake plug that its listing says fits Draw-Tite Activator I, II and III and Tekonsha PowerTrac, among others, and it lists Nissan Titan, Armada, Frontier, NV, Pathfinder and Xterra for select model years.\n\nIts strength is the controller list: it names more controller families than the Tekonsha harnesses do, which makes it useful if your controller is a Draw-Tite unit. The listing leaves exact model years to a picture, so it ranks last for Frontier certainty.\n\nBest for someone matching an older Draw-Tite or Tekonsha controller to a Frontier on a tight budget. Confirm your year in the fitment image before ordering, because the text only says select model years.",
     "specs": [
       "4-pin standard brake plug",

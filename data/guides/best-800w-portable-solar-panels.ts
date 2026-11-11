@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BhDxteffL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ12TWX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ12TWX7?tag=rvgearlab-amz-20",
     "description": "The Greenmagic pairs two foldable 400W panels for 800W at 39V, using Sunpower cells at 23 percent efficiency and an ETFE surface. The listing gives a weight of about 20 pounds, an IP67 rating and four kickstand angles of 30, 40, 50 and 80 degrees.\n\nIt is the only 800W combination here built as a portable, foldable pair, and the 80 degree angle suits winter sun. Next to the two 400W singles, it supplies the full total in one purchase.\n\nIt suits campers with a large battery bank who want two panels they can carry. The panels unfold like a blanket and aim with their stands.",
     "specs": [
       "Two 400W foldable, 39V",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418LiJ8Yz4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H294LH3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H294LH3K?tag=rvgearlab-amz-20",
     "description": "The Cosmoxstar is a 400W eight-fold panel with 182 monocrystalline cells and PD45W USB-C, QC3.0 and XT60 outputs. It gives 15V PWM output for 12V lead-acid, gel and lithium batteries, and ships with a 3 m MC4 and XT60 cable.\n\nTwo of them make 800W and still cost less than the Greenmagic pair. It weighs about 9.5 kg and unfolds to 230 by 116.5 cm on four kickstands.\n\nIt suits budget campers charging 12V batteries and devices from one panel. The PET surface over 600D Oxford is aimed at light weather.",
     "specs": [
       "400W, PD45W USB-C, QC3.0",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FZG9jqu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXDJX4YS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXDJX4YS?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS 400W is a bifacial panel on ETFE monocrystalline cells at 25 percent, weighing 19.7 lbs and folding to 22.4 by 38.3 by 2.8 inches. It has 30 to 60 degree stands and an IP68 rating.\n\nThe listing calls it 35 percent lighter than traditional 400W panels, and it costs more than the Cosmoxstar. Two of them give an 800W bifacial pair.\n\nIt suits campers who want a strong, light 400W with IP68 protection. Rear-side light adds output over bright ground.",
     "specs": [
       "400W bifacial, 25%",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IW3hgoNdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMSKP7JD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMSKP7JD?tag=rvgearlab-amz-20",
     "description": "The DOKIO set is two 400W, 31V panels for 12V or 24V systems, built on tempered glass with an aluminum frame and sealed junction boxes. Each panel carries 3 m MC4 leads, and the listing says parallel wiring is the default on 12V.\n\nIt costs less than the Greenmagic and has fewer connections than an eight-panel 100W array. These are rigid panels, so they suit a roof or ground mount rather than camp carry.\n\nIt suits van, cabin and trailer owners with a controller sized for 800W. The listing recommends MPPT for the combined current.",
     "specs": [
       "Two 400W 31V, glass and aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qMQy-iCRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1YGW8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1YGW8X?tag=rvgearlab-amz-20",
     "description": "The Renogy ShadowFlux 800W is a set of four 200W N-type panels with 16BB cells at 25 percent efficiency and anti-shading technology. The listing names an IP67 or better rating, a 5-year materials warranty and a 25-year output guarantee of 80 percent.\n\nIt costs the most of the five, with long-term coverage no other listing here matches. Against the DOKIO, it has more panels, a longer warranty and better shade handling.\n\nIt suits owners building a long-life RV or cabin array who want a strong warranty. The panels are mounted, not carried.",
     "specs": [
       "Four 200W N-type, 25%",

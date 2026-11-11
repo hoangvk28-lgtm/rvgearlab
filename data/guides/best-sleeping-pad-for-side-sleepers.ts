@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vXFEnkezL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RP81NJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RP81NJW?tag=rvgearlab-amz-20",
     "description": "The ZOOOBELIVES pad uses full-length 4-inch air chambers meant to spread weight evenly and keep hips and shoulders off hard ground. It has a built-in foot pump, a secure valve and a zippered storage sack.\n\nCompared with honeycomb pads, the full air structure supports every inch, not just the raised sections. Against the FNARMW, it is 1 inch thinner with a more minimalist design.\n\nIt suits side sleepers who want a full-support pad for car camping or a light hike. The quiet surface cuts rustle.",
     "specs": [
       "4 inch full air chambers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZTJx+35fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQWM5RV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQWM5RV?tag=rvgearlab-amz-20",
     "description": "The Oramoose single pad has a true 4-inch air layer, a foot pump that fills in about 30 to 60 seconds and 50D nylon with a TPU coating. It weighs about 1.9 pounds and packs to roughly 9.4 by 4.3 inches.\n\nNext to the ZOOOBELIVES, it names weight and packed size, which makes it the better choice for a pack. Against the FNARMW, it is far lighter at the cost of 1 inch of thickness.\n\nIt suits side sleepers who hike to camp and still want 4 inches of lift. The pad includes a pillow.",
     "specs": [
       "4 inch air layer, 1.9 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417R10LLAyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17B74SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17B74SZ?tag=rvgearlab-amz-20",
     "description": "The FNARMW pad is 5 inches thick and measures 79 by 28 inches, with a built-in foot pump that inflates it in about 60 seconds. It uses 50D nylon with a TPU coating, has an 800 pound capacity and weighs 4.2 pounds.\n\nIt is the thickest of the group, an inch taller than the Oramoose and ZOOOBELIVES, and it includes a built-in pillow. Against the OGERY, it is inflated air only and gives more height, not memory foam.\n\nIt suits heavier or restless side sleepers and car campers who want a floor bed. The 800 pound capacity suits couples sharing the guest bed.",
     "specs": [
       "5 inch thick, 79 x 28 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wJN9HQtAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXX7VX7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXX7VX7N?tag=rvgearlab-amz-20",
     "description": "The OGERY pad is a 3-inch self-inflating memory foam mattress that measures 77 by 27 inches. It has a foot pump to fine-tune firmness, an abrasion-resistant nylon cover and a non-slip base.\n\nCompared with the air-only pads, the foam interior is quiet and adds some insulation against cool ground. Against the FNARMW, it is thinner, softer and less prone to bouncing.\n\nIt suits side sleepers who dislike the wobbly feel of air pads. It works best for car camping and cooler nights.",
     "specs": [
       "3 inch memory foam, self-inflating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51L6TkjQIlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX14QWK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX14QWK5?tag=rvgearlab-amz-20",
     "description": "The Oramoose set includes two 4-inch pads that snap together into a wider sleeping area. Each has a foot pump that fills in about 30 to 60 seconds, a pillow, and a weight of 1.9 pounds.\n\nCompared with the single Oramoose, it gives you two pads for roughly the price of pairs, and it is built to connect. Against the ZOOOBELIVES, it adds connectivity and light weight, not extra thickness.\n\nIt suits couples or friends who both sleep on their sides. The pads work separately or together.",
     "specs": [
       "Two 4 inch pads, 1.9 lb each",

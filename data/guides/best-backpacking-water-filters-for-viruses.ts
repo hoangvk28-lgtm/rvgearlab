@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MbTYqEWdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1JHC2M6?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress is a 24 ounce press-style purifier bottle that removes viruses, bacteria and protozoa in seconds, with named examples such as rotavirus, norovirus and hepatitis A for viruses and E. coli, salmonella and dysentery bacteria. It also filters particulates and adsorbs VOCs, PFAS, chemicals, pesticides, herbicides, heavy metals, flavors and odors. A replaceable purifier cartridge is rated for 65 gallons, or 250 liters, and no pumps, hoses, batteries or chemicals are involved.\n\nCompared with the GRAYL UltraPress below, the GeoPress holds 7 ounces more and adds named virus examples for $10 more, while the UltraPress is smaller and lighter. Compared with the GeoPress Ti, it costs $120 less for the same cartridge-based purifier in a plastic bottle.\n\nIt suits a solo backpacker, a traveler who drinks from questionable taps and a car camper who wants a fast fill-and-press routine. A quick press means you can fill from a spigot or a stream and drink right away.",
     "specs": [
       "24 oz press purifier, virus, bacteria and protozoa",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qKY1kmIJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBS5RGF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBS5RGF6?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress Ti is a 24 ounce titanium purifier bottle that purifies a full bottle in about 8 seconds and removes 99.99 percent of viruses and 99.9999 percent of bacteria. Powdered activated carbon reduces microplastics and chemicals for better taste, and the cartridge is rated for 350 presses. The titanium body withstands drops and heats over coals or a stove, and a Cook Lid turns it into a lightweight pot.\n\nCompared with the standard GeoPress, the Ti adds titanium construction and the cook lid for $120 more, which pays off for ultralight and expedition users who want fewer tools. Compared with the Katadyn Explorer Pro, it costs $230 less and weighs a fraction as much.\n\nIt suits a thru-hiker, a bushcraft fan or a traveler who wants one bottle that purifies, carries and boils. A 350-press cartridge gives a long service life between replacements.",
     "specs": [
       "24 oz titanium bottle, 8-second purification",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21OmMPaM93L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCXRBQG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCXRBQG1?tag=rvgearlab-amz-20",
     "description": "The GRAYL UltraPress is a 16.9 ounce purifier bottle that treats 500 milliliters in as little as 10 seconds. It lists removal of 99.9 percent of viruses such as rotavirus, norovirus and hepatitis A, 99.9999 percent of bacteria such as E. coli and salmonella, and 99.9 percent of protozoan cysts such as giardia. It also filters particulates and adsorbs VOCs, PFAS, pesticides, herbicides and heavy metals.\n\nCompared with the GeoPress 24 oz, the UltraPress holds about a third less and costs $10 less, which suits a solo hiker who refills often. Compared with the Fusion Delta, it adds a bottle, a faster process and the same style of virus claim for $60 more.\n\nIt suits a day hiker, a trail runner or a traveler who wants a pocketable purifier. The fill, press, drink routine needs no setup time, pumps or batteries.",
     "specs": [
       "16.9 oz press purifier, 10-second cycle",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zNhTBG8ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0785N9BQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0785N9BQP?tag=rvgearlab-amz-20",
     "description": "The Renovo Water MUV Survivalist is a multi-filter system that lists protection against chemicals, heavy metals, bacteria, E. coli, Giardia, Cryptosporidium, cysts and viruses. It claims to remove 99.999 percent of bacteria and 99.99 percent of viruses, plus chemicals, heavy metals and diesel fuel. Three filters can be used together or mixed and matched to suit the water source.\n\nCompared with the Fusion Delta, the MUV costs about $32 more and adds a chemical and heavy metal stage and a system that can serve a household, while the Delta is a pocket pour-through filter. Compared with the GRAYL UltraPress, it brings broader chemical claims and a modular approach for $27 less.\n\nIt suits a prepper, an international traveler or a camp cook who needs a multi-use system. The mix-and-match design lets you use fewer filters on clear water and all of them on a questionable source.",
     "specs": [
       "99.999% bacteria, 99.99% viruses",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413byoAVKuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQWNPL75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQWNPL75?tag=rvgearlab-amz-20",
     "description": "The Fusion Delta Emergency Water Filter is a pocket-size nanofiber filter that you use like a coffee filter in a cup. The maker claims it filters 99.99 percent of viruses, 99.9999 percent of bacteria and 99.95 percent of parasites, and the listing cites NSF standards 42, 53 and 401. The two filters provide up to 150 gallons, and the filter is biodegradable and contains activated carbon for taste.\n\nCompared with the GRAYL UltraPress, the Delta costs $59.96 less and offers a stated 99.99 percent virus claim, while the Grayl is faster and reusable as a bottle. Compared with the Renovo MUV, it is $32 less and far more compact.\n\nIt suits a bug-out bag, a glove box kit, a day-hike backup or an ultralight hiker who wants a spare. The two-pack gives a backup in two places.",
     "specs": [
       "Nanofiber pour-through filter, 99.99% viruses",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21nG-qdQNKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH5695C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH5695C5?tag=rvgearlab-amz-20",
     "description": "The Katadyn Explorer Pro is a three-stage hand pump purifier: a ceramic stage for sediment and fine particles, carbon for chlorine and taste, and an ultra-fine membrane for the smallest particles rated to 0.01 micron. It pumps up to 1 liter per minute with a steel piston and needs no batteries, electricity or chemicals, and the ceramic can be scrubbed clean in the field when flow slows.\n\nCompared with the GRAYL GeoPress Ti, the Explorer Pro costs $230 more and delivers a continuous flow for groups, while the Ti is far lighter. Compared with the Renovo MUV, it costs about $388 more and offers a proven pump and a three-stage design.\n\nIt suits a group trip, a basecamp, a boat or international travel where tap and stream water are both questionable. Katadyn has made water treatment products since 1928.",
     "specs": [
       "Three-stage hand pump, 0.01 micron membrane",

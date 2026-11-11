@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a5ZhTV1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVG5473P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVG5473P?tag=rvgearlab-amz-20",
     "description": "GEARGO's New Smart is a 50 amp protector with 15,000 joules of surge absorption and a precision LED display of line voltage, current and power. It analyzes the circuit, monitors temperature and cuts power automatically on over or under voltage, then resets when conditions return to normal.\n\nAt about $150 it sits at the cap and costs $82 more than the Progressive SSP-50XL while adding a display, temperature monitoring and shutoff. The CARMTEK is $40 cheaper and has none of these.\n\nIt suits a 50A motorhome that spends weeks at parks with unreliable power. The display lets you spot a sagging pedestal.",
     "specs": [
       "50A, 15,000J, LED display",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNi4HMcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-amz-20",
     "description": "CARMTEK is a 50 amp surge protector with a circuit analyzer, absorbing up to 4,200 joules. It is UL tested, built from flame-retardant material, and has ergonomic power-grip handles and a right-angle plug.\n\nAt about $110 it costs about $40 less than the GEARGO New Smart and drops the display and shutoff. Its joule claim is lower, and the UL testing is a distinction the cheaper 50A units lack.\n\nIt suits a 50A owner who wants a UL-tested housing and an analyzer. The grip handles help with a stiff pedestal.",
     "specs": [
       "50A, 4,200J",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517d9nX2JbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-amz-20",
     "description": "RVShield is a 30 amp surge protector and power manager with a 200F thermal auto-shutoff, ground fault protection and an adjustable air conditioner restart delay. Its NEMA 3R enclosure works from minus 40F to 140F.\n\nAt about $145 it is the second most expensive pick and costs $55 more than the GEARGO Smart 30A. It is the only unit here that shields against a hot plug and delays a compressor restart.\n\nIt suits a 30A trailer with a rooftop air conditioner. The delay lets pedestal voltage settle after a brownout.",
     "specs": [
       "30A, 200F thermal shutoff",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zq5+JZeaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-amz-20",
     "description": "GEARGO Smart carries 16,000 joules, a real-time LED display, IP68 protection and an automatic cut-off that resets when the fault clears. A three-year warranty backs it.\n\nAt about $90 it costs $55 less than the RVShield and gives up the thermal and compressor-delay features. It beats the cheaper 30A units with a display and automatic shutoff.\n\nIt suits a 30A trailer that wants a display without the RVShield price. The voltage display reads live.",
     "specs": [
       "16,000J, auto cut-off, IP68",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xaBDuq-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-amz-20",
     "description": "The Progressive SSP-50XL is the established-brand entry for a 50A coach, with a 12,000W ceiling and a 1,650 joule absorber. Its alert set spans voltage extremes, wiring faults and a used-up surge module, plus a frequency check.\n\nAt about $68 it costs $82 less than the GEARGO New Smart and gives a recognized brand with fault alerts. It has no display or automatic cut-off.\n\nA 50A rig owner after a recognized name at a modest price fits here. Fault alerts are the strength.",
     "specs": [
       "50A, 12,000W, 1,650J",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "The 15,000 joule GEARGO is the plain 50A analyzer in this list, with an IP68 seal over a flame-retardant shell. Its angled male plug sits tight to the pedestal.\n\nAt about $54 it is the cheapest pick and costs $14 less than the Progressive SSP-50XL. It matches the New Smart on joules while skipping the display and shutoff.\n\nIt suits a 50A owner who wants waterproofing at a low price. The analyzer chart flags bad pedestals.",
     "specs": [
       "50A, 15,000J",

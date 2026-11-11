@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413DK3NtbRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6ZDP75P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6ZDP75P?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C800X stores 768Wh and lists 1,200W rated output with 10 ports, SurgePad technology and 3-mode built-in camping lights. It recharges to 80 percent in 2.3 hours from solar, and the listing bundle includes a 100W solar panel.\n\nIts 1,200W rating is double the 600W of the Dabbsson 600L, so it can run a kettle-class load that the other 768Wh unit cannot. The built-in lights also make it a camp lantern.\n\nThis one fits campers and RV owners wanting a single box for lights, a fridge and a few small appliances. The bundled panel makes it a complete starter kit.",
     "specs": [
       "768Wh, 1,200W rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BEXjgsEkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTSPV741?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTSPV741?tag=rvgearlab-amz-20",
     "description": "The Dabbsson 768Wh unit uses semi-solid LiFePO4 cells with an AI-driven BMS and lists 600W rated output from 2 pure sine AC outlets, with up to 900W noted. It charges from 0 to 100 percent in 1.6 hours on AC and has 8 outputs including a 100W USB-C port.\n\nIt undercuts the Anker SOLIX C800X on price while matching its 768Wh. Its rated output is lower, and its quick AC recharge refills it in an afternoon.\n\nIt suits buyers who want 768Wh of LiFePO4 storage at a lower price for lights, laptops and a small fridge. The USB-C port handles laptops.",
     "specs": [
       "768Wh semi-solid LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fzYZ1djHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXHVGD6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXHVGD6B?tag=rvgearlab-amz-20",
     "description": "The Bailibatt DW601S is a 293Wh station with one 600W pure sine AC outlet, a 100W PD USB-C port and a 24W PD USB-C port, 7 ports in all. It weighs 7.7 pounds and has an LCD that shows status plus a BMS for protection.\n\nAt less than half the capacity of the Anker SOLIX C800X it weighs far less to carry, and it costs much less. It has more USB-C power than the DaranEner 288Wh with the same single-box simplicity.\n\nIt suits weekend campers and day trippers who need a laptop and a phone charged, plus an occasional AC device. It is a step-down for people who found 768Wh too heavy.",
     "specs": [
       "293Wh, 600W pure sine AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P62EDaNTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN9QHGG8?tag=rvgearlab-amz-20",
     "description": "The DaranEner is a 288Wh LiFePO4 station with two 350W AC outlets rated up to 600W surge and charging by wall, car or solar. Its BMS protects against overcharge, over-discharge and short circuits.\n\nIt uses the same LiFePO4 chemistry as the Dabbsson 600L at about a third of the capacity and a much lower price. Two AC outlets give it more flexibility than the single-outlet Bailibatt DW601S.\n\nIt suits first-time buyers and RV drivers who want a small LiFePO4 backup for lights, a fan and phones. It is the lowest-cost entry in this set.",
     "specs": [
       "288Wh LiFePO4",

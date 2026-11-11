@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413Pvcb-fsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTQQHX8H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTQQHX8H?tag=rvgearlab-amz-20",
     "description": "The RecPro CL 5 is a 5,000 BTU window unit built with RV use in mind, rated CEER 11.0 and sized for 23 to 36 inch windows. A remote is included, and the listing points to cooling for roughly 150 square feet. It is priced at $550.95.\n\nCompared with the portable units below it, the CL 5 pushes heat straight outdoors through the window, which is the more efficient route for a small coach. Compared with the home-style GE models, it comes from a maker that sells to RV owners and fits their window shapes.\n\nIt is the best match for owners of a small travel trailer or camper who have a suitable window and want the most RV-focused 5,000 BTU unit available.",
     "specs": [
       "5,000 BTU window unit",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dfj87jflL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFS1YD4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFS1YD4W?tag=rvgearlab-amz-20",
     "description": "The 110V Portable Air Conditioner is a 5,000 BTU floor unit with 6-in-1 modes and a low 490W power draw, priced at $384.90. It cools and heats, and it fits tents and small rigs where no window can be spared.\n\nCompared with the CL 5 above it, this unit asks for no window mount at all, so it can move from room to room or from tent to van. Compared with the similar camping unit below it, it offers the same 490W profile in a package aimed at flexible placement.\n\nIt is a strong choice for tent campers, van owners and anyone cooling a tiny space with a limited generator, since the 490W draw is easy to support.",
     "specs": [
       "5,000 BTU portable",
@@ -85,7 +85,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412Vs9nKkML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6FL6GKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6FL6GKN?tag=rvgearlab-amz-20",
     "description": "The Portable Camping Air Conditioner is a 5,000 BTU portable with 6-in-1 modes and a 490W power draw at $359.09. It runs on 110V, cools and heats, and needs no installation beyond routing the vent hose.\n\nCompared with the 110V portable above it, this one delivers the same stated performance at about $25 less. Compared with the GE window units below it, it brings portability and a heating mode for chilly mornings.\n\nIt suits campers who want the lowest-priced portable at this size, for a tent, a small camper or a cabin beside the coach.",
     "specs": [
       "5,000 BTU portable",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TctMnvTtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK62SYBP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK62SYBP?tag=rvgearlab-amz-20",
     "description": "The GE 5 is a 5,000 BTU window air conditioner with a digital thermostat, remote control and an Eco mode, priced at $194.00. It is rated to cool up to 150 square feet and runs quietly.\n\nCompared with the portable units above it, the GE costs far less per BTU and moves heat out through the window more efficiently. Compared with the mechanical GE below it, the digital thermostat and remote let you hold a steady temperature without leaving the bed.\n\nIt is a good fit for stationary rigs, cabins and workshop spaces with a standard window, where a quiet unit with digital controls and Eco mode saves power.",
     "specs": [
       "5,000 BTU window unit",
@@ -141,7 +141,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41on3+UOx-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK63CLPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK63CLPV?tag=rvgearlab-amz-20",
     "description": "The GE Window Air Conditioner 5 is a 5,000 BTU unit with simple mechanical dials, priced at $139.99. It cools up to 150 square feet, and its low mode runs at a quiet 52 dBA.\n\nCompared with the digital GE above it, this model takes a plain dial approach, with simple controls and no electronics to manage, and it is the lowest priced way to get a 5,000 BTU cooler in this guide. Its low mode keeps noise down for sleeping.\n\nIt suits owners who want the cheapest dependable window unit for a small cabin, shed or seasonal rig, and who prefer controls they can work half asleep.",
     "specs": [
       "5,000 BTU window unit",
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMpSH5tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-amz-20",
     "description": "The COSTWAY RV Window Air Conditioner is a 6,500 BTU window unit with WiFi and voice control at $479.99. It adds a 24 hour timer, a sleep mode and an ETL certified design.\n\nCompared with the GE units above it, the COSTWAY adds smart control, a timer and extra capacity beyond the 5,000 BTU target. Compared with the RecPro at the top of the list, it brings app and voice operation at a lower price.\n\nIt is made for owners who like to schedule cooling before they arrive, adjust it by phone and enjoy a bit of extra capacity in a small RV window install.",
     "specs": [
       "6,500 BTU window unit",

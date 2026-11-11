@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN lists 6800 surge and 5100 rated watts on gasoline and 6000 surge and 4500 rated on propane. A bonded-neutral 240V configuration, an L14-30R receptacle and a TT-30R RV outlet are included, and a CO Watchdog shuts the unit down on dangerous levels.\n\nIt is the most powerful pick, offering 1100 more rated gas watts than the ERAYAK. Compared with the BILT HARD 5500W it adds a 240V outlet and electric start.\n\nIt suits RV owners who run two air conditioners or charge an electric vehicle at Level 2 low power. Wheels and a telescoping handle make it movable.",
     "specs": [
       "5100 rated watts gas, 4500 propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zlMnJ0QvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-amz-20",
     "description": "The Champion lists 4000 starting and 3000 running watts on gasoline with up to 10 hours of runtime, and 2700 running watts on propane for up to 25 hours. Noise is 64 dBA from 23 ft, and CO Shield shuts the unit down automatically.\n\nIt has the longest stated propane runtime and a named CO shutdown. Compared with the PowerSmart it is louder on paper and costs more, with a TT-30R outlet in exchange.\n\nIt suits campers who want propane for storage and a recognised brand. Parallel use with a Champion unit is possible with a kit.",
     "specs": [
       "3000 running watts gas, 2700 propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S2h7L6c7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-amz-20",
     "description": "The ERAYAK lists 4500 peak and 3500 rated watts on gasoline, and 4050 peak and 3150 rated on propane. A gas-priority system auto-switches to gasoline when propane runs low, and the pure sine output holds THD between 0.2 and 1.2 percent.\n\nIt is quieter on paper at 58 dBA at quarter load than the Champion's 64 dBA. Compared with the WEN 6800W it weighs only 54 lb and has less output.\n\nIt suits RV owners who want 30A power at a modest weight. The compact 19.88 by 16.93 by 20.25 inch body fits tight storage bays.",
     "specs": [
       "3500 rated watts gas, 3150 propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4192C502DML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGD5GGMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGD5GGMC?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 3300 running watts on gasoline and 3100 on propane. It runs at 59 dBA in Eco Mode, 8 hours on its 1.3 gal tank or up to 24 hours on a 20 lb propane tank, with CO and low-oil shutdowns.\n\nIt names ANSI/PGMA G300 and UL2201 compliance, which none of the others list. Compared with the Champion it is quieter on paper and cheaper.\n\nIt suits campers who want certification and long propane runs. A 30A twist-lock, a 20A outlet, a 12V DC port and two USB ports are on the panel.",
     "specs": [
       "3300 running gas, 3100 propane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ucAFBoKIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGR2586Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGR2586Z?tag=rvgearlab-amz-20",
     "description": "The BILT HARD lists 5500 starting and 4000 running watts on gasoline and 5000 starting and 3600 running on LPG. A 160cc engine, a digital display with volts, amps and runtime, a TT-30R RV outlet and CO auto-shutoff are named.\n\nIt offers more rated watts than the PowerSmart at a lower price. Compared with the WEN 6800W it lacks the 240V outlet and costs far less.\n\nIt suits RV and home-backup campers who want 4000 running watts at a moderate price. Parallel connectors let two identical units pair.",
     "specs": [
       "4000 running gas, 3600 LPG",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VD+BT-qDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07J5HD8L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07J5HD8L9?tag=rvgearlab-amz-20",
     "description": "The Pulsar lists 2200 peak and 1800 rated watts on gas and 2000 peak and 1600 rated watts on LPG from an 80cc, 3 HP engine. It is rated at 60 dB, has two 120V 15A outlets and a USB port, and offers parallel capability.\n\nIt is the smallest pick in output and engine size. Against the PowerSmart it has lower output and no named CO sensor.\n\nIt suits solo campers who want a small entry point to propane. The CARB-compliant listing also covers California.",
     "specs": [
       "1800 rated gas, 1600 LPG",

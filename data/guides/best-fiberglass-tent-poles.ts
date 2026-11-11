@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mAJibx7fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5PP3BLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5PP3BLP?tag=rvgearlab-amz-20",
     "description": "The Sufalyn set has two 14.5 foot black fiberglass poles at 11mm outer diameter, each in 10 shock-corded sections. Galvanized ferrules align the sections and PE end caps protect the ends.\n\nIt gives the most detail on fit of the four, and the listing tells you to compare length, diameter, section count and end style. The 11mm size matches the Stansport kit and is thicker than the Yaocom sets.\n\nIt suits a dome tent owner with an 11mm pole who wants a complete pair. The sections can be added or removed.",
     "specs": [
       "14.5 ft, 11mm, 10 sections",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5153sk5N-XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTSQYJLD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTSQYJLD?tag=rvgearlab-amz-20",
     "description": "The Yaocom 16FT set has two sets of 8 poles each at about 16 feet assembled and 0.37 inch (9.5mm) outer diameter. Pre-assembled with high elastic rope, it suits a variety of tents.\n\nIt is the longest set here, so it fits large dome tents. The 9.5mm diameter sits between the Yaocom 13.25FT at 8.5mm and the 11mm sets.\n\nIt suits a large family dome that needs long poles. The listing calls it universal.",
     "specs": [
       "16 ft, 9.5mm, 8 per set",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JIJrrlh2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTT1HQRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTT1HQRH?tag=rvgearlab-amz-20",
     "description": "The Yaocom 13.25FT set has two sets of 8 poles each at 13.25 feet assembled and 0.33 inch (8.5mm) outer diameter. High elastic rope holds the sections together, pre-assembled.\n\nIt is a smaller twin of the 16FT set at a lower cost. The 8.5mm diameter suits smaller tents than the Sufalyn.\n\nIt suits a two to four person dome tent with 8.5mm poles. It folds for packing.",
     "specs": [
       "13.25 ft, 8.5mm, 8 per set",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CKfyMHK1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001A74VMU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001A74VMU?tag=rvgearlab-amz-20",
     "description": "The Stansport kit has four poles and ferrules, shock cord and installation wire at 11mm. It is sold as a replacement kit for most dome tents.\n\nStansport sets the floor on price here and is the only kit that adds installation wire. It gives none of the length detail found on the Sufalyn and Yaocom listings.\n\nIt suits a camper restringing or replacing poles on a dome tent. The listing names the 11mm size and the included wire.",
     "specs": [
       "11mm, four poles and ferrules",

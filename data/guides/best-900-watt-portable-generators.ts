@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZwHtkN-DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS4DZTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS4DZTH?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 1200 surge and 900 rated watts from a 71cc two-stroke engine, weighing only 34 pounds. It has a 120V AC outlet, a 12V DC output for battery charging, a 1.1 gallon tank for about 5 hours at 50 percent load and a 40:1 fuel-to-oil mix.\n\nIt is the only unit that states exactly 900 rated watts and the lightest of the three. Compared with the YolloBike, it lists a lower rating and a shorter runtime, and compared with the generic 800W unit, it adds 100 rated watts.\n\nIt suits campers who want a very light generator for lights, slow cookers, fans and small tools. The EPA-compliant design and F5TC spark plug are listed.",
     "specs": [
       "1200 surge, 900 rated watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yywnUUgpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHDDLJ9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHDDLJ9R?tag=rvgearlab-amz-20",
     "description": "The YolloBike lists 1200W and 950 rated watts from a 71cc two-stroke engine, weighing 35.3 pounds, with a 1 gallon tank that is said to give up to 8 hours. It has a 120V AC outlet, a 12V DC output rated 8.3A and a 50:1 mix.\n\nIt has the highest rated watts and the longest runtime claim of the three. Compared with the PowerSmart, it adds 50 rated watts and a longer claimed runtime for a higher price.\n\nIt suits campers who run lights and chargers overnight and want fewer refuelings. The 12V output charges a battery.",
     "specs": [
       "950 rated, 1200 surge watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KccdMrL8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP7F4WC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP7F4WC3?tag=rvgearlab-amz-20",
     "description": "The yellow 71cc two-stroke generator lists 900 peak and 800 rated watts, weighs 38.5 pounds and has a 1.1 gallon tank for about 5 hours at 50 percent load. Remote reset circuit protection guards against overheating, and the box includes a spark plug wrench, a DC charging cable and an attachable handle.\n\nIts sticker is the smallest in the trio. Compared with the PowerSmart, it has 100 fewer rated watts and 4.5 more pounds.\n\nIt suits campers with the lightest loads, such as a few LED lights and chargers, who want the lowest cost. It is the nearest 800 watt fit.",
     "specs": [
       "900 peak, 800 rated watts",

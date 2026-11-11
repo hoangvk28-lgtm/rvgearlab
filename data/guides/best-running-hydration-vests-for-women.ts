@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cAWPC0CML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F18FN15R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F18FN15R?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO women's vest weighs 130 grams (4.59 ounces) and measures 13.4 by 7.9 inches, and its listing says it suits small and medium-sized women of roughly 110 to 140 pounds. It includes a 1.5L bladder, three adjustable chest straps and a hip belt, two soft flask pockets (flasks not included) and a whistle in the front pocket.\n\nIt is the only vest here with a stated body-size target, and the lightest. Compared with the Azarxis, it is smaller and ships with fewer extras.\n\nIt suits runners with a smaller build who find bigger vests ride too high. Reflective branding and a neck gaiter add small extras.",
     "specs": [
       "130 g, 13.4 x 7.9 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nbHraxSoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR4XT3YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR4XT3YQ?tag=rvgearlab-amz-20",
     "description": "The BECOJADDE 5L women's vest lists a chest range of 32.2 to 41.7 inches (82 to 106 cm) with elastic chest and waist straps. It comes in three versions, vest only, with a 1.5L bladder or with two 500ml flasks, and has front pockets for a phone, keys, cash and snacks.\n\nIt gives the clearest numeric fit range and the most storage at 5L. Compared with the Zelvot, it is a classic vest cut with bladder or bottle options.\n\nIt suits runners who want to measure and know it will fit. Breathable mesh straps and a mesh back help in warm weather.",
     "specs": [
       "5L, chest 32.2 to 41.7 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413V3r1IkLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVFFVYF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVFFVYF?tag=rvgearlab-amz-20",
     "description": "The Zelvot Flask vest pairs a 500ml BPA and PVC-free soft flask with a pocket-heavy layout: seven in front and two big ones behind. Triple-size vent holes perforate the featherlight neoprene, and three chest straps tune the fit.\n\nCompared with the Azarxis, it has far more pockets and a flask at the chest instead of a back bladder. Against the NEVO RHINO, it carries more and has a larger fit range.\n\nIt suits racers who want gels and phone in front pockets and a flask in reach. The unisex fit works for many torsos.",
     "specs": [
       "500ml flask included",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4179PdMeg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGPYLG6H?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST gives you six easy-reach pockets, one of them a zipped waterproof pouch for the phone, and vented zones in quick-dry fabric. Neoprene padding reduces bounce and chafing, reflective detail runs front and back and a 500ml soft flask comes in the box.\n\nIt offers a waterproof phone pouch that the Azarxis and BECOJADDE do not list. Compared with the Zelvot, it has fewer pockets and a more built-up chafe-free fit.\n\nIt suits women who run in changing weather. It comes in three sizes from XS to L.",
     "specs": [
       "6 pockets, waterproof phone pouch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P+pHXiSSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HQM4DPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HQM4DPB?tag=rvgearlab-amz-20",
     "description": "The Azarxis 5L vest includes a 1.5L PEVA bladder with pressure-resistant leak-proof design, adjustable waistband and chest straps and wide mesh shoulder straps. It has a multi-pocket layout for bottles, a phone, keys and food, and reflective details front and back.\n\nIt ships with a bladder in the box, and it has a wider waistband to limit movement. Compared with the NEVO RHINO, it is larger at 5L.\n\nIt suits trail runners and hikers who prefer tube sipping. The mesh back and nylon fabric are light.",
     "specs": [
       "5L, 1.5L PEVA bladder",

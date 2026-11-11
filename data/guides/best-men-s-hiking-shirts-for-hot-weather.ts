@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417ytTaRLIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5K6GM8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5K6GM8P?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Shirt is a UPF 50+ long-sleeve button-up with roll-up sleeves, two chest pockets with hook and loop closures and a sunglasses loop. It uses a water and stain repellent finish and quick-dry air-hole fabric.\n\nAgainst the MAGCOMSEN Shirt, it adds secure pocket closures and a repellent finish. Next to the WULFUL, it states a UPF 50+ claim without a conflicting UV figure.\n\nIt suits hikers who want one durable shirt for sun, small spills and organized gear. The fabric is wrinkle-resistant for travel.",
     "specs": [
       "UPF 50+, quick-dry air-hole fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sgx4d1XkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW32HK62?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW32HK62?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Shirt is a long-sleeve button-up rated UPF 50+ with thousands of air holes and moisture-wicking fabric. It has two flap pockets, a zipper pocket, roll-up tabs, multiple loops and a built-in cloth at the hem for cleaning glasses.\n\nAgainst the Outdoor Ventures, it adds a zipper pocket and a lens cloth at a lower price. Compared with the ZITY, it brings pockets and a button-up.\n\nIt suits budget-minded hikers who still want a feature-rich shirt. The adjustable cuffs close with two buttons.",
     "specs": [
       "UPF 50+, air-hole fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315Qsg97jQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY3B3J7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY3B3J7?tag=rvgearlab-amz-20",
     "description": "The WULFUL Shirt is a lightweight long-sleeve with mesh-lined cape vents on the back and an air-vent fabric. It has two chest utility pockets, a zipper pocket, a sunglasses loop and roll-up sleeves with cuff buttons.\n\nCompared with the MAGCOMSEN, it adds a back cape vent that dumps heat under a pack. Next to the Outdoor Ventures, it offers a zipper pocket at a lower price.\n\nIt suits hikers who run hot with a daypack on. The vent works best with a pack that sits higher on the back.",
     "specs": [
       "Mesh-lined cape back vents",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31meu9ptlGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G64WDDXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G64WDDXF?tag=rvgearlab-amz-20",
     "description": "The ZITY 3 Pack is a set of three long-sleeve UPF 50+ rash guard hoodies in fast-dry, breathable fabric. The listing calls it wrinkle-resistant and machine washable, with a hood and sun protection built in.\n\nCompared with the button-ups, it offers three layers in one order. Against the G Gradual Tee, it adds sleeves and a hood for more coverage.\n\nIt suits hikers and campers who want spare sun layers for a week out. Three shirts mean a fresh one every few days.",
     "specs": [
       "3-pack UPF 50+ hoodies",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nrqK9byCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSKTTTG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSKTTTG1?tag=rvgearlab-amz-20",
     "description": "The G Gradual Sun Tee is a short-sleeve UPF 50+ performance tee that blocks 98 percent of UVA and UVB rays. It has reflective points on the sleeves and neck, four-way stretch, flatlock seams and a tagless collar.\n\nAgainst the long-sleeve picks, it is the coolest and most stretchy. Compared with the Opna Long Sleeve, it adds reflective points for dusk walking.\n\nIt suits short hikes and walks where you can add sunscreen. Reflective details help visibility.",
     "specs": [
       "UPF 50+, blocks 98% UV",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3108-2MF0bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01F9LN6AA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01F9LN6AA?tag=rvgearlab-amz-20",
     "description": "The Opna Long Sleeve is a 3.8 ounce, 100 percent polyester athletic shirt with moisture wicking, stretch and UV coverage. The listing says it is used for running, gym and swimming and can double as a base layer.\n\nAgainst the G Gradual Sun Tee, it adds long sleeves at a similar weight. Compared with the ZITY, it is a single shirt in a plain cut.\n\nIt suits hikers who want a simple, low-cost, lightweight layer. The listing mentions regular and tall fits.",
     "specs": [
       "3.8 ounce, 100% polyester",

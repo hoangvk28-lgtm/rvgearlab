@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zdY8ItVrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF7XWC74?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF7XWC74?tag=rvgearlab-amz-20",
     "description": "Joyfair is an 18-piece kit in food-grade hard anodized aluminum with a 1L frying pan, 1.6L kettle and 2.8L pot. A detachable-leg solid stainless steel grill grate is included for open-fire grilling.\n\nThe grate is what sets it apart from the plain nesting sets, and it packs to 7.8 inches wide by 7 inches tall at 3.7 lbs. It is made for two people.\n\nChoose it for campfire cooking with a small group. The grate turns any fire ring into a stove.",
     "specs": [
       "18 pieces, hard anodized aluminum",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k-2rLpivL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H15B9KWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H15B9KWY?tag=rvgearlab-amz-20",
     "description": "Leonyo is an 18-piece set with a pot, pan, kettle, foldable grill grate, spatula and cups, built from heavy gauge anodized aluminum. The foldable stainless grill grate has dual mounting cutouts and detachable supports.\n\nIt matches the Joyfair on having a grate, at a slightly lower price. Silicone handles are heat-resistant and non-slip.\n\nChoose it if you want a grate and basic cookware for the least. It suits first-time fire cooks.",
     "specs": [
       "18 pieces, anodized aluminum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bGrTpqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9NTNX95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9NTNX95?tag=rvgearlab-amz-20",
     "description": "Wefaith is a thickened steel campfire tripod with a triangular, no-wobble design and a black powder coating that withstands up to 1500F. Its open center design aids airflow.\n\nThe tripod is the only piece here that suspends cookware above flames, unlike the grate kits. It fits dutch ovens, kettles and other pots.\n\nChoose it to add a hanging cook point to any set. It is a cheap upgrade.",
     "specs": [
       "Thickened steel tripod",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eScME1uGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8B9FG3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8B9FG3J?tag=rvgearlab-amz-20",
     "description": "THTYBROS packs 27 pieces into a set for 4, including a kettle, non-stick pots and pans, 304 stainless plates and utensils, a spatula and storage bags. Each piece nests inside the pots and the set packs smaller than a football.\n\nIt is the most complete kit here, with enough plates and utensils for four, which the grate sets do not have. Heat-resistant grips are included.\n\nChoose it for family campers who want pots and tableware in one kit. It suits car camping.",
     "specs": [
       "27 pieces for 4 campers",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rTlu+RpKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082KHK2XH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082KHK2XH?tag=rvgearlab-amz-20",
     "description": "ALOCS includes 3 camping pots in 2.3Qt, 1.3Qt and 1.1Qt, plus a non-stick pan, in hard-anodized aluminum with food-grade silicone. Handles are welded rather than riveted and fold flat.\n\nThe 2.3Qt pot is bigger than the sets above for soups and pasta. It has an anti-slip handle that stays cool.\n\nChoose it if you want bigger pots for fire cooking. It suits groups of three or four.",
     "specs": [
       "2.3Qt, 1.3Qt, 1.1Qt pots",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIHmh00lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-amz-20",
     "description": "This THTYBROS 17-piece kit has a 1.70L pot, 1.15L kettle, 7 inch frying pan, stainless cups and plates in hard anodized aluminum. The surface is wire drawn and oxidized for sturdiness and even heating.\n\nIt is cheaper than the 27-piece and brings a frying pan and kettle. Silicone grips are included.\n\nChoose it for fire cooking for one or two. It is a good starter kit.",
     "specs": [
       "17 pieces, hard anodized aluminum",

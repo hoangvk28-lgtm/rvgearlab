@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zT9ML0HzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7G68BMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7G68BMG?tag=rvgearlab-amz-20",
     "description": "The iwister 15 ft strip offers 6 AC outlets and 4 USB ports with a 125V, 13A, 1625W rating and IPX6 splash protection. Power cuts off if the load exceeds 1625W, and a US-patented mechanism lets power flow only when a plug is fully inserted.\n\nAgainst the 5 ft iwister, it triples the reach and uses a 360 degree cord sleeve for durability. The foldable hook swivels for mounting on a post.\n\nIt suits campers who set up a kitchen or charging station away from the pedestal. Ten ports serve a whole group.",
     "specs": [
       "6 AC plus 4 USB, 15 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h3K0YTX4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ1VRBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ1VRBV?tag=rvgearlab-amz-20",
     "description": "The shorter iwister has 6 AC outlets, 2 USB-A and 2 USB-C ports on a 5 ft cord with IPX6 sealing and 16AWG wire. It is rated 13A and 1625W and UL listed, with 8 degree tilted sockets and 45 degree angled plugs.\n\nCompared with the 15 ft iwister, it is much cheaper and keeps the same ports with two USB-C. The angled plug design helps bulky chargers fit.\n\nIt suits campers who plug in close to the outlet and need USB-C. The UL listing is named.",
     "specs": [
       "6 AC, 2 USB-A, 2 USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rxBah6DYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X7FB72B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X7FB72B?tag=rvgearlab-amz-20",
     "description": "The Qiyuan strip has 4 wide-spaced AC outlets, 2 USB-A ports and a 3.1A USB-C port on a 6 ft cord. It has an IPX6 shell with spring-loaded covers, an ETL mark and a 13A, 1625W rating.\n\nCompared with the iwister strips, it offers fewer outlets with spring-loaded covers over each. It adds an independent switch and keyhole mounting slots.\n\nIt suits campers who want a compact post-mounted strip with cover protection. The wide spacing fits large plugs.",
     "specs": [
       "4 AC, 2 USB-A, 1 USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bYYRwc9ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFHZ4LRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFHZ4LRN?tag=rvgearlab-amz-20",
     "description": "The Jgstkcity strip has 6 AC outlets, 1 USB-C and 2 USB-A ports on a 10 ft, 16AWG pure copper cord. It is ETL certificated with 2000 Joules of surge protection and an IPX6 body, rated 12A at 1500W.\n\nAgainst the Qiyuan, it gives more outlets and four extra feet for a few dollars more. Total USB output is 18W across the three ports.\n\nIt suits campers who want a long cord and six outlets with surge protection. Wall mounting is supported.",
     "specs": [
       "6 AC, 1 USB-C, 2 USB-A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4102wfDdCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSZWG133?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSZWG133?tag=rvgearlab-amz-20",
     "description": "The KEBEN strip has 2 AC outlets and 3 USB-A ports on a 6 ft flat-plug cord with IPX4 splash protection. A built-in overload switch trips when connected devices exceed the load, and surge protection is included.\n\nCompared with the iwister strips, it is the cheapest and the simplest. It has a lower IPX4 rating and no USB-C.\n\nIt suits campers who need a few phone charges plus a lamp at a covered spot. The compact body mounts easily.",
     "specs": [
       "2 AC plus 3 USB-A, 6 ft",

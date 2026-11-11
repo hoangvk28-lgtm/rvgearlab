@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sYQ39X8mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDVHP8B6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDVHP8B6?tag=rvgearlab-amz-20",
     "description": "The Swift Touchless Ceramic Foamable Wax in a gallon is a spray on, rinse off product for foam cannons. SiO2 ceramic protection forms a slick hydrophobic layer with strong water beading, and the label names paint, glass, plastic, chrome and ceramic-coated surfaces.\n\nIt costs twice the 32 ounce bottle and gives four times the volume. It is the highest stated ceramic content in the group.\n\nBest for owners with a foam cannon and a large rig. A premium spray-on protection pick.",
     "specs": [
       "Gallon spray on, rinse off",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kEk6YghkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDZ68L2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDZ68L2K?tag=rvgearlab-amz-20",
     "description": "The Swift 32 ounce bottle carries the same touchless ceramic foamable wax, with SiO2 protection and strong water beading. It sprays on and rinses off.\n\nIt costs less than half the gallon and is the way to try the formula. It also needs a foam cannon.\n\nBest for a first trial or a small rig. A low-risk starter size.",
     "specs": [
       "32 ounce spray on, rinse off",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21I7b88fu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTW84F1?tag=rvgearlab-amz-20",
     "description": "Liquishine Wash and Wax is a 2-in-1 exterior RV cleaner that works as a traditional wash or a waterless spray for spot cleaning. It cuts through road grime and film and leaves a slick, glossy, water-repellent finish.\n\nIt costs about the same as the Holley and is made for RVs. It works wet or dry, which the Swift products do not.\n\nBest for RV owners who want to wash or spot clean with one bottle. A flexible spray.",
     "specs": [
       "2-in-1 wash and wax",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u0sxHyj7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY5PSZQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY5PSZQ5?tag=rvgearlab-amz-20",
     "description": "The Holley Speed Wash is a waterless wash and wax spray in two 16 ounce bottles. It lifts surface contaminants and adds carnauba wax protection with a simple spray and wipe.\n\nIt costs a little less than the Liquishine and gives two bottles. It is built for quick cleanups without a hose.\n\nBest for light dirt and road film on the go. A good two-bottle value.",
     "specs": [
       "Two 16 ounce bottles",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sv2LB-PbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002N3RQYA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002N3RQYA?tag=rvgearlab-amz-20",
     "description": "The Aero Cosmetics Wash Wax ALL is a waterless wash and wax for cars, RVs and boats. It uses a spray, damp towel and dry towel method and is water based with no alcohol, ammonia or citrus.\n\nIt costs about half the Liquishine and is the lowest cost waterless product here. It meets Boeing and Airbus cleaning specifications as listed.\n\nBest for a budget waterless detailer. A cheap, reliable spray.",
     "specs": [
       "Waterless wash and wax",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b9v5op0jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AY518?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AY518?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M59 Marine and RV Quik Boat Spray Wax is a 16 ounce spray that protects fiberglass and gel coat. It gently cleans light dirt, applies on wet or dry surfaces and uses carnauba wax for protection.\n\nNo spray here costs less, and the label speaks directly to fiberglass and gel coat. The wet or dry application adds flexibility.\n\nBest for fiberglass RVs with gelcoat. A fast, low-cost spray wax.",
     "specs": [
       "16 ounce spray wax",

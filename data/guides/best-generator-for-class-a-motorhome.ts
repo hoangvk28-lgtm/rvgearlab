@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515v2n2TJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q1DLKBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q1DLKBG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 12500 is the only pick here whose listing names a 14-50R, 50A RV-ready receptacle, alongside a transfer-switch-ready L14-30R and two 20A household outlets. It is rated 9,500 running and 12,500 peak watts on gasoline, or 8,500 and 11,200 on propane, driven by a 457cc engine with remote start key fob. At $999 it is the logical anchor for a 50A coach.\n\nAgainst the Westinghouse 9500 it costs $50 more and adds the 50A plug and about 2,000 more running watts, which is the difference between plugging in directly and using an adapter. Against the AIVOLT 8000 it is $434.52 cheaper but not an inverter, and the listing does not state noise or weight. Pick this if you have 50A service and two ACs. Caveat: open-frame sound and size mean it is a campsite-distance machine.",
     "specs": [
       "9500W running, 12500W peak gas",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 8000 is a dual-fuel inverter producing 8,000 surge and 6,100 running watts from a 322cc engine, at a stated 62 dBA from 23 feet and 129 lb. The listing title calls it a 50A RV generator, and it adds a low-temperature lithium starter battery rated down to -4F.\n\nIt costs $434.52 more than the Westinghouse 12500 and gives up about 3,400 running watts on gasoline, but buys inverter-quality output and much lower noise. Compared with the WEN 6800 it is $635.52 more for 1,000 extra running watts and a 50A claim. Pick this if quiet campgrounds and sensitive electronics matter. Caveat: confirm the exact outlet layout on the listing before buying.",
     "specs": [
       "6100W running, 8000W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN 6800 is a 224cc dual-fuel inverter rated 5,100 running and 6,800 surge watts on gasoline, or 4,500 and 6,000 on propane. Its outlets include an L14-30R 120/240V receptacle and a TT-30R RV outlet, plus a CO Watchdog shutdown sensor and fuel shut-off.\n\nAt $798 it is $151 cheaper than the Westinghouse 9500 and adds inverter output, though it gives up 2,400 running watts. It is $635.52 under the AIVOLT 8000. Pick this if your Class A pairs one big AC with a modest load. Caveat: no 50A receptacle is listed, so a 50A coach needs an adapter and a careful load plan.",
     "specs": [
       "5100W running gas, 4500W propane",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oIv3mPE6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPDJBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPDJBD?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 9500 delivers 7,500 running and 9,500 peak watts on gasoline, 6,750 running on propane, from a 420cc engine and a 6.6 gallon tank. Outlets are two GFCI 20A duplexes and one L14-30R twist-lock, with remote start and a 3-year limited warranty.\n\nIt is $50 cheaper than the Westinghouse 12500 but drops the 50A plug and 2,000 running watts. It is $151 more than the WEN 6800 and brings 2,400 more running watts without inverter output. Pick this if you want big-engine headroom with a 30A coach. Caveat: no RV-ready 50A receptacle, and weight and noise are not listed.",
     "specs": [
       "7500W running, 9500W peak gas",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WvxBgBp6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8LF2PT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8LF2PT?tag=rvgearlab-amz-20",
     "description": "The Vehiker lists 18,000 joules of protection for 50 amp RVs, with a waterproof body, flame-retardant material and a plug-and-play design. The listing also calls it safety-certified.\n\nIt carries a higher joule rating than the GEARGO 15,000J and the GEARGO 13,000J and sits only a few dollars above them. Against the WLLNEE 18,000J it matches joules for a few dollars more and adds the certification mention.\n\nIt is a good first protector for a trailer or fifth wheel on a 50 amp pedestal. The plug-and-play setup needs no tools.",
     "specs": [
       "18,000J for 50A RVs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fBnA5+r8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVVR5XF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVVR5XF?tag=rvgearlab-amz-20",
     "description": "The WLLNEE lists 18,000 joules with a built-in circuit analyzer that checks the pedestal, an IP67 waterproof flame-retardant housing and a right-angle plug with an easy-grip handle. It is the lowest-priced 50 amp unit in the group.\n\nIt matches the Vehiker on joules for a few dollars less and adds a named IP67 rating. Compared with the GEARGO 15,000J, it offers more joules and a different plug shape for tight pedestal clearances.\n\nIt suits budget campers who still want an analyzer and a sealed housing. The right-angle plug helps where the post sits close to the coach.",
     "specs": [
       "18,000J 50A with analyzer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "This GEARGO lists 15,000 joules, a 50 amp circuit analyzer, IP68 waterproofing, flame-retardant material and a rugged enclosure. The right-angle male plug is made to be easy to push in and pull out.\n\nIt sits between the 18,000J picks and the GEARGO 13,000J in joules. Compared with the Vehiker, it puts emphasis on the diagnostic chart for spotting miswired pedestals.\n\nIt fits campers who often park at older parks with questionable wiring. The analyzer lights flag the problem before you plug the coach in.",
     "specs": [
       "15,000J, 50A analyzer",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q0Fbl8DGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-amz-20",
     "description": "The older GEARGO lists 13,000 joules for 50 amp use with a circuit analyzer and a diagnostic chart. It is FCC tested, made from V-1 flame-retardant material and has an IP68 waterproof design with ergonomic grips.\n\nIt trades 2,000 joules against the GEARGO 15,000J to cost a few dollars less. Compared with the WLLNEE, it names the FCC test and the V-1 material while carrying a lower joule number.\n\nIt suits campers who want the GEARGO name and a diagnostic chart without paying for the biggest rating. The V-1 material rating shows what the housing is made from.",
     "specs": [
       "13,000J 50A analyzer",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fySDymd9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H38QWVN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H38QWVN5?tag=rvgearlab-amz-20",
     "description": "The CRTBETLIF is a 30 amp unit with 13,000 joules of listed surge protection and a circuit analyzer. It carries a weatherproof housing with cover and an 8-mode diagnostic chart covering correct wiring, open ground, open hot and reverse polarity.\n\nIt is the stronger of the two 30 amp picks, with more joules than the EPLCSE and an eight-mode light chart. Because it is a 30A unit, it does not replace the 50A models and needs a 30A plug on your RV.\n\nIt suits small trailers and Class B or C rigs with a 30 amp cord. The chart makes reading the lights simpler.",
     "specs": [
       "13,000J, 30A analyzer",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pC3tQ7EEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBJB8L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBJB8L1?tag=rvgearlab-amz-20",
     "description": "The EPLCSE is a 30 amp unit rated 10,000 joules that doubles as a circuit analyzer, checking the pedestal wiring before you connect. It uses V-1 flame-retardant material, a sturdy waterproof cover and an ergonomic handle with LED lights.\n\nIt is the lowest-priced unit on the page and also the lowest in joules. Compared with the CRTBETLIF, it skips the eight-mode chart and costs a few dollars less.\n\nIt suits occasional campers on 30 amp service who only want a basic guard. The LED lights show whether the pedestal is wired correctly.",
     "specs": [
       "10,000J, 30A analyzer",

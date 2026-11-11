@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZpVyXzYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL8VPKC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL8VPKC3?tag=rvgearlab-amz-20",
     "description": "The Platypus QuickDraw Ultralight 3L is a gravity system with a fast 3 L/min flow when squeezed and 1.75 L/min under gravity. A ConnectCap threads onto 28mm bottles, and the kit adds adapters for wide- and narrow-mouth bottles and a CPC connector that fits many hydration reservoirs.\n\nThe filter family is individually tested to the NSF and EPA P231 protocol, for 99.9999% of bacteria and 99.9% of protozoa, according to the QuickDraw listings. The flow is faster than the LifeStraw Peak Gravity 3L or Waterdrop set, and it works as a squeeze filter too.\n\nA strong choice for fast-and-light hikers who want a tested filter that fits the gear they carry. It suits small groups.",
     "specs": [
       "3 L/min squeezed, 1.75 gravity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21IR+c4dkLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SBPPFW2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SBPPFW2?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Peak Compact Gravity pairs a 3 liter bag with a redesigned membrane and a purpose-made backwash tool. Its listing quotes bacteria and parasite removal rates and says it works as a gravity setup, a squeeze bottle, a straw or an inline filter on a bottle.\n\nIt beats the Platypus QuickDraw 3L on versatility and costs less, and the backwash accessory keeps flow up against sand and silt. It does not list a virus claim.\n\nGood for hikers who want one filter that does several jobs. A solo hiker or a couple will find the 3 liter bag adequate.",
     "specs": [
       "3 L bag, four use modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VY51vsm7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09285L8JL?tag=rvgearlab-amz-20",
     "description": "Waterdrop includes a filter straw and a 1.5 gallon gravity bag in this set, with a 0.1 micron ultrafiltration membrane. The listing gives up to 1,400 gallons of life, up to 700 ml per minute of flow and a backwash function.\n\nIt costs well below the Platypus QuickDraw 3L and LifeStraw Peak Gravity 3L, and the straw also connects to bottles. The 1.5 gallon bag holds more than either 3 liter system.\n\nBest for budget hikers who want a bag, a straw and a backwash in one low-cost box. It suits pairs and light trips.",
     "specs": [
       "1.5 gallon gravity bag",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311OGfRC77L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QQJM6JR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QQJM6JR?tag=rvgearlab-amz-20",
     "description": "The miniwell gravity kit weighs 0.8 pounds as a whole system and filters up to 2,000 liters, according to its listing. The L630 filter screws onto 28mm bottles, the bladder has a slidelock wide-mouth opening and a lifetime guarantee backs the set.\n\nNo other kit in this list prints a whole-system weight, which makes this one the easiest to plan around. The filter backflushes with a supplied collapsible bottle, and a syringe is included.\n\nGreat for gram counters who want a known weight and a long filter life at a low price. It also fits emergency kits.",
     "specs": [
       "0.8 lb whole system",

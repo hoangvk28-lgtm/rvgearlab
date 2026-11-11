@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514lHXeH4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4DLKXJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4DLKXJB?tag=rvgearlab-amz-20",
     "description": "The SOARAISE lists 48000mAh, four solar panels said to charge up to 5 times faster than single-panel models, 4 built-in cables, 3 ports (2 USB-A outputs and 1 USB-C in and out) and a wireless charging pad. It uses a lithium-polymer battery described as lasting more cycles.\n\nIt has more capacity and more panels than the BLAVOR, and costs more than the SOXONO and Nuynix. It is the most complete pick for multi-day phone use.\n\nIt suits campers who want the most solar panel area and several cables. The wireless pad charges phones without a cord.",
     "specs": [
       "48000mAh, four panels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511OdUB3XzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDJ2YTKH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDJ2YTKH?tag=rvgearlab-amz-20",
     "description": "The SOXONO lists 40000mAh with a 20W PD Type-C port that charges an iPhone to 65 percent in about 30 minutes. It has 3 output cables (Type-C, iOS and Micro USB) plus a USB-A input cable and dual LED flashlights with four modes.\n\nIts 20W port sits above the Nuynix's 15W, and it costs less than the SOARAISE. It has no wireless pad.\n\nIt suits campers who want a quick phone refill with a light. The flashlights run steady, SOS, strobe and low.",
     "specs": [
       "40000mAh, 20W PD Type-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-cH+IrGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4Z7VJ43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4Z7VJ43?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists 20000mAh with 4 built-in cables (2 USB-C, 1 iOS and 1 USB-A), 3 ports and wireless charging for phones and an Apple Watch. It charges 6 devices at once and has a flame-retardant ABS and PC shell with silicone protection.\n\nIt is smaller than the SOARAISE and SOXONO, and it adds Apple Watch charging. It costs more than the GULLVEN.\n\nIt suits campers with an iPhone and a watch who want a mid-size bank. Seven accessory functions include a flashlight.",
     "specs": [
       "20000mAh, wireless, 6 devices",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zPYpeBRUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PHJ8X7Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PHJ8X7Z?tag=rvgearlab-amz-20",
     "description": "The BLAVOR 10,000mAh bank has a 20W USB-C output that charges an iPhone 15 to 65 percent in about 30 minutes, plus wireless charging, a lithium-cobalt battery and an IPX5 rating. The listing calls it the smallest and lightest solar charger of its kind.\n\nIt is the smallest pick here, and it has a fast USB-C port. It holds about a fifth of the SOARAISE's capacity.\n\nIt suits day hikers and commuters who want a pocket solar bank. A flame-retardant case and silicone protect it.",
     "specs": [
       "10,000mAh, 20W USB-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mzwYCUMUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVS455HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVS455HJ?tag=rvgearlab-amz-20",
     "description": "The GULLVEN lists 20000mAh with 3 built-in output cables (Type-C, Lightning and Micro USB), a USB-A input cable, 3 ports and 6 devices at once. It carries UL, CE, FCC, RoHS and UN38.3 certifications and a camping light with an SOS flashlight.\n\nIt names the most safety certifications of the six, and it costs less than the BLAVOR 20000mAh. It has no wireless pad.\n\nIt suits budget campers who want named certifications and a camp light. It recharges by solar or by a wall socket.",
     "specs": [
       "20000mAh, 4 cables, 6 devices",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJBVZoE7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSS56BYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSS56BYQ?tag=rvgearlab-amz-20",
     "description": "The Nuynix lists 49800mAh with a 15W USB-C fast-charging port, multiple USB ports, a rugged housing and an LED flashlight. It can recharge by USB or by solar as a backup.\n\nIt is the cheapest pick and the one with the most mAh per dollar. It has slower 15W charging than the SOXONO.\n\nIt suits budget buyers who want maximum capacity and a flashlight. The listing frames solar as a supplemental option.",
     "specs": [
       "49,800mAh, 15W USB-C",

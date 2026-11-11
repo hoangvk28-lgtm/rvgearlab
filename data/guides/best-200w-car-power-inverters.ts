@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XJS8ordwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QFZ6W9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QFZ6W9L?tag=rvgearlab-amz-20",
     "description": "This 200W unit lists 200W total across all outputs, with two AC outlets, two 36W USB-C ports, a 30W QC 3.0 USB-A port, a 17W USB-A port and a pass-through 12V socket. It makes modified sine wave 110V AC and has a separate AC switch so USB charging continues with the outlets off.\n\nIts dual 36W USB-C ports beat the single 30W ports on the Bestek and Vansoet, and the separate AC switch is unique among the six. It costs a little more than the budget twins.\n\nIt suits drivers who charge two laptops or tablets plus phones off one socket. A temperature-controlled fan and an LED voltage display add monitoring.",
     "specs": [
       "200W combined across all outputs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FSUaeaBAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJCGHBM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJCGHBM8?tag=rvgearlab-amz-20",
     "description": "The Bestek is rated at 200W continuous on its listing and adds a 30W USB-C PD port and an 18W USB-A port. It measures 3.7 x 2.5 x 0.9 inches, weighs 0.5 lb and wears an aluminum alloy shell with a variable-speed fan.\n\nSmallest and lightest of the six, it is also the only listing that says continuous output outright. Against the Hansshow it has fewer ports, and it sits among the lowest prices.\n\nIt suits drivers who want a flush-fit unit that stays cool with one laptop or tablet. Short-circuit, overload, voltage and temperature protections come with the BST chip.",
     "specs": [
       "200W continuous, 0.5 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kM3DGeR+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6D643B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6D643B?tag=rvgearlab-amz-20",
     "description": "The Hansshow lists two US 110V AC outlets, a 30W USB-C, an 18W USB port, an LED display and a cooling fan. The listing notes a 16V-compatible upgrade for Tesla Model Y, 3, S and X and lists full protection against shorts and overloads.\n\nIt is the one unit that lists individual Tesla models, which matters because some EV accessory sockets run at a higher voltage. It costs more than the 7-in-1 and the Bestek.\n\nIt suits EV owners and road-trippers who want an LED status readout. The 24 hour support claim comes with it.",
     "specs": [
       "Two AC outlets, 30W USB-C",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419tYgsOxYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D66G9B67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D66G9B67?tag=rvgearlab-amz-20",
     "description": "This phone-sized inverter lists two US AC outlets, four USB ports and a 65W USB-C, with a 24W USB fast charger. It measures 5.5 x 3 x 1.4 inches, weighs about 10 oz and uses an insulated ABS shell with overheat, voltage, overload and short-circuit protection.\n\nIts 65W USB-C is the highest single-port power here, ahead of the 36W ports on the 7-in-1. It lacks the Bestek's metal case and states no continuous rating.\n\nIt suits remote workers whose laptop charges over USB-C and who want AC as a backup. Quiet, efficient operation is the listing's pitch.",
     "specs": [
       "65W USB-C, 24W USB",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xrf9F-KuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BH28ZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BH28ZF?tag=rvgearlab-amz-20",
     "description": "The Vansoet lists two USB-C ports, two USB-A ports and two AC outlets, with an input voltage display and an operation indicator. Its DC 11-17V input range covers Tesla, a USB-C maximum of 30W and an adaptive fan, and the listing says it is ETL certified.\n\nIt is the only one here that names ETL certification and an 11-17V input range. It costs less than the 7-in-1 and slightly more than the YSOLX.\n\nIt suits budget drivers who want an indicator and a fan that adjusts speed to heat. At 4.92 x 2.95 x 1.81 inches it fits a console.",
     "specs": [
       "11-17V input, ETL certified",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+HyJ7hQLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF976843?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF976843?tag=rvgearlab-amz-20",
     "description": "The YSOLX lists two US AC outlets and four USB ports with a USB-QC 18W port and a USB-C 20W port. It is phone-sized at 5 x 2.7 x 1.4 inches, weighs about 8.5 oz and lists over-voltage, overload, over-temperature and short-circuit protection.\n\nIt carries the lowest USB-C power of the six at 20W and the lowest price alongside the Bestek. The Vansoet adds a display where this keeps things simple.\n\nIt suits drivers who just want to run a phone, tablet and small laptop charger cheaply. Copper wiring and a cooling system round out the pitch.",
     "specs": [
       "USB-QC 18W, USB-C 20W",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rxlFDY7DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47GZR5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47GZR5B?tag=rvgearlab-amz-20",
     "description": "The genuine WFCO WF-8955-AD is a power center for 30 amp RVs with 55 amps of DC output. The listing says it uses patented Auto-Detect to recognize lead-acid or LiFePO4 batteries, holds full output power down to 100 volts of input, carries UL/CSA listing and FCC compliance, and is designed to reduce electrical noise. It sells for $274.91.\n\nIt ranks first because 55 amps is the most common factory size for mid-size trailers and it is the only pick that adds both auto-detect and a low-voltage output claim to a complete power center. It costs $1.02 less than the WF-8945-AD-REP kit and $92.10 less than the 65 amp WF-8965-AD, and it gives 10 more amps than the REP kit for the same money. Against the PD4060KV it is $20.53 cheaper and lists lithium handling.\n\nPick this if your 30 amp rig has a WF-8900 style center and you want the most documented behavior at the most common size. The caveat is that this is a full power center, so the breakers and fuse blocks come out too, and the listing does not give dimensions.",
     "specs": [
       "55A DC, 30A panel",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A-nK7sqnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47GR9GJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47GR9GJ?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-8945-AD-REP is a converter replacement kit for WF-8900 series power centers, rated 45 amps with 780 watts at 105 to 130 volts AC. The listing describes auto-detect charging for lithium and lead-acid, a three-stage charge cycle, short-circuit and reverse-polarity protection, and use as a replacement module so the whole distribution center does not have to be swapped. It costs $275.93.\n\nIt ranks second because its job is narrower and cheaper in labor: only the converter module changes. It costs $1.02 more than the WF-8955-AD but delivers 10 amps less, so the extra cost buys a smaller swap rather than more output. Against the WF-8740-AD, it adds auto-detect and 5 more amps for $50.94 more.\n\nChoose it if the breakers and fuses in your WF-8900 center are fine and only the converter failed. The caveat is that it needs a compatible series, and the listing text does not state a low-voltage output point.",
     "specs": [
       "45A, 780W module",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UON5nUhLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B47YTW7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B47YTW7Q?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-8965-AD is the 65 amp member of the WF-8900-AD series, listed at 105 to 130 volts AC and 1,100 watts with auto-detect battery recognition and 65 amps of DC output. The feature text is short: output, input, wattage and auto-detect. It sells for $367.01.\n\nIt ranks third because at 65 amps it fits larger systems, but it costs $92.10 more than the 55 amp center and $42.26 more than the PD4575CSV. The extra output only helps if you have a bigger bank or several 12V loads, since charge current is limited by the battery. Against the PD4060KV at $295.44 it adds 5 amps and auto-detect for $71.57 more.\n\nPick it if your rig already has a 65 amp WF-8900 series center or you run a larger lithium bank. The caveat is that the listing publishes no low-voltage claim, no safety listing and no dimensions.",
     "specs": [
       "65A DC, 1100W input",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kQonvKvEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BD317ZA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BD317ZA?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD4060KV is a 60 amp Inteli-Power 4000 series converter with Charge Wizard. It is described as compact and lightweight with universal fit, reverse battery protection using easy-to-replace fuses, electronic current limiting, high and low AC input protection, an intelligent variable-speed cooling fan and automatic thermal protection. It is priced at $295.44.\n\nIt ranks fourth because it is the one Progressive pick here that works as a stand-alone converter at a size between WFCO's 55 and 65 amp centers. It costs $20.53 more than the WF-8955-AD but lists no lithium or auto-detect feature. It is $29.31 below the PD4575CSV and gives a variable-speed fan, which is a noise advantage over simpler fan designs.\n\nChoose it if your rig has Progressive Dynamics wiring and a lead-acid or AGM bank, and you want the most protections listed. The caveat is that lithium is not mentioned, and the price is above the WFCO 55 amp unit.",
     "specs": [
       "60A, Charge Wizard",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-ZHrf1tWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XH2DBM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XH2DBM5?tag=rvgearlab-amz-20",
     "description": "The WFCO WF-8740-AD is a 40 amp member of the WF-8700-AD series, rated 105 to 130 volts AC and 680 watts. The listing says its battery flexibility suits smaller RVs and gives only the output, input and wattage. It is the least expensive pick at $224.99.\n\nIt ranks fifth because 40 amps is a smaller size than most of this list and the feature text offers no charge profile, safety listing or low-voltage detail. It is $49.92 below the WF-8955-AD and $51 below the WF-8945-AD-REP, which pays for 15 and 5 fewer amps. Its main advantage is a smaller footprint in the WF-8700 series for compact trailers and camper vans.\n\nPick it only for a small RV with a WF-8700 series center and a modest battery. The caveat is the thin listing, so confirm the charge profile and chemistry support with the seller before you buy.",
     "specs": [
       "40A DC, 680W input",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GTde5-52L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077QB4185?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077QB4185?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD4575CSV is a 75 amp replacement section for the 4500 series power center. The listing repeats its name and part number and gives no electrical detail, charging profile or protections. It is priced at $324.75.\n\nIt ranks last because it is the most expensive stand-alone section, $29.31 above the PD4060KV, and the listing does not even state a charge mode. It is $42.26 below the WFCO 65 amp center, and it is the only pick with 75 amps, so it fits only a 4500 series center that already carries a 75 amp section.\n\nChoose it only to restore an existing PD4500 series center with the same section. The caveat is that none of the usual specs are published, so confirm everything with the seller or the center's label.",
     "specs": [
       "75A section, 4500 series",

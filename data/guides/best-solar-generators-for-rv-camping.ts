@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aRjvEft0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLNK2BPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLNK2BPD?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 1000 v2 pairs a 1070Wh LiFePO4 power station with two 200W panels. It supplies 1500W AC with a 3000W surge, three pure sine wave outlets, two USB-C ports including 100W PD, one USB-A and a car port, in a unit of about 23.8 lb.\n\nCompared with the ZeroKor kit it offers more than three times the capacity and 400W of solar input. The listing names a 0 to 80 percent solar charge in about 3 hours.\n\nIt suits RVers who run a fridge, lights and a laptop through a weekend off grid. The LiFePO4 cells are rated for over 70 percent capacity after 4000 charge cycles.",
     "specs": [
       "1070Wh, 1500W AC output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OSwyfZg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-amz-20",
     "description": "The ZeroKor kit includes a 300W power station with a 280Wh lithium-ion battery, a 40W foldable solar panel and a 100W power pack. The main unit offers two 110V pure sine wave AC outlets, a DC port, three USB ports and a built-in SOS flashlight with short circuit and overload protection.\n\nIt is far smaller than the Jackery, and it adds a second 100W power bank in the same box. The price is less than a fifth of the Jackery kit.\n\nIt suits tent campers and van travelers who need to charge phones, tablets and laptops. It is not a fit for fridges or heating appliances.",
     "specs": [
       "300W station, 280Wh battery",

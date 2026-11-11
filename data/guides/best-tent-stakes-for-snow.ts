@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+rjjcV+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D888QN4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D888QN4Y?tag=rvgearlab-amz-20",
     "description": "The Takelablaze set has 10 aluminum stakes, each 12.2 inches long, 1.42 inches wide and 52 g, with a U-shaped end. The listing says each hole can lock the rope, and it calls for driving them in at 45 degrees into sand or snow.\n\nIt has the longest stake and the largest pack in the group, ahead of the 12 inch Ogrmar and the 9 inch KUMGROT. It also costs the most of the four.\n\nIt suits a winter camper who needs enough stakes for a four-season tent and a few guylines. Ten pegs cover the tent plus a tarp or vestibule.",
     "specs": [
       "10 aluminum, 12.2 inch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nm-M4s2LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FKJLVQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FKJLVQ8?tag=rvgearlab-amz-20",
     "description": "The TRIWONDER stakes are lengthened U-shaped aluminum pegs that weigh 52 g each and carry six holes for rigging. The listing names holding power in sand and snow and recommends a 45-degree insertion angle.\n\nCompared with the Takelablaze they have the same listed weight and a stated six holes for rope placement, at a lower price. Next to the Ogrmar they are priced the same and stress the rigging options more.\n\nThey are a good fit for campers who want to tune where the guyline attaches as snow depth changes. The pack of 6 handles a small winter tent and tarp.",
     "specs": [
       "6 aluminum U-shaped stakes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51e7E8qY2GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07583YV6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07583YV6J?tag=rvgearlab-amz-20",
     "description": "The Ogrmar stakes are 12 inches long and 1.38 inches wide with a 0.42 inch hole diameter, and they weigh 1.76 oz. They carry 6 holes and come 6 to a pack, with a wider and longer U style the listing says makes them stronger.\n\nThey match the TRIWONDER on price and hole count and give a stated 12 inch length. Against the Takelablaze they are slightly lighter per stake and come in a smaller pack.\n\nThey are a good pick for a solo camper or a small tent in snow. The large 0.42 inch hole fits thicker cord.",
     "specs": [
       "12 inch, 1.38 in wide",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zlOWm7TjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYN1G1PQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYN1G1PQ?tag=rvgearlab-amz-20",
     "description": "The KUMGROT pegs are 9.06 inches long and 1.42 inches wide, in a pack of 4 thickened aluminum alloy stakes. A raised U-shaped top makes it easy to tie a rope and pull the peg back out.\n\nIt is the cheapest pick, and it is also the shortest, sitting about 3 inches shorter than the Takelablaze and Ogrmar. A row of round holes adds friction against the snow.\n\nIt suits a day trip, a snow shelter or a small tent that needs only a few anchor points. The listing names snow, sand and ice as surfaces.",
     "specs": [
       "4 aluminum alloy, 9.06 inch",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a mummy bag rated to 0F, built for campers up to 6 foot 2. It adds a Thermolock draft tube along the zipper and Coletherm hollow polyester insulation for retention with less weight.\n\nNext to the OneTigris, it is far warmer and cut for taller sleepers. Against the NewDoar, it covers winter nights that the lighter bag cannot.\n\nIt suits backpackers who camp in cold seasons and want a single bag that handles freezing nights. It is the one pick here with a 0F rating.",
     "specs": [
       "Rated to 0F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "The OneTigris Bushcrafter's is a mummy for spring, summer and fall at about 46F to 59F. It uses a 300T pongee shell, a 190T lining and 7 oz polycotton filling, with YKK anti-snag zippers and a cord-stopped hood.\n\nCompared with the Coleman, it is lighter in intent and made for milder nights. Against the ECOOPRO, it is a mummy rather than an envelope and keeps heat better.\n\nIt fits bushcraft and backpacking where a sturdy shell and a snug mummy hood are needed. The 6.8 by 2.7 foot cut is roomy for tall hikers.",
     "specs": [
       "Mummy, 46F to 59F rated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JSSsyhI0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088CV24NV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088CV24NV?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO is a waterproof nylon envelope with a polyester lining and a smooth zipper. It packs into a compression sack and is made for outdoor and travel use.\n\nAgainst the NewDoar, it adds a waterproof nylon shell and polyester lining. Compared with the MalloMe, it is similar in scope with a smoother-running zipper.\n\nIt suits warm-weather hikers who want a waterproof, washable bag with simple packing. It also works as a guest bag.",
     "specs": [
       "Waterproof nylon shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "The NewDoar weighs 1.5 lb and folds to about 12 by 6.5 inches. It has a 380T ripstop nylon shell and a 50F to 70F three-season range.\n\nAgainst the OneTigris, it is lighter and more compact, and its two-way zippers link two bags into a double. Against the Coleman, it saves a great deal of weight in return for a much higher temperature range.\n\nIt works for ultralight hikers who only camp in warm weather. The linking zipper helps couples.",
     "specs": [
       "1.5 lb, 11.8 x 6.5 inch pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "The MalloMe is a three-season bag in a 50F to 77F range that comfortably holds a 6 foot adult. It carries about 3 lb of weight and an easy-clean waterproof shell that goes in the washer when needed.\n\nCompared with the ECOOPRO, it states a temperature range and weight. Against the OneTigris, it is the more affordable all-rounder.\n\nIt suits families who want one bag that fits kids and adults. The easy-clean shell helps with muddy kids.",
     "specs": [
       "About 3 lb",

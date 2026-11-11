@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "4Patriots Patriot Power Generator 1200 Portable Solar Power Bank, Silent, Fume-Free Solar Generator",
     amazonQuery: "4Patriots Patriot Power Generator 1200 Portable Solar Power Bank, Silent, Fume-Free Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F1ZK3F3C?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F1ZK3F3C?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41ZsXJdMHWL._SL500_.jpg",
     specs: ["Product type: Battery power station","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Battery power station"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "4Patriots Patriot Power Sidekick: Mini Solar Generator Powers Phones, Laptops, & CPAP",
     amazonQuery: "4Patriots Patriot Power Sidekick: Mini Solar Generator Powers Phones, Laptops, & CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B0BLZR91CL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BLZR91CL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41PXBPhpZ7L._SL500_.jpg",
     specs: ["Listed weight: 8.4 lb","Included panel: 40W","Runtime claim: Up to 4.5 hours","Battery cycle claim: 2,000 cycles"],
     specList: [{"label":"Listed weight","value":"8.4 lb"},{"label":"Included panel","value":"40W"},{"label":"Runtime claim","value":"Up to 4.5 hours"},{"label":"Battery cycle claim","value":"2,000 cycles"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Portable Solar Generator",
     amazonQuery: "Portable Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51OSwyfZg2L._SL500_.jpg",
     specs: ["Capacity: 280Wh","Included panel: 40W","AC waveform: Pure sine wave","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"280Wh"},{"label":"Included panel","value":"40W"},{"label":"AC waveform","value":"Pure sine wave"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "3600W Portable Power Station PowerMax 3600 PE",
     amazonQuery: "3600W Portable Power Station PowerMax 3600 PE",
-    amazonUrl: "https://www.amazon.com/dp/B0GTPZ1YR8?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GTPZ1YR8?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41mUnXVbLbL._SL500_.jpg",
     specs: ["Capacity: 2,016Wh","Continuous output: 3,600W","Surge output: 7,200W","Listed weight: 52 lb"],
     specList: [{"label":"Capacity","value":"2,016Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"7,200W"},{"label":"Listed weight","value":"52 lb"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "4Patriots Patriot Power Generator 1200 Portable Solar Power Bank, Silent, Fume-Free Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0F1ZK3F3C?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0F1ZK3F3C?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

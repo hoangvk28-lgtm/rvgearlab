@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 hits the sweet spot for a 30 amp trailer. It stores 2,048Wh in LiFePO4 cells, delivers 2,400W rated and 4,000W peak, and has a TT-30 socket the listing describes as powering your RV directly. Anker says that rated power is enough for most window and RV air conditioners, and the unit can expand to 4kWh with an extra battery.\n\nCompared with the BLUETTI Elite 300 right below it, the Anker saves about $250 and gives up roughly a thousand watt-hours, and what it adds is more charging flexibility: six ways to recharge, a full refill in 58 minutes on AC and solar, and an 800W alternator input that fills the battery in about three hours while you drive. For an RVer who moves every few days, that road charging is the headline feature.\n\nIt suits a weekend or week-long camper with a fridge, lights, fans and a microwave, who wants an easy, familiar unit to plug the trailer into. The expansion option means you can add capacity later without replacing the inverter.",
     "specs": [
       "2,048Wh LiFePO4, 2,400W rated, 4,000W peak",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JMyZy68zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT3SNGJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT3SNGJM?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 packs 3,014Wh of LFP storage into a case Bluetti calls 59 percent smaller than traditional large stations. It is built for RV use, with a TT-30 port and a 12V/30A DC output for running 12 volt gear straight from the battery. A 2400W continuous inverter with 4800W surge covers a fridge, microwave, routers and a CPAP together, and a 10ms UPS switch protects electronics during dropouts.\n\nStepping up from the Anker C2000 Gen 2 buys another thousand watt-hours of runtime and a native 12V/30A DC port, which is useful for a 12 volt fridge or a DC air compressor. Stepping over to the SolarPlay Q3600 swaps the compact footprint for 3600W of output and about 800Wh more battery for a similar price.\n\nChoose it if you live in the rig for weeks at a time and want the largest battery that still moves with one person. The compact size makes it practical to stow in a bay or under a dinette, and the 12V port means DC devices skip the inverter losses entirely.",
     "specs": [
       "3,014Wh LFP, 2400W continuous, 4800W surge",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QPPt83nmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMJVB9FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMJVB9FD?tag=rvgearlab-amz-20",
     "description": "The SolarPlay Q3600 offers 3,840Wh of LiFePO4 storage and a 3600W pure sine wave inverter with a 5500W peak for $1,199.99, which is a lot of capacity for the price. A NEMA TT-30 port sits among fifteen outputs, and it accepts up to 2000W of solar input across an 11.5V to 160V window, so a large rooftop array can refill it fast.\n\nAgainst the BLUETTI Elite 300 above, the SolarPlay trades the compact case for 826Wh more capacity and 1200W more continuous output at the same price, and wheels with a telescopic handle make the 93.7 pound weight manageable. Against the Growatt HELIOS 3600 below, it costs about the same and adds integrated wheels, while the Growatt answers with a larger expansion ecosystem and parallel 240V.\n\nThis is the pick for a boondocker who wants to run a rooftop air conditioner for a few hours, then recharge from panels the next day. UL certification with twelve safety protocols, and a rated 4000-plus cycle life, support a long-term purchase.",
     "specs": [
       "3,840Wh LiFePO4, 3600W AC, 5500W peak",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x7AJfYL4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7SZJWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7SZJWY?tag=rvgearlab-amz-20",
     "description": "The GROWATT HELIOS 3600 combines a 3,600Wh LFP battery with a 3600W inverter, and two units can be paralleled for 240V and 7200W output. The platform expands up to 36kWh, which puts it more in the territory of a home battery than a camping cooler. A 2000W solar input refills the battery in about 2.8 hours, and a quick-response switchover under 15 milliseconds keeps sensitive loads running.\n\nNext to the SolarPlay Q3600, the Growatt costs about the same and gives you the parallel 240V option plus a cold-start capability for winter use. Against the AFERIY P280 below, it adds 1,552Wh of battery for roughly $460 more, which buys about a day of extra fridge time.\n\nIt is the right fit for an owner who might later move the system into a cabin, a shop or a house as a backup, or who wants a path to grow past a single unit. Buyers who want a simple plug-and-camp unit will be happier with the TT-30 models above.",
     "specs": [
       "3,600Wh LFP, 3600W output",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FEOGNT1bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWK74W5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWK74W5M?tag=rvgearlab-amz-20",
     "description": "The AFERIY P280 delivers a 2800W pure sine wave inverter with a 5600W peak, and a 2,048Wh LFP battery, at $739. That is the lowest price in the group, and the inverter is the strongest of the 2,048Wh class. Charging is the trick: 1800W AC input plus 1200W of PV input across two inputs takes it from 0 to 80 percent in about 38 minutes.\n\nCompared with the Anker C2000 Gen 2, the AFERIY costs $210 less, adds 400W of continuous output and charges to 80 percent quicker, while the Anker adds a stated TT-30 outlet and alternator charging. Against the Growatt HELIOS 3600 it gives up capacity for a lower price and a much lighter load.\n\nIt works well for a weekend camper who runs a fridge, a coffee maker and a few devices, or a budget builder who plans to expand to 10.24kWh later with extra batteries. Dual PV inputs make a two-panel array simple, since there is no separate MPPT box to add.",
     "specs": [
       "2,048Wh LiFePO4, 2800W, 5600W peak",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GPm+ar94L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47HQVC5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47HQVC5?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 is the only pick here that bundles a serious solar array, two 400W panels, with a 3,840Wh LiFePO4 station rated at 3600W with a 7200W peak. A TT-30 RV port sits among fifteen outputs, and combined AC and solar input of 3500W takes it from 0 to 80 percent in about 1.1 hours. EVE LiFePO4 cells and a BMS back the long-term claim, and capacity expands up to 11,520Wh.\n\nAgainst the SolarPlay Q3600 the capacity and output match, and the ABOK adds the panels and a 7200W surge ceiling at the cost of about $800 more. That premium works out to roughly the price of two 400W panels, so it is fair if you want a single box ready to run off the sun.\n\nChoose it if you want to go off-grid in one purchase, camp in sunny regions, and need an inverter that can start an air conditioner repeatedly. The listing notes the station and panels were on backorder, so check the shipping date before ordering.",
     "specs": [
       "3,840Wh LFP, 3600W, 7200W peak, expandable to 11,520Wh",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xhzNHkjsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2YJLX7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2YJLX7P?tag=rvgearlab-amz-20",
     "description": "The DABBSSON 3000L is the clearest answer to what a 3000W solar generator should be: a 3,072Wh semi-solid LiFePO4 battery behind a 3000W rated inverter that can lift to 3600W in P-Boost mode. A TT-30 RV outlet is built in, so a 30 amp shore cord from your trailer plugs straight in without an adapter. At $1,299 with a 210W panel in the box, it is also the second lowest price here once you count what is included.\n\nCompared with the EcoFlow DELTA 3 Max Plus just below it, the DABBSSON adds a bigger solar ceiling, accepting up to 1200W of MPPT solar input, and the same 1800W AC input brings it to 80 percent in about 1.5 hours. The EcoFlow answers with a faster fill from AC and a more mature app, while the DABBSSON offers a larger battery and the dedicated RV outlet at a lower price.\n\nIt suits a full-timer or long-weekend camper who wants one box to run a fridge, a microwave and a fan together, charge from a rooftop array through the day and keep a clear 3000W ceiling for tools. Thirteen outputs mean laptops, a CPAP and phone chargers all have a port, and the app lets you slow AC charging to suit a modest campground circuit.",
     "specs": [
       "3,072Wh semi-solid LiFePO4 battery",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tmBKjo9pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR958XM7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR958XM7?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Max Plus is sold on speed and polish. It delivers up to 3000W of output, can hold 3400W of continuous load in X-Boost mode, and refills from empty to 80 percent in about 64 minutes from the wall, which is the shortest turnaround in this comparison. A LiFePO4 battery is built for ten years of daily use and a transfer time under 10 milliseconds lets it act as a household backup box too.\n\nStepping down from the DABBSSON above, the EcoFlow gives up the dedicated RV outlet in the listing and the larger solar ceiling, and in return it brings X-Stream charging and the EcoFlow app, which lets you set priorities and watch consumption in real time. Stepping up to the DELTA 3 Ultra costs another $600 for a 3600W continuous inverter and two 220W panels, which is the right move only when the load is bigger than 3400W.\n\nThis is the pick for someone who drives between campgrounds, plugs in for an hour at a pedestal or a fuel stop, and wants to be back at 80 percent before the kettle boils. A 220W panel is included, so a sunny site can top the battery up while you are out hiking.",
     "specs": [
       "3000W output, 3400W X-Boost continuous",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hDAFrSW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT86P9PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT86P9PL?tag=rvgearlab-amz-20",
     "description": "The PECRON F3000LFP is the price breaker in a category where most units cost $1,300 and up. At $948 you get a 3,072Wh LiFePO4 battery, a 3600W pure sine wave inverter and a cart kit with wheels, which matters because this class of unit is heavy. It offers thirteen ports, including a 100W USB-C PD port for a laptop, and it refills from 0 to 100 percent in about two hours from the wall at 1800W.\n\nThe jump from the Anker F3000 above it is mostly about money and ecosystem: both are 3,072Wh, but the Pecron costs about $650 less and accepts the same kind of solar input through an XT60 to MC4 cable, while the Anker brings an expansion path to 24kWh and a more refined 120/240V pairing. For a one-battery setup, the Pecron delivers the same stored energy for far less.\n\nIt fits a first-time buyer building an off-grid kit one piece at a time, a camper who plans to add panels separately, or a household that wants outage backup for a fridge and a CPAP. A two-year plus three-year warranty bundle gives some reassurance at this price.",
     "specs": [
       "3,072Wh LiFePO4, 3600W pure sine wave",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315U+wt+sUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W3M398?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W3M398?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX F3000 is built as the first brick in a larger system. It stores 3,072Wh in LiFePO4 cells, offers 120/240V output when two units are paired, and expands to 24kWh with extra batteries. Solar input is generous at up to 2,400W through its 165V and 60V ports, and 3,600W of pass-through charging lets a generator feed the unit while it runs appliances at full power.\n\nCompared with the Pecron, the Anker costs more but brings low idle consumption, rated at 125 hours of AC standby or about 42 hours running a 190W fridge, and a 6,000W fast-recharge ceiling when expanded. Against the EcoFlow DELTA 3 Ultra the Anker is cheaper by about $500 and offers a bigger solar intake, while the EcoFlow adds quieter 25dB operation and a stated 3600W continuous rating.\n\nChoose it if you expect to add battery capacity later, want to run 240V appliances from a pair, or plan a big solar array on a trailer roof or a cabin. Its ultra-low standby draw makes it a good fit for a fridge that stays on for days.",
     "specs": [
       "3,072Wh LiFePO4, expandable to 24kWh",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TJeORA8xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8LQV82?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8LQV82?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Ultra is the full-power version of the family: 3,072Wh, 3600W continuous output with a 7200W surge, and two 220W solar panels in the box. Its X-Quiet 3.0 cooling holds noise to about 25dB under load, quieter than a library whisper, so it can run an overnight fridge, a fan or an air conditioner without disturbing anyone in the next room.\n\nAgainst the DELTA 3 Max Plus above it in this list, the Ultra adds roughly 200 more watts of continuous output and doubles the panel count for $600 more. That premium is worthwhile when the planned loads include a 13,500 BTU rooftop air conditioner or a microwave plus a coffee maker at the same time. Against the Jackery HomePower 3000, the EcoFlow matches the 3600W and 7200W figures at a slightly lower price and with a quicker switchover under 10 milliseconds.\n\nIt makes the most sense for a part-time RVer who also wants home backup, a user running sensitive equipment on UPS mode, or anyone who values a quiet overnight setup. Four charging options, wall, solar, car and the EcoFlow Smart Generator, keep it flexible on the road.",
     "specs": [
       "3,072Wh, 3600W continuous, 7200W surge",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 is the most conventional choice here, a 3,072Wh LFP battery with 3600W output, a 7200W surge and two SolarSaga 200W panels in the bundle. It fully recharges in 1.7 hours using AC and DC together or 2.2 hours from AC alone, and a UL-certified UPS that switches in 20 milliseconds or less keeps routers, cameras and medical equipment running through a blackout.\n\nPlaced next to the DELTA 3 Ultra, the Jackery gives the same headline power for $50 more and offers the Jackery app along with ChargeShield 2.0 charging logic, while the EcoFlow has the faster 10 millisecond switch and the quieter fan. If budget is the deciding factor, the Pecron delivers the same capacity at less than half the price, so the Jackery earns its place on brand support and its bundled panel pair.\n\nIt suits a household buyer who wants one service line to call, a camper who values the SolarSaga ecosystem and anyone building a backup kit for a family. Dual 100W PD ports charge two laptops at once, which is helpful for remote work.",
     "specs": [
       "3,072Wh LFP, 3600W output, 7200W surge",

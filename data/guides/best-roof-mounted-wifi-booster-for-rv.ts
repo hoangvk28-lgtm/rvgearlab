@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31e8PGS6rvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079WWGB32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079WWGB32?tag=rvgearlab-amz-20",
     "description": "The Winegard Connect 2.0 WF2-335 is an outdoor RV Wi-Fi router with high-gain roof antennas, a dual-band router inside the RV, browser-based setup and a weather-sealed roof design. Among its strengths, router and antenna combined.\n\nIt is the integrated pick, replacing a router and antenna separately. It costs less than the KING Falcon.\n\nBest for full-time travelers who want a simple roof system. Buyers also get this: weather-sealed build.",
     "specs": [
       "Roof Wi-Fi router, dual band",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yIUnBWrsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D1DFHYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D1DFHYZ?tag=rvgearlab-amz-20",
     "description": "The KING KF1001 Falcon is a fully automatic directional Wi-Fi antenna with a WiFiMax router and range extender, a free app on Android and iOS and 2.4 GHz range plus 5 GHz speed. Buyers also get this: includes router and extender.\n\nIt aims itself, which none of the others do, and it costs the most. It suits owners who park in different places.\n\nA fit for frequent movers who want automatic aiming. It also stands out because 2.4 and 5 GHz.",
     "specs": [
       "Automatic directional antenna",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+DbnGebeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YGPDPW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YGPDPW8?tag=rvgearlab-amz-20",
     "description": "The Tupavco 12 dB omni antenna is 3 feet long with an N-female connector and a fiberglass weatherproof radome, built for roof mounting. It has 12 dB gain at 2.4 GHz.\n\nIt is an antenna, not a router, and it costs less than the integrated systems. It works with a compatible router.\n\nBest for DIY roof setups. Worth noting on the listing: lower price than systems.",
     "specs": [
       "12 dB 2.4 GHz omni",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r14WtGFpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB481QB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB481QB5?tag=rvgearlab-amz-20",
     "description": "The CINAMON AX1800 outdoor extender has six antennas, Wi-Fi 6 at AX1800, repeater, router and AP modes and an IP65 rating. It is a general outdoor unit, not RV-specific.\n\nIt offers the fastest speed class of the budget picks and can be pole mounted at a roof. It needs PoE or a power plan.\n\nA fit for owners comfortable mounting a pole. Among its strengths, six antennas.",
     "specs": [
       "AX1800 Wi-Fi 6",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hYmy92QKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H85M5K3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H85M5K3N?tag=rvgearlab-amz-20",
     "description": "The INEAUTO AC1200 outdoor extender uses Wi-Fi 5 dual band at 867 Mbps and 300 Mbps, an IP65 housing with lightning protection, repeater, AP and router modes, PoE and a mounting kit. Among its strengths, iP65 with lightning protection.\n\nIt is cheaper than the CINAMON AX1800 with a lower speed class. It includes a mounting kit.\n\nBest for budget roof or pole installs. Buyers also get this: lower price.",
     "specs": [
       "AC1200 dual band, IP65",

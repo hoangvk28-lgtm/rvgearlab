@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41izT-u356L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPFJ9NRY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPFJ9NRY?tag=rvgearlab-amz-20",
     "description": "The ERAYAK lists 150W continuous and 300W peak power with 3 AC outlets, USB-C 18W, USB-A and an extra covered 12V socket. It plugs directly into the vehicle socket and has an externally accessible 12A/125V glass fuse that can be replaced without opening the unit.\n\nAgainst the 120W 12V/24V unit, it adds a USB-C port and keeps a second 12V socket free. Compared with the 600W models, it stays inside the socket limit by design.\n\nIt suits a car camper charging a laptop, phone and tablet from one socket. The externally replaceable fuse is a strong practical detail.",
     "specs": [
       "150W continuous, 300W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jem+QvYOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C5FK6ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C5FK6ML?tag=rvgearlab-amz-20",
     "description": "This inverter lists 120W for both 12V cars and 24V trucks, with 3 AC outlets, dual cigarette lighter sockets and 4 USB ports at 2.4A each. It claims CE, RoHS and FCC tests, eight protection functions and a display showing battery and temperature.\n\nCompared with the ERAYAK 150W, it works on a 24V truck system and offers four USB ports. Next to the NDDI 400W, it plugs directly into the socket rather than using a cord.\n\nIt suits drivers who switch between a 12V car and a 24V truck and want lots of USB ports. The display tracks battery level and temperature.",
     "specs": [
       "120W, 12V or 24V input",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511qD-sam4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088PFQLM7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088PFQLM7?tag=rvgearlab-amz-20",
     "description": "The NDDI lists 400W with 2 AC outlets, dual 3.1A quick-charge USB ports and a 21.65 inch cord. It is 7.48 x 5.1 x 2.55 inches and weighs 0.88 lb, with ABS fire-resistant housing and a built-in fuse.\n\nCompared with the plug-in ERAYAK 150W, it uses a cord, so the body can sit on a seat or console. Against the 600W units, it is lighter and has no clamps.\n\nIt suits a driver who wants the inverter off the socket for easier placement. At 0.88 lb it is easy to carry.",
     "specs": [
       "400W, 2 AC outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E8UxBJllL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGLB8RDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGLB8RDN?tag=rvgearlab-amz-20",
     "description": "The MWXNE lists 600W continuous and 1200W peak with dual AC outlets, 2 USB-C PD 30W ports, 2 QC 18W USB-A ports and a cigarette lighter outlet. It draws power through the lighter plug or alligator clips, and uses a 40A fuse plus a low-noise fan that adjusts to load.\n\nCompared with the ERAYAK 150W, it offers clips for higher draw. Against the Joemnwart 600W, it lists a built-in 40A fuse and similar ports at a lower price.\n\nIt suits a camper who charges devices from the socket and clamps to the battery for a larger load. The four fast-charge ports cover phones and laptops.",
     "specs": [
       "600W continuous, 1200W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eajtJJ6qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK73KJF4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK73KJF4?tag=rvgearlab-amz-20",
     "description": "The Joemnwart lists 600W continuous with 2 AC outlets, 2 USB-C 30W ports, 2 USB-A 18W ports and a cigarette lighter outlet. The listing says devices under 150W such as laptops, cameras, drones and air pumps can run from the car socket, and it uses a silent fan that starts when temperature passes 113F.\n\nCompared with the MWXNE 600W, it states the 150W socket rule openly and costs more. It is aimed at laptops, drones and air pumps rather than kitchen gear.\n\nIt suits a camper with many gadgets who wants clear guidance on socket use. The fan stays off until heat builds.",
     "specs": [
       "600W, 7-in-1 outlets",

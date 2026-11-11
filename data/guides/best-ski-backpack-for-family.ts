@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3159Q+t4ybL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPFFZM38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPFFZM38?tag=rvgearlab-amz-20",
     "description": "The Ski Squad Quad is a family ski backpack and multi-ski carrier that holds up to four sets hands-free. It has a slim 7 inch profile so you can ride a lift with it on, a 27L gear compartment for helmets, lunch, goggles and gloves, and padded shoulder straps with a chest strap and padded waist belt.\n\nIt is the only pick that carries multiple skis or boards, which is the heart of a family ski day. Compared with the Unigear daypacks, it adds a four-set carrier and a waist belt.\n\nIt suits parents who juggle skis and kids between the car and the lift. The waist belt spreads the load across the hips.",
     "specs": [
       "Carries up to 4 sets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tri8diLeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4V7SM3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4V7SM3Z?tag=rvgearlab-amz-20",
     "description": "The Unigear Boot Bag is a 50L pack (also sold in 70L) measuring 11.8 by 12.6 by 19.7 inches in tarpaulin and 1050D nylon. It has an individual compartment, an EVA padded mesh back panel so boots do not jab your back, and padded adjustable straps.\n\nIt offers more space than the daypacks and is the better lodge bag for a shared family kit. Compared with the Ski Squadron, it carries gear and leaves the skis to someone else.\n\nIt suits families who keep boots, helmets and layers together in one bag. The padded back panel protects against boot edges.",
     "specs": [
       "50L or 70L options",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvZIef-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HQ3T2ZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HQ3T2ZB?tag=rvgearlab-amz-20",
     "description": "The Unigear 22L ski daypack measures 21.26 by 10.24 by 6.3 inches in 900D polyester with PU-coated side panels. Adjustable ski carry straps in 1.0mm Hypalon, S-shaped elastic shoulder belts and an air-permeable back are listed.\n\nIt is lean enough for a lift ride and has carry straps for a pair of skis. Compared with the Ski Squadron, it carries one set and fewer items.\n\nIt suits a parent who carries snacks and layers for the family. The Hypalon webbing resists ski edge wear.",
     "specs": [
       "22L, 900D polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GCeYsjs8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW3MQFWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW3MQFWT?tag=rvgearlab-amz-20",
     "description": "The SEMSTY 12L ski pack measures 12.2 by 3.15 by 20.9 inches and has snow tool sleeves plus vertical snowboard, diagonal ski and horizontal snowboard carry modes. It uses water-resistant nylon and S-shaped elastic shoulder belts.\n\nIt is the slimmest and lightest pack, with three carry modes for skis or a board. Compared with the Ski Squadron, it holds less and carries one set.\n\nIt suits an older kid or a teen who carries their own gear. It also suits a parent who wants a minimal pack.",
     "specs": [
       "12L, 12.2 x 3.15 x 20.9 in",

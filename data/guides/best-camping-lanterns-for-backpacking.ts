@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZN2nw+TNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJ637HV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJ637HV?tag=rvgearlab-amz-20",
     "description": "The DIBMS is a collapsible lantern that lists 300 lumens from six LED chips and an 8.02 ounce weight. It has a built-in 1600mAh battery that charges by USB cable in about 4 hours or by solar in 9 hours of direct sun.\n\nIt is the only pick that combines a collapsible body, a built-in battery and solar charging, which the Lewis N. Clark and ILEEDear lack. It also lists 6 to 11 hours of light and IPX4 protection.\n\nIt suits backpackers who want a rechargeable light that packs down and needs no spare batteries. A folding hook lets it hang from a tent loop.",
     "specs": [
       "300 lumens, 8.02 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bDvDLLx3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0716JV1SG?tag=rvgearlab-amz-20",
     "description": "Blow it up and the LuminAID Nova becomes a 75 lumen solar lantern with several brightness steps and an IP67 body. A full charge is listed at up to 24 hours, with no spare cells to carry.\n\nIt packs flatter than any other pick here and carries the highest water rating, at IP67. Compared with the DIBMS, it trades brightness for a body that deflates to almost nothing.\n\nIt suits trekkers who prize space over output, such as kayak-camp or river trips. A shatterproof body suits rough handling in a pack.",
     "specs": [
       "75 lumens, 24 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VE1uggPDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXC229ZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXC229ZC?tag=rvgearlab-amz-20",
     "description": "The Lewis N. Clark is a collapsible lantern that packs down to 5 inches tall and lists 300 lumens. It runs on 3 AA batteries, which are included, and has an IPX4 body with a carry handle.\n\nIts sliding collapse lets you set brightness by how far it is extended, which the fixed-output FLY2SKY cannot do. It needs no charging time, unlike the DIBMS.\n\nIt suits backpackers who prefer swappable AA cells for long trips. The included batteries mean it works the moment it is unboxed.",
     "specs": [
       "300 lumens, 3 AA included",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4144XMHQopL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR659LBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR659LBG?tag=rvgearlab-amz-20",
     "description": "The FLY2SKY is a five-pack of palm-sized tent lights, each 5.7 by 2.1 inches with three LED beads and 150 lumens. Each runs on 3 AAA batteries (not included) and lists IPX8 water resistance with a carabiner hook.\n\nIt is the lightest way to light several spots, since each lamp is far smaller than the Lewis N. Clark. It also lists the strongest water rating after the LuminAID.\n\nIt suits groups who want a light per tent or per person on a trail trip. Three modes cover high, low and strobe.",
     "specs": [
       "150 lumens each, five lamps",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lYJ7l-Q-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNZB7WNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNZB7WNX?tag=rvgearlab-amz-20",
     "description": "The ILEEDear is a two-pack of battery lanterns listed at 350 lumens with 360 degree light and three brightness levels of 20, 50 and 100 percent. The body is described as rugged and waterproof.\n\nIt gives the highest lumen figure in the list for the least money, ahead of the Lewis N. Clark's 300. It does not collapse, which sets it apart from that pick and the DIBMS.\n\nIt suits budget backpackers who want a spare light or a pair for two tents. Three fixed steps keep operation simple.",
     "specs": [
       "350 lumens, 2-pack",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LK3sZEb3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-amz-20",
     "description": "This light puts out 1000 lumens from a 6700mAh pack and claims as much as 300 hours when dimmed to its lowest level. It sticks to metal with a magnet or hangs from a hook, and carries an IPX5 rating.\n\nIt has the biggest battery of the six and the longest stated runtime, ahead of the DIBMS at 1600mAh. It also doubles as a phone power bank per the listing.\n\nIt suits long section hikers who can carry a heavier light for fewer charges. The 2-year warranty named in the listing adds some confidence.",
     "specs": [
       "1000 lumens, 6700mAh",

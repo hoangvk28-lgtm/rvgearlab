@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u2hKpJnCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSSX476L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSSX476L?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA 200W is an N-type foldable panel using A+ monocrystalline cells at up to 25 percent efficiency. It weighs 16.31 lbs, folds to 21 by 23 inches and carries an IP68 ETFE coating with a magnetic handle and four holes for attaching it to an RV.\n\nAgainst the 110W panels, it nearly doubles the wattage and ships with a 10.49 ft extension that covers XT60, DC5521, DC7909, DC8020 and Anderson. Next to the E-POWO and MHPOWOS, it suits stations with a higher solar input limit.\n\nIt suits car campers with a mid-size station who want faster daytime recharging. The carry bag is in the box.",
     "specs": [
       "200W N-type, 25%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kYGrVTBpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-amz-20",
     "description": "The E-POWO 110W weighs 9.74 lbs and folds to 24.09 by 23.23 by 0.8 inches, with two kickstands and 40, 50 and 60 degree angles. It adds USB-A, USB-C and QC3.0 ports and a 7-in-1 adapter set with IP67 protection.\n\nAgainst the MHPOWOS, it adds USB output and kickstand angles at the same price. Compared with the SOKIOVOLA, it is lighter and thinner with about half the wattage.\n\nIt suits owners of small stations who also charge phones from the panel. The built-in pouch holds the adapters.",
     "specs": [
       "110W, 9.74 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51srZPaxePL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LR2WJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LR2WJK?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS 110W uses monocrystalline cells at 23.5 percent, weighs about 4.5 kg and folds to 23.46 by 21.25 by 1.57 inches. A solar extension cable joins a 4-in-1 interface for Anderson, XT60, DC7909 and DC5521.\n\nIt matches the E-POWO on price and drops the USB ports. Against the SOKIOVOLA, it is lighter by a few pounds and carries IP67 instead of IP68.\n\nIt suits small station owners who only need a plain plug-and-play panel. Thickened handles make it easy to lift.",
     "specs": [
       "110W, 23.5% efficiency",

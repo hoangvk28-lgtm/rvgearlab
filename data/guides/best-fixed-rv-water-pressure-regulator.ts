@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5188lLUL8nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-amz-20",
     "description": "The Camco Brass is a preset regulator with a built-in PSI Guard rated for 40 to 50 psi, and the listing gives a maximum incoming pressure of 125 psi. It is CSA lead-free certified to NSF/ANSI 372 and marked drinking water safe.\n\nCompared with the Camco Flow Stainless above it in price, this one is a brass body with a lower output band, 40 to 50 psi rather than 50 to 60. That lower band is gentler on older plumbing but gives a softer shower.\n\nA strong default for most trailers and campers, especially if the coach is rated near 60 psi. The 125 psi inlet ceiling means a very high-pressure spigot could exceed what the unit is built for, so use a pressure check if a campground feels extreme.",
     "specs": [
       "40 to 50 psi preset",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uVDH0xVRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X4B88RF?tag=rvgearlab-amz-20",
     "description": "The Camco Flow is a stainless steel regulator that cuts pressure to a consistent 50 to 60 psi while keeping water flow high, according to the listing. It is CSA low lead certified and cites several state low lead laws.\n\nAgainst the Camco Brass, you trade a gentler output for a stronger stream and a stainless body that does not tarnish. The 60 psi top of the band sits right at many RV makers' comfort limit, so there is less headroom.\n\nBest for owners who value shower pressure and a body that will not corrode, and whose coach tolerates 60 psi. If your trailer is rated lower, pick a 40 to 50 psi unit instead.",
     "specs": [
       "50 to 60 psi output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tPmoFPjqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-amz-20",
     "description": "The CircleCord Hi-Flow is set at 50 to 55 psi and claims 15 to 20 percent more water flow for a better shower. It uses C46500 lead-free brass tested to under 0.13 percent lead and has an inlet screen to catch particles.\n\nIt sits above the SheeChung Preset on output pressure and claims better flow, with a similar low price. You get less margin for a lower-rated coach than the 40 to 50 psi picks give.\n\nGood for budget buyers who still want a firmer stream. The flow percentage is the maker's own claim, so treat it as a direction, not a measured figure.",
     "specs": [
       "50 to 55 psi factory setting",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s0takmCwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZM7N2VW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZM7N2VW?tag=rvgearlab-amz-20",
     "description": "The SheeChung Preset holds a consistent 40 to 50 psi and carries a built-in inlet screen filter for debris. The brass is C46500 lead-free, and the listing says it needs no tools to install.\n\nCompared with the CircleCord Hi-Flow, its output sits lower, which is easier on RV plumbing but less punchy. Compared with the RVMATE Reducer below it, it adds a high flow label and a clearer certification claim.\n\nA solid pick for newer owners who want a gentle, protective setting at a low price. The screen can clog with campground sediment, so plan to rinse it occasionally.",
     "specs": [
       "40 to 50 psi pre-set",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NH97afS3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO ships preset to 45 psi but can be adjusted by turning a screw, so it works as a fixed regulator until you decide otherwise. The listing cites NSF/ANSI/CAN 372:2024 lead content and includes two spare inlet cartridges and thread tape.\n\nAgainst the true fixed picks above, you gain a way to change the setting if your coach needs it, at the cost of a screw that could be disturbed. The spare cartridges are a rare extra in this price range.\n\nBest for buyers who want a fixed experience with an escape hatch. If you prefer the setting to be impossible to change, choose a Camco Brass instead.",
     "specs": [
       "Preset to 45 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-jn6o9PuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FRDYYLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FRDYYLP?tag=rvgearlab-amz-20",
     "description": "The RVMATE Reducer is a lead-free brass inline pressure reducer rated for 40 to 50 psi, with a stainless steel filter screen that resists rust. It connects to a 0.75 inch hose thread with no tools.\n\nIt is the thinnest listing of the group: no certification standard is named and no flow claim is made. Next to the SheeChung Preset it offers the same band for slightly less, with less supporting detail.\n\nBest when price is the deciding factor. Buyers drinking directly from the hose should look for a named standard on the packaging before relying on it.",
     "specs": [
       "40 to 50 psi output",

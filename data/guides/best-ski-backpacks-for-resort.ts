@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4190X8BV67L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM6BVVZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM6BVVZ8?tag=rvgearlab-amz-20",
     "description": "The Dakine Boot Pack holds 50L and has a tarp-lined boot compartment reached from the back panel, so boots stay apart from other gear. A large padded helmet and goggle pocket and a zippered front cargo pocket for gloves, hats and tools complete the layout.\n\nIt is the best organized of the boot packs, with a padded pocket that protects goggles. Compared with the TurnWay, it adds the padded helmet and goggle pocket.\n\nIt suits resort skiers who drive to the hill and gear up at the car or lodge. The 50L volume carries layers, boots and extras.",
     "specs": [
       "50L boot pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GPr-pzZyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MJ2SYTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MJ2SYTC?tag=rvgearlab-amz-20",
     "description": "The TurnWay boot backpack measures 33 by 33 by 48 centimeters (50L) and holds any size boot, a helmet and jackets. It has three main compartments, 1680D polyester with double PU coating and an anti-slip PVC bottom, plus a reflective strip and massage air padded shoulder straps.\n\nIt offers the same 50L as the Dakine for far less, and has a tougher waterproof shell. Compared with the MORXPLOR, it is smaller and has a simpler layout.\n\nIt suits skiers who want a durable boot pack without a premium price. An ergonomic handle helps carry gear through parking lots.",
     "specs": [
       "50L, 33 x 33 x 48 cm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41whmEDxWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJRCBN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJRCBN4?tag=rvgearlab-amz-20",
     "description": "The MORXPLOR is a padded 65L bag measuring 21 by 14 by 13.2 inches, sized for men's boots up to size 13. It has SBS zippers with big pulls, drain holes with bottom feet and two extra waistband pockets.\n\nIt is the biggest by 15L, with drain holes for melting snow that the others skip. Compared with the Dakine, it offers more room for layers and a bigger family kit.\n\nIt suits skiers who travel with lots of layers or share a bag. The waistband pockets keep small items at hand.",
     "specs": [
       "65L, boots to men's size 13",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gO9FcFuQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DKD3MZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DKD3MZB?tag=rvgearlab-amz-20",
     "description": "The Unigear 30L is a 22.05 by 11.81 by 6.89 inch ski daypack in 900D polyester with PU-coated side panels. S-shaped elastic shoulder belts, an inverted Y air-permeable PE foam back and several ski and snowboard carry options are listed.\n\nIt is the one you actually wear on the hill, with enough room for lunch and layers. Compared with the Unigear 22L, it has a bigger capacity and a hydration setup.\n\nIt suits resort skiers who want one bag for a full day on the lifts. The carry options handle a board or skis for a short hike.",
     "specs": [
       "30L, 900D polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dmitCWK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DK9QKBP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DK9QKBP?tag=rvgearlab-amz-20",
     "description": "The Unigear 22L ski pack measures 21.26 by 10.24 by 6.3 inches and uses 900D polyester with PU-coated side panels. Adjustable ski carry straps in 1.0mm Hypalon webbing, S-shaped elastic straps and an air-permeable back are listed.\n\nIt is smaller than the Unigear 30L and costs a bit less. It offers the same carry straps and back panel in a leaner package.\n\nIt suits skiers who take a day on the lifts with a few layers. The Hypalon webbing resists wear from ski edges.",
     "specs": [
       "22L, 21.26 x 10.24 x 6.3 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gspC-2RBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW3KK13G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW3KK13G?tag=rvgearlab-amz-20",
     "description": "The SEMSTY ski pack is 12L and measures 12.2 by 3.15 by 20.9 inches, with purpose-built snow tool sleeves and vertical snowboard, diagonal ski and horizontal snowboard carry. It uses highly water-resistant nylon and S-shaped elastic belts.\n\nIt is the slimmest and lightest, with a profile that rides comfortably on a chairlift. Compared with the Unigear packs, it holds less and carries skis in more positions.\n\nIt suits skiers who want a minimal pack for a phone, snacks and a layer. Snow tool sleeves hold avalanche gear for sidecountry use.",
     "specs": [
       "12L, 12.2 x 3.15 x 20.9 in",

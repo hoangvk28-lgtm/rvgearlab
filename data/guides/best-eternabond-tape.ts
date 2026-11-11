@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jKbg553VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00COGK3O6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00COGK3O6?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal White is a 3 inch by 50 foot roll with an aluminum backing and MicroSealant adhesive, listed at 35 mil total thickness. It is described as UV stable and a one-step repair that needs no additional sealing.\n\nAgainst the EternaBond Black 2in, it is wider and white for reflectivity, so it suits seams where you need overlap. Against the UBREW roll, it is the same size but sold directly under the brand.\n\nBest for most seam and joint repairs on RV roofs. Apply to a clean, dry surface and press it down firmly.",
     "specs": [
       "3 in x 50 ft roll",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THZ9bbacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F9G63N8?tag=rvgearlab-amz-20",
     "description": "The UBREW USA listing is a 3 inch by 50 foot white EternaBond roll sold as authentic. The listing shows little product detail beyond the size and brand claim.\n\nCompared with the EternaBond White 3in, it is the same nominal product but sold through a third-party seller at a slightly higher price. Compared with the CircleRoad, it is the genuine brand versus a generic butyl tape.\n\nBest when the brand listing is out of stock. Confirm the seller and the packaging before buying.",
     "specs": [
       "3 in x 50 ft white roll",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41feXK7qkML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NPVH763?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NPVH763?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal Black is a 2 inch by 50 foot roll with the same 35 mil aluminum-backed MicroSealant construction. It is described as UV stable and multi-use for metal buildings, trailers, drain pans and boats.\n\nVersus the EternaBond White 3in, it is narrower and black, so it suits small seams and trim where a wide strip looks bulky. Versus the IONCAT, it is the genuine brand.\n\nBest for narrow seams, vent edges and cosmetic repairs. Check that the width gives enough overlap on each side of the seam.",
     "specs": [
       "2 in x 50 ft black roll",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JuD19rxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MTL24DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MTL24DB?tag=rvgearlab-amz-20",
     "description": "The CircleRoad is a 4 inch by 50 foot white butyl roof tape described as UV resistant. The listing says it resists rain, snow and wind and bonds to rubber, metal, wood, vinyl and glass.\n\nCompared with the IONCAT, it is similar in width but a different brand at a different price. Compared with EternaBond White 3in, it offers a wider strip for less money but names no aluminum backing or thickness.\n\nBest for budget repairs on sound surfaces. Confirm the adhesive and backing details before relying on it.",
     "specs": [
       "4 in x 50 ft white roll",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LBG9kAy9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D95Z49WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D95Z49WJ?tag=rvgearlab-amz-20",
     "description": "The IONCAT is a 4 inch by 50 foot RV roof sealant tape with a protective surface layer and a three-step installation guide. It is described as having a high expansion coefficient and being UV and weatherproof.\n\nVersus the CircleRoad, it costs less but lists thin material detail. Versus the EternaBond White 3in, it is wider and cheaper but gives no aluminum backing information.\n\nBest for temporary or low-stakes repairs. Treat the tape as a patch and inspect the repair often.",
     "specs": [
       "4 in x 50 ft roll",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KHK2noSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB4JS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB4JS?tag=rvgearlab-amz-20",
     "description": "The Dicor BT-1834-1 is a 1/8 inch by 3/4 inch by 30 foot butyl seal tape for uniquely shaped joints. It is designed to sit beneath caulk-and-frame systems and conform to irregular surfaces.\n\nCompared with the EternaBond rolls, it is not a roof repair tape but a putty-style tape for sealing under flanges and S-locks. It costs very little.\n\nBest for sealing under vents, lights and trim. Do not use it as a surface patch.",
     "specs": [
       "1/8 x 3/4 x 30 ft",

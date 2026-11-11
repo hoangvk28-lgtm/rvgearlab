@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514E+sXMIrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCCQ84M6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCCQ84M6?tag=rvgearlab-amz-20",
     "description": "The BIANTENIU is titled for the Nissan Frontier and describes a custom-tailored fit with double-layer fabric and fiberglass poles. It adds tear-resistant Oxford cloth, solid buckles and heavy-duty zippers, and the seller offers model verification and missing-part replacement.\n\nIt is the only listing built around the Frontier name rather than a long list of trucks, so it takes the guesswork out of compatibility. The Qualencey gives hard numbers for 5 foot beds at a lower price.\n\nIt suits Frontier owners who prefer a tent titled for their truck and backed by a fit check. The double layer helps keep spray out.",
     "specs": [
       "Custom fit for Frontier",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nzvzxs5eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNHLHMT1?tag=rvgearlab-amz-20",
     "description": "The Qualencey is a pole tent for 5 to 5.2 foot beds, and its compatibility line lists the Nissan Frontier at a 5 foot bed. It is made of 210D oxford with a PU5000mm coating, and its listed depth is 84.6 inches.\n\nIt carries the highest waterproof number of the three at the lowest price, and it adds an awning for shade. Next to the BIANTENIU it gives numbers for size and coating that the Frontier-titled tent leaves out.\n\nIt suits Frontier owners who want measured specs and the lowest cost. Fiberglass poles and insect-screened doors cover the basics.",
     "specs": [
       "PU5000mm oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uomZWhStL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BYA10F4?tag=rvgearlab-amz-20",
     "description": "The DAC lists the Nissan Frontier among its fits with the Maverick, Gladiator, Ranger, Rivian R1T and Cybertruck, for tailgates under 58 inches and flat-back camper shells. It needs no poles, only shock cords with plastic-coated hooks, and weighs 5 pounds in an 11 by 11 by 6 inch pack.\n\nIt is the only cap-style option here and the lightest. The BIANTENIU and Qualencey stand on an open bed, while this one hangs off the topper opening.\n\nIt suits Frontier owners who already run a flat-back cap and want a fast, tiny rear enclosure. Mesh windows and tie-back panels handle airflow.",
     "specs": [
       "5 lb, packs 11x11x6 in",

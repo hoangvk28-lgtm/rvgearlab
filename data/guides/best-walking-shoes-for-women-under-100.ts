@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iqQAdzhFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0757CXYW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0757CXYW8?tag=rvgearlab-amz-20",
     "description": "The Ryka Dash 3 is the only shoe here that frames its design around a woman's foot: the listing describes a narrower heel, a roomier toe and softer cushioning. It adds a heel crash pad for impact, a Skeletal Guidance System for midfoot support, and a leather toe cap with breathable engineered mesh.\n\nAgainst the ALLSWIFIT and ALEADER slip-ons, it has laces and a padded heel collar that lock the foot in place on longer walks. Next to the K-Swiss Mellow, it carries more built-in support features.\n\nIt suits women who walk fitness miles or mix walking with light run intervals. The lace-up front lets you tune the fit.",
     "specs": [
       "Heel crash pad",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314B6av1PAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQZH1JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQZH1JG?tag=rvgearlab-amz-20",
     "description": "The ALLSWIFIT Slip-On combines a cushioned EVA midsole with a supportive midsole structure and a layered mesh upper over an elastic Lycra lining. No-tie elastic laces and an out-turned collar make it a true step-in shoe.\n\nCompared with the Ryka Dash 3, it trades laces for convenience and loses some adjustability. Against the ALEADER Energycloud, it uses a more structured upper rather than a sock-style knit.\n\nIt suits women who want an easy on and off walking shoe for pavement and daily errands. The textured rubber outsole adds grip.",
     "specs": [
       "Cushioned EVA midsole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+aKAc+xdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PNFNS6Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PNFNS6Q?tag=rvgearlab-amz-20",
     "description": "The ALEADER Energycloud combines a stretchy foot-hugging knit upper with an Energycloud midsole and outsole unit and a moisture-wicking sockliner. The listing adds that the shoe is vegan and machine washable.\n\nCompared with the ALLSWIFIT Slip-On, it is lighter and more flexible, with a more sock-like feel. Against the YHOON Slip-On, it names its cushioning system, which gives it an edge on comfort.\n\nIt suits women who want a soft, washable shoe for travel days, errands and light workouts. Adjustable laces add a bit of fit control.",
     "specs": [
       "Stretchy knit upper",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316vrgWgycL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS93YKDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS93YKDH?tag=rvgearlab-amz-20",
     "description": "The K-Swiss Mellow weighs 8.8 oz in size 9 and uses an engineered mesh upper with an EVA foam midsole containing 3D abrasion-resistant particles. A reinforced heel structure and a reflective heel strap complete the build.\n\nAgainst the Ryka Dash 3, it is lighter and carries fewer support features. It also costs less than the Ryka while keeping a recognizable brand name.\n\nIt suits women who want a light, breathable shoe from a known name for daily walks and gym days. The reflective strap adds visibility at dusk.",
     "specs": [
       "8.8 oz in size 9",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mVBfc-7eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR5KXB1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR5KXB1R?tag=rvgearlab-amz-20",
     "description": "The YHOON Slip-On is a mesh sock-style shoe with an easy pull-on design and a textured EVA outsole made for slip and abrasion resistance. A raised heel-to-toe drop and streamlined shape complete the profile.\n\nNext to the ALEADER Energycloud, it gives up the named cushioning system for a lower price. It sits near the bottom of the lineup on cost.\n\nIt suits women who want a simple, breathable shoe for standing, shopping and short walks. The listing lists everything from work to travel as use cases.",
     "specs": [
       "Slip-on mesh sock design",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v6Qa5RQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJZ8PCYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJZ8PCYY?tag=rvgearlab-amz-20",
     "description": "The EWUHA Barefoot is a minimalist shoe with a wide toe box, a breathable mesh upper and a non-slip rubber sole with a deep lug pattern. The listing describes a natural walking gait with the toes in their natural position.\n\nCompared with the cushioned picks, it sits close to the ground and gives toes freedom to splay. It is the lowest-priced pick.\n\nIt suits women who like barefoot-style shoes and walk on smooth surfaces. It also works for beach and water days.",
     "specs": [
       "Wide toe box",

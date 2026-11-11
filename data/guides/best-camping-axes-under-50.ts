@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrCRz6jSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-amz-20",
     "description": "The Fiskars X7 is a 14 inch hatchet with a ground blade and an insert-molded head, a FiberComp shock-absorbing handle and a low-friction blade coating that keeps it from sticking in wood. A lifetime warranty backs it.\n\nIt costs about $35, nearly double the 7SG Survival Axe and a few dollars under the Purple Dragon Hickory, and the coated blade and insert-molded head are the extra engineering that justify it. The balance gives deeper cuts per swing than plain forged heads.\n\nIt suits campers who split kindling nightly and want a tool that holds up for years. Its lifetime warranty makes it a one-time purchase.",
     "specs": [
       "14 inch, insert-molded head",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKmM2CZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-amz-20",
     "description": "The Purple Dragon Hickory is a 14.7 inch hand-forged hatchet with a cow-foot head design in carbon-manganese steel, an S-curve hickory handle, rubber protective lips on the splitting faces and a hand-stitched leather holster. The cow-foot shape is made for splitting and delimbing.\n\nIt costs about $38, the top of this guide, and it is the only wood-handled forestry-style axe here. The hickory handle absorbs shock through long fibers where the Fiskars X7 uses composite. Its cow-foot design suits delimbing and bushcraft work.\n\nIt suits campers and bushcrafters who prefer a traditional wood-handled axe and spend real time splitting firewood. Oil the handle each season.",
     "specs": [
       "14.7 inch hand-forged head",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cOSUevXeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZN5X2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZN5X2S?tag=rvgearlab-amz-20",
     "description": "The LIANTRAL Folding is a survival hatchet with a steel head, an aluminum alloy handle with extension bars to adjust the length and a sheath. Functions include chopping, splitting, hammering and a whistle and compass.\n\nIt costs about $29, around $6 less than the Fiskars X7, and it is the only axe here that folds small for a pack. The folding joints are weaker than a solid handle, so it is for light work.\n\nIt suits backpackers and emergency kits that need a compact multi-tool axe. Keep expectations light for heavy chopping.",
     "specs": [
       "Folding aluminum handle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hBik-YCDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C73Z74DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C73Z74DQ?tag=rvgearlab-amz-20",
     "description": "The SNBNX Saw Hatchet is a multifunction survival hatchet with an axe head, hammer head and saw blade. A molded sheath with a reversible belt clip snaps over the head and a textured ergonomic handle fits the hand.\n\nIt costs about $23, around $12 less than the Fiskars X7, and the saw blade lets you cut branches that a small axe head would bash. It trades the Fiskars X7 durability for extra functions.\n\nIt suits campers who want an all-in-one tool for shelter building and kindling. The belt clip carries it hands-free.",
     "specs": [
       "Axe, hammer and saw blade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eeHCEJ6CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HJ6D6TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HJ6D6TV?tag=rvgearlab-amz-20",
     "description": "The 7SG Survival Axe is a black fiberglass-handled hatchet with a narrow profile suited to axe throwing, a 20 degree edge, a hammer back and a ballistic nylon sheath with multiple retention flaps. It is made as an all-black survival tool.\n\nIt costs about $19, around half the Fiskars X7, and the narrow profile cuts cleanly through kindling where wider heads hit like a maul. The ballistic nylon sheath is stronger than the molded one on the SNBNX Saw Hatchet.\n\nIt suits campers who throw for fun and chop kindling. Practice only in a safe, dedicated area.",
     "specs": [
       "Narrow throwing profile",

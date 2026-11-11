@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TQKR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TQKR7?tag=rvgearlab-amz-20",
     "description": "The SYWSKW is a 680 fill power RDS-certified duck down bag, 86.6 by 33.5 inches with widened shoulders, a YKK zipper, reflective drawcords and an 80 g detachable pillow. It compresses to 7.08 by 11.8 inches and comes in 1.1 lb, 1.76 lb and 2.65 lb fill models.\n\nIt combines high fill power, a wide cut and three warmth tiers at a price below the Naturehike Snowbird and Kelty. The pillow is built into the system.\n\nIt suits backpackers and couples who want a flexible down bag in one line. The 1.1 lb model is for three to four seasons and the heavier ones for colder trips.",
     "specs": [
       "680FP RDS duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MBnHUaB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW-EXT uses RDS-certified goose down in a 10D PFAS-free nylon shell. The L size weighs 1.09 lb and the M size 0.94 lb, and it unfolds into a down blanket or layers inside a larger bag.\n\nIt is by far the lightest bag here and a different kind of product from the SYWSKW. It prints no temperature rating and is priced above it.\n\nIt suits ultralight hikers who want a summer-to-shoulder-season layer. Plan on warm clothing for cool nights.",
     "specs": [
       "0.94 lb M, 1.09 lb L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cIas4OpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Snowbird comes in SP400, SP700 and SP1000 models using RDS and IDS certified 650 fill power down, with a three-dimensional wind barrier along the zipper and a YKK two-way zipper. The quoted model carries an ISO comfort figure of 29 degrees F with an 18 degree F limit.\n\nIt targets cold spots at the zipper better than the QEZER or SYWSKW and offers three warmth models. It costs more than both.\n\nIt suits cold sleepers who want ISO-style figures and a draft barrier. The SP1000 is the coldest option.",
     "specs": [
       "650FP RDS and IDS down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 uses 550 fill power RDS-traceable down in recycled shell and liner fabrics with PFAS-free DWR. It prints an ISO limit rating of 21 degrees F and an extreme of -11 degrees F, with Short, Regular and Long sizes fitting up to 5 ft 6, 6 ft and 6 ft 6.\n\nIt is the only bag here with an ISO extreme figure, and the lowest fill power. It costs the most.\n\nIt suits campers who want a proven, tested down bag in a choice of lengths. Sizes step up 6 inches at a time.",
     "specs": [
       "550FP RDS down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kdo1-9pCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YF51KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YF51KY?tag=rvgearlab-amz-20",
     "description": "The QEZER is a semi-rectangular 600 fill power duck down bag measuring 85.04 by 31.5 inches, weighing 1.68 lb and packing to 9.84 by 5.51 inches. It prints a comfort range of 45 to 61 degrees F and a limit of 36 degrees F, with a foot zipper and chest insulation. A 3.18 lb version of the line is rated colder.\n\nIt costs the least of the five and prints more figures than the Naturehike CW-EXT. It is far milder than the Kelty.\n\nIt suits warm-weather backpackers on a tight budget. The heavier tier suits colder nights.",
     "specs": [
       "600FP, 1.68 lb",

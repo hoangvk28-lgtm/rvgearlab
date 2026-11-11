@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lQ1OayZ4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMS2PMWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMS2PMWL?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Cloud Quilt 20 is an ultralight quilt with 800 fill power DriDown, 14.78 oz of fill and a trail weight of 1 lb 11.2 oz. Its tech specs give an ISO comfort of 32 degrees F and an ISO limit of 21 degrees F, with a 15D nylon ripstop shell.\n\nIt is the only quilt here with ISO figures and a hideaway hood, and its tapered footbox and insulated hand pockets add wearability that the others lack. It costs the most of the five.\n\nIt suits thru-hikers and ultralight backpackers who sleep restlessly in mummies. Pair it with a pad rated for the same temperatures.",
     "specs": [
       "800 fill DriDown, 14.78 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DKmGDLfTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDD6KNW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDD6KNW6?tag=rvgearlab-amz-20",
     "description": "The SENSORY4U top quilt uses 850 fill power down, weighs 1.9 lb and lists a comfort rating of 30 degrees F with a survival rating of 20 degrees F. A foot box and straps for attaching to a sleeping pad are included.\n\nIt carries a higher fill power than the Sierra Designs, weighs about 3 oz more and costs far less. A hood and hand pockets are absent.\n\nIt suits backpackers who want down warmth at a lower price. The pad straps keep it from sliding.",
     "specs": [
       "850 fill power down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dirx4B+-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TX14FQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TX14FQJ?tag=rvgearlab-amz-20",
     "description": "The OneTigris Featherlite is a synthetic quilt using SEE polyester fill, a 20D ripstop nylon shell and a 380T pongee lining, weighing 35 oz. It has a convertible footbox, a hollowed back design for use with sleeping mats and a baffled build rated down to 41 degrees F.\n\nIt is the only synthetic quilt here and the heaviest of the true quilts. It can be layered with a bag or underquilt for winter.\n\nIt suits hikers who want a durable, damp-tolerant quilt at a low price. Two near-identical listings were merged.",
     "specs": [
       "SEE polyester fill, 35 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U35pJ1b8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VZLB1HL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VZLB1HL?tag=rvgearlab-amz-20",
     "description": "The Get Out Gear down blanket uses 650 fill power down in a 20D ripstop shell with a DWR coating, measuring 80 by 54 inches and weighing 1.1 lb. Snaps convert it into a poncho.\n\nIt packs into a 5 by 12 inch stuff sack and costs far less than the Sierra Designs. It is a blanket, not a rated quilt, so it prints no temperature figure.\n\nIt suits campers who want a light down layer for camp and as a supplement to a bag. It is a nearest-fit quilt.",
     "specs": [
       "650 fill down, 1.1 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KnKvybAiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9GWC8R4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9GWC8R4?tag=rvgearlab-amz-20",
     "description": "The ROSE FEATHER blanket uses 90 percent goose down with 1.1 lb of filling in a 20D nylon shell with DWR coating, reinforced stitches and snap buttons for poncho or footbox use. Corner tie-downs help you secure it.\n\nIt costs less than the Get Out Gear and names the goose down content. It prints no fill power or temperature rating.\n\nIt suits campers who want a down blanket for hammock or camp use. It is a nearest-fit quilt.",
     "specs": [
       "90% goose down, 1.1 lb fill",

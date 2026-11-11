@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L6nZKlHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-amz-20",
     "description": "The SHUNLEE is a 31.5-inch ceiling fan with five lengthened blades, four speeds and a 40000mAh battery. It carries a dimmable light with adjustable color temperature, a hanging hook and a remote that mirrors the body buttons.\n\nIt moves far more air than the FIALAME and the Coolice because its blade span is far wider. A memory function and 2, 3 and 5 hour timers keep its settings between sessions.\n\nPick it for a pop-up canopy, a gazebo or a large family tent where a small fan would only cool one corner. It earns its place when the frame can take the weight.",
     "specs": [
       "40000mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JvPPBch4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX73FQVJ?tag=rvgearlab-amz-20",
     "description": "The FIALAME is an 18-inch ceiling fan with a 15600mAh battery, three speeds, three LED light settings and an LED display. The listing gives 8, 13 and 25 hours of runtime at low, medium and high.\n\nIt sits between the SHUNLEE and the Coolice in size, so it covers a cabin tent without the oversize frame load of the biggest fan. The three detachable blades go on in under a minute, and the remote runs the 2, 4, 6 and 8 hour timers from a sleeping bag.\n\nIt suits a four to six person tent where one hanging fan should handle both night cooling and a soft light. The runtime ladder makes it easy to plan the night.",
     "specs": [
       "15600mAh, 8 to 25 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ha9f+oyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-amz-20",
     "description": "The Coolice is a compact camping fan with a 12000mAh battery, three speeds and a built-in foldable hook. A nine-bead LED lantern is rated up to 600 lux, and the head turns 360 degrees both ways.\n\nIt hangs from a loop, a pole or a hanger rather than from a ceiling hub, which is simpler than either bigger fan. A remote with timing and USB-C 5V/2A charging round it out at the lowest price of the three.\n\nIt suits one or two campers in a small dome who want to aim air at the sleeping bag. Pack it in a pocket and hang it on the first tent loop you find.",
     "specs": [
       "12000mAh, 65-hour claim",

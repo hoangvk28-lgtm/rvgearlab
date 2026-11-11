@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCIaGfFsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWCBL9M1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWCBL9M1?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W Portable kit uses N-type cells rated up to 25% efficient and folds into a suitcase-style case. It weighs 28.46 lb, with low-iron tempered glass, an aluminum frame and an IP65 junction box. The listing names compatibility with Jackery Explorer 1000 v2, EcoFlow DELTA 3 and Anker SOLIX S2000 power stations.\n\nAt $269.99 it costs $90.22 more than the DOKIO 300W and weighs about 13 lb more, which is the price of the tougher glass build and named station compatibility. Pick this if you want the sturdiest panel that lives in a truck bed. The caveat is carry weight, since 28.46 lb is a real two hand haul.",
     "specs": [
       "200W N-type, 25% efficient",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BthXlG7jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-amz-20",
     "description": "The DOKIO 300W folds to 19.3 x 37.4 x 1.1 inches and weighs 15.2 lb, a lot less than the Renogy 200W for 100W more nameplate power. It ships with a standalone PWM controller and a 9.85 foot cable. DOKIO warns that some power stations cap solar input at 100 to 200W.\n\nAt $179.77 it is $90.22 under the Renogy 200W. The tradeoff is thinner build credentials, and the PWM controller wastes some panel voltage on larger battery banks. Pick this if you charge a 12V battery directly and want maximum watts. The caveat is that a capped power station will not use all 300W.",
     "specs": [
       "300W, 15.2 lb folded",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41avJdyRM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DS83V5M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DS83V5M?tag=rvgearlab-amz-20",
     "description": "The Go Power DuraLite 100W weighs 8.5 lb and includes a 30-amp PWM charge controller, so it plugs into an RV battery with the supplied accessories. You can add up to 2 more panels for 300W total. The listing positions it for lights, fans and DC loads.\n\nAt $187.50 it costs $7.73 more than the DOKIO 300W for a third of the power, but it is lighter and expandable. It sits $32.51 above the Renogy 100W. Pick this if you want to start small and grow. The caveat is that 100W adds only a few hundred Wh on a sunny day.",
     "specs": [
       "100W, 8.5 lb",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412e0s8giHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079JVBVL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079JVBVL3?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W Portable kit has a pre-installed waterproof 20A PWM controller and alligator clip cables, so it works out of the box. It weighs 17.42 lb, uses N-type cells up to 25% efficient, and has bypass diodes in the junction box to limit hot-spot loss.\n\nAt $154.99 it is $115.00 under the Renogy 200W. It weighs more than the Go Power DuraLite at 8.5 lb, which is the tradeoff for the tougher glass build. Pick this if you want a trusted brand and simple clips. The caveat is that 17.42 lb is heavy for only 100W.",
     "specs": [
       "100W N-type, 17.42 lb",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QvAmMKeVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-amz-20",
     "description": "The DOKIO 200W weighs 9.7 lb and folds to 20 x 27 x 1.1 inches, with a standalone PWM controller and a 9.84 foot cable. The listing warns that some power stations cap input at 100 to 150W, so check yours before assuming 200W arrives.\n\nAt $134.77 it is the cheapest pick, $45.00 under the DOKIO 300W and $20.22 under the Renogy 100W. It trades the DOKIO 300W's power for about 5.5 lb less weight. Pick this if you want the lightest 200W setup. The caveat is basic build detail, since no glass or IP rating is listed.",
     "specs": [
       "200W, 9.7 lb",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U4sNwtfEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPZLCY1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPZLCY1B?tag=rvgearlab-amz-20",
     "description": "The Kohree 100 FT is a 5/8 inch hose with a storage bag. It lists a 20 percent thicker build, brass-plated aluminum fittings with strain relief ends and CA65 compliance.\n\nCompared with the CircleRiver pair, it adds a carrying bag, and next to the RVMATE it lists more fitting detail. It is the highest priced 100 ft pick.\n\nIt suits owners who haul a long hose between camps. The bag keeps 100 feet manageable.",
     "specs": [
       "5/8 inch, 100 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TL89g6L3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TTCY4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TTCY4Q?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 100 FT is a 5/8 inch drinking hose with 3/4 inch aluminum fittings and a sealing rubber ring. It is tested to NSF 372 for lead and lists a wide temperature range starting at -22°F.\n\nIt lists a temperature range and lead testing where the RVMATE lists CA65 compliance. It sits between Kohree and RVMATE in price.\n\nIt suits owners who use a long hose in cold weather. The 3-layer hybrid polymer coils easily.",
     "specs": [
       "5/8 inch, 100 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kBJvi4fFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN9N74YZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN9N74YZ?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 100FT Fresh Water Hose has the same 5/8 inch bore, NSF 372 lead-free testing and aluminum fittings as its sibling. It is sold as a drinking and fresh water hose.\n\nIt is priced slightly below the other CircleRiver listing. It carries the same wide temperature range.\n\nIt suits owners who want the CircleRiver build for less. It is the best value 100 ft pick with NSF 372 wording.",
     "specs": [
       "5/8 inch, 100 ft",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l22tLIJHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQV92LFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQV92LFV?tag=rvgearlab-amz-20",
     "description": "The RVMATE 100FT is a 5/8 inch hose with 3 layers of hybrid polymer and 3/4 inch fittings. It lists CA65 compliance, lead-free aluminum connectors and compression technology to hold fittings.\n\nIt is the lowest priced true 100 ft pick. It lists a rubber sealing ring.\n\nIt suits owners who need 100 feet on a budget. It lists UV-resistant material.",
     "specs": [
       "5/8 inch, 100 ft",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AOqQRa0wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPZKMKWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPZKMKWV?tag=rvgearlab-amz-20",
     "description": "The Kohree 75 FT is a 5/8 inch drinking hose with solid aluminum fittings and a large rubber grip. It lists 450 PSI burst pressure and CA65 compliance.\n\nIt is 25 feet shorter than the 100 ft picks, so it is lighter to handle and costs about half as much. It carries the same Kohree design.\n\nIt suits owners who want long reach without 100 feet. The grip makes connections easy.",
     "specs": [
       "5/8 inch, 75 ft",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hQkgwKClL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex2 is a 50 ft, 5/8 inch expandable fabric hose. It is CSA lead-free certified to NSF/ANSI 372 and stores in 70 percent less space than traditional PVC.\n\nIt is half the length of the 100 ft picks and far smaller to store. It is the lowest priced option here.\n\nIt suits owners who want compact storage with a long reach. The fabric build coils small in a cabinet.",
     "specs": [
       "5/8 inch, 50 ft",

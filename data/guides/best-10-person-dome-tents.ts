@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vhc8Xls4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNLYX51G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNLYX51G?tag=rvgearlab-amz-20",
     "description": "The HIKERGARDEN is a 10-person dome with a 168 inch by 132 inch floor and a 74 inch center height. It uses 185T polyester with a PU1000mm coating, weighs 20.5 lb and includes a divider curtain that makes two rooms.\n\nIt matches the HG on every listed spec, so the choice between them is mostly price. Against the CORE 9 it lists a 10-person rating and a divider curtain, which the CORE 9 listing does not mention.\n\nIt is the pick for groups that want a stand-up room, a 10-minute setup and an E-port for a power cord. Four mesh windows and a mesh ceiling cover the airflow.",
     "specs": [
       "168 x 132 in, 74 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N5zsEj60L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYH7KX1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYH7KX1G?tag=rvgearlab-amz-20",
     "description": "The HG 10-person tent lists the same 168 inch by 132 inch floor, 74 inch center height and PU1000mm 185T polyester as the HIKERGARDEN. The 20.5 lb weight, one mesh door, four mesh windows and breathable ceiling are the same too.\n\nIts only edge is the lowest price in this group, under the HIKERGARDEN listing. Against the CORE 9 it holds more people on paper and includes the divider curtain.\n\nIt suits budget-minded groups who want the same tent at the lower cost. The removable curtain turns it into two sleeping rooms.",
     "specs": [
       "168 x 132 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317l4wTH3xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016N7DFMI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016N7DFMI?tag=rvgearlab-amz-20",
     "description": "The CORE 9-Person sleeps nine, fits three queen air mattresses and stands 72 inches tall at the center. H2O Block technology, taped seams, a rain fly and an adjustable ground vent form the weather system.\n\nIt sits one person below the 10-person label, and in return it brings a gear loft with a lantern hook and a closable electrical cord port. The poles are traditional fiberglass, and the fabric is PU coated with taped seams.\n\nChoose it if you value a recognized brand and a gear loft to keep the floor clear. Three queen beds fill it, which is a fair real-world measure of nine.",
     "specs": [
       "Sleeps 9, three queen beds",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CyrHnCVjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJGXP9J4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJGXP9J4?tag=rvgearlab-amz-20",
     "description": "The PulseFay 8-10 is a pop-up clear dome with 540 degree panoramic TPU panels, 300D Oxford fabric and a steel-wire and fiberglass frame. Heat-sealed bonding and double-stitched seams block light rain, and dual roll-up windows come with screens.\n\nIt is the only pop-up here and the only one with panoramic panels, which makes it more of a viewing pod than a family sleep tent. It costs more than the HG pair and is built for viewing rather than sleeping.\n\nIt suits groups that want a pop-up shelter for gatherings, stargazing or sports days. Stakes, guy lines and a carry bag come in the box.",
     "specs": [
       "8-10 person pop-up bubble",

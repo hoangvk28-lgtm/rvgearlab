@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4140srSsjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a three-season mummy rated down to 25F that weighs 2.98 lb and rolls to 17 by 8 inches. It measures 83 by 28 inches, with a 210T water-resistant shell, polyester fiber cotton fill and a drawstring hood.\n\nUnlike the SereneLife, it prints both a weight and a rolled size, and its rating runs colder than the Sportneer's 32F floor. It costs less than the Bessport and arrives with a carrying case.\n\nIt suits budget campers who want a mummy with numbers on the page. The hood cinches in warmth on cool nights.",
     "specs": [
       "25F rated, 2.98 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "Bessport builds this quilted mummy around a ripstop 210T polyester shell, with double SBS zippers, a taffeta liner and an insulated footbox. The title names a 15 to 45F extreme range, and shoulder, hip and foot girth are listed as 63, 50.3 and 33 inches.\n\nIt prints the most fit measurements of the four and is sized for adults of 6 ft 1 up to 6 ft 6, a better match for taller campers than the 28 inch Wakeman. The quilted construction limits cold spots.\n\nIt suits tall campers who want a measured fit. The footbox is insulated.",
     "specs": [
       "15 to 45F extreme in title",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517Oo6SZndL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BTJHL3B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BTJHL3B?tag=rvgearlab-amz-20",
     "description": "The SereneLife mummy comes as a set with a travel pillow, a phone pocket and a compression bag. The listing describes a waterproof, washable outer cover and a thick fill, and sizes it for adults and teens.\n\nIt is the only pick here that bundles a pillow and phone pocket, so it saves a separate purchase. The listing prints no temperature, weight or dimensions, so it ranks below the Wakeman for planning.\n\nIt suits casual campers and teens who want an all-in-one kit. The compression bag keeps it small.",
     "specs": [
       "Pillow and phone pocket",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ulkFGKoHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-amz-20",
     "description": "The Sportneer is a wearable mummy with arm zippers, built for 32 to 65F with thermal hollow fiber filling. It weighs 4.4 lb, compresses to 15.7 by 9.5 inches in its sack and has an adjustable hood with a snap-secured zipper.\n\nIt is the only bag you can walk around in, which suits stadium seats and camp chores, and it states a clear weight and pack size. Its 32F floor is the mildest rating of the four.\n\nIt suits campers who want to move around in the bag. The arm zippers free the hands for cooking.",
     "specs": [
       "Wearable, arm zippers",

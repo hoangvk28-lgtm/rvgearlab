@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LIR9FL4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-amz-20",
     "description": "The Clearsource Ultra is a three-stage canister system with a 5 micron sediment filter and a 0.5 micron coconut shell carbon stage, plus a VirusGuard stage that the listing says is designed to remove or reduce viruses, bacteria and cysts. It has a powder-coated metal chassis and stainless steel fittings, which gives a full-time rig a rugged first-stage filter for years of road use. Stainless fittings on the plumbing side hold up to repeated connecting and disconnecting.\n\nAgainst the VEVOR Dual-Stage, you are paying for the VirusGuard stage and the sturdier metal build in place of extra gallons. The listing sets VirusGuard apart from a 0.2 micron filter and says replacement filters are sold separately on Amazon, so the long-term cost sits in cartridges, which you can buy and swap on your own timeline. Every stage is serviced from the same housing, which keeps maintenance in one place.\n\nBest for full-timers who fill from varied campground sources and want microbial claims on the label. The three-stage layout puts sediment protection first, then carbon, then the VirusGuard element, and the metal chassis and stainless fittings suit a rig that spends years connecting to every tap on the route. The powder-coated finish and stainless fittings are the listed upgrades over a plastic hose filter.",
     "specs": [
       "Three stages with a VirusGuard stage listed",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sOnZtY0cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNLK7TY?tag=rvgearlab-amz-20",
     "description": "The VEVOR Dual-Stage uses 5 micron cartridges in a two-canister setup with 3/4 inch fittings. The listing claims up to 4,500 gallons of capacity, a 3 GPM flow rate and stable pressure from 20 to 125 PSI, and says it reduces sediment, chlorine and heavy metals. Printed numbers like these are what make a season of swaps predictable.\n\nCompared with the Clearsource Ultra above, it works without a microbial stage and with a lighter build, at a fraction of the cost. Against the WLSINJL 5-Stage below, it prints a flow rate and a pressure range, which that listing leaves to the title, so a full-timer can plan around real figures. A buyer who tracks gallons rather than months gets the cleanest cost per season from this kit.\n\nA good middle path for full-timers who want a canister system with a stated 4,500 gallon capacity. Two cartridges come in the box, the 3 GPM flow keeps daily showers steady, and the lower cost per gallon makes it the sensible workhorse for mixed campground sources and long stays. The 3/4 inch fittings match common hookups, and cartridges swap on a schedule you control.",
     "specs": [
       "Dual 5 micron cartridges with 3/4 inch fittings",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure 2-pack lists NSF/ANSI 42 and 53 testing and CSA lead-free certification to NSF/ANSI 372, using a six-step Hex-Flow design with GAC and KDF media. It is made in the USA and screws onto any garden hose. For a full-timer who likes simple hardware, it is the documented hose-end option in this lineup.\n\nNext to the Kohree, it carries more printed certifications, including NSF 53, and sells at a higher price per pack. Against the VEVOR Dual-Stage, it is easier to swap in seconds, so it fits a rig that relocates frequently and favors a sealed unit over a mounted canister with its wrench and bracket. Printed standards give a documented starting point at the spigot.\n\nBest for full-timers who prefer simple hose-end filters and want a named certification. Plan on regular replacement, since hose filters are rated for months in place of years, and keep the second filter in the pack as the next swap so the season never leaves you unfiltered. Hand tightening is all it takes, which suits a camper who changes sites often.",
     "specs": [
       "NSF/ANSI 42 and 53 listing wording",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KPraZYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-amz-20",
     "description": "The WLSINJL is a five-stage system titled as 0.01 micron, with a 1 inch to 3/4 inch adapter and a built-in carry handle. The box includes the housing, three cartridges, a wrench, a spare O-ring, tape and two brass threads. The listing says it can process up to 3,000 gallons without clogging, which fits a full-timer who wants a complete kit. Everything for the first install arrives together, including the tape and brass threads.\n\nIt sits well above the VEVOR Dual-Stage in price and quotes a lower capacity, 3,000 gallons against 4,500. Against the Clearsource Ultra, it is cheaper and adds five stages in place of three, so it fits the buyer who wants the most stages for the money without the VirusGuard element. The five stages stack sediment and carbon duties across separate cartridges.\n\nA fit for full-timers who want a complete kit with spares in one box. The adapters cover both 1 inch and 3/4 inch hookups, the carry handle makes moves easy, and three cartridges in the box mean the first replacement is already on the shelf. A spare O-ring and tape cover the small parts that usually delay a first install.",
     "specs": [
       "Five-stage system titled 0.01 micron",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bm+sZcDnS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-amz-20",
     "description": "The RANSOTO is a three-stage external filter with a powder-coated steel stand that can be mounted or staked. The listing says it traps sediment and reduces odor, and the stand sets it apart as a fixed install for a spot where the rig sits. It works for RVs and boats, which suggests a build meant for wet environments, and the steel stand keeps the housings off the ground.\n\nCompared with the VEVOR Dual-Stage, it is cheaper and prints less data, so you plan replacements by calendar instead of by gallon count, a workable habit for a steady routine. Next to the WLSINJL 5-Stage, it uses a simpler three-stage design, which keeps the setup tidy and makes cartridge changes quick on a bracket or stake. A three-stage layout keeps a tidy footprint beside the hookup, and the stand holds everything in one assembly.\n\nBest for buyers who want a bracket-mounted system on a modest budget. Schedule replacements conservatively, and the steel stand gives the housings a stable footing at a site you return to, at a mid-range cost for a canister setup. A rig that returns to the same seasonal site gets a permanent, tidy spot for the filter.",
     "specs": [
       "Three-stage external system for RVs and boats",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-amz-20",
     "description": "The Kohree 2-pack has a 20 micron sediment stage with five-layer GAC and KDF filtration, a 0.5 gpm flow rate and a 1,057 gallon capacity. The listing says it is NSF certified and has thicker housing that passed burst tests. It is the lowest-cost entry in this lineup, and the printed capacity makes it easy to plan around. The five layers of GAC and KDF give the water a solid taste upgrade.\n\nIt is the cheapest option here and is aimed at the camper on a trusted city supply. At 1,057 gallons per filter, you replace more often than with the VEVOR Dual-Stage's 4,500 gallons, so the saving is up front while the VEVOR wins on swaps per season. The Kohree suits a calendar-based replacement habit that fits a steady travel schedule.\n\nBest for a full-timer who parks on a trusted city supply and wants the lowest-cost carbon filtering. The two-pack means a spare is ready, and the capacity figure lets you count gallons and replace on a schedule rather than on a guess. A full-timer who stays on municipal water gets a low-cost filter at every fill.",
     "specs": [
       "20 micron sediment stage with five-layer media",

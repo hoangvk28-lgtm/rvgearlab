@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iUPaJsltL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093GZ6RP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093GZ6RP3?tag=rvgearlab-amz-20",
     "description": "The SANTINY Cargo comes in 5, 7 and 9 inch inseam choices, so you can pick the coverage you like. It is a lightweight, quick-dry, water-resistant short with a 360-degree elastic waist, adjustable drawstring, built-in UPF 50+ and four zipper pockets.\n\nCompared with the NY Threads 7 Inch, it gives three inseam options and deeper zipper pockets. Against the MAGCOMSEN 5 Inch, it adds cargo pockets and a longer cut.\n\nIt suits women who want to choose their own length and a waist that never digs in. The stretch-woven fabric moves with climbs.",
     "specs": [
       "5, 7 or 9 inch inseam options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313JGYkQEaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRVPX9SP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRVPX9SP?tag=rvgearlab-amz-20",
     "description": "The baleaf Capri is a below-knee short with a mid-rise elastic waistband, adjustable drawstring and four-way stretch UPF 50+ fabric. The listing says the length is designed for coverage and reduced chafing, with a DWR finish and three pockets.\n\nNext to the SANTINY Cargo, it has more leg coverage and a stretchier fabric. Compared with the NY Threads 7 Inch, it shades more of the leg from sun and brush.\n\nIt suits hikers who want more cover for knees and thighs on sunny or overgrown trails. The fabric is described as non-see-through.",
     "specs": [
       "Below-knee capri, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41emR3F6Y1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ2RD2JW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ2RD2JW?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN 5 Inch is a quick-dry, lightweight women's hiking short with UPF 50+ and a water-resistant fabric. It has side slit legs, two side zipper pockets, one rear zipper pocket and a high-elasticity drawstring waistband.\n\nCompared with the SANTINY Cargo, it has a side split for easier stepping and fewer pockets. Against the baleaf Capri, it is shorter and cooler.\n\nIt suits hikers who want freedom of movement on steep steps. The adjustable external drawstring fits a range of waist sizes.",
     "specs": [
       "5 inch inseam, side slit legs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418KU1K1raL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN8CRJDW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN8CRJDW?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Cargo is a lightweight, quick-dry short in four-way stretch fabric with UPF 50+ and water resistance. It has two side zipper pockets, two cargo pockets with hook-and-loop closures and a wide elastic waist with drawstring, with a 5 inch inseam.\n\nCompared with the MAGCOMSEN 5 Inch, it adds four-way stretch and cargo pockets. Next to the SANTINY Cargo, it has a wider waistband and only one length.\n\nIt suits women who like a wide, soft waistband and plenty of stretch. The pockets close securely.",
     "specs": [
       "4-way stretch, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CoZzeTX2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL87NN1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL87NN1Y?tag=rvgearlab-amz-20",
     "description": "The NY Threads 7 Inch is a 7 inch inseam hiking short in soft, stretchy, lightweight fabric with built-in UPF 50+ and an adjustable drawstring waist. It has four zipper pockets at the side and thigh and a contoured back yoke.\n\nIt is a simpler, cheaper alternative to the SANTINY Cargo, at a similar length. Compared with the baleaf Capri, it is cooler and shorter.\n\nIt suits budget hikers who want a middle inseam and a flattering back. The care guide calls for low-heat machine washing.",
     "specs": [
       "7 inch inseam, UPF 50+",

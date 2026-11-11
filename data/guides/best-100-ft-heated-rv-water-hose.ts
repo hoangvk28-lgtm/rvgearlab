@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EatGAVjEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL1W6PC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL1W6PC2?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL at 169.99 combines a -45°F rating with an intelligent self-regulating external thermostat on a full 100 feet. This second RVSNAIL 100FT hose carries an intelligent self-regulating external thermostat and a -45°F rating.\n\nNext to the ZMCM RVSNAIL it drops the silicone heating wire for a simpler build and a lower price, while it beats the RVGUARD by 25 degrees of rated protection. It also costs less than the SZFY.\n\nIt uses a 3/4 inch GHT thread with double washers and food-grade, lead and BPA free materials. It suits owners who need the full 100 feet and a deep-cold rating without paying top dollar.",
     "specs": [
       "100 ft, -45°F rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51peGE15q3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PMZMCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PMZMCM?tag=rvgearlab-amz-20",
     "description": "This RVSNAIL 100FT hose is built around a silicone heating wire that stays softer and more flexible in freezing weather. RVSNAIL builds this 100FT hose around a silicone heating wire meant to stay softer and more flexible in freezing weather.\n\nCompared with the other RVSNAIL it puts the premium into flexibility and a five-layer build with a metal braid. Against the FAHKNS it costs more but is easier to uncoil on a frozen morning.\n\nIt claims -45°F protection and a five-layer construction with a rubber layer, reinforced polyester fiber and a metal braid. It is the pick for people who move the hose often or run it around obstacles.",
     "specs": [
       "100 ft, -45°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V0QTzBw-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCXYYD8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCXYYD8V?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 100FT has stainless steel connectors and a thermostat that turns on near 47°F, with -20°F protection. RVGUARD lists this 100FT hose with freeze protection down to -20°F and a thermostat that turns on at about 47°F.\n\nIt trades the -45°F rating of the RVSNAIL for sturdier metal hardware and a five-layer hose. The FAHKNS undercuts it by roughly 40 dollars but with less documented hardware.\n\nIt has a five-layer hose body, stainless steel connectors and a 3/4 inch GHT adapter, and the water is lead and BPA free. It suits sites that stay above about -10°F and where metal connectors are a priority.",
     "specs": [
       "100 ft, -20°F protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z4BNVCBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3WZM3MM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3WZM3MM?tag=rvgearlab-amz-20",
     "description": "FAHKNS lists this 100 ft hose with an energy saving thermostat, a leakage protection device and a -45°F antifreeze rating. FAHKNS lists this 100 ft hose with an energy saving thermostat and says the water stays near 59°F even in deep cold.\n\nIt costs about 30 dollars less than the RVSNAIL while keeping the deep-cold rating, and it adds a leakage protection device the SZFY does not mention. The cheaper QK25 variant narrows the price further.\n\nA leakage protection device is built in, and the hose comes with an adapter and a -45°F antifreeze rating. It fits budget-conscious buyers who still want a -45°F hose on a long run.",
     "specs": [
       "100 ft, -45°F antifreeze",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zpwlgYPeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3WYQK25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3WYQK25?tag=rvgearlab-amz-20",
     "description": "The second FAHKNS 100 ft hose has a 5/8 inch inner diameter and a 1/2 male adapter, at the lowest price of the six. This FAHKNS 100 ft hose has a 5/8 inch inner diameter, a 1/2 male adapter and an energy saving thermostat.\n\nCompared with the M3MM it focuses on a wider bore for better flow over a long run. It undercuts every other pick here by a large margin.\n\nIt uses a PVC drinking water pipe that is lead and BPA free, plus a leakage protection device. It works for owners who need long reach on a tight budget and prefer more flow.",
     "specs": [
       "100 ft, 5/8 inch I.D.",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y18YJ3R1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2827WN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2827WN3?tag=rvgearlab-amz-20",
     "description": "SZFY sells this 100FT hose with a five-layer reinforced shell and a double-ended male adapter in the box. SZFY sells this 100FT hose with food-grade contact tubing and five layers of reinforced material in the shell.\n\nIt sits at the top of the price range, ahead of both RVSNAIL hoses, and offers a quick one-minute install. The RVSNAIL 100FT matches its rating for less money.\n\nA double-ended male thread adapter is included, and the listing promises installation in about a minute. It suits buyers who value a ready-to-use kit and a heavy-duty shell above price.",
     "specs": [
       "100 ft, five-layer shell",

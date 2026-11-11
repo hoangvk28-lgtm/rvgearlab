@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517H4Iy6a2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4R8DKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4R8DKN?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a 14 ft by 8 ft cabin with an 80 inch peak, a 4-person enclosed inner tent and a front vestibule that stretches the space to 8 people. An integrated stove jack lets you use a compatible stove in the vestibule.\n\nAgainst the Naturehike Village it adds the stove jack, and against the POMOLY wall tents it adds a full inner room with a waterproof floor. The pole structure assembles in about 5 minutes with two people.\n\nIt suits families that want a heated living room with a separate bed zone. The vestibule layout keeps a stove away from the sleeping area.",
     "specs": [
       "14 x 8 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EsFcnpn-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG31XXC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG31XXC3?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village is a double-wall 4-season cabin with a snow skirt that makes it windproof and snowproof. Its 150D TI Black fabric has a UPF rating and pre-attached poles that set up in 60 seconds.\n\nNext to the Night Cat it pitches faster, and the inner tent can be used separately. Against the POMOLY wall tents, it gives a full vestibule and canopy for a roomier family footprint.\n\nIt suits campers who want a fast winter camp without a stove. The blackout fabric helps insulation and sleep.",
     "specs": [
       "Double-wall 4-season design",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41car833TnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LHY5R3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LHY5R3?tag=rvgearlab-amz-20",
     "description": "The Chalet 70 Max unfolds to 8.2 x 7.55 x 5.91 ft with two 7001 aluminum alloy poles. Its 70D ripstop polyester carries a 2500mm waterproof rating, with 14 guy points, 14 stakes and rain curtains on both doors.\n\nIt is the larger sibling of the POMOLY 70 Pro and gives more room for cots or gear, while the Night Cat has far more space overall. Compared with the Naturehike Village, it uses lighter 70D ripstop and two aluminum poles.\n\nIt suits two to four campers who haul gear on foot or by sled. Both doors keep entry flexible in changing weather.",
     "specs": [
       "8.2 x 7.55 x 5.91 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The Chalet 70 Pro is a portable hot tent for 2 to 3 people made of 70D plaid ripstop polyester rated 2500mm. Its stove jack, two 7001 aluminum poles, two sets of guylines and 8 tie-down points keep the setup compact.\n\nIt is smaller and cheaper than the Chalet 70 Max, and unlike the Night Cat it stays carryable on foot. Rain curtains on both doors let you open the tent in wet weather.\n\nIt suits solo campers and couples who want a stove-ready shelter in a backpackable size. Two opposing doors help control the airflow.",
     "specs": [
       "2 to 3 person wall tent",

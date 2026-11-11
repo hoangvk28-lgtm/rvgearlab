@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hh+7qhSPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFDTY4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFDTY4J?tag=rvgearlab-amz-20",
     "description": "The sdanbom PD9360 accepts 105 to 130 volts AC and delivers up to 60 amps of 12V DC, with a four-position profile selector for flooded lead-acid, AGM, LiFePO4 and a fixed 13.6V constant voltage mode. Each profile has an LED color so you can confirm the setting at a glance: green, white, blue and magenta. Its cooling fan switches on at about 140°F (60°C) and shuts off once the unit cools.\n\nIt ranks first because it is the only 60 amp pick here that publishes both a lithium profile and the fan trigger temperature. It costs $4 more than the XUYUN PD9360, which lists similar modes, and $42.99 more than the PowerMax PM3-60LK, which does not publish its charge stages at all. Against the two PD9260 units it adds lithium at a premium of about $53.\n\nPick this if you are switching to LiFePO4 or want to keep the option open. The caveat is that the listing does not give a stage-by-stage voltage table, so confirm the lithium absorption voltage against your battery maker's range before connecting a large bank.",
     "specs": [
       "60A, four battery modes",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVjh74lFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTV9PLCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTV9PLCT?tag=rvgearlab-amz-20",
     "description": "The XUYUN PD9360 lists a 60A rated output at 1000W from a 105 to 130V AC, 60Hz input on a 15A plug, with DC output between 13.2V and 14.7V. It replaces the PD9360, PD9360CV and PD9360V and is compatible with the PD9300 series. The listing also gives a size of 8.51 by 7.48 by 3.22 inches, which makes checking a tight deck fit easy.\n\nIt ranks second because the numbers are as good as the sdanbom's and it is $4 cheaper at $175.99, but the fan and mode descriptions are less specific, with no trigger temperature given. Against the PowerMax PM3-60LK it costs $38.99 more, and what the money buys is a documented voltage window and a dedicated lithium profile.\n\nChoose it when you are swapping a failed PD9300 series unit and want to measure before ordering. The caveat is that 1000W is an AC input figure, so at 120V the unit can draw roughly 8.3 amps, and a shared 15A shore circuit should not carry much else.",
     "specs": [
       "13.2V to 14.7V output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lr0YmJEUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N4L1B6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N4L1B6P?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM3-60LK is a standalone deck-mount converter that delivers up to 60 amps of regulated 12V DC and is billed as lithium compatible through an adjustable output. The listing mentions multi-stage charging, current limiting, reverse-polarity protection and thermal safeguards. It is $137 and mounts near the battery bank or electrical system rather than inside a power center.\n\nIt ranks third because it is the cheapest unit with a lithium claim, $42.99 under the sdanbom, but the claim is vague: adjustable output means you set it, not that it runs a lithium charge algorithm on its own. It sits $10.01 above the lead-acid-only PD9260C and gives up the plain LED mode selector that the PD9360 units have.\n\nPick it if you can set or verify output voltage yourself and want the lowest lithium-capable price. The caveat is that the listing publishes no voltages, no AC rating and no warranty term, so ask for the manual before you buy.",
     "specs": [
       "60A deck mount",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KIhorzPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL2M1TDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL2M1TDV?tag=rvgearlab-amz-20",
     "description": "The PD9260C replacement is a 60 amp, 13.6V, 1000W unit with a 105 to 130V AC input. Its three-stage cycle uses 14.4V in boost, then 13.6V float, with a lower storage voltage to limit sulfation. The listing names compatibility with lead-acid, AGM and GEL batteries, and a cooling fan that runs only when needed. It is a direct fit for the PD9200 series.\n\nIt ranks fourth because it has no lithium mode at all. Against the sdanbom it is $53 cheaper at $126.99, which is a fair trade if your bank is lead-acid, and it is $1 more than the YILISAWIN PD9260CV, which is the same series with near-identical text. The PowerMax PM3-60LK costs $10.01 more and adds an adjustable output.\n\nBuy it to replace a dead PD9200 series converter in a rig that will stay on lead-acid or AGM. The caveat is that charging lithium with a fixed 14.4V boost and no lithium cutoff is not what the listing promises, so skip it if you plan an upgrade.",
     "specs": [
       "60A, 13.6V, 1000W",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nz3olJPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59MCSYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59MCSYL?tag=rvgearlab-amz-20",
     "description": "The YILISAWIN PD9260CV is the cheapest converter in this guide at $125.99. It lists a 13.6V, 60A output from a 105 to 130V AC, 60Hz, 1000W input with automatic three-stage Normal, Boost and Storage charging, boosting at 14.4V and floating at 13.6V. It says the PD9260, PD9245 and PD9270 models are cross-compatible and differ only in output current.\n\nIt ranks last by a single dollar behind the PD9260C, because the two read almost identically and neither mentions lithium. That cross-compatibility statement is its useful extra: the listing tells you a smaller PD9245 in your rig can be replaced by this higher-current unit if your wiring supports it. Against the sdanbom PD9360 it saves $54.\n\nChoose it for the lowest-cost lead-acid, AGM or GEL swap. The caveat is that a bigger converter pushes more current through the existing wiring, so check that your fuse and cable gauge handle 60 amps before replacing a 45 amp model.",
     "specs": [
       "60A, 13.6V, 1000W",

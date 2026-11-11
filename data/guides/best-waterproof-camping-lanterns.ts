@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ljO8xpUoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MJTRT3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MJTRT3H?tag=rvgearlab-amz-20",
     "description": "The BOBKID is a two-pack of USB rechargeable lanterns with an IPX5 waterproof rating and up to 1000 lumens. Each lantern lists six modes, a 6.93 by 3.15 inch body and a weight of 0.77 lb.\n\nIt carries the highest water rating of the three, one step above the IPX4 of the CAPETRONIX and Energizer. It also supplies two lanterns, so one can light a tent and the other the kitchen area.\n\nIt suits campers who want a spare light in wet weather without paying for a single large lantern. The included 5V USB cable and drop-resistant ABS body suit rough handling.",
     "specs": [
       "IPX5, up to 1000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYSwx1tSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-amz-20",
     "description": "Two COB panels give the CAPETRONIX a 3200 lumen peak, powered by a 4600mAh cell and a Type-C charging cable. Its IPX4 body shrugs off splashes from any direction, and the mode list runs from high to low plus two red settings.\n\nIt has the highest output of the group and the biggest battery, ahead of the BOBKID at up to 1000 lumens. Its folding hooks and 7 by 4 inch body at about 1.2 lb pack smaller than its brightness suggests.\n\nIt suits campers who want one strong light for a campsite that also charges a phone from the pack. The red steady and strobe modes help in night signaling.",
     "specs": [
       "3200 lumens, double COB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VtI8SJexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09329QHWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09329QHWN?tag=rvgearlab-amz-20",
     "description": "The Energizer PRO-360 puts out 500 lumens on high with all-around illumination across a room-sized area. It is IPX4 water resistant, survives drops from up to 1 meter and has a shatterproof lens.\n\nIt is the toughest of the three on impact, a rating the BOBKID and CAPETRONIX do not state. It trails the CAPETRONIX on output, at 500 against 3200 lumens.\n\nIt suits families who want a trusted brand for the tent and the power-outage drawer. The shatterproof lens is a help around kids.",
     "specs": [
       "500 lumens on high",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20",
     "description": "Jackery's Solar Generator 1000 v2 bundles a 1070Wh LFP station with a 200W panel, putting out 1500W AC and a 3000W surge. Three pure sine wave AC sockets sit beside USB-C, USB-A and car outputs, and the cells keep over 70 percent capacity after 4,000 cycles. An app-activated one hour emergency charge and a 30 dB quiet charging mode are listed.\n\nIt balances capacity, a bundled panel and brand support better than any other pick here. Against the BROWEY, it costs more and adds a real 200W panel, and against the 2000 v2, it is smaller and cheaper.\n\nIt suits weekend campers and van owners who want a fridge, lights and devices powered for a day. It is a ready bundle.",
     "specs": [
       "1070Wh LFP, 1500W/3000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ripynhqTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8NXM21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8NXM21?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 2000 v2 lists 2042Wh of LiFePO4, 2200W AC output on three ports and a weight of 39.5 pounds. AC charging reaches 80 percent in 66 minutes, emergency super charging fills it in 102 minutes, and solar charging takes 6 hours with 400W of panels. UPS switchover is within 20ms, and UL1778 testing is listed.\n\nIt holds nearly twice the energy of the 1000 v2 and runs a 2200W load. The listing calls it 41 percent lighter and 34 percent smaller than conventional 2kWh LiFePO4 stations.\n\nIt suits RV trips and long weekends with a microwave, a space heater on low or a camp kitchen. Two 200W panels are bundled.",
     "specs": [
       "2042Wh LiFePO4, 2200W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pxALKZJyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QRW8XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QRW8XK?tag=rvgearlab-amz-20",
     "description": "The BROWEY lists 1024Wh of LiFePO4, 1600W AC output with 3200W peak and a built-in solar panel. It has eight ports including a 100W USB-C, a 3000-cycle rating to 80 percent capacity, a battery management system and an iF Design Award. AC and 100W USB-C input recharge 80 percent in 3 hours.\n\nIts built-in panel is the only one on the list, so solar works without carrying panels. Compared with the Jackery 1000 v2, it offers 100 more watts of output at a lower price, with a small built-in panel.\n\nIt suits campers who want a self-contained unit for emergencies and car camping. The accessory bag and 10 DC adapters are included.",
     "specs": [
       "1024Wh LiFePO4, 1600W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "The Elite 30 V2 from BLUETTI packs 288Wh of LFP cells behind a 600W continuous inverter and 1500W surge in Power Lifting Mode. It weighs 9.4 pounds, recharges from the wall at up to 380W (0 to 80 percent in 45 minutes) and includes a 10ms UPS switchover.\n\nIts 600W output is more than twice the ALLWEI's 300W, in a body only 3 pounds heavier. It costs about $100 more than the ALLWEI.\n\nIt suits tent campers who run a laptop, a small fan or a light string overnight. The fast recharge fits a quick lunch stop.",
     "specs": [
       "288Wh LFP, 600W continuous",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20",
     "description": "The ALLWEI lists 256Wh of LiFePO4, 300W continuous output and 600W surge on pure sine wave. It has six outputs including a USB-C PD 60W port, 3000 cycles, a 6.4 pound body and an LED light with SOS mode. Recharge takes about 3.5 to 4 hours from the wall or 4 to 5 hours from a 100W panel.\n\nIt is the lightest and cheapest on the list. Compared with the BLUETTI, it has half the output and costs about $100 less.\n\nIt suits backpack campers and day-trippers charging phones, a tablet or a light. A panel is sold separately.",
     "specs": [
       "256Wh LiFePO4, 300W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3600 Plus lists 3584Wh, 3600W AC output (7200W in parallel with dual 120V and 240V) and ceramic membrane LFP cells with 6,000 cycles and a 10-year life. It recharges in 2 hours through hybrid AC and DC and expands to 21kWh per unit. Two 200W panels come with the bundle, shipped separately.\n\nIt is the largest and priciest on the list, with about 3.3 times the energy of the 1000 v2 and a 10-year life. Compared with the 2000 v2, it adds 240V and about 1500Wh more capacity.\n\nIt suits homeowners and big-rig owners who want a transfer-switch-ready backup. It runs pumps, heaters and dryers.",
     "specs": [
       "3584Wh LFP, 3600W AC",

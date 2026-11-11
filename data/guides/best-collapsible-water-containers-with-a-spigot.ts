@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416ZCGyS0LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-amz-20",
     "description": "ITRAZ sells two 5.3 gallon containers in LDPE4 and PP, each fitted with a gasketless on/off spigot, which the listing says leaves nothing to replace. On top sits a capped air vent that allows about a gallon per minute, which the maker states is 20 percent faster than traditional designs.\n\nThe vent is what keeps the pour smooth, an advantage over the spigots on the Gowithwind and Cedilis packs, which print no vent. A soft molded handle makes carrying a full jug less awkward.\n\nRight for families and groups who fill pots and bottles at camp all day. Two jugs let one stay at the kitchen and one at the tent.",
     "specs": [
       "Gasketless on/off spigot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WVkdkGyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-amz-20",
     "description": "Gowithwind pairs two 5.3 gallon BPA-free LDPE jugs with a patented spigot under an outer lid, aimed at keeping drips in during a drive. The listing adds that the jugs are for camping, hiking and emergency kits.\n\nWhere the ITRAZ 5.3 Gal 2-Pack leans on an air vent, this one relies on a protected valve. The cover keeps knocks off the spigot in a crowded trunk, and a camping eBook is part of the package.\n\nA good fit for road-trip campers who haul full jugs. The cover helps the valve survive being bumped by gear.",
     "specs": [
       "Spigot with outer lid",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MalgujfAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JHJB4KB?tag=rvgearlab-amz-20",
     "description": "Cedilis sells two 5.3 gallon jugs of US-sourced LDPE4, each with a heavy-duty PP spigot and a clear On/Off switch. The handle is molded for a soft grip.\n\nThe On/Off switch is clear and simple, and the price is a little under the Gowithwind pair. It prints no air vent or outer cover, so it is the plainest of the three 5.3 gallon packs.\n\nA good everyday pair for campers who want one jug at the tent and one at the kitchen. Both fold flat into a gear bin.",
     "specs": [
       "Two 5.3 gallon jugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lrQCNEk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BMPT1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BMPT1S?tag=rvgearlab-amz-20",
     "description": "CoreMuse makes this 2.1 gallon (8 liter) jug with a spout, separate inlet and outlet openings that balance air pressure, and reinforced seams. The listing includes a lifetime warranty through the Amazon order.\n\nAt 2.1 gallons it weighs about 17 lb full, far less than any 5.3 gallon jug, and the separate inlet gives a smoother pour than a single opening. It is also the lowest-priced of the four.\n\nBest for backpackers and solo campers who want a lighter tap. The warranty adds confidence.",
     "specs": [
       "2.1 gallon (8 L) jug",

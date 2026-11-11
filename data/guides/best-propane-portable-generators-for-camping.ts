@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 Dual Fuel delivers 3600 rated watts on gasoline and 3240 on propane, with 4650 peak. A 4 gallon tank with a fuel gauge gives up to 14 hours per tank, and a 212cc cast iron sleeve engine includes low-oil and CO shutdown.\n\nNothing else here costs less, and it still carries an RV-ready TT-30R outlet, a 5-20R duplex and an L5-30R twist lock, all with rubber covers. Its propane rating is the highest of the three, 40 watts above the BILT HARD.\n\nIt suits RV owners who want a 30A hookup and propane flexibility with a 3-year limited warranty. The gauge and long tank help avoid middle-of-the-night refills.",
     "specs": [
       "3600W gas, 3240W propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G43h8vW5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-amz-20",
     "description": "The BILT HARD gives 3500 rated watts on gasoline and 3200 on propane from a 141cc air-cooled engine, with 4500 and 4150 peak. The listing quotes under 3 percent THD, a fully enclosed body at 58 dBA from 23 feet and a CO sensor that shuts the engine down.\n\nOnly this unit offers a parallel option, joining two units with a kit sold separately to double output. Next to the Westinghouse 4650 Dual it is quieter on paper and cleaner on power.\n\nIt suits campers who want to start small and add a second unit later for an air conditioner. RV-ready and 30A outlets are listed.",
     "specs": [
       "3500W gas, 3200W propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S2h7L6c7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5XZ9JMZ?tag=rvgearlab-amz-20",
     "description": "The ERAYAK lists 4500 peak and 3500 rated watts on gasoline, and 4050 peak and 3150 rated on propane. A gas-priority system switches to gasoline when propane runs low, and the pure sine output holds THD between 0.2 and 1.2 percent.\n\nIt states a 58 dBA figure at quarter load and weighs 54 pounds, with a compact 19.88 by 16.93 by 20.25 inch body. Its THD is far tighter than the under 3 percent quoted by the BILT HARD.\n\nIt suits RV owners who want 30A power with the cleanest sine wave at a modest weight. Gasoline is the first fuel, with propane as the fallback.",
     "specs": [
       "3500W gas, 3150W propane",

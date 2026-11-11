@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yqMQ5t1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3P66145?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3P66145?tag=rvgearlab-amz-20",
     "description": "The Naturehike Rock is a 60L plus 5L internal-frame pack with a rain cover and a hydration-system function. Its fabric blends high-strength polyethylene fibers for abrasion resistance, and the back pad uses ergonomic padding with a mesh structure.\n\nIt is the only pick here with a real internal frame, which shifts weight onto the hips for multi-day loads. Compression straps on the top and sides lash trekking poles and a sleeping bag.\n\nIt suits first-time overnight and weekend backpackers who want frame support without paying brand-name prices. The separate pockets spread gear across the pack.",
     "specs": [
       "60L + 5L internal frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51A5v9KGhlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P1FN1YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P1FN1YQ?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 40L uses rip-stop 210D nylon and includes a rain cover. A hip belt, thick padded back and shoulders, side elastic cords for trekking sticks and a headphone hole fill out the feature list.\n\nIt trails the Naturehike in carrying capacity and frame, yet it is far lighter in feel and costs much less. Compared with the Maelstrom Waterproof, it includes a rain cover and the same 40L capacity.\n\nIt suits day hikers and trekkers who want a large daypack with a hip belt. The roomy main compartment has a top zipper pocket and multiple organizers.",
     "specs": [
       "40L rip-stop 210D nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418e8iH8pUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRNGGM5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRNGGM5H?tag=rvgearlab-amz-20",
     "description": "The Maelstrom Waterproof pack measures about 13.4 by 8.6 by 22 inches at 40L and uses high-quality tear-resistant nylon. Its main pocket has a Velcro strap and hose hole for a water bag system, and ergonomic straps and a back support system add comfort.\n\nCompared with the other Maelstrom, it adds a hydration port and a back support system. Against the Naturehike, it costs less and weighs less empty.\n\nIt suits hikers who sip from a bladder and want a ready port. Side straps compress the load.",
     "specs": [
       "40L, 13.4 x 8.6 x 22 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tNhfu958L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T9KJ87Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T9KJ87Y?tag=rvgearlab-amz-20",
     "description": "The FENGDONG 40L measures 20.5 by 13 by 7.1 inches and weighs 1.9 pounds, with extra thick water-resistant polyester. It folds into its own pocket and has breathable mesh straps and a multi-compartment layout.\n\nIt is the only 40L here that packs down small. Compared with the Maelstrom bags, it has a lighter, simpler build and no hip belt.\n\nIt suits travelers who want a day pack that stows in luggage. It handles hiking, camping and commuting.",
     "specs": [
       "40L, 1.9 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kf-tTrkNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGKYB199?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGKYB199?tag=rvgearlab-amz-20",
     "description": "The SKYSPER is a 20L pack measuring 10.3 by 7.4 by 16.9 inches and weighing 1.1 pounds. It uses 600D polyester and 210D nylon plaid fabric, with breathable mesh on the back, an anti-theft zipper pocket and trekking pole fixtures.\n\nThis is the smallest and lightest pack in the list, well short of the 40L bags in capacity. It adds pole fixtures and a security pocket, which the larger bags do not stress.\n\nIt suits short hikes, commutes and weekend trips. The adjustable strap system suits many torso sizes.",
     "specs": [
       "20L, 1.1 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxsOXu09L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-amz-20",
     "description": "The Vaupan expands from 70L to 100L and weighs 3.31 pounds (1.5 kg), with 600D oxford fabric and a MOLLE external system. Widened S-type shoulder straps and elastic drawstrings help expand the main bag.\n\nIt is the biggest by far, more than the Naturehike, and suits a four or five day trip by its own description. It is lighter than it looks for the size.\n\nIt suits tactical-style or gear-heavy trips where you hang cups and pouches on MOLLE webbing. The expansion handles a bulky load.",
     "specs": [
       "70L expands to 100L",

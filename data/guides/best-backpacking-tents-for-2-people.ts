@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412NQ83GxTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ3RDNRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ3RDNRF?tag=rvgearlab-amz-20",
     "description": "The Night Cat two-person tent measures 6.8 by 4.6 by 3.6 feet and has two lightweight aluminum poles, dual vestibules and two D-shaped doors. A full-coverage rainfly, welded waterproof floor and seam-taped construction handle rain.\n\nCompared with the Clostnature, it adds a second vestibule so each hiker has storage. Against the ShinHye, it lists a floor with welded seams and a more specific interior size.\n\nIt suits two hikers who each want their own door and gear space. Interior pockets help organize small items.",
     "specs": [
       "6.8 x 4.6 x 3.6 ft interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j1UGcPPGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8TS7X6?tag=rvgearlab-amz-20",
     "description": "The ShinHye is a free-standing dome built from 210T polyester and 210D Oxford with two lightweight aluminum poles and SBS zippers. It comes in 2, 3 and 4 person sizes with a one-year warranty.\n\nCompared with the Night Cat Duo, it adds a warranty and size options. Against the Clostnature, it uses stronger zippers and Oxford fabric on the floor.\n\nIt suits pairs who want a reliable zipper and a manufacturer warranty. Large mesh and two doors improve airflow.",
     "specs": [
       "210T poly, 210D Oxford floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EXGv3DbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRX514YX?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person dome has a freestanding frame with a classic X-pole design and a PU 2000 coated polyester fly. It has factory-sealed seams and a dual-layer door with an N-shaped net.\n\nCompared with the ShinHye, it is simpler and cheaper, with a lower waterproof number. Against the Wind Tour, it adds a double-layer door and a rain-ready fly.\n\nIt suits budget pairs who still want a freestanding frame. It can be moved without taking it down.",
     "specs": [
       "Freestanding X-pole dome",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oIK9RVGfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ9NPLR6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ9NPLR6?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a two-person tent with a listed weight of 2.56 pounds and a 77 by 57 by 41 inch interior. It uses 190T polyester on top, a 150D Oxford floor, fiberglass poles and comes with a storage bag.\n\nCompared with the Night Cat Duo, it is much lighter and a bit smaller. Against the Clostnature, it uses mesh for ventilation and skips a double door.\n\nIt suits warm-weather hikers who want to cut pack weight. It also works for festivals or beach trips.",
     "specs": [
       "2.56 lb, 77 x 57 x 41 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JAmQXcakL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XPKZRGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XPKZRGS?tag=rvgearlab-amz-20",
     "description": "The Wakeman two-person tent has fiberglass poles, a removable rain fly, a ventilation window and a dual-layer door. The inner screen layer and outer zipper layer give airflow and weather cover.\n\nCompared with the Wind Tour, it adds a removable rain fly and a dual-layer door. Against the Clostnature, it is a simpler pop-up style with less detail on waterproofing.\n\nIt suits casual campers who want an easy shelter for two. Setup and tear-down are quick.",
     "specs": [
       "Fiberglass poles, removable fly",

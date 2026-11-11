@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31z5AR6xDhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYMLT9HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYMLT9HH?tag=rvgearlab-amz-20",
     "description": "WAVLINK AX1800 Outdoor WiFi 6 Extender is an IP67 weatherproof unit with four antennas and speeds up to 1800 Mbps (1201 on 5 GHz and 574 on 2.4 GHz). The listing says it is Starlink compatible.\n\nAgainst WAVLINK AX3000, it costs less with a lower speed class. Against indoor extenders, it is weatherproof.\n\nIt is the best match for owners who want a weatherproof WiFi 6 extender. It earns its slot for outdoor wifi 6.",
     "specs": [
       "AX1800 WiFi 6 outdoor",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519JsUzf-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2HMZ4T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2HMZ4T?tag=rvgearlab-amz-20",
     "description": "WAVLINK AX3000 Outdoor WiFi 6 Extender lists dual band speeds up to 2402 Mbps on 5 GHz with four 8 dBi detachable fiberglass antennas and two built-in amplifiers. The listing says it has an IP67 enclosure with 15 kV ESD and 6 kV lightning protection.\n\nAgainst WAVLINK AX1800 Outdoor, it has a higher speed class and gain. Against TP-Link RE500X, it is a weatherproof outdoor unit.\n\nIt suits owners who want a higher-gain WiFi 6 outdoor unit. It is a natural fit for higher-gain outdoor.",
     "specs": [
       "AX3000 WiFi 6 outdoor",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nE0I8HDoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ7N364W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ7N364W?tag=rvgearlab-amz-20",
     "description": "HAOYOUBI 2026 WiFi 6 Booster is an AX3000 extender that the listing says handles 165 plus devices and has an Ethernet port. It supports WPA2 encryption and sets up with WPS.\n\nAgainst Cudy and TP-Link RE500X, it states a higher speed class. Against WAVLINK AX3000 Outdoor, it is indoor and much cheaper.\n\nIt suits an indoor-mounted extender in a rig. Think of it as the pick for indoor extenders.",
     "specs": [
       "AX3000 WiFi 6 extender",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21LlKg6M38L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQYTN59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQYTN59?tag=rvgearlab-amz-20",
     "description": "Cudy AX1500 RE1500 is a WiFi 6 repeater with 1201 Mbps on 5 GHz and 300 Mbps on 2.4 GHz and a 10/100 Ethernet port. The listing says it works as a range extender, an access point or a client bridge and works as a mesh satellite with Cudy routers.\n\nAgainst TP-Link RE500X, it adds three modes and mesh. Against HAOYOUBI AX3000, it is AX1500.\n\nIt suits owners who want mode flexibility. Buyers focused on flexible indoor use will find it a sensible match.",
     "specs": [
       "AX1500 WiFi 6 repeater",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2188e-UvRYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09D8X8VSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09D8X8VSV?tag=rvgearlab-amz-20",
     "description": "TP-Link AX1500 RE500X is a WiFi 6 extender with 1201 Mbps on 5 GHz and 300 Mbps on 2.4 GHz and high-gain antennas. The listing says plainly that extenders improve coverage and not speed, with actual speeds at 50 percent or less of the router's.\n\nAgainst Cudy RE1500, it is a brand-name unit with an honest speed note. Against HAOYOUBI AX3000, it is AX1500.\n\nIt suits owners who want a known brand and a clear speed disclaimer. It earns its slot for known-brand buyers.",
     "specs": [
       "AX1500 WiFi 6 extender",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggt4irpML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-amz-20",
     "description": "TP-Link Roam 6 AX1500 is a pocket travel router with WiFi 6 speeds of 1201 Mbps on 5 GHz and 300 Mbps on 2.4 GHz for up to 60 devices. The listing says it connects to public WiFi, an ISP or a phone by USB tethering and acts as router, AP or client.\n\nAgainst the extenders, it is a router that creates a private network. Against Cudy RE1500, it connects to hotel and campground WiFi.\n\nIt suits owners who want a private network from park WiFi or a tethered phone. It is a natural fit for private travel network.",
     "specs": [
       "AX1500 WiFi 6 travel router",

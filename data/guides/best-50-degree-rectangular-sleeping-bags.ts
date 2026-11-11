@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21xOwMW+c8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-amz-20",
     "description": "The Kelty Rambler 50 is a semi-rectangular synthetic bag with Cloudloft insulation and a 50 degree lower limit. The listing gives 11.3 oz of fill, a 2 lb 12 oz total weight and a 7 x 11 inch stuffed size, and compression straps are included.\n\nIt is the only pick that names its fill, its fill weight and its construction, which makes the rating easiest to trust. A J-shaped zipper lets a foot out, and the bag unzips into a blanket for two.\n\nA strong choice for warm-weather campers who want a roomy bag that also packs small. The 260T polyester shell and liner are weather resistant.",
     "specs": [
       "50 degree limit, 11.3 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pAJi26CaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G635N6SL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G635N6SL?tag=rvgearlab-amz-20",
     "description": "Amazon Basics rates this 84 x 31.5 inch bag for 50F and above, with an integrated hood, synthetic fill and a compression carry sack. The listing says it is made from GRS certified recycled post-consumer polyester.\n\nIt costs less than half as much as the Kelty Rambler 50 and is machine washable. Integrated loops make bundling easy, and the bag unzips into a blanket.\n\nA good first bag for summer trips and sleepovers. The slim cut suits sleepers who like a close fit.",
     "specs": [
       "Rated 50F and above",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314R7RamDJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D64DTP98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D64DTP98?tag=rvgearlab-amz-20",
     "description": "The Coleman Flatlands carries a 30/40/50F label and is sold in a Big & Tall cut. Shell, liner and Ecotherm fill are all described as 100% post-consumer recycled, and a ZipPlow zipper design prevents snags.\n\nAgainst the Amazon Basics 50F, it adds a draft tube along the zipper and Roll Control packing, at a higher price. It also gives a bigger cut than the Rambler or the Amazon bag.\n\nA fit for tall campers who like Coleman's roll-and-cinch packing and want recycled materials. The Quick Cord holds the bag rolled.",
     "specs": [
       "30/40/50F label, Big & Tall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FTZKac+sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDF71992?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDF71992?tag=rvgearlab-amz-20",
     "description": "TANSTRIDER's XXL flannel bag measures 90.5 x 39.4 inches and weighs 5.3 lb. The listing gives a 40 to 50F comfort range, a water-resistant polyester shell, and a two-way zipper that opens the foot section.\n\nIt is the biggest bag here and the only one with a printed comfort range, which suits 50F nights. It unzips flat as a picnic blanket or tent mat.\n\nBest for side sleepers and tall campers who want maximum room. It is a car-camping bag first.",
     "specs": [
       "90.5 x 39.4 in XXL",

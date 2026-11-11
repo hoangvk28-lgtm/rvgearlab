@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hgbZ9IBXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN1HK4BP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN1HK4BP?tag=rvgearlab-amz-20",
     "description": "The Osprey Poco SLT is a minimalist child carrier with a patented stainless steel frame that folds flat and locks for stable carry or freestanding support. It has six inches of torso adjustment, an AirScape ventilated back panel and a zippered compartment for a UPF 50 sunshade sold separately.\n\nCompared with the besrey, it packs smaller and adjusts to more body sizes. Next to the GAGAKU kid pack, it is the carrier you need when little legs run out of steam.\n\nIt suits families who share the carrier between parents, grandparents or caregivers of different heights. The fold-flat frame fits a car trunk or a flight.",
     "specs": [
       "Folding stainless steel frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Sf90ICnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82S9TSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82S9TSM?tag=rvgearlab-amz-20",
     "description": "The besrey frame has a 5.5 pound empty weight and a listed ceiling of 44 pounds for child, gear and pack together, with a 16 pound floor. Its 5-point seat belts, padded shoulder straps and removable sunshade (which doubles against rain and wind) come standard.\n\nAgainst the Osprey Poco SLT, it costs less and gives a stated load limit. Next to the GAGAKU, it carries the child instead of asking a toddler to walk.\n\nIt fits families who hike in mixed weather and want pockets for wipes, bottles and a flashlight. Washable drool pads keep the seat clean.",
     "specs": [
       "Frame rated 16 to 44 lb total",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZCJOrajyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYL8YWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYL8YWY?tag=rvgearlab-amz-20",
     "description": "The GAGAKU is an 8L kid-sized pack for ages 3 to 8 that weighs only 0.6 pounds. It measures 11 by 8.3 by 3.9 inches and uses water-repellent fabric with ventilated mesh on the back and straps.\n\nIt does not carry the child like the Osprey or besrey do. It gives a toddler their own snacks, water bottle and a toy to carry, which keeps them interested on short walks.\n\nIt suits toddlers who walk part of the trail and want to feel included. Adjustable shoulder straps fit small frames.",
     "specs": [
       "8L, 0.6 lb daypack",

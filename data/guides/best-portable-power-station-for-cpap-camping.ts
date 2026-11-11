@@ -22,7 +22,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EASYLONGER ES270 CPAP Battery",
     amazonQuery: "EASYLONGER ES270 CPAP Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0FQMT28SX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQMT28SX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hA-o+E2iL._SL500_.jpg",
     specs: ["Capacity: 99.9Wh","Runtime claim: Up to 8 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"99.9Wh"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -39,7 +39,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
     amazonQuery: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
     specs: ["Capacity: 296Wh","Continuous output: 300W","Listed weight: 6.5 lb","Runtime claim: Up to 2 hours"],
     specList: [{"label":"Capacity","value":"296Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"6.5 lb"},{"label":"Runtime claim","value":"Up to 2 hours"}],
@@ -56,7 +56,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
     amazonQuery: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 6.4 lb"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"6.4 lb"}],
@@ -73,7 +73,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -90,7 +90,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EASYLONGER CPAP Battery Backup ES400 AIR, 148Wh Lithium-Ion Battery Pack",
     amazonQuery: "EASYLONGER CPAP Battery Backup ES400 AIR, 148Wh Lithium-Ion Battery Pack",
-    amazonUrl: "https://www.amazon.com/dp/B0FNR3KXQK?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FNR3KXQK?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41IlBpsBKpL._SL500_.jpg",
     specs: ["Capacity: 148Wh","Runtime claim: Up to 5 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"148Wh"},{"label":"Runtime claim","value":"Up to 5 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -182,7 +182,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EASYLONGER ES270 CPAP Battery product page",
-    "href": "https://www.amazon.com/dp/B0FQMT28SX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FQMT28SX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

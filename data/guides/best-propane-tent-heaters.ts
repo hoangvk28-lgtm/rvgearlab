@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N2l0auC2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSB8MQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSB8MQX?tag=rvgearlab-amz-20",
     "description": "The Ruasveltan is a 12000 BTU radiant heater listed to heat about 225 square feet. It has an oxygen depletion sensor, tip-over protection, a windshield panel and a regulator and hose in the box, and it runs on a standard 1 lb propane cylinder.\n\nThe named oxygen depletion sensor and tip-over cutoff are the safety layers that put it first on the list. The regulator and hose in the box also make it ready for a 1 lb cylinder.\n\nIt suits a camper who wants the best safety documentation for a ventilated tent or vestibule. It is cordless and needs no electricity.",
     "specs": [
       "12000 BTU, 225 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AAUzVgDFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPJ73XB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPJ73XB7?tag=rvgearlab-amz-20",
     "description": "The MOZODAWN is a 2-in-1 propane heater and cooking stove with a 13000 BTU maximum, 360 degree radiant heat and a stainless steel threaded connector. It has a tip-over switch, a 5 ft hose connector and an adjustable switch, and the gas tank is not included.\n\nIt adds a cooking surface that the Ruasveltan lacks. It also outputs more BTU than the Ruasveltan and Gasfargo.\n\nIt suits a camper who wants one device for warmth and a hot pot on a cold morning. A 5 ft hose lets the tank sit away from the tent wall.",
     "specs": [
       "13000 BTU, 360 degree heat",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419+kBd39OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RDV9QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RDV9QN?tag=rvgearlab-amz-20",
     "description": "The Buyplus is a 30000 BTU double-head propane heater with three heat levels at 22000, 26000 and 30000 BTU. Both heads rotate 30 degrees, and a steel body, safety mesh guards, a tip-over switch and a shut-off valve come with it.\n\nIt is the highest-output heater here and offers three heat steps, so it suits a large tent or shelter. It is far more power than the Gasfargo or Ruasveltan need for a small tent.\n\nIt suits a big canvas tent, a hunting camp or an ice-fishing shelter. Run it on the lowest step and keep generous clearance.",
     "specs": [
       "30000 BTU, three levels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Gc4JweOAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6F3H8JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6F3H8JT?tag=rvgearlab-amz-20",
     "description": "The Gasfargo is a 9000 BTU heater that runs on 8 oz butane canisters or a 1 lb propane tank with an 8 ft hose. It has self-ignition, tip-over and low-oxygen safety auto shut-off, a butane cartridge ejection and a safety lock, and it heats about 200 square feet.\n\nIt is the only pick that takes butane, which opens up small canisters for short trips. Its 8 ft hose is longer than the MOZODAWN's 5 ft hose, and its output is lower than the Ruasveltan's.\n\nIt suits a light-use camper who may switch fuel and wants low-oxygen protection. The self-ignition saves carrying a lighter.",
     "specs": [
       "9000 BTU, 200 sq ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413iaJZoriL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-amz-20",
     "description": "The GasCalorix is a portable radiant propane heater listed for 200 square feet that uses 1 lb tanks and has two heat settings. A protective front grill and a cylinder stand come with it, and it lists quick 2-second heating.\n\nIt is tied for the lowest price of the six and is the plainest. It has a grill and stand, and it drops the extra safety stated on the Ruasveltan and Gasfargo.\n\nIt suits a budget camper who wants simple radiant heat and will take care with ventilation. The 1-year support is the listed backup.",
     "specs": [
       "Radiant, 200 sq ft",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+0y24X+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-amz-20",
     "description": "The HEYDUOTON is a cordless radiant propane heater with a control valve, a foldable gas tank holder and a windproof lighter in the box. It is sold for tents, tailgates, RV trips and ice fishing.\n\nIt matches the GasCalorix on price and adds a lighter and a foldable holder. It lists less safety detail than the Gasfargo and Ruasveltan.\n\nIt suits a camper who wants a ready-to-go heater with a lighter included. Use the foldable tank holder to keep the cylinder steady.",
     "specs": [
       "Cordless radiant heater",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oLvGl4dmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BSQCR6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BSQCR6H?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex Professional Plus is a 35 foot, 5/8 inch inside diameter drinking water hose made of reinforced PVC with diamond-hatch reinforcement for kink resistance. Camco calls it zero memory retention and says it is 20 percent thicker than premium hoses, and the listing says it is CSA lead-free certified to NSF/ANSI 372, free of lead, BPA and phthalates. It costs about $38.\n\nCompared with the Kohree below it, the Camco is the pricier of the two 35 foot hoses, and what the extra $8 buys is the thicker wall and the explicit zero-memory design, which is why it springs back straight after being coiled. Against the older Camco TastePURE at the bottom of the list, the EvoFlex Professional Plus has the same reinforcement idea in a longer, thicker build with UV stabilization and corrosion-resistant machined fittings. A soft flexible grip makes tightening easier on wet fittings.\n\nIt suits full-timers and frequent travelers who set up and break down often, and anyone tired of fighting a stiff hose that fights back after being coiled.",
     "specs": [
       "35 ft, 5/8 inch ID reinforced PVC",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nwtvx08qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LTS9W5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LTS9W5?tag=rvgearlab-amz-20",
     "description": "The Kohree NSF 372 hose is a 35 foot, 5/8 inch drinking water hose that the listing says is independently tested to NSF/ANSI/CAN 372 lead-free standards. It is described as lead-free, BPA-free, phthalate-free and food grade, with a reinforced structure that resists kinks, twists and tangles, precision-machined fittings with a large rubber grip, and a storage bag. It costs about $30.\n\nCompared with the Camco EvoFlex above it, the Kohree trades the thicker wall and the zero-memory language for a lower price and a certification claim of independent testing, and it ships with a storage bag that keeps the hose from picking up dirt in the bay. Against the Kohree 35 foot hose below it, this listing adds the NSF certification wording at a price about $2 higher. The UV-stabilized hose is described as staying flexible on cold days.\n\nIt works for weekend campers, snowbirds and anyone who wants a certified hose without paying for the premium brand, and it is a sensible choice if you plan to carry the hose coiled in its bag.",
     "specs": [
       "35 ft, 5/8 inch drinking water hose",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dmGZq64aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL98SDG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL98SDG5?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 75 foot hose has a 5/8 inch inside diameter, aluminum 3/4 inch fittings with a sealing rubber ring, a rated burst pressure of 150 psi and an operating temperature range from -22F to 158F. It is made of a three-layer hybrid polymer and is listed as meeting NSF/ANSI/CAN 372:2024, lead and BPA free, with no odor or rubber taste. It costs about $56.\n\nCompared with the 35 foot hoses above it, the CircleRiver gives you twice the reach for roughly $18 more than the Camco, which is the right trade when your pedestal sits far from the rig. Against the 25 foot CircleRiver below it, this one adds length and a heavier upfront cost, with the same three-layer construction, so the flexibility story is identical. The aluminum fittings come with a sealing rubber ring to hold a tight seal under changing pressure.\n\nIt makes sense for large motorhome owners, long-pad sites at resorts and seasonal campers who set up once and need extra length, and for anyone who wants one long hose instead of daisy-chaining two shorter ones.",
     "specs": [
       "75 ft, 5/8 inch ID three-layer hose",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RpsKFV2HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN9MZTW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN9MZTW4?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 25 foot hose uses the same three-layer hybrid polymer as its longer sibling, with a 5/8 inch inside diameter, aluminum 3/4 inch male and female fittings with a sealing ring, a burst rating of 150 psi and a temperature range from -22F to 158F. It is listed as meeting NSF/ANSI/CAN 372:2024 and comes with a storage bag, all for about $24.\n\nCompared with the 75 foot version above it, the 25 foot hose costs less than half as much and is far easier to coil and store, which suits a small trailer that always parks close to the pedestal. Against the Kohree 35 foot hoses, it saves about $4 to $6 and ten feet of length, and it claims a tougher temperature range than the Kohree 35 foot hose below. The three layers are said to improve abrasion resistance and make coiling simpler.\n\nIt works for teardrop trailers, camper vans and small travel trailers, for weekend campers who connect at the nearest pedestal, and for anyone who wants a certified hose that stuffs into a bay without a fight.",
     "specs": [
       "25 ft, 5/8 inch ID three-layer polymer",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B1VILPbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPCHSJGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPCHSJGS?tag=rvgearlab-amz-20",
     "description": "This Kohree 35 foot hose is a 5/8 inch premium drinking water hose built from a three-layer hybrid polymer that the listing says is more flexible and lightweight than a normal garden hose and easy to coil without kinks, twists or tangles. Both ends are pure aluminum with brass coating and a large rubber grip, the burst pressure is listed at 450 psi, and it operates from -4F to 176F. A storage bag is included at about $28.\n\nCompared with the Kohree NSF 372 hose above it, this one drops the certification wording from the main bullets and saves about $2, while it states a much higher 450 psi burst pressure and a wider hot-weather range to 176F. Against the Camco TastePURE below it, it adds 25 feet of length and a three-layer hybrid polymer, yet it costs about $6 more. The listing describes the hose as food grade, drinking water safe and phthalate free with no plastic or rubber odor.\n\nIt suits value-minded campers, seasonal sites in hot climates and anyone who wants a long, flexible hose at a lower price, with a clear instruction to read the product page for certification details.",
     "specs": [
       "35 ft, 5/8 inch ID three-layer hose",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zIHOIcPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RNOVTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RNOVTM?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE is a 10 foot, 5/8 inch inside diameter drinking water hose with a heavy-duty no-kink design, strain relief ends and machined fittings. The listing says it is made from NSF/ANSI 61 certified hose, that it is CSA lead-free certified to NSF/ANSI 372, and that it has diamond-hatch reinforcement and zero memory retention. It costs about $22, the lowest price in this group.\n\nCompared with the 35 foot Camco EvoFlex above it, the TastePURE is a shorter, simpler hose with the same family of kink-resistance features, so it suits a pedestal at your door rather than a long run. Against the Kohree 35 foot hose above it, it saves about $6 but gives up 25 feet. Strain relief at the ends spreads bending forces so the hose stays open right where it leaves the fitting, which is exactly where kinks start.\n\nIt makes sense as a spare hose, a fill hose for a sanitation check, a lead-in between a regulator and a longer hose, and as the right size for a camper van that parks next to the pedestal.",
     "specs": [
       "10 ft, 5/8 inch ID reinforced PVC",

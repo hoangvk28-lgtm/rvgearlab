@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+3xB0UirL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW32H2M?tag=rvgearlab-amz-20",
     "description": "Each lantern in the Wondrastical set holds a 1200mAh cell, refills in 2.5 hours and glows for as long as 10. Four modes blend a flickering flame with warm, neutral and cold white, and a remote programs timers such as dusk-on and dawn-off.\n\nAgainst the Marlrin, it is the one that names timer programming, so it can run on a schedule without anyone at camp. It also comes in at a lower price.\n\nIt suits campers who want lanterns that switch themselves on at dusk for a table or the edge of a campsite. The IP44 rating handles damp evenings.",
     "specs": [
       "IP44, 1200mAh, 2.5 hour charge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VAmOIERqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5V1RPZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5V1RPZB?tag=rvgearlab-amz-20",
     "description": "The Marlrin is a two-pack of retro lanterns with a remote and four modes, including a flame mode and three lighting colors. A 1200mAh battery lasts up to 10 hours, and an IP44 rating covers rain and snow.\n\nCompared with the Wondrastical, it matches the battery and rating and adds a rust-free ABS body. The listing does not name a timer, so the remote is the way to control it.\n\nIt suits campers who want vintage styling and remote control more than automated schedules. Use the remote to dim or switch the pair from a camp chair.",
     "specs": [
       "2 lanterns, 1200mAh each",

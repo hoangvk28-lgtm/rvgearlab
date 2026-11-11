@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515v8mtq8SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK7K62VC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK7K62VC?tag=rvgearlab-amz-20",
     "description": "The Holdwell S is a 100W suitcase panel with A+ monocrystalline cells at up to 25 percent efficiency, a glass surface and an IP67 rating. Its 20A PWM controller has a backlit LCD and LED indicators, and the box includes an MC4 to bare wire cable and an alligator clip.\n\nIt is the only kit here with a controller display and a glass panel, which makes charging easy to read. Compared with the DOKIO 100W kits, it adds an LCD and IP67 at a similar price.\n\nVan and RV owners who like to check panel output at a glance will value it on a 12V battery. The suitcase fold sets up with an adjustable stand.",
     "specs": [
       "100W, 25% efficiency, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QvAmMKeVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-amz-20",
     "description": "The DOKIO 200W kit lists 9.7 pounds, a folded size of 20 by 27 by 1.1 inches, a standalone PWM controller and a 9.84 foot cable. Dual USB ports supply phones, lamps and small gadgets.\n\nIt is the highest-watt kit here and still slim, with the controller included. Compared with the Holdwell S, it doubles the panel wattage and drops the LCD and glass.\n\nIt suits vans and trailers running a 12V battery bank that need more charge each day. At 1.1 inches thick when folded, it slides under a bed or seat.",
     "specs": [
       "200W, 9.7 lbs, 1.1 in folded",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RkNDAseuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8684FH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8684FH?tag=rvgearlab-amz-20",
     "description": "The DOKIO 150W suitcase uses a detachable 12V PWM controller that guards against reversed polarity, overcharging, overload and shorts. Alligator clips go straight on a battery, the cable reaches 9.8 feet, and an adjustable bracket tilts the panel toward the sun. A 25-year transferable power output warranty is listed.\n\nIt sits between the 100W and 200W DOKIO kits on wattage and price. Compared with the Holdwell S, it lists a long warranty and a tilt bracket instead of a display.\n\nIt suits campers who want a plug-and-play 12V charger with a lasting warranty. The rubber handle makes carrying easy.",
     "specs": [
       "150W suitcase, PWM controller",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rFZlfvrrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VL3XF96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VL3XF96?tag=rvgearlab-amz-20",
     "description": "The DOKIO 100W kit folds to 21 by 20 by 1 inch and weighs 6 pounds. Included are a separate 12V PWM controller, a 9.85 foot extension cable and dual USB ports that work with a 12V battery or in sunlight.\n\nIt weighs the same as the DOKIO 100W Flex and sells for a little more. Compared with the Holdwell S, it is lighter and thinner, with no display.\n\nIt suits van and road trip campers who want a light 100W panel with a long cable. With the extra reach, the controller can rest in shade as the panel faces the sun.",
     "specs": [
       "100W, 6 lbs, 21x20x1 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qFGApIH+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FYFSK?tag=rvgearlab-amz-20",
     "description": "The DOKIO 100W Flex lists 6 pounds, a 19 by 26 by 0.5 inch fold, a 9.84 foot cable and a standalone PWM controller. USB ports run phones and small gadgets from a 12V battery.\n\nIt is the cheapest kit here and the thinnest when folded. Compared with the DOKIO 100W Kit, it is half the thickness and costs less.\n\nIt suits budget campers charging a small 12V battery. The thin fold slides behind a seat or into a van door.",
     "specs": [
       "100W, 6 lbs, 0.5 in folded",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4125Lv8vjXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0833T8KMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0833T8KMZ?tag=rvgearlab-amz-20",
     "description": "Gear Doctors makes this inflatable pillow weigh 3.5 oz and pack to 2.4 by 4.7 inches, about the size of a soda can. It inflates to 12 by 17 inches and 4.3 inches thick in about three breaths, and an anti-leak valve locks the air in overnight.\n\nIt is the thickest pillow of the six when inflated and the only one with a hexagon-pattern TPU shield fabric. The foam pillows feel more natural, while this one packs to a fraction of their size and adjusts to your loft.\n\nIt suits backpackers and side sleepers who want a thick, tiny pillow for under $15. It also works as lumbar support in a car seat.",
     "specs": [
       "3.5 oz, packs 2.4 x 4.7 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YIkqa30eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZHLNM69?tag=rvgearlab-amz-20",
     "description": "This pillow holds shredded memory foam mixed with polyester fiber in a 15.5 by 12 inch body with a breathable microfiber cover. It includes a travel bag and the cover washes.\n\nIt costs about $3 more than the Gear Doctors, and feels like a bed pillow instead of a tube of air. The fill can be pressed flat or fluffed up, which helps stomach and back sleepers who dislike a tall pillow.\n\nIt suits car campers and travelers who want a familiar foam feel in a small pillow. It also fits a flight bag.",
     "specs": [
       "15.5 x 12 inch shredded foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ruAKpHpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-amz-20",
     "description": "PEUJEW fills a 12 by 16 inch pillow with shredded memory foam for a medium-firm feel. The microfiber cover comes off for washing, and the foam compresses for packing.\n\nIt costs a dollar less than the 1 MIDDLE ONE and gives a slightly larger footprint at 16 inches long. The Hikenture below it adds an inflatable core instead of foam.\n\nIt suits campers who want a firmer pillow with support under the neck. Push foam to the ends to adjust the loft.",
     "specs": [
       "12 x 16 inch shredded foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pePsp4-rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DDP38EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DDP38EO?tag=rvgearlab-amz-20",
     "description": "The TETON camp pillow lofts on its own with no inflating and washes with its pillowcase. Each pillow matches the lining of one or more TETON sleeping bags and packs down tight.\n\nIt costs about the same as the Gear Doctors and gives the familiar feel of a soft polyester pillow rather than air or foam. It is the simplest option to look after, because the case and pillow wash together.\n\nIt suits families and car campers who want a plain, soft pillow that does not need a pump or a puff. The matching color is a bonus for TETON sleeping bag owners.",
     "specs": [
       "Self-lofting soft pillow",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rNPSgbmkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVZXLGV2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVZXLGV2?tag=rvgearlab-amz-20",
     "description": "Maitys sells five inflatable pillows that each measure about 13.6 by 9.5 inches when inflated. The flocked fabric and PVC body hold air for a few days.\n\nIt costs about $9 for five, which is the lowest price here and the best choice if you need pillows for a group. The pillows are thinner and less durable than the Gear Doctors.\n\nIt suits scout groups, kids and family trips where the group needs several cheap pillows. It also suits spare pillows kept in the car.",
     "specs": [
       "Five pillows, 13.6 x 9.5 inches",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410WML9OwGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-amz-20",
     "description": "The Hikenture is an ultralight inflatable pillow shaped to cradle the neck and lower back. It has a removable washable cover and an upgraded leak-resistant design.\n\nIt is the most expensive pillow here, about $5 above the Gear Doctors, and the cover is what the extra money buys. The Gear Doctors is thicker and lighter, while the Hikenture gives a soft touch you can wash.\n\nIt suits backpackers who like a shaped pillow with a soft removable cover. The cover also works to absorb sweat.",
     "specs": [
       "Ergonomic ultralight inflatable",

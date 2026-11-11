@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZzAYEc8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-amz-20",
     "description": "Coleman sells the Brazos as a standard-size rectangle in 20F and 30F ratings, for campers to 5 ft 11 in. A Thermolock draft tube, Fiberlock construction to anchor the insulation and a no-snag zipper come standard, along with fasteners that hold the roll shut.\n\nBecause it is cut to a standard size, it uses less material than the 90 by 39 inch HiZYNICE XXL and costs less. The two ratings let you choose a bag for fall at 20F or for cool nights at 30F.\n\nIt suits casual campers who want a familiar name and a bag they can carry from the car. Choose the rating by your coldest night.",
     "specs": [
       "20F or 30F rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCMi67hJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-amz-20",
     "description": "Wide at 90 by 39 inches, the HiZYNICE XXL has a cotton flannel lining and a cut for tall sleepers. It prints three temperature figures, 30F comfort, 15F limit and 0F extreme, and adds a zipper draft tube.\n\nIt is the roomiest of the three, which makes it the heaviest to carry in practice. Next to the Coleman Brazos it prints more rating detail, and its cut suits broader sleepers.\n\nIt suits taller or broader campers who want clear temperature numbers. The bag is machine washable.",
     "specs": [
       "30F comfort, 15F limit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mj0u11LgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLJ5593?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLJ5593?tag=rvgearlab-amz-20",
     "description": "The Kelty Wayback 20F measures 85 by 36 inches with a 72 inch hip and shoulder girth, and lists a 6 lb carry weight in its stuff sack. Cirroloft recycled synthetic insulation, a recycled nylon ripstop shell and an organic cotton flannel lining form the build.\n\nA built-in blanket snaps up or down to adjust warmth, which neither the Brazos nor the HiZYNICE offers. It is the only listing here that prints a weight, so you know what you are carrying.\n\nIt suits car campers who like a classic plaid-flannel rectangle. The blanket lets you adjust through the night.",
     "specs": [
       "20F, 85 by 36 inches",

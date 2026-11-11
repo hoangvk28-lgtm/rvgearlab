@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WEIVw6+7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5Q2YMO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5Q2YMO?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 770 is a 6.95 inch navigator built for RVs and towable trailers with custom routing based on the size and weight of your rig. It adds voice-activated navigation, Bluetooth calling and a directory of RV parks and services.\n\nAgainst the Garmin RV Cam 795, it drops the dash cam and the larger display but costs much less. Against the budget HINYFVOZ and LMCOWRE units, it comes from an established RV navigation brand with built-in Wi-Fi map updates.\n\nBest for most RVers who want a trusted RV-specific navigator at a reasonable price. Enter your rig's real dimensions and still watch for posted restrictions.",
     "specs": [
       "6.95 inch edge-to-edge display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G6-75C+mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS6XCMB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS6XCMB2?tag=rvgearlab-amz-20",
     "description": "The Garmin RV Cam 795 is a 7 inch navigator with a built-in dash cam and automatic incident detection. It also adds custom RV routing, high-resolution Birdseye satellite imagery and a preloaded directory of RV parks, KOA and national parks.\n\nCompared with the Garmin RV 770, it adds the dash cam, collision and lane-departure warnings and the camp directory depth. It is also the most expensive pick here.\n\nBest for owners who want the camera and the largest feature set. Some places regulate dash cam use, so check local law, and remember routing is not a safety guarantee.",
     "specs": [
       "7 inch RV navigator",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oWXkvptqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 9-inch GPS has a 9 inch HD touchscreen, 2026 North America maps with free lifetime updates, and customizable routes for cars, trucks and RVs. It warns of speed cameras and red-light cameras and includes an FM transmitter.\n\nCompared with the HINYFVOZ 7-Inch, it adds screen size for a modest price premium. Compared with the Garmin RV 770, it offers a bigger display at a fraction of the price but with less established map and routing support.\n\nBest for buyers who want a big, bright screen on a budget. Verify the vehicle-profile entry fields and update process before relying on it.",
     "specs": [
       "9 inch HD touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NGzpkL0sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7-inch GPS shows 2026 North America maps with free lifetime updates and takes vehicle height, weight, length and width for custom routing. It speaks turn-by-turn directions in 25 plus languages.\n\nVersus the HINYFVOZ 9-Inch, it is the smaller screen at a lower price. Versus the LMCOWRE and OHREX units, it shares the 7 inch size and similar claims, so the deciding factor is the listing detail.\n\nBest for a basic budget navigator. Treat vehicle-aware routing as an aid, not a guarantee.",
     "specs": [
       "7 inch HD touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hA5aDJPML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-amz-20",
     "description": "The LMCOWRE 7-inch GPS has built-in 2026 North America maps with lifetime free updates and full-route voice announcements. It offers fastest, shortest, eco-friendly and easiest route options.\n\nCompared with the HINYFVOZ 7-Inch, it adds route-type choices and a windshield mount and car power adapter. Compared with the OHREX N700, it lacks the offline-focused description.\n\nBest for budget buyers who want route choices. Confirm that RV profiles with height and weight work as described.",
     "specs": [
       "7 inch touchscreen",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K19e400lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W84QD37?tag=rvgearlab-amz-20",
     "description": "The OHREX N700 is a 7 inch navigator described as working fully offline without cell service, with preloaded 2026 maps for the USA, Canada and Mexico. It customizes routes by vehicle weight, length, height and width.\n\nVersus the LMCOWRE and HINYFVOZ 7-Inch units, its listing leans on offline use and a PC or TF card update path rather than an app. That means updates need a computer, unlike the Garmin RV 770 with built-in Wi-Fi.\n\nBest for remote travelers who want a fully offline unit. Plan for the PC update step and remember routing is not a guarantee.",
     "specs": [
       "7 inch, offline maps",

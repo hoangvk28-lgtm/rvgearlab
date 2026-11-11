@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WuQpJMJfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX85K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX85K?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 4-Ft is the one pick that lists a 1/2 inch inner diameter. It is NSF/ANSI 61 certified for drinking water, CSA lead-free certified to NSF/ANSI 372 and made in the USA with diamond-hatch reinforcement.\n\nNext to the stainless 1 ft qeqeoee, it is four times the length and a hose rather than a connector. It also lists UV stabilized PVC, which suits a hookup that sits in the sun.\n\nIt suits owners who need a short, certified drinking hose between a spigot and a regulator. Camco's certification wording is the clearest of the group.",
     "specs": [
       "1/2 inch ID, 4 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21YCNmpywxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9YS3W5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9YS3W5?tag=rvgearlab-amz-20",
     "description": "The Atlantic RV Drinking Water Hose is a 1 ft connector made with a food-grade silicone inner tube and washer. The listing names lead, BPA, phthalate and PVC free materials with stainless steel fittings.\n\nIt is the only pick with a silicone liner, which sets it apart from the PVC Camco and the stainless qeqeoee. It is built for short hops between a filter, regulator and hose.\n\nIt suits owners who want PVC free plumbing near the inlet. It also suits tight spots.",
     "specs": [
       "1 ft drinking water hose",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sjhKMXxDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8B8CP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8B8CP9?tag=rvgearlab-amz-20",
     "description": "The qeqeoee 1FT is a lead-free, BPA-free hose with a 3/8 inch inner diameter wrapped in 304 stainless steel. It is made for connecting filters and regulators in tight spaces and includes PTFE tape and rubber washers.\n\nIt is the lowest priced pick and the smallest bore at 3/8 inch. Its stainless wrap resists crushing, which the Atlantic does not list.\n\nIt suits owners who want a bite-resistant short link in a cramped compartment. It is for connections, not long runs.",
     "specs": [
       "1 ft, 3/8 inch ID",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zru29UfOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z6L38GC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z6L38GC?tag=rvgearlab-amz-20",
     "description": "The RecPro Fresh Water Fill Hose is a 1 1/4 inch hose, 10 feet long, supplied with hose clamps. It has a 5 inch ribbed section and a 3 inch smooth section and is cold and heat resistant.\n\nIt is the longest fill hose of the group and the only one that lists clamps in the box. It is for gravity fill ports, not for the campground spigot.\n\nIt suits owners who replace a tank filler neck hose. The listing notes the relaxed length is 2 inches shorter than the installed length.",
     "specs": [
       "1 1/4 inch, 10 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eFQxPqc5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H691XR18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H691XR18?tag=rvgearlab-amz-20",
     "description": "The SMZTools is a 1.25 inch, 3 foot fresh water fill hose that lists an anti-kink design. It is rated as abrasion, weather and crack resistant.\n\nAt 3 feet it is the shortest of the fill hoses. It is lighter and easier to store than the RecPro.\n\nIt suits RVs, campers and boats with standard fill ports. It is for a replacement fill, not a hookup.",
     "specs": [
       "1.25 inch, 3 ft fill hose",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nCiT-Hf2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZK6B154?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZK6B154?tag=rvgearlab-amz-20",
     "description": "The Generic SF1135-50 is a flexible 1-3/8 inch inner diameter filler hose, commonly used for RV and trailer water tank filler necks. It ships as one continuous length and fits most gravity-fill ports.\n\nIt has the widest bore here and is priced between the Atlantic and RecPro. It lists a part number, which helps matching a replacement.\n\nIt suits owners with 1-3/8 inch fill necks. Check the neck size before buying.",
     "specs": [
       "1-3/8 inch ID filler hose",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XzWgpOxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP8698N4?tag=rvgearlab-amz-20",
     "description": "Unique Clean-It is a 32 oz liquid enzyme and probiotic black and holding tank cleaner that breaks down solid waste, toilet paper and residue left on tank walls. It lists a 48 to 72 hour working time with no driving required and is septic safe and compatible with all RV and marine holding tanks.\n\nAgainst Restore-It, it is a general deep clean instead of a sensor treatment. Against Store-It, it handles existing buildup rather than storage.\n\nBest for a periodic deep clean when routine treatments do not keep up. A good pick for seasonal resets.",
     "specs": [
       "32 oz enzyme and probiotic liquid",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318OoPLKA1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP86QPX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP86QPX4?tag=rvgearlab-amz-20",
     "description": "Unique Restore-It is a 32 oz liquid sensor cleaner that targets waste buildup on sensor probes and works in 48 to 72 hours with no driving. It uses an enzyme and bacteria formula that digests solid waste, toilet tissue and sludge on the probes.\n\nAgainst Clean-It, it is aimed at false readings from stuck waste rather than general buildup. Against Walex Commando, it is narrower but specific to sensors.\n\nBest for tanks that show false full readings from probe buildup. A focused fix for sensors.",
     "specs": [
       "32 oz liquid sensor cleaner",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419RXc2qRrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP86YB7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP86YB7K?tag=rvgearlab-amz-20",
     "description": "Unique Store-It is a 32 oz liquid black tank cleaner made for storage in non-freezing conditions, designed to work for days or months between trips. It uses probiotics and enzymes and is applied after dumping and rinsing to clean leftover residue.\n\nAgainst Clean-It, it suits storage rather than a deep clean. Against Adios, it is gentler on a working tank.\n\nBest for off-season storage and between-trip maintenance. A good pick for owners who park their rig for months.",
     "specs": [
       "32 oz storage liquid",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5103n4shnBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6735XSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6735XSD?tag=rvgearlab-amz-20",
     "description": "ADIOS! is a 32 oz bioactive enzyme treatment that the listing says breaks down toilet paper and solid waste clogs, including pyramid plugs. It also lists cleaning of tanks and sensors, odor neutralizing and a formula with no caustic chemicals or VOCs.\n\nAgainst Clean-It, it highlights clog treatment and odor control. Against Store-It, it is a max-strength working formula.\n\nBest for slow-draining tanks and persistent odors. A broad pick when several symptoms show up together.",
     "specs": [
       "32 oz bioactive enzyme formula",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IHIOJ3AEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLPG921?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLPG921?tag=rvgearlab-amz-20",
     "description": "Walex Commando is a 32 oz liquid that deep cleans black tank sensors, cleans the whole black tank and helps with lingering odors. The listing also says it lubricates valves and seals, and the process is to empty the tank, add Commando, fill with water and let it soak.\n\nAgainst Restore-It, it adds valve and seal conditioning at a lower price. Against Clean-It, it covers sensors as well as general cleaning.\n\nBest for budget buyers who want one product for sensors, odor and valves. A flexible all-in-one.",
     "specs": [
       "32 oz sensor and tank cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rTuQhBF6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX7YC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX7YC?tag=rvgearlab-amz-20",
     "description": "The Camco Swivel Stik is a tank rinser with rotary jet action, a 34 inch flexible reach, a solid 24 inch section and a 1/4-turn shutoff valve. It is built to blast waste off tank walls and reach offset basement tanks.\n\nAgainst the liquids, it uses water pressure to physically clear stuck waste. Against Clean-It, it works right away instead of over 48 to 72 hours.\n\nBest for tanks with caked waste or hard-to-reach offsets. A useful tool next to any chemical.",
     "specs": [
       "Rotary jet rinser wand",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Champion Power Equipment 100593 3276-Wh Power Station 3200/1600-Watt Portable Lithium-Ion Battery Solar G",
     amazonQuery: "Champion Power Equipment 100593 3276-Wh Power Station 3200/1600-Watt Portable Lithium-Ion Battery Solar G",
-    amazonUrl: "https://www.amazon.com/dp/B0BGYPPBTZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0BGYPPBTZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41qt-E9nV4L._SL500_.jpg",
     specs: ["Product type: Battery power station","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Battery power station"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Champion 4000-Watt Dual Fuel RV Ready Portable Inverter Generator",
     amazonQuery: "Champion 4000-Watt Dual Fuel RV Ready Portable Inverter Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D6SQR1L1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41zlMnJ0QvL._SL500_.jpg",
     specs: ["Continuous output: 3,000W","Runtime claim: Up to 10 hours","Noise claim: 64 dBA","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"3,000W"},{"label":"Runtime claim","value":"Up to 10 hours"},{"label":"Noise claim","value":"64 dBA"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "UDPOWER S1200 Portable Power Station 1200W (Surge 1800W), Max 400W Solar Input, UPS, UL2743,",
     amazonQuery: "UDPOWER S1200 Portable Power Station 1200W (Surge 1800W), Max 400W Solar Input, UPS, UL2743,",
-    amazonUrl: "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41UO-rypUVL._SL500_.jpg",
     specs: ["Continuous output: 800W","Surge output: 1,800W","Battery cycle claim: 500 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Continuous output","value":"800W"},{"label":"Surge output","value":"1,800W"},{"label":"Battery cycle claim","value":"500 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Champion 11,000-Watt Wireless Remote Start Portable Inverter Generator",
     amazonQuery: "Champion 11,000-Watt Wireless Remote Start Portable Inverter Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0CYR4XHLY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CYR4XHLY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51iqe0kYdCL._SL500_.jpg",
     specs: ["Continuous output: 9,000W","Runtime claim: Up to 15 hours","Noise claim: 64 dBA","Fuel format: Gasoline"],
     specList: [{"label":"Continuous output","value":"9,000W"},{"label":"Runtime claim","value":"Up to 15 hours"},{"label":"Noise claim","value":"64 dBA"},{"label":"Fuel format","value":"Gasoline"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
     amazonQuery: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 600W","Surge output: 1,500W","Listed weight: 9.4 lb"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"600W"},{"label":"Surge output","value":"1,500W"},{"label":"Listed weight","value":"9.4 lb"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Champion Power Equipment 100593 3276-Wh Power Station 3200/1600-Watt Portable Lithium-Ion Battery Solar G product page",
-    "href": "https://www.amazon.com/dp/B0BGYPPBTZ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0BGYPPBTZ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BZfGqnywL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGJMG4S1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGJMG4S1?tag=rvgearlab-amz-20",
     "description": "The Lamicall Air Vent is a 24 g sports pair in TR90 frame material with TAC HD polarized lenses and 99.9 percent UV400 protection. Three adjustable nose pad levels, skin-friendly silicone temples and an air-vent design are all named on the listing.\n\nCompared with the DUCO Metal Frame, it weighs far less at 24 g and adds a cylindrical lens for a wider field of view. Against the Lamicall Anti-Fog, it is the same frame with a ventilation focus rather than the anti-fog description.\n\nIt is the right choice for runners who sweat heavily and want something close to weightless. The adjustable pads let you dial in the fit.",
     "specs": [
       "24 g TR90 frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31esDRcDkDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV8TGD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV8TGD1?tag=rvgearlab-amz-20",
     "description": "The Lamicall Anti-Fog uses the same 24 g TR90 frame as the Air Vent, with TAC HD polarized lenses and 99.9 percent UV400 protection. The listing calls out an anti-fog design, along with three adjustable nose pad levels and silicone temples.\n\nIt differs from the Lamicall Air Vent only in the venting and fog emphasis, which suits runners in cool, humid conditions. Next to the FAGUMA Polarized, it is lighter and more adjustable.\n\nIt suits runners who train in early morning mist or cold air. A hardshell case with a clip comes in the set.",
     "specs": [
       "24 g TR90, anti-fog design",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Bms2bX6jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SMRN2DU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SMRN2DU?tag=rvgearlab-amz-20",
     "description": "The DUCO Metal Frame is a semi-rimless sports pair with an Al-Mg metal alloy frame that the listing calls unbreakable and corrosion resistant. TAC polarized lenses with a UV400 coating, adjustable soft nose pads and a flexible metal hinge round out the design.\n\nIts 68 mm wide lens and 144 mm frame give more coverage than the Lamicall pairs. Against the FAGUMA Polarized, it adds a case with a carabiner and a metal frame instead of plastic.\n\nIt suits runners with larger faces who want a metal frame that handles drops. The carabiner case clips to a bag.",
     "specs": [
       "Al-Mg metal alloy frame",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uqd7YYN+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMNKCGSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMNKCGSM?tag=rvgearlab-amz-20",
     "description": "The Foliful 3-Pack gives three pairs of sporty wrap-around polarized sunglasses that the listing names for running, baseball and hiking. A widened curved lens aims to remove blind spots, and an adjustable strap keeps the frame in place.\n\nEach pair comes with a pouch and polarization test card, plus one case and one cloth for the set. Compared with the Lamicall pairs, it offers three pairs and a strap instead of ultra-light specs.\n\nIt is a smart buy for runners who run with a group, or who want spares for the car and gym bag. The strap helps on rough ground.",
     "specs": [
       "Three polarized wrap-arounds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YiqNnqInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YSQMBZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YSQMBZN?tag=rvgearlab-amz-20",
     "description": "The FAGUMA Polarized is a UV400 sports pair with TAC HD polarized lenses that the listing says block 99 percent of UVA and UVB light. The frame is polycarbonate coated with elastic paint, and the lens runs 65 mm wide and 39 mm tall.\n\nA nose bridge of 19 mm and 126 mm temples give clear sizing numbers. Compared with the suoso Wrap Around, it lists more lens and frame detail, and it costs slightly more.\n\nIt suits runners and cyclists who want a lightweight polycarbonate frame at a modest price. Running, climbing and trekking are all named.",
     "specs": [
       "TAC HD polarized, UV400",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MymYgtOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZDBFCKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZDBFCKL?tag=rvgearlab-amz-20",
     "description": "The suoso Wrap Around is a polarized TAC lens pair with UV400 protection and a polycarbonate frame. Rubber nose pads and flexible temples keep the frame in place during hard efforts, and running, cycling and hiking are named uses.\n\nIt costs less than every other pair in this group, and its rubber nose pads give more grip than the FAGUMA Polarized listing mentions. Next to the Foliful 3-Pack, you get one pair and no strap or test card.\n\nIt suits runners who want a first pair of sports sunglasses or a spare. After-sales service is listed.",
     "specs": [
       "Polarized TAC, UV400",

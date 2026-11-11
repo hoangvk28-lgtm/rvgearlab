@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-amz-20",
     "description": "The DOKIO 150W kit folds to 19.3 x 20.9 x 1.1 inches at 7.3 lbs and includes a standalone PWM charge controller with reverse polarity, overcharge, overload and short-circuit protection. A 9.8 foot cable lets the panel sit in sun while the controller stays in shade.\n\nIt carries the most wattage of the five, and the separate controller suits 12V battery setups, which the ZOUPW and FlexSolar do not list. It also adds USB ports for direct phone top-ups.\n\nIt fits homeowners who keep a 12V battery or RV-style backup. The long cable makes it practical to set up in a yard.",
     "specs": [
       "150W foldable, 7.3 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9ZbgIgkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-amz-20",
     "description": "The ZOUPW is a 100W foldable panel with 23.5% efficient Grade A+ monocrystalline cells, an IP67 ETFE coating and a 5-in-1 universal connector cable. It weighs 9.48 lbs and folds to 24.13 x 21.06 x 1.77 inches.\n\nCompared with the FlexSolar, it carries a built-in charge hub with USB-C PD 15V/3A and two USB-A ports. The five-connector cable fits more power stations than a typical 4-in-1 cable.\n\nIt suits households with a Jackery or similar station where connector fit is the main worry. The magnetic carry handle helps with storage.",
     "specs": [
       "100W, 23.5% efficient cells",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512HvRFtq1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-amz-20",
     "description": "The FlexSolar is a 100W panel weighing only 4.1 lbs with a 0.59 inch profile, IP67 waterproof and dustproof rating and E-Film lamination. Outputs include PD 3.0 45W USB-C, 18W USB-A and a 100W DC port.\n\nAt less than half the weight of the ZOUPW, it is the easiest panel to carry out and set up on a porch. Its 23%+ efficiency matches the other 100W options.\n\nIt fits older owners, apartment dwellers and anyone who wants a panel that is easy to move in and out of a closet. The 100W DC output feeds most stations directly.",
     "specs": [
       "100W, 4.1 lbs, 0.59 inch thin",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TJGq5CNYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9VHZS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9VHZS9?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS 60W panel folds to briefcase size with a kickstand and has three outputs: a 5A DC port, a USB-C port and a USB-A port. It lists 23% conversion with IP67 water resistance.\n\nIt sits between the 100W panels and the 10W BLAVOR, enough for phones, power banks, speakers and small electronics. Compared with the FlexSolar, it trades wattage for a lower price.\n\nIt suits households that only need to keep small devices charged during outages. It is easy to prop up with the kickstand.",
     "specs": [
       "60W foldable, 23% conversion",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P3tJfJAKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-amz-20",
     "description": "The BLAVOR 10W is a small foldable solar charger with 5V/2A max output and two USB outputs, listing up to 24% efficiency with ETFE lamination. It weighs 0.81 lbs and folds to 7.4 x 7.5 x 1 inches, with carabiners and a USB-A to USB-C cable included.\n\nIt is the lightest and most compact of the five and the only one that fits in a go bag. It is meant for phone-sized loads, and it clips onto a pack with the two carabiners.\n\nIt suits a go bag, a window ledge or a car dashboard during an outage. Two USB outputs mean two phones can charge at once.",
     "specs": [
       "10W, 5V/2A max, 2 USB ports",

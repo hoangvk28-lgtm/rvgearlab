@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-YDWPVlnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B711GG7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B711GG7N?tag=rvgearlab-amz-20",
     "description": "The Cudy P5 is a 5G Release 16 router with 3.4 Gbps download capability, 4CA carrier aggregation and 4x4 MIMO, paired with AX3000 Wi-Fi 6 at 2402 Mbps on 5 GHz and 574 Mbps on 2.4 GHz. Two Nano SIM slots offer carrier flexibility, four detachable antennas allow upgrades, and four Gigabit Ethernet ports include a configurable WAN/LAN port. VPN support covers WireGuard, OpenVPN, IPsec, ZeroTier, PPTP and L2TP.\n\nCompared with the InHand ER815 below, the Cudy costs $39 less and adds detachable antennas, mesh expansion and a wider VPN menu, while the InHand adds a 2.5GbE WAN port and cloud-managed enterprise tools. Compared with the Teltonika RUT955W, it adds 5G and Wi-Fi 6 for about $135 more.\n\nIt suits a remote worker who parks in areas with 5G coverage and wants a fast, flexible router at a mid-range price. Online detection and a choice between cellular router and Wi-Fi router modes make setup straightforward.",
     "specs": [
       "5G Rel. 16, up to 3.4 Gbps, 4CA, 4x4 MIMO",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xkF+twnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BT696FV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BT696FV4?tag=rvgearlab-amz-20",
     "description": "The Teltonika RUT955W is a rugged dual SIM 4G LTE router with Wi-Fi, listed with support for AT&T, T-Mobile, Verizon, Telus, Rogers and Bell. LTE Cat 4 delivers up to 150 Mbps, and the industrial design adds Ethernet, digital and analogue I/Os, RS232 and RS485. Its dual SIM logic can switch on weak signal, data limit, SMS limit, roaming, no network, network denied, data connection failure or SIM idle protection.\n\nCompared with the Cudy P5, the RUT955W costs $135 less and offers far more detailed switching rules and an industrial build, while the Cudy brings 5G and Wi-Fi 6. Compared with the CSG m106 Pro, it adds an industrial design and wired I/O for $82 less.\n\nIt suits a full-timer who values reliability over peak speed, a tinkerer who wants to monitor sensors or a buyer with an LTE-only coverage area. The eight switching conditions let you build a precise failover plan.",
     "specs": [
       "LTE Cat 4 up to 150 Mbps, dual SIM with Wi-Fi",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ntK+dT5iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGM7DJ6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGM7DJ6F?tag=rvgearlab-amz-20",
     "description": "The InHand Networks ER815 is a 5G NSA router with up to 3.4 Gbps download and AX3000 Wi-Fi 6. Dual Nano SIM slots auto-switch with real-time link detection, and a 2.5GbE WAN port with four Gigabit LAN ports allow a Starlink or a campground Ethernet line to join cellular for dynamic failover. A multi-layer firewall, VLAN segmentation, QoS and VPN protocols including IPsec and L2TP sit alongside the InCloud Manager remote dashboard.\n\nAgainst the Cudy P5, the InHand costs $39 more and gives you a 2.5GbE WAN, VLANs and cloud management, while the Cudy adds detachable antennas and mesh. Against the MOFINETWORK, it costs $181 less for the same 5G class.\n\nIt suits an RVer who runs a business, wants to combine campground Ethernet with cellular, or keeps a second rig and wants to monitor both. The InCloud platform lets you push settings from anywhere.",
     "specs": [
       "5G NSA, up to 3.4 Gbps, AX3000 Wi-Fi 6",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fhlwu-CcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7JSH954?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7JSH954?tag=rvgearlab-amz-20",
     "description": "The CSG m106 Pro is a 4G LTE Cat 12 dual SIM router with a built-in 5,000mAh battery rated for 8 hours, Wi-Fi for up to 32 devices, OpenVPN and WireGuard, and port forwarding. A free CSG View cloud portal shows data usage and lets you troubleshoot and configure remotely. The portable design suits a travel gateway as well as a desk.\n\nCompared with the Teltonika RUT955W, it costs $82 more and adds a built-in battery and Cat 12 speeds, while the Teltonika adds an industrial build. Compared with the Cudy P5, it costs $52 less for LTE rather than 5G.\n\nIt works for a camper who moves between the rig, a picnic table and a trailhead, a team that needs backup internet for a pop-up office or a driver who wants a failover that survives a power cut. The data-usage view makes it easy to track a monthly cap.",
     "specs": [
       "4G LTE Cat 12 dual SIM, 5,000mAh battery",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bBXzUWRYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4GRGH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4GRGH5?tag=rvgearlab-amz-20",
     "description": "The MOFINETWORK MOFI6500-5GXeLTE is a 5G and 4G LTE dual SIM router with amplified Wi-Fi 6, a full metal case and detachable antennas. It lists auto failover, band lock, IP pass-through, VPN compatibility and ZeroTier certification, and toll-free support is printed in the listing. Band lock lets you pin the modem to a particular band, which can stabilize a weak-signal connection.\n\nCompared with the InHand ER815, it costs $181 more and adds band lock, IP pass-through and amplified Wi-Fi. Compared with the Teltonika RUTM50, it costs $48 less and delivers Wi-Fi 6 instead of Wi-Fi 5.\n\nIt suits a rural traveler who fights a marginal signal, a user who needs IP pass-through to feed another router and anyone who wants US-based support. The metal case dissipates heat well in a hot rig.",
     "specs": [
       "5G and 4G LTE dual SIM, amplified Wi-Fi 6",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41muR5lzlKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYWWZ1SW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYWWZ1SW?tag=rvgearlab-amz-20",
     "description": "The Teltonika RUTM50 is a 5G industrial router with dual SIM failover and load balancing, Wi-Fi 5, gigabit Ethernet ports and VPN support including OpenVPN, IPsec and WireGuard. It carries a firewall and works with Teltonika's RMS remote management system.\n\nCompared with the MOFINETWORK, it costs $48 more, with an industrial pedigree and RMS in place of Wi-Fi 6 and band lock. Compared with the RUT955W, it adds 5G and gigabit ports for $403 more.\n\nIt suits a user who already runs Teltonika gear, wants RMS management or needs load balancing across WAN links. Gigabit Ethernet ports make it a good core for a wired setup.",
     "specs": [
       "5G industrial router with dual SIM failover",

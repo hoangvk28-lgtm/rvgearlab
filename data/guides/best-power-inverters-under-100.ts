@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rMoe7qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-amz-20",
     "description": "The BESTEK Pure Sine Wave Power Inverter delivers 300W continuous and 700W peak with two AC outlets and two USB ports at up to 2.4A each. It accepts 11 to 17V input, which suits newer vehicles with higher charging voltage, and it carries a 40A fuse and an 18 month warranty. At about $39 it is the mid-priced anchor of the guide and the pick that pairs a clean waveform with a manufacturer promise.\n\nAgainst the Goodway Power at about $23, it adds a second AC outlet, pure sine output and a warranty for roughly $16 more. Against the 1000W Power Inverter above $70, it takes a third of the capacity and half the price, which is the right trade when the laptop and camera chargers are the real cargo. The smooth waveform is what lets those power supplies run cool.\n\nIt is best for a camper who plugs in a laptop, camera batteries and a small fan in the same sitting. Because 300W is a ceiling and the socket supplies far less, it works as a dependable glove box hub for devices whose chargers were designed around clean power. It is the strongest all-round choice for the socket-powered tier.",
     "specs": [
       "300W pure sine, 700W peak output",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The 1000W Power Inverter is the capacity leader here, rated for 1000W continuous and 2000W peak. It has dual AC sockets, a 36W Type-C port, a 5V/3A USB-A port and an LCD that shows input and output voltage, battery state and protection codes. At about $73 it uses most of the budget and buys the most watts per dollar in the guide.\n\nCompared with the BESTEK Pure Sine Wave Power Inverter, it brings more than three times the continuous watts and the fastest USB-C charging in the lineup. The mechanism that matters is where it connects: a 1000W draw needs thick cables clamped straight to a battery with the engine running, which is how the rating becomes real instead of staying a printed number.\n\nIt is best for a van or truck camper who wants to run a small appliance from a battery rather than from a dash socket. Laptops charge quickly through the 36W USB-C port, and the LCD codes explain any protection trip at a dark campsite. It suits tools, lights and chargers, and it rewards a buyer willing to wire it properly.",
     "specs": [
       "1000W continuous, 2000W peak output",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rMujvRW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7VZLVBQ?tag=rvgearlab-amz-20",
     "description": "The EtnalSolar 250W draws from a DeWalt 18V or 20V pack and provides 250W continuous and 500W peak. It weighs 0.75 lb, fits in a jacket pocket and includes a 400 lumen work light with three brightness levels, so it works as a lamp as well as a power source. At about $27 it is the one design in this guide that skips the vehicle socket completely.\n\nSet beside the Goodway Power, the Goodway wins on continuous watts while this unit wins on independence, since it runs with the engine off and never draws on the car battery at all. That difference is the mechanism: power comes from a swappable tool pack, so a spare battery extends the evening instead of a dash socket draining the starter battery.\n\nIt is best for anyone with spare DeWalt packs who wants quiet AC power at a campsite or a worksite, far from any engine noise. Add a second charged pack for longer evenings and the laptop and phone stay topped up. The three-level light turns the same compact body into a task lamp for camp chores after dark.",
     "specs": [
       "250W continuous, 500W peak output",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JQSZsN9BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G884FFXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G884FFXZ?tag=rvgearlab-amz-20",
     "description": "The Goodway Power inverter is rated at 400W continuous and 800W surge from an anodized aluminium case with metal end plates that draw heat away from the electronics. It has one AC socket, a 2.4A USB-A port and an 18W USB-C port, plus a wide 10 to 15.5V input range. At about $23 it packs the highest rated output into the lowest price of any wired pick.\n\nCompared with the Ampeak 150W just below it, it nearly triples the printed capacity for a few dollars more, and the metal case is the reason it can hold a load longer without the fan working hard. Against the BESTEK Pure Sine Wave Power Inverter above it, it trades the second outlet and the pure sine waveform for a lower price and an 18W USB-C port.\n\nIt is best for a car that needs one reliable AC plug for a laptop, with a fast USB-C port beside it for a phone. A budget buyer who wants a sturdy body and a modest price will find the combination hard to beat. Pair it with simple loads such as chargers and lamps and it runs for years.",
     "specs": [
       "400W continuous, 800W surge output",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uhBR9EnzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFQMXVMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFQMXVMV?tag=rvgearlab-amz-20",
     "description": "The Ampeak 150W measures 2.8 by 1.5 by 5.4 inches and gives 150W continuous with a 300W peak through one AC outlet and two 2.4A USB ports. It lists 11 protection layers, 88 percent conversion efficiency and a quiet cooling fan. At about $20 it is sized to match what a 12V socket can actually supply, which makes it the most honest unit in the guide.\n\nIt costs slightly less than the Goodway Power and stays inside the socket's circuit rating, so no clip cables or battery wiring are ever involved. Next to the Ampeak 100W it adds 50W of headroom for about $2 more, enough to cover a larger laptop charger that would strain the 100W unit. That headroom is the whole point of stepping up.\n\nIt is best for a commuter or camper who charges a phone and a laptop on the road and wants a slim body that fits a cup holder. Because the rating and the socket line up, the unit runs without drama and without extra hardware. It is the sensible default for anyone who never plans to open the hood.",
     "specs": [
       "150W continuous, 300W peak output",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OCW3vyKkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072LM88F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072LM88F9?tag=rvgearlab-amz-20",
     "description": "The Ampeak 100W has one AC outlet and two 2.4A USB ports with a 200W peak, 11 layers of protection and a pivoting head that fits awkward dash sockets. The USB ports charge faster than older 2.1A designs. At about $18 it is the lowest-priced inverter in the guide, and it is built to the same safety standard as its larger sibling.\n\nCompared with the Ampeak 150W, it gives up 50W of capacity and saves about $2, which makes the choice a question of your laptop charger. A phone and a slim laptop brick fit comfortably inside 100W, while a larger gaming adapter would sit on the edge. The shared protection layers mean the saving here comes from the housing and the cabling, while the safety circuitry stays intact.\n\nIt is best as a spare for the glove box, where a phone and a laptop charger are the full list of needs for a weekend away from home. A traveler who wants the lowest outlay and the same pivoting head as the larger units will be happy. As a charger-class adapter it earns its place on every trip.",
     "specs": [
       "100W continuous, 200W peak output",

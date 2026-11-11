@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gYcGwhphL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-amz-20",
     "description": "The Umbrauto truck bed tent has a 4 ft by 4 ft awning and a 78.7 inch bed section for 6.3 to 6.8 ft full-size beds, with a 66.5 inch version sold for the shorter beds. It uses 210T polyester with a PU3000 coating and color-coded poles.\n\nIt is the only pick that states the awning measurement and the bed length in inches, so you can match it before buying. Against the JOYTUTUS it carries a higher waterproof rating, and against the CROSSHIP it names exact truck makes.\n\nIt suits two or three sleepers in a full-size short bed who want a clear fit and shade. It comes with a carry bag and installation instructions.",
     "specs": [
       "4 x 4 ft awning",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJ7IFW1BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6BMTNT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6BMTNT6?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS truck tent with awning offers an extended awning shade, a mesh zipper door, a separate opaque zipper door and an openable transparent skylight. It uses 210D Oxford with a PU2000 coating and aluminum alloy support rods with fixing straps and ground stakes.\n\nIts listing is the one that spells out privacy, since the mesh and opaque doors let you choose airflow or darkness. Compared with the Umbrauto it has the skylight, and compared with the CROSSHIP it names materials.\n\nIt suits full-size truck owners who want privacy plus a view. The listing says it fits full-size trucks with a soft topper or camper shell.",
     "specs": [
       "Skylight plus two door types",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gb7pcn2YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNWCKTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNWCKTZ?tag=rvgearlab-amz-20",
     "description": "The CROSSHIP truck tent comes with an awning shade and a protective rainfly, and mesh panels for airflow. Its listing names three bed size options of roughly 5.5 to 5.8 ft, 6.4 to 6.7 ft and 8 to 8.2 ft.\n\nIt is the only pick that covers long 8 ft beds, which the Umbrauto and JOYTUTUS listings do not name. It lists less on fabric and awning dimensions than the Umbrauto.\n\nIt suits owners of a long-bed truck who need an option that matches. The rainfly adds a second layer for wet nights.",
     "specs": [
       "Three bed-size options",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aN0DMCp0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FM923F1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FM923F1?tag=rvgearlab-amz-20",
     "description": "The Rightline Gear canopy measures 9.5 by 6 by 8.5 ft and attaches to the rear of full, mid and compact trucks. It has water-resistant fabric, tape-sealed seams and a rear panel that shades the bed area.\n\nIt is a shade canopy rather than a bed tent, so it suits tailgating better than sleeping. Its price is the lowest here and it is sized to fit stadium parking spaces.\n\nIt suits game-day and picnic users who want shade at the back of the truck. Sandbags keep the poles planted without stakes.",
     "specs": [
       "9.5 x 6 x 8.5 ft canopy",

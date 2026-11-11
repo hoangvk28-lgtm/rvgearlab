@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
     amazonQuery: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 3,600W","Runtime claim: Up to 2.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
     amazonQuery: "AIVOLT 8000W Dual Fuel Inverter Generator 50A RV Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
     specs: ["Continuous output: 6,100W","Surge output: 8,000W","Listed weight: 129 lb","Runtime claim: Up to 10 hours"],
     specList: [{"label":"Continuous output","value":"6,100W"},{"label":"Surge output","value":"8,000W"},{"label":"Listed weight","value":"129 lb"},{"label":"Runtime claim","value":"Up to 10 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "OSCAL PowerMax 6000 Solar Generator",
     amazonQuery: "OSCAL PowerMax 6000 Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51k1bng6tfL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 2,200W","Surge output: 9,000W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"2,200W"},{"label":"Surge output","value":"9,000W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "ABOK Ark3600 Portable Power Station",
     amazonQuery: "ABOK Ark3600 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Runtime claim: Up to 1.29 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 1.29 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output product page",
-    "href": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

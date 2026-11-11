@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TTbby1ubL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYDQM138?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYDQM138?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED is a 14 by 10 foot, 10-person blackout cabin tent with an 84 inch center height. The listing counts room for three queen air mattresses and describes a room divider that splits it into two rooms.\n\nIt is the largest tent in this group and the only one with a room divider, while the Happy Travel and Loyeahcamp are smaller single-room tents. Four roll-up mesh windows, overhead net windows and two doors keep air moving, and the side door converts into an awning.\n\nIt suits families and groups who want a dark sleeping space, private rooms and shade for the daytime. The dark interior fabric is described as water and sun resistant.",
     "specs": [
       "14 x 10 ft, 84 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qr2MTZq9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZ9HRC11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZ9HRC11?tag=rvgearlab-amz-20",
     "description": "The Happy Travel is a 6-person cabin tent measuring 10 by 9 feet with a 79 inch center height. A blackout coating on 190T polyester taffeta is listed to block 90% of sunlight, and the waterproof rating is 3000 mm.\n\nIt has a more specific blackout number than the others and adds an electrical access port. Against the EVER ADVANCED, it is smaller and costs far less.\n\nIt fits households of four to six that want a stand-up cabin tent with a removable rainfly and a mesh roof for night views. The upper rainfly comes off on clear nights for a wider view.",
     "specs": [
       "10 x 9 ft, 79 in height",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UyFh5K4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is a free-standing 2-person tent with a blackout fabric that the listing says creates near-darkness, even under bright sun. It has a full-coverage snow skirt, two aluminum poles and two small vestibules, and weighs about 7.7 pounds.\n\nNo other blackout tent here has a snow skirt, and none is sized for only two. Its 82.6 by 55 inch floor and 45 inch height are smaller than the Loyeahcamp's or Happy Travel's, and it packs down to 17.3 by 6.7 by 6.7 inches.\n\nIt suits hikers and cold-weather campers who want a dark, packable shelter that sets up with two poles. The listing also says the fabric includes a heat-insulating layer.",
     "specs": [
       "82.6 x 55 x 45 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LxS1ilOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HTK7RF?tag=rvgearlab-amz-20",
     "description": "The LANGWILL is a pop-up tent listed for 2 or 4 people, with a hydraulic system the listing says sets up in under a minute. The unfolded size is 110 by 94.5 by 56 inches, and a high-density coating blocks light.\n\nWhere the Loyeahcamp and Happy Travel need poles, the LANGWILL pops up. It uses 210D Oxford with a PU 3000 mm coating, a fully taped rainfly and four large mesh windows plus a top window.\n\nIt suits campers who want a blackout tent for short stays and quick pitches, such as festivals, beach trips and one-night stops. Four large mesh windows keep the air moving once it is up.",
     "specs": [
       "Hydraulic pop-up, under 1 min",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PieeoegDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8KZL2M3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8KZL2M3?tag=rvgearlab-amz-20",
     "description": "The Loyeahcamp blackout tent comes in 4 and 6 person sizes, and the 4-person tent measures 92.5 by 84.6 by 59 inches. The dark-space coating is listed with 99% UV protection and 3000 mm waterproofing, and the walls are nearly vertical for added headroom.\n\nNext to the GEERTOP it has far more floor and a lower price, and next to the Happy Travel it adds a chimney-style vent layout with three roof vents and a low side vent. It is the lowest priced tent in this group.\n\nIt suits a family who wants a dark dome tent that sets up in about five minutes with two people and keeps air moving. The nearly vertical walls give a roomier feel than a regular dome.",
     "specs": [
       "4/6 person sizes, 99% UV",

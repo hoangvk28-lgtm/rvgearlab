@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AEaC+8eML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LQW49PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LQW49PP?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Men's Sherpa Cargo has a tough cotton outer shell over a soft polyester sherpa lining, with adjustable snap cuffs and hem for wind protection. Five pockets include two snap chest flap pockets, two side pockets and one inner pocket.\n\nCompared with the Columbia Men's Steens Mountain, it adds a windproof shell and a heavy lining instead of a single thin fleece layer. Against the Zeagoo Plus Size, it is a cargo-style work coat rather than a hoodie.\n\nIt suits men who need real winter warmth for work, camping and winter hikes. The turn-down collar and snap cuffs seal out drafts.",
     "specs": [
       "Cotton shell, sherpa lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J5DyznplL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0076R6L58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0076R6L58?tag=rvgearlab-amz-20",
     "description": "The Columbia Men's Steens Mountain 2.0 is cut from 100 percent polyester MTR filament fleece with a collared neck, a full zip and two zippered security pockets. The classic fit is light and soft.\n\nIt is the lightest of the group and the best base to layer under a shell. Compared with the MAGCOMSEN, it gives up wind resistance and bulk.\n\nIt suits men who want a proven fleece mid-layer for cold hikes and daily wear. Zipped pockets secure keys and a phone.",
     "specs": [
       "100% polyester MTR filament fleece",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oEKakBpRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5JMCRVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5JMCRVP?tag=rvgearlab-amz-20",
     "description": "The Zeagoo Plus Size Sherpa Hoodie uses a 52 percent cotton and 48 percent polyester blend with thick sherpa fleece lining, a full zip, an adjustable drawstring hood and elastic ribbed cuffs and hem. Two front pockets and a regular fit complete the cut.\n\nAgainst the Women's Color Block Sherpa, it is a plus-size cut with a stated fabric blend. Compared with the MAGCOMSEN, it is much lighter and softer.\n\nIt suits women who want a warm plus-size hoodie for casual winter wear. The listing advises going up a size for layering.",
     "specs": [
       "52% cotton, 48% polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I53tNzxmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJRFYMD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJRFYMD9?tag=rvgearlab-amz-20",
     "description": "The Women's Color Block Sherpa is a hooded, zip-front sherpa jacket in blue, cream and gray panels. It has a textured plush sherpa fleece, an adjustable hood and large front pockets.\n\nIt sits close to the Zeagoo Plus Size in feel and costs less. Compared with the Arispjct, it offers a clearer description and a more distinct design.\n\nIt suits women who want a stylish layer for walks, errands and travel. The relaxed shape moves easily.",
     "specs": [
       "Plush sherpa fleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410qv7s7QnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ8XPZGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ8XPZGM?tag=rvgearlab-amz-20",
     "description": "The Arispjct Sherpa Hoodie is a fleece-lined zip-up hoodie with a warm hooded neckline, ribbed cuffs and two side pockets. The listing suggests machine washing in cold water.\n\nIt is one of the lowest-priced jackets in the group and covers the basics for cool, dry days. Compared with the Women's Color Block Sherpa, it offers fewer design details.\n\nIt suits women who want a basic, cheap layer for chilly walks. Ribbed cuffs seal in heat.",
     "specs": [
       "Soft fuzzy fleece fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qhiNmqIML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGGHW1B7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGGHW1B7?tag=rvgearlab-amz-20",
     "description": "The ZGTWHZY Plus Sherpa has thick fleece outer fabric with sherpa lining, a full zip, a hood that the listing says enhances windproof effect and soft plush material. It is sold in plus sizes.\n\nIt costs about the same as the Arispjct and adds plus-size options. Against the Zeagoo Plus Size, it is cheaper and less detailed.\n\nIt suits plus-size women who want a warm hooded layer for commutes and home. The full zip allows adjustable ventilation.",
     "specs": [
       "Thick fleece, sherpa lining",

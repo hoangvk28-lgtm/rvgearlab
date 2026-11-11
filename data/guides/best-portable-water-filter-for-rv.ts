@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41InXGLnDfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-amz-20",
     "description": "The FRIZZLIFE MV99 is an inline hose filter that the listing says is certified by IAPMO R&T against NSF/ANSI 42 and 53, using a composite activated carbon block with 0.5 micron filtration accuracy. It is described as reducing chlorine, lead, heavy metals and odors, uses lead-free solid brass connections, and ships with a holder that has metal pegs to keep it upright and reduce hose kinking. It costs about $72.\n\nCompared with the Camco TastePURE below it, the FRIZZLIFE steps up from a 20 micron sediment-and-taste filter to a 0.5 micron carbon block with certification against health-related contaminants, and it carries two to four times the service life according to the listing. Against the Caredear above it in price, the FRIZZLIFE is smaller and simpler, and it focuses on the certified carbon block rather than a multi-stage system. Brass fittings and the upright holder suit repeated use at campsites.\n\nIt suits campers and boaters who care about lead and heavy metal reduction and want a named standard, and anyone who will carry one filter from site to site and wants it to sit upright on a post or the ground.",
     "specs": [
       "Composite carbon block, 0.5 micron",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lywMyFAaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-amz-20",
     "description": "The Caredear is a 3-stage RV filter system combining PP sediment, activated carbon and ultrafiltration down to 0.01 micron, and the listing says it removes sand, chlorine and bad tastes. The housing has 0.39 inch thick food-grade walls tested to 125 psi, and the box includes two wrenches, two spare O-rings, plumber's tape, two 1 inch to 3/4 inch adapters and a manual. It costs about $150, the highest price in the group.\n\nCompared with the FRIZZLIFE below it, the Caredear adds an ultrafiltration stage with a much finer 0.01 micron rating and a complete kit that fits both 1 inch and 3/4 inch hookups, in a heavy-duty housing built for repeated use. Against the VEVOR below, the Caredear is rated to a finer micron level and ships with adapters and wrenches, at a higher price and with a bulkier footprint. The housing is designed for RV parks, marinas, motorhomes, campgrounds and car washes.\n\nIt makes sense for full-time RVers, owners of larger rigs and anyone who wants a long-lasting, finer filter with everything needed in the box.",
     "specs": [
       "PP sediment, carbon and 0.01 micron UF",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uZHIvxzWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZM89ZCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZM89ZCP?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 3-stage RV filter system rated at 5 microns that ships with three cartridges, and the listing says it reduces sediment, residual chlorine and certain heavy metals. It claims up to 80,000 gallons of filtration capacity, stable pressure from 20 to 125 psi and a 3 gpm flow rate, which suits washing and cooking in a camper. It costs about $61.\n\nCompared with the Caredear above it, the VEVOR costs less than half as much and states a coarser 5 micron rating, so it is aimed at sediment, chlorine and general water quality rather than the ultrafiltration range. Against the FRIZZLIFE above it, the VEVOR has three cartridges for multi-stage filtering where the FRIZZLIFE uses a single certified carbon block, and its flow rate is stated in gallons per minute. Both are portable systems for RVs and campers, with a lightweight design for moving between sites.\n\nIt works for travelers who want multi-stage filtering and a stated flow rate, and for owners who value the extra cartridges in the box over named certification.",
     "specs": [
       "5 micron, 3 stage system with 3 cartridges",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SP0q7QmYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BEDNXTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BEDNXTW?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE is a wide-body inline filter that combines granular activated carbon with KDF and a sediment filter that removes particles larger than 20 microns. The KDF is there to discourage microorganism growth inside the filter when it is idle, each filter lasts about three months on average, and the four-pack covers a full 12 months. It costs about $49, or about $12 per filter.\n\nCompared with the Waterdrop below it, the Camco is a four-pack against a single filter, which lowers the cost per filter and the hassle of reordering. Against the FRIZZLIFE above it, the Camco is a coarser 20 micron design without a named health standard, so it improves taste and clears sediment rather than targeting lead. Any standard garden or water hose connects to it, and installation is just a matter of screwing it into the line.\n\nIt suits seasonal campers who want a year of filters on the shelf, families who care about chlorine taste in drinking and cooking water, and owners who want the simplest possible inline setup.",
     "specs": [
       "20 micron sediment, GAC and KDF",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ziYaGIj-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGX95MHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGX95MHF?tag=rvgearlab-amz-20",
     "description": "The Waterdrop RV inline filter uses KDF, the copper-zinc medium, together with advanced granular activated carbon, and the listing says it reduces chlorine, odor, bad taste and sediment. It is described as lasting about three months, or an entire camping season, and as NSF/ANSI certified, made with food-grade materials. It attaches to any standard garden hose, and it costs about $28.\n\nCompared with the Camco four-pack above it, the Waterdrop is a single filter, so the unit cost is higher, and it names an NSF/ANSI certification in the title that the Camco listing leaves out. Against the Drupany below it, the Waterdrop is a single-purpose filter with a similar three-month life, while the Drupany adds hose protectors and a four-pack, so the Waterdrop makes sense when you only need one. The listing also says it works for gardening, brewing, car washing and pools.\n\nIt works for casual campers, boaters, seasonal sites and anyone who wants one certified filter to try before buying a larger set. Check which NSF/ANSI standard the listing cites before relying on it for a specific contaminant.",
     "specs": [
       "KDF and GAC filtration",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gkmtp4oaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-amz-20",
     "description": "The Drupany pack gives you four inline filters that combine KDF media with granular activated carbon, plus two flexible hose protectors, for about $30, which works out to roughly $7.50 per filter. Each is listed for up to 1,350 gallons or about three months, depending on water quality and use, and it reduces chlorine, taste, odor and sediment.\n\nCompared with the Camco four-pack above it, the Drupany is about $19 cheaper and adds two flexible hose protectors, which reduce hose strain and kinking at the spigot. Against the single Waterdrop above it, the Drupany costs about the same total but gives four filters instead of one, with a stated gallon capacity per filter. Installation needs no tools: attach it to a standard garden hose, an RV hose, a camper hookup or an outdoor water system.\n\nIt suits long-trip campers, owners of several vehicles and seasonal users who want a stock of replacement filters on hand at the lowest per-filter cost. It is the most economical way to keep fresh filters in the bay.",
     "specs": [
       "Four KDF and GAC inline filters",

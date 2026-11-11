@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PAEiYKN7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LDMH3VV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LDMH3VV?tag=rvgearlab-amz-20",
     "description": "The WUBEN F5 is a 500 lumen rechargeable lantern with a built-in 5200mAh battery and Type-C charging. Three lighting modes, 500, 140 and 10 lumens, combine with three color temperatures of 5700K, 4500K and 3000K, so you can choose a cool white for cooking or a warm amber for relaxing. A four-level battery indicator, an IP64 weather rating and a rated runtime of up to 500 hours on the lowest mode round out the package.\n\nCompared with the Coast EAL10R below, the WUBEN has a bigger built-in battery, a wider choice of color temperatures and a metal stand that rotates 180 degrees, while the Coast adds a red flashing mode and removable diffuser. Against the LUXPRO, it adds a larger battery and a three-mode design for $9.60 more.\n\nIt works for a family campsite, an RV awning or a tent, where one lantern covers the table and the bed. A hook design hangs it from a tent loop, and the 5200mAh battery gives several evenings on medium.",
     "specs": [
       "500, 140 and 10 lumen modes",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311TeXpgZKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z4JJZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z4JJZF?tag=rvgearlab-amz-20",
     "description": "The COAST EAL10R is a 500 lumen lantern with six light modes: MoonGlow, warm, low, high, red and red flashing. A removable polycarbonate diffuser lets you soften the light or remove it for a bright globe, and a foldable handle carries or hangs the lantern. It runs on the included COAST ZITHION-X ZX820 rechargeable battery or on four AA alkaline cells, and a lifetime warranty backs it.\n\nCompared with the WUBEN F5, the Coast costs about $5 less and adds a red light and a lifetime warranty, while the WUBEN adds a larger built-in battery and color temperatures. Compared with the NEBO Galileo Air, it adds a rechargeable pack and a diffuser for about $1 more.\n\nIt suits a camper who uses red light to keep night vision, a family that wants a lantern with a long warranty and anyone who might need AA backup. The removable diffuser gives the choice of a soft or bright light.",
     "specs": [
       "500 lumens, six light modes including red",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wM2NOeZ0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6GPN1GX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6GPN1GX?tag=rvgearlab-amz-20",
     "description": "The LUXPRO Retro lantern dims smoothly from 5 to 500 lumens with a rotary dial and switches between cozy warm light and bright white. It runs on a built-in 2000mAh battery charged over USB-C, with four AA cells as a backup, and it burns up to 320 hours on low. It is water-resistant for damp conditions and stands 6.5 inches tall, with a built-in handle for carrying or hanging.\n\nCompared with the WUBEN F5, it costs $9.60 less and gives continuous dimming instead of three fixed modes, while the WUBEN has a bigger battery. Compared with the Dorcy, it adds USB-C charging and AA backup at the same price.\n\nIt suits a campsite table, a patio, a power outage kit or a tent, where a classic look and a warm glow matter as much as raw output. The rotary dial makes it easy to find the right brightness in the dark.",
     "specs": [
       "Dims 5 to 500 lumens, warm or white",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Q8qsfxyKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z3D6MTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z3D6MTS?tag=rvgearlab-amz-20",
     "description": "The NEBO Galileo Air 500 is a collapsible 500 lumen lantern with six light modes, a red light mode and a folding hanging hook, powered by three AA batteries. At $22.99 it collapses to a compact size for a pack or a glove box, and the hook props it up for the right lighting angle. The red mode preserves night vision.\n\nCompared with the Dorcy, the NEBO offers six modes and a red light for $3 more. Compared with the COAST EAL10R, it is about $1 cheaper and collapsible, while the Coast adds a rechargeable pack and diffuser.\n\nIt works for a backpacking trip, a van camper with limited storage or a spare lantern in an emergency kit. AA batteries are easy to find, and the collapsed shape slips between other gear.",
     "specs": [
       "500 lumens, 6 light modes with red mode",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318njwrKG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005GNT4MG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005GNT4MG?tag=rvgearlab-amz-20",
     "description": "The Dorcy Adventure Series is a 500 lumen LED lantern with a four-step switch covering high cool, medium cool, low warm and a warm night light. A collapsible, adjustable handle and a built-in hang hook make it easy to carry, and the water-resistant, rugged build is meant for canoeing and camping. At $19.99 it is the lowest-priced pick, tied with the LUXPRO.\n\nCompared with the NEBO Galileo Air, the Dorcy costs $3 less and has four steps rather than six, with a warm night light. Compared with the LUXPRO, it costs the same and gives up USB charging.\n\nIt suits a camper who wants a durable, low-cost lantern, a canoe trip where water splashes are likely and a household that keeps a lantern in a hurricane kit. The warm night light is gentle enough to leave on in a tent.",
     "specs": [
       "500 lumens, 4-step switch",

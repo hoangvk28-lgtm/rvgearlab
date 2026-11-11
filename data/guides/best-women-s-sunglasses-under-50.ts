@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QscTrM7dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZKHHLY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZKHHLY4?tag=rvgearlab-amz-20",
     "description": "The FEISEDY Polarized Vintage pairs a retro silhouette with UV400 polarized lenses that the listing says block 99 percent of UVA and UVB rays. The plastic frame has solid metal hinges, and the listing gives a 58 mm lens, 50 mm frame height, 132 mm width, 20 mm bridge and 128 mm legs.\n\nAmong the six, it is the only one that combines polarization, metal hinges and a full dimension list for a mid-size lens. Compared with the MEETSUN Retro Square, it lists a 99 percent block and more fit numbers.\n\nPair this one with driving, walking and travel days, where glare control and a secure hinge count. The retro shape flatters most face types.",
     "specs": [
       "UV400 polarized, blocks 99%",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nEVLQ+zJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRTQKZ1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRTQKZ1B?tag=rvgearlab-amz-20",
     "description": "The MEETSUN Retro Square has HD polarized TAC lenses and a UV400 shield that the listing says blocks 100 percent of harmful rays. High-density PC frame material keeps the weight low, and classic black, tortoise and translucent colorways are named.\n\nIt is lower in price than the FEISEDY Polarized Vintage while keeping polarization, and it adds three color choices for outfit matching. Next to the Reglaaly Square, its listing is more specific about comfort and fit.\n\nChoose it for daily commutes and errands where you wear the pair for hours. Light nose pressure is the headline.",
     "specs": [
       "HD polarized TAC lenses",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nP4PeKy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW3TVPSJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW3TVPSJ?tag=rvgearlab-amz-20",
     "description": "The Reglaaly Polarized Square uses high-definition polarized lenses that filter glare and balance color contrast, in a premium plastic frame with scratch-resistant lenses. A classic square design is said to flatter most face types.\n\nIt is more clearly labeled for outdoor use than the Dollger Oversized Square, naming driving, fishing, festivals and cycling. Against the MEETSUN Retro Square, it offers a similar polarized setup at a lower price.\n\nPick it for festival weekends, drives and rides where you want a classic square. The listing treats it as a year-round accessory.",
     "specs": [
       "HD polarized lenses",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pD8q0SrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSRTT4KK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSRTT4KK?tag=rvgearlab-amz-20",
     "description": "The DANAMY Retro Oval is a small 90s oval frame in ultra-light polycarbonate with 100 percent UV400 lenses. The listing gives a 50 mm lens width, 35 mm lens height, 135 mm temples and 18 mm bridge, and calls the material non-allergic.\n\nCompared with the Colrea Retro Rectangle, its curved lens is softer and its bridge is slightly narrower. Next to the FEISEDY Polarized Vintage, it gives up polarization and metal hinges for a much lower price.\n\nReach for it when you want a small retro oval for driving and daily wear. The listing offers an after-sales contact.",
     "specs": [
       "UV400 lenses, blocks 100%",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CABaRrt1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD8M1ZVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD8M1ZVY?tag=rvgearlab-amz-20",
     "description": "The Colrea Retro Rectangle 2-Pack provides two small narrow rectangular frames in a 90s and Y2K style, with metal accents on the temples. Lightweight shatterproof polycarbonate and 100 percent HD UV400 lenses are named, and a cloth and wrapping box come with the pair.\n\nTwo pairs for the price of one separate pair sets it apart from the other picks. Compared with the DANAMY Retro Oval, it adds a second pair and an angular cut.\n\nIt is ideal for gifting or for keeping a spare in the car and bag. The shatterproof frame handles a bump.",
     "specs": [
       "100% HD UV400 lenses",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314CmmIXerL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0855LQ7DZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0855LQ7DZ?tag=rvgearlab-amz-20",
     "description": "The Dollger Oversized Square is a big, bold square frame with candy color lenses and UV400 protection that blocks UVA and UVB. Premium polycarbonate lenses and a compact frame give a stable, skin-friendly fit, and the listing names parties, travel, shopping and driving.\n\nIt sits at the low end of the price range and offers the most dramatic shape of the group. Compared with the Reglaaly Polarized Square, it is oversized and not polarized.\n\nThis one works for sun-ready travel looks and photo-friendly days. Care notes tell you to keep it in the case.",
     "specs": [
       "Oversized square, UV400",

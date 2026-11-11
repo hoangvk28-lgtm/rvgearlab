@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NHPlzEWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QG7QS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QG7QS2?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome 4/6 adds a 13 ft by 3.5 ft full-fly vestibule that makes a protected entry and storage space. Poles come attached and the listing puts setup under 5 minutes, while walls that rise almost straight up are credited with 20 percent extra headroom. The interior fits one queen airbed.\n\nAgainst the plain Skydome it adds the vestibule and taped fly seams, on top of WeatherTec welded corners and inverted seams. Compared with the Amazon Basics it costs more and adds a covered entry and a wind-tested frame.\n\nIt is the pick for families who want a dry place for boots and bags outside the sleeping area. The frame is listed as tested to 35 mph winds.",
     "specs": [
       "4/6 person size family",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41muhAHQ1cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QKP7MS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QKP7MS?tag=rvgearlab-amz-20",
     "description": "The Skydome Dark Room is a size family from 4 to 10 people, with Dark Room technology that blocks 90 percent of sunlight and reduces heat inside. The pre-attached poles raise it in under 5 minutes, and the straight-up walls carry over from the standard frame.\n\nAgainst the Skydome vestibule model it swaps the covered entry for dark fabric and lists a tub-like floor with welded corners and inverted seams. Compared with the plain Skydome it costs more for the same frame plus the sleep-in comfort.\n\nIt suits families with early risers or nappers who want a dim interior. The frame is listed as tested for 35 mph winds.",
     "specs": [
       "4/6/8/10 person size family",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mxD85jaYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 4-person dome pairs a 9 ft by 7 ft floor with a center height of 48 inches. Welded seams, a detachable fly, a rear window with a low air port and shock-corded poles listed at under 6 minutes complete the build.\n\nIt is the only pick in this group sold as a plain 4-person size, and it has the lowest price. Against the Skydomes it lists no vestibule or wind rating, and its 48 inch center sits well below the CAMPROS.\n\nIt suits campers who want a straightforward four-person dome without extras. An interior mesh pocket and a compact carry bag are included.",
     "specs": [
       "9 x 7 ft, 48 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rKGtdi9mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QG9H85?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QG9H85?tag=rvgearlab-amz-20",
     "description": "The Skydome 2/4/6/8 is a size family with poles already attached to the body. Near-vertical walls give a fifth more headroom than older Coleman domes, and a wider door makes it easier to carry air beds and bags in.\n\nIt carries the same WeatherTec welded corners and inverted seams as the other Skydomes and leaves out the vestibule and dark fabric, which keeps it cheaper. Compared with the Amazon Basics it adds a documented 35 mph frame test and the wide door.\n\nIt suits families who want the Skydome frame without paying for add-ons. The wider doorway helps when moving gear.",
     "specs": [
       "2/4/6/8 person size family",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GMM16HADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TBW5WS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TBW5WS8?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP is a 2/4/6 size family, and the described 6-person version measures 11 ft by 7 ft with a 72 inch center height. The double-layer shell has a waterproof fly, sealed seams and a 1000mm coating, with large mesh windows and a mesh roof.\n\nIt has the tallest listed center of the five and an extra-wide door. Against the Amazon Basics it adds 24 inches of center height, and compared with the Skydomes it lists a millimeter rating.\n\nIt suits families who want standing room in a four-person dome. Two people can pitch it in 5 minutes, and a one-year warranty applies.",
     "specs": [
       "2/4/6 size family",

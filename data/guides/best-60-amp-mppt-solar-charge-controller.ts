@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rOiabbZ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFKYP1FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFKYP1FG?tag=rvgearlab-amz-20",
     "description": "BougeRV's Sunflow 60A has low-temperature cut-off below 32F, app control to 32 feet and a charge current adjustable from 0A to 60A. BougeRV's Sunflow 60A is an MPPT controller with low-temperature cut-off below 32F for LiFePO4, a backlit LCD and app control up to 32 feet. It adjusts charge current from 0A to 60A and lists LiFePO4, sealed, gel, flooded and AGM batteries.\n\nIt is the priciest 60A here and costs more than OAE 60A MPPT, but it is the one built around LiFePO4 winter use. It lists LiFePO4, sealed, gel, flooded and AGM.\n\nBest for a cold-climate RV with a LiFePO4 bank. It is the winter-camping-friendly 60A, priced as the premium option.",
     "specs": [
       "60A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LtAd+WMKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G526YQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G526YQSD?tag=rvgearlab-amz-20",
     "description": "EcoSolLi's 60A MPPT accepts 230V PV and auto-senses 12V to 96V, with 720W at 12V. EcoSolLi's 60A MPPT controller accepts up to 230V PV and auto-senses systems from 12V to 96V, with 720W at 12V rising to 5760W at 96V. Protections include PV overcurrent, battery over-voltage, load overload and overtemperature.\n\nIt has far more PV headroom than OAE 60A MPPT or PowMr 60A 160V and costs less than BougeRV Sunflow 60A. It is overkill for a small RV.\n\nBest for long series strings and higher-voltage banks. It is the headroom pick for higher-voltage builds.",
     "specs": [
       "60A MPPT, 12V to 96V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PnboBJ2sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1CZCX8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1CZCX8V?tag=rvgearlab-amz-20",
     "description": "PowMr's 60A lists 160V PV, 2800W input, tracking of 98.1% or better and user-set absorption and float voltages. PowMr's 60A MPPT controller lists up to 160V and 2800W input, tracking of 98.1% or better and a user-programmable absorption and float voltage for lithium, LiFePO4, vented, flooded, sealed, gel and NiCd batteries. A backlit LCD shows PV voltage, power, temperature and fault guidance.\n\nIt costs about the same as PowMr 60A 12/24/48V and adds programmable profiles. It is a parallel version.\n\nBest for a builder who sets exact charge voltages. It is a flexible, programmable 60A for builders who want to set exact charge voltages.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wBm3LlBjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXXSTGHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXXSTGHK?tag=rvgearlab-amz-20",
     "description": "This PowMr 60A MPPT supports 12V, 24V and 48V and up to 12 units in parallel with dual cooling. This PowMr 60A MPPT controller supports 12V, 24V and 48V batteries and up to 12 units in parallel. It uses die-cast aluminum with dual cooling and a negative-ground design.\n\nIt costs about the same as PowMr 60A 160V but lists fewer PV details. Die-cast aluminum helps heat.\n\nBest for a system you will grow. It is the lower-priced parallel-ready PowMr 60A.",
     "specs": [
       "60A MPPT, 12V/24V/48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g8ipoItiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q52H295?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q52H295?tag=rvgearlab-amz-20",
     "description": "OAE's 60A MPPT takes 150V PV and auto-detects 12V to 48V with efficiency up to 99%. OAE's 60A MPPT controller auto-detects 12V to 48V systems, takes up to 150V PV and lists efficiency up to 99%. The listing names sealed, gel, flooded and lithium batteries.\n\nIt costs more than PowMr 60A 160V and has fewer extras. The listing is short.\n\nBest for a straightforward 150V 60A. It is a plain, honest 60A MPPT with few extras.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51s1SCq6d9S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR267D2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR267D2W?tag=rvgearlab-amz-20",
     "description": "SOGTICPS's 60A MPPT is the lowest-priced unit, with 12V/24V auto-adapt, an LCD and dual USB. SOGTICPS's 60A MPPT controller auto-adapts to 12V or 24V and shows readings on a multi-function LCD with dual USB ports. The listing says to connect the battery first and mentions SOC control and protection against overcharging and over-discharging.\n\nIt costs far less than OAE 60A MPPT but gives no PV cap in its headline. Ask for it.\n\nBest for a very low budget where you verify specs. It is the cheapest 60A here, so verify specs and warranty with the seller.",
     "specs": [
       "60A MPPT, 12V/24V auto",

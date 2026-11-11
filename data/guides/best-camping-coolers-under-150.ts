@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LGfpv0pPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BYDG3BM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BYDG3BM?tag=rvgearlab-amz-20",
     "description": "The Coleman Xtreme is a 50 quart wheeled cooler rated for ice up to 5 days at 90 degrees, with room for 84 cans. It has a built-in drain, a telescoping handle and a lid rated to hold 250 lb.\n\nAt about $75 it costs roughly half of the cap and offers the same 5 day rating as the Classic 62 and the much larger Classic 150. The bigger coolers add space, and this one adds easy rolling for a fraction of the money.\n\nCouples and small families get a durable wheeled cooler without paying for more space than they will fill. It suits a weekend or a week with a resupply.",
     "specs": [
       "50 quart, 84 cans, 5 days of ice",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313UOApuEwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNNXZ1JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNNXZ1JG?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic 150 quart cooler uses TempLock FX insulation through the body and lid for multi-day ice retention, up to 6 days per the maker. The 316 Series uses 15 percent less plastic than comparable Coleman coolers, with a tethered drain plug, durable handles and four cup holders.\n\nIt costs about $140, near the cap, and holds more than every other pick. The Igloo 90 costs $10 less with wheels, while this one has the longest ice rating and the biggest body.\n\nLarge groups, hunting camps and week-long trips get the biggest capacity under the cap. Plan on two people to move it when full.",
     "specs": [
       "150 quart, up to 6 days of ice",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qRs7UCsNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVHPR1SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVHPR1SJ?tag=rvgearlab-amz-20",
     "description": "Igloo's Marine Ultra 90 quart has oversized all-terrain wheels, a swing-up rear handle, hybrid latches and oversize hinges with a stay-open detent. It is a leakproof hard cooler for outdoor use.\n\nAt about $130 it costs $10 less than the Classic 150 and adds wheels and a rear handle. The Classic holds more, while this one is the easier big cooler to move.\n\nCampers with a group of six or more and a long walk from the car will benefit. It also suits boats and truck beds.",
     "specs": [
       "90 quart hard cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A4Fh7lXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-amz-20",
     "description": "Coleman's Classic 62 quart rolling cooler is rated to keep ice up to 5 days at 90 degrees and holds 101 cans without ice. It has 6 inch all-terrain wheels, a tow handle and swing-up handles.\n\nIt costs about $64, half of the Igloo 90, and gives up 28 quarts of space for a much lower price. It is the middle step between the 50 quart Xtreme and the 90 quart Igloo.\n\nFamilies of four and campers who want a wheeled cooler without a giant body will like it. It fits a trunk better than the larger picks.",
     "specs": [
       "5 days of ice at 90F",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EQNJpFl1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F179F3HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F179F3HM?tag=rvgearlab-amz-20",
     "description": "Titan's tote has Deep Freeze Performance Insulation with a Therma-Flect radiant barrier and a ColdBlock base, and it is rated for ice up to 3 days. The lining has Microban protection against odors and stains and holds 30 cans.\n\nNear $45, it is the lowest priced here and the lone soft tote, which makes it the day-trip companion to a big cooler. It carries far less than the hard coolers.\n\nCampers who own a big cooler and want a second one for hikes, kayaks or the beach will use it. It is easy to wipe clean.",
     "specs": [
       "Therma-Flect barrier, ColdBlock base",

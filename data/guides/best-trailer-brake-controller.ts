@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5ElCbw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-amz-20",
     "description": "The Kohree is a proportional controller sold as a split design: a small LCD display you place on the windshield and a separate control unit you mount out of sight. The listing names 1-4 axle trailers and 9 levels of boost, and says the display and controller each carry two 32-bit chips.\n\nCompared with the CURT Discovery below it, the Kohree senses tow-vehicle deceleration instead of ramping on a timer, so braking follows how hard you actually stop. The trade is a higher price and a two-piece install, since you have to route the display cable and mount both parts.\n\nBest for a buyer who tows a mid-size or larger travel trailer and wants a readable display without a bulky dash box. The listing includes a USB-C data cable, but it does not name a vehicle-specific harness, so check whether your truck needs one.",
     "specs": [
       "Proportional braking",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bWORLTZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC35LX15?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC35LX15?tag=rvgearlab-amz-20",
     "description": "The CURT Discovery Next is a name-brand time-delay controller, meaning it ramps braking up over a set time after you press the pedal. The listing calls power and ramp time fully adjustable, says it runs 2-8 brakes (1-4 axles), and describes a low-profile body with no internal moving parts and no leveling needed.\n\nAgainst the Kohree above it, you give up proportional response and gain a simpler, flatter unit that can be mounted at nearly any angle. Against the cermep below it, you get a brand with a plug-and-play listing rather than a copy of another maker's design.\n\nBest for lighter or occasional towing where a predictable, adjustable ramp is enough. Heavy loads and frequent mountain driving are where a proportional unit feels smoother.",
     "specs": [
       "Time-delay braking",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uIvKDiGnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Y6KPSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Y6KPSN?tag=rvgearlab-amz-20",
     "description": "The cermep is sold as a direct replacement for the Tekonsha 90160 Primus IQ, which makes it a third-party clone, not a Tekonsha product. The listing describes proportional braking with an inertia sensor, a real-time diagnostic display, and support for 2, 4, or 6 brakes (1-3 axles).\n\nNext to the CURT Discovery it adds proportional response and a screen, but it tops out at three axles where the CURT covers four. It costs more than the Bydorunce below it and offers a snap-in clip plus an adjustable bracket with 180 degree rotation.\n\nBest for a buyer who wants the familiar Primus IQ layout at a lower price and tows a one to three axle trailer. Treat the lifetime support claim as the seller's promise and keep your receipt.",
     "specs": [
       "Replaces Tekonsha 90160",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415QR3gCR-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3YDF2D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3YDF2D?tag=rvgearlab-amz-20",
     "description": "The Bydorunce 8508211 is the lowest-priced actual controller here and lists proportional braking, an LED display, adjustable boost, and a manual override lever. It supports 1-4 axle trailers (2-8 brakes) and states that no leveling is required.\n\nCompared with the cermep above, it covers a fourth axle and costs far less, but its listing is thinner on diagnostics detail and support terms. The listing also notes that a vehicle wiring harness may be needed, which adds cost the sticker price does not show.\n\nBest for a budget-minded buyer with a standard truck or SUV who is willing to confirm harness fit first. Skip it if you want a recognized brand behind the box.",
     "specs": [
       "Proportional braking",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aatv+jO5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HZWEHPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HZWEHPY?tag=rvgearlab-amz-20",
     "description": "The REESE Towpower 8506911 is not a controller. It is an OEM-style wiring harness with a factory connector on one end and a brake control plug on the other, for vehicles that already have an under-dash brake controller connector.\n\nThe listing says it works with REESE and Tekonsha controllers and with time-proportional and time-based types, and it has a positive locking connector. Next to the Oyviny Ram harness it is the more general-purpose choice, since it is not named for one vehicle brand.\n\nBest as the add-on when your truck has a factory plug but you must still verify the connector style matches. It does nothing by itself, so pair it with one of the controllers above.",
     "specs": [
       "OEM-style plug-in harness",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HARSlS1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B73NTYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B73NTYC?tag=rvgearlab-amz-20",
     "description": "The Oyviny adapter is a vehicle-specific harness whose listing names 2015-2022 Ram 1500, 2500, 3500, 4500 and 5500 models. It is also not a controller: it plugs between your brake controller and the factory connector without cutting or splicing.\n\nIt uses a standard 4-pin plug that the listing says fits several Draw-Tite and Tekonsha controllers, and it is 31 inches long. The REESE harness above is more general, while this one is only useful if your truck is on the listed Ram years.\n\nBest for a Ram owner who has bought a plug-in controller and needs the matching adapter. Everyone else should ignore it.",
     "specs": [
       "Ram 2015-2022 harness",

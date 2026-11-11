@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+DKc4hHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RSKGYPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RSKGYPM?tag=rvgearlab-amz-20",
     "description": "The TOURIT cooler comes in 30, 48 and 60 can sizes, with the listed 32L model holding 48 cans. It has a PEVA liner described as 100% leakproof, high-density insulation rated for up to 12 hours and a padded handle plus detachable shoulder strap.\n\nCompared with the Lifewit and Maelstrom 30-can bags, it offers noticeably more volume at a similar price level. An elastic cord on the lid lets you fold it flat or strap a towel on top.\n\nIt fits families and groups who want the largest cold-storage volume for the money. Collapsing it flat makes it easy to keep in a car or RV.",
     "specs": [
       "32 L, holds 48 cans",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kYVMG9NAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLTG9GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLTG9GV?tag=rvgearlab-amz-20",
     "description": "The Lifewit 30-can bag holds 20 liters and is built from 600D Oxford cloth with three side mesh pockets and a deep front pocket. It has a padded handle, a detachable shoulder strap and folds flat for storage.\n\nIt carries less than the TOURIT, and its pocket layout is better for bottles, an umbrella and small gear. Compared with the Maelstrom bag, it adds the mesh pockets and a wide opening for easy loading.\n\nIt suits picnickers and day campers who want the bag to double as a small organizer. The folding design saves space between trips.",
     "specs": [
       "20 L, 30-can size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51voMDUEd3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD76QBR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD76QBR9?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 30-can soft cooler measures about 14.4 x 9 x 10 inches and holds 30 330 mL cans, roughly 22L. It has a main pocket, two front zipper pockets, two side pockets, a bottle opener and three ways to carry it.\n\nNext to the Lifewit, it is the lighter-featured option with a built-in bottle opener and more pocket variety. It lists the lowest price of the group, so it sets the floor for what a decent soft cooler costs.\n\nPick it for casual camping and beach use where cold only needs to last the day. It folds up when not in use.",
     "specs": [
       "30 cans, about 22 L",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HUMXioPHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00E94TYFU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00E94TYFU?tag=rvgearlab-amz-20",
     "description": "The AO Coolers Expedition Carbon is a 12-can soft cooler with a carbon-fiber look, a removable shoulder strap and a side pocket for dry items. The listing says it has twice the insulation of other soft-sided coolers and a leakproof liner.\n\nIt carries far fewer cans than any other pick, so what the extra spend buys is insulation and brand build quality. Against the TOURIT, it gives up two-thirds of the volume to a thicker, more stylish bag.\n\nChoose it for boating, fishing, hunting and sporting events, where a small, tougher bag matters more than raw volume. The side pocket keeps licenses and dry gear away from the ice.",
     "specs": [
       "12-can soft cooler",

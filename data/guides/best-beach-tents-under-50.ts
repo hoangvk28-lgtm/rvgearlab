@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vs0eu7jtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHH2B49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHH2B49?tag=rvgearlab-amz-20",
     "description": "The Wolfwise beach cabana is about 7.9 ft long, 5.4 ft wide and 4.6 ft tall, enough for up to four beach chairs. Thickened 8mm fiberglass poles hold the frame, three sandbags help anchor it, and 190T fabric with a polyester coating carries a UPF 50+ rating, which the maker says stops as much as 98 percent of UV.\n\nIts 8mm poles and sandbags make it sturdier than the pop-up discs and the cheaper Swibow. A large storage bag handles packing, and it sets up in a few minutes.\n\nFamilies who want chairs and a cooler under the shade will like the size. Reflective guy points help at dusk.",
     "specs": [
       "About 7.9 ft long, 4.6 ft tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R5fmGZUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-amz-20",
     "description": "The Gorich fits three or four people in about 7.2 ft by 4.9 ft by 4 ft. It folds to roughly 17 inches by 4 by 4 and weighs about 3.9 lb, and it uses silver-coated UPF 50+ fabric over 8mm imported fiberglass poles.\n\nIts packed size is the smallest in the list and it is easier to carry than the Wolfwise. Three big mesh windows give four-sided ventilation, and the floor extends 40 inches for extra sitting room.\n\nBeachgoers who walk far from the car will like the weight. Curtains on the windows add privacy.",
     "specs": [
       "3.9 lb, folds to 17 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512eaVeb7nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQDHCWB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQDHCWB3?tag=rvgearlab-amz-20",
     "description": "The UPWELL umbrella-style shelter spans about 10.5 ft by 8 ft and shelters two to four people. Five thick steel rods support polyester fabric, and a removable sunwall adds UPF 50+ protection on one side.\n\nIt covers the most ground in the list and its sunwall gives wind shelter that the open VEVOR-style canopies lack. Extension poles in the umbrella make setup quick, and it comes in four colors.\n\nGroups with chairs and coolers who want open shade will like it. It folds into a storage bag.",
     "specs": [
       "About 10.5 ft by 8 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fTPHQRM1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCF78HND?tag=rvgearlab-amz-20",
     "description": "The EchoSmile is an automatic pop-up for four with 190T silver-coated polyester that the maker says stops as much as 98 percent of UV. A 5.0mm anti-deformation fiberglass frame is backed by sandbags, stakes and wind ropes, and a zippered front door makes a private cabin for changing.\n\nIt pops open without assembly, which beats the pole-fed Wolfwise and Gorich on speed. The 5mm frame is thinner than the 8mm poles on the larger tents.\n\nParents juggling kids and bags will like the instant setup. The zippered door helps with changing.",
     "specs": [
       "Automatic pop-up for four",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dHDft16KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4FGVQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4FGVQ1?tag=rvgearlab-amz-20",
     "description": "The NexusOutdoor beach pop-up has an interior of about 3.9 ft square by 3.3 ft tall and opens automatically. It carries UPF 50+ protection, uses steel studs for anchoring and adds roll-up mesh screens on the front doors.\n\nThe mesh screens set it apart from the EchoSmile, giving airflow with the doors up and bugs kept out. It is smaller than the Wolfwise, so it suits fewer people.\n\nCouples and small families who want a quick, breezy shelter will like it. Spare studs help on firm sand.",
     "specs": [
       "Auto pop-up, UPF 50+",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R9G-rvSKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8HHNM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8HHNM4?tag=rvgearlab-amz-20",
     "description": "The Swibow beach shelter is sized for two or three, measuring about 6.5 ft by 5.4 ft by 4.3 ft with a UPF 50+ silver-coated fabric stated to block 98 percent of UV. The floor extends 40 inches for sitting room, and a large mesh window supplies airflow.\n\nIt costs the least in this list and packs smaller than most tents. It offers less headroom than the Wolfwise and less space than the Gorich.\n\nSolo beachgoers and couples who want shade for the lowest price will like it. It sets up in minutes.",
     "specs": [
       "About 6.5 ft by 5.4 ft by 4.3 ft",

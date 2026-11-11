@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xl0qZKy3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFF3TMN5?tag=rvgearlab-amz-20",
     "description": "Capacity is 38800mAh, and the USB-C port is rated for 22.5W. Four cables are molded into the body, with two LED lights and an IP65 case completing the kit.\n\nIt lands closest to 36000mAh and charges faster over a cable than the wireless units. Compared with the GULLVEN, it gives up solar surface and gains a stated IP rating.\n\nIt suits a car camper who wants capacity near the target in a rugged body. Solar and wall recharge are both listed.",
     "specs": [
       "38800mAh, 22.5W USB-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FqCJFs3UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVFR191?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVFR191?tag=rvgearlab-amz-20",
     "description": "The GULLVEN lists 49800mAh with four built-in cables (iOS, Type-C, USB-A, Micro), three ports and four foldable solar panels rated up to 1280mA maximum current. A camping light with an SOS flashlight and an ABS and PC shell round it out.\n\nIt has more solar surface than the YELOMIN or YOLOSKS, which each carry a single small panel. It also stores about a quarter more than the YELOMIN.\n\nIt suits a sunny campsite where the panels might give a modest daytime top-up. The camping light doubles as a tent lamp.",
     "specs": [
       "49800mAh, 4 built-in cables",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IR5AQxl9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN48493X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN48493X?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists 20000mAh, quoted as about 4.1 iPhone 17 charges, with a hand crank, 15W wireless charging, a flashlight and a lantern. A compass, thermometer and carabiner come with it, and it charges seven devices.\n\nNo other bank in this group has a crank, which keeps working when there is no sun. It carries about half the cell of the YELOMIN, so the extras are the draw.\n\nIt suits a camper who wants emergency tools, a lantern and a wireless pad in a small package. The compass and thermometer ride along on the body.",
     "specs": [
       "20000mAh, hand crank",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gQcnqCtVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS34WY8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS34WY8N?tag=rvgearlab-amz-20",
     "description": "The YOLOSKS lists 49800mAh with 22.5W QC 3.0 charging, a wireless pad and three ports for up to six devices. A Type-C 5V/3.1A output and outlet or solar recharging round out the list.\n\nPriced lowest of these five, it adds a wireless pad that the YELOMIN skips. It lacks the foldable panels of the GULLVEN and the IP rating of the YELOMIN.\n\nIt suits a shopper counting dollars who still wants a big cell and wireless charging. The 49800mAh cell outlasts the YELOMIN by a wide margin.",
     "specs": [
       "49800mAh, 22.5W QC 3.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UDnkpDr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-amz-20",
     "description": "Capacity is 80000mAh and the top port reaches 35W, with a 15W wireless pad across seven ports. A 5W panel serves for emergencies, backed by a 300 lumen LED with SOS strobe and an IP66 body.\n\nIt posts the highest wattage and the largest cell of the five. The IP66 rating is higher than the YELOMIN's IP65.\n\nIt suits a group that wants a hub with a strong light and fast ports. The strap-ready body hangs from a tent loop.",
     "specs": [
       "80000mAh, 35W PD",

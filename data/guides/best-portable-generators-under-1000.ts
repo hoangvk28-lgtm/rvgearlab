@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515riPGkWVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086Z4BMB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086Z4BMB8?tag=rvgearlab-amz-20",
     "description": "DuroMax XP5500HX produces 5500 watts from a 210cc engine that runs on gasoline or propane. It has two 120V GFCI outlets, a 120/240V 30A twist-lock outlet, an MX2 switch that doubles the 120V power, a digital control center and a CO alert.\n\nIt costs about $599, $400 less than the Westinghouse iGen5000DFc, and offers more peak output. An open frame makes it louder and heavier, which is where the Westinghouse wins.\n\nChoose it for home backup and a big RV on a budget. All copper windings are built to last for years.",
     "specs": [
       "5500 watts, gas or propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ierJJE1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-amz-20",
     "description": "GENMAX pairs a 312cc engine with inverter technology for 6000 peak watts and 5250 rated. It has a steel handle and two wheels, weighs 106.9 lb, has an hour meter, LED alerts for low oil and overload and a CO detect shutdown.\n\nIt costs about $550 and has more rated power than the DuroMax. It runs on gasoline only, and the DuroMax adds propane for $50 more.\n\nChoose it for a big RV or a cabin where moving the unit on wheels matters. It carries a 1-year warranty and lifetime support.",
     "specs": [
       "6000 peak, 5250 rated watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515W7jwOXEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-amz-20",
     "description": "Generac delivers 2500 running and 3300 starting watts with TruePower sine wave under 3 percent THD. PowerRush gives 50 percent more starting capacity, COsense shuts it down at dangerous CO levels, and a 1.06 gallon tank gives up to 7 hours at 25 percent load.\n\nIt costs about $637, more than the DuroMax and GENMAX, for a smaller output. It is the pick with a recognized brand and automatic CO monitoring.\n\nChoose it for a fridge, lights and laptops at home or a campsite. It suits owners who want a smaller, trusted unit.",
     "specs": [
       "2500 running, 3300 starting watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4160dpQTxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC1W23YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC1W23YY?tag=rvgearlab-amz-20",
     "description": "EFURDEN offers 7000 peak and 5500 running watts from a 223cc engine with under 2 percent THD. With a 3.5 gallon tank and ECO mode it can run 11 hours on a quarter load, and it measures 23.81 by 16.92 by 22.04 inches at 89 lb.\n\nIt is the biggest output in the guide at about $700, with 250W more running power than the GENMAX. It operates at 69 dB from 23 feet.\n\nChoose it for a long outage or a big RV that needs a day of runtime on one tank. It suits owners who want to refuel less.",
     "specs": [
       "7000 peak, 5500 running watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cs60X1ZjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KSY4XG?tag=rvgearlab-amz-20",
     "description": "Westinghouse iGen5000DFc gives 5000 peak and 3900 running watts on gasoline from a 224cc 4-stroke engine with a CO sensor. It runs as low as 52 dBA, has a TT-30R RV outlet, a 5-20R outlet, two USB ports, a remote electric start and uses less than 3 percent THD power.\n\nIt costs $999, $400 more than the DuroMax, and buys quiet running, a remote start and an enclosed case. It can run in parallel with a second unit, and the parallel kit is sold separately.\n\nChoose it for an RV or a neighborhood where noise matters. It suits owners who want the quietest unit at the top of the budget.",
     "specs": [
       "5000 peak, 3900 running watts",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efhN+Z8-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07H9SXV61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07H9SXV61?tag=rvgearlab-amz-20",
     "description": "The Renogy P2 lists 2000 watts continuous and 4000 watts peak surge, pure sine wave output at 12V DC to 120V AC with conversion efficiency above 90 percent, and strong inductive load handling. It has three AC outlets, one AC terminal block, a 5V/2.1A USB port, two 1/0 AWG 3 ft battery cables and a 16.4 ft wired remote, and costs $229.49.\n\nIt ranks first because the box includes heavy 1/0 AWG cables and a 16.4 ft remote, which many inverters make you buy separately, and because the listing is clear about continuous versus peak output. Against the LANDERPOW, it costs $59.50 more and uses thicker 1/0 AWG cables than the 2 AWG pair there. Against the Renogy PUH, it gives up the transfer switch and Bluetooth for $85.50 less.\n\nPick this if you want a straightforward 12V inverter from a brand that supplies the cables, with a hardwire terminal for a fixed install. The caveat is that this listing has no automatic shore-power transfer switch, so you still switch sources yourself.",
     "specs": [
       "2000W continuous, 4000W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31thxmm37hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZR4LVB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZR4LVB5?tag=rvgearlab-amz-20",
     "description": "The Renogy PUH is a 2000W pure sine inverter with a built-in UPS transfer switch that moves between on-grid AC and off-grid DC, plus built-in Bluetooth, a wired remote switch and the Renogy app for monitoring. The listing cites efficiency above 92 percent, noise under 51 dB, cooling heat-sink fans, and low and high voltage and current protections. It costs $314.99.\n\nIt ranks second because the transfer switch adds a second job: when shore power is present, loads run on AC, and when it drops, the inverter takes over. That saves the manual switching the Renogy P2 needs, for $85.50 more. Against the VEVOR, it costs $14.91 less, but has no battery charger. The listing does not state surge watts or cable inclusion in its feature text, so confirm both.\n\nChoose it if you want automatic shore-to-battery changeover for a laptop, router or fridge that should not drop out. The caveat is that surge rating and included cables are not stated, so check the product page before assuming 4000W peak.",
     "specs": [
       "2000W pure sine, UPS transfer",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hggzgXB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY7MLY9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY7MLY9B?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 2000W pure sine inverter charger for 12V systems that also charges the battery from shore power or a generator. The listing names five working modes: Unattended, Grid Priority, Battery Priority, Energy-Saving and Generator. It supports LiFePO4, lithium-ion, AGM, sealed and flooded lead-acid batteries, has an LCD display, a 32.8 ft remote cable with a detachable controller and several protections. It costs $329.90.\n\nIt ranks third because it is the most expensive unit and a charger function is only worth paying for if you do not already have a converter or charger. Against the Renogy PUH, it adds a built-in battery charger for $14.91 more, and a longer 32.8 ft remote cable. The listing in its features does not state the surge rating or the charge current, so the charging side is hard to compare.\n\nPick it for a van or small trailer without a separate charger where one box should invert and charge. The caveat is that charge amps are not stated, so confirm that figure before relying on it to refill a large bank.",
     "specs": [
       "2000W pure sine inverter charger",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ug2lTD9lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4SNJY3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4SNJY3S?tag=rvgearlab-amz-20",
     "description": "The LiTime 2000W lists pure sine output with conversion efficiency above 90 percent, 4000W surge, CE, FCC and RoHS certification, dual cooling fans and protections against over-voltage, low voltage, overheating, overload and short circuit. The listing adds product liability insurance effective from May 22, 2026, and pitches support in line with LiTime's LiFePO4 batteries. It costs $208.99.\n\nIt ranks fourth because the feature text is shorter on hardware details than the Renogy P2: it does not list cables, a remote or outlet counts. It sits $20.50 below the Renogy P2 and $29 above the BELTTT, with a published certification list that the BELTTT does not give. The liability insurance is a unique line item, but it is a coverage claim, not a performance spec.\n\nChoose it if you already run LiTime batteries and want a certified inverter at a mid price. The caveat is that cables and a remote are not stated, so budget separately for 2000W-class cable and fuse.",
     "specs": [
       "2000W continuous, 4000W surge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4198d8rC5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-amz-20",
     "description": "The BELTTT lists 2000W continuous and 4000W surge, pure sine output with conversion efficiency above 93 percent, a high-brightness LCD showing input and output voltages, battery and load status, dual AC sockets rated 20A, a 5V/2.1A USB port, a hardwire port and a remote controller with a 23 ft cable. Protections include under-voltage, over-voltage, overload, over-temperature, short circuit and reverse connection. It costs $179.99.\n\nIt ranks fifth because the efficiency figure is the highest listed here at above 93 percent, which cuts the amps pulled from the battery for the same output, but the listing gives few cable details. It costs $10 more than the LANDERPOW, whose listing names its cable gauge, and $29 less than the LiTime. A 93 percent figure versus 91 percent is about 2 points of savings on a 2000W load.\n\nPick this if you want the highest stated efficiency and an LCD that shows battery state at a glance. The caveat is that included cable size is not listed, so confirm it, and size your own cables to the DC current.",
     "specs": [
       "2000W continuous, 4000W surge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51T6iQY3SpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1T6K58R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1T6K58R?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW is the cheapest unit here at $169.99, with 2000W continuous and 4000W surge, efficiency above 91 percent and pure sine output. It lists three AC outlets plus a hardwired terminal, a 5V/3.1A USB port, a 30W USB-C PD port, two 2 AWG 2 ft battery cables, a 15 ft wired remote with an LED screen and protections for under-voltage, over-voltage, overload, overheating, short circuit and reverse connection.\n\nIt ranks last mostly because the 2 AWG cables are thinner than the 1/0 AWG pair on the Renogy P2, which matters at roughly 200 amps from the battery, and the remote cable is shorter at 15 ft. Against the BELTTT, it costs $10 less and includes a USB-C PD port and named cables. Against the Renogy P2 it costs $59.50 less, which is its entire case.\n\nChoose it for a budget build with a short, well-protected cable run and a small bank. The caveat is that 2 AWG cables at 2000W need careful fusing and short length, so ask whether the supplied cables suit your run before using them at full load.",
     "specs": [
       "2000W continuous, 4000W surge",

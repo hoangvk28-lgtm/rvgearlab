@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F2Ik1MEJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-amz-20",
     "description": "Sierra Designs fills the Cloud 20 with 16.4 oz of 800 fill power DriDown inside a 15D nylon ripstop shell, and it weighs 1 lb 13.3 oz on the trail. The listing gives an ISO comfort rating of 26F and an ISO limit of 15F.\n\nIt is the lighter of the two and the only pick that prints standard ISO numbers, so the 15F figure is a tested limit rather than a label. The oversized integrated comforter and rear pad sleeve suit side sleepers and restless sleepers.\n\nA fit for backpackers who want real ultralight performance near 15F. The zipperless design rewards a short learning curve.",
     "specs": [
       "800 fill DriDown, 16.4 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUpv2w2cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3WF7SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3WF7SJ?tag=rvgearlab-amz-20",
     "description": "NEMO's Disco 15 is a men's regular wide down bag filled with 650 fill power hydrophobic, PFAS-free, RDS-certified down. Its spoon cut gives the elbows and knees extra space, and Thermo Gill vents join a Blanket Fold draft collar.\n\nAgainst the Sierra Designs Cloud 20, it favors roominess and venting over minimum weight. The vents and multistage zipper widen the comfort range, so it handles warm and cold nights from one bag.\n\nPick it for side sleepers and restless sleepers who find mummy bags confining. It is the priciest option here.",
     "specs": [
       "650 fill RDS down, spoon shape",

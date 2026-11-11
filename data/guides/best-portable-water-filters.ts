@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KBbctj54L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYT85FW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYT85FW?tag=rvgearlab-amz-20",
     "description": "ITEHIL combines an Ahlstrom membrane with a pre-stage ultrafiltration to reach a stated 0.01 micron precision. The listing says it filters out 99.99% of heavy metals, bacteria and viruses, runs from a 5200 mAh battery for about 4 hours and moves 700 ml per minute.\n\nIt names viruses, which the straw filters here do not, and the filter cartridge is listed for up to 1,000 liters. Charging works through USB-C or solar, with 30 minutes of sun said to be enough to power it up.\n\nA strong choice for campers who want a push-button pump that also charges a phone and acts as a survival tool. A hook lets it hang.",
     "specs": [
       "0.01 micron, names viruses",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-thM3B6oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3DY4NJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3DY4NJB?tag=rvgearlab-amz-20",
     "description": "Thmomex sells a 3-in-1 pump that moves a steady 800 ml per minute at the press of a button and recharges by USB-C, an integrated solar panel or a built-in hand-crank dynamo. It lists a 5,000 liter filter core and an 8-layer path of PP cotton, carbon and ultrafiltration membranes.\n\nThe hand crank is unique here, so the pump keeps working when sun and wall power are gone, and the cartridge life is the longest in the group. It weighs 360 grams and has an LED light and a storage pouch.\n\nBest for emergency kits and long trips where power may run out. The multiple charging options are the draw.",
     "specs": [
       "800 ml/min, push-button",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sLth4EpPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGLHX2JK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGLHX2JK?tag=rvgearlab-amz-20",
     "description": "BKLES builds the BK2000 around a high-torque magnetic motor, a double 0.01 micron filter and a six-level path. It weighs 350 g (12 oz), packs into a storage bag and has a 1.5 meter hose and an emergency feature set.\n\nThe listing claims 99.999% accuracy, a precision claim that the Thmomex does not print, and the unit is lighter than the ITEHIL. A multifunctional bag lets it clip to a belt or pack.\n\nA good fit for hikers and campers who want a small electric pump at a lower price. It also suits fishing and emergency kits.",
     "specs": [
       "Double 0.01 micron, six levels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51knEkQEf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-amz-20",
     "description": "The Practical Survival box holds five reusable straws, 8 inches and 2 ounces apiece. Its listing puts bacteria removal above 99.99%, naming E. coli and Legionella, and parasite removal above 99.99%, naming Giardia and Cryptosporidium.\n\nFive straws mean a whole family or emergency group is covered, and each lasts up to 1,800 gallons, which the listing frames as up to 10 years. They need no batteries, which the electric pumps do.\n\nGreat for families and preppers who want a lot of filters for a fair price. Keep spares in cars, packs and kits.",
     "specs": [
       "Five 2 oz reusable straws",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wee6T08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-amz-20",
     "description": "Membrane Solutions sells four 5-stage straw filters, each 7.1 inches long and 2 ounces, with a 0.1 micron membrane and coconut shell carbon. The listing names three NSF/ANSI standards (42, 372 and 401) and gives a test report number.\n\nIt documents standards that the Practical Survival straws do not, and it threads onto a 28 mm bottle for easy drinking. Flow is listed at up to 500 ml per minute.\n\nBest for hikers who want a pocket filter with named standards and a taste-improving carbon stage. The four-pack covers a small group.",
     "specs": [
       "Four 7.1 in, 2 oz straws",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Kai4zXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT4N26F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT4N26F9?tag=rvgearlab-amz-20",
     "description": "The TRAILBLITZ is a laced water shoe with an upgraded drainage-hole and mesh upper, a thick slip-resistant outsole and toe protection. A fine mesh sits under the coarse mesh to keep sand and gravel out, and a lace lock holds the fit.\n\nThe lace lock and double-layer mesh are unique in this group, which gives more secure fit than the elastic ATHMILE Hiking Barefoot and SEEKWAY Aqua Sock. The thicker sole gives more protection than the thinner ANLUKE Barefoot.\n\nIt suits creek hikers and boaters who want a real shoe for rocky bottoms. The lace lock keeps it on through slippery steps.",
     "specs": [
       "Lace lock closure",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51idCWzisTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2NZTTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2NZTTR?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Hiking Barefoot is a sock-style water shoe with a thick rubber sole, a toe cap and breathable elastic uppers. The listing says it is light to carry and stitched to resist wear at the join of upper and sole.\n\nIt has a thicker rubber sole than the ANLUKE Barefoot and the ziitop Quick-Dry, so rocks bother the feet less. It packs smaller than the TRAILBLITZ Lace-Up and costs about half as much.\n\nIt is a good fit for a traveler who wants a pair to stash in a daypack for river, beach and pool. Printed styles give some color choices.",
     "specs": [
       "Thick rubber sole, toe cap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fp7dOJnnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DXZVKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DXZVKV?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY is an aqua sock with 3D non-slip treads, a thick rubber sole and a toe cap. A spandex vamp has tiny air holes, and drainage holes sit in both the insole and the outsole.\n\nDrainage through the insole and outsole is a detail the ATHMILE Hiking Barefoot does not list in the same way. The tread pattern is deeper than on the ziitop Quick-Dry, which lists a flatter outsole.\n\nIt suits paddlers and waterfall hikers who stand on wet rock all day. The slip-on elastic vamp gets on and off quickly.",
     "specs": [
       "3D non-slip treads",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N04v9GHsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P4MD63C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P4MD63C?tag=rvgearlab-amz-20",
     "description": "The ziitop is a barefoot-style water shoe with a stretch mesh upper, a patterned anti-slip rubber outsole and an elastic shoelace with a locking mechanism. The elastic neckline helps with getting the shoe on and off.\n\nA locking elastic lace lets you tighten the fit more than the slip-on SEEKWAY Aqua Sock or ANLUKE Barefoot. It costs less than the TRAILBLITZ Lace-Up and is lighter on the foot.\n\nIt is a good match for a swimmer, paddler or pool visitor who wants a snug, adjustable fit that stays on in the water. It is also easy to pull on with wet feet.",
     "specs": [
       "Locking elastic lace",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dxk8GBsEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9KY954W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9KY954W?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Five-Toe is a barefoot water shoe with a five-toe guard design, a wide toe box and 11 drainage holes. The quick-dry mesh and non-slip rubber sole are meant for slippery rocks and pool decks.\n\nA wide toe box gives more room than the SEEKWAY Aqua Sock and the ATHMILE Hiking Barefoot, and 11 drainage holes empty faster than the ANLUKE Barefoot lists. It is cheaper than all of them except ANLUKE.\n\nIt suits a hiker with wide feet who wants natural toe movement in the water. The trendy colors are meant to work off the beach too.",
     "specs": [
       "Five-toe guard design",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VIbo0Z8mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078WR5FKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078WR5FKR?tag=rvgearlab-amz-20",
     "description": "The ANLUKE is a barefoot aqua sock with an anti-slip sole, a thickened sole and breathable insole with shock absorption, and a smooth neckline made to prevent chafing. The stretch upper drains quickly and cross-ventilates.\n\nIt costs the least here and still lists a shock-absorbing insole, which the ziitop Quick-Dry does not. It is lighter and more compressible than the TRAILBLITZ Lace-Up, if less supportive.\n\nIt suits a beach or pool trip, a spare pair for the car, or anyone who wants a very low-cost water shoe. It rolls up small for any bag.",
     "specs": [
       "Anti-slip thick sole",

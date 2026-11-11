@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kLz8JsKDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK48Q8YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK48Q8YY?tag=rvgearlab-amz-20",
     "description": "The ShinHye is an XXL cotton flannel bag with hollow cotton fill and a 210T cover. The listing prints a comfort temperature of 30 degrees F and a limit of 14 degrees F, and advises extra warming aids when it nears 0 degrees F.\n\nIts two-way zippers with a neck pull and a 17 by 13 inch compressed size give it more thought than the PO PO BEAR. It is also machine washable.\n\nIt suits big campers who want rectangular room and a rating they can believe. Plan around the 30 degree figure.",
     "specs": [
       "Comfort 30F, limit 14F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggZVlyhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-amz-20",
     "description": "The TETON Deer Hunter is a 0 degree bag with a tough canvas shell, fiber fill, a poly-flannel lining and a half-circle mummy-style hood. The same bag is sold in a second listing, which is treated here as the same product.\n\nIts canvas shell is the toughest in this list and suits hunting camps and cabins. It costs more than the other rectangles and gives no comfort figure, unlike the ShinHye.\n\nIt suits hunters and base-camp users who want a rugged bag for cold, damp weather. Use a camp pad and a stocking cap.",
     "specs": [
       "Canvas shell, fiber fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zCMi67hJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBX96X8T?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL measures 90 by 39 inches and has a cotton flannel lining, a draft tube along the zipper and printed ratings of 30 degrees F comfort and 15 degrees F limit. It fits sleepers up to 6 ft 7 in and is machine washable.\n\nIt prints a clear comfort and limit pair like the ShinHye and is a little roomier. It sits near the middle of the price range.\n\nIt suits large campers who want a washable cabin bag with clear numbers. The extra air inside takes more body heat to warm.",
     "specs": [
       "90 x 39 inch XXL cut",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HxfehxbAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQDMT5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQDMT5Z?tag=rvgearlab-amz-20",
     "description": "The PO PO BEAR is an 84 by 40 inch rectangle with a soft flannel lining, machine-washable fabric and a compression storage bag. The listing names camping, truck sleeper cabs, RVs, cabins and hunting as uses.\n\nIt is aimed at big and tall adults and gives more legroom than mummy bags. It prints no temperature figure, unlike the ShinHye and HiZYNICE.\n\nIt suits truckers, RV travelers and cabin guests who want a washable, roomy bag. Use it as a milder-weather option.",
     "specs": [
       "84 x 40 inch rectangle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkMSqFwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-amz-20",
     "description": "The RIOYALO is a rectangular bag with 450GSM microfiber fill, a Wind Buffer zipper block and a 190T pongee lining. It weighs 5 lb and packs to 15.6 by 7.6 inches with a strap compression sack.\n\nIt states its weight and packed size, details the other rectangles skip, and it costs the least. The Wind Buffer blocks zipper drafts.\n\nIt suits short-trip campers who want a cold-class bag at a budget price. At 5 lb it is a car bag.",
     "specs": [
       "5 lb, packs 15.6 x 7.6 in",

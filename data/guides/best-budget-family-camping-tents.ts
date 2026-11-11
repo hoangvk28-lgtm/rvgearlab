@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V1z9b-ULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 8-person has a 15 ft by 9 ft floor and a 70 inch center height. Welded seams and a detachable fly handle weather, a rear window with a low air port helps airflow, and the shock-corded poles are listed at under 8 minutes.\n\nCheapest of the four, it still lists a 15 x 9 ft floor. Compared with the Leisure Impact it takes longer to pitch, and against the CAMPROS it adds floor room.\n\nIt suits families who want the most floor for the least money. An interior mesh pocket and a carry bag are included.",
     "specs": [
       "15 x 9 ft, 70 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeGruFaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-amz-20",
     "description": "The Leisure Impact is an instant 6-person tent with a 120 by 108 inch floor and a 66 inch center. A pre-attached frame sets up in under 60 seconds, and 1200mm water-resistant fabric, a rainfly and a front awning handle light to moderate rain.\n\nAgainst the Amazon Basics it pitches much faster and adds an awning and E-port, while the floor is smaller. Compared with the CAMPROS it lists a millimeter rating.\n\nIt suits families who arrive late and want a quick pitch. Mesh windows on four sides, lower vents and a mesh ceiling help airflow.",
     "specs": [
       "6 person, 120 x 108 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3187egCwHfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 8-person is a straight-walled tent with a 72 inch center, a rainfly and sealed seams. Mesh covers the top and doors, and a curtain splits the interior into two rooms or doubles as a projector screen.\n\nPriced between the Leisure Impact and WildFinder, it gives two rooms and a 5 minute pitch with two people. Against the Leisure Impact it lists no millimeter rating, and the divider adds privacy.\n\nIt suits families who want two rooms at a modest price. Color-coded poles speed assembly.",
     "specs": [
       "8 person, 72 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JC2RkC+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K4G8V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K4G8V2?tag=rvgearlab-amz-20",
     "description": "The WildFinder measures 18 by 9 by 6.9 feet and has an 82.7 inch center height. The listing says it holds up to 10 people, with large mesh windows, a double-layer design and a rainfly.\n\nAs the priciest of the four it sits close to the top of the budget, and it has the biggest footprint and tallest center. Against the Amazon Basics it adds 3 ft of length and 12 inches of height.\n\nIt suits large families who want standing room and a big floor. A 1-year warranty and 24/7 customer support come with it.",
     "specs": [
       "10 person, 18 x 9 ft",

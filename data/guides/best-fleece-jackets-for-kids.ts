@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418Cn8oVNXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MRKR63I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MRKR63I?tag=rvgearlab-amz-20",
     "description": "The Columbia Benton Springs Girls is a fleece jacket made of plush MTR filament fleece described as 250 gram deep fleece. It has two zippered hand pockets and a design meant to wear alone or as a mid-layer.\n\nAgainst the Amazon Essentials, it uses a thicker 250 gram fleece. Compared with the M2C Floral, it is a plain fleece rather than a windproof shell.\n\nIt suits kids heading out on chilly mornings or campfire evenings. The zippered pockets keep trailside treasures safe.",
     "specs": [
       "250g plush MTR fleece",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312MXyWdAnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096WL7TBK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096WL7TBK?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Boys is a midweight polar fleece mock-neck jacket with a full zip, elastic binding at the cuffs and hem and front on-seam pockets. The knit is brushed and double-sided.\n\nAgainst the Columbia, it is a lighter weight at a lower price. Compared with the Spring and Gege, it comes from a store brand with a relaxed fit.\n\nIt suits boys who need an everyday layer for school and play. It works on its own in spring or fall.",
     "specs": [
       "Midweight polar fleece",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RmK+tjhDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096WDP46M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096WDP46M?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials Girls is a midweight polar fleece mock-neck jacket with a full zip, elastic binding at the cuffs and hem and a stand-up collar. The relaxed fit has front on-seam pockets.\n\nAgainst the Columbia, it is lighter and cheaper. Compared with the M2C Floral, it is a plain, insulated fleece.\n\nIt suits girls who need an everyday layer. It works under a puffer.",
     "specs": [
       "Midweight polar fleece",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DW4G1xbSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N2V92PH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N2V92PH?tag=rvgearlab-amz-20",
     "description": "The Spring&Gege Polar Fleece is a unisex mid-weight polar fleece for ages 5 to 12 with a stand-up collar, a smooth zipper and elastic ribbed cuffs and hem. It is described as durable, stain-resistant and machine washable.\n\nAgainst the Amazon Essentials, it is sized for ages 5 to 12 in several colors. Compared with the Columbia, it is lighter in weight.\n\nIt suits school uniforms and playgrounds. It layers under a heavier coat.",
     "specs": [
       "Unisex mid-weight polar fleece",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-tX25Qy6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077GJC66G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077GJC66G?tag=rvgearlab-amz-20",
     "description": "The M2C Floral Hooded is a girls' jacket with a polyester shell and soft fleece lining, water-resistant and windproof. It has an elastic adjustable Velcro cuff, a hood and two bottom zipper pockets.\n\nAgainst the Columbia, it adds wind and light rain resistance. Compared with the Amazon Essentials, it has a hood and zipper pockets.\n\nIt suits girls who play outside in breezy weather. The floral pattern adds style.",
     "specs": [
       "Polyester shell, fleece lining",

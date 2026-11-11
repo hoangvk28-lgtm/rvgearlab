@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CKS0z54DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PMJR8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PMJR8R?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 35FT is built for longer winter setups, with a silicone heating wire and -45°F protection. RVSNAIL lists this 35FT hose for longer winter setups, with a silicone heating wire that keeps it softer in cold.\n\nIt costs 30 dollars more than the other RVSNAIL 35FT but adds the silicone wire for flexibility. It also rates 25 degrees lower than the RVMATE.\n\nA -45°F rating and a protective multi-layer wall cover the cold-weather side of a 35 foot run. It suits owners who want true 35 ft reach and a deep-cold rating.",
     "specs": [
       "35 ft, -45°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WDRhJK8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-amz-20",
     "description": "The second RVSNAIL 35ft hose carries a self-regulating external thermostat and -45°F protection. A 3/4 GHT thread and double washers handle the connection.\n\nAs the cheapest of the six, it is the lowest-cost route to a true 35 ft hose with that cold rating. Food-grade, lead and BPA free materials come along.\n\nBudget-minded winter campers will find the most value here. It pairs the savings with a full 35 foot reach.",
     "specs": [
       "35 ft, -45°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LLo5W5xPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Z395GF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Z395GF?tag=rvgearlab-amz-20",
     "description": "The RVMATE 35FT has a UL Listed heating cable and thermostat at 7 watts per foot with -20°F protection. This RVMATE 35FT hose has a UL Listed heating cable with a thermostat at 7 watts per foot and -20°F protection.\n\nUnlike the RVSNAIL it names a certified cable, and it costs less than the 30 ft hoses. Lead-free copper nickel plated ends replace aluminum.\n\nIt uses lead-free copper nickel plated connectors in place of aluminum. It suits buyers who prioritise a certified cable and mild winters.",
     "specs": [
       "35 ft, -20°F protection",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jtzVB3iNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C69TRZD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C69TRZD7?tag=rvgearlab-amz-20",
     "description": "The other RVMATE 35FT uses compression fittings and copper nickel plated ends with -20°F protection. RVMATE's 35FT hose is rated to -20°F and uses compression fittings with lead-free copper nickel plated ends.\n\nIt sells at the same price as the UL Listed version and is a simpler pick. The lead and phthalate free hose leaves no rubber taste.\n\nThe hose is lead and phthalate free and leaves no rubber taste in the water. It suits mild winters where the hose is plugged in occasionally.",
     "specs": [
       "35 ft, -20°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513wZ1T2v0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRCTRJ24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRCTRJ24?tag=rvgearlab-amz-20",
     "description": "The Scilulu is a 30FT hose with -45°F protection and automatic overheat protection. Scilulu lists this 30FT hose with -45°F protection, 120V power, and sizes from 15 to 100 feet.\n\nIt is sold in lengths from 15 to 100 feet and gives five feet less than a 35 ft hose. It costs about 9 dollars more than the RVSNAIL 35FT.\n\nIt is food-grade, lead-free and BPA-free with automatic overheat protection and a heavy-duty jacket. It suits owners whose site reach is nearer 30 feet.",
     "specs": [
       "30 ft, -45°F protection",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cOwneNsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PW2HBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PW2HBY?tag=rvgearlab-amz-20",
     "description": "The Nottia is titled 30FT with -45°F protection and a smart self-regulating external thermostat. Nottia titles this hose 30FT with -45°F protection, lead-free and BPA-free materials and a self-regulating external thermostat.\n\nIt costs the most of the six and gives five feet less than the true 35 ft picks. Lead-free and BPA-free materials suit drinking water.\n\nThe same fifth-version leak-resistant fitting design is used across its range, and the hose suits campers and gardens. It suits buyers who want a thermostat they can trust at a premium.",
     "specs": [
       "30 ft, -45°F protection",

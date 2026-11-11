@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKmM2CZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-amz-20",
     "description": "The Purple Dragon is a 14.7 inch hand-forged hatchet with a cow-foot shape ideal for splitting and delimbing. The splitting face is carbon-manganese steel, the S-curve handle is hickory and protective lips and a hand-stitched sheath are included.\n\nIt is the best-made hatchet here, with a hickory handle that absorbs shock better than fiberglass. It is also the heaviest on features, ahead of the DESHIL and 14 inch mini hatchet.\n\nIt fits bushcraft fans and campers who want a quality hatchet for kindling and limbing. The rubber protective lips guard the edge between uses.",
     "specs": [
       "14.7 inch hand-forged",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EmxWSVtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKTJW4BT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKTJW4BT?tag=rvgearlab-amz-20",
     "description": "This 14 inch hatchet has a proprietary blade grinding the listing says holds an edge longer and cuts three times deeper, a hammer back for tent stakes and balanced weight. A 60-day refund policy and a 1-year warranty are listed.\n\nIt has the most generous return terms in the group and a hammer back, which the Purple Dragon lacks. It is a lighter-duty tool.\n\nIt fits first-time buyers who want a safety net. The hammer back also drives tent stakes.",
     "specs": [
       "14 inch hatchet, hammer back",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419ogH-Qg8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBNNKM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBNNKM8?tag=rvgearlab-amz-20",
     "description": "The Liantral is a folding survival axe with steel head, aluminum alloy handle and extension bars. It lists chop, split, hammer, whistle and compass functions and carries in a sheath.\n\nIt is the only folding axe in this group, packing smaller than the hatchets. Its adjustable length is unusual at this price.\n\nIt fits backpackers and kit builders who want one tool to do several jobs. The sheath makes it safe to carry.",
     "specs": [
       "Folding, extension bars",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31upSzXIiuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-amz-20",
     "description": "The DESHIL is a 10 inch mini hatchet with a carbon steel 45 head heat treated in six steps, a fiberglass shock-absorbing handle, a flat hammer back and a protective blade cover. The head and handle are inseparable.\n\nIt is the smallest and lowest priced axe here, with a hammer back that is useful for stakes. It is for kindling and light camp work.\n\nIt fits day hikers and kids' camp kits. The blade cover keeps it safe in a pack.",
     "specs": [
       "10 inch, carbon steel 45",

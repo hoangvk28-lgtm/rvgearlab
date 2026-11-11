@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J-KtOqqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8HSTD6N?tag=rvgearlab-amz-20",
     "description": "The 3000W Power Inverter converts 12V DC to 120V AC at 3,000W continuous and up to 6,000W peak. It has two 20A AC outlets, a 3.4A USB port, a 30W Type-C port and a 200 ft wireless remote, with ten built-in protections and thick pure copper battery cables in the box. At about $150 it uses the entire budget and delivers by far the largest capacity in this guide.\n\nIt sits about $10 above the Cantonape 3000W and matches its capacity, adding a Type-C fast-charge port and the cables you would otherwise buy separately. Against the BELTTT 1000Watt, it brings three times the continuous output, which is the difference between a laptop and CPAP setup and a microwave or coffee maker running from the battery bank.\n\nIt is best for RV and van owners with a real 12V battery bank who want appliance-class power on a budget. The wireless remote lets you switch it off from a camp chair, and the copper cables in the box carry a first installation through to the end. Buyers who expect to run a microwave or coffee maker should start here.",
     "specs": [
       "3,000W continuous, 6,000W peak output",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411FqrNufmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-amz-20",
     "description": "The Cantonape 3000W is a 3,000W continuous, 6,000W surge inverter with four AC outlets, four USB ports, an LCD screen and a remote controller. It has six protections and an aluminum body that spreads heat. At about $140 it gives the most sockets in the guide, so several devices can be plugged in without a power strip.\n\nIt costs about $10 less than the 3000W Power Inverter and trades the Type-C port and copper cables for two extra AC outlets. Compared with the BELTTT 1000Watt, it offers triple the capacity and a lower price per watt, which is how the budget stretches to appliance-class power. The waveform is modified sine, so it targets simple loads.\n\nIt is best for campers who run tools, lights and chargers at the same time from a big battery. The remote lets you put the unit beside the bank and keep the screen at camp. It fits a family site where the table needs a lamp, a charger bank and a small fan going together.",
     "specs": [
       "3,000W continuous, 6,000W surge output",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1000Watt is a pure sine wave inverter rated at 1,000W continuous and 2,000W peak, with conversion efficiency above 90 percent. It offers dual AC outlets, a 2.1A USB port, a smart LCD and 3 ft thicker cables supplied with an installation tool. At about $120 it is where clean output first appears at a capacity that can run a real appliance.\n\nIt costs around $30 under the 3000W Power Inverter and about $55 above the BESTEK Pure Sine Wave 500W. The extra money buys a clean 1,000W against that model's 500W, enough for a small fridge or a power tool charger on a deep-cycle battery. The smooth waveform lets inductive loads such as fans run with less wear than they would on the Cantonape 3000W.\n\nIt is best for campers with a CPAP, a laptop, a fridge or tool chargers that need clean power. The LCD shows input and output voltage, so a sagging battery is visible before it trips a shutdown. For an RV owner moving beyond a plug-in charger, it is the natural first pure sine purchase, and the cables in the box mean the install starts the same day.",
     "specs": [
       "1,000W continuous, 2,000W peak pure sine",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iaQy6oWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082MDRC64?tag=rvgearlab-amz-20",
     "description": "The BESTEK Pure Sine Wave 500W offers two outlets plus dual USB charging, and it connects through the cigarette lighter plug or direct battery clips. It carries two 40 amp external fuses, thermal protection and a cooling fan. At about $65 it is the cheapest route to pure sine in this guide, and the cleanest on-ramp for car campers.\n\nIt costs around $55 less than the BELTTT 1000Watt and takes half the capacity, which is the reason a sensitive-electronics buyer can reach clean power for under $70. Against the TWING Car 1000W at about $69, it swaps a modified sine waveform for a pure one and gives up display and USB speed. The waveform is the point of paying for it.\n\nIt is best for car campers who want clean power for laptops and camera chargers, and who might clamp the unit to a battery for a bigger load. The dual connection style means the same inverter works from the dash and from the bank. It suits a first-time buyer comparing a basic adapter with something that runs better gear.",
     "specs": [
       "500W pure sine wave output",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kndFhr88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082V5TC11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082V5TC11?tag=rvgearlab-amz-20",
     "description": "The TWING Car 1000W is a modified sine wave inverter with two AC outlets, a QC 3.0 USB port and a 30W PD USB port. It carries a digital display, a cooling fan and a slip fuse, and its page notes 750W continuous output with the larger figure as a peak. At about $69 it is the mid-range plug-in with the best USB charging.\n\nIt costs around $50 under the BELTTT 1000Watt and delivers 750W continuous against that unit's 1,000W. Beside the BESTEK Pure Sine Wave 500W, it brings 250W more capacity and faster USB for roughly the same price, which makes it the better value for loads that do not need clean power. The mechanism is the waveform: cheaper output buys more watts.\n\nIt is best for truckers and campers who want a mid-power plug-in for tools and chargers. Resistive loads such as heaters and lights suit it well, and the PD port charges a laptop without a brick. Choose it when raw capacity and USB speed matter more than waveform quality. A trucker running a work light, a heater and a phone charger gets everything needed from it.",
     "specs": [
       "750W continuous, 1000W peak output",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vS3gPO8KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJQ8CTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJQ8CTJ?tag=rvgearlab-amz-20",
     "description": "The PowerDrive PWD150S is a 150W power strip inverter with three 3-prong AC outlets, a 2.4A USB port, a 3.0A USB-C port and a 12V DC socket. It protects against short circuit, overheating and overload, and the strip body keeps cords tidy on a console. At about $44 it is the lowest-priced pick here and the one built like a household power strip.\n\nIt plugs into a vehicle's 12V socket and stays within the socket's circuit rating, which is a clean contrast with the BESTEK Pure Sine Wave 500W that needs clips to reach its rating. Three AC outlets plus a USB-C port let a family share a single plug-in. Compared with the TWING Car 1000W, it trades raw watts for sheer port count.\n\nIt is best for commuters and campers who charge phones, tablets and cameras in the car. Three outlets let everyone plug in at once, and the 12V accessory socket means a tire inflator or other 12V gear still has a place. A family on a long drive will use it more than any bigger unit, because every seat gets a plug and nobody argues over the one outlet.",
     "specs": [
       "150W continuous power strip inverter",

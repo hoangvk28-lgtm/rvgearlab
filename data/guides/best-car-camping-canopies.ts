@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/211lwi6gvhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDXWFR2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDXWFR2R?tag=rvgearlab-amz-20",
     "description": "The GEERTOP awning is a 19 x 16 ft sheet of 210T polyester that gives roughly 215 square feet of shade, held up by two telescopic poles adjustable from 72 to 83 inches. Buckle straps connect it to Jeeps, SUVs, vans and trucks.\n\nIt offers the most stated shade in this guide and three pitch options, including a single-pole A-frame and a dual-pole awning. Next to the HipierFx it is larger and ships with telescoping poles, while the JOYTUTUS gives enclosure rather than roof area.\n\nCamp-kitchen cooks and groups of four or more get the best use from it. One piece of fabric covers a table, chairs and the tailgate.",
     "specs": [
       "About 215 sq ft of shade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j5A6CE-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W542PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W542PV?tag=rvgearlab-amz-20",
     "description": "The VEVOR connects directly to an SUV tailgate and opens as a 6 x 6 ft pop-up screen house for 4 to 6 people. High-density mesh walls keep mosquitoes out, with fabric panels for shade and a curved roof to shed rain.\n\nCompared with the GEERTOP, it gives bug-free walls in place of open shade, and its fiberglass and steel poles are a sturdier frame than the awning poles. Against the JOYTUTUS it is a screen house, while the JOYTUTUS is a sleeping and privacy tent.\n\nFamilies that eat and relax at the back of the vehicle will use it most. A ground cloth, stakes and carry bag arrive in the box.",
     "specs": [
       "6 x 6 ft pop-up screen house",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dv4mhh+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRZ68W3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRZ68W3P?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS tailgate tent uses 150D polyester oxford with a PU2000 coating and adds a waterproof canopy that covers the car roof from the rear to the windshield. An expandable awning and breathable mesh round out the build.\n\nIt is the most car-integrated pick, built around upward-opening hatchbacks, SUVs, vans and MPVs with adjustable straps. Next to the VEVOR it covers the vehicle itself and installs in about 8 minutes, while the VEVOR is a free-standing screen house.\n\nDrivers who sleep in the back of an SUV and want privacy will like it. The package packs to 17.3 by 7.8 by 7.8 inches and includes two steel poles.",
     "specs": [
       "150D oxford, PU2000 coating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512V5DUtwsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ797MKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ797MKT?tag=rvgearlab-amz-20",
     "description": "The HipierFx is a 10 x 16 ft car side awning in 190T ripstop polyester with a silver PU coating rated to 3000mm and a UV50+ rating. Eight pulling points anchor the sheet, and the whole kit weighs about 2.5 kg.\n\nIt is the least expensive pick and carries a higher stated waterproof number than the JOYTUTUS. Compared with the GEERTOP, it covers less ground and does not list telescoping poles.\n\nBudget campers who want a car-side rain and sun shelter that also serves as a tarp should consider it. The listing names uses as a hammock fly, kitchen shelter and tent footprint.",
     "specs": [
       "10 x 16 ft, 3000mm coating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kijdyg6nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4QBC8RV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4QBC8RV?tag=rvgearlab-amz-20",
     "description": "The UNP cube tent is a 10 x 10 pop-up canopy attachment that uses a pole-and-clip system and mesh panels with adjustable vents. It adds an enclosed room to a canopy frame, and it is sold in grey and ocean blue.\n\nUnlike the GEERTOP and HipierFx, it is an enclosure rather than a roof, so it pairs with a canopy instead of a vehicle. It also differs from the VEVOR by working with the 10 x 10 frame you may already own.\n\nCar campers who already carry a 10 x 10 canopy get a sleep or changing room from it. Its mesh and vents help limit condensation.",
     "specs": [
       "10 x 10 canopy attachment",

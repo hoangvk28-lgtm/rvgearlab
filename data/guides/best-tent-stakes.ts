@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51csVX7rF-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JJSXGV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JJSXGV1?tag=rvgearlab-amz-20",
     "description": "The AAGUT set holds 25 galvanized steel stakes, each 9 inches long with a 6-gauge (5 mm) hexagonal rod and a no-slip hook. The listing says the thicker rod is 56 percent stronger than 4 mm steel.\n\nAgainst the KLASIT and Oligei 4 mm sets it is longer and thicker, so it sinks deeper and bends less. It also beats the 7-inch aluminum FANBX for depth of grip.\n\nIt suits a car camper pitching a big tent or a canopy in firm ground. Twenty-five stakes cover a family setup with spares.",
     "specs": [
       "9 inch, 6-gauge (5 mm) steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DyXGEzdML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BNHDN2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BNHDN2X?tag=rvgearlab-amz-20",
     "description": "The FANBX pack contains 12 aluminum alloy stakes, each 7 inches long with a 6 mm hexagon rod, a hook top and a stated weight of 16 g. The listing calls them corrosion resistant and made for pitching on hard ground.\n\nCompared with the AAGUT it is far lighter, and compared with the steel KLASIT and Oligei sets it is lighter again and keeps a thicker 6 mm rod. It carries a stated per-stake weight that the steel sets do not.\n\nIt suits a weekend camper who wants light, reusable stakes. A dozen is enough for a four-person tent plus guy lines.",
     "specs": [
       "7 inch, 6 mm hexagon rod",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kC2sTtCIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKB47Z5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKB47Z5V?tag=rvgearlab-amz-20",
     "description": "The KLASIT pack holds 20 rust-resistant metal stakes, each 7.1 inches long and 4 mm thick, with a curved hook top. The listing says the length gives deep penetration without being too long to carry.\n\nIt costs less than the AAGUT and FANBX packs and gives more stakes than the FANBX. The 4 mm rod is thinner than the AAGUT's 5 mm.\n\nIt suits a casual camper who needs many stakes at a low price. The curved hook pulls out easily.",
     "specs": [
       "7.1 inch, 4 mm metal",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RPZHTWEvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9MKJRMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9MKJRMK?tag=rvgearlab-amz-20",
     "description": "The Oligei set contains 17 galvanized steel stakes with a 4 mm thickness and a curved hook. The listing says the hook stops the stake sinking too deep and being hard to pull out.\n\nIt is the cheapest pack here and similar to the KLASIT in thickness. The listing also pitches it for gardens, canopies and holiday decorations.\n\nIt suits a camper who wants a spare set for the trunk. The galvanized finish keeps rust off.",
     "specs": [
       "17 stakes, 4 mm thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-oTt-lML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FKK298B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FKK298B?tag=rvgearlab-amz-20",
     "description": "The GDLPZM pack contains 24 yellow PP plastic stakes, each 9 inches (220 mm) long and 22 mm wide, with a hook top and a hard tip. The listing calls the plastic sturdy, lightweight and fade resistant.\n\nIt is the only plastic set here, where the others are steel or aluminum. A hole at the hook end makes the stake easy to pull by hand or with a hammer.\n\nIt suits a beach or lawn camper who does not want metal. Bright yellow makes them easy to see.",
     "specs": [
       "24 pieces, 9 inch plastic",

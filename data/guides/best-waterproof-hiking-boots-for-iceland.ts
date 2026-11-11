@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411o9VywVeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMKLCMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMKLCMV?tag=rvgearlab-amz-20",
     "description": "The Merrell Speed Strike 2 Thermo Mid is a waterproof boot with a membrane that seals out water and lets moisture escape, a coated leather and ripstop upper, and a coated leather heel and toe cap. A layer of 246 grams of lightweight synthetic insulation is built in for warmth.\n\nIt is the only hiking pick here with named insulation, which makes it the warmest of the group for chilly mornings. Merrell's sticky rubber outsole gives more grip on wet surfaces than the generic outsole on the NORTIV 8 Women's Waterproof.\n\nIt suits a woman planning cold, wet day hikes and wanting a light, low-bulk boot. The heel and toe protection takes scuffs from lava gravel.",
     "specs": [
       "Waterproof membrane, 246 g insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bb7XlNzbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWBZST2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWBZST2?tag=rvgearlab-amz-20",
     "description": "The Columbia Transverse Waterproof is built with Omni-Tech, a multilayer seam-sealed waterproof construction made for prolonged moderate rain and snow, along with Techlite cushioning and Omni-Grip traction. The upper is leather and mesh with metal hardware and a cushioned collar.\n\nOmni-Tech is named for rain and snow exposure, which is a closer match to Icelandic weather than the unnamed membrane on the ANJOUFEMME Mid-Cut. It costs less than the Merrell Speed Strike 2 Thermo.\n\nIt is a good match for a woman who faces drizzle and snow flurries on mixed ground and wants cushion that returns energy. The cushioned collar helps on long days.",
     "specs": [
       "Omni-Tech seam-sealed waterproofing",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410knL1bxfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KQVM48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KQVM48?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME is a mid-cut waterproof boot with a sealed membrane against rain, slush and mud, a structured heel and deep rubber lugs. A cushioned EVA midsole and reinforced stitching are named.\n\nThe structured heel and mid-cut give it more ankle hold on loose gravel than the Columbia Newton Ridge and the NORTIV 8 Women's Waterproof. It costs less than the Columbia Transverse.\n\nIt suits a woman crossing uneven lava or gravel paths who wants a boot that limits rolled ankles. The deep lugs help on slick ground.",
     "specs": [
       "Sealed waterproof membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HZsa+3SRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWHZ6P2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWHZ6P2?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Plus is a lace-up waterproof hiker with a full-grain leather and mesh bootie construction, a durable mesh tongue and a lightweight midsole. Omni-Grip includes a dual-zone winter tread pattern for surfaces such as snow and ice.\n\nThe winter tread is its distinction against the Columbia Transverse and the ANJOUFEMME Mid-Cut. The leather bootie build gives it a more traditional feel than the ripstop Merrell.\n\nIt suits a woman who expects snow patches and wet ground and prefers a classic leather hiking boot at a mid price. The lace-up closure lets her tune the fit.",
     "specs": [
       "Full-grain leather and mesh bootie",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YOEP61f3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCJ6G5D9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCJ6G5D9?tag=rvgearlab-amz-20",
     "description": "The HOBIBEAR is a winter snow boot, not a hiking boot, with a seam-sealed membrane, a faux fur collar, moisture-wicking fleece lining and leather-reinforced toe and heels. Traction-enhanced outsoles and an adjustable lacing system are named.\n\nIt is the warmest-feeling pick on paper, with fleece and faux fur that the other five boots lack. It is lighter on technical features than the Merrell Speed Strike 2 Thermo.\n\nIt suits a woman who wants a warm, waterproof boot for town walks, geysers and short outings, not long hikes. The pull-on cut makes it quick to take on and off.",
     "specs": [
       "Seam-sealed membrane bootie",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EWppSg6BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9JDR5MJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9JDR5MJ?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Waterproof is lined with a waterproof membrane under a soft suede upper trimmed in rubber, with a protective toe cap and a textured outsole for traction. The footbed has a heel cup and light arch support, and a padded collar sits at the ankle.\n\nIt is the least expensive pair and still offers a toe cap and padded collar, which the Columbia Newton Ridge does not list. It lacks the insulation of the Merrell Speed Strike 2 Thermo.\n\nIt suits a woman on a budget who wants a waterproof, cushioned boot for day hikes and travel days. The padded collar keeps the ankle comfortable.",
     "specs": [
       "Waterproof membrane lining",

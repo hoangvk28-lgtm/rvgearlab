@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413YmM+QvmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty kit for Toyota is the only listing here that bundles a controller with its wiring. It includes the Tow-Pro Liberty, a Toyota-suitable harness (TPH-015) and a switch insert, and the listing names Tundra 2015-2021 and Tacoma 2016-2023, with the 2022-2023 Tundra needing a different harness (TPH-021) and insert.\n\nCompared with every other pick here, it is a full install in one box rather than a part. The listing describes proportional braking, sway control and a two-year limited warranty.\n\nBest for Toyota Tundra and Tacoma owners within the listed years. Anyone else should treat it as a reference for what a real kit contains.",
     "specs": [
       "Proportional controller kit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Obm-45w+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKPTDCQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKPTDCQC?tag=rvgearlab-amz-20",
     "description": "The ATEM POWER kit is a trailer breakaway kit with a 12V 3Ah LiFePO4 battery, built-in solar panel and switch, not a brake controller. The listing says it activates trailer brakes if the trailer separates from the tow vehicle and describes color-coded cables for battery, brake and ground.\n\nIt does a different job from the others here: it is a separate safety system that sits beside a controller, not a replacement for one. It costs far less than the REDARC kit and stands apart from the harnesses below because it has its own power.\n\nBest as an add-on for an electric-brake trailer that needs a breakaway battery. Buy a real controller as well, since this does not replace one.",
     "specs": [
       "12V 3Ah LiFePO4 battery",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZGRIlKMDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q84L8B1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q84L8B1?tag=rvgearlab-amz-20",
     "description": "The CURT 51525 is a vehicle-specific quick-plug wiring harness with 12-gauge wire and a slit-loom sleeve, not a controller. The listing names select Cadillac, Chevrolet and GMC models, including Escalade and Silverado and Sierra 1500, 2500 HD and 3500 HD, by year.\n\nCompared with the CURT 51452 below, the two share the same description, and the difference is which year ranges each covers. It works with CURT controllers equipped with a quick-plug connector.\n\nBest for a GM owner whose year is on the 51525 list. Compare it to the 51452 year list before ordering.",
     "specs": [
       "Quick-plug GM harness",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M5Re4vEPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00H2WJ4OW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00H2WJ4OW?tag=rvgearlab-amz-20",
     "description": "The CURT 51452 is a sibling GM quick-plug harness with the same 12-gauge wire, slit loom and no-splice install. The listing names select Cadillac Escalade, Chevrolet Silverado, Suburban and Tahoe, and GMC Sierra and Yukon models by year.\n\nCompared with the CURT 51525 above, it is the same price and style but covers a different set of years. Next to the RED WOLF harness below, it is for GM instead of Dodge Ram.\n\nBest when your GM year is on the 51452 list rather than 51525. It does not contain a controller.",
     "specs": [
       "Quick-plug GM harness",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N0MYsb4tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GN6RSO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GN6RSO?tag=rvgearlab-amz-20",
     "description": "The CURT 51322 is a quick-plug harness for select Ford, Land Rover, Lincoln and Mercury vehicles, with the listing naming the Bronco, E-Series, Excursion, Expedition, Explorer, F150, F250 and F350 among others by year.\n\nIt costs less than the GM harnesses above and uses the same 12-gauge wire and slit-loom sleeve. Compared with the RED WOLF below, it is a CURT quick-plug design rather than a 4-pin adapter for a specific Tekonsha controller.\n\nBest for a Ford owner on the listed years. Check the year range carefully, since Ford connectors changed over time.",
     "specs": [
       "Quick-plug Ford harness",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XhcDxNFWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098QKV1MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098QKV1MW?tag=rvgearlab-amz-20",
     "description": "The RED WOLF harness is a 4-pin, 2-plug adapter for 1994-2009 Dodge Ram and related models, with the listing saying it works with Tekonsha 3020-P or P3 controllers. It plugs under the dash without cutting factory wire and is 31 inches long.\n\nCompared with the CURT 51322 above, it is for Dodge and Ram, and it uses pure copper wire with a protective outer layer. It costs a little more than the CURT 51322.\n\nBest for an older Dodge Ram owner using a Tekonsha-style controller. It is not a controller.",
     "specs": [
       "Dodge Ram 1994-2009 adapter",

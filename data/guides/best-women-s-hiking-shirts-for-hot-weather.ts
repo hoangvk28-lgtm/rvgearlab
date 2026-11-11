@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414L+wtmpRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSFKQ8XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSFKQ8XK?tag=rvgearlab-amz-20",
     "description": "The Toumett Safari Shirt is a long-sleeve button-up in lightweight polyester rated UPF 50+. It has a mesh-lined vented back, roll-up sleeves, two chest pockets and a sunglasses hanger loop.\n\nAgainst the G Gradual Hoodie, it adds back ventilation and sleeve conversion for hot climbs. Next to the TBMPOY Hoodie, it trades hood coverage for a collared button-up that opens at the chest.\n\nIt suits hikers who want one shirt that handles sun, sweat and a few small items. The roll-up sleeves convert it to short sleeves when the heat builds.",
     "specs": [
       "UPF 50+ polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lFOX-TKyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09R1JDM13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09R1JDM13?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Hoodie is a lightweight UPF 50+ hoodie with low profile thumbholes, flatlock seams and a no-tag collar. The fabric is described as wicking and quick-drying.\n\nCompared with the G Gradual Hoodie, it focuses on seams and a tagless collar for chafing. Against the Toumett, it covers neck and head with a hood.\n\nIt suits hikers who burn easily on neck and ears. Thumbholes extend coverage to the backs of the hands.",
     "specs": [
       "UPF 50+ hoodie",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318TvKSFYLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBMV1B8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBMV1B8?tag=rvgearlab-amz-20",
     "description": "The G Gradual Hoodie is a UPF 50+ hooded long-sleeve with a high-low hem, side slits, hidden thumbholes and a ponytail opening. The fabric is described as lightweight, soft and quick-dry.\n\nAgainst the TBMPOY, it adds a longer back hem and a ponytail opening for airflow. Next to the G Gradual Sun Shirt, it adds a hood for scalp coverage.\n\nIt suits hikers with long hair who want coverage plus airflow. The slits give room for movement on steps.",
     "specs": [
       "UPF 50+ hooded top",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RZmUEBv8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSDK8J2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSDK8J2B?tag=rvgearlab-amz-20",
     "description": "The G Gradual Sun Shirt is a UPF 50+ long-sleeve top with elastic thumbholes, a high-low hem and side slits. The listing describes the fit as relaxed and the fabric as lightweight and quick-dry.\n\nCompared with the G Gradual Hoodie, it drops the hood for a cooler neckline. Against the PINSPARK, it has a relaxed cut instead of a fitted one.\n\nIt suits hikers who want a cool, hoodless sun layer. The thumbholes keep sleeves in place.",
     "specs": [
       "UPF 50+ long sleeve",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DSUMh1unL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MR4LZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MR4LZW?tag=rvgearlab-amz-20",
     "description": "The PINSPARK V-Neck is a UPF 50+ long-sleeve top that blocks over 98 percent of UV rays, according to the listing. It has a collared V-neck, princess seams and a moisture-wicking, ultra-stretchy fabric.\n\nAgainst the G Gradual Sun Shirt, it is more fitted and stretchy. Next to the XIEERDUO Tee, it has long sleeves for more coverage.\n\nIt suits hikers who like a closer fit under a pack. The listing names running, hiking and gym as uses.",
     "specs": [
       "UPF 50+, blocks over 98% UV",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n2CXlOS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWRH5TZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWRH5TZN?tag=rvgearlab-amz-20",
     "description": "The XIEERDUO Tee is a short-sleeve workout top in 95 percent polyester and 5 percent spandex with UPF 50+ protection. It has a loose fit, a curved hem and side slits.\n\nCompared with the long-sleeve picks, it is the coolest option for walking in heat. Against the PINSPARK, it leaves arms exposed.\n\nIt suits short hikes and city walks where arms are shaded or sun-screened. The curved hem covers the hips.",
     "specs": [
       "95% polyester, 5% spandex",

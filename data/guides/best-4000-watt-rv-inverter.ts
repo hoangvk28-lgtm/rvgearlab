@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FaYrrIxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJRXDRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJRXDRP?tag=rvgearlab-amz-20",
     "description": "The DEECHI 4000W lists 4000W continuous and 8000W peak with a stated 93 percent conversion efficiency and low no-load losses. It has an LCD showing input and output voltage, output power, frequency and energy capacity, a 200ft wireless remote, and a noise-reduction design. Protections include under-voltage, over-voltage, overload, overheat, short circuit, reverse polarity and overcurrent, and it connects to 12V or 12.8V systems.\n\nIt ranks first because it is the cheapest at $174.99 and the only one that states an efficiency, which lets you estimate battery draw at about 358A at full load. It is $24.89 below the SUNWHEEL 4000W and $115 below the ROARBATT 4000W. The listing does not say whether the output is pure sine and does not give a warranty or surge duration.\n\nPick it if you want the lowest price and a stated efficiency. The caveat is the waveform wording, so confirm it before buying for sensitive electronics.",
     "specs": [
       "4000W, 8000W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SFXig8XDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5J32L13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5J32L13?tag=rvgearlab-amz-20",
     "description": "The ROARBATT 4000W is a pure sine inverter rated at 4000W continuous and 8000W peak surge, with an upgraded low no-load consumption described in the listing. Protections include over-voltage, low-voltage, overload, short circuit, overheat and grounding protection, and it comes with a clear LED display and a 4.5m (about 14.8ft) wired remote that shows input voltage and output status.\n\nIt ranks second because it states pure sine and true rated 4000W, and it is priced at $289.99, which is $115 above the DEECHI 4000W and $10 below the Jlouneo 4000W. It is also $90.11 above the SUNWHEEL, which comes with fuses and cables. The no-load figure is described, not quantified.\n\nChoose it if you want pure sine at a mid price and a remote you can reach. The caveat is the missing no-load number and surge duration.",
     "specs": [
       "4000W pure sine, 8000W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ErB8SKw6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXY9YFK?tag=rvgearlab-amz-20",
     "description": "The SUNWHEEL 4000W is a pure sine inverter with 4000W continuous and 8000W peak at startup, with an efficiency claim whose number is cut off. The package is unusually complete: four battery cables (two red, two black), two battery clamps, two clips, six fuses and an instruction manual. It has LED indicators for undervoltage, overvoltage, overheating, overload and short circuit.\n\nIt ranks third because it is $24.89 above the DEECHI 4000W and $90.11 below the ROARBATT 4000W. The fuses are the practical value: at about 333A, a fuse and cable are not afterthoughts. It does not describe a remote, a display or surge duration.\n\nPick it if you want the fuses and cables in the box and indicator lights suffice. The caveat is no remote or display.",
     "specs": [
       "4000W pure sine, 8000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fUof2h1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQKTCNF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQKTCNF1?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 4000W has an adjustable low-voltage shutdown from 9.5V to 11V, which lets you match the cutoff to LiFePO4, AGM or gel batteries. It delivers 4000W continuous and 8000W peak pure sine power, with four AC outlets, a USB port and a 30W Type-C port. The wired LCD remote shows battery input voltage, AC output voltage, load wattage, an estimated battery level and fault alerts.\n\nIt ranks fourth because at $339.99 it is $50 above the ROARBATT 4000W and $40 above the Jlouneo 4000W. The adjustable cutoff is the feature that justifies the premium: a lithium bank can run lower without a nuisance trip, but a lead-acid bank is protected by setting it higher. It is $79.96 below the Giandel 4000W.\n\nChoose it if the cutoff matters to your battery chemistry. The caveat is the price and that no surge duration is given.",
     "specs": [
       "4000W pure sine, 8000W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CjkPLSZpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT172B86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT172B86?tag=rvgearlab-amz-20",
     "description": "The Jlouneo 4000W is a pure sine inverter for 12V AGM, gel and LiFePO4 systems only, with two display screens, one on the unit and one on the remote, four AC outlets and a 5V/3.1A USB port. The listing stresses that it must be used with a 12V DC battery only, which avoids a common wiring mistake.\n\nIt ranks fifth because at $299.99 it costs $10 more than the ROARBATT 4000W and $40 less than the OLTEANP 4000W, with fewer stated features than either. The dual displays are useful when the unit is out of sight. It states no adjustable cutoff and no surge duration.\n\nPick it if the two displays suit your install. The caveat is thin documentation for the price.",
     "specs": [
       "4000W pure sine",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vUaOXu5NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG1GDZJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG1GDZJM?tag=rvgearlab-amz-20",
     "description": "The Giandel 4000W is the most feature-rich and priciest at $419.95. It is a patented pure sine design with 7000W surge for 2 seconds, a large LCD showing voltage, load, frequency and protection codes, dual remote control, GFCI outlets, and an aluminium housing instead of an ABS shell. The listing says the low-voltage protection value can be reset to suit the battery, and it works with LiFePO4 and lead-acid, with an all-insulated ring terminal cable.\n\nIt ranks last because it costs $244.96 more than the DEECHI 4000W and $79.96 more than the OLTEANP 4000W. It is the only one that gives a surge duration, 2 seconds, which is useful because it is honest but short, and the 7000W is lower than the 8000W claims on the others. GFCI outlets matter outdoors or in a damp bay.\n\nChoose it if GFCI and dual remotes matter and you want the surge stated. The caveat is price and the 2-second surge.",
     "specs": [
       "4000W, 7000W for 2 seconds",

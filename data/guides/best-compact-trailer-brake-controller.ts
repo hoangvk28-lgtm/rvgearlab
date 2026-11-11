@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fhKtKYusL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-amz-20",
     "description": "The CURT 51146 TriFlex Next is a proportional inertia controller with a slim, low-profile body and a bracket system aimed at better dash clearance. A triple-axis motion-sensing accelerometer drives the braking, and a third axis adjusts power on hills.\n\nIt ranks first because it pairs a slim body with the widest axle range in this list. The REDARC Universal below has a smaller dial but stops at two axles, and the CURT Venturer keeps a similar low profile while giving up proportional braking.\n\nBest for heavier travel trailers where dash space is tight. The title says 2-4 axles while the spec line says 1-4 axles, so confirm single-axle use with CURT before you buy.",
     "specs": [
       "Slim low-profile body",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RvQCXx1DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YK48XHT?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty Universal is a proportional controller for 1 to 2 axle trailers that mounts as a compact dash dial. The box includes a remote head assembly, knob, bezel and a 3 ft 3 in cable, so the dial can sit apart from the body.\n\nCompared with the CURT TriFlex above, it takes less dash room but supports fewer axles and needs a pigtail harness such as the TPH-025 or a vehicle-specific harness. Next to the REDARC Toyota Kit below, it is the one that fits many vehicles instead of two Toyota trucks.\n\nBest for light to mid-size single or tandem axle trailers in vehicles where only a small dial fits. Buy the harness at the same time, since the controller alone will not wire into your truck.",
     "specs": [
       "Proportional, 1 to 2 axles",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413YmM+QvmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9DQCS96?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Liberty Toyota kit is a proportional controller sold with a harness and switch insert for Tundra 2015 to 2021 and Tacoma 2016 to 2023. It lists a compact dash dial, Active Calibration and sway control.\n\nIt costs more than the REDARC Universal because the harness and insert come in the box, which removes the guesswork of matching parts. A 2022 to 2023 Tundra needs a different harness, TPH-021, and its own switch insert.\n\nBest for Toyota owners who want a no-splice install on a small dial. The listing excerpt does not state an axle count, so confirm that against your trailer first.",
     "specs": [
       "Fits Tundra 2015 to 2021",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Uhh3RfboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42KD16W?tag=rvgearlab-amz-20",
     "description": "The Orceed 90195 is a proportional controller listed as a replacement for the 90195 Prodigy P3 and rated for up to 4 braking axles. It describes a compact, dash-hugging body with an LCD that shows diagnostics, and a flashing red warning when no trailer brake is detected.\n\nIt costs far less than the CURT TriFlex and REDARC picks above, and keeps the axle range of the TriFlex. The tradeoff is that you rely on a third-party maker, and the listing itself asks you to verify the OE number and vehicle fit.\n\nBest for budget-minded owners of heavier trailers who still want a low-profile body. Check that your truck uses a two-plug connector, because the listing mentions an integrated port for 2-plug adapters.",
     "specs": [
       "Proportional, up to 4 axles",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NXn-L37lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-amz-20",
     "description": "The CURT 51116 Venturer Next is a time-delay controller with fully adjustable power and ramp time, rated for 1 to 3 axles and 2 to 6 brakes. It has a slim, low-profile body, the same bracket system for dash clearance, and no internal moving parts or leveling needed.\n\nNext to the CURT TriFlex above it has the same low profile but ramps to a set output instead of following your deceleration. It costs much less, and it is plug-and-play per the title.\n\nBest for lighter trailers and occasional towing where a predictable ramp is fine. Skip it if you tow a heavy tandem rig and want braking to follow how hard you stop.",
     "specs": [
       "Time-delay, adjustable ramp",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUC2xTNGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-amz-20",
     "description": "The Gihdfer Towpower 8507111 is a time-delayed controller with an LED display that shows braking force and an adjustable output. The listing calls the design compact and says the package holds the controller, a mounting bracket, six screws and instructions.\n\nIt is the cheapest pick here and the simplest, with no proportional sensing and no remote dial. Against the CURT Venturer it gives up the named axle range and brand support in exchange for a very low price.\n\nBest for a lightly loaded trailer when budget comes first. The listing excerpt does not state an axle count or include a wiring harness, so confirm both before buying.",
     "specs": [
       "Time-delayed, LED display",

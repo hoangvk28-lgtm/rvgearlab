@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CfL6xjmaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPB8CJW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPB8CJW5?tag=rvgearlab-amz-20",
     "description": "The Inspired Living pair charges by USB-C, a built-in solar panel or 3 AA batteries (not included), with a 1600mAh pack and up to 48 hours stated on a charge. A pop-up collapsible design with foldable handles gives 360 degree light, and the listing names an IPX55 waterproof rating.\n\nIt is the only pick with three separate power routes, which beats the USB-C-and-solar pairing of the Roxicosly 4-Pack and Mesqool 4-Pack. The IPX55 rating is also the highest stated weather rating here.\n\nIt suits tent campers and storm-prep kits that want power-source flexibility in a compact, collapsible body. A pair covers the tent and the table.",
     "specs": [
       "USB-C, solar and 3 AA",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N+rXFADJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCRM9BY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCRM9BY2?tag=rvgearlab-amz-20",
     "description": "The Mesqool four-pack gives each lantern a 1600mAh battery, an oversized solar panel and USB-C charging, with up to 35 hours stated. Each switches between lantern and flashlight modes and folds to palm size.\n\nIt matches the Roxicosly 4-Pack on pack size and charging, while stating a longer 35 hour runtime than its 30 hour figure. Compared with the Consciot 2-Pack, it offers twice as many lanterns for a similar price.\n\nIt suits a family that wants one light per tent, car and kitchen. The palm-size fold keeps all four in a drawer or a go-bag.",
     "specs": [
       "1600mAh, up to 35 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PDS93D4YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGNZWFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGNZWFG4?tag=rvgearlab-amz-20",
     "description": "The Roxicosly set includes four lanterns that each work as a lantern and a flashlight, with a pull-up lantern action and a single button for the flashlight. A 1600mAh battery gives up to 30 hours, charging by USB-C or a built-in solar panel.\n\nNext to the Mesqool 4-Pack, its single-button operation and pull-up design make it easier to use in the dark. It states a shorter 30 hour runtime than the Mesqool.\n\nIt suits households stocking a bedroom, kitchen, hallway and garage with the same simple light. The listing points to ease of use for seniors and kids.",
     "specs": [
       "Four lanterns, 1600mAh each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KOKSWPTzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-amz-20",
     "description": "The Consciot pair adds a front flashlight at 350 lumens on high and 120 lumens on low to a side lantern with a red light. A USB-C cable ships in the box, the pack works as a phone power bank and each unit weighs 0.76 pounds.\n\nIt is the only USB-C pick here with a true flashlight head, which the four-packs fold into a single lamp. Compared with the Inspired Living 2-Pack, it trades solar and AA backup for a stronger beam.\n\nIt suits families who want a pair of lights that can also walk the trail. The red light keeps night vision intact.",
     "specs": [
       "Flashlight 350 lm, lantern modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+WE-CNj4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLWP7JKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLWP7JKY?tag=rvgearlab-amz-20",
     "description": "The Chinshwehaw weighs 55 grams, less than 2 ounces with batteries, and recharges by USB-C from 0 to 100 percent in about 2 hours. It offers three warm brightness steps, a spring-loaded top hook and a shatterproof PC shade.\n\nIt is by far the lightest and smallest of the five, which the packs of larger lanterns cannot match. The three warm modes make it the cozier choice for a small tent.\n\nIt suits backpackers and festival-goers who want a tiny hang-anywhere light. The listing names a 300 lumen figure for tent brightening.",
     "specs": [
       "55 g, spring-loaded hook",

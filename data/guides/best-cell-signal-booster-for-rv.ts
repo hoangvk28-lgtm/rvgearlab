@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LQPSZn81L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-amz-20",
     "description": "The HiBoost Travel 3.0 RV Max is built around the way a camper actually uses a booster. It pairs a 180 degree foldable outdoor antenna with a 360 degree omnidirectional indoor antenna and a mobile app for setup and monitoring.\n\nAgainst the SignalBrick kit, it adds a folding bracket and a magnetic inside antenna, which makes roof, rack or pole mounting more flexible. It suits full time RVers and remote workers who park under trees or in height restricted lots and want whole rig coverage with the least guesswork.",
     "specs": [
       "180 degree foldable outdoor antenna",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qqOhZNl0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJGG1PNK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJGG1PNK?tag=rvgearlab-amz-20",
     "description": "SignalBrick sells a 5G, 4G LTE and 3G booster aimed at trucks and RVs, powered from a 12V DC cord. It supports several users at once, so phones, tablets and a data modem can all connect to the amplified signal.\n\nCompared with the HiBoost Travel 3.0, it trims the price a lot while keeping all carrier compatibility and a one person install. It is a strong fit for couples or families who travel together and want everyone on one amplified signal without paying flagship money.",
     "specs": [
       "5G, 4G LTE and 3G support",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wqIY6511L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHHBJGC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHHBJGC2?tag=rvgearlab-amz-20",
     "description": "The subroad vehicle booster is a 5G and 4G LTE kit for RVs, trucks, SUVs and off road rigs, and it ships with a high gain omnidirectional outdoor antenna. The listing calls it FCC certified and backs it with a 3 year manufacturer warranty plus 1 month free replacement.\n\nNext to the PRACOA, it puts the certification and warranty terms on the page, which is the clearest buyer protection in the mid price tier. Choose it when you want a plain vehicle booster with a stated FCC status and the longest coverage period on the page.",
     "specs": [
       "High gain omnidirectional antenna",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qs03KaHQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBR443S7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBR443S7?tag=rvgearlab-amz-20",
     "description": "The PRACOA is a 65dB high gain vehicle booster that supports all major U.S. carriers on 5G and 4G LTE. It is marketed for RVs, trucks, vans, travel trailers, motorhomes and boats, and it serves multiple phones and tablets.\n\nIt sits below the subroad kit on price while publishing a real gain number, which most rivals leave out. It works well for budget minded campers who spend most nights at moderate signal sites and want a stated gain figure.",
     "specs": [
       "65dB high gain",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M9Hig0FnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL68VH5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL68VH5X?tag=rvgearlab-amz-20",
     "description": "The Phonetone kit is sold for home, RV and metal buildings, with up to 70dB maximum gain and a 360 degree omnidirectional outdoor antenna. It lists FCC approval and operates on bands 2, 4, 5, 12, 13 and 17 with automatic gain control.\n\nIt is the cheapest here and the only one that spells out its band list, which helps when you compare it with your carrier. Pick it for seasonal campers or park models that stay put, where a lower cost fixed style kit is enough.",
     "specs": [
       "Up to 70dB maximum gain",

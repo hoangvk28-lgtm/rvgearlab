@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31P3KmLQD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWTP7LCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWTP7LCC?tag=rvgearlab-amz-20",
     "description": "The HydraPak SkyFlask Speed is a 350 ml handheld flask with an ambidextrous fit, an adjustable hand strap and a padded thumb loop. A leak-proof 42mm SpeedFill cap gives fast refill access at aid stations.\n\nIt is the best for quick refills, thanks to the 42mm opening that the Nathan bottles do not describe. It holds less than the Quick Grip Chill 17 oz.\n\nIt suits racers who refill at stations without breaking stride. The thumb loop frees the hand.",
     "specs": [
       "350 ml soft flask",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413ikQyIVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091BJYCV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091BJYCV9?tag=rvgearlab-amz-20",
     "description": "The Nathan ExoDraw and ExoShot 2.0 flask is a 14 oz handheld bottle with a push-pull Race Cap and a small stash pocket for essentials. The reflective silver finish helps with visibility.\n\nIt adds a stash pocket, which the Nathan Quick Squeeze listing does not mention, and holds more than the HydraPak. The listing says one size fits most.\n\nIt suits marathoners who want a gel or key pocket on the bottle. The Race Cap opens with a push and a pull.",
     "specs": [
       "14 oz handheld flask",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oQDUdfjfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09161TQVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09161TQVZ?tag=rvgearlab-amz-20",
     "description": "The Nathan Quick Squeeze Lite is a 12 oz double-wall insulated handheld bottle with an adjustable no-grip hand strap. The Push-Pull blast valve gives high flow while the strap keeps the bottle on your hand.\n\nIt is the only insulated bottle on the list, which keeps fluid cooler on warm race days. It holds 2 oz less than the ExoShot and has no stash pocket.\n\nIt suits runners who want cold water late in a race. The no-grip strap saves the hand.",
     "specs": [
       "12 oz double-wall insulated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S3ZAeE+vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06Y1G3MKG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y1G3MKG?tag=rvgearlab-amz-20",
     "description": "The Quick Grip Chill is a handheld with a 17 oz BPA-free soft flask, a fully adjustable hand strap with a thumbhole and a pocket for a phone smaller than 5.5 inches. It is made from nylon and polyester fabric.\n\nIt holds the most of the handhelds here and carries a pocket for keys and cash. The pocket fits only smaller phones.\n\nIt suits runners who want to skip the waist bag. The soft flask gets smaller as you drink.",
     "specs": [
       "17 oz soft flask",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4179PdMeg-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR8LKMVH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR8LKMVH?tag=rvgearlab-amz-20",
     "description": "The SWIFTVEST is a lightweight hydration vest with six pockets, a zipped waterproof phone pocket, reflective details and heat-dissipation zones. The title says it comes with a water bottle.\n\nIt is the only vest on the list and carries gels and a phone as well as water. It costs more than the soft flask handhelds.\n\nIt suits runners who want everything hands-free. The six pockets hold phone, keys and gels.",
     "specs": [
       "Vest with water bottle",

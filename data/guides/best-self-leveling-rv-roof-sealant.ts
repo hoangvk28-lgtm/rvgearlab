@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zUtkieFVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00G6KGPFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00G6KGPFM?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LSW-1 4-pack is a white self-leveling lap sealant that creates a secondary seal along roof edges, air vents, vent pipes and screw heads. The listing says it adheres to aluminum, mortar, wood, vinyl, galvanized metal, fiberglass and concrete, and is compatible with EPDM and TPO sheeting.\n\nAgainst RVSHARK 4 Pack, it costs more but is the established brand with named membranes. Against Dicor 501LST Tan, it is the white version in a four-tube pack.\n\nBest for owners who want a known brand across a whole roof. Buy tan separately if you need that color.",
     "specs": [
       "4-pack self-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yNJm315HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G634LDH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G634LDH5?tag=rvgearlab-amz-20",
     "description": "The RVSHARK 4 Pack self-levels within 30 seconds, stays flexible from -40°F upward and ships with replaceable nozzles and protective gloves. The listing says it bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood, and notes the bottle date is the production date.\n\nAgainst BEBOBLY, it adds gloves and nozzles but quotes no elongation. Against Dicor 501LSW 4-Pack, it is cheaper and lists more bonded surfaces.\n\nBest for a DIY roof reseal where gloves and nozzles are useful. Check the production date on arrival.",
     "specs": [
       "4-pack, 30 second leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qv3q3xRtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-amz-20",
     "description": "BEBOBLY RV Roof Sealant comes in four tubes and says it has over 300 percent elongation, so it should resist cracking from thermal expansion. The listing says it is non-shrinking and non-cracking, bonds to EPDM, TPO, PVC and aluminum, and is UV stable.\n\nAgainst RVSHARK 4 Pack, it quotes elongation but includes no accessories. Against LISRUX 12 Pack, it gives a better-documented four tubes at a lower price.\n\nBest for roofs that flex a lot. Elongation is a manufacturer figure.",
     "specs": [
       "4 tubes, over 300% elongation",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MyxrrPBUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-amz-20",
     "description": "LISRUX RV Roof Sealant is a 12-tube pack made for roof edges, vents and more, said to level within 30 seconds. The listing gives a -40°F to 200°F temperature range and calls the seal elastic and breathable.\n\nAgainst BEBOBLY 4 Packs, it gives three times the tubes at a higher price and names no roof types in the visible text. Against Dicor 501LSW 4-Pack, it is a bulk buy.\n\nBest for several rigs or a very large roof. Confirm membrane compatibility.",
     "specs": [
       "12-tube pack",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oroOMHpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-amz-20",
     "description": "The Lippert 5121 Alphathane is a self-leveling sealant for 5th wheels, travel trailers and motorhomes, listed for flat horizontal surfaces like a rooftop. It gives high-strength adhesion to wood, metal, glass and most roof materials, in beige, gray, almond and white.\n\nAgainst Dicor 501LST Tan, it offers more colors but a single tube. Against the 4-packs, it costs more per tube.\n\nBest for matching a colored roof. Check the exact membrane compatibility.",
     "specs": [
       "Self-leveling, flat surfaces",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CpQByKAAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HJ6Y05O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HJ6Y05O?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LST-1 is a 10.3 oz self-leveling lap sealant in tan, listed as working with EPDM, TPO and PVC membranes. It adheres to aluminum, mortar, wood, vinyl, galvanized metal, fiberglass and concrete, and is sun-ray stabilized.\n\nAgainst Dicor 501LSW 4-Pack, it is the tan color in a single tube. Against Lippert Alphathane, it names membranes but offers only tan.\n\nBest for tan roofs and trim. Buy more than one tube for a full roof.",
     "specs": [
       "10.3 oz tan self-leveling",

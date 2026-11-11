@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "AGEMORE lines this queen-size double with brushed flannel and covers it with a 210T high-count water-resistant polyester shell. The listing states a 32 to 59F design range, and zippers on both sides let it split into two singles.\n\nIts range starts closer to 30F than the TETON Mammoth's heavier build and gives more width than the VENTURE. The bag compresses tightly for storage and puffs up in use.\n\nA strong choice for couples who want flexibility between one big bag and two singles. The flannel lining feels warm against the skin.",
     "specs": [
       "Flannel lining, 210T shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4ToCwJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH sells this double with a stated 30 to 70F range, a water-resistant polyester shell, a two-way zipper and an included compression sack. The listing says it is sized for sleepers under 6 ft and carries a lifetime replacement guarantee.\n\nIts price is the lowest of the three, and it states the exact 30F lower end this guide targets. The 5 ft 11 in fit height is the limit, since the AGEMORE accepts taller sleepers.\n\nChoose it for average-height couples who want a low-cost double. The guarantee adds peace of mind.",
     "specs": [
       "30 to 70F stated range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413oLSXJNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0DOTWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0DOTWW?tag=rvgearlab-amz-20",
     "description": "TETON's Mammoth is a 0 degree double measuring 94 x 62 inches, with a poly-flannel lining, tubes against drafts at the zipper and shoulders, and a compression sack. It unzips on each side and across the bottom for easy access.\n\nIts 0 degree label gives the largest margin at 30F, and it offers the most room by far. The weight is higher than the AGEMORE and VENTURE, which suits vehicle camping.\n\nChoose it for couples who want a cushion of warmth and plenty of space. Plan on dedicated storage space.",
     "specs": [
       "0 degree label, 94 x 62 inch",

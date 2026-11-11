@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XuHN3wMNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1T4RTGR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1T4RTGR?tag=rvgearlab-amz-20",
     "description": "Sized for 4 to 6 people, the SHANQUAN measures 118 by 87 by 75 inches and weighs 27.1 lb. A 3-layer thickened one-piece PVC air column and a 3000mm waterproof rating back the four-season label, with two double-zipper doors and six two-layer mesh windows.\n\nAgainst the SANISANO it carries a stated PU number and a roomier 4 to 6 person interior. Compared with the Nidebur it is bigger and better documented, and it costs about 120 dollars more.\n\nIt suits families who want a documented four-season build and a stated weight. A pump valve system with separate inflate and deflate valves keeps packing simple.",
     "specs": [
       "118 x 87 x 75 in, 27.1 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iPHvmOHIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-amz-20",
     "description": "The SANISANO measures 118 by 83 by 77 inches and sleeps 4 in a compact layout or 2 to 4 adults with gear. It has a built-in stove jack for a wood stove sold separately, a stove fire mat in the kit and 420D Oxford fabric.\n\nAgainst the SHANQUAN it adds the stove jack and a taller 77 inch center, and it costs about 69 dollars less. Compared with the Nidebur it brings a stove-ready kit and a slower 15 minute inflation.\n\nIt suits campers who want to heat an air tent and receive the accessories in one box. The kit includes a pump, ground tarp, stakes, repair patches, seal tape and a storage bag.",
     "specs": [
       "118 x 83 x 77 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zojuiVB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHZP2LDW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHZP2LDW?tag=rvgearlab-amz-20",
     "description": "The Nidebur inflates in 2 minutes with a built-in automatic pump and uses 210D silver-coated Oxford fabric rated PU 3000+. Double-layer air columns and screen windows support a four-season design for 3 to 4 people.\n\nIt is the cheapest of the four and states the fastest inflation. Against the SHANQUAN it carries less detail, with no stated weight or size.\n\nIt suits two to four campers who want a quick pitch at a low price. A one-year quality assurance comes with it.",
     "specs": [
       "Auto pump, 2 minute inflation",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oeeX9Gk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-amz-20",
     "description": "The WaldWander is 15.75 by 11.81 by 7.2 ft and fits up to 12 people. A dedicated chimney window handles an outdoor stove, and an integrated PVC air column and hand pump set it up in 5 to 10 minutes.\n\nIt is the largest and the priciest here, at about 230 dollars above the SHANQUAN. Compared with the SANISANO it adds a middle curtain to split the space and a pressure-relief valve.\n\nIt suits large families or groups who want a heated shared tent. A PVC column repair kit and inner pockets come with it.",
     "specs": [
       "15.75 x 11.81 x 7.2 ft",

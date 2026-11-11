@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yeRB9j-XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKKW1CV6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKKW1CV6?tag=rvgearlab-amz-20",
     "description": "Amazon Basics prints 40F right in the title of this queen double, which makes it the closest literal match for the keyword. The shell is 100% polyester over a brushed tricot liner with hollow fiber insulation, and the bag measures 87 x 59 inches.\n\nNext to the Amazon Basics 35F Double, it is the longer bag and the one that fits sleepers up to 6 feet 3 inches. Extra webbing along the zipper keeps the pull from snagging, and the bag splits into two singles when you want one each.\n\nA clean choice for couples who camp in spring and fall and want a plain, reliable rating without extras. It comes with a stuff sack.",
     "specs": [
       "40F double, 87 x 59 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h6oreFEoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G63GF9HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G63GF9HR?tag=rvgearlab-amz-20",
     "description": "This Amazon Basics double carries a 35F rating on an 84 x 59 inch body with synthetic fill. Cross-bag stitching keeps the insulation from bunching, and integrated loops let you bundle it after use.\n\nAgainst the Amazon Basics 40F Double, it offers a five-degree lower rating at a slightly higher price, in a body that is three inches shorter. It also works as two blankets when fully unzipped, which the VENTURE 4TH and AGEMORE also allow in different ways.\n\nGood for couples whose camping season runs a little later into fall. It is machine washable and ships with a compression sack.",
     "specs": [
       "35F rated, 84 x 59 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4ToCwJQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081VYH9HR?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH states a 30 to 70F range for this 3-season double, so one bag spans cool nights and warm ones. The shell is water-resistant polyester, a two-way zipper adjusts airflow, and a compression sack is included.\n\nIt is the pick that states both ends of its range, where the Amazon Basics doubles print only one number. The brand adds a lifetime replacement guarantee, which neither of the Amazon Basics bags mentions.\n\nA fit for couples who camp across three seasons and want one bag for all of them. It suits campers up to 5 feet 11 inches.",
     "specs": [
       "30 to 70F stated range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "AGEMORE lines this double with brushed cotton flannel under a 210T water-resistant polyester shell. The listing gives a 32 to 59F design range, and both sides zip so the bag opens flat or splits into singles.\n\nWhere the Amazon Basics bags use a tricot liner, this one uses flannel, which feels softer against bare skin. It is also the priciest of the four, so the extra cost goes to the lining and the shell rating.\n\nA good match for couples who want a soft, homey bag for cabin trips and cool car camps. It compresses into its carry sack.",
     "specs": [
       "32 to 59F design range",

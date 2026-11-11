@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410jobCR5zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWSJNDKX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWSJNDKX?tag=rvgearlab-amz-20",
     "description": "The Renogy 100W kit includes a monocrystalline panel with 22.5 percent cell efficiency, a Wanderer 30A PWM charge controller, cables and Z brackets, and the listing says it generates an average of about 500 watt-hours a day depending on sun. The panel is certified to UL 61730, CSA C22.2 #61730 and IEC 61730 and 61215, withstands 2400 Pa wind and 5400 Pa snow loads, and has an IP65 junction box and IP67 connectors. It costs about $190.\n\nCompared with the ECO-WORTHY below it, the Renogy gives you half the wattage for the same money, and what the extra cost buys is the named certifications, a 10-year panel warranty with a 2-year controller plan and a controller with a Bluetooth port for the Renogy app through an optional module. That level of backing makes sense on a rig you rely on. Against the Much flexible kit below, the Renogy is a rigid panel with a higher claimed efficiency and a sturdier build.\n\nIt suits weekend and week-long truck camper owners who use around 500 watt-hours a day, buyers who want expansion up to 400W later, and anyone who values documented safety certifications on a roof-mounted panel.",
     "specs": [
       "100W monocrystalline, 22.5 percent cells",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY kit includes two 100W monocrystalline panels, a 30A PWM charge controller and plug-and-play cables on pre-drilled panel backs, and the listing claims a daily output of about 800 watt-hours under four hours of full sun. Each panel measures about 35.2 by 23.1 by 1.37 inches, the aluminum frame is rated for 2400 Pa wind and 5400 Pa snow loads, and the kit can be wired in series for 24V or in parallel for 12V. It costs about $190.\n\nCompared with the Renogy 100W kit above it, the ECO-WORTHY gives you twice the panel power for about the same price, with a stated size so you can check it against your roof before you order. Against the Renogy N-type pair below, it has a lower stated efficiency, 21.5 percent, and a 1-year support plan in place of a long warranty. The series or parallel choice gives flexibility, and a pair of smaller panels is easier to fit around vents than one large panel.\n\nIt works for truck campers with 800 watt-hours of daily needs, for owners who want to run a fridge or a small inverter, and for shoppers who want a complete kit at about $0.95 per watt.",
     "specs": [
       "Two 100W mono panels, 30A PWM controller",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-ZbnQDo3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG5TXGJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG5TXGJ3?tag=rvgearlab-amz-20",
     "description": "The Renogy N-type pair is two 100W panels with grade A+ cells, 16BB cell technology and a stated 25 percent conversion efficiency, which the listing says gives 20W more output than conventional PERC panels of the same size. A low temperature coefficient keeps output up in hot weather, degradation is listed at 1 percent or less in the first year and 0.4 percent per year after, and a 25-year 80 percent output figure is stated. It costs about $176.\n\nCompared with the ECO-WORTHY above it, the Renogy pair has higher stated efficiency, 25 percent versus 21.5 percent, and a long-term output commitment, but the listing describes the panels without the controller and cabling that the ECO-WORTHY kit includes. Against the Rvpozwer below it, the Renogy gives two 100W panels instead of one 200W panel, so it is easier to lay out on a small roof and to wire for the voltage you want.\n\nIt suits truck campers who park in hot desert sun, owners who plan to add their own MPPT controller and anyone who wants the best cell technology on a roof with little room.",
     "specs": [
       "Two 100W panels, 25 percent N-type cells",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ORok-agwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCFPS4C4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCFPS4C4?tag=rvgearlab-amz-20",
     "description": "The Rvpozwer is a single 200W N-type panel with a stated 25 percent conversion rate, sold with a 30A charge controller, 10 AWG solar cable and tray cable, and black Z brackets for about $130, which works out to roughly $0.65 per watt. The listing says it averages about 1,000 watt-hours of power per day depending on sun and includes usage precautions such as inspecting the panel every two weeks for debris.\n\nCompared with the Renogy N-type pair above it, the Rvpozwer is cheaper and arrives with a controller and cables, and it uses one 200W panel in place of two 100W panels, which means fewer connections and a simpler install. Against the ECO-WORTHY kit above, it lowers the cost by about $60 with a higher stated efficiency, while its single large panel takes a bigger continuous area of roof, and the listing gives no panel size in its main bullets.\n\nIt makes sense for truck campers with a clear stretch of roof, owners who want the lowest cost per watt in a full kit and anyone who wants fewer wires and brackets to manage.",
     "specs": [
       "Single 200W N-type panel, 25 percent efficiency",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EmX4FY9FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSBSTJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSBSTJQ?tag=rvgearlab-amz-20",
     "description": "The Much 100W is a monocrystalline flexible panel kit with a 30A controller, and the listing says it can be curved up to a 260 degree arc, weighs only 1.05 kg and is at least 70 percent lighter than traditional panels. It carries an IP67 junction box and connectors, a 5400 Pa snow load and 2400 Pa wind rating, an average of about 500 watt-hours per day depending on sun, and a price of about $76, or $0.76 per watt.\n\nCompared with the Renogy 100W kit above it, the Much weighs a fraction as much and bends to a curved camper roof or a cap with a rounded profile, at about $114 less. Against the rigid panels in the list, a flexible panel can be bonded flat to the roof, which saves bracket weight and wind drag. The listing notes it can be used in series or parallel with more panels, and that one panel suits a 12V system.\n\nIt suits truck campers with strict payload limits, rounded fiberglass roofs and owners who want a slim low-profile install and are happy with 100W of power.",
     "specs": [
       "100W flexible monocrystalline, 1.05 kg",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vS4n5-DjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6YWTLWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6YWTLWX?tag=rvgearlab-amz-20",
     "description": "The ECOBOSS is a 100W N-type monocrystalline panel with 16BB cell architecture and a stated 25.8 percent efficiency, certified by TUV to IEC 61215, IEC 61730 and UL 61730. It uses 3.2 mm anti-reflective tempered glass, a corrosion-resistant aluminum frame and an IP68 junction box, with a 2400 Pa wind and 5400 Pa snow rating, for about $60, the lowest price here at $0.60 per watt.\n\nCompared with the Much flexible kit above it, the ECOBOSS is a rigid glass panel with certification and a higher stated efficiency, and it costs about $16 less because it is sold as a panel without a controller. Against the Renogy 100W kit, the ECOBOSS gives you the certification at about a third of the cost, with the work of choosing and wiring your own controller falling to you. The low temperature coefficient helps in hot weather, and N-type cells are described as performing in mornings, evenings and cloudy conditions.\n\nIt suits DIY truck camper owners who already own a controller, anyone adding a second 100W panel to an existing system and shoppers who want a certified panel at the lowest cost.",
     "specs": [
       "100W N-type, 25.8 percent efficiency",

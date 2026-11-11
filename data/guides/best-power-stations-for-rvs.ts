@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall for power station for RV",
     name: "Jackery HomePower 3600 Plus Power Station",
     amazonQuery: "Jackery HomePower 3600 Plus Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Battery cycle claim: 6,000 cycles","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Battery cycle claim","value":"6,000 cycles"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option for power station for RV",
     name: "Jackery Explorer 1000 v2 Portable Power Station",
     amazonQuery: "Jackery Explorer 1000 v2 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option for power station for RV",
     name: "UDPOWER S1200 Portable Power Station 1200W (Surge 1800W)",
     amazonQuery: "UDPOWER S1200 Portable Power Station 1200W (Surge 1800W)",
-    amazonUrl: "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41UO-rypUVL._SL500_.jpg",
     specs: ["Continuous output: 1,200W","Surge output: 1,800W","Battery cycle claim: 500 cycles","Battery chemistry: LiFePO4"],
     specList: [{"label":"Continuous output","value":"1,200W"},{"label":"Surge output","value":"1,800W"},{"label":"Battery cycle claim","value":"500 cycles"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick for power station for RV",
     name: "BLUETTI Elite 300 Portable Power Station",
     amazonQuery: "BLUETTI Elite 300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
     specs: ["Capacity: 3,014Wh","Continuous output: 2,400W","Surge output: 4,800W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,014Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick for power station for RV",
     name: "EF ECOFLOW DELTA 3 Max Portable Power Station",
     amazonQuery: "EF ECOFLOW DELTA 3 Max Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FQV6LMVX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31hRboIX8pL._SL500_.jpg",
     specs: ["Continuous output: 3,400W","Runtime claim: Up to 1.13 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"3,400W"},{"label":"Runtime claim","value":"Up to 1.13 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -138,7 +138,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery HomePower 3600 Plus Power Station product page",
-    "href": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC portable generator safety",

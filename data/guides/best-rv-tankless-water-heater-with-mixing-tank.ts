@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rBX9Ry3gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDFDV7V4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDFDV7V4?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX RV Tankless Water Heater is a 65,000 BTU propane unit with a built-in mixing tank, a multi-stage burner and CSA and NSF certification. It lists ignition at ultra-low 0.5 GPM and up to 3.9 GPM output for simultaneous use.\n\nIt is the pick for boondocking, since the 0.5 GPM startup saves propane and fresh water. It performs at 9,800 feet per the listing.\n\nBest for boondockers who want low-flow ignition and a certified buffer. It also suits families.",
     "specs": [
       "Built-in mixing tank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LPYuwo-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7H173GN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7H173GN?tag=rvgearlab-amz-20",
     "description": "The Ranein RV Tankless Water Heater (RA65LH) is a CSA 65,000 BTU unit claimed at 3.9 GPM with a thermostatic mixing chamber that balances heat output. It fits a 12.8 by 12.8 inch opening and replaces most Suburban and Atwood 6, 10 and 12 gallon heaters.\n\nA multi-function remote shows gas use, voltage, flow and anti-freeze status, which no other pick lists. Compared with the AVOYTE, it adds that remote.\n\nA great pick for owners who want data from a remote. It also suits standard cutouts.",
     "specs": [
       "Thermostatic mixing chamber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LN1-yaERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDR6N64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDR6N64?tag=rvgearlab-amz-20",
     "description": "The AVOYTE RV Tankless Water Heater has a 16.9 oz built-in mixing tank and a 65,000 BTU burner claimed at up to 3.9 GPM. It is CSA certified with seven safety protections and rated for 9,800 feet.\n\nIt costs about $280, well below the CAMPLUX and Ranein, and lists anti-freeze protection. The mixing tank buffers overcooled or overheated flow.\n\nBest for budget buyers who want a real mixing tank. It also suits cross-country travelers.",
     "specs": [
       "16.9 oz mixing tank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z3RFlN4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C4Q8RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C4Q8RQ?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 9 Pro is a third-generation tankless heater with a built-in mixing tank, 66,000 BTU and up to 3.6 GPM. The listing says it runs at altitudes up to 9,800 feet and holds temperature within plus or minus 1 F.\n\nIt includes a 150 PSI pressure relief valve and a 13 by 13 inch opening that can replace Suburban and Atwood heaters. It is the premium priced pick here.\n\nBest for buyers who want tight temperature control. It also suits high-altitude travelers.",
     "specs": [
       "66,000 BTU, 3.6 GPM",

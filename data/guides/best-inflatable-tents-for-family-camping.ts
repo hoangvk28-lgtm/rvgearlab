@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oeeX9Gk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYFGQB1R?tag=rvgearlab-amz-20",
     "description": "The WaldWander is an 8 to 12 person inflatable family tent measuring 15.75 ft by 11.81 ft by 7.2 ft. An integrated PVC air column and a hand pump take the place of poles, and a middle curtain can divide the interior.\n\nIt costs less than the BravArrk, and the listing adds a pressure-relief safety valve and a PVC repair kit. A dedicated chimney window handles a stove.\n\nChoose it for a large family that wants a roomy interior and a quick 5 to 10 minute setup. The door curtain opens fully to both sides for easy gear loading.",
     "specs": [
       "8-12 person, 15.75 x 11.81 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uO65bbPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-amz-20",
     "description": "The BravArrk offers 129 sq ft of floor, listed as 157 by 118 by 79 inches for 8 to 12 people. It uses high-density Oxford with PU3000mm waterproofing and UPF30+, integrated PVC air beams and a stove jack for cold weather.\n\nIt is the priciest of the six and sets up in 7 minutes. Against the WaldWander it has a smaller floor and a documented waterproof rating, and a panoramic PVC skylight is sewn into the roof.\n\nIt suits families who want a documented shell and an anti-condensation ventilation setup. The skylight brightens the interior in daytime.",
     "specs": [
       "8-12 person, 129 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CFWG7OSJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H71D83F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H71D83F8?tag=rvgearlab-amz-20",
     "description": "The WildFinder uses 420D Oxford with PU3000mm waterproofing and UPF30+ protection, TPU air beams with dual valves and a built-in stove jack. A panoramic PVC skylight with an optional privacy cover stretches across one side of the roof.\n\nIt sits between the BravArrk and the FUNWAKE on price and sets up in about 5 minutes without poles. Against the FUNWAKE it uses a PVC skylight while the FUNWAKE uses TPU, and both list dual doors and mesh windows.\n\nIt suits families who want a hot tent with a skylight at a mid price. Dual doors and mesh windows give 360 degree airflow.",
     "specs": [
       "420D Oxford, PU3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p8Z2xKFLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLX33K5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLX33K5Z?tag=rvgearlab-amz-20",
     "description": "The FUNWAKE uses TPU air tubing, which the listing calls non-toxic and recyclable, in place of PVC. It has 420D Oxford with PU3000mm, UPF50+, a TPU skylight with a privacy cover and a stove jack.\n\nIt is the third-cheapest of the six and sets up in about 5 minutes with dual valves. Against the WildFinder it lists UPF50+ and TPU tubing, along with two mesh doors and four mesh windows.\n\nIt suits families who want a TPU frame and a skylight at a low price. Mesh doors and windows keep the 360 degree airflow.",
     "specs": [
       "TPU air beams, TPU skylight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514GmtcGdxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6Y3CXVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6Y3CXVN?tag=rvgearlab-amz-20",
     "description": "The KAI-ROAD is a 4 to 6 person inflatable with a 118 by 83 inch floor, a 78 inch center and 68 sq ft of space. It uses 420D Oxford, PU3000mm+ waterproofing, a waterproof floor and four two-way zippers to adjust a skylight with a blackout layer.\n\nIt has the most adjustable light control of the six, and a flame-retardant stove panel that you trim to fit your pipe. Against the Wixeeua it adds a waterproof floor and an adjustable skylight, at a higher price.\n\nIt suits families of four who want light control and a hot tent. One person can raise it in about 5 minutes.",
     "specs": [
       "4-6 person, 118 x 83 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fnst9QfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-amz-20",
     "description": "The Wixeeua is a 4 to 6 person inflatable with 67.8 sq ft and a 6.5 ft center. It uses 420D Oxford with 3000mm waterproofing, a PVC skylight with a zip-closed opaque curtain and a built-in stove jack.\n\nPriced below every other tent in the group, it matches the KAI-ROAD on sleeping capacity and gives fewer floor details. The listing says it fits 4 comfortably and 6 with sleeping bags and gear.\n\nIt suits families of four who want an inflatable on a budget. The 5 minute setup uses a pump and needs no poles.",
     "specs": [
       "4-6 person, 67.8 sq ft",

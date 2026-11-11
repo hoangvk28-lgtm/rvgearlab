@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S2mvrFTSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVC9Z3YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVC9Z3YY?tag=rvgearlab-amz-20",
     "description": "The HLITMOUT is a rectangular down bag measuring 90.55 by 39.37 inches, filled with 1.76 lb of 680FP duck down. The rectangular cut fully unzips so the bag can be used as a blanket or comforter.\n\nIt is the widest bag here, nearly six inches wider than the SYWSKW's 33.5 inch shoulder cut, and it carries the same 680 fill power as that bag. A rectangular shape trades the warmth of a mummy for freedom of movement.\n\nIt suits large or restless sleepers who want down insulation without feeling squeezed. The unzip-flat design helps in warmer weather.",
     "specs": [
       "90.55 x 39.37 inch XXL",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQz+-szAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TWHJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TWHJ9?tag=rvgearlab-amz-20",
     "description": "The SYWSKW uses 680FP RDS certified duck down in an 86.6 by 33.5 inch cut that widens the shoulders. The listing says it compresses to roughly 7.08 by 11.80 inches and includes an integrated 80 g detachable pillow.\n\nIt packs far smaller than the rectangular HLITMOUT, and it offers three fill weights, from 1.1 lb for three or four seasons to heavier versions for colder trips. YKK zippers and reflective drawcords round out the details.\n\nIt suits backpackers who want a bit more shoulder room without giving up packability. The pillow saves packing a separate one.",
     "specs": [
       "86.6 x 33.5 inch cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M6fNGuJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWN99ZJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWN99ZJX?tag=rvgearlab-amz-20",
     "description": "QEZER fills this XL bag with 800 g of 600 fill power down inside a 40D high-density nylon shell. A hat drawstring, a two-way zipper and inside pockets are listed, and the bag can be spliced to a second QEZER bag.\n\nIt has the lowest fill power in the group and the lowest price, so it is the budget route into down. The tougher 40D shell stands up better than the thinner fabrics used by lighter bags.\n\nIt suits larger campers who want a heavy-duty, joinable down bag at a modest price. Pair it with a second bag for a couples setup.",
     "specs": [
       "800 g of 600FP down",

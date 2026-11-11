@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xOH7epGGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJVHTFY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJVHTFY7?tag=rvgearlab-amz-20",
     "description": "The WZRELB 800W is a pure sine inverter with dual AC outlets, an LED display and soft start, measuring 10.1 by 3.8 by 2.5 inches and weighing 2.64 lb. At $75.99 it is small enough to tuck in a tongue box or cabinet and clean enough for laptops, TVs and CPAPs.\n\nIt is $79.01 under the TVNIKD 2500W and $6.00 more than the OLTEANP 1000W. The extra six dollars buys pure sine output, which the other low-cost units do not clearly list. Pick this if your trailer loads are electronics. Caveat: 800W will not run a microwave, and its idle draw is not listed.",
     "specs": [
       "800W pure sine wave",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iXQ6oro1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8T8Q92V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8T8Q92V?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 1000W gives 1000W continuous and 2000W peak with six safety protections, a temperature controlled fan and an LCD showing voltage and battery state. At $69.99 it is the cheapest unit here and designed for car, truck and camping use.\n\nIt is $6.00 under the WZRELB 800W and $85.01 below the TVNIKD 2500W. You gain 200W of capacity over the WZRELB but the excerpt does not state a pure sine waveform. Pick this if you run a coffee maker or small appliance and want to spend little. Caveat: waveform and dimensions are not stated.",
     "specs": [
       "1000W, 2000W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "The TVNIKD 2500W has three AC outlets, a 2A USB port, an updated LCD, ten 30A built-in fuses and three cooling fans. At $155 it is the only pick here with enough capacity for a microwave or small air fryer in a travel trailer.\n\nIt costs $79.01 more than the WZRELB 800W and $85.01 more than the OLTEANP 1000W. The jump is for the capacity and fuse set. Pick this if you want kitchen loads from the trailer battery. Caveat: at 2500W it draws about 208 amps from 12V, which a single tongue battery cannot sustain, and the excerpt does not state waveform.",
     "specs": [
       "2500W, 3 AC outlets",

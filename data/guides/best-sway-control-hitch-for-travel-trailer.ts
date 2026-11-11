@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BDM4HumbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005SB6S3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005SB6S3Y?tag=rvgearlab-amz-20",
     "description": "The Camco Eaz-Lift Elite is a 1,000 lb weight distribution kit with manually adjusted sway control, and the listing states 1,200 lb tongue weight and 12,000 lb gross trailer weight ratings. It arrives ready to tow, with a 2-5/16 inch hitch ball and sway control ball already installed and torqued, plus U-bolts and a chain package.\n\nIts sway control clamps on and adjusts by hand, and it can be disengaged when you do not need it, which sets it apart from the fixed-bracket FAHKNS 14K Kit. It also costs noticeably more than the Dollate Kit, and the premium buys the ready-to-tow assembly and the clearer ratings.\n\nBest for travel trailer owners who want to adjust sway resistance by feel and back into campsites without fuss. Skip it if you want a lower-cost option and are comfortable doing your own ball setup.",
     "specs": [
       "1,200 lb tongue weight rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21TrMy3EWUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41PWBVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41PWBVX?tag=rvgearlab-amz-20",
     "description": "This FAHKNS hitch lists towing capacity up to 14,000 lbs with tongue weights up to 1,200 lbs. The ball on the head is pre-installed, and the square shank has holes for quick height adjustment.\n\nIt matches the Camco Elite Kit on tongue weight but states a higher towing capacity than the Camco's 12,000 lb gross rating, at a much lower price. What it lacks is the Camco's on-off clamp style sway control, so check how the supplied sway bar attaches.\n\nA strong value for owners of larger travel trailers whose numbers sit near the upper end. Verify that the stated capacity covers your loaded weight, not just your dry weight.",
     "specs": [
       "Up to 14,000 lbs towing",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21jppVXhxpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-amz-20",
     "description": "The Dollate kit is a weight distribution hitch with a sway control bar, a pre-installed ball on the head and a square shank with 6 adjustment holes. The listing describes spring bars that counteract sway during towing and an anti-rust finish.\n\nIt costs less than the Camco Elite Kit and a bit more than the FAHKNS 14K Kit, and the listing gives less rating detail, so you should confirm tongue and trailer limits before checkout. The shank layout is the same style as the FAHKNS, so the practical difference is in the capacity numbers.\n\nGood for a lighter travel trailer when your loaded numbers are modest and you want a full kit below the Camco price. If you tow close to a rating limit, step up to a kit with clearer stated limits.",
     "specs": [
       "6-hole square shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ISaUYtH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-amz-20",
     "description": "This Camco Eaz-Lift sway control is an add-on for Eaz-Lift hitches with adjustable sway control, made for the driver side of the trailer. It uses double friction pads for constant reduction and can be turned completely off.\n\nCompared with the Nilight Kit, it is explicitly tied to Eaz-Lift hitches, so it suits owners who already run one. It also costs more than the Nilight, and the extra goes toward brand-matched fit.\n\nIdeal if you tow with an Eaz-Lift hitch and want to add or replace sway control. If your hitch is a different brand, check fit before ordering.",
     "specs": [
       "Double friction pads",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zupLuNYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJVVLLQK?tag=rvgearlab-amz-20",
     "description": "The Nilight kit is an adjustable sway control with on-off control and double friction pads. It includes a slide bar, crank handle, spring clips, friction plate, tongue ball plate, self-tapping screws and a tongue ball.\n\nIt is cheaper than the Camco Screw-On and describes a wide range of adjustability for various trailer weights, but it does not say it is made for a specific hitch. That broader pitch means you must confirm your hitch has a compatible mount.\n\nA budget way to add a friction bar to a hitch that lacks sway control. The caveat is that it is an accessory, so it does not give weight distribution.",
     "specs": [
       "On/off friction control",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CQxs42AUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQCF2JRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQCF2JRG?tag=rvgearlab-amz-20",
     "description": "This hoylty pack of 4 sway control pins is 5/32 inch by 2-7/8 inch zinc-plated steel and is listed as compatible with JR Products 01004. It is the clip-style pin for the load bar.\n\nIt is the smallest purchase here and the only one that is purely a spare, so it ranks last against the Nilight Kit, which at least adds working sway control. The listing says it fits most sway control bars, so check the pin diameter against your own.\n\nWorth a few dollars as a spare when you have a sway bar already. It does not reduce sway by itself.",
     "specs": [
       "5/32\" x 2-7/8\" pins",

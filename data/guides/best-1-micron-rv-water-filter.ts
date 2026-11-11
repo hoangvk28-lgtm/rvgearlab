@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CejfEibJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-amz-20",
     "description": "The SpiroPure SP-RV100 is a multi-stage inline filter whose listing describes a 1 micron sediment stage and German-made catalytic carbon. It also includes a heavy-duty hose protector and standard 3/4 inch garden hose thread.\n\nCompared with the FRIZZLIFE MV99, it states 1 micron directly while the Frizzlife steps down to 0.5 micron media. It also doubles as a salt-free descaler stage, which the cartridge-only picks do not offer.\n\nBest for travel-trailer owners who want a complete, ready-to-connect filter at the 1 micron mark. The included hose protector helps protect the spigot connection over a long stay.",
     "specs": [
       "1 micron sediment filter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Zhs85+uqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JZT848D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JZT848D?tag=rvgearlab-amz-20",
     "description": "The RV Water Filter Store pair is a set of 100 percent polypropylene sediment cartridges rated 1 micron and described as NSF/ANSI 61 and 372 certified. The listing names compatibility with the Essential RV water filter system.\n\nUnlike the SpiroPure SP-RV100, this is a refill, so it only makes sense when you already own a matching housing. In return, you get the deepest sediment capacity on the list thanks to the polypropylene media.\n\nA fit for RVers with an Essential-style housing who want a documented 1 micron element on hand. Keeping a spare pair on the shelf cuts changeover to a minute.",
     "specs": [
       "1 micron polypropylene media",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41InXGLnDfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-amz-20",
     "description": "The FRIZZLIFE MV99 is an inline hose filter certified by IAPMO R&T against NSF/ANSI 42 and 53, with a composite carbon block rated 0.5 micron. Solid lead-free brass fittings and an included holder for upright use come in the box.\n\nNext to the SpiroPure SP-RV100, it goes a half-step finer than 1 micron and carries named certifications. Its larger body is aimed at longer service life and quick flow.\n\nA strong all-round pick for campers who want a certified, finer-than-1-micron filter with durable fittings. The brass fittings also suit people who connect and disconnect often.",
     "specs": [
       "Certified NSF/ANSI 42 and 53",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH two-pack uses GAC and KDF media in food-grade plastic housings, each fitted with a flexible hose protector. The listing reports independent lab verification of 97.9 percent chlorine reduction.\n\nIt is simpler than the SpiroPure SP-RV100 and works as a taste-and-chlorine filter rather than a fine sediment one. The hose protectors are a real plus at the spigot.\n\nRight for campers who want a cheap everyday filter and a spare for the glove box. The second filter is a ready spare for the next leg of the trip.",
     "specs": [
       "GAC and KDF media",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UL38QymiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JH22Q8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JH22Q8R?tag=rvgearlab-amz-20",
     "description": "The CFS kit pairs a 5 micron 2.5 by 10 inch sediment cartridge with a 0.5 micron carbon block, built to refit Clearsource Premium systems. The second stage targets chlorine, volatile organic compounds and cysts per its listing.\n\nIt is the finest-staged option here, and it is a refill rather than a complete filter like the SpiroPure SP-RV100. Both cartridges drop into the existing Clearsource housings without tools.\n\nA sensible buy for Clearsource owners who want to stay at or below 1 micron on the carbon stage. Fitting both stages together keeps the system running as designed.",
     "specs": [
       "5 micron sediment stage",

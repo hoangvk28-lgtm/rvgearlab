@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cSOsaXraL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0827J5ZNF?tag=rvgearlab-amz-20",
     "description": "The MOON LENCE is a 3 to 4 person pentagon-cabin tent that measures 114.2 by 121.3 by 52.4 inches, and a quick-pop mechanism sets it up in about ten seconds. It has four large mesh windows, a D-shaped mesh door and 190T UV-resistant PU fabric with a detachable rainfly.\n\nCompared with the Rivenlo Tent and Londtren Tent it offers the largest stated floor by far. Its quick-pop frame also opens in seconds.\n\nIt suits trios who want to stretch out, plus kids or a dog, in a backyard or car-camping setting. The pentagon shape makes the floor easy to arrange.",
     "specs": [
       "114 x 121 x 52 in pentagon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GmTlA9oeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWZ6HYL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWZ6HYL3?tag=rvgearlab-amz-20",
     "description": "The Profirive 3 person tent uses an 8.5mm spring-loaded fiberglass frame and 190T polyester with a PU 1500mm coating. Its 150D Oxford groundsheet is rated PU 2000mm, and the dome measures 210 by 185 cm inside with a top height up to 160 cm.\n\nIt is the only pick here that names both a coating rating and a groundsheet rating, and its 160 cm peak is the tallest. B3 fine mesh blocks insects and keeps air moving.\n\nIt suits campers who want a stated rain spec and room to sit up at the lowest price. The spring frame keeps pitching fast.",
     "specs": [
       "210 x 185 cm interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-SB66U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-amz-20",
     "description": "The Londtren has a 9.2 by 6.6 ft floor and a 4.3 ft center height, and it sleeps three or four in bags. Mesh doors at both ends can be closed with nylon for privacy, and a vestibule keeps muddy shoes outside.\n\nIt uses 190T polyester with a 110G PE groundsheet. Compared with the Rivenlo Tent it adds the vestibule, and the Profirive Tent offers a taller roof.\n\nIt suits families who want a dedicated spot for muddy shoes and a classic green pop-up. The mesh doors at both ends help airflow.",
     "specs": [
       "9.2 x 6.6 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i8mZje6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-amz-20",
     "description": "The Rivenlo is a 2 to 4 person tent with a 9.5 ft by 6.6 ft floor and a 4.3 ft ridge, plus an overhead skylight and a removable waterproof rainfly. Four mesh windows and two doors provide cross-ventilation, and the outer layer can be closed for cold nights.\n\nCompared with the Londtren Tent it adds a skylight, and it costs less. The HUI LINGYANG Tent shares a similar floor and has fewer features.\n\nIt suits stargazers who want to see the sky from the sleeping bag. The outer layer closes up for chilly nights.",
     "specs": [
       "9.5 by 6.6 ft floor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sR+ReqLOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ6WCRN?tag=rvgearlab-amz-20",
     "description": "The HUI LINGYANG is a 4 person tent with a 9.5 by 6.6 ft floor and a 52 inch center height. It has two doors, four mesh windows with double panels and taped seams.\n\nIt is cheaper than the Londtren Tent while giving a similar floor. The listing says it stays dry in light rain.\n\nIt suits budget groups who camp in fair weather. Its double-panel windows add privacy.",
     "specs": [
       "9.5 x 6.6 ft, 52 in high",

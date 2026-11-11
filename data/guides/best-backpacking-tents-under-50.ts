@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a freestanding two-person tent that weighs 5.33 lb complete and 4.38 lb at minimum trail weight, with the fly, inner and poles only. Two aluminum poles, a polyester fly, a bathtub-style floor and a PU5000 coating make up the shell.\n\nIt is the only pick with aluminum poles and the only one that carries two people for the price. The Sutekus Solo is lighter on paper, yet it leaves out the second sleeper and a rain fly.\n\nPairs of hikers who want a real backpacking tent without a gear-store budget will like it. A double-layer design lets you leave the fly off for clear nights.",
     "specs": [
       "4.38 lb minimum trail weight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHXwNqr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-amz-20",
     "description": "The Sutekus is a one-person tent that weighs 3 lb, built from 180D Oxford in a camouflage print. It comes with a pair of poles, four pegs and a stuff sack, and has a single entrance.\n\nAt 3 lb it is the lightest shelter here by a full pound against the Clostnature 2P Ultralight. Its single-person design and basic frame are what make that weight possible.\n\nSolo hikers, hunters and fishermen who want to disappear into the brush will value the print. It is also a handy emergency shelter to keep in a vehicle.",
     "specs": [
       "3 lb, 180D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a 4.4 lb dome with a PU3000 polyester shell and fully taped seams. Its fiberglass poles wear protective cases, and the packed bag is about 16.5 inches long.\n\nIt adds seam taping that the Sutekus lacks, with a bit more room than the one-person camo tent. Compared with the Clostnature it uses fiberglass instead of aluminum, which lowers the price.\n\nIt suits one hiker with a little extra space or two small sleepers on short trips. The pole cases protect hands and fabric when you set it up.",
     "specs": [
       "4.4 lb, PU3000 polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y-QrZKbBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYGMHP2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYGMHP2V?tag=rvgearlab-amz-20",
     "description": "The ShinHye is a one-person backpacking tent at 3.9 lb with a D-shaped door that has breathing holes. A TC cotton roof helps regulate temperature, and metal stakes and cables secure it against wind.\n\nIt is one of the few tents here with two doors, giving a way out on either side. Against the Night Cat 1-2 Person it adds a cotton-blend roof and loses the taped seams.\n\nIt suits hikers who sleep in warm and cool conditions and want better airflow than a plain polyester shell. The metal stakes and cables help in gusty campsites.",
     "specs": [
       "3.9 lb, D-shaped door",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wj05iY3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a one-person trekking pole tent that stands on hiking poles or a branch measuring at least 46 inches. It has a net and fabric double-layer door and a side mesh vent window.\n\nIt drops the weight of dedicated poles, which no other tent here can do. The tradeoff against the Clostnature is no freestanding frame, so you need stakes and good ground.\n\nHikers who already carry trekking poles will get the most from it. The double door keeps bugs out while the fabric layer blocks wind.",
     "specs": [
       "Trekking pole design, 1 person",

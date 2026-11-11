@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ML--iW4VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PF5VCMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PF5VCMH?tag=rvgearlab-amz-20",
     "description": "Everbeam H6 Pro is a 650 lumen headlamp that reaches a tested 126 m. It has five modes, a motion sensor you operate by waving a hand, a 1200mAh built-in battery and an IPX4 weather rating.\n\nAt about $19 it sits at the top of the range and costs $11 more than the VAVOFO 500. It offers the most polished feature set of the six, with 6.5 hours on white light and 2.5 hours on high.\n\nIt suits campers who need a hands-free switch with muddy or gloved hands. The red mode saves night vision.",
     "specs": [
       "650 lumens, 126 m beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41erQ1zdOFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-amz-20",
     "description": "VAVOFO is a 500 lumen rechargeable headlamp with a 100 m reach and a zoom from a 5 degree spot to a 120 degree flood. It has a red light, stepless dimming and an IPX4 rating.\n\nAt about $8 it is the cheapest pick, and the Everbeam H6 Pro costs more than twice as much. It has a small 500mAh battery that runs 3 to 7 hours.\n\nIt suits a campsite headlamp for cooking and walking to the toilet. The zoom changes with the task.",
     "specs": [
       "500 lumens, 100 m reach",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvXVMkIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-amz-20",
     "description": "The Energizer pack contains two headlamps that each deliver 260 lumens and an 80 meter beam. Three modes with 10 to 100 percent dimming cover spot and wide light, and an IPX4 rating handles light rain.\n\nAt about $15 it costs $7 more than the VAVOFO and gives you two lamps, and each runs on AAA cells you can swap anywhere. Each lamp has less light than the VAVOFO.\n\nIt suits a pair of campers or a lamp plus a backup. AAA cells never need a power outlet.",
     "specs": [
       "260 lumens, 80 m beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4169wP7awbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCYYMLRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCYYMLRM?tag=rvgearlab-amz-20",
     "description": "Lepro's Dual Power headlamp charges by USB-C or runs on three AAA batteries as a backup. It has a wave motion sensor and ten lighting modes, including seven white options, and gives up to 30 hours in low flood and 4 hours on spot.\n\nAt about $20 it is the priciest pick and costs $1 more than the Everbeam H6 Pro. It is the only headlamp here that falls back on AAA cells when the battery dies.\n\nIt suits long trips where charging is uncertain. The ten modes cover reading to hiking.",
     "specs": [
       "USB-C plus 3x AAA backup",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419jLilf-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGV3ZSZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGV3ZSZN?tag=rvgearlab-amz-20",
     "description": "ABUSVEX is a two-pack of USB-C rechargeable headlamps that claim up to 1000 lumens with five main modes. Both ship in one set.\n\nAt about $19 it costs about the same as the Everbeam H6 Pro and gives two lamps. The lumen claim is the highest in the guide.\n\nIt suits a pair of campers who want matching lamps. Use the lower modes for runtime.",
     "specs": [
       "Two headlamps, USB-C",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yR9stVrWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6XMBW49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6XMBW49?tag=rvgearlab-amz-20",
     "description": "Staaricc is a rechargeable headlamp with a zoom that goes from flood to spot, four modes (high, low, strobe, SOS) and USB-C charging. The head tilts from 0 to 90 degrees in an aluminum shell.\n\nAt about $17 it undercuts the Lepro by $2 and offers a metal body that the plastic lamps lack. It has no red light.\n\nIt suits a camper who wants a sturdier body. The tilt aims the beam at a book or a pot.",
     "specs": [
       "Zoom flood to spot",

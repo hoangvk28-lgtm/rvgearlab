@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MMLq-s-YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CK1831BX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CK1831BX?tag=rvgearlab-amz-20",
     "description": "The LuminAID Survivor lists settings from Turbo at 600 lumens (2.5 to 4 hours) down to Low at 15 lumens (100 to 130 hours), plus a flashing mode. It recharges in 24 to 30 hours of direct sun or 2 to 2.5 hours by USB, and has two 5V 2.1A phone ports.\n\nIt has the most light of the five by a wide margin and the only run-time table that lets you plan an evening. It also floats and is waterproof to 1 meter, which the BILTRTE 24 Inch and Peosaard 2-Pack do not state.\n\nIt suits kayakers, boaters and emergency kits where the lantern must be bright and also charge phones. A twist-to-inflate sanitary design keeps it simple.",
     "specs": [
       "600 lumens Turbo, run times listed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DTPhRqh8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT4GD1KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT4GD1KZ?tag=rvgearlab-amz-20",
     "description": "The BILTRTE is a 24 inch inflatable lantern in TPU rated IP66, with a USB-C input, a solar panel and four modes. Built-in strong magnets attach to a car hood or an RV metal frame, and a hook loop hangs it from a tent.\n\nIt is the only pick with magnets, which suit roadside repairs, grill work and RV use better than the hang-only designs. TPU stays flexible in cold weather, while the Peosaard 2-Pack uses PVC.\n\nIt suits car and RV campers who want light on a metal surface and a lantern that doubles as a phone charger. It packs down to roughly smartphone size.",
     "specs": [
       "24 inch TPU, IP66",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NxUWH+mpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLFCGLJZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLFCGLJZ?tag=rvgearlab-amz-20",
     "description": "The LuminAID Nova Colors gives 100 lumens, eight color modes and multiple brightness settings in an inflatable, collapsible body. It recharges in 10 to 12 hours of direct sun and offers up to 24 hours on low.\n\nIt adds color options to the standard white of the Peosaard 2-Pack, and recharges faster in sun than the 24 to 30 hours of the LuminAID Survivor. The TPU body is rated IP67 and listed as shatterproof.\n\nIt suits families with kids and campsite decor who want fun colors and a light that is safe to drop. No separate batteries are required.",
     "specs": [
       "100 lumens, 8 color modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31up-eRFNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTMB7TFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTMB7TFY?tag=rvgearlab-amz-20",
     "description": "The BioLite Luci Emergency is a 2.8 ounce (79 gram) inflatable lantern that collapses to 1.25 inches and gives up to 10 hours per charge. It has five light modes (high, low, red, flashing and SOS) and recharges by solar or USB-C.\n\nIt is the lightest of the five and the only one built around an SOS beacon, which suits a roadside or storm kit. Like the other IP67 designs, it is fully waterproof and withstands up to 150 pounds of pressure.\n\nIt suits glove boxes, go-bags and kayak hatches where weight and size count. The red mode keeps night vision.",
     "specs": [
       "2.8 oz, collapses to 1.25 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XDaXBwUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Q9KWYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Q9KWYK?tag=rvgearlab-amz-20",
     "description": "The Peosaard set includes two inflatable solar lanterns in waterproof PVC that inflate to 5.1 x 5.1 x 4.3 inches. They offer bright, dim and flashing modes and a built-in handle, with 4 to 10 hours of light after solar charging.\n\nIt gives two lights for less than the price of one LuminAID Nova Colors. Compared with the BILTRTE 24 Inch, it is simpler, with no magnets or USB-C, which keeps the cost down.\n\nIt suits kids, spare kits and short trips where a pair of cheap lights is enough. The handle hangs them from a tent, tree branch or backpack.",
     "specs": [
       "Two lanterns in one set",

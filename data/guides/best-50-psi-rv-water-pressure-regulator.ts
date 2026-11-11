@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415a3t0O+7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JGJ1M8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JGJ1M8Y?tag=rvgearlab-amz-20",
     "description": "The Valterra A01-2222VP water regulator keeps outlet pressure at 50 to 55 psi and the listing claims 15 to 20 percent more flow than standard regulators. It also has a gripper for tool-free installation and a 90 degree hose saver.\n\nIt is the brand-name choice among the 50 psi units and the only one with a gripper. Compared with the AquaNPT, it costs a few dollars more.\n\nBest for owners who want better showers from a known brand. It also suits tight hookups.",
     "specs": [
       "50 to 55 psi output",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rfceCFGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-amz-20",
     "description": "The AquaNPT Water Pressure Regulator delivers a stated 50 to 55 psi with a built-in 90 degree elbow hose saver. It is made from corrosion-resistant lead-free brass with 3/4 inch garden hose threads.\n\nThe elbow reduces hose kinking and stress at the connection. It costs slightly less than the Valterra.\n\nA solid pick for brass and elbow on a budget. It also suits tight hookups.",
     "specs": [
       "50 to 55 PSI output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tPmoFPjqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B094HTRZ4Z?tag=rvgearlab-amz-20",
     "description": "The CircleCord RV Hi-Flow Water Pressure Regulator has a factory setting of 50 to 55 psi and claims 15 to 20 percent more water flow. It uses C46500 lead-free brass tested to under 0.13 percent lead and has an inlet screen filter.\n\nIt costs about $12, well below the Valterra A01. The screen helps keep particles from blocking the valve.\n\nBest for budget buyers who want hi-flow output and a screen. It also suits long stays.",
     "specs": [
       "50 to 55 psi factory setting",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDQUy+laL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRTPWM9K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRTPWM9K?tag=rvgearlab-amz-20",
     "description": "The VANCOCO RV Water Pressure Regulator Valve has a built-in gauge and a tool-free pull-up knob, with a 45 PSI factory preset and an adjustment range from 45 to 160 PSI. It uses lead-free brass with under 0.13 percent lead.\n\nIt is the only pick here you can tune to exactly 50 psi and read on the gauge. It protects hoses from pressure damage.\n\nIdeal for anyone who wants to dial in exactly 50 psi. It also suits changing campgrounds.",
     "specs": [
       "Built-in gauge",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yul3fNBqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69D5FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69D5FQZ?tag=rvgearlab-amz-20",
     "description": "The PILISPARK 2-Piece Brass RV Water Pressure Regulator Set has a 40 to 50 PSI preset and a 90-degree elbow rotating 360 degrees. It uses brass and 3/4 inch GHT threads.\n\nIt tops out at 50 psi where the others begin, so it suits owners who want the upper edge of the 40 to 50 band. The set includes the elbow.\n\nGood for tight hookups where a lower pressure is acceptable. It also suits mixed use.",
     "specs": [
       "40 to 50 PSI preset",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M64ay-aTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-amz-20",
     "description": "The Hourleey Brass RV Water Pressure Regulator keeps water pressure at 40 to 50 pounds with a stainless steel filter screen. It fits 3/4 inch hose threads and is described as lead-free.\n\nAt under $10 it is the least expensive pick. The screen protects the valve.\n\nBest for the tightest budgets. It also suits spares.",
     "specs": [
       "40 to 50 pounds output",

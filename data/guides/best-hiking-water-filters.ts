@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41soU5PB4hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000FAGUKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000FAGUKO?tag=rvgearlab-amz-20",
     "description": "The Sawyer Mini weighs 2 oz and fits in your palm. The page lists removal of 99.99999 percent of bacteria and 99.9999 percent of protozoa, a 0.1 micron rating and a lifespan of up to 100,000 gallons.\n\nIt attaches to a pouch, a standard 28 mm bottle or a hydration pack, or you can drink through it directly. That flexibility is what sets it apart from the straws, which only filter at your mouth.\n\nIt suits hikers who want the lightest, most adaptable filter at a low price. A cleaning plunger comes in the box.",
     "specs": [
       "2 oz inline filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JUVa+MtUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075TTTX2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075TTTX2R?tag=rvgearlab-amz-20",
     "description": "The Katadyn Hiker Pro is a hand pump microfilter of 11.2 oz that delivers 1 liter per minute. Inside sits a glass fiber cartridge at 0.2 micron, rated for 1,150 liters, backed by carbon, a filter protector and an intake pre-filter.\n\nA transparent body shows the cartridge, which makes it the clearest to service. It fills a bottle or reservoir directly, with no squeezing like the Sawyer.\n\nIt suits backpackers filtering silty or murky water who like a pump that reaches into shallow sources. Setup takes three steps.",
     "specs": [
       "11.2 oz hand pump",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U5YkHN7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-amz-20",
     "description": "The TRAILGO Pro pumps water through three layers: a coarse 5 micron screen, PP cotton and an ultrafiltration membrane. Flow is given as 1.5 liters a minute, and the box adds tubes, clamps, a washable first-stage screen and a bag for it all.\n\nIt pumps faster than the Katadyn Hiker Pro and, per the page, serves a group of four to six. Nothing else needs buying, which cannot be said of the Sawyer Mini.\n\nIt suits families and base-camp groups that need a lot of water quickly. Replacement cartridges are available.",
     "specs": [
       "Hand pump, 1.5 liters per minute",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wee6T08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions Straw S1 pack holds four straws, each 7.1 inches long and 2 oz, filtering at 0.1 micron through five stages with coconut shell carbon. The page names NSF/ANSI 42, 372 and 401, cites a test report and gives a peak flow near 16.9 fl oz a minute.\n\nNo other straw here names standards and a report, and this one fits any 28 mm bottle thread. Compared with the Practical Survival straws it gives fewer straws and better paperwork.\n\nIt suits families and hikers who want claims they can check. The carbon stage helps taste.",
     "specs": [
       "Four 7.1 inch, 2 oz straws",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51knEkQEf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LDFR8HX?tag=rvgearlab-amz-20",
     "description": "The Practical Survival pack includes five reusable straws of 8 inches and 2 oz each. The page says each removes over 99.99 percent of bacteria such as E. coli and Legionella and over 99.99 percent of parasites such as Giardia and Cryptosporidium.\n\nEach straw is rated up to 1,800 gallons, framed as up to ten years of drinking water for an average person. That is more straws and a longer rating than the Membrane Solutions pack.\n\nIt suits scout troops, families and emergency kits that want one straw per person. They are small enough to tuck into a pocket.",
     "specs": [
       "Five 8 inch, 2 oz straws",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4145D1z1OAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB31DHVR?tag=rvgearlab-amz-20",
     "description": "The Soboyo inflatable tent is built for 4 to 6 people and pairs a pump-inflated frame with 420D Oxford fabric. The listing names a detachable awning, a skylight window and a stove jack in the same package.\n\nNext to the Ytaoeo it gives up the second room and the AC port, yet it keeps the stove jack and adds an awning that the Ytaoeo does not list. Against the IYGLKD it swaps a lighter 300D fabric for heavier 420D Oxford.\n\nIt suits a family that wants an air-beam tent with shade and a cold-weather option without paying the canvas premium. The 4 to 6 person rating keeps it practical for weekend trips.",
     "specs": [
       "4 to 6 person capacity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UBfsuxECL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBFYLJQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBFYLJQY?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo is the biggest tent in this group, with a 13 ft by 9 ft footprint and a 6.5 ft center height. It is split into two rooms and carries PU3000mm Oxford fabric with UPF50+ sun protection.\n\nCompared with the Soboyo it adds a second room, four large mesh windows and a dedicated AC port beside the stove jack. Against the Panda it cuts the price by a wide margin while using coated Oxford instead of canvas.\n\nIt is the pick for a group that wants separate sleeping zones. One tent then handles both a wood stove and a portable air conditioner.",
     "specs": [
       "13 x 9 ft, 6.5 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HEOA+fmVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS3VGNTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS3VGNTS?tag=rvgearlab-amz-20",
     "description": "The RBM Outdoors Panda Medium is a canvas air-beam tent sized for 2 to 4 people. Its waterproof canvas is described as breathable, which helps with humidity, and an included hand pump inflates the frame in about five minutes.\n\nWhere the Soboyo and IYGLKD use synthetic Oxford, the Panda uses canvas and adds a roof window and TPU side windows. It is the smallest and most expensive pick here, and it is the only one built around natural fabric.\n\nIt suits a couple or a small family who want the feel of canvas. The air beams spare them from wrestling steel poles.",
     "specs": [
       "2 to 4 people, canvas",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eqEsJ2EFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV831FX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV831FX8?tag=rvgearlab-amz-20",
     "description": "The IYGLKD inflatable tent measures 9.8 ft by 6.9 ft by 6.5 ft and is listed for 2 to 6 people. Its high-pressure pump fills the beams in about a minute, and the 300D Oxford shell comes with a repair kit and accessories.\n\nAgainst the Fseoot it adds more floor area and a sturdier fabric weight. Compared with the Soboyo it inflates faster and keeps the shape simpler, with no awning or stove jack to manage.\n\nIt works for anyone who wants a fast shelter for picnics, campsite lounging or emergency backup. Sleeping in it is one use among several.",
     "specs": [
       "9.8 x 6.9 x 6.5 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f3UDDnf2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCM6YMMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCM6YMMZ?tag=rvgearlab-amz-20",
     "description": "The Fseoot is the least expensive air tent here, with a push-button pump that shuts itself off once the beams are full. It measures about 6.9 ft by 6.9 ft by 5.7 ft and uses 210D silver-coated Oxford with a 3000mm PU coating.\n\nIt is smaller than the IYGLKD and has no stove jack. It keeps two doors and mesh roof vents. Against the Panda it costs a fraction of the price for the same pump-up convenience.\n\nIt fits two campers who want the air-beam routine at the lowest entry cost. Keep the group small and it does the job.",
     "specs": [
       "One-touch auto inflation",

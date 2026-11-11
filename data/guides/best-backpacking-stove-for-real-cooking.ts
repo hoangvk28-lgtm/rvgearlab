@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHUHg9-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-amz-20",
     "description": "Coleman's Bottletop is a single-burner propane stove with 7,650 BTU rated in the title, a pressure regulator and wind baffles. Its adjustable burner fits an 8 inch pan.\n\nOf everything here, it offers the best flame control for cooking, since the Odoland stoves are simpler. Wind baffles shield the flame, and the regulator keeps output steady.\n\nChoose it for frying and simmering from a 16 oz cylinder. It works for car-based backpacking.",
     "specs": [
       "7,650 BTU propane burner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZUneNRI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-amz-20",
     "description": "Odoland's 11-piece kit includes a mini stove, two non-stick anodized aluminum pots, a spork set, a 16 oz stainless cup and a silicone cup protector. Handles fold and the stove folds.\n\nIt is the full set, which beats buying separately like the MalloMe. The anti-heat handles keep hands safe.\n\nChoose it if you want a ready-to-cook package. It is a fine first backpacking kit.",
     "specs": [
       "11 pieces with mini stove",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0AAPilZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-amz-20",
     "description": "The 6-piece Odoland set packs two aluminum non-stick pots, a camping stove, a spork, a cleaning cloth and a carry bag. Handles on the pots and stove fold, and the set has space for a gas tank.\n\nIt is the smaller version of the 11-piece kit, with fewer accessories. The gas tank fits inside the nested set.\n\nChoose it if you want a slim kit that stores fuel inside. It fits solo trips.",
     "specs": [
       "6 pieces including stove",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417mt+B68ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J39VHD?tag=rvgearlab-amz-20",
     "description": "MalloMe is a 17-piece hard-anodized aluminum kit with a 1.7L pot, a 1.15L kettle and a 7 inch frying pan. It also has two stainless cups and two plates, and heat-resistant handles.\n\nThe frying pan is what the Odoland sets lack, which opens up real cooking. It is designed to nest and is described as compatible with backpacking stoves.\n\nChoose it if you already own a stove and want cookware that fries, boils and serves. It nests neatly for a pack.",
     "specs": [
       "17 pieces, hard-anodized aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "Kuvik is a Grade-1 titanium wood stove that collapses to 0.2 inch thick and is 6.25 x 5 x 5 inches when set up. Tabs slot together to form a freestanding fire box with an opening for stoking.\n\nIt is the lightest, flattest stove in this group. Wood burning needs no canister.\n\nChoose it if weight and fuel freedom matter more than simmering. It suits fire-friendly regions.",
     "specs": [
       "Grade-1 titanium",

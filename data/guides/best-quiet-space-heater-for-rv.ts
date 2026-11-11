@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517iqynnpQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8TX47J6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8TX47J6?tag=rvgearlab-amz-20",
     "description": "The DREO 319 is a 1500 watt PTC heater with a brushless DC motor and a winglet fan designed for whisper-quiet operation. It has a thermostat, remote control, child lock, tip-over protection and V0 flame retardant material.\n\nIt costs more than the ZAFRO and every compact pick, and it names its quiet fan design rather than a simple decibel number. The brushless motor is what separates it from the ceramic desk heaters below.\n\nBest for bedroom use in a larger rig where a full 1500 watts is needed. A strong quiet main heater.",
     "specs": [
       "1500W PTC, brushless DC motor",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OFgrOYKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5NJQH2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5NJQH2K?tag=rvgearlab-amz-20",
     "description": "The ZAFRO is a 1500 watt heater listed at 34 dB or lower with nine wind blades for smooth airflow. It has five modes including a 950 watt sleep mode and an ECO mode, plus a thermostat, child lock and tip-over and overheat protection.\n\nIt costs about half the DREO 319 and states a decibel level. The 950 watt sleep mode is a step-down no other full-size pick lists.\n\nBest for sleeping areas where a low stated noise matters. A good value for a full-size quiet heater.",
     "specs": [
       "1500W, 34 dB or lower",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LuEX12RNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QYKKCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QYKKCS?tag=rvgearlab-amz-20",
     "description": "The BZGG is a PTC ceramic heater listed at 40 dB with a 2 second warm-up and coverage for up to 200 square feet. It has a safety switch with 45 degree tilt shut-off, a fire-resistant casing and a carry handle, in a 5.28 by 4.45 by 8.5 inch body.\n\nIt costs less than the ZAFRO and fits under a desk. The stated 200 square foot coverage is higher than the 500 watt mini heaters.\n\nBest for desks, bedside tables and small cabins. A compact, quiet pick.",
     "specs": [
       "PTC ceramic, 40 dB",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hf6COAEdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBDF58SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBDF58SM?tag=rvgearlab-amz-20",
     "description": "This second BZGG listing carries the same PTC ceramic build, 40 dB noise level and 45 degree tilt shut-off. It has a carry handle and a compact footprint.\n\nPrice matches the first BZGG listing exactly. Compared with the Amazon Basics, it lists a quieter figure.\n\nBest for buyers who want a second desk heater at the same price. A like-for-like alternative.",
     "specs": [
       "PTC ceramic, 40 dB",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418oXcrYeXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074MR2C61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074MR2C61?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics mini heater is a 500 watt ceramic unit measuring 5.9 by 3.2 by 6 inches and weighing 1.4 pounds. It lists 48 dB noise and tip-over protection.\n\nIt costs less than the BZGG and is the lightest pick. Its noise figure is higher than the ZAFRO and BZGG.\n\nBest for a very small desk or nightstand. A simple, easy-to-carry heater.",
     "specs": [
       "500W ceramic, 1.4 pounds",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51swBXVNTRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRJJHTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRJJHTH?tag=rvgearlab-amz-20",
     "description": "The Lerat is a 500 watt PTC ceramic desk heater listed at 30 dB with a 2 second warm-up. It measures 4.76 by 2.91 by 5.75 inches and uses V0-class flame retardant materials.\n\nIt lists the lowest decibel figure in the group and the lowest price. The tiny body fits where the BZGG does not.\n\nBest for a quiet personal heater beside a bed or desk. A very low-cost quiet choice.",
     "specs": [
       "500W PTC, 30 dB",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514jBv61C7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G46V1XY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G46V1XY2?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS Dual-Use is a pop-up SUV tent that doubles as a gazebo, with 4 mesh sides and two rooms: a large living room and a bedroom or dressing room. It covers 8.7 ft plus 5.6 ft of tailgate width, 10.2 ft long and 6.9 ft high.\n\nWhere the other JOYTUTUS tents add a vestibule or side room, this one pops up with one pull on the roof and lists 4 mesh sides and 2 doors. A top mesh starry-sky roof can be covered when sun or rain arrives.\n\nIt suits families who want a real living room with screens on every side. It fits upward-opening hatchbacks, SUVs, MPVs, CUVs and small RVs.",
     "specs": [
       "Two rooms, 4 mesh sides",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O0Nj-ZmDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCJKKLD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCJKKLD9?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 5-9 Person tent adds a vestibule to the main tent, giving 8 ft plus 6.5 ft by 10 by 7 ft. It includes a screened porch and a three-sided awning, with a reinforced rainfly and a starry-sky roof.\n\nAgainst the other JOYTUTUS two-room model it puts the extra room at the back as a vestibule rather than to the side. It fits up to five adults or nine children and has two doors with one window for airflow.\n\nIt suits groups who want covered space for cooking, shoes and gear plus awning shade. It installs on upward-opening hatchbacks and also stands alone.",
     "specs": [
       "Tent plus vestibule room",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yc3LxKGML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6N493PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6N493PL?tag=rvgearlab-amz-20",
     "description": "The Alvantor is a 6 by 6 ft pop-up screen room that combines mesh walls with waterproof PVC layers, a 4-in-1 concept for bug-free or rainproof use. A magnetic-sealed adjustable sleeve hugs the bumper for 360 degree vehicle connection.\n\nIt opens with no assembly, while the two five-adult JOYTUTUS tents need poles and extra hands. It fits 2 to 3 adults in a 6 by 6 by 7.5 ft space and folds to a 32 inch wide bag at 20 lbs.\n\nIt suits campers who want a quick bug-proof sitting room rather than a sleeping tent. It attaches to SUVs, trucks, Jeeps and most hatchbacks.",
     "specs": [
       "6 x 6 x 7.5 ft screen room",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BtTm14S2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCKD6PF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCKD6PF7?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 2 Rooms tent pairs a body tent with a side room, listed as 8 ft by 10 ft plus 8.1 ft by 7 ft. A side screened porch and three-sided awning are included, along with a rainfly and two doors.\n\nNo tent here costs less, and it is the one to choose for a side-room layout rather than a vestibule at the back. It also fits up to five adults or nine children and mounts on upward-opening hatchbacks.\n\nIt suits budget buyers who want screens, an awning and two rooms at the lowest price. It also works alone on the ground.",
     "specs": [
       "Body tent plus side room",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sfsMwKLmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MBB43XY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MBB43XY?tag=rvgearlab-amz-20",
     "description": "The baleaf Women's Quick Dry combines quick-dry, water-resistant fabric with UPF 50+ sun protection, four zipper pockets and adjustable cuff cord locks. Stretch fabric, articulated knees and an elastic waistband handle trail movement.\n\nAgainst the Lzzidou Women's, it lists petite and tall inseams, which solves the length problem many budget pants ignore. Compared with the NY Threads, it brings zipped pockets and cuff cords that keep bugs out.\n\nIt suits women who want a dependable pair with proper sizing options for hiking, camping and travel. The machine-washable fabric needs no special care.",
     "specs": [
       "UPF 50+, quick-dry fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OFWvoVc8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTG4MVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTG4MVM?tag=rvgearlab-amz-20",
     "description": "The Zynorain Men's Vented uses an 88 percent nylon and 12 percent spandex blend with a DWR coating and UPF 50+ protection. Inner-thigh mesh vents with two airflow openings and six pockets complete the build.\n\nNext to the AGVNG Men's, it adds venting and a D-ring for attaching small gear. Against the Pudolla Men's, it offers far more pockets and fabric detail.\n\nIt suits men who hike in warm weather and want ventilation without paying more. The secure back zip pocket keeps cards safe.",
     "specs": [
       "88% nylon, 12% spandex",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lBRk1rA8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXY6ZQTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXY6ZQTJ?tag=rvgearlab-amz-20",
     "description": "The Lzzidou Women's UPF50 uses an 88 percent nylon and 12 percent spandex blend with a moisture-repelling finish and a triple-stitched elastic waistband. Five zippered pockets and hidden ankle toggles let you switch between straight, cinched and capri styles.\n\nCompared with the baleaf Women's, it focuses on versatility and an anti-roll waistband. Next to the NY Threads, it has stronger pocket security.\n\nIt suits women who want a trail-to-town pair that adapts to temperature. The toggles shorten the legs on warm afternoons.",
     "specs": [
       "UPF 50+, moisture-repelling finish",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317fOmC7+9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFGYF86N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFGYF86N?tag=rvgearlab-amz-20",
     "description": "The AGVNG Men's Quick Dry has water-resistant, quick-dry fabric with UPF 50+ protection and four pockets, including two side zip pockets and two cargo pockets. An elastic waist with drawstring gives a snug, customized fit.\n\nIt is simpler than the Zynorain Men's and skips the venting, which lowers the price a little. Compared with the Pudolla Men's, it adds cargo pockets and a stated UPF rating.\n\nIt suits men who want a plain, sun-safe pair for easy hikes and everyday wear. The lightweight material stays comfortable all day.",
     "specs": [
       "UPF 50+, quick-dry fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eUdipqyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7VPSMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7VPSMR?tag=rvgearlab-amz-20",
     "description": "The NY Threads Women's has UPF 50+ protection, a soft stretchy moisture-wicking fabric and an articulated knee dart. Deep front, zippered side and secure back pockets and an adjustable drawstring waist complete the design.\n\nCompared with the baleaf Women's, it focuses on a sculpted, feminine fit. Against the Lzzidou Women's, it keeps a simpler design and stays at a very low price.\n\nIt suits women who want a flattering cut for hiking, golf and travel. The easy-care fabric washes on low.",
     "specs": [
       "UPF 50+, moisture-wicking",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Sj43zdDnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP9KTGX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP9KTGX4?tag=rvgearlab-amz-20",
     "description": "The Pudolla Men's Lightweight has water-repellent quick-dry fabric, an elastic waistband with drawstring and two big zipper pockets. The listing recommends spring, summer and autumn use.\n\nIt has the fewest pockets in the group, and the lowest price. Against the AGVNG Men's, it is simpler and still sheds light rain.\n\nIt suits men who want cheap, comfortable pants for casual hikes and daily wear. The zippered pockets fit a phone and cards.",
     "specs": [
       "Water-repellent quick-dry fabric",

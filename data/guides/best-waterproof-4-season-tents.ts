@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315pbQi7y5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Dune is a double-layer 4-season hot tent with a stove jack and a snow skirt. Its fly is 75D polyester with silver coating rated 3000mm waterproof, its floor is 150D Oxford rated 4000mm with seam-taped corners, and the poles are 7001 aluminum. The removable inner measures 86.6 by 59 by 63 inches and the whole package weighs about 16.5 lb.\n\nIt has the highest floor rating in this list at 4000mm and the only snow skirt, while the OneTigris Stella lists a 3000mm rating on a much lighter nylon fly. Against the VEVOR bell tent, it is a double-wall dome with a removable inner, so condensation stays off the sleepers.\n\nIt suits winter campers who want a taped, rated floor and a stove jack in a tent a couple can still carry to a trailhead. The vestibule holds boots and wet gear out of the sleeping area.",
     "specs": [
       "3000mm fly, 4000mm floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oS7o+ynGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3V57CGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3V57CGD?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 13.12 ft bell tent for 3 to 4 people with an 8.2 ft peak, waterproof Oxford fabric, a top rain cover and a PVC groundsheet that is zipped and detachable. It includes a stove jack and a silicone fire mat, galvanized steel poles, mesh windows, top vents and roll-up sidewalls.\n\nIt stands tall enough to walk around in, which neither the Naturehike nor the OneTigris can do, and it costs less than the Naturehike. The trade is that its listing gives no millimeter rating for the fabric, where the others do.\n\nIt suits groups and families who want a standing-height winter base for cooking and hanging out. The top rain cover and PVC floor handle rain and wet ground.",
     "specs": [
       "13.12 ft bell, 8.2 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EePpwi53L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52BNCN3?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella is a 2-person 4-season tent with a 20D nylon silicone-coated outer, 40D nylon bottom and a 3000mm waterproof rating. It weighs 4.8 lb, packs to 21.7 by 6.3 inches and has a removable blackout outer over a mesh inner.\n\nAt 4.8 lb it weighs about a quarter of the Naturehike while matching its 3000mm fly rating. It has no stove jack, which makes it the pick for cold camping without a stove, and it costs the least of the three.\n\nIt suits backpackers and cyclists who need a waterproof four-season shell they can carry. Flexible poles anchor to all four floor corners for a fast pitch.",
     "specs": [
       "3000mm waterproof rating",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N04v9GHsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P4K9112?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P4K9112?tag=rvgearlab-amz-20",
     "description": "The ziitop Barefoot Shoes use a stretch mesh upper that hugs the foot like a sock. A professional anti-slip rubber outsole with a unique pattern adds traction poolside and on rough ground.\n\nCompared with the ATHMILE Barefoot Shoes, it adds an elastic shoelace with a locking mechanism. Against the SIMARI Drainage Shoes, it leans on a sturdier outsole pattern rather than drainage-hole claims.\n\nIt suits beachgoers who want a secure, adjustable fit in the surf. The listing says the upper ventilates to prevent sweating.",
     "specs": [
       "Stretch mesh sock-like upper",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51idCWzisTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2PZKL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2PZKL6?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Barefoot Shoes pair a thick rubber sole and a toe cap with a breathable elastic upper. The listing says the upper and sole are joined with riveted stitching and calls the shoe flexible and light.\n\nAgainst the SEEKWAY Thick Sole Shoes, it adds a toe cap for stubbed toes. Compared with the ATHMILE Aqua Socks, it uses a more structured sole.\n\nIt suits beach walkers who scramble over rocks and jetties. The elastic upper snugs without laces.",
     "specs": [
       "Thick rubber sole, toe cap",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eai-4kfeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MW3D3CS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MW3D3CS?tag=rvgearlab-amz-20",
     "description": "The SIMARI Drainage Shoes use soft stretchy mesh with a natural rubber sole and deep treads. A 360 degree drainage system lets water leave through the soles and insoles, and adjustable elastic lock laces set tension.\n\nAgainst the ziitop Barefoot Shoes, it puts more weight on drainage and deep treads. Compared with the SEEKWAY Thick Sole Shoes, it adds lock laces for choppy water.\n\nIt suits beachgoers who wade, kayak or windsurf. The listing mentions grip on wet rocks, moss and sand.",
     "specs": [
       "360 degree drainage system",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fp7dOJnnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DY9881?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DY9881?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Thick Sole Shoes combine a thick rubber sole and toe cap with 3D non-slip treads and a stretch spandex vamp with small air holes. Drainage holes in the outsole and insole speed drying.\n\nCompared with the SIMARI Drainage Shoes, it leans on cushioning rather than lock laces. Against the ATHMILE Barefoot Shoes, it adds a convenient overshoe design for quick entry.\n\nIt suits beachgoers who want a padded, easy slip-on. The listing includes activities like waterfall hikes and rafting.",
     "specs": [
       "Thick sole with toe cap",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411n-mUoHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q3MMT2C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q3MMT2C?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Aqua Socks use breathable, quick-dry elastic fabric with a thick insole and an anti-slip sole. The listing calls them lightweight, flexible and foldable.\n\nAgainst the SEEKWAY Basic Aqua Socks, it adds a thicker insole feel. Compared with the ATHMILE Barefoot Shoes, it drops the toe cap for a simpler build.\n\nIt suits beachgoers who want a cheap, packable pair for a day at the shore. The listing suggests sizing half a size smaller.",
     "specs": [
       "Quick-dry elastic fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L+jLnwQML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZQFDK2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZQFDK2K?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Basic Aqua Socks use a rubber outsole with a deep multi-directional traction pattern, a thickened reinforced sole and a breathable upper that drains water. The slip-on entry is stretchable.\n\nAgainst the ATHMILE Aqua Socks, it emphasises traction and sole thickness. Compared with the SIMARI Drainage Shoes, it skips lock laces for a plain slip-on.\n\nIt suits beach games, pool decks and light river use. The listing says they are portable and lightweight.",
     "specs": [
       "Multi-directional traction tread",

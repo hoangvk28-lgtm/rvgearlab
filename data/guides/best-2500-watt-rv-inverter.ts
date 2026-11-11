@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OwO8qqdbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-amz-20",
     "description": "The EGSCATEE 2500W lists 2500W continuous and 5000W peak pure sine output, and its distinguishing feature is a built-in automatic transfer switch that moves between shore power and battery in about 12 milliseconds. It has a hardwired AC input terminal block for live, neutral and ground, protections for overload, over-voltage, low voltage, over-temperature and short circuit, and an intelligent cooling system.\n\nIt ranks first because it is the only pick here with a stated transfer time and a hardwire input, which is what a permanent RV installation needs. It costs $50.00 more than the TAGEEBLU and $98.30 more than the WZRELB, and in return it removes the need for a separate transfer switch. It does not list a charger, so the battery still needs a separate converter.\n\nPick it if you want the inverter to take over when shore power drops, with minimal flicker. The caveat is that the 12ms figure is a listing claim, and the excerpt does not publish idle draw, weight or warranty length, so check those before buying.",
     "specs": [
       "2500W, 5000W peak",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ii4ct1EWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5C2C4F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5C2C4F9?tag=rvgearlab-amz-20",
     "description": "The TAGEEBLU 2500W lists 2500W continuous pure sine power with a 5000W peak that lasts 2 seconds, and the listing states it can power CPAP machines, TVs, refrigerators, microwaves and variable-frequency air conditioners. It has four AC outlets plus four USB ports, including a 30W quick-charge port, and an aluminum housing with cooling fins and two smart fans.\n\nIt ranks second for the clearest honesty about limits. The listing warns that startup power can reach 3 to 6 times the rated power, so you should not run several big loads together. It costs $14.99 more than the TVNIKD and $48.30 more than the WZRELB, which buys four outlets instead of three or two, plus the stated pure sine output.\n\nPick this for a rig with many small loads and a few mid-size ones, such as a microwave plus a TV. The caveat is that it has no transfer switch or hardwire terminal listed, so it is a plug-in style inverter rather than a permanent shore power replacement.",
     "specs": [
       "Four AC, four USB",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r6BDh4TGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7ZGCZN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7ZGCZN3?tag=rvgearlab-amz-20",
     "description": "The WZRELB 2500W lists pure sine output with 5000W surge, conversion efficiency above 90 percent, low no-load losses, a soft-start design, an LED display for DC volts, a remote controller, dual AC outlets and a hardwire terminal. It uses an all-aluminum housing with three continuously operating cooling fans and protections against overheating, overload, under-voltage, over-voltage and short circuit.\n\nIt ranks third and is the cheapest pick at $121.69, which is $28.29 below the LVYUAN and $98.30 below the EGSCATEE. It gives you a hardwire terminal for permanent installs, which the LVYUAN does not list, but only two AC outlets and a display that shows DC volts rather than load watts. The three fans run all the time, so expect some fan noise.\n\nPick it if you plan to hardwire the inverter to a distribution panel and want the lowest price. The caveat is the continuous fan noise and the lack of a transfer switch, so shore power switching still needs a separate transfer switch.",
     "specs": [
       "Hardwire terminal, remote",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JVjz-4kYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1BYM7HC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1BYM7HC?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 2500W lists 2500W continuous pure sine output with 5000W peak, a claimed 99.6 percent effective voltage conversion, a durable aluminum body, and a remote that controls on and off within 50 meters. Protections include overvoltage, undervoltage, overload, short circuit, overheat and reverse polarity with an internal fuse and an auto shutdown alarm.\n\nIt ranks fourth. It costs $5.02 less than the TVNIKD and $28.29 more than the WZRELB, and it adds a long-range remote that neither of them has, along with reverse polarity protection that guards against a wiring mistake at the terminals. The 99.6 percent figure refers to voltage conversion, not whole-system efficiency, so it should not be read as a guarantee of low losses.\n\nPick it if you want to switch the inverter on from the bed or couch without crawling into a bay. The caveat is that the listing says to read the manual before using the remote, and it shows no hardwire terminal or transfer switch.",
     "specs": [
       "Remote works to 50 meters",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "The TVNIKD 2500W lists 2500W rated and 5000W peak output, three AC outlets, one 2A USB port, an LCD showing real-time battery status with alarms for under and over voltage, ten built-in 30A fuses, and three cooling fans that work only when the unit warms up. The title says 2000 plus watts, which is a hint that the rating needs reading carefully.\n\nIt ranks last. At $155 it costs $5.02 more than the LVYUAN and $33.31 more than the WZRELB, but the excerpt does not state pure sine output, and the fuse bank is its main selling point. Ten 30A fuses total 300A at 12V, which is more than the 231 amps estimated at full load, though fuse count is not the same as total protected current in a multi-fuse design.\n\nPick it if you want a plain 12V inverter with an LCD and replaceable fuses, and you have confirmed the waveform with the seller. The caveat is that the listing never calls it pure sine, so avoid CPAP machines and motor loads until confirmed.",
     "specs": [
       "Ten 30A fuses",

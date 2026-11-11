@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qnslMXD7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BC6DQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BC6DQK?tag=rvgearlab-amz-20",
     "description": "This pump shower pairs a 7800mAh battery and a copper-core motor with up to 150 minutes of steady flow. An LED display shows remaining battery power and real-time water temperature from 32F to 140F, and the kit has three spray modes of low, medium and high.\n\nAt about $23 it costs $4 less than the 180-minute model next to it and is the only pump in the group that shows the water temperature. The pump is IPX8 waterproof and sits on a base with four anti-slip suction cups.\n\nIt suits campers who want a pump shower that tells them when the water is warm enough. At 1.98 lb it fits a daypack.",
     "specs": [
       "7800mAh, up to 150 minutes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nCsz+lkjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7R5CLKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7R5CLKY?tag=rvgearlab-amz-20",
     "description": "This kit has a 7800mAh battery and an upgraded motor rated for up to 180 minutes per charge, charging over Type-C from a power bank or car charger. The IPX8 pump submerges in a bucket, basin or stream and runs quietly, and the shower head has three spray modes.\n\nAt about $27 it costs $4 more than the LED model and adds 30 minutes of runtime and a quieter motor. It lacks the LED temperature readout, and it comes in a mesh bag with the full kit.\n\nIt suits groups and long stays where the shower gets daily use. Type-C charging means a power bank can top it up on the road.",
     "specs": [
       "7800mAh, up to 180 minutes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MBMuwcv+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQXYR84M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQXYR84M?tag=rvgearlab-amz-20",
     "description": "The Wisebean kit gives a built-in rechargeable pump rated for 60 to 90 minutes, a 2 meter hose, a shower head and a pressure nozzle. It runs at 20W with waterproof construction and fits into a carry pouch.\n\nAt about $27 it costs the same as the 180-minute model and runs 90 to 120 minutes shorter on a charge. The pressure nozzle adds a second use for rinsing gear, pets or a dirty pot.\n\nIt suits campers who want one kit for showers and rinsing gear. The 2 meter hose lets you stand away from the bucket.",
     "specs": [
       "60 to 90 minute runtime",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-+9UeMTaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-amz-20",
     "description": "The DkOvn set is a pair of 20L solar bags with shutoff valves and hook slings, a backup that needs only water and daylight to give a gravity-fed rinse. Each bag holds enough for two short showers.\n\nAt about $14 for two bags it costs half the price of a pump kit and needs no battery or charger. The pump kits above deliver more pressure, while this pair works anywhere the sun shines.\n\nIt suits campers who want a power-free backup or a second shower for a partner. The bags pack small.",
     "specs": [
       "Two 5 gallon bags",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JsTqO4zlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6CKF9ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6CKF9ML?tag=rvgearlab-amz-20",
     "description": "The ailker is a 5 gallon (20L) bag good for about three showers, with an on/off switch, a removable hose and a hanging hook sling. Under direct sun it heats water to 105F (40C) in about 3 hours.\n\nAt about $10 it is the cheapest pick in the group and costs a third of a pump kit. The DkOvn 2-Pack gives a second bag for $4 more.\n\nIt suits first-time campers and beach trips on a very tight budget. A removable hose makes cleaning and drying easy.",
     "specs": [
       "5 gallon, about three showers",

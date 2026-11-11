@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dYVoyuDlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TS14H78?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TS14H78?tag=rvgearlab-amz-20",
     "description": "The North Face Toddler Alpenglow II is an insulated snow boot with 200 grams of Heatseeker synthetic insulation, a ballistic-mesh upper with waterproof leather overlays and seam-sealed construction. A durable TPR shell bottom and outsole add traction on slippery ground.\n\nNamed insulation and seam sealing make it the most thoroughly built toddler snow boot here, ahead of the Sorel Youth Snow Commander and the Western Chief Neoprene. The flexible build suits growing feet more than a stiff rubber boot.\n\nIt suits a toddler who plays in the snow for long stretches and needs warmth without weight. The TPR shell resists scuffs.",
     "specs": [
       "200 g Heatseeker insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Et4xQQZrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMMVBLYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMMVBLYQ?tag=rvgearlab-amz-20",
     "description": "The Sorel Youth Snow Commander has a textile and synthetic upper, a fleece lining and a 2.5 mm bonded felt frost plug midsole for warmth. A strap gives adjustable comfort, and an injection-molded waterproof thermal rubber shell has a multi-directional lug outsole.\n\nThe injection-molded shell and felt midsole give it a stronger cold-ground barrier than the Blikcon Wide Toe or the Children's Place Faux Fur. The strap lets you tune the fit more than the pull-on Children's Place.\n\nIt suits a toddler or small child who stomps in slush and snow and needs a boot with a molded base. The lug outsole helps grip.",
     "specs": [
       "Molded waterproof rubber shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hJEgajf9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099Y7TFX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099Y7TFX7?tag=rvgearlab-amz-20",
     "description": "The Western Chief Freestyle is a seamless waterproof TPE and neoprene boot with 5 mm insulated neoprene, a soft fleece lining and a fleece-lined EVA insole. Toddler, little kid and big kid sizes are offered.\n\nSeamless waterproofing gives it a more sealed fit than the stitched Blikcon Wide Toe, and the fleece lining makes it warmer than the Children's Place Faux Fur. It costs less than the Sorel Snow Commander.\n\nIt suits a toddler who plays in puddles and snow in the same week. The extra room allows thick socks.",
     "specs": [
       "Seamless TPE and neoprene",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411nJMCA5FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBFFZNM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBFFZNM5?tag=rvgearlab-amz-20",
     "description": "The Blikcon Wide Toe is a warm ankle boot with a roomy toe area for natural growth, double hook-and-loop straps, a soft fleece lining and an extra padded insole and collar. The lightweight rubber sole is listed as flexible and slip-resistant.\n\nExtra toe space beats both the Sorel Snow Commander and Western Chief Neoprene, and the double straps make dressing easier than the pull-on Children's Place. It costs about the same as the Western Chief.\n\nIt suits a toddler who needs a warm boot for cold fall days and early winter. It is a cozy walking boot, with a lining meant for chilly rather than snowy days.",
     "specs": [
       "Wide toe box for growth",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WUpI+6RIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1H9DVM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1H9DVM8?tag=rvgearlab-amz-20",
     "description": "The Children's Place Classic Ankle Boot is a toddler boot with a faux suede upper, a faux fur and tricot lining and a recycled-content TPR outsole. It has above-ankle height and a pull-on style.\n\nPriced under every other boot here, it is also the simplest design, with a pull-on fit that is quicker than the strapped Blikcon Wide Toe. It lacks the waterproofing of the Sorel Snow Commander.\n\nIt suits a toddler who needs a warm, cozy boot for dry winter days and trips to the car. The pull-on style is quick to take off at the door.",
     "specs": [
       "Faux suede, faux fur lining",

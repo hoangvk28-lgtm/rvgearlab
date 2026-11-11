@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OtNcltnHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D819MVKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D819MVKF?tag=rvgearlab-amz-20",
     "description": "The DREO smart wall heater uses a PTC heating system with optimized airflow and an ECO mode for precise temperature control. It comes with a remote, the DREO app and Alexa compatibility, and carries 5 VA flame-retardant materials, overheat protection and an IP24 rating.\n\nIt costs less than the other DREO model and keeps the app and ECO features. The IP24 rating makes it suitable for damp rooms.\n\nBest for owners who want smart control and a mid price. A flexible wall heater for a small rig.",
     "specs": [
       "PTC heater, ECO mode",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5zpf-3kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCC5QWQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCC5QWQ1?tag=rvgearlab-amz-20",
     "description": "This DREO wall heater carries an ALCI plug, 5 VA flame-retardant materials, overheat protection and an IP24 waterproof rating. It uses an upgraded PTC system with advanced airflow, touch control, remote and the app.\n\nIt costs more than the other DREO and adds the ALCI plug. The extra plug protection is useful near water.\n\nBest for a bathroom or wet area. A safety-forward wall heater.",
     "specs": [
       "PTC heater, touch control",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h4LO5tM0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXZNHD2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXZNHD2V?tag=rvgearlab-amz-20",
     "description": "The QOWETU is a 1500 watt wall heater with three heat levels of 900, 1300 and 1500 watts. It has a remote, a thermostat, 60, 90 or 120 degree oscillation and includes mounting hardware.\n\nIt costs less than the DREO models and offers three power steps. The oscillation choices are broader than most.\n\nBest for owners who want to pick the wattage. A strong value fan heater.",
     "specs": [
       "1500W, 900, 1300, 1500 steps",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lMMlffcwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF88N1ND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF88N1ND?tag=rvgearlab-amz-20",
     "description": "The Sweetcrispy is a 13 by 10.24 by 4.92 inch wall heater with 750 watt low, 1500 watt high and fan-only modes. It has a 12 hour timer, an LED touch panel, a remote that works from 16 feet and overheat shut-off at 149 degrees Fahrenheit.\n\nIt costs the least of the six and takes the least wall space. It has a timer that the QOWETU does not list.\n\nBest for small cabins where floor space is tight. A compact, low-cost fan heater.",
     "specs": [
       "750W and 1500W, fan-only",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EeWV3zn0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084ZZFRHY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084ZZFRHY?tag=rvgearlab-amz-20",
     "description": "The Amaze Ultraslim is a 250 watt convection panel heater for rooms up to 80 square feet. It is triple insulated, built from non-conducting materials and works with a plug-in thermostat.\n\nIt costs more than the Sweetcrispy and uses only 250 watts. A silent panel is the opposite of a fan heater.\n\nBest for very small spaces and low power draw. A quiet, steady heat source.",
     "specs": [
       "250W convection panel",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KG9Iq4sBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6CVM14M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6CVM14M?tag=rvgearlab-amz-20",
     "description": "The EconoHome is a 400 watt convector panel with a thermostat, rated for a 120 square foot room at 3.33 amps. It measures 23.5 by 23.5 inches and about a quarter inch thick, with a crack-resistant calcium silicate build.\n\nIt costs the most of the group and draws far less than the fan heaters. A convector panel adds even, silent heat.\n\nBest for owners who want silent, steady heat at low amps. A durable panel pick.",
     "specs": [
       "400W convector, 3.33 amps",

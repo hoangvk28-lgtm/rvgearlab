@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+A9gSG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics dome is a free-standing, three-season two-person tent in coated polyester with welded seams. Its removable rainfly brings a rear window plus a small cool-air vent, while shock-corded poles run through snag-free sleeves so the whole pitch finishes inside four minutes.\n\nWelded seams are a step up from the stitched seams on the tents priced near $30, so this is the pick that handles light rain with the fewest compromises. Against the UNP 2P it gives up the skylight net and gains a cleaner, better-ventilated fly.\n\nIt suits first-time campers who want one dependable two-person dome with no gimmicks. Everything about it favors easy pitching, steady ventilation and weather that turns without warning.",
     "specs": [
       "Free-standing three-season dome",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person tent has a floor near 7.25 ft long and 4.9 ft wide, and it weighs 5.33 lb in full or 4.38 lb at minimum trail weight. Two aluminum poles hold the free-standing frame, and the double-layer design lets you drop the fly for stargazing.\n\nAluminum poles and a bathtub-style floor are rare at this price, which sets it apart from the fiberglass domes like the JELUCAMP Dome. It is also the narrowest tent here, trading width for a lighter pack.\n\nIt fits backpackers who plan to walk in and want a two-person shelter that still weighs about 4.4 lb at minimum. Car campers who care about elbow room should look at the CAMPROS 3-Person.",
     "specs": [
       "5.33 lb total, 4.38 lb minimum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-qntNOuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BZB5ZK?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP is a three-person dome with a 7 by 7 ft floor and a 47 inch center height that holds one queen mattress. Sealed seams and a waterproof strip handle rain, and mesh on the top and doors keeps air moving.\n\nIt is the largest floor in the group, ahead of the oilpus on footprint and ahead of every two-person tent on sleeping room. The extra width is the reason to choose it over the Amazon Basics Dome 2P.\n\nCouples or small families who sleep on a queen air bed will like how much floor remains around it. Two people can pitch it in about five minutes.",
     "specs": [
       "7 by 7 ft floor, 47 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FG7Iw7CDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HH1YFHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HH1YFHS?tag=rvgearlab-amz-20",
     "description": "The UNP dome is a two-person tent that measures 7 ft by 5 ft by 45 in and weighs 4.8 lb. It combines a removable rainfly with two zippers, a skylight net, a large mesh window and an inside storage pocket.\n\nIt is lighter than the oilpus and CAMPROS, and it is the best airflow design in the group, thanks to the skylight and mesh. Against the Amazon Basics Dome 2P it trades welded seams for more ventilation and a bigger look.\n\nIt suits solo pitchers who want one person to be able to put the tent up in about three minutes. Warm-weather campers will appreciate the skylight net on clear nights.",
     "specs": [
       "7 ft by 5 ft floor, 4.8 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PaMHatsfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV6PS55W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV6PS55W?tag=rvgearlab-amz-20",
     "description": "The oilpus is a two-to-three person dome with an 8 by 7 ft floor, a 50 inch center height and 190T silver-coated polyester rated at 1000 to 1500mm. A 210D Oxford floor and B3 mesh complete the shell.\n\nAt 8.3 lb it weighs more than the UNP 2P, and it packs down to about 42 cm long. That makes it easier to fit in a trunk than the CAMPROS 3-Person, and the floor is almost as wide.\n\nIt suits families with one child who want an in-between size and a compact bag. Two people can pitch it in around five minutes.",
     "specs": [
       "8 by 7 ft floor, 50 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyug8U+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP is a 4.3 lb dome built on PU3000 polyester and 7.9mm fiberglass poles. It offers a double-layer door with a mesh inner panel and a floor about 86 inches long.\n\nIt is the least expensive tent in this group, and it still carries a stated waterproof rating, which the cheapest tents often skip. The main cost of saving money here is the fiberglass pole set compared with the aluminum on the Clostnature 2P.\n\nIt suits occasional campers who want a roomy two-person footprint at the lowest outlay. It is a good backyard, festival or beginner shelter.",
     "specs": [
       "4.3 lb, PU3000 polyester",

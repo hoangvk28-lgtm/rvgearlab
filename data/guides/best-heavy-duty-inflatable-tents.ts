@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510MNqHFGML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41JM7VF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41JM7VF?tag=rvgearlab-amz-20",
     "description": "The KNUO is a 10 by 10 ft air tent built from 1680D Oxford, the heaviest fabric figure on any listing here, with a PVC-coated bottom for extra wear protection. Its air beams are described as robust enough for up to 14 days without leakage, and the interior suits 4 to 8 people.\n\nAgainst the QIFA it costs about 390 dollars less and prints a much heavier fabric number. Compared with the NANJEEN it states its fabric and use period, at roughly half the price.\n\nIt suits campers who want the toughest stated fabric and a longer-stay beam promise at a mid-high price. Dual-layer doors and windows add ventilation and privacy, and the pump sets it up in about 5 minutes.",
     "specs": [
       "1680D Oxford, PVC-coated bottom",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51av4ADtjCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQH6FR24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQH6FR24?tag=rvgearlab-amz-20",
     "description": "The QIFA is a 129 sq ft (12 sq m) tent for 8 to 10 campers, built from thick 600D Oxford the listing calls heavy-duty. It lists sealed seams, a wind-resistant structure and a high-volume manual pump for an 8 to 15 minute setup.\n\nAgainst the KNUO it has the larger stated floor and a roomier 8 to 10 person capacity. Compared with the NANJEEN it states a 600D fabric figure and a deflation time of about 5 to 10 minutes.\n\nIt suits large groups who want a heavy fabric and a packing routine that is quick to finish. The valves open and the tent collapses on its own.",
     "specs": [
       "129 sq ft, 8 to 10 people",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nf+T+MdNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-amz-20",
     "description": "The NANJEEN uses waterproof tech cotton the listing says outperforms Oxford, with reinforced seams and a stated 35 kg weight. It offers a 12 sq m interior for 2 to 10 campers and inflates in under 8 minutes with a hand pump.\n\nAgainst the QIFA it is nearly identical in price and states a weight rather than a fabric denier. Compared with the KNUO it uses cotton instead of Oxford and costs about 390 dollars more.\n\nIt suits car campers who want the heaviest build here and a four-season label. The listing describes it as heavy-duty and not flimsy.",
     "specs": [
       "Tech cotton, reinforced seams",

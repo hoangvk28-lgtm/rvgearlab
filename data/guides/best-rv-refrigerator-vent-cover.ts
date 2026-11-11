@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JdqHIb-7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRRYWHJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRRYWHJ3?tag=rvgearlab-amz-20",
     "description": "The benut is a full side vent cover measuring 23-1/8 inches wide by 15 inches high, with a cutout of 21-1/2 by 13-5/8 inches. Molded in lightweight PP plastic, it comes with six insect-proof screens that block mosquitoes, insects and dust.\n\nIt is the only pick here for a wall-mounted refrigerator vent, so it replaces a whole louvered panel where the Ventmate pieces replace only a lid. It suits owners of trailers with an access panel on the side wall.",
     "specs": [
       "23-1/8 x 15 inch outside size",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314x9u6S6fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0085IJVBI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0085IJVBI?tag=rvgearlab-amz-20",
     "description": "The Ventmate 65528 is a direct replacement for the Dometic refrigerator vent lid in the new style, molded from high-impact, UV-stabilized plastic in polar white. It is a like-for-like swap rather than a universal piece.\n\nCompared with the HECASA, which references the same 65528 model, the Ventmate is the named replacement part matching the Dometic lid and polar white color. It suits owners who know their Dometic vent is the new style.",
     "specs": [
       "New style Dometic lid",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UMhNo-noL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHP1V1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHP1V1M?tag=rvgearlab-amz-20",
     "description": "The Camco cover is a low-profile roof-top refrigerator vent cover measuring 34 inches wide, 10 inches deep and 3 1/2 inches high. It fits Dometic and Norcold bases, and dimples on top guide installation on Dometic bases spaced 4 5/16 by 21 7/8 inches.\n\nUnlike the Ventmate lids, the Camco covers the whole base and works with two brands, so owners of either fridge have a match. It suits trailers that want a streamlined look on the roof.",
     "specs": [
       "34 x 10 x 3.5 inches",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fXS14pkaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT7MGXBN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT7MGXBN?tag=rvgearlab-amz-20",
     "description": "The HECASA cover is built to match Dometic refrigerator vents, citing model 65528 specifications, and is made to hold up in extreme heat and cold. It is meant to let heat out freely while hiding worn or cracked vent edges.\n\nNext to the Ventmate 65528 at a slightly lower price, it offers the same fit target with a no-special-tools installation. It suits budget buyers refreshing an aging vent.",
     "specs": [
       "Matches Dometic 65528 spec",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WdNlXjaML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0085IJU6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0085IJU6Y?tag=rvgearlab-amz-20",
     "description": "The Ventmate 65529 is the old-style counterpart of the 65528, a direct replacement for the older Dometic refrigerator vent lid. It uses the same UV-stabilized, high-impact plastic in polar white.\n\nIt is the right lid when your vent is the older design, which the 65528 and HECASA will not match. It suits owners of RVs from the older Dometic generation.",
     "specs": [
       "Old style Dometic lid",

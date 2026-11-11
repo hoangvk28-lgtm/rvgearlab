@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513OLp95I3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZBQMNVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZBQMNVP?tag=rvgearlab-amz-20",
     "description": "The iLiving 18 inch floor fan lists a built-in lithium-ion battery pack that lasts through the day, a full metal casing, metal fan guards and a metal blade for high air volume. It has an IPX4 indoor and outdoor rating and a USB port for phones.\n\nIt is the only pick that names lithium-ion and it is also the largest fan, at 18 inches. It costs more than twice the others, which reflects the metal build.\n\nIt suits campers and workshop users who want a high-volume floor fan with a rated body. Local customer service is listed.",
     "specs": [
       "Built-in lithium-ion pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL fits 24,000mAh of rechargeable cells into its body and quotes 11 to 60 hours of use. Four speeds, a 3950 rpm motor, sub-30 dB noise, three timers and a two-level lamp make it a full-featured tent fan.\n\nIt has the largest named capacity here and a clear runtime range, which the iLiving does not give. The listing says advanced cell technology and does not name the chemistry.\n\nIt suits campers who want a big rechargeable pack at a low price. Timers keep it from running all night.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F1gxdijDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVDDMP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVDDMP6?tag=rvgearlab-amz-20",
     "description": "The HZTzone lists a 20,000mAh battery with up to 20 hours of airflow, a Type-C input, a USB output and a hand crank. It adds an FM radio, white and RGB lighting, 7 blades with a brushless motor and a twist-off grille.\n\nIt offers a hand crank backup that neither the iLiving nor the FRIZCOL has. The listing does not name the battery chemistry.\n\nIt suits campers who want a rechargeable fan with radio and lighting extras. The Type-C input matches modern cables.",
     "specs": [
       "20,000mAh, 20 hours",

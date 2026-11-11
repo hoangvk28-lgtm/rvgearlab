@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AoLzMTovL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6TLRQMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6TLRQMG?tag=rvgearlab-amz-20",
     "description": "POWLAND's 120A MPPT auto-senses 12V up to 96V and accepts up to 230V of PV input with 98% maximum efficiency listed. POWLAND's 120A MPPT controller auto-senses battery systems from 12V up to 96V and accepts up to 230V of PV input, with 98% maximum efficiency listed. An LCD dashboard shows PV input and charging data, and multiple protections are listed.\n\nIt has the highest PV limit and capacity here, well above Qigreesol 100A and ELUSH 100A. It is far more than a typical 24V RV needs.\n\nBest for a large 24V or higher build with long panel strings. It is the headroom pick when you may move up to higher-voltage battery banks later.",
     "specs": [
       "120A MPPT, 12V to 96V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vARSSsdJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 40A auto-detects 12V or 24V, runs from -40F to 149F and lists low-temperature protection. The Rover 40A is a 12V/24V auto-detecting MPPT controller with 98% conversion and 99% tracking efficiency listed. It operates from -40F to 149F with built-in low-temperature protection and a four-stage charge.\n\nIt has far less capacity than POWLAND 120A but a well-documented temperature range and four-stage charge. It costs more than the generic 100A units.\n\nBest for a 24V RV in cold climates. It suits a larger RV roof with a lithium bank in cold climates, though it costs more than generic 40A units.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oNd2nkV+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSJ7Y88?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 100A MPPT works on 12V to 48V with a 100V PV input and timed load control. The listing describes a 100A MPPT unit that accepts up to 100V of panel input and adapts to 12V, 24V, 36V and 48V battery systems. A backlit LCD reports battery voltage, PV and discharge current, temperature and error codes, and the controller can switch a load on a timer or by light level.\n\nIt costs far less than POWLAND 120A and matches ELUSH 100A on rating. It is oversized for most 24V RV banks.\n\nBest for a growing 24V off-grid setup on a budget. The amp rating is generous for a small array, so match it to your panel watts rather than paying for headroom you will never use.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O8U9YUwEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK4RFMMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK4RFMMW?tag=rvgearlab-amz-20",
     "description": "ELUSH's 100A MPPT has a backlit LCD with a clock and seven operating modes at 100V PV input. ELUSH's 100A MPPT controller accepts up to 100V of PV input and handles 12V, 24V, 36V and 48V systems. A backlit LCD with a clock shows data across seven operating modes, and voltage and current protections are listed.\n\nIt matches Qigreesol 100A on PV limit and rating and adds a clock display.\n\nBest for owners who want timers and scheduling. It is a budget-priced high-amp unit, so confirm warranty terms with the seller.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41em3lXjUsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7D943RK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7D943RK?tag=rvgearlab-amz-20",
     "description": "Depvko's 100A MPPT auto-recognizes 12V or 24V and lists tracking efficiency up to 99%. Depvko's 100A MPPT controller auto-recognizes 12V or 24V systems and lists tracking efficiency up to 99%. An LCD displays real-time performance, and built-in defenses guard against overcharging and short circuits.\n\nIt is the lowest-priced MPPT-style 100A here, with fewer features than ELUSH 100A. Confirm its PV voltage limit before building a string.\n\nBest for a budget 24V bank where you will verify specs. It is a low-priced entry to 100A MPPT, so confirm the max PV voltage with the seller.",
     "specs": [
       "100A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51W5ZUZt0KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8VQ9ZL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8VQ9ZL9?tag=rvgearlab-amz-20",
     "description": "ACEIRMC's two-pack gives two 30A PWM controllers that handle 12V or 24V. This listing is a two-pack of 30A three-stage PWM controllers for 12V or 24V systems, each with an LCD, adjustable parameters and dual 5V USB ports rated 2.5A. Protections listed include overcurrent, short circuit, reverse connection and open circuit, all with automatic recovery.\n\nIt is the only PWM option here and the cheapest way to get two controllers. It cannot match MPPT on high-voltage panels.\n\nBest for two small 24V systems. You pay for two units, which helps if you have two small systems but is wasted if you only need one.",
     "specs": [
       "Two 30A PWM units",

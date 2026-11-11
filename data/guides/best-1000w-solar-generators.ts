@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 1000 v2 pairs a 1,070Wh LFP station with a 200W panel and delivers 1,500W AC with a 3,000W surge. Three pure sine wave AC ports, two USB-C ports, a USB-A port and a car port are listed, and the cells keep over 70% capacity after 4,000 cycles.\n\nIt names an app-activated one hour emergency charge and a 30dB quiet overnight mode, and no other kit here lists the one hour full charge. Its 1,500W rating sits between the unbranded 1000W kits and the 1,800W BLUETTI.\n\nIt suits campers who want a known brand, a long cycle life and a simple panel pairing. The station runs air conditioners and fridges per the listing.",
     "specs": [
       "1,070Wh LFP, 1,500W / 3,000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ts7U2lIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Solar Generator Elite 100 V2 kit includes a 1,024Wh station and a 200W panel, with 1,800W rated output and 2,700W in Power Lifting mode. The listing gives 0 to 80% solar in 4 hours and a full charge in 7, with up to 1,000W of solar input available for bigger arrays.\n\nIt has the strongest output of the four and a full wall charge in about 70 minutes, and it adds a 10ms UPS and a 30dB silent mode. Next to the Jackery it offers 300W more output and a lower price.\n\nIt suits campers who want headroom for heavier appliances and the option to add more panels. The BLUETTI app handles monitoring.",
     "specs": [
       "1,024Wh, 1,800W rated, 2,700W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p88ty0hpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5P5MRQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5P5MRQG?tag=rvgearlab-amz-20",
     "description": "The EB1000 kit stores 999Wh and produces 1,000W with a 2,000W surge from pure sine wave AC, with two AC sockets, three QC USB ports, one USB-C PD jack, two 12V ports and a wireless charging pad. The 200W panel has an IP65 rating, a PET-coated face, 840D Oxford fabric and a four-in-one connector cable with XT60, Anderson, DC and aviation plugs.\n\nIt is priced below the brand-name kits and ships with the most connector options, which suits mixing panels and stations. The listing quotes 6 to 8 hours of solar, 7 to 8 hours from the wall and 9 to 10 hours from a vehicle.\n\nIt suits budget buyers who want 1kWh and a rugged panel for weekend trips. Up to 10 devices charge at once.",
     "specs": [
       "999Wh, 1,000W / 2,000W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p88ty0hpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H94C9TNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H94C9TNW?tag=rvgearlab-amz-20",
     "description": "This kit bundles a 1000W pure sine wave station with a 200W foldable monocrystalline panel that has a wear-resistant ETFE surface, a 23% conversion rate and an adjustable kickstand. Outputs run to dual AC outlets, a 60W PD USB-C jack, QC 3.0 USB-A ports, a 12V 10A car socket, a wireless pad and a DC5521 port.\n\nIt has independent LED lighting with double-click SOS and an automatic cooling fan. The listing does not name a watt hour figure, so capacity is the main unknown against the 999Wh and 1,024Wh rivals.\n\nIt suits campers who value a quality panel with a kickstand and want a bundle at a mid price. Multi-layer BMS protection is listed.",
     "specs": [
       "1000W pure sine, 60W USB-C",

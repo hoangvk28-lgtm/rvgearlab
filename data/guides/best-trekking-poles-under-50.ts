@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41etQurm5YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088P9BQNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088P9BQNX?tag=rvgearlab-amz-20",
     "description": "The Cascade poles are aircraft-grade 6061 aluminum at about 10 oz each, with a quick-lock mechanism that adjusts from 26 to 54 inches without stopping. A cork grip with an extended EVA down-grip handles steep climbs, and tungsten carbide tips come with rubber snow and mud baskets, boots and tip covers.\n\nAt about $24 they cost $16 less than the Trek-Z and the only pair here that includes snow and mud baskets, so one pair works year-round. The cork grip resists sweat better than plain foam.\n\nThey suit most day hikers and weekend backpackers who want one pair for all seasons. A travel bag is included.",
     "specs": [
       "6061 aluminum, 10 oz each",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n4C4NdQBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M5SVHJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M5SVHJ1?tag=rvgearlab-amz-20",
     "description": "The Aihoye 7075 poles use aircraft-grade 7075 aluminum with a spring shock absorber in the lower section, cork grips and a four-section design that folds to 16 inches. A combination of quick-flip locks and an internal twist lock balances strength and speed.\n\nAt about $24 they cost the same as the Cascade and use a stiffer alloy that folds shorter. The shock absorber reduces wrist impact on descents, which suits tender knees or hips.\n\nThey suit hikers with joint concerns who want cushioning on downhill sections. The cork grips wick sweat.",
     "specs": [
       "7075 aluminum, four sections",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Peu8SebvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q6BZQZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q6BZQZC?tag=rvgearlab-amz-20",
     "description": "The Trek-Z uses aircraft-grade aluminum at 10.4 oz per pole in the shorter size and 10.8 oz in the taller, with a flip-lock system and a 20 cm adjustment range. The tri-fold design collapses to 15 inches and reinforced joints have metal lock caps.\n\nAt about $40 they cost $16 more than the Cascade and fold smaller than any other pair here, small enough for a carry-on bag. The EVA grips stay comfortable in sweat.\n\nThey suit travelers who fly with their poles. Choose the 100 to 120 cm or 115 to 135 cm size to match your height.",
     "specs": [
       "10.4 oz, tri-fold to 15 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515LQZ2wjKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N69RARX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N69RARX?tag=rvgearlab-amz-20",
     "description": "TrailBuddy poles use 7075 aluminum at 9.7 oz per pole, adjusting from 24.5 to 54 inches with one-handed lever locks. Padded straps, moisture-wicking cork handles and threaded tips for accessories complete the design.\n\nAt about $40 they are the lightest pair here and cost $16 more than the Cascade. The lever locks are quicker than twist locks on other models.\n\nThey suit hikers who want the lightest aluminum pair and speedy adjustments. They also work for kids.",
     "specs": [
       "9.7 oz, 7075 aluminum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rgMwPK8RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N4O3HF3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N4O3HF3?tag=rvgearlab-amz-20",
     "description": "The Aihoye foam-grip poles are aviation aluminum at 10.3 oz each, with an anti-shock design, an ergonomic plastic grip with a secondary foam handle and 10 replacement rubber tips. A free replacement policy and a one-year warranty back the pair.\n\nAt about $21 they are the cheapest pair here and cost $3 less than the Cascade. The plastic grip is less sweat-friendly than cork.\n\nThey suit casual walkers and first-time hikers. Replacement tips cover many miles.",
     "specs": [
       "10.3 oz aviation aluminum",

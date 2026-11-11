@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31S60+ds9pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJYM7R6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJYM7R6G?tag=rvgearlab-amz-20",
     "description": "The BUBRA lifts three 1000 lumen LED panels on a telescopic tripod for a combined 3000 lumens, with a 450 lumen flashlight mode on top. Each head turns 360 degrees and tilts 100 degrees downward, and an 8000mAh battery runs up to 10 hours on high or 30 on low.\n\nAgainst the Qinzhuo, it is the one that actually raises light on a stand, so a picnic table or kitchen area gets overhead light instead of a lantern sitting beside the plates. The body collapses to 2.44 by 15.7 inches and weighs 1.7 lbs.\n\nIt suits car campers and backpackers who cook, play cards or work after dark and want to aim light where it is needed. The same unit also serves as a flashlight and an emergency lantern.",
     "specs": [
       "3 panels, 3000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i0aaoNlIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7Q22RY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7Q22RY?tag=rvgearlab-amz-20",
     "description": "The Qinzhuo is a retractable camping lamp with a 4500mAh rechargeable battery that also works as a charging bank. Three brightness levels sit on top of a color temperature that slides from 1800K warm to 6500K cold, and the title lists a magnetic mount and a waterproof body.\n\nIt costs less than the BUBRA and gives up the stand and the multi-head spread. In return it adds the smooth color temperature range, which suits reading, cooking and quiet evenings better than one fixed white.\n\nIt suits campers who want an adjustable warm-to-cold lantern that tucks away, hangs or sticks to metal. Anglers and hikers who like a phone top-up from the lamp will use the charging bank feature.",
     "specs": [
       "4500mAh, doubles as power bank",

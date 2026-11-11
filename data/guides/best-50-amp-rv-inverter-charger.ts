@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21gGGs-OLHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08C1VRWZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08C1VRWZL?tag=rvgearlab-amz-20",
     "description": "The Xantrex Freedom XC Pro 3000 is a 3000W true sine wave inverter with a built-in 150A battery charger and a 50A transfer relay. Its listing describes a power boost of 2x continuous output for 5 seconds or more for motor loads, a charger designed to recover batteries drained to 0 VDC, operation on weak shore or generator power, and a communications card for RV-C and J1939 monitoring with a Bluetooth app.\n\nIt ranks first because it is the lowest priced here at $1,499.98, $96.79 under the Go Power Advanced and $520.90 under the Go Power IC Series. It matches the IC Series on 150A of charging, and it adds RV-C integration the Go Power models do not mention. The tradeoff is that its relay is described as a 50A transfer relay, not a dual-leg 50A switch, so a coach with two heavy legs needs a careful read of the manual.\n\nPick this if you want the strongest charger for the price and plan to use a Bluetooth app or an RV-C display. The caveat is that the listing does not publish idle draw or efficiency, so confirm the no-load consumption before you run it around the clock on a small battery bank.",
     "specs": [
       "3000W, 150A charger",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31trQyXdK+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZVZ1ZPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZVZ1ZPY?tag=rvgearlab-amz-20",
     "description": "The Go Power Advanced 3000W is a pure sine wave inverter, battery charger and transfer switch in one unit, with a dual-leg 50A shore power transfer switch. The listing describes high-frequency design, improved AC pass-through, over-the-air firmware updates and a 3-year support plan. It does not state the charger amps, surge rating or efficiency.\n\nIt ranks second because it names the dual-leg 50A switch outright, which the Xantrex describes only as a 50A relay, but it costs $96.79 more than the Xantrex and publishes no charger amperage. It is $424.11 below the IC Series and $403.90 below the GP-IC3000 package, and it gives up their documented surge and charger figures to get the newer firmware-updatable design.\n\nChoose it for a 50-amp coach where dual-leg pass-through and firmware updates matter more than a published charger rating. The caveat is the missing charger amps and surge, so ask the seller or read the manual for charge current before pairing it with a large lithium bank.",
     "specs": [
       "3000W pure sine wave",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51G+S6qKSNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079B2W9JN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079B2W9JN?tag=rvgearlab-amz-20",
     "description": "The Go Power IC Series 3000 provides 3000W continuous with 4800W surge for 5 seconds and 6000W surge for 1 second. It combines a pure sine wave inverter, a 150A battery charger and a 100A automatic transfer switch, described as 50A per leg at 120V AC, and works with both 30A and 50A services up to 100A shore power.\n\nIt ranks third because it matches the Xantrex's 150A charger and adds a published surge ladder, but costs $520.90 more than the Xantrex and $424.11 more than the Go Power Advanced. Against the GP-IC3000 package just below it, it costs $20.21 more and offers 150A charging versus 125A, while that package adds a remote. The price premium buys documented specs, not a newer design.\n\nPick this when you need clearly stated surge capacity for a coach with a roof AC and the full 100A of shore power. The caveat is that the listing does not state the efficiency or a remote panel, so budget separately for a remote if you want one.",
     "specs": [
       "3000W, 6000W 1-sec surge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AkLmi7tcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F4MP79S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F4MP79S?tag=rvgearlab-amz-20",
     "description": "The Go Power GP-IC3000-12-PKG delivers 3000W of pure sine wave output with 4800W surge, a 125A battery charger and a dual 50 amp transfer switch, and the package includes a remote. The listing states efficiency over 90 percent, a battery temperature sensor for charge protection, and support for full 100 amp shore power while staying compatible with 30 amp services.\n\nIt ranks last of the four because its charger is 25A smaller than the IC Series and the Xantrex at 125A, and it costs $500.69 more than the Xantrex. It is $20.21 below the IC Series, and the only other one to publish an efficiency figure, which is a number the Xantrex and Go Power Advanced skip. The included remote and temperature sensor are what justify it.\n\nChoose it if you want the remote panel in the box and a stated efficiency figure for sizing batteries. The caveat is that the 125A charger is the smallest here, so large lithium banks will take longer to refill than on the 150A units.",
     "specs": [
       "3000W, 4800W surge",

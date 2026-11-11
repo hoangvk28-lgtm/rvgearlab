@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4173KUIJwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-amz-20",
     "description": "The ALOCS is a 304 stainless steel alcohol stove with a 2250W stated output and a 200 ml fuel tank. The listing gives a 5 second preheat, a 4 minute boil time, a leak-proof silicone seal and a 22 lb load capacity.\n\nIt lists more fuel capacity and burn time than the aluminum burners here, up to 45 minutes on high and 2 hours on low. The Vortex-Siphon design and double wall sit well above a simple brass cup like the Keweis Mini.\n\nIt suits campers and backpackers who want fast boiling and a stable, foldable stand. Cookware from 3.1 to 10.2 inches fits the supports.",
     "specs": [
       "2250W with 5 second preheat",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVlUYezUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NXY47BH?tag=rvgearlab-amz-20",
     "description": "The Keweis is a brass alcohol burner with an aluminum alloy stand, weighing 145 g (5 oz) with a 3.86 by 3.86 by 2.29 inch base. A rubber o-ring seals the cover, and a foldable handle on the flame regulator controls and extinguishes the flame.\n\nIt lists a burn of about 50 minutes on 100 ml of alcohol, a figure the Gexdes Mini does not give. It is also among the lowest priced in the group.\n\nIt suits first-time alcohol stove buyers who want a proven simple design and a stand with some wind protection. The listing mentions a cookware set.",
     "specs": [
       "145 g, brass burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ch1R+vk-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-amz-20",
     "description": "The Gexdes is an aluminum-magnesium alloy burner weighing 3.51 oz (about 100 g) that lists a boil of 550 ml in 8 minutes. It uses 95 percent or higher denatured alcohol and includes an empty pouring bottle, a heat-resistant rubber ring and a carry bag.\n\nThat boil time puts a number on performance where the REDCAMP Mini gives none, and the ready kit saves buying a bottle. The one-piece design avoids loose parts that can get lost in a pack.\n\nIt suits backpackers and hikers who want a light, complete starter kit. Fuel is sold separately.",
     "specs": [
       "3.51 oz, one-piece design",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412dUgfzw6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0794NZXZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0794NZXZG?tag=rvgearlab-amz-20",
     "description": "The REDCAMP Mini is a brass burner with an aluminum alloy stand that weighs about 5 oz (145 g) and comes with a velvet bag. A base with windscreen steadies the pot, and a foldable handle on the flame regulator controls and extinguishes the flame.\n\nIt lists the same design details as the Keweis Mini and adds a 365-day limited manufacturer warranty. The listing gives about 50 minutes of fire per 100 ml of alcohol.\n\nIt suits buyers who want a basic alcohol stove with a warranty behind it. The velvet bag keeps soot off the rest of your kit.",
     "specs": [
       "145 g, brass burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T-pUU2nqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVYFK6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVYFK6L?tag=rvgearlab-amz-20",
     "description": "The THTYBROS is an aluminum alloy alcohol stove set with a flame regulating valve and a surrounding wind guard shell. Foldable pot support brackets with a serrated bracket design hold cookware steady, and a mesh bag is included.\n\nIt is stackable and light, and the wind guard shell is built in rather than added later. Next to the Keweis Mini it trades an o-ring seal listing for a valve and wind shell.\n\nIt suits campers who cook in breezy spots and want a stand that folds away. Simmering and boiling are both mentioned in the listing.",
     "specs": [
       "Flame regulating valve",

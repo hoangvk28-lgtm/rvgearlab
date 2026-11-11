@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ca3oFMdQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVWMBXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVWMBXZ?tag=rvgearlab-amz-20",
     "description": "The EcoFlow 45W uses N-type cells at 25 percent efficiency in a four-panel fold that measures 8.7 by 12.2 by 1.8 inches. It lists IP68 protection with an ETFE film and four pre-cut grommets with included hooks for hanging.\n\nAgainst the ELECAENTA UT-45H, it adds hanging grommets and a design aimed at EcoFlow RIVER power stations. Compared with the 60W panels, it keeps the exact 45W size at a lower cost than BigBlue.\n\nIt suits campers with an EcoFlow RIVER station who want a small, hang-anywhere top-up panel. The same panel lays flat or tilts on a stand.",
     "specs": [
       "45W N-type, 25% efficiency",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QwGc8YpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR295CY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR295CY4?tag=rvgearlab-amz-20",
     "description": "The BigBlue X60 is a 60W panel with a 45W PD USB-C port, a 20W USB-A port and DC outputs. It uses N-type cells at 24.7 percent efficiency and carries an integrated handle with an IP68 rating.\n\nIt has the strongest direct device charging in the group and a cable set with DC5521 to XT60 and several adapters. Against the EcoFlow, it adds 15 watts and USB-C fast charging, and compared with the Flashfish it uses N-type cells.\n\nIt suits campers who charge a phone and tablet from the panel itself and top up a small station too. Keep the junction box covered, since the listing notes it is not waterproof.",
     "specs": [
       "60W, 45W PD USB-C + 20W USB-A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZoWoGiheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TZP6WJY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TZP6WJY?tag=rvgearlab-amz-20",
     "description": "The Flashfish 60W is a foldable panel with an 18V DC output, a 45W Type-C port and an 18W QC3.0 port. It has two kickstands, four connectors including DC3.5 by 1.35, and a 12-month warranty.\n\nAgainst the BigBlue, it costs less and has no stated IP68 rating or N-type cells. Compared with the true 45W panels, it adds extra wattage and a warranty.\n\nIt suits campers who set a panel on the ground and angle it through the day. A kickstand pair makes that quick.",
     "specs": [
       "60W, 45W Type-C, 18W QC3.0",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PP0991bXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVW6T27?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVW6T27?tag=rvgearlab-amz-20",
     "description": "The ELECAENTA UT-45H is a 45W panel using HPBC cells at 25.4 percent, weighing 1.5 lbs. It has DC, USB-C and QC3.0 outputs, an IP68 ETFE laminate, two carabiners and a 3-in-1 cable for DC5521, Anderson and XT60.\n\nIt is the only panel in the group with a stated weight, and 1.5 lbs is very light. Against the EcoFlow, it adds USB-C output and a weight figure for pack planning.\n\nIt suits backpackers and hikers who count ounces. The carabiners let it ride on a pack.",
     "specs": [
       "45W HPBC, 25.4%, 1.5 lbs",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qrYpWaXyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNYYCHDW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNYYCHDW?tag=rvgearlab-amz-20",
     "description": "The Naturnest 2-Person is a hard shell with an extension that adds over 20 percent living space for two adults to sit up and change clothes. It has dual-layer fabric against condensation, a rigid aluminum shell with honeycomb insulation, a 1.97 inch mattress and roof crossbars.\n\nIt is the only pick that names 2 people in the title. Compared with the Naturnest Quick Set Up it costs less and adds the sitting extension.\n\nIt suits couples who want sitting room and four-season build. Blackout fabric helps with sleep.",
     "specs": [
       "20% extra living space",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515gDuEBqpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBXYP2VR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBXYP2VR?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Pioneer Pro offers four-sided vent windows, a side awning and a flocked floor inside an aluminum shell for 2 to 3 people. It is 7 inches tall closed and 39.57 inches high open, and gas struts open it in 5 seconds.\n\nIt costs less than every hard shell here and opens lower than the Explorer Pro. The lower opening height saves wind load.\n\nIt suits couples who prefer a low roofline over standing height. The low opening also catches less wind.",
     "specs": [
       "7 in closed, 39.57 in open",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ktJxUTiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-amz-20",
     "description": "The WGOS is an inflatable rooftop tent with an air-beam structure, a pump, an inflatable mattress and a telescoping anti-slip ladder. It uses 420D Oxford and 280G poly-cotton with UV50+ protection and rated for 2 to 3 people.\n\nIt is the cheapest pick by far and the only one with an air-beam frame. The hard shells open faster and cost over twice as much.\n\nIt suits couples who want rooftop camping on a small budget. The included pump, mattress and ladder mean nothing else to buy.",
     "specs": [
       "Air-beam frame, pump",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Zu4mOZRYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNFZTDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNFZTDD?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Explorer Pro opens to 62.99 inches high on an aluminum shell sold for 2 to 3 people. It shares the 83.86 by 51.57 inch closed footprint, a side awning and a flocked-lining floor with the Pioneer Pro.\n\nIt costs a little more than the Pioneer Pro and gives far more interior height. The Naturnest adds an extension and costs much more.\n\nIt suits couples who want to sit upright inside. LED lights and an awning round out the package.",
     "specs": [
       "Opens to 62.99 in high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uo+UE6CFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ231HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ231HZ?tag=rvgearlab-amz-20",
     "description": "The Naturnest Quick Set Up is a hard shell with a patented raised roof that opens in about 15 seconds from the ladder pull, with ABS panels and an aluminum frame. It has a 1.97 inch mattress and replaceable tear-resistant fabric.\n\nIt is the most expensive of the five and puts speed at the front of its pitch. The WGOS inflatable costs a fraction.\n\nIt suits couples who prioritize speed and a premium build. Poles are only needed for the rainfly in high winds.",
     "specs": [
       "Raised roof, 15-second open",

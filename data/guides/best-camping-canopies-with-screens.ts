@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U-7qB2dxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KLVQDHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KLVQDHZ?tag=rvgearlab-amz-20",
     "description": "The Crown Shades gazebo is a 10x10 ft pop-up canopy with detachable mesh sidewalls and dual-sided zippers. Its 4-way CENTERLOK frame, 150D Oxford fabric with UPF 50+ silver coating, dual auto-deploying air vents and CPAI-84 fire-resistance certification are listed.\n\nAgainst the VEVOR it has a steel frame and a full anchoring kit of 8 stakes, 4 sandbags and 4 guy ropes. Compared with the Quictent it adds vents and a certified fabric.\n\nIt suits campers who want a frame they can trust and a mesh set that can come off. The wheeled storage bag helps with loading.",
     "specs": [
       "10x10 ft, 4-way CENTERLOK",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LWksh0LvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13WHY1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13WHY1T?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12x12 ft six-sided gazebo has a 7.2 ft canopy, a 300D Oxford top with UV50+ protection and six reinforced roll-up wind panels. It fits six seated with furniture and 8 to 10 people for activities, and packs into a 4.4 ft bag.\n\nIt is the biggest and priciest tent here, and it adds a convertible door panel that works as a shade. Against the Crown Shades it gives more floor on lighter fiberglass poles.\n\nIt suits groups that need a big, enclosed bug room for meals. 360 degree mesh and two ventilation window panels keep air moving.",
     "specs": [
       "12x12 ft, 7.2 ft canopy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MbF7pvA7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T3XOW2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T3XOW2W?tag=rvgearlab-amz-20",
     "description": "The Quictent is a 10x10 ft pop-up canopy with fine mosquito netting and a full Velcro screen that seals all around. A 420D Oxford top has a silver UV coating and a PU waterproof layer, and one person can pitch it without tools.\n\nAgainst the Crown Shades it costs less and keeps a heavy 420D top. Compared with the NatureNook it is smaller and offers a one-person pitch.\n\nIt suits solo campers who want netting that seals tight. A wheeled carry bag is included.",
     "specs": [
       "10x10 ft, 420D Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zuxIMY8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-amz-20",
     "description": "The NatureNook is a 12x12 ft pop-up screen gazebo with 300D polyester that is waterproof to 5000mm and UV-proof. It comes with an awning, sidewalls and wind panels that roll up, lower or pull out on a traction rope, and zipper vents.\n\nIt carries the highest listed rain rating of any screen house here. Against the VEVOR it adds an awning and costs much less.\n\nIt suits campers who face rain and want mesh and shade in one tent. Zipper vents keep air moving and doors easy to use.",
     "specs": [
       "12x12 ft, 300D polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a2JtQcwNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-amz-20",
     "description": "The VEVOR screen house is 10 ft by 9.2 ft by 7.55 ft for 4 to 8 people, with 360 degree mesh, a 300D Oxford screened canopy and a reinforced fiberglass and steel pole set. It ships with 12 metal stakes, 3 fiberglass poles, a strap and bags for carry, stakes and poles.\n\nIt costs less than the 12x12 VEVOR and offers a taller 7.55 ft peak. Against the Amazon Basics it has a smaller floor and a steel and fiberglass frame.\n\nIt suits campers who want a roomy, bug-free pop-up at a low price. The accessory kit covers everything for setup.",
     "specs": [
       "10 x 9.2 x 7.55 ft",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mgJACVmaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPH31D5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPH31D5V?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics screened canopy is 12 ft by 12 ft with a 92 inch center height and a four-sided zippered screen enclosure. UPF 50+ top fabric, a single movable shade panel, a fiberglass and metal frame, ground stakes and a carry bag are listed.\n\nIt is the least expensive screen house here, and it has the tallest center height. Against the other 12x12 options it has no wind panels or awning.\n\nIt suits campers who want a big, bug-free room for the lowest cost. No tools are needed for setup and takedown.",
     "specs": [
       "12 x 12 ft, 92 in center",

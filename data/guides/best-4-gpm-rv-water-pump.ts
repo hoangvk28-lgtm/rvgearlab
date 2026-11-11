@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rL-c6OghL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP5629MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP5629MN?tag=rvgearlab-amz-20",
     "description": "The LEGLO is a 12V DC pump carrying a 4.0 GPM rating, a 45 PSI setting and a stated 98 foot lift. As the lead pick for a 3-to-4 GPM step up, it arrives with two 1/2 inch barbed adaptors, two 90 degree pump fittings, two clamps and a 50 mesh inlet strainer, which covers nearly every part a pump swap calls for.\n\nIt carries the most complete parts list of the 12V pumps here, and the 90 degree fittings help in tight bays where a straight barb would force the hose into a kink. The Bootee and the TDR Venus match its flow, while the LEGLO adds a detailed mounting note that calls for a flat rigid surface. That guidance helps a first-time installer place the pump so vibration stays out of the walls.\n\nIt is the right fit for an owner who wants a ready-to-install 12V pump and is moving up from a 3 GPM unit. The 45 PSI setting is friendly to standard RV plumbing, so the extra flow arrives without pushing the lines harder than the original pump ever did, and the included strainer protects the new diaphragm from day one.",
     "specs": [
       "4.0 GPM at 45 PSI on 12V DC",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNUk3lUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-amz-20",
     "description": "The Gidrox 12V pump lists 4.0 GPM at a factory 45 PSI, adjustable from 30 to 80 PSI, with a 10 foot self-prime and a 100 foot head. It names 158 degree F overheating protection and a vortex noise reduction design mounted on a rubber base, an unusually specific set of protections for a pump in this price tier. That is a lot of safety margin printed on one listing.\n\nAgainst the LEGLO, it adds an adjustable pressure range and a stated 40 dB noise level, while the LEGLO leans on its parts bundle. It is also cheaper than the LEGLO, so the step up to 4 GPM costs very little extra. Next to the Bootee it shares the 45 PSI starting point, and the adjustment screw lets an owner back it down if a shower hose feels stressed.\n\nA good pick for owners who want to tune pressure after the install and sleep near the pump. The damping base keeps vibration off thin cabinet panels, which is where a stronger pump tends to announce itself in a small trailer or van conversion. It is a natural step up for a camper who wants the gentler 30 PSI end of the dial available later.",
     "specs": [
       "4.0 GPM, factory 45 PSI, adjustable 30 to 80",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ba8JEJhVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLNDD946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLNDD946?tag=rvgearlab-amz-20",
     "description": "The Bootee is a 12V pump with 4.0 GPM flow, a 45 PSI automatic pressure switch, 101 foot lift and 9.8 foot suction height. A permanent magnet motor, thermal overload protection and a low-noise rubber base are listed, and the title points at camping, marine and cleaning uses alongside RV water supply. The listing reads cleanly and leaves little to interpret.\n\nIt sits close to the Gidrox 12V in price and gives a clean spec set with a higher stated lift. The 9.8 foot suction height is stronger than the 10 foot self-prime figure printed for the Gidrox in practical terms of reach from a low tank, and it undercuts the LEGLO on cost while matching the flow. Its plain switch behaves predictably with no dial to adjust.\n\nA sensible choice for owners who need 4 GPM on 12V and want a straightforward pump with no extras to configure. The thermal protection covers the motor during long fills, and the suction height gives breathing room for a tank mounted below the pump. Anyone moving up from a 3 GPM pump who wants the lowest-fuss 12V option should look here first.",
     "specs": [
       "4.0 GPM at 45 PSI automatic pressure switch",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YK7K8cHXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C16HTQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C16HTQSD?tag=rvgearlab-amz-20",
     "description": "The TDR Venus 530F is a 12V pump that lists 4 GPM and 240 GPH, 170W power and a 45 PSI maximum pressure. A 50 mesh inlet strainer, a 180 day warranty and guidance to keep it on fresh water are all included, which gives a buyer several firm facts in a field where details are often vague. Each of those items helps a buyer plan the install.\n\nIt states its warranty length where the Bootee and the Gidrox 12V are silent, and the strainer ships with it. Its title carries a 50 PSI label, slightly above the 45 PSI group, so it is the entry in the 12V set where the printed numbers reward a careful read. The 170W figure is the most useful electrical number in the lineup, since dividing it by 12 volts gives roughly 14 amps.\n\nA reasonable choice for owners who plan to wire the new pump on its own fused circuit and want a number to size it against. The 170W rating turns wire and fuse planning into arithmetic, and the stated warranty gives a path to support if the diaphragm quits early. A buyer moving up from 3 GPM gets a clear starting point for the fuse conversation.",
     "specs": [
       "4 GPM, 240 GPH, 170W on 12V",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417L9KVc0UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH47Q3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH47Q3W?tag=rvgearlab-amz-20",
     "description": "The Gidrox 115V pump delivers up to 4.0 GPM at a factory 45 PSI, with an adjustment span of 30 to 80 PSI. It plugs into a standard outlet and includes metal garden hose adapters stepping from 1/2 inch to 3/4 inch, so the connection to a hose or a fresh-water inlet is ready to go. Hose and plug are the main connections to make.\n\nIt is the choice for owners who live on hookups, since the 12V picks all run off the battery, need stout wire for the extra flow. The built-in smart pressure switch and quick garden hose connection set it apart from the DC pumps, and it shares the adjustable range of the Gidrox 12V at a slightly higher price in the lineup.\n\nA match for owners who stay at full-hookup sites or run the pump off shore power or a large inverter. Because it avoids the fuse and wire upgrade a 12V 4 GPM pump asks for, it is the cleanest way to get 4 GPM when the coach wiring is original, and it also works for transfer jobs around camp. Its adjustable range lets the owner dial pressure to taste.",
     "specs": [
       "4.0 GPM, factory 45 PSI, 30 to 80 adjustable",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yoggrpTLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H635GBV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H635GBV4?tag=rvgearlab-amz-20",
     "description": "The AUNMAS is a 24V pump rated 4 GPM at 45 PSI with a 130 foot head and G1/2 inlet and outlet threads. It works with a pressure switch for automatic operation and runs from a standard 24V battery bank, which makes it the one pick here designed for that voltage. Its pressure switch handles the on-demand starts.\n\nIt is the lone 24V pump here, so it fits off-grid systems built around a 24V bank rather than the usual 12V RV bus. Compared with the Gidrox 12V, it runs the same 4 GPM at 45 PSI while drawing half the current for a given power, which keeps wire runs gentler. The G1/2 threads differ from the 1/2 inch NPT common on the rest, so plan on matching adapters at install time.\n\nA niche pick for owners with a 24V power system, such as a solar-heavy rig or an off-grid cabin build. Everyone on a standard 12V coach will do better with the other picks, while a 24V owner gets 4 GPM without a voltage converter. The 130 foot head figure leaves plenty of reach for a low tank.",
     "specs": [
       "4 GPM at 45 PSI on 24V",

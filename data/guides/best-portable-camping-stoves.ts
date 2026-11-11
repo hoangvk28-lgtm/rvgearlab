@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton closes with a heavy-duty latch, which makes the whole two-burner stove into a flat box you can carry. It lists 22,000 total BTU, two wind guards and a removable chrome-plated grate for easy cleaning.\n\nThat latch is the carry feature the GasOne and SHINESTAR cases replace with a bag, and it keeps the grate from rattling. It is also the most affordable of the larger stoves here.\n\nIt suits campers who move often and want two burners. Independent knobs allow simmering on one side.",
     "specs": [
       "22,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NGvDTYTML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0784VYVL1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0784VYVL1?tag=rvgearlab-amz-20",
     "description": "The Coleman Cascade 3-in-1 is a two-burner stove rated at 24,000 total BTU with removable cast iron grill and griddle accessories. A recessed carry handle, a place to store the regulator and a nylon case for accessories are listed.\n\nIt brings more cooking range than the Triton, since the grill and griddle swap in for the grate. A rotary ignition lights the burners without matches, and two wind guards shield the flame.\n\nIt suits campers who want one portable stove to grill, griddle and boil. The heavy-duty latch keeps it closed in transit.",
     "specs": [
       "24,000 BTU, rotary ignition",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iwUW9W9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-amz-20",
     "description": "The SHINESTAR is a butane stove with 7,800 BTU, a porous annular burner and one-click piezo ignition. It comes with a black carrying case, a removable porcelain-coated grate and a triple protection system.\n\nThe case makes it easy to toss in a bag, and the body is far smaller than the two-burners. Next to the GasOne GS-3400P it burns butane only.\n\nIt suits tailgaters and picnickers who want a tiny stove with a case. Safety features include cartridge ejection.",
     "specs": [
       "7,800 BTU butane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "The GasOne GS-3400P comes in a carrying case and runs on one butane cartridge or a propane cylinder. Piezo ignition, a heat dial and a pressure sensor cartridge ejection system are listed.\n\nIt is the only one here that takes either fuel, so you keep cooking when one runs out. The case keeps the burner clean in a bag.\n\nIt suits campers who move between fuels. Fuel is sold separately.",
     "specs": [
       "Butane or propane fuel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "Everything about the AOTU is small: it ships in a plastic box measuring 4 by 5 by 8 cm. Inside is a 3000 W canister stove with a piezo igniter and a control valve that runs from full heat to a simmer.\n\nSmallest and cheapest in the group, it threads onto standard butane or butane-propane canisters. A honeycomb net around the burner blocks wind.\n\nIt suits campers who want the most portable stove possible. A satisfaction guarantee is listed.",
     "specs": [
       "3000 W, piezo ignition",

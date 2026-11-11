@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517UD1r6AlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6GMXZ6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6GMXZ6X?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Kids Barefoot shoe has a breathable mesh upper, drainage holes in the outsole, a wide toe box and a flexible sole. A zero-drop thin outsole keeps the foot flat, which the listing ties to natural posture and toe development.\n\nIt is the only pick here that spells out zero-drop and a flexible frame, which gives more foot feel than the thicker-soled Stelle Kids Wide Toe. The wide toe box gives more room than the Centipede Demon Kids and VIFUUR Kids.\n\nIt suits parents of children who play barefoot style on beaches and pool decks and who like a roomy toe area. The thin sole keeps the shoe light enough to pack.",
     "specs": [
       "Wide toe box, zero-drop sole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XeEfC9wfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1322HPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1322HPY?tag=rvgearlab-amz-20",
     "description": "The Stelle Kids TPU has an adjustable drawstring with a cord-lock, heel pull tabs and stretch construction for a stay-put fit. TPU side overlays add structure, and the non-slip outsole is made for wet pool decks and splash pads.\n\nThe cord-lock gives a firmer, tunable fit than the pull-on Centipede Demon Kids or the VIFUUR Kids. TPU overlays add side support that the plain Stelle Kids Wide Toe does not list.\n\nIt is a good choice for active kids who run, jump and splash, since the fit stays snug when feet get wet. Parents will like the heel tabs for quick changes.",
     "specs": [
       "Cord-lock drawstring fit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xLiO+XhCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD7BPBDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD7BPBDT?tag=rvgearlab-amz-20",
     "description": "The Stelle Kids Wide Toe is a lightweight sock-like shoe made from quick-drying diving material, with a wide toe box and non-slip rubber soles. Thick shock-absorbing insoles add cushion for pavement, sand and beach walks.\n\nThe shock-absorbing insole is more padding than the SEEKWAY Kids Barefoot lists, and it is a little cheaper. It lacks the cord-lock of the Stelle Kids TPU.\n\nIt suits kids who walk a lot between the car, the beach and the splash pad. The cushioned insole takes some of the edge off hot pavement.",
     "specs": [
       "Thick shock-absorbing insole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51M-TtwcpLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GYGYBDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GYGYBDX?tag=rvgearlab-amz-20",
     "description": "The Centipede Demon Kids is a breathable, high-stretch aqua sock with an anti-slip rubber sole and a slip-on or hook-and-loop design. Dozens of patterns and styles are offered for girls and boys.\n\nThe hook-and-loop option gives an easier fit than the slip-on SEEKWAY Kids Barefoot, and the pattern range is wider than any other pick. It costs less than the Stelle Kids pair.\n\nIt is a good match for a child who wants to choose a favorite pattern and for parents who want a low-cost swim shoe. The flexible sock-like feel works for pool and beach.",
     "specs": [
       "High-stretch breathable fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WYF+qLIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2R48M1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2R48M1J?tag=rvgearlab-amz-20",
     "description": "The VIFUUR Kids Toe Cap uses a stretch diving-material upper, a soft rubber anti-slip sole and an anti-collision toe cap with thickened heel protection. A smooth neck design is meant to prevent scratching.\n\nThe toe cap and heel reinforcement give more front-of-foot protection than the Centipede Demon Kids and Stelle Kids Wide Toe. It costs less than all the Stelle and SEEKWAY pairs.\n\nIt is aimed at rocky shores and playgrounds where small toes take knocks. Families heading to a lake or river will appreciate the extra cover.",
     "specs": [
       "Anti-collision toe cap",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lRIoebUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGNYT1KX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGNYT1KX?tag=rvgearlab-amz-20",
     "description": "The VIFUUR Aqua Socks is a basic slip-on aqua sock with a smooth neck design, a rubber outsole and breathable stretch fabric. The listing notes sizes for little kids, big kids, men and women.\n\nIt is the least expensive pair here and the simplest design, with none of the toe caps or fit tweaks of the VIFUUR Kids Toe Cap. The fabric is the same stretch sock style as the Centipede Demon Kids.\n\nIt suits a spare pair for a bag, a beach day or a car trunk, or kids who only need very light cover. It also stuffs easily into a beach bag.",
     "specs": [
       "Basic slip-on aqua sock",

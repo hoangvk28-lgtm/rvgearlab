@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X is a 50 amp portable unit rated 120 to 240 volts and 12,000 watts, absorbing up to 3,580 joules. Its listing names over and under voltage protection, reverse polarity and surge failure protection, an all weather shield, thermal protection and a display with LED indicators.\n\nIt ranks first because it states voltage protection, not just surge absorption, and it names a display with LED indicators. The POWGRN 30A below adds a manual reset shutoff but for a lower amp rating, and the GEARGO picks list only wiring lights.\n\nBest for a 50 amp rig that needs more than a surge absorber. The listing does not name open ground or open neutral detection, so confirm that if wiring faults worry you.",
     "specs": [
       "50A, 120-240V, 12,000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M8cIk2-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-amz-20",
     "description": "The POWGRN 30A lists 26,000 joules, an automatic shutoff with manual reset during faults such as low voltage and overheating, and a large LED display of voltage, current and power. It also lists a waterproof cover and an anti-theft ring.\n\nIt costs under $30 and states a shutoff, which the GEARGO units at similar prices do not describe. Next to the Progressive PT50X above it protects a 30 amp rig only, and a manual reset means you must walk to the pedestal after a fault instead of waiting for a timer.\n\nBest for a 30 amp owner who wants an affordable shutoff and a live display. The listing names no UL or other certification, so check the markings on the unit.",
     "specs": [
       "30A, 26,000 joules",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zzRx4oo+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53RLC1Q?tag=rvgearlab-amz-20",
     "description": "The GEARGO 50A is a 15,000 joule surge protector with a circuit analyzer, IP68 waterproofing, flame-retardant materials, right-angle plugs and a three-year warranty. The listing says it recognizes power failures and protects against high and low voltage.\n\nCompared with the Progressive PT50X above, it costs far less, but the listing does not describe a cutoff or reconnect delay. The MILLIONHOME 50A below lists a bigger joule number for a similar price.\n\nBest for a 50 amp owner who wants a pedestal tester and a surge layer for under $60. Treat the high and low voltage wording as unconfirmed until the seller states what the unit does at those thresholds.",
     "specs": [
       "50A, 15,000 joules",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OBeyRHx2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKN5Q76V?tag=rvgearlab-amz-20",
     "description": "The MILLIONHOME 50A lists 18,000 joules, a plug-and-play design, flame-retardant waterproof construction and voltage protection and circuit analysis in its title. The listing says it is safety certified but names no certifying body.\n\nIt carries a higher joule rating than the GEARGO 50A 15000J for about the same price, but the listing offers no warranty term and no description of a cutoff. It is a surge protector with an analyzer, not an EMS.\n\nBest for a 50 amp owner who wants the biggest surge number for a low price. Ask which certification applies before relying on the safety claim.",
     "specs": [
       "50A, 18,000 joules",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30A is a 12,000 joule surge protector with a circuit analyzer, FCC testing, V-1 flame-retardant materials, IP68 waterproofing and a three-year warranty. It tests pedestal wiring before you connect.\n\nNext to the POWGRN 30A above it has a smaller joule rating and no stated shutoff, but it comes with a three-year warranty. Compared with the GEARGO 50A 15000J it covers a 30 amp inlet instead of 50.\n\nBest for a 30 amp owner who mainly wants a wiring tester and a low-cost surge layer. It does not describe voltage cutoffs, so it is not an EMS.",
     "specs": [
       "30A, 12,000 joules",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MrNiKMu9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007O6INSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007O6INSE?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMSHW50C listing gives package size, a country of origin of China and the model number, and nothing else. The model name suggests a 50 amp hardwired unit, but the listing does not state the amp rating, mount type, joules or protections.\n\nNext to the Progressive PT50X above, the brand is the same but nothing about EMS behavior is named, and it costs more. It ranks last because the listing cannot be compared on any spec, not because of a known fault.\n\nBest only if the seller confirms the model's amp rating, mount type and protections first. Otherwise, the Progressive PT50X is the safer choice.",
     "specs": [
       "Progressive model EMSHW50C",

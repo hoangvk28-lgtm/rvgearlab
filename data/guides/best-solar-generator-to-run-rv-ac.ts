@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
     amazonQuery: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51iRMhbcUoL._SL500_.jpg",
     specs: ["Capacity: 88Wh","Surge output: 120W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"88Wh"},{"label":"Surge output","value":"120W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "4000 Watt Power Inverter 12V DC to 120V/110V AC",
     amazonQuery: "4000 Watt Power Inverter 12V DC to 120V/110V AC",
-    amazonUrl: "https://www.amazon.com/dp/B0GCDWHKHM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GCDWHKHM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/517gG7GO9QL._SL500_.jpg",
     specs: ["Surge output: 8,000W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Surge output","value":"8,000W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "3000W Power Inverter 12V DC to 110V/120V AC, 6000W Peak Car Inverter",
     amazonQuery: "3000W Power Inverter 12V DC to 110V/120V AC, 6000W Peak Car Inverter",
-    amazonUrl: "https://www.amazon.com/dp/B0C9QC4SK6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C9QC4SK6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41WMSXiJcwL._SL500_.jpg",
     specs: ["Continuous output: 3,000W","Surge output: 6,000W","Listed weight: 4.9 lb","Battery chemistry: LiFePO4"],
     specList: [{"label":"Continuous output","value":"3,000W"},{"label":"Surge output","value":"6,000W"},{"label":"Listed weight","value":"4.9 lb"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Portable Power Station 500W, 519.48Wh/140400mAh Solar Generator Backup",
     amazonQuery: "Portable Power Station 500W, 519.48Wh/140400mAh Solar Generator Backup",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519.48Wh","Continuous output: 500W","Included panel: 200W","Runtime claim: Up to 9 hours"],
     specList: [{"label":"Capacity","value":"519.48Wh"},{"label":"Continuous output","value":"500W"},{"label":"Included panel","value":"200W"},{"label":"Runtime claim","value":"Up to 9 hours"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "MARBERO Solar Powered Generator 88Wh, 120W Surge product page",
-    "href": "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

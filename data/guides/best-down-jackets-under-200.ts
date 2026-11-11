@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VdcSrySRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-amz-20",
     "description": "The Columbia Delta Ridge II is a men's down jacket with responsibly sourced 650-fill power down, Omni-Heat reflective lining, heat-sealed stitch-free baffles and an Omni-Shield finish that repels light rain and stains. The exterior is rain and stain resistant.\n\nIt costs about $150, which is double the CREATMO Parka and the only down jacket here from an established outdoor brand. Heat-sealed baffles avoid stitched seams where cold leaks, and the reflective lining adds warmth that the 33,000ft Packable cannot match with synthetic fill alone.\n\nIt suits campers, hikers and commuters who want a down jacket that is built to last several winters. It handles cool, dry cold best and drizzle in a pinch.",
     "specs": [
       "650-fill power down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HmisryMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-amz-20",
     "description": "For a quarter of the Columbia budget, the 33,000ft Packable offers a windproof nylon shell, 3000mm DWR protection and polyester synthetic fill that folds into a hand pocket. A chest pocket and two hand pockets zip shut for phone and keys.\n\nIt costs about $55, under half the Columbia Delta Ridge, and is the most compressible jacket in this guide. Against the Columbia, it keeps insulating in damp weather, while the Columbia is warmer in dry cold.\n\nIt suits backpackers who want a light synthetic layer that packs into a pocket. Pair it with a shell in rain.",
     "specs": [
       "Windproof nylon, DWR 3000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oXlXaQDzS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JH5BD1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JH5BD1X?tag=rvgearlab-amz-20",
     "description": "The CREATMO Parka is a men's insulated parka with cotton down alternative fill, a DWR finish for moisture and wet snow and a windproof SBS zipper. A detachable adjustable hood, stretch cuffs, a waterproof chest zipper pocket and two microfleece hand-warmer pockets are included.\n\nIt costs about $70, under half the Columbia Delta Ridge, and the parka length makes it warmer at rest than the Columbia, which is a jacket-length cut. It is bulkier and heavier than any other jacket here.\n\nIt suits car campers, skiers and commuters who want a long insulated coat on a mid budget. Take the hood off in mild weather.",
     "specs": [
       "Parka length, cotton fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aQDe-jimL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XXW8V5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XXW8V5N?tag=rvgearlab-amz-20",
     "description": "Outside the men's lineup, the BINACL Fur Parka stands alone as a women's winter coat with a fixed faux fur hood trim, thick down alternative fill and a hip-length cut. Two deep lined side pockets and an interior pocket handle keys and a phone, and sizes run XS to 3XL.\n\nIt costs about $96, about $54 below the Columbia Delta Ridge, and it is the longest, warmest-looking cut here, covering the waist and hips. It is the only women's jacket in the group.\n\nIt suits women who want a full winter parka for snow days, cold travel and standing outdoors. It is machine washable on a gentle cycle.",
     "specs": [
       "Thick down-alternative fill",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jr2IRxTQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGXMFZB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGXMFZB5?tag=rvgearlab-amz-20",
     "description": "Bubble quilting and an alternative fill give the Bubble Puffer 3000mm its loft, and a 3000mm DWR coating handles light precipitation. A drawstring hood, a waterproof stuff sack and six pockets make up the rest of the package.\n\nIt costs about $40, the lowest price here and a quarter of the Columbia Delta Ridge. It has a hood, which the 33,000ft Packable lacks, and it is lighter than the CREATMO Parka.\n\nPick it for travel days and shoulder-season hikes when you want a hood and a rating without much outlay. Under a shell it makes a decent mid layer in the cold.",
     "specs": [
       "Alternative fill, DWR 3000mm",

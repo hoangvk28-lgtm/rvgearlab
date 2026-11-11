@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree AC holds 1 liter in a collapsible body, with a 0.1 micron hollow fiber filter and an activated carbon stage. The listing states a flow of 2 liters per minute and a capacity of up to 1,000 liters.\n\nIt is the easiest of the six to maintain, since you shake or swish it clean and need no tools. Next to the TRAILGO Pro and the Katadyn Hiker, it packs flat and weighs far less on the trail.\n\nIt suits solo hikers who fill from streams and want fast flow without pumping. The carbon stage helps with taste.",
     "specs": [
       "1 L collapsible bottle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U5YkHN7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-amz-20",
     "description": "The TRAILGO Pro is a three-stage hand pump with a listed flow of 1.5 liters per minute. A 5 micron pre-filter, a PP cotton stage and an ultrafiltration membrane do the work, and the kit includes tubes, clamps and a carry bag.\n\nIt serves a group of four to six according to the listing, which no squeeze or straw here can match. Compared with the Katadyn Hiker, it is the complete package with nothing extra to buy.\n\nIt suits families and base-camp groups that need a lot of water fast. Setup takes minutes.",
     "specs": [
       "1.5 L per minute pump",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FZZ2NI6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0047QV0AM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0047QV0AM?tag=rvgearlab-amz-20",
     "description": "The Katadyn Hiker is an 11 oz pump-action microfilter that treats water from streams, ponds and lakes. It needs no batteries or gravity, and you can clean it in the field.\n\nIt is lighter than most pumps and costs less than a gravity system. Against the BeFree AC, it trades packability for a pumping routine that works with shallow sources.\n\nIt suits backpackers who prefer a pump and a hose. Anyone in the group can run it.",
     "specs": [
       "11 oz pump-action microfilter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wee6T08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYYQZDN?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions Straw S1 comes in a four-pack of 7.1 inch straws rated at 0.1 micron across five stages, one of them coconut shell carbon. The listing cites NSF/ANSI 42, 372 and 401 and gives a test report number.\n\nNo other straw here names its standards, and the pack gives a straw for each family member. It fits any 28 mm bottle thread, and flow reaches 16.9 fl oz per minute per the page.\n\nIt suits hikers who want paperwork behind the claims. Carry one in each pack as a backup.",
     "specs": [
       "0.1 micron, 5-stage",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p4o4RSGzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal filters down to 1 micron and the listing states removal of 99.999999 percent of bacteria and 99.999 percent of parasites. It lists a 4,000 liter lifespan and lab tests to EPA, NSF and ASTM protocols.\n\nLowest in weight and price of the six, it has no moving parts. Next to the BeFree AC, it filters by sipping only, so you cannot fill a bottle.\n\nIt suits ultralight hikers and emergency kits where a backup is all you need. Nothing breaks on it.",
     "specs": [
       "Bacteria and parasite removal",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qppc016HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-amz-20",
     "description": "The Bachgold is a collapsible squeeze bottle that pairs a nanofiber layer with a hollow fiber membrane rated at 0.2 micron. The page says a light squeeze delivers filtered water with no pumping.\n\nIt is the lowest-priced bottle in the group and folds flat. Against the BeFree AC, its membrane is coarser at 0.2 micron, and no flow figure is printed.\n\nIt suits casual hikers who want a first filter at the lowest cost. The leak-resistant cap lets it ride in a daypack.",
     "specs": [
       "2-stage filter, 0.2 micron membrane",

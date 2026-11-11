@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "The WEN 56360i is a 3,600-watt surge, 2,900-watt rated inverter generator with a 149cc engine. It weighs 46 pounds, has a TT-30R RV outlet and a fuel shut-off that protects the carburetor in storage.\n\nIt costs about $498, the top of the budget and around $150 above the Westinghouse 4650, and it is the lightest here besides the small Westinghouse iGen1500c. Inverter output is cleaner than the Westinghouse 4650's open frame and the 3-year warranty is longer than most.\n\nIt suits RVers and campers who want to run a 30-amp hookup or small air conditioner while keeping weight down. A fuel shut-off keeps the carburetor clean between trips.",
     "specs": [
       "2,900 rated, 3,600 surge watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a-T0yBYdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KPJZ2P?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 delivers 3,600 running and 4,650 peak watts through TT-30R and L5-30R outlets. A CO sensor and low-oil shutdown protect it, and a 4 gallon tank with a gauge keeps it running longer.\n\nIt costs about $349, around $150 less than the WEN 56360i, and it adds a CO shutdown that the WEN lacks. It is an open frame model and louder than the inverter units.\n\nIt suits campers and RVers who want carbon monoxide protection and long runtime. A 3-year limited coverage backs it.",
     "specs": [
       "3,600 running, 4,650 peak watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZSAxccmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2XN9729?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2XN9729?tag=rvgearlab-amz-20",
     "description": "The AIVOLT is a 4,200-watt peak, 3,300-watt running inverter generator that runs up to 16 hours at 25 percent load on its 2.6 gallon tank. It has a TT-30R RV outlet, two household outlets, two USB ports and a parallel kit option.\n\nIt costs about $300, around $200 less than the WEN 56360i, and it has the longest stated runtime in the group. Low oil shutdown guards the engine and an overload cutoff guards your gear, and ECO mode trims fuel use.\n\nIt suits campers who want to run an RV or fridge overnight on one tank. It also suits job sites.",
     "specs": [
       "4,200 peak, 3,300 running watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 4400 delivers 4,400 peak and 3,400 running watts through a 30A RV port, two 120V ports and a 12V DC port. It has a 2 gallon tank and runs 14 hours at 25 percent load.\n\nIt costs about $330, roughly $30 more than the AIVOLT, and it weighs 56 pounds, which is more than the WEN 56360i. Inverter technology and cold start tech come standard, along with ECO mode.\n\nIt suits RVers who want 3,400 running watts for a small budget. Cold start technology helps in chilly mornings.",
     "specs": [
       "4,400 peak, 3,400 running watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WjdxAxD8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PDR11L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PDR11L4?tag=rvgearlab-amz-20",
     "description": "The ERAYAK is a 2,400 peak, 1,800 running watt inverter generator that runs at 52.5 dB from 7 meters at 25 percent load. It weighs 42 pounds, with two AC outlets, two USB ports, a DC output and less than 1.2 percent THD.\n\nIt costs about $329, close to the Oxseryn 4400W RV Ready, and it is quieter and lighter while offering half the running watts. It suits campgrounds with strict noise rules.\n\nIt suits tent campers and small trailers that run a fridge, lights and a laptop. Eco Mode adjusts speed to save fuel.",
     "specs": [
       "2,400 peak, 1,800 running watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WOidyzwaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen1500c is a 1,500-watt peak, 1,000-watt rated inverter generator that weighs 32 pounds. It runs at 52 dBA, lasts 12 hours on a 0.79 gallon tank and has a CO sensor, two 120V 20A outlets and two USB ports.\n\nIt costs about $349, level with the Westinghouse 4650, and it is the lightest and quietest here. It is parallel capable with another unit to double output.\n\nIt suits tent campers and van lifers who want a small, quiet generator for a fridge and phones. The CO sensor adds a safety margin.",
     "specs": [
       "1,500 peak, 1,000 rated watts",

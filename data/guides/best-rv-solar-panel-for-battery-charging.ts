@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XqY445ZSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHN3XMSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHN3XMSR?tag=rvgearlab-amz-20",
     "description": "The Hoysicy 100W is a monocrystalline panel sold as a kit with a charge controller, cables, O-ring terminals and Z-brackets, so nothing extra is needed to start charging a 12V battery. At $109.99 it is the only pick here that covers the whole chain from panel to battery terminal.\n\nAgainst the DOKIO 200W it gives up half the wattage but costs $4.78 less because the controller is included. Against the SOLPERK 30W it adds 70W for $45.00 more. Pick this if you want one box that charges a single house battery; the caveat is that the listing does not state whether the controller is PWM or MPPT.",
     "specs": [
       "100W monocrystalline",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419f2MSaaSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ4TPW16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ4TPW16?tag=rvgearlab-amz-20",
     "description": "The DOKIO 200W is an 18V monocrystalline panel with MC4 connectors, made for 12V systems and pre-drilled for standard mounting brackets. At 200W it can add roughly 600Wh at 3 sun hours and 1,000Wh at 5 before wiring and heat losses, the most of any panel in this list.\n\nIt costs $4.78 more than the Hoysicy 100W yet doubles the wattage, but the listing shows only the panel, so budget for a separate charge controller. Pick this if you have an MPPT controller or plan to add one. The caveat is that without it the panel cannot safely charge a battery by itself.",
     "specs": [
       "200W, 18V monocrystalline",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E6jjsMmyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB23QNZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB23QNZH?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 30W pairs a monocrystalline panel with an MPPT controller that the listing says squeezes over 30% more from the panel than basic controllers. It also includes a bracket that swivels 360 degrees, so you can aim it at the sun while parked.\n\nAt $64.99 it costs $30.00 more than the Hoysicy 20W and gains 10W plus MPPT regulation. It is a maintainer, not a primary charger: 30W is about 150Wh at 5 sun hours. Pick this to keep a starter or house battery topped up in storage; skip it if you cycle the battery daily.",
     "specs": [
       "30W monocrystalline",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519wpDcVOSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHNMQD41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHNMQD41?tag=rvgearlab-amz-20",
     "description": "The Hoysicy 20W is a 12V monocrystalline kit with a built-in 10A charge controller and an adjustable bracket. At $34.99 it is the cheapest way here to stop a battery from self-discharging between trips.\n\nCompared with the SOLPERK 30W it saves $30.00 but gives up 10W and the MPPT stage, and it is $75.00 below the Hoysicy 100W. Twenty watts is about 100Wh at 5 sun hours, enough to offset self-drain and little more. Pick this for a parked trailer; the caveat is that it will not recharge a battery you drained overnight.",
     "specs": [
       "20W monocrystalline",

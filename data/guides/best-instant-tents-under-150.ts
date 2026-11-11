@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "The ADSMART six-person tent has a floor of about 10 ft by 9 ft and a 66 inch peak, with pre-attached thickened metal poles that raise it in around 60 seconds. Four steel leg poles hold the frame and three large mesh windows ventilate it.\n\nIt folds to a bag near 42 inches long and weighs 16 lb, which is lighter than the Leisure Impact and bigger than the Mimajor. Its steel legs make it stiffer in a breeze than the hydraulic pop-ups.\n\nFamilies wanting a fast six-person pitch without a premium price will find it a clear winner. The expandable bag eases repacking.",
     "specs": [
       "Pre-attached poles, 60 seconds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jeGruFaUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5PVS2X?tag=rvgearlab-amz-20",
     "description": "The Leisure Impact stands on a frame that arrives attached to the tent, so a six-person cabin of about 90 square feet appears in around a minute. Fabric rated 1200mm covers a rainfly, and an awning extends over the front door.\n\nAgainst the ADSMART it adds the awning and fly that keep the entrance dry. Against the Mimajor it offers more floor and a lower stated rain rating.\n\nCampers who want a shaded entry for chairs will like the layout. Mesh panels on every side keep the interior breezy.",
     "specs": [
       "Pre-attached frame, about 90 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIlVajcXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-amz-20",
     "description": "The Mimajor raises with a hydraulic top pole in about a minute and states a 3500mm PU coating on 190T polyester. A full-coverage rainfly with taped seams, three oversized mesh windows and a ceiling panel round it out on a floor near 8 ft square.\n\nIts 3500mm rating is the highest here, which beats the Leisure Impact on storms. It sleeps four, so it is the smaller tent of the two.\n\nRainy-climate families will like the numbers. The 59 inch peak lets children stand.",
     "specs": [
       "3500mm PU, taped fly seams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mLgOWpqRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV436MTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV436MTL?tag=rvgearlab-amz-20",
     "description": "Reactive Outdoor builds this solo pop-up around a self-locking frame that you pull up and lock in place. A double-layer shell carries an HH 3000mm rating with taped seams, and the bag has a wide mouth with buckle straps.\n\nNo other tent in this list is meant for a single sleeper, and none else sets up with one pull. The Mimajor is larger and the ADSMART is much heavier.\n\nSolo hikers, cyclists and festival-goers will love the speed. The wide bag makes repacking painless.",
     "specs": [
       "Self-locking pop-up, 1 person",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRDuy9QdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-amz-20",
     "description": "The Mobihome is a hub pop-up for two or three adults with an interior near 6.9 ft by 6.2 ft and a 43 inch peak. It weighs 8.5 lb and combines 190T polyester, taped seams, a PE floor and a rainfly.\n\nIt costs a third of the others and still carries taped seams. The Leisure Impact and ADSMART offer far more space.\n\nLight campers on a budget will like it. A 40 inch bag stores the whole kit.",
     "specs": [
       "Hub pop-up, 8.5 lb",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jXO8h7zkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08B5RT58N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08B5RT58N?tag=rvgearlab-amz-20",
     "description": "The KALINCO tarp is 118 by 118 inches and weighs only 1.8 lbs, made from 210T polyester with a PU 3000mm coating and a taped central seam. It has 19 reinforced attachment tie loops including 3 on the ridge line, plus 6 guy lines, 6 stakes and a carry bag.\n\nIt is lighter than the JAICOM and the HOEYITO, and it has more tie loops than either. Against the Wind Tour it is a real shelter instead of a groundsheet.\n\nIt suits campers who want a flexible 10x10 tarp that doubles as a footprint. The three ridge loops allow overhead hanging.",
     "specs": [
       "118 x 118 in, 1.8 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LtWYRhzrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR6TXVBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR6TXVBZ?tag=rvgearlab-amz-20",
     "description": "The JAICOM tarp is 10 ft by 10 ft and weighs 2.1 lbs in a 9x4.7x5.9 inch pack. It uses 210T tear-resistant polyester with press-glued seams, 11 sets of knotted webbing with 7 corner holes and 6 aluminum stakes.\n\nIt is the least expensive 10x10 tarp here and ships a webbing-loop system. Against the KALINCO it is slightly heavier and has press-glued seams.\n\nIt suits campers on a budget who want many pitch options. The small pack size fits a daypack.",
     "specs": [
       "10 x 10 ft, 2.1 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZyQdJJLVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSW51ZTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSW51ZTL?tag=rvgearlab-amz-20",
     "description": "The HOEYITO tarp is 17 ft by 10 ft in 210T polyester with a PU6000mm rating and UPF 100+ sun protection. It weighs 4.7 lbs and includes 10 fluorescent stakes, 10 guy lines, a storage bag and an accessory pouch.\n\nIt is the largest and the highest-rated tarp here, and it covers 6 to 8 people. Against the KALINCO it carries almost three pounds more.\n\nIt suits families who want large coverage in a package that still fits a backpack. The 10 stakes give more anchor points.",
     "specs": [
       "17 x 10 ft, PU6000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21l5KX-xibL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNDDXJ8X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNDDXJ8X?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a ripstop oxford groundsheet tarp that comes in two sizes, 57 by 83 inches and 102 by 83 inches. It packs to about 9 inches and weighs 0.7 lbs or 1.3 lbs depending on the size.\n\nIt is the lightest and least expensive item in this guide. Against the full tarps, it serves as a footprint, awning or picnic mat rather than a family shelter.\n\nIt suits solo campers who want a floor and a small awning for almost no weight. The carry bag keeps it compact.",
     "specs": [
       "57x83 or 102x83 in",

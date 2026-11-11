@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q6Dab5ADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPR?tag=rvgearlab-amz-20",
     "description": "This WEN uses a 181cc engine for 4500 surge and 3600 rated watts in a 53 pound body, with an RV ready outlet, clean power for electronics and a fuel shutoff. It costs $554.99.\n\nIt sits $244.43 below the WEN 56450i while rating 100 watts higher in running output, and it is lighter. The trade is that you pay about $165 more than budget rivals for the brand. Pick this if you want a strong running rating at a manageable weight; the caveat is the price versus cheaper 4500 units.",
     "specs": [
       "4500W surge, 3600W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BswfQcvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFLBW4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFLBW4S?tag=rvgearlab-amz-20",
     "description": "The AMERISUN uses a 223cc four stroke engine and lists 2 x 20A and a 30A outlet, a CO sensor and parallel capability. It weighs 61 lbs, measures 21.2 x 17.7 x 20.9 inches and costs $389.90.\n\nIt is $165.09 below the WEN 4500 181cc and adds a CO sensor and parallel option, but weighs 8 pounds more. Pick this if safety features and expansion matter more than weight; the caveat is the 61 pound carry.",
     "specs": [
       "223cc engine, 61 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i--DcsegL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6ML7G97?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6ML7G97?tag=rvgearlab-amz-20",
     "description": "The Genkins lists 4500 peak and 3700 running watts from a 212cc four stroke engine, THD under 3%, a 2.11 gallon tank, LED indicators and a 56 lb open frame. It costs $309.\n\nIt is $80.90 below the AMERISUN, and its 3700 running watts is the highest here. The trade is an open frame that is likely louder. Pick this if you want the most running watts for the least money; the caveat is the open frame noise.",
     "specs": [
       "4500W peak, 3700W running",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ItlSMvl2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFC1N158?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFC1N158?tag=rvgearlab-amz-20",
     "description": "The WEN 56450i lists 4500 surge and 3500 rated watts from an EPA III compliant 212cc engine, and quotes 58 dBA at quarter load from 22 feet. It also has a fuel shutoff and RV ready outlet. It costs $799.42.\n\nIt is $490.42 above the Genkins, with 200 fewer running watts, and its noise figure is a stated, quarter load number. Pick this if quiet campgrounds are the priority; the caveat is paying a large premium for quiet.",
     "specs": [
       "4500W surge, 3500W rated",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RTwnbwRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-amz-20",
     "description": "The Champion is a dual fuel inverter with electric start, 4500 starting watts, 61 dBA and a parallel kit sold separately. It costs $902.62.\n\nIt is $103.20 above the WEN 56450i and offers electric start and propane, which none of the others list. Pick this if you want a push button start and propane backup; the caveat is the highest price in the roundup.",
     "specs": [
       "4500W starting, dual fuel",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21vh-NwcRIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HR8XX8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HR8XX8Y?tag=rvgearlab-amz-20",
     "description": "The ADCO 36824 Designer Series is an Olefin HD cover for Class A motorhomes from 28 feet 1 inch to 31 feet, with measurement that includes bumpers and the spare tire. The top panel is Olefin HD that reflects sunlight, while the sides and ladder cap are polypropylene for wear resistance.\n\nAgainst the ADCO trailer cover, it adds slip seam strapping, a weighted buckle toss for installation and reinforced top and bottom side panels. It suits Class A owners who want a breathable, water resistant cover that accommodates rooftop accessories.",
     "specs": [
       "Olefin HD top panel",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tnAdfz+6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HR93STZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HR93STZ?tag=rvgearlab-amz-20",
     "description": "The ADCO 36838 Designer Series is an Olefin HD cover sized for travel trailers up to 15 feet. It brings the same Olefin HD material family as the Class A model to a much smaller footprint.\n\nCompared with the ADCO Class A Olefin, it costs less and covers a far shorter RV, so it fits teardrops and compact trailers rather than motorhomes. It suits owners of small towables who want Olefin breathability in a gray and white finish.",
     "specs": [
       "Olefin HD trailer cover",

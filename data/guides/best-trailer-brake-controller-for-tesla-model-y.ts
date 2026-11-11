@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YaJkNW0VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8GFKPH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8GFKPH9?tag=rvgearlab-amz-20",
     "description": "The REDARC Tow-Pro Link plugs into a 7-pin connection and, per its listing, installs in about 15 minutes on most trucks and SUVs. It has a 6-axis sensor with active calibration, and two modes: Everyday Mode for proportional on-road braking and a Manual Off-Road Mode.\n\nIt leads because it adds a USB-A remote with an LED light bar and Bluetooth control through the app, Apple CarPlay or Android Auto, plus SwayStop Plus sway control. Against the CURT Echo below it, the Link is far broader in features, though it costs more and its listing does not state an axle rating.\n\nBest for a Model Y owner towing a larger load who wants sway control and a remote. The listing never names Tesla, so confirm the 7-way socket powers it.",
     "specs": [
       "Plug-in 7-pin, about 15 minutes",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qOS0RLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-amz-20",
     "description": "The CURT Echo sits between the vehicle and trailer 7-way connectors and moves between vehicles without under-dash wiring. It uses a triple-axis accelerometer for proportional braking and supports trailers with 1 to 2 axles and 2 to 4 brakes, controlled through the OneControl Auto app.\n\nThe listing is the most specific about requirements: the vehicle 7-way must provide active +12V power, and an existing factory or aftermarket controller will not function while the Echo is installed. Compared with the REDARC Tow-Pro Link, it has no remote and no sway control, but it states its limits plainly.\n\nBest for a Model Y owner with a single or tandem-axle trailer who wants a clear spec sheet. Confirm that your tow package supplies powered 7-way.",
     "specs": [
       "7-way plug-in, zero-tool install",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lMz7EzdIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-amz-20",
     "description": "The TICANEE 51180 is a wireless 7-way unit for trailers with 1 to 2 axles and 2 to 4 brakes, with a built-in 3-axis motion sensor for proportional braking. Setup and brake force are handled in a smartphone app, and no permanent wiring is needed.\n\nIt carries the same part number as the CURT Echo and mirrors its axle rating, but it comes from a different seller, so treat it as a lookalike rather than the original. Its listing notes the socket must have working 12V power, ground and turn-signal circuits.\n\nA reasonable lower-cost try for a Model Y owner with a light trailer, provided the socket checks out. Keep the receipt in case fit or app pairing goes wrong.",
     "specs": [
       "7-way plug-in, tool-free",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gyT2rrfYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBSHWQCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBSHWQCP?tag=rvgearlab-amz-20",
     "description": "The Fexhull 90195 is not a plug-in 7-way unit. It is a dash-mounted proportional controller sold as a replacement for the Tekonsha P3 Prodigy, with a plug-and-play harness and bracket or clip mounting, plus a 24-month warranty.\n\nIts listing names Silverado, Ram and Tacoma, not Tesla, and it needs a vehicle connection that the listing does not describe for a Model Y. That is why it ranks last in this guide, behind the three plug-in units.\n\nOnly consider it if you have already confirmed a way to connect a dash controller to your Model Y. Otherwise a plug-in unit is the safer route.",
     "specs": [
       "Dash-mounted proportional",

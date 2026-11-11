@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2XUHwZ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWKQ6C6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWKQ6C6?tag=rvgearlab-amz-20",
     "description": "Camco builds the Sidewinder 20 foot support as a plastic cradle that telescopes out and folds back, with gravity flow as its design goal. It curves around obstacles, holds a 20 foot hose so it does not slip or close up, and compresses for storage.\n\nIt costs more than twice the Kohree black and uses a telescoping extension rather than an accordion fold. Camco's gravity-flow design is the main reason it tops the list.\n\nBest for owners who want a branded, purpose-built 20 foot support. A strong choice for regular long dumps.",
     "specs": [
       "20 ft telescoping plastic",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLMV5exzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJT3CG6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJT3CG6S?tag=rvgearlab-amz-20",
     "description": "This black Kohree 20 foot support folds like an accordion from polypropylene, with a deep U cradle and a height you can change. Setup takes no assembly, and the body bends around rocks and roots.\n\nIt costs about forty percent less than the Camco Sidewinder and uses polypropylene rather than a generic plastic. It is slightly above the orange Kohree.\n\nBest for owners who want a stable, simple support in black. A good mid-range pick.",
     "specs": [
       "20 ft accordion, polypropylene",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414bvCsEURL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-amz-20",
     "description": "The Kohree 20 foot orange support carries the same polypropylene accordion build, deep U-shape and adjustable height. The bright orange body stands out against grass and gravel.\n\nIt costs a little less than the black version with matching stated specs. Compared with the Camco, it is lighter and simpler.\n\nBest for shared campsites where visibility prevents trips. A low-risk value.",
     "specs": [
       "20 ft accordion, polypropylene",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zKMygCsqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTNBR6CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTNBR6CY?tag=rvgearlab-amz-20",
     "description": "The RVMATE 20 foot support sets up by placing it under the waste port and pulling it toward the sewer connection. Its downward slope design lets the hose slope naturally to the dump station, and it is made of UV-resistant lightweight plastic.\n\nIt costs less than the Kohree supports and focuses on the slope itself. The quick set-up steps are the clearest of any listing here.\n\nBest for owners who want a simple, slope-first setup. A practical value choice.",
     "specs": [
       "20 ft, downward slope design",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HTDjgVNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP99SBWT?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY 20 foot support fits hoses up to 20 feet and 3.8 inches in diameter. It has a deep cradle, a rubber band and a carry strap, and bends around obstacles.\n\nIt costs less than the RVMATE and adds a band and strap. Compared with the PAULINN, it names its hose diameter limit.\n\nBest for budget buyers who want carrying extras. A tidy low-cost option.",
     "specs": [
       "20 ft, hoses to 3.8 inches",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z5TWpsmML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP97MD7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP97MD7J?tag=rvgearlab-amz-20",
     "description": "The PAULINN 20 foot support has a widened bottom, a deep U-design and height adjustment. It folds like an accordion and is ready to use without assembly.\n\nIt is the lowest priced pick and focuses on a stable wide base. Its widened bottom is broader than the Kohree.\n\nBest for tight budgets on long runs. A capable support at the lowest cost.",
     "specs": [
       "20 ft accordion",

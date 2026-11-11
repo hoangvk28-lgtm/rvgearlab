@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k7lBH5bFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LZ0O4TS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LZ0O4TS?tag=rvgearlab-amz-20",
     "description": "Winegard ConnecT WF1 is a WiFi extender with a powerful amplifier and three external antennas in a dome design. The listing says it supports WPA and WPA2-PSK, guest networks and two firewalls, with a 2 year parts and 1 year labor warranty.\n\nAgainst KING KF1000, it is an extender with three antennas and a stated warranty. Against RAGOAT, it is a mobile-tested RV product.\n\nIt is the best match for owners who want a proven RV extender with security features. Think of it as the pick for secure rv extenders.",
     "specs": [
       "WiFi extender, three antennas",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tDus+7-AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D1F2MPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D1F2MPR?tag=rvgearlab-amz-20",
     "description": "KING KF1000 Falcon is an automatic directional WiFi antenna with a WiFiMax router and range extender, set up through a free app for Android and iOS. The listing says it acquires a long-range signal automatically.\n\nAgainst Winegard ConnecT WF1, it aims itself. Against RAGOAT, it is a roof-mounted system.\n\nIt suits owners who want automatic aiming at a distant park router. Buyers focused on hands-off aiming will find it a sensible match.",
     "specs": [
       "Automatic directional WiFi antenna",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318EQwu6KEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2X9ZZ2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2X9ZZ2L?tag=rvgearlab-amz-20",
     "description": "Fixcore 2026 WiFi Extender is a dual band WiFi 6 unit with a Gigabit port and a stated 18,899 square foot coverage. The listing says it connects 200 plus devices and sets up with one tap.\n\nAgainst RAGOAT, it states WiFi 6 and a Gigabit port. Against Winegard ConnecT WF1, it costs far less but is a home-style unit.\n\nIt suits small rigs that want many devices on one extender. It earns its slot for many devices, small rigs.",
     "specs": [
       "Dual band WiFi 6 extender",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Kw3BaT69L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNKFWYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNKFWYN?tag=rvgearlab-amz-20",
     "description": "RAGOAT 4 Antennas WiFi Extender gives 1200 Mbps on dual bands and a stated 12,880 square foot range with support for up to 105 devices. The listing says it keeps usable signal through walls and floors.\n\nAgainst Fixcore, it states a device count of 105 and costs about the same. Against Winegard ConnecT WF1, it is a home unit.\n\nIt suits budget rigs that need a basic extender. It is a natural fit for budget extenders.",
     "specs": [
       "Dual band, 1200 Mbps stated",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51blLN4gcUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-amz-20",
     "description": "HiBoost Travel 2.0 is a cell phone signal booster kit for 4G and 5G LTE that the listing says is FCC approved with up to 50 dB gain. It works with all major U.S. carriers and has a 13 foot indoor antenna cable.\n\nAgainst the WiFi extenders, it boosts cellular signal and does not repeat WiFi. Against HiBoost Travel 3.0, it is the lower-priced kit.\n\nIt is included for owners whose problem is weak cell signal, and it needs a carrier plan. Think of it as the pick for weak cell signal.",
     "specs": [
       "Cell signal booster kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LQPSZn81L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-amz-20",
     "description": "HiBoost Travel 3.0 RV Max is a cell phone signal booster with a 180 degree foldable outdoor antenna, a 360 degree indoor antenna and app support. The listing says it boosts 4G and 5G LTE in rural areas and supports multiple mounting options.\n\nAgainst HiBoost Travel 2.0, it adds a foldable outdoor antenna and an app. Against the WiFi extenders, it amplifies cellular signal only.\n\nIt is included for owners with a cellular signal problem, and it needs a carrier plan. Buyers focused on weak cell signal, whole rv will find it a sensible match.",
     "specs": [
       "Cell booster for 4G and 5G LTE",

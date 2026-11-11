@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hOYf87xmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-amz-20",
     "description": "The RVGUARD RV Water Pressure Regulator Valve is CSA approved and meets NSF/ANSI 61 and 372, using C46500 lead-free brass treated by hot casting. It ships at a factory setting of 45 PSI and can be adjusted by turning a screw.\n\nIt is the best documented on certifications and adds adjustability that the fixed Valterra and Camco regulators lack. It uses 3/4 inch garden hose thread.\n\nBest for owners who want certification and the ability to tune pressure. It also suits full-timers.",
     "specs": [
       "CSA approved, NSF 61 and 372",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDQUy+laL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRTPWM9K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRTPWM9K?tag=rvgearlab-amz-20",
     "description": "The VANCOCO RV Water Pressure Regulator Valve includes a gauge and a tool-free pull-up knob for adjustment. Its listing gives a 45 PSI factory preset with an adjustable range from 45 to 160 PSI.\n\nThe gauge lets you read pressure without buying one separately, which sets it apart from the RVGUARD. Lead content is stated as under 0.13 percent in a heavy-duty brass body.\n\nIdeal for anyone who likes to read pressure at a glance. It also suits tinkerers.",
     "specs": [
       "Built-in gauge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yul3fNBqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69D5FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69D5FQZ?tag=rvgearlab-amz-20",
     "description": "The PILISPARK 2-Piece Brass RV Water Pressure Regulator Set has a preset 40 to 50 PSI output and a 90-degree hose elbow that rotates 360 degrees. It uses brass construction and 3/4 inch GHT threads.\n\nThe elbow reduces hose kinks at the hookup, a feature the Valterra regulator lacks. It is a two-piece set at a similar price.\n\nBest for tight hookups where the hose bends sharply. It also suits owners who want an elbow in the box.",
     "specs": [
       "40 to 50 PSI preset",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HY8jVXnTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006JRJ5L8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006JRJ5L8?tag=rvgearlab-amz-20",
     "description": "The Valterra RV Water Regulator regulates pressure to 40 to 50 psi in a lead-free brass body described as rust-resistant. Its listing calls it ideal for older RVs and compatible with standard campground spigots.\n\nAt about $15 it is the least expensive brass option, and it is built to be simple. It lacks the adjustability of the RVGUARD and VANCOCO.\n\nA good pick for budget buyers who want brass and a fixed 40 to 50 psi output. It also suits older RVs.",
     "specs": [
       "40 to 50 psi output",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TsCjYx8FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX85U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX85U?tag=rvgearlab-amz-20",
     "description": "The Camco RV Water Hose Pressure Regulator reduces pressure to a stated 40 to 50 psi and attaches to 3/4 inch garden hose threads. Its listing says it is made of lead-free plastic and protects RV and boat plumbing.\n\nAt about $10 it is the cheapest option here. It trades the brass body of the others for plastic.\n\nBest for occasional campers who want basic protection at the lowest price. It also suits a spare in the bag.",
     "specs": [
       "40 to 50 psi output",

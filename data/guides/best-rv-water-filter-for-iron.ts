@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fYrNFBxYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F2VZ793?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F2VZ793?tag=rvgearlab-amz-20",
     "description": "This is a three-stage canister system with a 1-micron sediment pre-filter, a 0.5-micron carbon block and a specialized heavy metal reduction cartridge, all listed as NSF certified filters. It ships with sturdy canisters, a mounting bracket and universal hose fittings, plus a limited lifetime warranty and a 60-day money-back policy.\n\nCompared with the Virus Hero below it, you get the iron-focused cartridge without the 0.2-micron virus stage, which saves money. Against the H&G resin below, it uses replaceable cartridges rather than a regenerable bed.\n\nIt suits full-timers on iron-heavy water who want a mounted system. The listing's wording on iron is partly cut off, so read the cartridge's rated capacity before buying.",
     "specs": [
       "Heavy metal reduction cartridge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hrQxoprdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-amz-20",
     "description": "This system stacks a 1-micron sediment filter, a 0.2-micron Virus Hero filter and a 0.5-micron carbon block. The listing says its metal trap filter is rated to reduce iron, sulfur, lead and other metals for up to 6,000 gallons.\n\nAgainst RV Water Filter Store Triple Iron above, it adds the 0.2-micron stage and virus claims at a higher price. Compared with H&G Iron Resin below, it uses cartridges and adds microbial filtering.\n\nIt is the choice if questionable water makes you want iron reduction and pathogen filtering in one setup. Check how the metal trap is arranged in the three stages, since the listing groups several claims together.",
     "specs": [
       "0.2-micron Virus Hero stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JrJoYDyRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6LGZK3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6LGZK3?tag=rvgearlab-amz-20",
     "description": "H&G's resin filter uses NSF GSG certified food-grade iron resin that removes iron and manganese while reducing calcium and magnesium. The resin can be regenerated with standard water softener salt, and the 3/4 inch GHT brass connection fits a garden hose.\n\nCompared with the cartridge systems above, you refill nothing but salt rather than buying cartridges, though you must do the regeneration. Against H&G Iron Hose Filter below, it is a much larger unit with a softening effect.\n\nIt fits people who deal with iron and hardness together and are willing to regenerate. The regeneration steps are extra work, so confirm you are comfortable with them.",
     "specs": [
       "Iron resin media",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rOJGC8G4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JGKWHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JGKWHT?tag=rvgearlab-amz-20",
     "description": "This H&G hose-style filter is made to reduce iron found in campground and well water, easing rusty discoloration and metallic taste. It connects via standard 3/4 inch GHT hose fittings, so it goes between spigot and RV inlet.\n\nAgainst H&G Iron Resin above, it is the cheap, compact choice without regeneration or softening. Compared with RV Water Filter Store Triple Iron, it has no stated capacity or multi-stage protection.\n\nBest for light iron staining on a budget. The listing does not state gallons of capacity, so replace it at the first sign of rust returning.",
     "specs": [
       "Iron reduction hose filter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V9gM9ZPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-amz-20",
     "description": "AQUA CREST is a KDF and activated carbon inline filter certified to NSF/ANSI 42 and 372, with a rotating copper-ended hose protector. It is not marketed for iron on the listing.\n\nBeside the iron picks above, it is a general taste and chlorine filter and could sit alongside them. Against Filterelated below, it is a single disposable hose filter instead of a canister set.\n\nUse it as a drinking-water polish after an iron stage, not as the iron solution. The listing makes no iron claim.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EqNnGDqfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR2J7QXD?tag=rvgearlab-amz-20",
     "description": "Filterelated has a 1-micron sediment filter, a 5-micron compressed carbon block and a granular carbon stage in a three-filter canister system with 3/4 brass fittings. The listing targets sediment, chlorine, bad taste and odors, and mentions tannins and organic matter.\n\nCompared with RV Water Filter Store Triple Iron above, it costs far less but has no iron or metal cartridge. Against AQUA CREST Inline, it offers three replaceable stages.\n\nIt works for sediment-heavy water or as the front end before an iron stage. Because there is no iron claim, do not use it alone on rusty water.",
     "specs": [
       "1-micron sediment stage",

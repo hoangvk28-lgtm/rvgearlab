@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vplW+QeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVCTFQNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVCTFQNQ?tag=rvgearlab-amz-20",
     "description": "The Suteck 33-inch XXL is the widest chair on this list and carries a 500 pound rating on a 40mm (1.6 inch) thickened steel tube frame. Its 59.8 by 24.4 inch cushion is 4 inches thick, and the third-generation aluminum alloy lock makes the recline easier to set.\n\nNext to the ZENPETIO 33-Inch, it matches the rating and width while adding a larger cup holder and a clearly described steel frame gauge. It suits larger campers who want the most room and the highest published capacity in a chair that arrives assembled.",
     "specs": [
       "500 lb capacity",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FJaF-7UzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5FTTJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5FTTJH?tag=rvgearlab-amz-20",
     "description": "The ZENPETIO 33-Inch is a 33 inch XXL chair rated for 500 pounds, built on dual-layer elastic ropes and a third-generation aluminum alloy lock. Its removable cushion adds a thick layer of cotton padding for a softer seat.\n\nCompared with the Suteck 33-Inch XXL, it offers the same width and rating with a heavier focus on cushioning and rope suspension. It fits campers who spend hours reclined and want the pad to be easy to remove for cleaning.",
     "specs": [
       "500 lb capacity",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4142ThmyQaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LN9H77M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LN9H77M?tag=rvgearlab-amz-20",
     "description": "The PHI VILLA XXL has a 30 inch extra wide seat with a deeper seat base and a 400 pound rating. It uses cationic outdoor fabric that resists fading, plus a 1.38 inch 3D spacer mesh pad that lets air move through the seat.\n\nIt gives up 100 pounds of rating against the Suteck 33-Inch XXL but adds a breathable pad and an anti-slip lock. It suits tall campers in hot climates who want a deeper seat more than the widest possible frame.",
     "specs": [
       "400 lb capacity",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d5lb12zfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMJKP11Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMJKP11Z?tag=rvgearlab-amz-20",
     "description": "The Suteck 29-Inch XL keeps the 500 pound rating and 40mm steel tube frame of its larger sibling in a 29 inch width. It uses the fourth-generation aluminum lock and a 59.8 by 21.7 inch cushion that is 4 inches thick.\n\nAgainst the Suteck 33-Inch XXL it trades four inches of width for a lower price and an easier fit in a packed storage bay. It suits heavier campers who need the capacity but not the full XXL width.",
     "specs": [
       "500 lb capacity",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LgVP8FKZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N9LDLC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N9LDLC2?tag=rvgearlab-amz-20",
     "description": "The Best Choice Padded recliner has a wide 24 inch seat, a 300 pound rating, and an adjustable headrest. It includes a detachable side tray with two cupholders and a phone mount, and a lockable reclining system.\n\nNext to the PHI VILLA XXL, it adds a tray you would otherwise buy separately while giving up width and rating. It suits lighter, average-build campers who want the tray built in for drinks and a phone at the campsite.",
     "specs": [
       "300 lb capacity",

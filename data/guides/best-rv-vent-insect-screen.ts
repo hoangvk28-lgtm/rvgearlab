@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oBnd568fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWTTW5XR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWTTW5XR?tag=rvgearlab-amz-20",
     "description": "The Eazy2hD kit bundles six refrigerator screens (1.3 by 9.8 inches), two round screens, one 8.5 by 6 inch rectangular screen and one 4.5 by 4.5 inch square screen with six spring fasteners. The stainless steel mesh is meant for water heater, refrigerator and Duo-Therm or Suburban furnace vents.\n\nCompared with the Camco refrigerator screens, it covers more openings in a single box, which makes it the one to buy when you want every vent on the coach protected at once. It suits owners who have not yet measured each opening and want several sizes on hand.",
     "specs": [
       "Stainless steel mesh",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51psqHW2ygL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NVMJDKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NVMJDKK?tag=rvgearlab-amz-20",
     "description": "Wadoy's complete kit includes six 10 by 1.5 inch screens aimed at Dometic refrigerator vents, two 2.8 by 1.3 inch circular screens, an 8.5 by 6 inch water heater screen and a 4.5 by 4.5 inch square furnace screen. The stainless steel mesh is built to let air through while keeping insects out.\n\nNext to the Eazy2hD kit, this one leans toward refrigerator coverage, with the 10 inch screens sized for the stacked Dometic louvers. It suits owners whose main worry is nests behind the fridge vent.",
     "specs": [
       "Six 10 x 1.5 inch screens",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l8t-Uh2nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PY3L336?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PY3L336?tag=rvgearlab-amz-20",
     "description": "This Wadoy set is built around the water heater: one 8.5 by 6 by 1.3 inch screen for Atwood 6 and 10 gallon and Suburban 6 gallon heaters, plus a 4.5 by 4.5 inch square screen. Two 2.8 by 1.3 inch furnace screens, six spring fasteners and an installation tool round out the box.\n\nIt is the pick over the larger kits when the water heater is the only opening you need covered, because the tool and fasteners are already included. It suits owners of Atwood or Suburban heaters who want a straightforward fit.",
     "specs": [
       "Atwood 6/10 gal heater fit",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ydJuDhn4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6UE0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6UE0?tag=rvgearlab-amz-20",
     "description": "Camco's stainless steel mesh screens are made for Dometic refrigerator vents with 20 inch long louver openings, and the pack contains three screens. They are designed to keep out wasps, mud daubers and rodents that block refrigerator airflow.\n\nWhere the multi-size kits spread across appliances, this pack stays focused on one job and one brand of vent. It suits anyone who already knows the fridge louvers are the weak spot and wants no installation tools.",
     "specs": [
       "3 screens per pack",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51v68qAqvXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GS24FDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GS24FDJ?tag=rvgearlab-amz-20",
     "description": "RVGUARD offers a 4.5 by 4.5 by 1.3 inch stainless steel insect screen for water heaters and furnace vents, listed for Atwood models 2540, 8516, 8520, 8525, 8531, 8535 and 8940 and for Suburban 6, 10 and 12 gallon heaters. It ships with the installation parts it needs, including stainless springs.\n\nAgainst the Wadoy heater set, it trims the box down to one square screen, which is all many owners need. It suits buyers who can match their heater model to the listed Atwood or Suburban numbers.",
     "specs": [
       "4.5 x 4.5 x 1.3 inch",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ypsczmnyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBTN3HC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBTN3HC1?tag=rvgearlab-amz-20",
     "description": "LF Bros 5KW is an all-in-one diesel parking air heater rated at 4,700 to 17,000 BTU with fuel use of 0.18 to 0.53 liters per hour. It supports 12 and 24 volt input and the kit includes a 110 volt transformer for shore power.\n\nAgainst POXURIO 8KW, it is the mid-size unit for a typical trailer. Against VEVOR 2KW, it gives more heat and a built-in 110 volt option.\n\nIt is the best match for RV owners who want a mid-power heater with shore power included. Think of it as the pick for mid-size trailers.",
     "specs": [
       "5 kW, 4,700 to 17,000 BTU",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F6nDmuQTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TPDJX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TPDJX9?tag=rvgearlab-amz-20",
     "description": "POXURIO 8KW is a 9 liter all-in-one diesel air heater with an LCD and 12, 24 and 110 volt input through an included adapter. The listing states a 215 to 269 square foot range and about 1 gallon of fuel per night.\n\nAgainst LF Bros 5KW, it has a larger tank and more output. Against VEVOR 8KW, it adds a 110 volt adapter and an LCD.\n\nIt suits larger rigs and long cold nights that need a big tank. Buyers focused on large rigs, long nights will find it a sensible match.",
     "specs": [
       "8 kW, 9 L tank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TOFtwZ41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHCV9298?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHCV9298?tag=rvgearlab-amz-20",
     "description": "VEVOR 8KW runs on 12 to 24 volts DC and is stated for 161 to 215 square feet. It has a ceramic igniter, a heat-insulated exhaust shield, a 5 liter tank and a remote with a 98 foot range.\n\nAgainst POXURIO 8KW, it costs less but has no 110 volt adapter listed. Against VEVOR 2KW, it gives four times the output.\n\nIt suits owners with 12 volt power who want a larger heater at a low price. It earns its slot for 12v budget heating.",
     "specs": [
       "8 kW, 12-24V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zy3jJ+yWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFPQMZ93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFPQMZ93?tag=rvgearlab-amz-20",
     "description": "VEVOR 2KW is a 12 volt diesel heater stated for 108 to 161 square feet, with Bluetooth app control and automatic altitude compensation up to 18,045 feet. It uses a sandblasted aluminum heat exchanger.\n\nAgainst LF Bros 5KW, it is smaller and quieter in scale. Against VEVOR 8KW, it adds phone control and altitude compensation.\n\nIt suits camper vans and small trailers at altitude. It is a natural fit for vans and small trailers.",
     "specs": [
       "2 kW, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vZE5pG8NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5ZM33KD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5ZM33KD?tag=rvgearlab-amz-20",
     "description": "Niutudza is a 110 volt to 12 or 24 volt transformer made for powering diesel parking heaters. The listing says it works with 2, 5 and 8 kW heaters.\n\nAgainst LF Bros 5KW and POXURIO 8KW, which ship their own adapters, it is the add-on for heaters without one. Against Copgge, it supplies power rather than airflow.\n\nIt suits owners who want to run a 12 volt heater from shore power. Think of it as the pick for shore power use.",
     "specs": [
       "110V to 12V or 24V converter",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nlR-fd4qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFKJPY9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFKJPY9F?tag=rvgearlab-amz-20",
     "description": "Copgge is a 76 millimeter (3 inch) flexible duct kit with two aluminum foil and paper ducts and a Y branch for 5 and 8 kW diesel air heaters. The front panel rotates 360 degrees.\n\nAgainst the heaters, it moves heat to a second area. Against Niutudza, it adds airflow control.\n\nIt suits owners who want to heat two rooms or a bunk. Buyers focused on two-zone heating will find it a sensible match.",
     "specs": [
       "3 inch duct with Y branch",

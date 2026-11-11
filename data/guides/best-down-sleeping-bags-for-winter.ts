@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fKSwt-bKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1BG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBVL1BG5?tag=rvgearlab-amz-20",
     "description": "QEZER stuffs this mummy with 3.3 lb of white duck down rated at 650 fill power held in vertical baffles. A saddle-shaped neck and an ergonomic footbox join a printed -4 to 14F range and a mesh storage bag.\n\nIt carries the most down of the three and uses vertical baffles to limit cold spots, a detail the AKMAX Down Mummy lacks on its listing. The SYWSKW Ultralight Down holds far less fill, so this one is the warmer choice.\n\nBest for winter campers who want a believable figure for hard freezes at a fair price. It weighs 4.54 lb and packs to about 17.3 x 10.2 inches.",
     "specs": [
       "3.3 lb of 650FP duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wmJXfhg+S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-amz-20",
     "description": "AKMAX prints a -13 to 23F range for this goose down mummy, with a water-resistant nylon shell and a snug cut for heat retention. The listing gives a weight of 2.37 kg, which is 5.2 lb.\n\nNo other pick here prints a sub-zero figure, which puts it ahead of the QEZER 650FP 3.3 lb Down on the coldest nights. Goose down fill keeps the 5.2 lb bag compact for its warmth.\n\nGreat for mountaineers and winter campers who need numbers below zero. Plan around the 23F upper end for real comfort.",
     "specs": [
       "-13 to 23F printed range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319gu5BtRXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ4WNTSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ4WNTSG?tag=rvgearlab-amz-20",
     "description": "SYWSKW offers 680 fill power RDS-certified duck down in an 86.6 x 32.28 inch mummy-envelope body with a detachable 80 g pillow. The 500 g fill listing compresses to 7.08 x 11.80 inches and uses reflective drawcords.\n\nIt is the lightest and most compact of the three, with a wider 32.28 inch shoulder than the QEZER 650FP 3.3 lb Down. Heavier fill options exist on the same listing, and the 500 g model is the one aimed at 3 to 4 seasons.\n\nBest for backpackers whose winter trips stay in the 20s and above. The pillow adds a comfort touch to the package.",
     "specs": [
       "680FP RDS duck down",

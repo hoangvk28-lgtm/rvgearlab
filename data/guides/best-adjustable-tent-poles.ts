@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HX4RnqikL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS31NYF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS31NYF1?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST 8.7FT set has two aviation aluminum poles with a 32mm diameter that extend to 8.7 feet and collapse to 2.9 feet. A double anti-collapse lock layer backs up the first lock, and a lightning protection cap and a woven carry bag are included.\n\nIts second lock layer is the feature the REDCAMP and AYAMAYA lack, since they list a single twist-lock. The 32mm diameter is thicker than the 80-inch AVOFOREST at 0.75 inch.\n\nIt suits a car camper pitching a big tarp or an awning who wants extra protection against slow collapse. The 36 inch packed length fits a trunk.",
     "specs": [
       "8.7 ft max, 2.9 ft collapsed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lncfXFgXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFVGMM29?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFVGMM29?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST 9.2FT set extends from 2.85 feet to 9.2 feet in aerospace-grade aluminum with a progressive scale for height. Rubber-tipped caps prevent punctures, and the poles are listed at 2.5 lbs.\n\nIt reaches higher than every other pair here, and the scale lets you set matching heights on both poles. The REDCAMP and AYAMAYA weigh 1.1 lbs each, which makes this set the heavy-duty option.\n\nIt suits an overlander or a tall camper who needs a high peak for a large tarp or a van awning. The 2.5 lb poles are meant for car camping.",
     "specs": [
       "9.2 ft max, 2.85 ft min",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MZfBvsUJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PCN4F4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PCN4F4N?tag=rvgearlab-amz-20",
     "description": "The REDCAMP set has two 6063 aluminum poles in three sections that adjust from 35.43 to 90.55 inches. Each pole weighs 1.1 lbs, uses a twist-lock mechanism and has a tear- and slip-resistant tip cover.\n\nAt 1.1 lbs each it is as light as the AYAMAYA and much lighter than the 9.2FT set. The three-section build has fewer joints than the four-section AYAMAYA.\n\nIt suits a backpacker or hammock camper who pitches a rainfly or a light tarp. A 365-day limited warranty backs it.",
     "specs": [
       "35.43 to 90.55 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xePzZ-OZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT2Q96C9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT2Q96C9?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA set has four-section aluminum poles that adjust from 31 to 91 inches, with each pole supporting up to 60 lbs and weighing 1.1 lbs. Rubber caps resist tears and slipping, and a twist-lock needs no tools.\n\nIt is the only set here that gives a load figure per pole, so you can size it against a tarp. It has four sections against the REDCAMP's three, which adds a joint and shortens the collapsed length.\n\nIt suits a camper who wants numbers for a sunshade, beach tent or car-side roof tent. The 31 inch collapsed length is easy to store.",
     "specs": [
       "31 to 91 inches, four sections",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4139rPq+n-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2FXSPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2FXSPP?tag=rvgearlab-amz-20",
     "description": "The ONETIGRIS set has two 6061 aluminum poles with a top section that adjusts in 5 cm increments and a quick button connection. The pair packs to 23.6 inches and weighs 1.3 lbs, with a custom storage bag.\n\nA button lock is quicker than the twist-lock on the REDCAMP and AYAMAYA, and the packed length is the shortest of the six. It is the lowest-weight set on the list by listed set weight.\n\nIt suits a backpacker who wants fast setup and a short packed length. One person can install it, as the listing says.",
     "specs": [
       "6061 aluminum, 1.3 lbs set",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B-7NksY9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNW3NR91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNW3NR91?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST 80-inch set has 0.75 inch diameter aluminum poles that adjust from 28.5 to 80 inches, weighing 3.6 lbs for the pair. Glow-in-the-dark caps help you find them at night, and non-slip feet grip grass or stone.\n\nThe glow caps are a feature the other five lack, and the price is the lowest of the six. It reaches less height than the 90-inch sets.\n\nIt suits a budget camper who pitches a low tarp or a tent door awning. The 1.8 lb poles are heavier than the REDCAMP's.",
     "specs": [
       "28.5 to 80 inches, 0.75 inch",

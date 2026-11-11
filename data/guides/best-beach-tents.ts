@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lHflALnBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N4XQRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N4XQRJ?tag=rvgearlab-amz-20",
     "description": "This 10 x 10 ft canopy uses a triangular windproof structure and ships with 8 sandbags, 4 aluminum poles, 8 sand stakes and 8 grass stakes. Its Lycra fabric with 12% spandex blocks 98% of harmful rays on the listing.\n\nIt lists the largest anchoring kit of the five, with eight sandbags and two kinds of stake. The Wolfwise 6P and WhiteFang list three sandbags each, and the SUN NINJA names stability poles and anchors without a count.\n\nIt suits a large group on an open, breezy beach that needs real shade for up to eight people and their chairs. One person can set it up, and a sand shovel comes in the box.",
     "specs": [
       "10 x 10 ft shaded area",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i219FVJ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087CBLLWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087CBLLWV?tag=rvgearlab-amz-20",
     "description": "The SUN NINJA beach tent is a pop-up sun shelter with UPF 50+ water-resistant fabric, stability poles, anchors and a travel bag. It comes in 4, 6 and 8 person sizes, including a 10 x 10 pop-up canopy format.\n\nIt is the pick with the widest size choice, so a couple and a big group can both buy it. Compared with the Sandbag 10x10 Shelter it leans on pop-up simplicity rather than a long anchor list.\n\nFamilies who want a pop-up ready in minutes can pick the size that fits their group. The anchors allow use on sand, grass or rocky ground.",
     "specs": [
       "UPF 50+ water-resistant fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YiE0iEJjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMZSJLF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMZSJLF5?tag=rvgearlab-amz-20",
     "description": "The Wolfwise six person cabana opens to 106.3 x 106.3 x 63 inches and fits four beach chairs. It uses thickened 8.5 mm fiberglass poles, 190T fabric with UPF 50+ and three adjustable mesh windows.\n\nIt rises to 63 inches and costs far less than the SUN NINJA, with a third of the sandbag count of the Sandbag 10x10 Shelter. The Gorich and WhiteFang list floor extensions, where this one focuses on interior volume.\n\nIt fits groups who want to sit in chairs under cover and need airflow on hot days. A large storage bag keeps the packed size manageable.",
     "specs": [
       "106.3 x 106.3 x 63 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I4ljXsPgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNQDD2ZN?tag=rvgearlab-amz-20",
     "description": "The Gorich tent is 86.6 x 59 x 48 inches inside and folds to a 17 x 4 x 4 inch bundle at 3.9 lb. It uses silver-coated fabric, 8 mm fiberglass poles, three large mesh windows and a floor that extends 40 inches.\n\nIt is the only tent here with a stated weight and packed size, which the Wolfwise 6P does not give. The WhiteFang matches it on price, with a similar floor and a different zipper layout.\n\nIt suits couples or small families who walk to the beach and want a light, compact shelter. Four-sided ventilation helps keep heat down.",
     "specs": [
       "3.9 lb, folds to 17 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XRfvOQF3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SJGS7M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SJGS7M7?tag=rvgearlab-amz-20",
     "description": "The WhiteFang is a three person beach tent with 8 mm thickened fiberglass rods and 190T coated polyester that blocks 98% of UV. It includes three sandbags, eight steel stakes and sand stakes, plus three large mesh windows.\n\nIts omni-directional zipper opens the floor mat from inside, outside or both sides, a detail the Gorich does not list. It sits at nearly the same price as the Gorich and has a clear anchoring list.\n\nIt fits one or two adults with kids who want a privacy door and a floor panel they can open for sand play. Anchors are included in the box.",
     "specs": [
       "8 mm fiberglass rods",

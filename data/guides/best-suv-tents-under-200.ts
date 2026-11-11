@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410+UJ3nFuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYCMFWG?tag=rvgearlab-amz-20",
     "description": "The UNP Dome is a 10 by 10 foot tent with an 84 inch center height, built for 4 to 6 adults with space for two air mattresses. Its rainfly has taped seams, and adjustable vehicle straps and an elastic sleeve hug the car.\n\nIt offers the tallest ceiling and the largest square floor of the group, ahead of the 8 by 8 foot VEVOR and Waterproof SUV Tent. It costs about $30 less than the PU3000 tent.\n\nFamilies with CUVs, SUVs and minivans who want room to stand will like it. Four mesh windows give airflow.",
     "specs": [
       "10 x 10 ft, 84 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c5BpWBheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-amz-20",
     "description": "Here is an 8 by 8 by 7.2 foot tent rated for 4 to 6 adults, using PU3000mm fabric over sealed seams and a double-layer shell. The sleeve connects to the rear hatch of SUVs, crossovers, minivans and pickups, and the tent can also stand alone.\n\nNo other pick in this group matches its rain rating, while the UNP 10x10 Dome gives a larger floor and the VEVOR 8x8 Attachment costs far less. A helper makes the roughly five minute pitch quick.\n\nCampers in wet climates who want a reliable coating will value it most. An SUV air mattress fits inside.",
     "specs": [
       "PU3000mm sealed shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VVVPqg99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-amz-20",
     "description": "The VEVOR SUV attachment is 8 by 8 feet with a PU2000 coating, a double-layer design and thickened 9 mm fiberglass poles. It installs on hatchbacks or stands alone, with high-density mesh windows and a skylight.\n\nIt carries the lowest price in the group and has the thickest poles. The Portal has more floor and a porch.\n\nIt suits hatchback owners and solo campers who want a basic attachment. The streamlined shape reduces wind load.",
     "specs": [
       "8 x 8 ft attachment",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XP5pP34sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-amz-20",
     "description": "The Portal brings a wide porch to the group, along with a 10 by 8 by 7.2 foot floor, a PU 2000mm coating and a full mesh ceiling. Two large windows vent it, and it suits SUVs, vans, crossovers and pickups with covers.\n\nThe porch gives gear and boots a dry spot that no other tent here offers. It costs about $10 more than the VEVOR and gives noticeably more standing room.\n\nFamilies who want a covered entry and the option to pitch without the car should start here. Two people should install it.",
     "specs": [
       "10 x 8 x 7.2 ft with porch",

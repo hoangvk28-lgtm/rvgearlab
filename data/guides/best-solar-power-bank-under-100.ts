@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413fl9apkgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQLX82NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQLX82NQ?tag=rvgearlab-amz-20",
     "description": "This is a 146Wh (39,600mAh) power station with seven outputs, including two 110V AC outlets for devices within 100W and a 200W peak. It can also be recharged from a 13 to 23V solar panel sold separately, and a dual LED flashlight has strobe and SOS modes.\n\nIt is the only pick under $100 with an AC outlet, which lets it run a laptop charger, a small fan or a camera battery charger directly. A battery management system covers voltage and temperature control.\n\nIt fits campers and outage-prep buyers who want more than phone charging. The AC outlet and DC options cover far more gear than the phone banks.",
     "specs": [
       "146Wh, two 100W AC outlets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ubzYX8VhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H33SHVPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H33SHVPW?tag=rvgearlab-amz-20",
     "description": "The FEELLE has a 50,000mAh lithium polymer battery, 15W magnetic wireless charging and four built-in cables, powering up to six devices at once. A hand crank and compass add backup charging when every other source is gone.\n\nIts capacity is slightly larger than the BLASOUL and SOARAISE and it adds the hand crank, which neither of those offers. A redesigned panel improves sun absorption compared with older folding designs.\n\nIt suits campers and emergency kit builders who want a big battery with a crank for emergencies. Four built-in cables mean no extra cords to pack.",
     "specs": [
       "50,000mAh lithium polymer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aTxJgUWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZDV3BS?tag=rvgearlab-amz-20",
     "description": "The BLASOUL packs a 49,800mAh lithium polymer battery with 22.5W fast charging through PD 3.0 and QC 3.0, 15W wireless charging and three built-in output cables plus an input cable. An IP65 rating covers water, shock and dust.\n\nIt has the fastest wired output of the group and the IP65 rating, which the FEELLE does not list. Its PD 3.0 port suits fast phone top-ups.\n\nIt fits hikers and festival-goers who want the fastest refuel from a rugged bank. The IP65 case shrugs off dust and a splash.",
     "specs": [
       "49,800mAh, 22.5W PD 3.0",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514lHXeH4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4DLKXJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4DLKXJB?tag=rvgearlab-amz-20",
     "description": "The SOARAISE has a 48,000mAh lithium polymer battery and four solar panels, which the listing says charge up to five times faster than a standard single-panel bank. It adds wireless charging and a 5V/3A USB-C port that takes an iPhone from 15% to 60% in 30 minutes.\n\nIts four panels give it more sun collection area than the FEELLE and BLASOUL. It also includes four built-in cables for multi-device use.\n\nIt suits campers who want the most solar area on a power bank, with the wall as a fast backup. The wireless pad saves hunting for a cable.",
     "specs": [
       "48,000mAh, four solar panels",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HGOefa5cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1MJSC2Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1MJSC2Q?tag=rvgearlab-amz-20",
     "description": "The LATIMERIA has a 20,000mAh battery and three foldable solar panels that open with a press of a button. It adds emergency warning lights, a multi-mode flashlight and two built-in cables.\n\nIt is smaller than the 48,000mAh banks and lighter in the pack. Protection against overcharge and short circuits is listed.\n\nIt fits day hikers and commuters who want a compact folding panel bank. The warning lights add a safety option on night walks.",
     "specs": [
       "20,000mAh, 3 foldable panels",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KVeOxzZvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQTC2ZVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQTC2ZVW?tag=rvgearlab-amz-20",
     "description": "This solar power bank has 38,800mAh capacity, three output ports, dual LED flashlights with steady, SOS and strobe modes, and solar or wall recharging. It lists FCC, CE and RoHS certification and comes with a micro USB cable and carabiner.\n\nIt is the lowest priced bank here by a wide margin. It gives up the fast-charging and wireless features of the pricier banks for basic capacity.\n\nIt fits first-time buyers and kids who want a cheap emergency bank. The carabiner clips it to a pack.",
     "specs": [
       "38,800mAh, 3 outputs",

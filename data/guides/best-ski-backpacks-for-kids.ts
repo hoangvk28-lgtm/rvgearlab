@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512f0nNrVPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00WF8YF8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00WF8YF8S?tag=rvgearlab-amz-20",
     "description": "The KULKEA Speed Star is a lightweight 35L kid's boot bag with a front-load design and water-resistant ripstop polyester. Two ventilated side boot pockets sit separately from the main compartment, a reinforced bottom panel handles slush and extra-wide contoured padded straps adjust for growing kids.\n\nIt is the only pick here designed around a child's frame, with straps that adjust as they grow. Compared with the evo, its boot pockets sit on the sides, not at the bottom.\n\nIt suits kids who haul their own gear to the lodge. The ventilated pockets keep soggy boots away from dry clothes.",
     "specs": [
       "35L, ripstop polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Hu6clmxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3B7TLF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3B7TLF2?tag=rvgearlab-amz-20",
     "description": "The evo 40L kids boot pack has a lower compartment that holds one pair of boots, premium #10 YKK zippers and a padded ergonomic harness with a sternum strap. The 40L space has room for a helmet and essential gear.\n\nIts sternum strap keeps the harness steady on a small chest. Compared with the KULKEA, it holds more and uses a lower boot compartment instead of side pockets.\n\nIt suits growing kids who need room for a helmet, goggles and layers. The YKK zippers are listed as heavy duty.",
     "specs": [
       "40L, lower boot compartment",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kduDsIfaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0028DTCDI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0028DTCDI?tag=rvgearlab-amz-20",
     "description": "The Athalon Triathalon kids bag has zippered ventilated side pockets for boots, a central section for jackets and padded hidden backpack straps. A waterproof PVC bottom, bottom drainage grommets and reflective piping round out the build.\n\nIt offers hidden straps that tuck away when the bag is hand carried, with drain grommets the evo lacks. Compared with the KULKEA, it has a more traditional boot-bag layout.\n\nIt suits kids who switch between carrying by hand and wearing the bag. The reflective piping helps in dark parking lots.",
     "specs": [
       "Ventilated boot pockets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GPr-pzZyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MJ2SYTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MJ2SYTC?tag=rvgearlab-amz-20",
     "description": "The TurnWay boot backpack is a 50L adult-size bag measuring 33 by 33 by 48 centimeters, with three main compartments and 1680D polyester that is double PU coated. It adds an anti-slip PVC bottom, a reflective strip and air-padded shoulder straps.\n\nIt holds far more than the KULKEA and evo, with a tougher shell. Compared with the kid-specific bags, it is a size up and best for teens.\n\nIt suits older kids and teens who have outgrown a kid pack. The reflective strip adds visibility.",
     "specs": [
       "50L, 33 x 33 x 48 cm",

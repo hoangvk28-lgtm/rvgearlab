@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The EMS-PT30X is the benchmark portable EMS for 30 amp rigs and our top pick. It is rated for 30 amps at 120 volts (3,600 watts), absorbs up to 1,790 joules, and disconnects for over and under voltage, open ground, open neutral, reverse polarity, a miswired pedestal, accidental 240 volts, surge failure, and AC frequency problems. That last pair matters more than the joule figure: 240 volts on a 30 amp pedestal is a classic way to destroy a converter in seconds.\n\nCompared with the Power Watchdog PWD30EPO ranked just below it, the Progressive has a lower joule rating and no phone app, but it covers a broader documented fault list including frequency and 240V detection, and it costs roughly half as much. The built-in display reads out the error code on the unit itself, so you are not dependent on a phone to diagnose a bad pedestal.\n\nThis suits most 30 amp travel trailer and fifth wheel owners who want proven EMS protection without app features. The caveat is that it sits at the pedestal, so it needs a lock or cable to discourage theft, and the surge section is not sold as a separate swap-in module the way Power Watchdog's is.",
     "specs": [
       "30A, 3,600W, 1,790 joules",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dpu+Z9E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-amz-20",
     "description": "The PWD30EPO is the strongest smart portable EMS in this roundup. It pairs 3,000 joules of surge absorption with a circuit analyzer that shuts power off during a dangerous event and pushes an alert to your phone, along with live voltage, amperage, and kilowatt hour usage through the free app.\n\nNext to the Progressive EMS-PT30X above it, the Watchdog wins on surge capacity, live monitoring, and a replaceable surge module that saves you from buying a whole new unit after a big strike. It loses on price, costing roughly twice as much. Its 90 second delay after a fault protects your air conditioner compressor, while a 4 second power-on delay at first plug-in gets you running faster than units that wait two minutes.\n\nChoose it if you camp at older parks often and want to watch amperage draw from inside the coach before you trip a pedestal breaker. The caveat is that much of the extra cost is app convenience; core shutoff protection is comparable to cheaper EMS units.",
     "specs": [
       "3,000 joules, auto shutoff",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4132XaZ5qTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-amz-20",
     "description": "The EMS-HW30C brings Progressive's EMS logic inside the coach. It carries the same 30 amp, 3,600 watt, 1,790 joule rating as the portable PT30X and disconnects for over and under voltage, open ground and neutral, reverse polarity, miswired pedestals, surge failure, and frequency issues, plus an integrated display for reading codes.\n\nThe tradeoff against the portable PT30X ranked first is installation versus convenience. Hardwiring removes theft risk and the extra connection point at the pedestal, but it means opening your power inlet or transfer area and wiring it in, which many owners hand to an RV tech. Against the Power Watchdog hardwired unit below it, the Progressive skips WiFi but costs less than half as much.\n\nThis suits full-timers and seasonal campers who are tired of locking a box to the pedestal. The caveat is that a typical setup places the display inside a compartment, so you may want the optional remote display to read faults without crawling into a bay.",
     "specs": [
       "Hardwired, 30A, 1,790 joules",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RStr9eSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC167KW8?tag=rvgearlab-amz-20",
     "description": "The PWD30EPOHW is the hardwired version of Power Watchdog's EMS with WiFi monitoring. Once installed, any pedestal you plug into is automatically covered, it cuts power during extreme voltage swings, and it sends wireless fault alerts with voltage data you can check remotely.\n\nCompared with the Progressive HW30C above it, you are paying a large premium for WiFi monitoring and Power Watchdog's replaceable surge module. Compared with the portable PWD30EPO, the protection idea is the same but the unit lives inside the coach, so it cannot be stolen and you never forget to plug it in first.\n\nIt fits owners who leave the rig plugged in at a seasonal site and want to check power remotely while away. The caveat is price: it is one of the costliest 30 amp options here, and WiFi monitoring only helps if the rig has a network to join.",
     "specs": [
       "Hardwired 30A EMS",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31E+pdhKfPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQTJLQ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQTJLQ4?tag=rvgearlab-amz-20",
     "description": "The RVBASICS unit lands between budget auto-cutoff boxes and the name brands. It is ETL listed, rated 30 amps at 120 volts with 3,600 joules and a 10,000 amp per MOV spike rating, and its built-in analyzer reads voltage, current, and frequency on an LED display and a Bluetooth app that sends alerts.\n\nAgainst the Power Watchdog PWD30EPO it offers similar app monitoring and a slightly higher joule figure for roughly a third of the price, but it lacks the replaceable surge module and the long track record. Against the cheaper GEARGO and AMEHO picks below, it adds a phone app and ETL listing.\n\nPick it if you want app monitoring on a budget. The caveat is that RVBASICS does not document the reconnection delay or the full fault list as clearly as Progressive, so read the manual before relying on it to protect an air conditioner.",
     "specs": [
       "3,600 joules, ETL listed",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zq5+JZeaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-amz-20",
     "description": "GEARGO's smart 30 amp model is the most affordable unit here with a clearly stated voltage cutoff window. It disconnects when voltage drops below 103 volts or rises above 132 volts, displays live voltage on an LED screen, and uses an IP68 rated cover, with a three-year warranty behind it.\n\nThe 16,000 joule rating is far above the Progressive and Watchdog figures, but joule numbers on budget units are not tested to the same standards, so treat it as a rough indicator. What actually matters is the 103 to 132 volt cutoff, which gives it genuine EMS-style protection against low voltage that the Progressive also covers. It lacks an app and the documented 240V detection of the top pick.\n\nThis suits weekend campers who want real auto shutoff for under $100. The caveat is a shorter fault list than the name brands and no replaceable surge module.",
     "specs": [
       "Cuts power below 103V or above 132V",
@@ -191,7 +191,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kyHYWamjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-amz-20",
     "description": "The AMEHO is the least expensive true auto-shutoff unit in this roundup. Its large screen shows six readings (voltage, amperage, wattage, kWh, temperature, and frequency), and it cuts power for over voltage, under voltage, or over temperature, then reconnects automatically once conditions recover.\n\nNext to the GEARGO above it, AMEHO adds amperage and frequency readouts on the unit and prints the error code guide right on the housing, which saves digging for a manual at night. It does not publish its exact voltage cutoff thresholds the way GEARGO does, and like other budget units its joule rating is a marketing number rather than a tested benchmark.\n\nChoose it for a first RV or a backup unit when money is tight. The caveat is that cord certification is listed as UL, not the full unit, so Progressive or Power Watchdog remain the safer long-term choice.",
     "specs": [
       "6 readings incl. amps and frequency",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oaEUqX4YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06Y549WB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y549WB9?tag=rvgearlab-amz-20",
     "description": "The DEWALT DXAEPI140 is a 140W continuous inverter that plugs into the vehicle's 12V socket, with a 25W USB-C port and a 15W USB-A port. The listing describes a fan-free, silent design, low-voltage auto shut-off and an installation kit for permanent mounting.\n\nIt is the only pick without a fan, and the only one with a mounting kit that lets it stay installed. Against the BESTEK and PiSFAU it offers less wattage in return for silent operation and a name behind the shut-off protection.\n\nIt suits drivers who charge a phone and laptop on commutes and want no fan noise. The low-voltage shutoff helps prevent battery drain.",
     "specs": [
       "140W continuous, plugs into 12V",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEeE+OZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-amz-20",
     "description": "The BESTEK provides 300W continuous through two 110V AC outlets and two 4.8A USB ports. It lists a 40 amp fuse built in, an aluminum shell, an input window of 11 to 17V and a 32 inch cord on an iPhone-sized body.\n\nIt offers 160W more than the DEWALT and 100W more than the PiSFAU, with two AC outlets and a named fuse. Compared with the Kzreect it needs a vehicle socket, not a tool battery.\n\nIt suits travelers who want a sturdy, small inverter for laptops and tablets. The aluminum shell takes knocks in a packed bag.",
     "specs": [
       "300W continuous, 40A fuse",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnIJVNvzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-amz-20",
     "description": "The PiSFAU is a 200W plug-in inverter built around a fully insulated ABS shell, listed at 8.5 oz and shaped like a phone. Its sockets are a pair of standard AC outlets plus four USB ports, backed by overheat, undervoltage, overvoltage, overload and short-circuit protection.\n\nIt carries twice as many USB ports as the DEWALT at the lowest price of the plug-ins. Against the BESTEK it gives up 100W of headline power.\n\nIt suits travelers who prioritize size and charging many phones at once. The listing calls it the same size as a cell phone.",
     "specs": [
       "200W, 2 AC plus 4 USB",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S+W-XObNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRJW3MLD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRJW3MLD?tag=rvgearlab-amz-20",
     "description": "The Kzreect is a 2-pack of 220W inverters that run on a compatible DEWALT 20V battery, sold without the battery. Each has a 110V AC outlet, a 30W USB-C PD port, two 18W USB-A QC ports, a 400 lumen LED work light with a strobe mode and weighs 0.68 lb.\n\nIt is the only pick that works away from a vehicle, and it comes as two inverters. Compared with the vehicle-socket models it needs a battery pack, which is not included.\n\nIt suits campers and tradespeople who already own DEWALT 20V packs and want AC power off-grid. The LED work light doubles as a camp light.",
     "specs": [
       "220W from a DEWALT 20V pack",

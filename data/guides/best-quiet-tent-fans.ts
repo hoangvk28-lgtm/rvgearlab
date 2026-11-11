@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL lists noise below 30 dB, a premium motor and an ultra-thin blade, with four speeds topping out at 3950 r/min. Its 24000mAh battery gives a stated 11 to 60 hours, and a remote, three timers and a two-level light come with it.\n\nIt is the only pick here that pairs a decibel figure with a big battery and remote control. The Roodike lists a higher noise number and the Gaiatop gives no number at all.\n\nIt suits a light sleeper who wants a remote and a timer so the fan can stop on its own. Run it on a low speed overnight and it stays closest to that listed figure.",
     "specs": [
       "Under 30 dB claim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RWclZgsRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSVN13HM?tag=rvgearlab-amz-20",
     "description": "The Roodike is a 17-inch USB ceiling fan with five blades, 330 RPM rotation and a listed 36 dB. A 13.2 ft UL-listed cord with an on/off button runs it from a power bank, car charger or wall adapter at 5W.\n\nSlow rotation is its quiet mechanism, and the long cord means no battery to drain. Compared with the FRIZCOL it has no runtime limit, and compared with the Gaiatop it gives a decibel number.\n\nIt suits a car camper or RV-adjacent camper who has USB power all night and wants a slow, steady breeze. Hang it from the tent ceiling and run the cord out the door vent.",
     "specs": [
       "36 dB, 330 RPM",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YudlPWbSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQP23DVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQP23DVV?tag=rvgearlab-amz-20",
     "description": "The Gaiatop is a rechargeable camping fan with an upgraded motor and aerodynamic grille aimed at lower noise. It offers three speeds, 360 degree manual adjustment, a foldable hook and a lantern with eight LED beads, with 5 to 17 hours per charge.\n\nIt gives no decibel figure, so it ranks under the FRIZCOL and Roodike. It does the lantern job in the same body, which neither of them does.\n\nIt suits a solo camper who wants a hanging fan and light in one unit and values low-noise design over a stated number. The USB desk-fan mode lets it run while charging.",
     "specs": [
       "5 to 17 hours per charge",

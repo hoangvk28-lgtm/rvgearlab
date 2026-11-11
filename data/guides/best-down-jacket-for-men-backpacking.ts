@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4193eGzc8vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC1PGK12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC1PGK12?tag=rvgearlab-amz-20",
     "description": "The Outdoor Research Helium Down is built with 800+ fill responsibly sourced goose down, a Pertex Quantum Diamond Fuse shell for abrasion resistance and Pertex Shield waterproof fabric on the hood and shoulders. It stuffs into its own left-hand pocket and has a carabiner loop.\n\nAgainst the Rab Microlight Alpine, it adds waterproof shoulders and a hood. Compared with the Columbia Delta Ridge, it uses higher fill and a more abrasion-resistant shell.\n\nIt suits backpackers who want a hooded jacket that handles snow and rain on the shoulders. The carabiner loop clips to a pack.",
     "specs": [
       "800+ fill goose down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yPrrHa0vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D79RD9PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D79RD9PF?tag=rvgearlab-amz-20",
     "description": "The Rab Microlight Alpine is a 700-fill recycled hydrophobic down jacket with a Pertex Quantum ripstop shell. It lists a high warmth-to-weight ratio, zoned micro and nano baffles and recycled fabrics.\n\nAgainst the Outdoor Research Helium, it uses lower fill and no waterproof panels. Compared with the Rab Microlight, it adds an alpine cut and warmth.\n\nIt suits backpackers who want a packable, eco-friendly down layer. It shrugs off light flurries and gusts.",
     "specs": [
       "700-fill recycled hydrophobic down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vUxMJ9EDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CK644XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CK644XB?tag=rvgearlab-amz-20",
     "description": "The Rab Microlight is a lightweight, easy-to-pack down jacket with 700-fill recycled hydrophobic down and a Pertex Quantum ripstop shell. Zoned micro and nano baffles keep it warm without bulk.\n\nAgainst the Rab Microlight Alpine, it targets everyday use rather than alpine cuts. Compared with the Eddie Bauer, it uses recycled hydrophobic down.\n\nIt suits backpackers who want a trail and town jacket. The listing is aimed at on-the-go insulation.",
     "specs": [
       "700-fill recycled down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VdcSrySRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-amz-20",
     "description": "The Columbia Delta Ridge II is a 650-fill responsibly sourced down jacket with Omni-Heat heat-reflective lining, heat-sealed baffles and a rain and stain resistant Omni-Shield finish. It is described as water resistant for drizzle.\n\nAgainst the Eddie Bauer CirrusLite Hooded, it adds heat-reflective lining and heat-sealed baffles. Compared with the Rab Microlight, it costs much less.\n\nIt suits backpackers who want a mid-range down option. The heat-seal construction avoids stitch drafts.",
     "specs": [
       "650-fill down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314FUgUAaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6R2L4VJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6R2L4VJ?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer CirrusLite Hooded uses 650-fill RDS-certified down, a StormRepel DWR finish and recycled shell and lining. It has secure zip side pockets and a hood.\n\nAgainst the Eddie Bauer CirrusLite, it adds a hood. Compared with the Columbia, it is lighter on features.\n\nIt suits backpackers who want a hood on a budget. The RDS certification matters to ethical buyers.",
     "specs": [
       "650-fill RDS-certified down",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BaHgj+PKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5FQ75TC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5FQ75TC?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer CirrusLite is a hoodless ultralight down jacket with 650-fill down, a recycled polyester shell with StormRepel DWR and zip side pockets. A higher neckline holds heat.\n\nAgainst the Eddie Bauer CirrusLite Hooded, it drops the hood to cost less. Compared with the Rab Microlight, it uses lower fill power.\n\nIt suits backpackers who want the cheapest real down. It packs small.",
     "specs": [
       "650-fill down",

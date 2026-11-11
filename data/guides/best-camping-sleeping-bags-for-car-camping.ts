@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31McqzoK49L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius XXL is a 0 degree single built with SuperLoft Elite fiber fill, a poly-flannel lining and double-layer construction with draft tubes. It has a half-circle mummy hood and ships with a stuff sack with heavy-duty compression straps.\n\nAgainst the BORULL Double Queen it is the colder-rated pick, and the extra-long XXL cut gives taller campers real room. Its right-zip layout suits solo sleepers who want a bag that stays put.\n\nIt suits tall or broad campers who camp in cold weather and keep the bag in the trunk. The flannel lining feels soft against skin.",
     "specs": [
       "SuperLoft Elite fiber fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tASX7-CHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRV6WZDT?tag=rvgearlab-amz-20",
     "description": "The BORULL Double Queen measures 92 by 63 inches and prints a comfort range of 40 to 65F with a limit of 30F. Sleepers up to 7 feet fit inside, and the package adds two pillows, a cinchable hood and snag-resistant zippers.\n\nWhere the TETON Celsius XXL is a single, this bag sleeps two and unzips flat or splits into two singles. It prints both comfort and limit numbers, which makes its actual range easy to read.\n\nIt suits couples and families who car camp in spring through early fall. The pillows are included in the price.",
     "specs": [
       "92 by 63 in double",

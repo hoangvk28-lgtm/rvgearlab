@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Azenn2IEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHL5H7GS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHL5H7GS?tag=rvgearlab-amz-20",
     "description": "The LJCMN lists motion sensor control, IPX7 waterproofing, 95 hours of runtime, Type-C charging in 3 to 5 hours and a USB output. It has 10 lights across white, warm white and red, side lamps, a 90 degree adjustable head and a high-elasticity band.\n\nIts IPX7 beats the IPX5 of the Northlet and Mirlivta, and it adds warm white that most sensor lamps lack. The ZioeYiue and Avlxt are cheaper per lamp in packs.\n\nIt suits campers and anglers who want a sensor lamp that can be dunked. The USB output can top up a phone.",
     "specs": [
       "Motion sensor, IPX7, Type-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tzSiGR3yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMXCR6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMXCR6C?tag=rvgearlab-amz-20",
     "description": "The Mirlivta lists 1200 lumens, a motion sensor, 5 modes in white, yellow and a glare-free third color, a digital power display and a 3 second long-press anti-accidental lock. A 1,500mAh battery charges over USB-C and runs 6 to 10 hours, with a 60 degree tilt and an IPX5 rating.\n\nIt is the only pick that shows remaining battery on a digital display and offers a lock against accidental activation. It costs less than any other lamp here.\n\nIt suits budget campers who want a lamp that tells them how much charge is left. Yellow light cuts through fog.",
     "specs": [
       "1200 lumens, motion sensor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VxN6AvdXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF39DJZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF39DJZ1?tag=rvgearlab-amz-20",
     "description": "The Northlet set includes four headlamps with a built-in back magnet, a clip-on detachable design and 6 modes including red. Motion sensor mode turns on with a 3 second hold, and each lamp carries an IPX5 rating with an elastic strap that fits adults and kids.\n\nIt is the only set with a back magnet, which lets a lamp stick to a metal surface like a car hood. Four lamps cost more than the 2-pack choices.\n\nThis set is for families and crews wanting a lamp for everyone plus a magnet for hands-free work. The red mode keeps night vision.",
     "specs": [
       "Four lamps, 6 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wEVaAvuwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2H7R54P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2H7R54P?tag=rvgearlab-amz-20",
     "description": "The ZioeYiue set includes five headlamps with 5 modes, a COB 230 degree wide beam, two long-distance spotlights, a sensitive motion sensor and an IPX4 rating. The built-in battery gives 2.5 to 8 hours across modes.\n\nIt supplies five lamps for a lower per-lamp cost than the Northlet 4-Pack, with a shorter runtime. The 230 degree wide beam is a strong flood.\n\nIt suits scout troops, youth groups and families who need many lamps cheaply. A long press toggles the sensor.",
     "specs": [
       "Five lamps, 5 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZcYGqtdeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KCB8Q4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KCB8Q4R?tag=rvgearlab-amz-20",
     "description": "The Avlxt 2-pack lists a sensor that works through gloves, a 230 degree wide beam at 350 lumens, an extra side spotlight and 5 modes. The 1,200mAh battery charges in 2 hours, the body is ABS and silicone with an IPX4 rating, and it folds small.\n\nIt charges faster than the LJCMN and is pocket-sized, with a lower lumen figure than the Mirlivta. The pair costs less than the Northlet 4-Pack.\n\nIt suits winter campers and tradespeople who work with gloves on. The 2-hour charge fits a quick top-up.",
     "specs": [
       "350 lumens, 230 degree beam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dtt79LrAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QBR16PD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QBR16PD?tag=rvgearlab-amz-20",
     "description": "The MIOISY 2-pack weighs 1.76 ounces per lamp and offers 8 modes, an IPX4 rating, a long press that shuts off from any mode and a sensor that works by wave. A sponge pad on the back adds comfort.\n\nIt uses a simpler long-press shutoff than the other pairs and costs less than the Avlxt. The listing gives no battery size.\n\nIt suits runners and day hikers who want a light pair with a sensor. The sponge pad prevents rubbing.",
     "specs": [
       "1.76 oz each, 8 modes",

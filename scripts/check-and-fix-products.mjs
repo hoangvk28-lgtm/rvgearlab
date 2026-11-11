@@ -1,6 +1,6 @@
 const SB = "https://xlipolezpdkfmneqkncd.supabase.co";
 const KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
-const TAG = "theofficejournal-20";
+const TAG = "rvgearlab-amz-20";
 const h = { "apikey": KEY, "Authorization": `Bearer ${KEY}`, "Content-Type": "application/json" };
 
 // Fetch all with status

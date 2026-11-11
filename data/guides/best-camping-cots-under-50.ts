@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412C8xoQuNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H97FW1SC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H97FW1SC?tag=rvgearlab-amz-20",
     "description": "The Aoran cot is 28 inches wide with a removable tufted cushion in a 1200D Oxford cover and a reinforced cross-braced steel frame. It supports up to 450 lb, has a 15 degree curved surface and sets up in 10 seconds without tools.\n\nIt pairs a padded surface with a wide 28 inch deck, and it costs about $8 more than the Aoran 6-position lounge cot. The Amazon Basics twin is longer and wider with no padding, and the Roixeeds is cheaper and narrower.\n\nIt suits car campers and guests who want a real bed feel. The cushion removes for hot nights and machine washing.",
     "specs": [
       "28 inch wide, 450 lb rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PsCW6+oKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6393G5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6393G5D?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics cot has a sleeping surface of 81.5 by 30.4 inches on a steel frame with locking stability bars, rated for 350 lb. It sets up without tools, has non-slip feet and includes a carry bag.\n\nIt is the longest and widest cot here and costs the most, at about $47. Its frame is the sturdiest of the group, while the 28 inch cots with built-in padding give more comfort for less.\n\nIt suits tall campers and anyone over 6 feet 2 inches who needs length. The extra room also helps on a larger tent floor.",
     "specs": [
       "81.5 x 30.4 inch twin size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pXSa7FhjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPCFMV9G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPCFMV9G?tag=rvgearlab-amz-20",
     "description": "The ARAER is a 28 inch wide cot with a 450 lb max load, 25mm steel tubes in a triangle structure and a detachable mattress. It weighs 15.8 lb and comes with a storage bag and a side pocket.\n\nIt costs about $5 more than the Aoran 28in Cot and gives a similar width and rating with a detachable mattress and a pocket for gear. It is heavier than the lounge-style cots, which trade comfort for lower weight.\n\nIt suits campers who want a mattress and storage pocket at the lowest total price for a 28 inch cot. It works in a tent or on a camper floor.",
     "specs": [
       "28 inch wide, 450 lb max load",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LLXAHzSSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFVDHCGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFVDHCGM?tag=rvgearlab-amz-20",
     "description": "The Roixeeds cot has 600D Oxford fabric and a frame with 3 U-shaped metal legs and non-slip feet. It supports up to 330 lb and folds into a compact bundle for storage.\n\nIt costs less than the Aoran 28in Cot and the ARAER, and it is narrower with no padding, so sleeping on it is firmer. It is the simplest cot in the group, which keeps weight and price down.\n\nIt suits campers on a tight budget who plan to add their own pad or sleeping bag. It works in a tent, on a beach or at a campsite.",
     "specs": [
       "600D Oxford fabric",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BcHebhyML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8YDKQBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8YDKQBF?tag=rvgearlab-amz-20",
     "description": "The Aoran lounge cot has six backrest positions, slim padding with a raised headrest and a metal frame with 4 U-shaped supports and 8 anti-slip foot pads. It supports 450 lb and weighs only 11.6 lb, with a side pocket for small items.\n\nIt is the cheapest cot on the list and the lightest at 11.6 lb, which beats the 15.8 lb ARAER. It doubles as a lounge chair, so it gives up the long, flat bed surface that the Amazon Basics twin offers.\n\nIt suits campers who want a lounger that also serves as a bed for naps and overnight stays. It also works on a patio or balcony.",
     "specs": [
       "6 backrest positions, 11.6 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411tNayAdOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMB88LZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMB88LZL?tag=rvgearlab-amz-20",
     "description": "This cot measures 75 by 29.5 by 11 inches and has a 4-position adjustable recliner design. It folds to 29 by 26 by 6 inches with no assembly and can be opened by one person.\n\nIt sits at the same price as the Roixeeds and costs less than the Aoran 28in Cot, and it adds recline positions that the plain cots lack. Its packed size is compact for a cot of this length.\n\nIt suits campers who want a place to read or rest in a tent before bed. It also works as a spare guest bed at home.",
     "specs": [
       "75 x 29.5 x 11 inch, 4 positions",

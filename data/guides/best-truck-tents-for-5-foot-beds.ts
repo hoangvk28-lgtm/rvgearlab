@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yGhJv3pYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KVQB1C?tag=rvgearlab-amz-20",
     "description": "This JOYTUTUS tent swaps poles for an inflatable frame with large pillars, filled by the included manual pump in about 30 seconds. It is listed for 5.0 to 5.2 ft beds, for two people, with a roof shade over the gap between the truck roof and the tent.\n\nAgainst the pole-based Umbrauto and WildFinder tents, it removes the pole-threading step entirely. It also works as a standalone ground tent, which the other four picks do not list.\n\nIt suits short-bed owners who set up alone after a long drive and want the quickest pitch. The mesh double doors open from one or both sides for airflow.",
     "specs": [
       "Inflates in about 30 seconds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OWZV8S6OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H39KGXBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H39KGXBX?tag=rvgearlab-amz-20",
     "description": "The Umbrauto awning model is listed for 5.0 to 5.2 ft beds with a 64 inch interior length, 210T polyester and a PU3000 coating. It adds a tailgate awning, a roof vent, two large side mesh windows and color-coded poles.\n\nCompared with the plain Umbrauto 5.0-5.2, it costs a few dollars more for shade at the tailgate. It undercuts the inflatable by a wide margin while keeping a higher waterproof number.\n\nIt suits short-bed campers who cook, fish or sit by the tailgate and want cover without a separate canopy. Three color options let you match the truck.",
     "specs": [
       "64 inch length, 5.0-5.2 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x9ioA9H3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF7MMBT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF7MMBT4?tag=rvgearlab-amz-20",
     "description": "The plain Umbrauto 5.0-5.2 shares the 64 inch length, 210T polyester and PU3000 coating of the awning model. It keeps the roof vent, two side mesh windows, full-size door and color-coded poles, and it is listed as ideal for 2 to 3 sleepers.\n\nIt drops the awning, which trims the price below the awning version. Compared with the WildFinder it adds a roof vent, while the WildFinder adds a cable tunnel and a lower price.\n\nIt suits short-bed owners who only need a dry place to sleep and prefer to skip the awning. A full-size door keeps entry easy.",
     "specs": [
       "64 inch length, 5.0-5.2 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H6yRizNVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKMQF2P5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKMQF2P5?tag=rvgearlab-amz-20",
     "description": "The Sky View JOYTUTUS uses a straight aisle design that the listing says gives 30 percent more space than regular truck tents. It fits 5.0 to 5.2 ft beds and adds a mesh roof for stargazing, four-sided mesh windows, a rainfly and 210D Oxford with a PU2000 coating.\n\nIt costs less than both Umbrauto tents and brings a roof view that they lack. The kit includes four fiberglass poles and two inner mesh storage bags.\n\nIt suits two campers who want more elbow room and open sky above the bed. The mesh sides can be fully closed for privacy.",
     "specs": [
       "Straight aisle, 30% more space",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zsspyICrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMJ6HRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMJ6HRK?tag=rvgearlab-amz-20",
     "description": "The WildFinder is listed for 5.0 to 5.4 ft beds, the widest short-bed range of the five. A tunnel opening links the tent to the truck for cable runs and cooling air, and the 210D Oxford carries a PU3000 coating.\n\nIt has the lowest price here and matches the Umbrauto PU3000 rating. The tunnel is a feature neither Umbrauto lists.\n\nIt suits budget-minded short-bed owners who want a powered fan or cable run from the truck. Color-coded poles and a large entry door keep setup simple.",
     "specs": [
       "Fits 5.0-5.4 ft beds",

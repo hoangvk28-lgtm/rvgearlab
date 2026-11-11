@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vMn0i3JlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-amz-20",
     "description": "The WildFinder is an all-aluminum hard shell that includes a 7.5 foot telescoping ladder, LED strip, shoe organizers, a ladder organizer and three mesh windows. It lists a recessed marine pad, a condensation pad and a built-in mattress with an extra one.\n\nIt is the only pick that ships with a full accessory set, at a price far below the Naturnest. It lists level 6 wind resistance, 5000mm rain protection and level 4 snow protection.\n\nIt suits a 4Runner owner buying a first rooftop tent who wants one box with everything. Stainless steel air pressure levers handle opening.",
     "specs": [
       "Ladder, LED, organizers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Adventurer Pro is a 2 to 3 person aluminum hard shell that spells out 83.86 by 51.57 by 7 inches closed and 62.99 inches tall open. Gas struts raise it in 5 seconds, and it has a side awning, built-in LED lights and a flocked-lining floor.\n\nIt gives clearer numbers than the WildFinder and sleeps fewer than the Naturnest. The slim 7 inch closed profile helps with garage clearance.\n\nIt suits 4Runner campers who want to check a spec sheet before they buy. A rubber seal blocks rain from the lid line.",
     "specs": [
       "83.86x51.57 in closed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CNo00J3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-amz-20",
     "description": "Sold for four people, the Naturnest Sirius 1 Plus XL pairs an ABS shell with an aluminum frame, honeycomb insulation and a 1.97 inch mattress. It ships with roof crossbars for gear, and it opens by pulling down the ladder in about 30 seconds.\n\nIt is the largest and the most expensive of the three. The HEYFUN and WildFinder sleep fewer people and add less roof load.\n\nIt suits a 4Runner family that wants a shared sleeping space and insulation. Replaceable tear-resistant fabric extends its life.",
     "specs": [
       "4 person ABS hard shell",

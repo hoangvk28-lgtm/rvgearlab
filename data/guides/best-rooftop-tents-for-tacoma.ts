@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Adventurer Pro is an aluminum hard shell for 2 to 3 people that is 7 inches tall closed and 62.99 inches tall open. It has hydraulic struts that open it in 5 seconds, a flocked-lining floor, a rubber seal, a side awning and LED lights.\n\nIt costs a fraction of the Tacoma-named BVWBCR and states exact dimensions. Against the Naturnest and WildFinder it is the one with a low-profile closed shape.\n\nIt suits a Tacoma owner who wants an aluminum shell at a reasonable price and a fast open. The bundled lights and awning mean less to buy later.",
     "specs": [
       "7 in closed, 62.99 in open",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nJm6EQ0OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYVTFH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYVTFH2?tag=rvgearlab-amz-20",
     "description": "The BVWBCR Tacoma Hard Shell is titled for the Toyota Tacoma and uses an ABS shell, aluminum frame, a built-in air conditioner duct hole and a removable winter thermal liner. It sleeps two adults and a child.\n\nIt is the only listing that names the Tacoma, and it is the most expensive of the four by a wide margin. It shares its build with the BVWBCR Triangle used on other trucks.\n\nIt suits buyers who want a tent titled for their truck and are comfortable paying for it. The winter liner and cooling port extend the camping season.",
     "specs": [
       "Titled for Toyota Tacoma",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CNo00J3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius 1 Plus XL is sold for four people and has honeycomb-insulated ABS panels over an aluminum frame, a 1.97 inch mattress and included roof crossbars. It opens in about 30 seconds from the ladder.\n\nIt is bigger than the HEYFUN and adds insulation that the WildFinder lacks. A crew of four is the only reason to choose it.\n\nIt suits a Tacoma family that wants one shared space. The fabric is replaceable if it wears.",
     "specs": [
       "Sold for four people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vMn0i3JlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-amz-20",
     "description": "The WildFinder is an all-aluminum hard shell with a 7.5 foot ladder, LED strip, shoe organizers and three mesh windows. It lists 5000mm rain protection, level 6 wind resistance and a recessed marine pad.\n\nIt carries the longest accessory list of the four and costs about the same as the HEYFUN. The Naturnest and BVWBCR cost far more.\n\nIt suits first-time Tacoma rooftop campers who want a complete kit. Three mesh windows handle airflow on warm nights.",
     "specs": [
       "Aluminum shell, 7.5 ft ladder",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TF2SEPBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-amz-20",
     "description": "WERTYCITY's warm-weather bag compresses to 6.9 inches in height and weighs about 1.54 lb. The listing gives a nylon outer, a soft imitation silk cotton filling and a polyester pongee lining, with comfort stated at 59F.\n\nIt packs smaller than the ECOOPRO and the REDCAMP, and two bags can be zipped together to make a double. The pack is the smallest of the three by a clear margin.\n\nA strong match for campers who prize pack space and camp only in hot weather. It also suits travelers.",
     "specs": [
       "About 1.54 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WY5-7QZbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NCIPCCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NCIPCCC?tag=rvgearlab-amz-20",
     "description": "REDCAMP measures this bag at 75 x 32.7 inches and 1.5 lb, and it fits adults up to 6 feet. The listing gives a comfort of 68F with a range of 59 to 77F, and the package measures 7.9 x 4.7 inches.\n\nIts two-way zippers allow two bags to join into a double, or open as a quilt for summer use. A 365-day limited warranty backs it, which the ECOOPRO and WERTYCITY do not list.\n\nGood for hot-summer campers who want a quilt option and a printed pack size. The internal stuff pocket holds small items.",
     "specs": [
       "1.5 lb, 75 x 32.7 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO's envelope bag is 83 x 30 inches with a nylon outer and a polyester lining, with a stated 55 to 60F range. It compresses to 11 inches tall, weighs 1.7 lb and ships with a compression sack.\n\nIt is the longest of the three, so it fits taller sleepers better than the REDCAMP or the WERTYCITY. It is also the heaviest and bulkiest of the trio.\n\nA fit for taller campers who want a compact warm-weather bag. Scouts and travelers use it often.",
     "specs": [
       "1.7 lb, 11 inches tall",

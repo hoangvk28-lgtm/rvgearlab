@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mxD85jaYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics dome is titled as a 3-season, four-person tent with a removable rainfly and welded seams. It has a back window and cool-air port, shock-corded poles with snag-free sleeves and a setup time listed at under six minutes.\n\nIt is the lowest-priced pick that says 3-season in plain words, and it adds an interior mesh pocket and carry bag. The OneTigris offers a larger floor and a footprint, and costs about three times as much.\n\nIt suits families on a budget camping in mild months. The dome shape is easy to pitch.",
     "specs": [
       "3-season four-person dome",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YUklWmpML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDC6JPGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDC6JPGM?tag=rvgearlab-amz-20",
     "description": "The OneTigris JOVIAN is titled as a 3-season family tent with a 210T taffeta fly at 2000mm and a 210D Oxford floor at 5000mm. It measures 6.8 by 7.8 by 4.9 feet, with an inner and outer tent, a footprint, guy-lines and a stuff sack.\n\nIt is the only pick that includes a footprint, and its floor rating is the strongest in the group. The Amazon Basics costs far less and packs a thinner kit.\n\nIt suits campers who want a full setup out of the box. It also fits two camp cots with space for packs.",
     "specs": [
       "3-season, 6.8x7.8x4.9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tePFE0DvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ56L7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ56L7X?tag=rvgearlab-amz-20",
     "description": "The Purebox is a four-person tent with an extended-length floor for three to four adults. It has two doors, a high-density PU-coated rainfly with fully taped seams and a fiberglass sleeve-pole frame.\n\nThe floor runs longer than the Amazon Basics at a similar price, and the listing leaves the season unstated. The Kelty has a stronger frame and costs more.\n\nIt suits families with taller sleepers who want a longer floor. Two doors give easy access.",
     "specs": [
       "Extended floor, 3 to 4 adults",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314y+8S2TML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6XWN2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6XWN2?tag=rvgearlab-amz-20",
     "description": "The Kelty Grand Mesa 4 is a freestanding tent with two aluminum press-fit poles and a 68D polyester floor and fly. The listing quotes 4 lbs 1 oz for the 2-person size and adds Quick Corners, color-coded clips and an EZ-Zip vestibule with taped seams.\n\nIt has aluminum poles and the only vestibule the listings mention. The Purebox has a longer floor and costs less.\n\nIt suits families who want a lighter, sturdier frame. It does not state a season.",
     "specs": [
       "Aluminum press-fit poles",

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU Portable Camping Stove with Piezo Ignition is the only stove in this group whose listing gives a figure for wide cookware: the fire board suits a 20 cm diameter basin and 1 to 3 people. It lights with a piezo igniter, screws onto standard 7/16 thread butane or butane-propane canisters and is rated at 3000 W. It ships in a small plastic box and costs $9.99.\n\nAgainst the Odoland sets below it, the AOTU states a pot diameter, so you can compare it against your own cookware before buying. The control valve goes from full heat down to a simmer, which is useful for rice and sauces, and the honeycomb windproof net protects the flame under a wide pot. It packs very small, and the price is the lowest of the three.\n\nThis is the pick for small groups who already own a 20 cm pot or basin and want a very light, very cheap stove to go under it. It suits campers who care about weight, shoppers who want a stated pot support size and anyone who prefers to choose their own cookware.",
     "specs": [
       "Supports 20 cm pots",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZUneNRI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-amz-20",
     "description": "The Odoland Camping Cookware Stove Set includes a mini stove, a 1.2 L pot and a 0.6 L pot in anodized aluminum with a non-stick finish, utensils, a 16 oz stainless cup with a silicone protector and a tank bracket. The stove and pot handles fold to save space, and two carry bags keep the set together. It costs $28.99.\n\nThe 1.2 L pot is the largest volume stated in this group, and the tank bracket helps steady the canister under it. Against the AOTU above it, the Odoland set brings its own large pot, so you do not need to match cookware to the stove. Against the heat exchanger kit below it, this set offers a bigger main pot and a lower price.\n\nThis is the pick for two to three people who want a pot large enough for pasta, soup or a one-pot dinner and a stove to go with it. It suits first-time backpackers, car campers who want a complete kit and RV owners who need a compact set for off-site cooking.",
     "specs": [
       "1.2 L and 0.6 L pots",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqM5TM8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-amz-20",
     "description": "The Odoland Camping Pots with Heat Exchanger is a 9-piece set with a 1300 W stove, 0.6 L and 0.8 L pots, a canister stabilizer, a 16 oz mug and utensils. The listing says its heat-exchange technology raises efficiency by 30 percent, and the whole kit weighs 660 g (1.5 lb) packed, folding to 4.9 by 6.6 inches. It costs $40.99.\n\nAgainst the 1.2 L set above it, this kit trades pot volume for a heat exchanger and a canister stabilizer that widens the base under the fuel. The extra stability helps on uneven ground, and the heat exchanger is designed to use fuel more efficiently and hold up in wind. Cold and high-altitude cooking are named in the listing.\n\nThis is the pick for solo hikers and pairs who want a stable, wind-resistant setup that packs small and uses fuel efficiently. It suits shoulder-season campers, anyone who cooks in a breeze and those who prefer a stable base over the largest possible pot.",
     "specs": [
       "0.8 L pot, 1300 W stove",

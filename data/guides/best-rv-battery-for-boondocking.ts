@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152WgrC3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G79296WJ?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's EnergyRock packs 280Ah of LiFePO4 into a heavy-duty metal enclosure with four mounting feet, so it can bolt straight into a bay without a separate battery box. It includes a 200A BMS with Bluetooth monitoring, low-temperature charge protection, and a physical switch to cut output during storage.\n\nIt ranks first because it gives the best balance of capacity, ruggedness, and boondocking-specific features: the metal case resists road vibration and the maker publishes exact solar settings (14.6V absorption, float disabled). Compared with the GOKWH 320Ah, it holds less energy but offers sturdier construction and a cutoff switch.\n\nBest for full-time and long-stay boondockers who run an inverter and want one battery to anchor a solar system. The caveat is size; measure your bay, since a 280Ah unit is much larger than a group 31.",
     "specs": [
       "12V 280Ah, about 3584Wh",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TU+jCREwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8FRF41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8FRF41?tag=rvgearlab-amz-20",
     "description": "LiTime's 200Ah Mini measures 13.11 x 6.93 x 10.04 inches, small enough to fit group 31 trays, and weighs 44.5 pounds. It supports 200A continuous discharge with a 1000A surge, low-temperature cutoff, and Bluetooth monitoring through the LiTime app.\n\nIt ranks second because it solves the most common boondocking upgrade problem, doubling capacity without enlarging the battery box. Against the ECO-WORTHY 280Ah, you give up 80Ah but gain a much smaller footprint; against cheaper 200Ah picks like the HQST, you pay for the compact size and app.\n\nBest for travel trailer owners with a single group 31 tongue box. The caveat is price: it costs about twice the HQST 200Ah, so it only makes sense if space is your real limit.",
     "specs": [
       "12V 200Ah, 44.5 lbs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414yp1sGveL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD1934FB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD1934FB?tag=rvgearlab-amz-20",
     "description": "GOKWH's 320Ah battery stores 4096Wh, the most of any single battery in this roundup. It includes a 200A BMS with low-temperature protection, Bluetooth that reports cycle count and temperature, and the maker estimates about 13 hours to recharge from a 600W solar array.\n\nIt ranks third because although it beats the ECO-WORTHY on capacity, the listing omits dimensions and weight, which matter when planning a bay. Its 200A BMS matches the ECO-WORTHY but limits sustained 12V output to about 2400W, despite the listing's 3000W inverter claim.\n\nBest for boondockers with large solar arrays who want to stay out a week or more. The caveat is to confirm size with the seller and size your inverter to the BMS rating, not the marketing.",
     "specs": [
       "12V 320Ah, 4096Wh",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VgGo5WwrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLP78VCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLP78VCH?tag=rvgearlab-amz-20",
     "description": "HQST's kit is two 12V 100Ah LiFePO4 batteries for 2560Wh total, each weighing just 21 pounds with 100A continuous discharge and 4000+ cycles. The BMS suspends charging below 23F or above 140F and stops discharging below 5F.\n\nIt ranks fourth because it offers 200Ah at a low price and splits the weight into two manageable units. Compared with the LiTime 200Ah Mini, it needs two trays and parallel wiring, but costs about half as much. Wired in parallel, the pair supports about 200A combined.\n\nBest for value-focused boondockers with two battery trays. The caveat is the 23F charge cutoff: most LiFePO4 guidance says to avoid charging below 32F, so treat this as a backstop and avoid charging in freezing weather.",
     "specs": [
       "Two 12V 100Ah, 2560Wh total",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OQF+XE2SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLXXRHHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLXXRHHL?tag=rvgearlab-amz-20",
     "description": "ELEFAST's 200Ah battery stores 2560Wh and its BMS tolerates a 600A one-second inrush, then recovers from overload protection automatically within 30 seconds. It includes Bluetooth monitoring, low-temperature protection, and lists UL and IEC testing with five years of after-sales support.\n\nIt ranks fifth because the listing cites both a 200A and a 100A BMS, which makes its real continuous output unclear compared with the clearly rated ECO-WORTHY and LiTime picks. The surge tolerance is the reason to choose it over the HQST for compressor fridges or microwaves.\n\nBest for boondockers whose inverter loads have hard startup surges. The caveat is to confirm the continuous BMS rating with the seller before pairing it with a large inverter.",
     "specs": [
       "12V 200Ah, 2560Wh",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q+BW6+fsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGPVF4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGPVF4Z?tag=rvgearlab-amz-20",
     "description": "DUMFUME's 200Ah battery weighs 58.86 pounds, carries an IP65 rating for dust and moisture, and has a 200A BMS. The BMS stops charging below 32F while allowing discharge down to -4F, and the maker publishes 4000+ cycles at 100% depth of discharge and 6000+ at 80%.\n\nIt ranks sixth because, compared with the ELEFAST, it lacks Bluetooth, but its weatherproof case and clear temperature specs make it a sensible pick for exposed mounting. Against the HQST kit, it puts 200Ah in one case with a stronger 200A BMS, though in a longer footprint.\n\nBest for boondockers in desert dust or rainy climates with an exposed battery box. The caveat is shape: the case is about 21 inches long, so measure your space carefully.",
     "specs": [
       "12V 200Ah, 58.86 lbs",
@@ -194,7 +194,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518FQC8g0hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHHD2QLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHHD2QLW?tag=rvgearlab-amz-20",
     "description": "CyperOcean's four-pack provides four batch-matched 12V 100Ah group 31 batteries, which wired in parallel make a 400Ah, 12V bank weighing 91.28 pounds total. Each has a 32F low-temperature charge cutoff, 6000+ cycle rating, and the pack includes extra M8 bolts for stacked cables.\n\nIt ranks last only because it is the most complex install; for capacity it beats every single battery here. Compared with the GOKWH 320Ah, it gives 80Ah more and spreads current across four BMS units, but needs four trays, busbars, and careful equal-length wiring.\n\nBest for fifth-wheels and Class A owners who want to run air conditioning or a residential fridge off grid. The caveat is installation: plan for busbars, proper fusing, and a shunt monitor to track the whole bank.",
     "specs": [
       "Four 12V 100Ah, batch matched",

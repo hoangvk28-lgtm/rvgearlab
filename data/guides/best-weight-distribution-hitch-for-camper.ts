@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wGHXdb8DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CCL1VX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CCL1VX3?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW01350 TrackPro states 13,000 lb gross towing and 1,300 lb tongue weight with a pre-installed ball. Blue Ox's BXW01350 TrackPro is a weight distribution hitch with spring bars rated 1,300 lb tongue weight and 13,000 lb gross towing, a 2-inch receiver, a 7-hole shank and a pre-installed 2-5/16 inch ball.\n\nIt states both ratings, unlike CURT 17057 and CURT 17601, and costs far less than the ProPride kits. It is priced near the premium end.\n\nBest for a large camper trailer with a tongue weight up to about 1,300 lb. It suits trailers up to 13,000 lb.",
     "specs": [
       "13,000 lb, 1,300 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-amz-20",
     "description": "CURT's 17057 is a 14,000 lb MV round bar hitch with a grease zerk and a 2 inch shank. CURT's 17057 is an MV round bar weight distribution hitch rated up to 14,000 lb with a 2-inch shank and a grease zerk fitting.\n\nIt costs well under Blue Ox BXW01350 but states no tongue weight and has no sway control. It needs greasing.\n\nBest for a camper owner who will grease it and add sway control separately. It is a heavy-rated round bar option for owners who will keep up with greasing.",
     "specs": [
       "14,000 lb MV round bar",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ViCsDyHLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-amz-20",
     "description": "CURT's 17601 TruTrack 2P has integrated sway control for the 10K class. CURT's 17601 is a TruTrack 2P weight distribution hitch with integrated sway control for the 10K class. Two points of friction keep the trailer aligned.\n\nIt adds sway control that CURT 17057 lacks and costs a little more. It states no tongue weight.\n\nBest for a camper that needs built-in sway control. Ask for the tongue weight rating before ordering.",
     "specs": [
       "10K TruTrack 2P",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X7BJX9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X7BJX9M?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P for a 2.5 inch receiver is listed for 1,000 to 1,400 lb of weight distribution. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 2.5 inch receiver and the 1000 model.\n\nIt costs several times more than CURT 17601 and the listing is brief. It is for 2.5 inch receivers.\n\nBest for a committed ProPride buyer with a 2.5 inch receiver. Confirm the exact ratings with the seller.",
     "specs": [
       "2.5 inch receiver, 3P model",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X79W6MT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X79W6MT?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P for a 3 inch receiver is the 1400 model. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 3 inch receiver and the 1400 model.\n\nIt costs slightly more than the 2.5 inch version and is for large receivers. The listing is brief.\n\nBest for a 3 inch receiver and a premium budget. Confirm the exact ratings with the seller.",
     "specs": [
       "3 inch receiver, 3P model",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21jppVXhxpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-amz-20",
     "description": "Dollate lists a weight distribution hitch with a sway control bar and gives no ratings. Dollate lists a weight distribution hitch with sway control bar that balances weight between the trailer and tow vehicle. The listing gives no GTW or tongue weight rating.\n\nIt costs far less than the others but states no tongue weight or gross rating. Ask the seller.\n\nBest for a budget buyer who verifies ratings. Ask the seller for the ratings before ordering.",
     "specs": [
       "Weight distribution kit with sway bar",

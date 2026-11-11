@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ojDGHzXCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-amz-20",
     "description": "The BLAVOR is a 10000mAh solar power bank that states its protection as IPX5, along with dustproof and shockproof claims and a waterproof silicone seal on the case. The shell is flame-retardant ABS and PC, and the pack pairs a 20W USB-C port with Qi wireless charging. It costs $29.99 and carries the clearest water claim in this comparison.\n\nAgainst the GULLVEN, the BLAVOR is the only pack that names an IP rating, which tells you what level of water exposure the maker designed the case for rather than leaving it to a general description. The 20W USB-C port also gives it a faster charging path for a modern phone, and Qi wireless means a compatible phone can top up without a cable.\n\nIt is the pick for hikers, campers and RV owners who want a compact pack that can ride in a pocket or a day bag through rain and spray, and who value a named rating and wireless charging over raw capacity.",
     "specs": [
       "10000mAh, IPX5",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OBE7wxHhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMH91MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMH91MK?tag=rvgearlab-amz-20",
     "description": "The GULLVEN is a 20000mAh lithium-polymer solar power bank with UL, CE, FCC, RoHS and UN38.3 certifications listed. It has three built-in output cables in Type-C, Lightning and Micro USB, plus a USB-A input cable, and the ABS and PC shell is described as waterproof, dustproof and shockproof. A camping light with SOS flashing mode is built in, and it costs $23.99.\n\nCompared with the BLAVOR, the GULLVEN carries twice the capacity for six dollars less, which means more full phone charges between top-ups. The three built-in cables remove the need to carry a separate cord for most devices, and the camping light gives it a second job after dark at the campsite or in the coach.\n\nIt is the pick for families, weekend campers and anyone charging several devices on a trip, who want the most stored energy and the most built-in connectors for the money.",
     "specs": [
       "20000mAh, certified UN38.3",

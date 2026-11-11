@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AkLmi7tcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F4MP79S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F4MP79S?tag=rvgearlab-amz-20",
     "description": "The Go Power GP-IC3000-12 is a 3000W pure sine inverter charger with 4800W surge, a 125 amp charger and a dual 50 amp transfer switch with remote. Its dual legs support 100 amp shore power service, and listed efficiency is over 90 percent. At $2,000.67 it is the most motorhome-ready pick here.\n\nIt costs $1,226.67 more than the SGPWATT 2000W and $705.67 above the Wagan, but only this one has the dual 50 amp transfer switch that a coach with a 50 amp panel needs. Pick this if you have a Class A or large Class C with 50 amp service. Caveat: surge is 4800W, so a very large air conditioner may need a soft starter, and the listing excerpt does not give weight.",
     "specs": [
       "3000W, 4800W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oQ0+pM3rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PBBB6B5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PBBB6B5?tag=rvgearlab-amz-20",
     "description": "The SUNGOLDPOWER 2000W is a pure sine, low-frequency inverter charger with a 70A adjustable charger, AC priority and an auto gen start feature. At $774 it brings the three-in-one design to smaller motorhomes at about a third of the Go Power's price.\n\nIt is $1,226.67 under the Go Power 3000W and costs $604.01 more than the OLTEANP 1500W, which also has a transfer switch. The extra money buys the 70A charger, adjustable current and generator start logic. Pick this if you run a Class B or small Class C with 30 amp service. Caveat: 2000W will not run a roof air conditioner and a microwave together.",
     "specs": [
       "2000W pure sine",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sXPZcTZzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJK5S2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJK5S2Y?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 1500W is a pure sine inverter with a built-in 12ms automatic transfer switch, rated 1500W continuous and 3000W peak. At $169.99 it gives a small motorhome seamless handoff between shore and battery for lights, laptops and a TV.\n\nIt costs $604.01 less than the SGPWATT 2000W, but it has no big charger listed, so you still need a converter or charger. Pick this if you want an affordable pure sine backup for electronics in a small coach. Caveat: 1500W cannot run a motorhome air conditioner, and the listing shows cable guidance but no stated efficiency or dimensions.",
     "specs": [
       "1500W, 3000W peak",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sKlgucOvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6DGJ44F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6DGJ44F?tag=rvgearlab-amz-20",
     "description": "The SUNWHEEL 2500W is a pure sine inverter that lists low idle consumption, an energy saving mode and under and over voltage protection. At $109.99 it is the cheapest in the group and a simple stand-alone inverter that suits a motorhome with a separate converter.\n\nIt is $60.00 cheaper than the OLTEANP 1500W while giving 1000W more capacity, but no transfer switch. Pick this if you want a clean backup for a microwave and electronics and already have shore-power wiring handled separately. Caveat: at 2500W it pulls about 208 amps at 12V, so check cable gauge, and the listing excerpt does not give surge watts.",
     "specs": [
       "2500W pure sine wave",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NORuhdNAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DPB7F6M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DPB7F6M?tag=rvgearlab-amz-20",
     "description": "The Wagan EL3748 is a modified sine wave inverter rated 10000W continuous and 20000W surge, with four AC outlets, a terminal block and remote control. At $1,295 it is the most capacity here, but modified sine output suits tools, heaters and resistive loads better than electronics.\n\nIt is $705.67 below the Go Power 3000W while offering more than three times the watts, though without the charger or transfer switch. Pick this only for heavy tool or shop use on a very large bank. Caveat: modified sine can cause buzz or heat on sensitive loads, and 10000W draws over 800 amps at 12V.",
     "specs": [
       "10000W, 20000W surge",

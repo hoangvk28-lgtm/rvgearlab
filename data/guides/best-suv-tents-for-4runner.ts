@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXH3HSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXH3HSZ?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL tent is titled for the Toyota 4Runner from 1984 to the present and attaches to the rear hatch so the cargo area opens directly into the tent. It uses Oxford fabric with a waterproof coating and folds compact for travel, at $329.99.\n\nThe direct hatch connection is its defining feature, since it seals around the opening of a particular vehicle shape and gives a smoother walk through from the cargo bay than a generic sleeve. Compared with the 9 by 9 foot dome at $161.99, it trades some floor area for a cleaner vehicle connection, with large openings that help airflow on warm nights.\n\nOwners who want a purpose built annex for a 4Runner and are happy to pay for a fitted connection will find it the more tailored of the two.",
     "specs": [
       "Titled for 4Runner 1984 to present",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gcTcji70L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-amz-20",
     "description": "The SUV Dome Tent is a 9 by 9 foot shelter that sleeps up to five, with nearly 7 feet of standing height, a 6 by 4 foot awning and a free rainfly, at $161.99. It attaches to an SUV with a sleeve and also works as a free standing tent.\n\nIt has more than twice the room of a typical two person annex and a stand up height that lets adults change clothes without crouching, and it costs about half as much as the fitted MWKHZIL. The awning adds a covered outdoor spot, and the free rainfly adds weather protection without an extra purchase.\n\nFamilies and groups who want space for several sleepers, plenty of headroom and a flexible tent that works with or without the vehicle will find it the better value.",
     "specs": [
       "9x9 ft, sleeps up to 5",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-YMtdqfLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLG75XBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLG75XBY?tag=rvgearlab-amz-20",
     "description": "This GEARGO model is the best value here because it delivers real auto shutoff, a feature many sub-$50 units skip. It disconnects when voltage falls below 103 volts or rises above 132 volts, reconnects once voltage recovers, checks for open ground, open neutral, reverse polarity, and hot-ground reversal before you connect, and carries a five-year warranty.\n\nCompared with the Progressive SSP-30XL ranked next, GEARGO adds automatic disconnect (the Progressive only warns), a longer warranty, and an IP68 cover at a slightly lower price. The Progressive keeps the edge on brand track record and published engineering. Against the $30 picks lower down, it costs about $17 more but adds a warranty five times as long as typical budget coverage.\n\nChoose it if you want genuine low-voltage shutoff without paying EMS prices. The caveat is that the 15,000 joule figure is not benchmarked like Progressive ratings, so do not read it as true lightning-strike protection.",
     "specs": [
       "Cuts power below 103V or above 132V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "The SSP-30XL is the cheapest way into Progressive's well-regarded lineup. It is rated 30 amps at 120 volts, absorbs up to 825 joules, and warns against over and under voltage, open ground and neutral, reverse polarity, surge failure, and AC frequency issues, all in a Lexan housing with a weather shield and thermal protection.\n\nAgainst the GEARGO above it, the SSP-30XL warns rather than disconnects for voltage problems, so you still have to act when it flags low voltage. Its strength is a surge failure indicator that tells you when the protection is spent, which budget units rarely offer. Stepping up to the Power Watchdog PWD30 adds Bluetooth monitoring and 3,000 joules for nearly three times the price.\n\nThis suits owners who trust brand engineering and are happy to read the indicators before plugging in. The caveat is that it is surge protection plus diagnostics, not a full EMS.",
     "specs": [
       "30A, 825 joules",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M8cIk2-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-amz-20",
     "description": "This $30 unit is the cheapest pick that still cuts power during a fault. It disconnects for low voltage and overheating and stays off until you manually reset it, shows live voltage, current, and power on an LED screen, and carries ETL and FCC listings plus an anti-theft ring.\n\nThe manual reset is the key difference from the GEARGO at the top: you have to come back and restart it after a fault, which some owners actually prefer because it never surprises a compressor. Compared with the Kohree at the same price, it adds auto shutoff and a live readout, where the Kohree is a surge protector with diagnostic LEDs.\n\nPick it if you need real shutoff at the lowest cost. The caveats are an unbranded listing with no stated warranty length and a 26,000 joule claim that should be taken as marketing.",
     "specs": [
       "Auto shutoff, manual reset",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipT8WqgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-amz-20",
     "description": "The Kohree is a straightforward pedestal surge protector with a circuit analyzer. Its LEDs flag correct wiring, open ground, open neutral, reverse polarity, open hot, hot-ground reversal, and hot on neutral, and it uses an IP67 cover, flame-retardant housing, and a right-angle male plug.\n\nIt does not disconnect for low voltage, which is the main gap versus the GEARGO and the $30 manual-reset unit above it. In exchange, it has an unusually detailed wiring fault readout and a well-made right-angle plug that resists bending at the pedestal. Price is the same as the 26,000J unit, so you are choosing better diagnostics over shutoff.\n\nThis suits owners who already carry a voltmeter and mostly want surge and wiring checks. The caveat is that it will not save your AC from a slow brownout.",
     "specs": [
       "7 wiring fault indicators",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ycC0+gKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-amz-20",
     "description": "The PWD30 is the step-up value pick for owners who want monitoring. It offers 3,000 joules of protection, live voltage, amperage, and wattage on your phone through Power Watchdog's app, wireless fault alerts, and customizable alert thresholds.\n\nUnlike its EPO siblings, this PWD30 does not include emergency power-off, so it warns rather than disconnects. That is why it ranks below the cheaper GEARGO: you pay more for monitoring, not more protection. Compared with the Progressive SSP-30XL, the higher joule rating comes from a brand that rates conservatively, which makes it the most trustworthy surge figure in this list.\n\nChoose it if watching amp draw stops you tripping pedestal breakers. The caveat is that for similar money a full EMS from another brand protects more.",
     "specs": [
       "3,000 joules",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ee8JfWN0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-amz-20",
     "description": "For 50 amp rigs, the TGJOR is the value pick. It combines automatic power disconnect, 110 degree C overheat protection, and a circuit analyzer that checks high and low voltage, open ground or neutral, reversed wiring, and a missing L1 or L2 leg, with an LCD showing voltage and fault codes against a 103 to 132 volt normal range.\n\nIt is the only 50 amp unit here, so it does not compete directly with the 30 amp picks above. The point is that running a 50 amp coach through a 30 amp protector with an adapter limits you to 30 amps and leaves the second leg unmonitored. The missing L1/L2 detection is the feature that matters most on 50 amp service.\n\nPick it if you own a 50 amp fifth wheel or motorhome and want shutoff under $60. The caveat is a newer brand with a limited track record and an unbenchmarked joule claim.",
     "specs": [
       "50A, auto disconnect",

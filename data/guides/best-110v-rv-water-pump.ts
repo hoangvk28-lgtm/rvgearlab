@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u+2VhIPDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWH572QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWH572QJ?tag=rvgearlab-amz-20",
     "description": "DC HOUSE 110V is a 33-series diaphragm pump with 4 GPM flow, 50 PSI pressure and a self-priming lift of 9.8 feet. The listing says an intelligent pressure switch starts it when a faucet opens and thermal overload protection guards against dry running.\n\nAgainst YoungTree 5.5GPM, it stops at a lower pressure. Against Heuyrao 45PSI, it gives a slightly higher shut-off.\n\nIt is the best match for owners who want a moderate-pressure 110 volt pump. Think of it as the pick for moderate-pressure rvs.\n\nA 50 PSI shut-off puts this pump in the middle of the range, so it suits a shore-powered rig that wants steady faucet pressure without any adjustment. The pressure switch spins the motor up when a tap opens and winds it down once the line is full, which keeps cycling quiet and the draw modest. With a 9.8 foot self-priming lift it can pull from a tank sitting below the pump, and thermal overload protection shields the motor on a hot day.",
     "specs": [
       "110V AC, 4.0 GPM, 50 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHoBBY1JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWZZ15RR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWZZ15RR?tag=rvgearlab-amz-20",
     "description": "CapperDraw 110V is a self-priming diaphragm pump with 4.0 GPM flow and a 50 PSI maximum, adjustable from 17 to 50 PSI. The listing says it handles 3 to 4 fixtures, has a 10 foot suction lift and uses corrosion-resistant materials.\n\nAgainst DC HOUSE 110V, it lets you set a lower pressure. Against ECO-WORTHY, it states an adjustable range.\n\nIt suits RVs whose plumbing needs a lower setting. Buyers focused on lower-pressure plumbing will find it a sensible match.\n\nThe adjustable window from 17 up to 50 PSI is the feature that sets this pump apart in the 110 volt group, because the same unit can be dialed to match whatever the plumbing in your rig expects. A 10 foot suction lift and support for 3 to 4 fixtures cover a typical camper with a sink, shower and toilet. Corrosion-resistant materials help the wetted parts stay serviceable season after season.",
     "specs": [
       "110V AC, 4.0 GPM",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vzl2aQZPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-amz-20",
     "description": "Heuyrao 110 Volt pump is a three-chamber diaphragm model with 4.0 GPM flow at a 45 PSI rated pressure. The listing says it self-primes, has a copper motor and is CE certified, with overload protection.\n\nAgainst DC HOUSE 110V, it stops at a slightly lower pressure. Against CapperDraw, it is not adjustable per the listing.\n\nIt suits older RV plumbing that needs the lowest shut-off here. It earns its slot for older plumbing.\n\nHeuyrao pairs a 45 PSI shut-off with a three-chamber head, a copper motor and overload protection, giving gentle pressure to fittings that were designed in an earlier era. The low price makes it an easy swap for a failed shore-power pump in an older trailer. CE certification per the listing and 4.0 GPM of flow round out a no-fuss package for a weekend rig.",
     "specs": [
       "110V AC, 4.0 GPM, 45 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4182F2vfmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY 33-series is a 110 volt pump with 4.0 GPM open flow, a 50 PSI rated pressure and self-priming to 9.8 feet. The listing says it lifts to 148 feet and supports continuous operation for more than an hour.\n\nAgainst DC HOUSE 110V, it states lift height and continuous operation. Against CapperDraw, it is fixed at 50 PSI.\n\nIt suits owners who want a lift figure and a longer run time. It is a natural fit for long-run use.\n\nA stated 148 foot lift figure and support for more than an hour of continuous running make this the endurance pick among the 33-series pumps. It suits chores such as filling a tank from a lower source or running a long rinse, where the motor has to stay on without overheating. A fixed 50 PSI setting means there is nothing to adjust after the pump is mounted, and thermal overload protection adds a safety net.",
     "specs": [
       "110V AC, 4.0 GPM, 50 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWwOoiYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKQ9QCW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKQ9QCW4?tag=rvgearlab-amz-20",
     "description": "YoungTree 110V is a four-chamber diaphragm pump with 5.5 GPM flow, a 70 PSI shut-off and a stated 164 foot maximum head. The listing says the pressure is factory set at 70 PSI and adjustable, with thermal overload protection.\n\nAgainst DC HOUSE 110V, it has more flow and higher pressure. Against CapperDraw, it states a four-chamber quiet design.\n\nIt suits owners who need strong flow and have verified their plumbing can take it. Think of it as the pick for high-flow needs.\n\nFour pumping chambers smooth out the pulses that make cheaper diaphragm pumps hum, so this YoungTree runs more quietly while delivering 5.5 GPM. Its 70 PSI factory setting is adjustable, which lets a large rig with several fixtures and a long run of pipe turn the pressure down to suit. A stated 164 foot maximum head and thermal overload protection back up the extra muscle.",
     "specs": [
       "110V AC, 5.5 GPM, 70 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b3Cf6qRcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFM2VJX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFM2VJX5?tag=rvgearlab-amz-20",
     "description": "DC HOUSE 12V On Demand pump is a 12 volt model with 5.5 GPM flow and a 70 PSI setting adjustable from 40 to 70 PSI. The listing says it self-primes to 9.8 feet and has thermal protection.\n\nAgainst the 110 volt pumps, it runs from a battery instead. Against YoungTree 5.5GPM, it has the same flow and pressure.\n\nIt is included because it appears in this search, and it suits owners who want a 12 volt pump. Buyers focused on 12 volt alternative will find it a sensible match.\n\nDry campers get a pump that runs straight from a 12 volt battery, with no inverter or shore power needed. Flow of 5.5 GPM and a 40 to 70 PSI adjustable range give it the capability of the strongest 110 volt pumps. The kit ships with garden hose adapters and a strainer, so a first-time installer has the common fittings in one box.",
     "specs": [
       "12V DC, 5.5 GPM, 70 PSI",

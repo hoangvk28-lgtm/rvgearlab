@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Le+iHpML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ1BVZGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ1BVZGX?tag=rvgearlab-amz-20",
     "description": "The Skrizcable is a 25 ft, 16/3 outdoor cord rated 13 amps, 1625 watts and 125 volts. It has a pure copper core, an IP65 vinyl jacket and an ETL and cETL listing.\n\nIt is the least expensive pick and the plainest, with a single outlet and no reel to wind. Against the cismorvex it is ten feet longer, and against the HUANCHAIN it is half the length.\n\nIt suits most campers who need to reach a power post about a pickup length away. A 25 ft cord also stows easily in a bin.",
     "specs": [
       "25 ft, 16/3 gauge, 13A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aj0eqIxtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JZ6PT35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JZ6PT35?tag=rvgearlab-amz-20",
     "description": "The DEWENWILS reel holds 25 ft of 16/3 SJTW cord with a hand crank, 4 grounded outlets and 2 USB ports at 3.4A total. It is UL listed, with a weatherproof, dustproof plastic cover.\n\nNext to the Link2Home reel, it adds a swivel crank handle and a weatherproof, dustproof cover. It costs a little more than the Link2Home.\n\nIt suits campers who want a tidy cord and a charging hub at the picnic table. The reel stores in a bin without tangling.",
     "specs": [
       "25 ft reel, 4 outlets, 2 USB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JcOfx-4VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P9FZRNL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P9FZRNL?tag=rvgearlab-amz-20",
     "description": "The Link2Home reel has 25 ft of 16 AWG cable, 4 grounded outlets, 2 USB ports and a built-in circuit breaker with overload protection. It has a four-handle design for carrying.\n\nAgainst the DEWENWILS, it leads with its breaker and a four-handle carry design, and it costs a little less. Against the HUANCHAIN, it adds outlets and a reel.\n\nIt suits campers who want overload protection on the cord itself. The handles make it easy to carry.",
     "specs": [
       "25 ft reel, 16 AWG, 4 outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fEaovNbUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TGQYRYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TGQYRYT?tag=rvgearlab-amz-20",
     "description": "The HUANCHAIN is a 50 ft, 16/3 SJTW cord rated 13 amps, 125 volts and 1625 watts, with extra-size NEMA 5-15 ends and strain relief. The jacket is described as flame resistant, waterproof and cold resistant.\n\nIt doubles the reach of the 25 ft picks and costs about twice what the Skrizcable does. It is a plain cord, with no reel or extra outlets.\n\nIt suits campers whose pitch sits far from the post. The plug end has a hook for easy unplugging.",
     "specs": [
       "50 ft, 16/3 SJTW, 13A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xfsqY5nKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G19XVKK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G19XVKK1?tag=rvgearlab-amz-20",
     "description": "The cismorvex is a 15 ft, 16/3 SJTW cord with three outlets, a 13 amp 1625 watt rating, an IP65 jacket and ETL and cETL listing. The outlets carry hooks and nail holes for mounting.\n\nIt is the shortest pick and the only one with multiple outlets built into a plain cord, which suits a table setup. It costs a little more than the Skrizcable.\n\nIt suits campers who plug in a lamp, a phone charger and a fan together. The hooks keep the end off wet ground.",
     "specs": [
       "15 ft, 3 outlets, 16/3",

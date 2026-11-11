@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Di0mDyYtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1V59RS2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1V59RS2?tag=rvgearlab-amz-20",
     "description": "The Cozyway 8 inch corner cut bunk is 51 by 74 inches with eight inches of Comfort Core foam. It is CertiPUR-US certified, so the foam meets published limits on certain chemicals and emissions, and it is built as a full replacement bed rather than a thin pad.\n\nAgainst the Cozyway 4 Inch, it doubles the foam for support, which matters when an adult sleeps there every night and needs a base that resists bottoming out. Compared with the 3.2 inch Daspom and Kistrba mattresses, it gives more than twice the foam depth, so it feels like a real mattress instead of a camping pad, and it carries the Camping World brand name behind it.\n\nIt suits bunk sleepers wanting a thick bed: full-timers using a corner bunk as a main bed, a teenager or an adult who needs real support, and owners who want to replace a worn factory foam block. If you have the headroom for eight inches and want the most comfort in this guide, it is the strongest choice.",
     "specs": [
       "8 inch foam, 51x74",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61X8Qu84f4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1V44ZVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1V44ZVD?tag=rvgearlab-amz-20",
     "description": "The Cozyway 4 inch corner cut is 73 by 50 inches with high resiliency foam. It is CertiPUR-US certified, and the four inch profile keeps the bed low enough for bunks that sit close to a ceiling or a cabinet.\n\nAgainst Cozyway 8 Inch, it is thinner and cheaper, saving about $138 for a bed that still gives a firm, springy surface. High resiliency foam bounces back quickly and sleeps cooler than dense memory foam, which suits guests and kids who move around at night. Compared with the Daspom and Kistrba, it adds slightly more foam depth and comes from the same brand family as the top pick.\n\nIt suits kids or guests who use the bunk occasionally, and any owner who needs a replacement bed without paying premium money. If your bunk has limited headroom or you only need a solid sleeping surface for a few nights a month, it offers a smart balance of price and comfort.",
     "specs": [
       "4 inch foam, 73x50",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415HCVc5Z9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H93WD8XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H93WD8XV?tag=rvgearlab-amz-20",
     "description": "The Daspom is 74 by 51 inches with a 22 inch corner cut and 3.2 inches of 30D memory foam. It has a removable washable cover, which is a practical feature in a bunk that kids, pets and travel dust reach quickly.\n\nNext to Cozyway 4 Inch, it adds a memory foam top, so it contours to the body instead of bouncing back, and it brings a washable cover. Compared with the Kistrba, it has a 22 inch cut against 21 and a removable cover that machine washes, though both share a 3.2 inch total thickness. The 74 by 51 inch size also matches a common bunk dimension.\n\nIt suits owners wanting a washable cover and memory foam feel on a bunk where the corner cut is about 22 inches. Families with kids, owners who travel with pets, and anyone who wants an easy-to-clean sleeping surface will appreciate that the cover comes off and goes in the wash.",
     "specs": [
       "3.2 inch foam, 74x51",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NN+anrwQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8SQW8R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8SQW8R9?tag=rvgearlab-amz-20",
     "description": "The Kistrba is 74 by 51 inches with a 21 inch right corner cut. It uses two layers totalling 3.2 inches with a knitted cover, so the top layer adds softness while the base layer gives support and keeps the bed from feeling flat.\n\nCompared with Daspom 74x51, it has a 21 inch cut at a lower price, about $20 less, and a breathable knitted cover in place of a removable washable one. Against the Cozyway 4 Inch, it trades a little thickness for a layered construction and a cut that is built for the right corner, which matters because mattress cuts are not reversible.\n\nIt suits right corner bunks where a 74 by 51 inch mattress with a 21 inch cut is the match. If you have measured your bunk and the cut falls on the right side, this mattress is a budget-friendly way to get a flush fit without ordering a custom size.",
     "specs": [
       "74x51, 21-inch cut",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AKkKp23SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8BRMS4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8BRMS4J?tag=rvgearlab-amz-20",
     "description": "The ZAQYCM is a medium firm foam angled bunk mattress available in 2, 3 or 4 inches. You send measurements for a custom size, and the maker cuts the foam to match your bunk, so unusual angles and non-standard dimensions are covered.\n\nCompared with the Kistrba, it is made to your bunk rather than sold in a fixed 74 by 51 size, which removes the guesswork about cut angle and side. It also has the lowest price in this guide at $135.00 and the widest choice of thickness, from a slim 2 inches up to 4 inches, with a removable washable cover included.\n\nIt suits odd shapes: bunks with a rounded corner, a long diagonal, a wheel well notch or dimensions that match no stock mattress. If your bunk does not match the standard sizes in this guide, a custom cut is the only way to get a clean, snug fit.",
     "specs": [
       "Custom size",

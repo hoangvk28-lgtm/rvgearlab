@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314Wnh95bML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L8CQPPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L8CQPPL?tag=rvgearlab-amz-20",
     "description": "The Coast XPH30R lists 1200 lumens on turbo, 500 on high, 160 on medium and 46 on low, with runtimes of 6.75 hours on high, 10 on medium and 28 on low. It has USB-C charging, twist focus, a magnetic body that lifts off the band and a weight of 4.37 ounces.\n\nIt is the only lamp here that prints a full lumen and runtime table, and it carries a lifetime warranty that covers long-term ownership. Against the Foxelli, it is lighter and better documented, while the Foxelli offers a higher water rating.\n\nIt suits campers who plan to keep one lamp for years and want a warranty behind it. The detachable body becomes a handheld light.",
     "specs": [
       "1200 lumens turbo, 6.75 h high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aQJrjLUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CHJQHCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CHJQHCW?tag=rvgearlab-amz-20",
     "description": "The Foxelli lists 1200 lumens, 5 light modes and a 2600mAh rechargeable battery with a 26 hour runtime and USB-C fast charging. The aluminum body weighs 5.9 ounces, carries an IPX7 rating and detaches to work as a handheld or stick to metal with a magnetic base.\n\nIts IPX7 rating tops every other lamp here, and four included clips mount it on a hard hat or helmet. Compared with the Coast, it is a heavier lamp with a smaller output table.\n\nIt suits wet-weather campers, anglers and trade workers who want a lamp that handles rain and brief dunks. The 4 hour recharge fits an overnight top-up.",
     "specs": [
       "1200 lumens, 5 modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ht81PRJuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL5TGPCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL5TGPCY?tag=rvgearlab-amz-20",
     "description": "The changlinyd lamp lists 1800 lumens, a zoomable focus and flood beam, a built-in 2600mAh battery and a magnetic base. It has an IPX6 alloy body, weighs 0.3 pounds, and offers over 5 hours on max and 50 or more on low power.\n\nIts zoom is the only one here that moves between flood and spot. Compared with the Foxelli, it is lighter and costs a little more, with a lower water rating.\n\nIt suits campers who work on cars or gear at night and want the magnetic base. The battery size is clearly printed.",
     "specs": [
       "1800 lumens, zoom focus",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cK3PLML9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMW5D821?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMW5D821?tag=rvgearlab-amz-20",
     "description": "The LICHTMEISTER lists 1000 lumens, a 3600mAh battery and an aluminum housing rated IP44. It claims up to 5 hours on the lowest setting and ships with a 60 day money back guarantee.\n\nIt has the largest battery stated in this group and the lowest price, with an IP44 rating that sits below the other three. Against the Coast, it gives a bigger cell and a simpler spec sheet.\n\nIt suits budget buyers who want a big cell in a metal body for running and camping. The money back window lowers the risk of trying it.",
     "specs": [
       "1000 lumens, 3600mAh",

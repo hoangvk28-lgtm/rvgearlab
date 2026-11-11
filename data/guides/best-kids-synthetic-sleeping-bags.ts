@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ukctDQI2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6Q79X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6Q79X?tag=rvgearlab-amz-20",
     "description": "Kelty's Callisto Kids is a 30F rated synthetic bag with Cloud Loft insulation and a soft 190T polyester taffeta shell. It unzips fully into a blanket and stuffs into the sack that comes with it.\n\nIt is the only bag here that pairs a named synthetic fill with a lower rating, so it handles cool fall nights better than the Coleman Kids 45F or the MalloMe 50-77F. The soft shell also feels warmer to cuddle in.\n\nChoose it for kids who camp in spring and fall or at scout trips with chilly mornings. A child can stuff it into its own sack.",
     "specs": [
       "30 degree kids bag, Cloud Loft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n8k6jIZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVSGRFW8?tag=rvgearlab-amz-20",
     "description": "The Coleman Kids bag is rated to 45F and sized for campers up to 5 ft 5 in. A Roll Control system keeps the bag straight for packing, and a Comfort Cuff and ZipPlow zipper add comfort and snag-free closing.\n\nIt covers a much taller range than the Kelty Callisto Kids 30, which is the reason to pick it for tweens. The listing does not name the fill, so the synthetic angle here comes from its style and price.\n\nGood for elementary through early teen campers who need room to grow. Roll Control helps a child pack their own bag.",
     "specs": [
       "Rated to 45F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "MalloMe prints a 50 to 77F range for this bag, which uses a waterproof outer shell and 3D synthetic fiber fill. It weighs around 3 lb, fits a 6 ft adult, and adds two-sided zippers that resist snagging plus a cinch cord at the head.\n\nIt costs less than the Kelty Callisto Kids 30 and the Coleman Kids 45F, and it can be wiped clean or machine washed. The fit works for kids and parents alike, which helps families share.\n\nA smart buy for summer camps and sleepovers where mess is the main hazard. Choose it when nights stay warm.",
     "specs": [
       "50 to 77F rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4182UhUtqyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082FD6DLV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082FD6DLV?tag=rvgearlab-amz-20",
     "description": "The oaskys bag lists a 10 to 20 degree Celsius range with a 210T tear-resistant polyester shell and 190T pongee lining. A half-circle hood has a drawstring, and a bottom zipper lets feet out for air.\n\nIt measures (190 plus 30) by 75 cm, a bigger cut than the Coleman Kids 45F, and it is priced close to the MalloMe. The listing does not name the fill type.\n\nSuited to older kids and teens who want room to move. A compression sack makes it easy to haul.",
     "specs": [
       "10 to 20 degrees Celsius",

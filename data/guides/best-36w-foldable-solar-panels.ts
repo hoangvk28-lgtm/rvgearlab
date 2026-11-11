@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YFXvmJJ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY654LFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY654LFK?tag=rvgearlab-amz-20",
     "description": "The FlexSolar lists 24 percent efficiency, 1.7 lbs and a folded size of 7.7 x 5.1 inches, smaller than most tablets. It has USB-A, USB-C and DC 5.5 x 2.1 mm outputs, a triple-layer build and an IP67 rating.\n\nIt is the only 36W listing here that states both weight and folded size. It costs less than the Gendome and is also sold in an IP57 version.\n\nIt suits hikers who want a tablet-sized panel. The DC output reaches small devices beyond USB.",
     "specs": [
       "24% cells, 1.7 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21C-TsZiHxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSMZ18PT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSMZ18PT?tag=rvgearlab-amz-20",
     "description": "The AMPSOS lists a built-in MPPT controller that tracks the maximum power point, 23 percent efficient M10 182 mm cells and 900D polyester armor. It has a dedicated high-speed USB-C output and a slim folded profile.\n\nIt is the only pick that names MPPT, and it costs less than the FlexSolar. It has USB-C only, while the FlexSolar adds USB-A and DC.\n\nIt suits backpackers with USB-C gear who want smart charging. The 900D fabric is built for rough carrying.",
     "specs": [
       "Built-in MPPT, 23% M10 cells",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419A3UoTmtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNFBLTQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNFBLTQ8?tag=rvgearlab-amz-20",
     "description": "The Ctolity lists a 14V panel with 18W fast charging over USB-A and USB-C, up to 23 percent efficiency and a folded size of 11.5 x 8.3 inches. It uses Oxford fabric and offers 12 months of service.\n\nIts tag is the smallest of the set and gives 18W fast charging, a clear number the FlexSolar leaves out. It folds larger than the FlexSolar.\n\nIt suits budget campers who want a working 36W panel. The Oxford fabric resists dust and water.",
     "specs": [
       "14V, 18W fast charging",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zOs2YJWcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJN6VWWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJN6VWWX?tag=rvgearlab-amz-20",
     "description": "The Gendome 36W lists up to 23 percent efficiency, an IP68 waterproof rating and an ETFE-insulated build that handles high temperatures. It works with most USB-C devices including phones, tablets and power banks.\n\nIt carries the highest water rating here and the highest price. Compared with the AMPSOS, it offers a stronger waterproof claim and a plain panel design.\n\nIt suits campers in wet climates. The ETFE film also resists corrosion.",
     "specs": [
       "23% cells, IP68 ETFE",

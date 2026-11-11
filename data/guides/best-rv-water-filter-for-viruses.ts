@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqGGIf09L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKCLMKRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKCLMKRZ?tag=rvgearlab-amz-20",
     "description": "The Clearsource Ultra Mini RV Water Filter System with VirusGuard names viruses, bacteria and cysts in its title. It uses a 5 micron filter, a carbon stage and VirusGuard media that traps small viruses with an electrically charged coating.\n\nIt is the most direct in claim wording and has a lightweight aluminum chassis with stainless fittings. Compared with the iSpring, it uses charged media rather than a single named percentage.\n\nBest for travelers who want a compact system built around pathogens. It also suits tight bays.",
     "specs": [
       "VirusGuard media",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51G14d4LppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-amz-20",
     "description": "The iSpring 3-Stage RV Water Filter System names removing over 99 percent of PFAS, bacteria and viruses in its title. It uses a 5 micron sediment filter and carbon stages with brass hose connectors and a tankless high-flow design.\n\nIt states a percentage, which the Clearsource Ultra Mini does not, and it costs much less. Industrial-grade housings and tool-free hose connection make it practical.\n\nA strong pick for buyers who want a stated figure at a lower price. It also suits mounted setups.",
     "specs": [
       "Over 99% claim in title",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n-jyTGEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZ8V5F4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZ8V5F4?tag=rvgearlab-amz-20",
     "description": "The RV Water Filter Store Extreme Clean 3-Stage System lists removal of bacteria, pathogens, heavy metals, scale and cysts with a Virus Hero 0.2 Micron Absolute filter and a 0.5 micron anti-scale carbon block. It is meant for lakes, streams, rivers and campground water.\n\nIt uses an absolute rating, which is stricter than a nominal one, and it sits between the iSpring and Clearsource Ultra Mini in price. The combination favors fast flow.\n\nBest for boondockers who fill from varied sources. It also suits full-timers.",
     "specs": [
       "Virus Hero 0.2 micron absolute",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lywMyFAaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY2CVFDF?tag=rvgearlab-amz-20",
     "description": "The Caredear RV Water Filter System is a 3-stage unit with PP sediment, activated carbon and ultrafiltration down to 0.01 micron. The kit includes two wrenches, two spare O-rings, plumber's tape and 1 inch to 3/4 inch adapters.\n\nIt costs about a third of the Clearsource Ultra Mini and uses thick 0.39 inch food-grade walls tested to 125 psi. The kit includes everything for installation.\n\nA good value for buyers who want ultrafiltration at a moderate price. It also suits anyone who wants spares.",
     "specs": [
       "0.01 micron ultrafiltration",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vh-EmxwCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XYRKJD?tag=rvgearlab-amz-20",
     "description": "The GoBluTech AR3 RV Water Filter System uses a 0.2 micron high-flow filter, a coconut shell carbon filter and a sediment stage in compact 5 inch cartridges. Stainless garden hose quick connects thread into city or well water.\n\nIt is the most expensive pick and the most compact, and the quick connects make it fast to set up. It reduces particulates with a 0.2 micron stage.\n\nA good fit for van and camper owners who want a small 0.2 micron system. It also suits frequent movers.",
     "specs": [
       "0.2 micron high-flow filter",

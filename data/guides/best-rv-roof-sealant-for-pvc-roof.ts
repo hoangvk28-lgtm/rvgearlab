@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KPb724qVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSB-1 is a HAPS-free 10.3 ounce black non-leveling lap sealant. The listing says it is compatible with EPDM, TPO and PVC membranes and bonds to aluminum, galvanized metal, fiberglass, vinyl and wood.\n\nAgainst Kohree 4 Pack, it is an RV-brand sealant with a named secondary seal role at roof edges and termination rails. Against BEBOBLY 4, it is non-leveling for edges.\n\nIt is the best match for PVC roof edges, with a membrane list that names PVC. Buyers focused on pvc roof edges will find it a sensible match.",
     "specs": [
       "10.3 oz black non-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yzi8nOFjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F48BJ93V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F48BJ93V?tag=rvgearlab-amz-20",
     "description": "Kohree Non Sag RV Roof Sealant 4 Pack is a white non-leveling lap sealant that dries quickly and keeps its shape. The listing says it bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst Dicor Black, it is white and gives four tubes. Against Kohree 1 Pack, it is the multi-tube order for a full roof.\n\nIt suits PVC roofs with several vertical or edge joints in white. It earns its slot for several pvc edges.",
     "specs": [
       "4 white tubes, non-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f4WZohYgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4895SXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4895SXG?tag=rvgearlab-amz-20",
     "description": "Kohree Non Sag RV Roof Sealant 1 Pack is a single white non-leveling tube. The listing names EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood and says it can patch cracks on vertical surfaces.\n\nAgainst Kohree 4 Pack, it is a one-tube trial. Against Dicor Black, it is lower in price and white.\n\nIt suits a single small repair on a PVC roof edge. It is a natural fit for small pvc repairs.",
     "specs": [
       "Single white tube",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qv3q3xRtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLVVQQ5F?tag=rvgearlab-amz-20",
     "description": "BEBOBLY 4 Pack is a white self-leveling lap sealant that levels within 30 seconds and has over 300 percent elongation. The listing says it bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst Kohree 4 Pack, it self-levels for flat laps and states elongation. Against Liquid Rubber Lap, it names PVC.\n\nIt suits horizontal PVC laps and flat vent bases. Think of it as the pick for flat pvc laps.",
     "specs": [
       "4 tubes, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DQZAi5GYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Lap Sealant is a white 2 pack self-leveling sealant for horizontal details such as vents, skylights, AC units, antenna mounts and seams. The listing says it is not for vertical surfaces and needs clean, dry surfaces and removal of existing silicone.\n\nAgainst BEBOBLY 4 Pack, it states its limits clearly and pairs with Liquid Rubber seam tape and coating. Against Dicor Black, it is for flat details only.\n\nIt suits owners building a full Liquid Rubber roof system. Buyers focused on matched roof systems will find it a sensible match.",
     "specs": [
       "2 tubes, self-leveling",

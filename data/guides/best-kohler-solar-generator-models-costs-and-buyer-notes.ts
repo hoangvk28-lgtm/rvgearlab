@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
     specs: ["Capacity: 3,072Wh","Continuous output: 3,600W","Surge output: 7,200W","Runtime claim: Up to 15 hours"],
     specList: [{"label":"Capacity","value":"3,072Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"7,200W"},{"label":"Runtime claim","value":"Up to 15 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Solar Generator 300 and 40W Solar Panel,292Wh,300W AC",
     amazonQuery: "Jackery Solar Generator 300 and 40W Solar Panel,292Wh,300W AC",
-    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery HomePower 3600 Plus Portable Power Station",
     amazonQuery: "Jackery HomePower 3600 Plus Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FSL6HRRJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FSL6HRRJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41NYZ-MXY1L._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "VTOMAN FlashSpeed 300 Portable Power Station, 300W 230Wh LiFePO4 Battery",
     amazonQuery: "VTOMAN FlashSpeed 300 Portable Power Station, 300W 230Wh LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0DCJX9D71?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DCJX9D71?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51XRGe6hDfL._SL500_.jpg",
     specs: ["Capacity: 230Wh","Continuous output: 300W","Listed weight: 7.4 lb","Runtime claim: Up to 2 hours"],
     specList: [{"label":"Capacity","value":"230Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.4 lb"},{"label":"Runtime claim","value":"Up to 2 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "ABOK Ark3600 Portable Power Station",
     amazonQuery: "ABOK Ark3600 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47FKBQ4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51jCu3HF5wL._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Runtime claim: Up to 1.29 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 1.29 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output product page",
-    "href": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NyJy0wQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5NHCNMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5NHCNMK?tag=rvgearlab-amz-20",
     "description": "Portal is a 4 foot folding table with telescoping legs that adjust from 15.35 inches for picnic mode to 29.13 inches for cooking mode. The iron mesh tabletop is described as built for camping stoves and charcoal grills.\n\nAn S-hook rack and a detachable bottom mesh tray keep tools and gear at hand, which the GREGIN tables lack. It folds flat as one piece with no assembly.\n\nChoose it if you want one table for sitting and standing use. It suits car campers with a tabletop grill.",
     "specs": [
       "4 ft table, 15.35 to 29.13 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41waSzT+ksL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR9VK8Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR9VK8Z8?tag=rvgearlab-amz-20",
     "description": "The larger GREGIN unfolds to 47.24 x 23.62 inches, with an iron mesh top and aluminum alloy frame. The legs adjust from 16.5 to 26 inches, and the table weighs 8.82 pounds.\n\nIt has the largest top here after the Portal, with plenty of room for a two-burner stove. It folds to 23.62 x 23.62 x 2.56 inches.\n\nIt is a good fit for RV travelers who want a full-size grill surface. The folded size slides into tight storage.",
     "specs": [
       "47.24 x 23.62 inch top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0pXBTdFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR9W611Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR9W611Q?tag=rvgearlab-amz-20",
     "description": "The smaller GREGIN unfolds to 35.43 x 23.62 inches and weighs 7.61 pounds. It uses the same iron mesh top, aluminum frame and 16.5 to 26 inch leg range.\n\nIt is 1.2 pounds lighter than the large GREGIN and folds to 23.62 x 17.72 x 2.56 inches. It suits a single grill.\n\nPick it if you cook for two on a tabletop grill or camp stove. It fits in a small trunk.",
     "specs": [
       "35.43 x 23.62 inch top",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ecf1xUrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS6J4H1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS6J4H1H?tag=rvgearlab-amz-20",
     "description": "WildFinder is a 3x2 foot table with two reversible extension boards that add surface for drinks and utensils. The legs adjust from 15.7 to 25.6 inches, and the listing calls it waterproof and fireproof.\n\nThe wings add area that the compact tables lack, and no tools are needed to assemble it. It sits in the middle of the price range.\n\nChoose it for a grill table that grows when you need prep space. It folds for carrying.",
     "specs": [
       "3x2 foot top, two wing boards",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411q-DACE0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW1S1F41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW1S1F41?tag=rvgearlab-amz-20",
     "description": "Anbte is a 2 foot aluminum table with three heights of 10, 18.9 and 27.5 inches and a coated iron mesh top. It folds to a briefcase size in less than a minute and has carrying handles.\n\nIt has a thickened aluminum frame and side snaps that secure the top. It is smaller than the WildFinder 3x2, and lighter to carry.\n\nChoose it if you want a small, tidy table for a single burner. It tucks into a small car.",
     "specs": [
       "Three heights, up to 27.5 inches",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N1pVSIsWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVN9HJG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVN9HJG6?tag=rvgearlab-amz-20",
     "description": "This WildFinder is a 2x1.3 foot grill table with three heights of 10.2, 19.6 and 27.5 inches and a heat-resistant metal mesh top. The listing calls it waterproof and fireproof and lists a triangular frame with non-slip feet.\n\nIt is the lowest priced table here and still offers three heights like the Anbte. It unfolds in seconds without tools.\n\nChoose it if you want an affordable stand for a small stove or grill. It is a handy spare.",
     "specs": [
       "2x1.3 foot mesh top",

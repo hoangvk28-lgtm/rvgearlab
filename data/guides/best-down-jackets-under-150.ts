@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LWcsZmXQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5FR8XVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5FR8XVW?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer CirrusLite is an ultralight, packable jacket with 650-fill down insulation, a recycled nylon shell with a StormRepel DWR finish and a higher neckline. Secure zip side pockets hold small items.\n\nIt costs about $88, around $62 less than the Columbia Delta Ridge, and it is much lighter and packs smaller than the Orolay parkas. The DWR shell beads off light moisture and the recycled fabrics reduce its footprint.\n\nIt suits backpackers who want a layer that stuffs into the pack and warms cold mornings. It also slides under a rain shell.",
     "specs": [
       "650-fill down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xwOcYkICL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07G2STT2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07G2STT2B?tag=rvgearlab-amz-20",
     "description": "The Orolay Women's Mid-Long is a hooded down parka with 90 percent duck down at 700-plus fill power, a two-way front zip, four front zipper pockets, an inner pocket and elasticized cuffs. It has a stand collar and a big hood, and resists wind, water, snow and dust.\n\nIt costs about $126, about $5 less than the Orolay Men's Knee Length, and it has the highest stated fill power in the group. It is far warmer and longer than the Eddie Bauer CirrusLite.\n\nIt suits women who need a real winter coat for cold camps, trips and commutes. The slim mid-long cut holds heat.",
     "specs": [
       "90% duck down, 700+ fill power",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XQpDFkOGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TB4JDKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TB4JDKY?tag=rvgearlab-amz-20",
     "description": "The Orolay Men's Knee Length parka has 90 percent RDS-certified duck down in a polyester shell and a roomy hood. It offers a two-way zipper, two large side pockets, an inner pocket and knit inset cuffs.\n\nIt costs about $132, $6 more than the Women's Mid-Long, and it adds knee-length coverage for cold, windy camps. It is heavier and longer than the Columbia Delta Ridge.\n\nIt suits men who want a long winter coat for cold nights at camp. The relaxed fit layers over fleece.",
     "specs": [
       "90% RDS duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VdcSrySRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR8864Y?tag=rvgearlab-amz-20",
     "description": "The Columbia Delta Ridge II has 650-fill power down, an Omni-Heat reflective lining and heat-sealed, stitch-free baffles. An Omni-Shield finish repels light rain and stains.\n\nIt costs about $150, using the whole budget, and sits $62 above the Eddie Bauer CirrusLite, and the extra money buys heat-sealed baffles and a reflective lining. It matches the CirrusLite's 650 fill.\n\nIt suits outdoor shoppers who prefer a technical down layer from a major brand. It dries quickly after drizzle.",
     "specs": [
       "650-fill power down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317+ameCb9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZFVKG4?tag=rvgearlab-amz-20",
     "description": "The TBMPOY is a packable puffer with 90 percent duck down fill, a hood, shrink cuffs and a hem. It packs into a storage bag.\n\nIt costs about $30, a fifth of the Columbia Delta Ridge II, and it gives real duck down at a low cost. It has a lower fill power than the 650-fill Eddie Bauer CirrusLite.\n\nIt suits budget-minded campers who want a spare layer for the tent. It makes a sensible first down jacket.",
     "specs": [
       "90% duck down fill",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TGGcx-8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-amz-20",
     "description": "The Wind Tour bag weighs 2.2 lb and lists a 43 to 59F range. It works in two modes: sleep mode at 84.6 x 31.5 inches with an 11.8 inch hood extension, and quilt mode at 72.8 x 63 inches.\n\nQuilt mode gives it an edge over the HTMEYBG and MalloMe, because a bag that opens into a blanket handles hot nights without trapping heat. It is also the lowest-priced bag with a range that starts as low as 43F.\n\nA strong choice for summer campers who want one light bag for hot and cool nights. It packs into a breathable storage sack.",
     "specs": [
       "2.2 lb, 43 to 59F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Okhm6cC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL3B2DX3?tag=rvgearlab-amz-20",
     "description": "HTMEYBG lists a comfort range of 50 to 68F with a recommended limit of 41 to 77F. The bag measures 86.6 x 31.5 inches, weighs about 3.3 lb and has a nylon shell over a 190T polyester pongee lining.\n\nThis is the lowest-priced bag in the set and the longest, ahead of the Wind Tour at 84.6 inches. A bottom zipper lets air in and out, and the bag opens flat as a blanket.\n\nA good fit for summer camping, sleepovers and emergency kits. It wipes clean easily.",
     "specs": [
       "Comfort 50 to 68F, limit 41F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-9xX+gapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRT6MJN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRT6MJN3?tag=rvgearlab-amz-20",
     "description": "MalloMe rates its bag for 50 to 77F, with a size that fits a 6 foot adult and a weight of about 3 lb. A waterproof outer shell wipes clean with a damp cloth, and the bag is machine washable.\n\nIts stated range reaches 77F, which suits real summer heat. Double-sided snag-free zippers and a drawstring headrest add to the design.\n\nA fit for families and casual campers who want a bag that cleans up fast after dirt and spills. It also works for kids and adults.",
     "specs": [
       "50 to 77F rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO builds an 83 x 30 inch envelope bag with a nylon outer and polyester lining, and states a 55 to 60F range. It weighs 1.7 lb, compresses to 11 inches tall and comes with a compression sack.\n\nIt is the lightest and smallest of the four, and the one with the highest low-end temperature, which suits heat. Against the Wind Tour, it saves half a pound and skips the quilt mode.\n\nA fit for hot-weather campers, travelers and scouts. A waterproof nylon outer sheds dew.",
     "specs": [
       "1.7 lb, 11 inches tall",

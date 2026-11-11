@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410KonpHTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-amz-20",
     "description": "Gravity flow drives the design of the Camco Sidewinder 15 foot support, a plastic cradle that extends and folds. It curves around obstacles such as a tree root, a water spigot or a curb, and it compresses for storage, so a single unit fits easily in a bay.\n\nIt is priced higher than the Kohree 20 foot and covers five fewer feet, so on a cost-per-foot basis it is the premium option. In return, the telescoping extension is faster to deploy than an accordion fold: you pull it out to length instead of unfolding and straightening each section, which saves minutes at every stop. A branded product is also widely stocked, making a replacement easy to find.\n\nBest for owners who want a recognized branded unit as one segment of a long run. Paired with a second support, it can reach into the 35 foot range, and it works well as the section nearest the rig where a quick, tidy setup matters most. A solid building block for a multi-support plan.",
     "specs": [
       "15 ft telescoping plastic",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLMV5exzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJT3CG6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJT3CG6S?tag=rvgearlab-amz-20",
     "description": "Kohree makes its 20 foot support from polypropylene in an accordion form, with a deep U cradle and height settings. It needs no assembly and bends to follow the ground, so you can curve the hose around a post or a pad corner while keeping the downhill slope.\n\nIt costs $10 less than the Camco and covers five more feet. The polypropylene build is named in the specs, where the Camco lists plastic, and the deep U cradle holds the hose securely so it does not roll out sideways. Two of these supports reach exactly 40 feet for $79.98, which is the neatest way to cover a 40 foot run with a single product line.\n\nBest for covering the most length per support. If your route is long and you want the fewest pieces, the lowest cost per foot and a single matching pair, this is the stronger base for a 40 foot plan. A good value segment that also stores flat in a bay.",
     "specs": [
       "20 ft accordion, polypropylene",

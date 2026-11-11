@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k-IhbqHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005SB6RUI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005SB6RUI?tag=rvgearlab-amz-20",
     "description": "Camco's Elite Round Bar is an 800 lb kit with sway control, a ball and pre-installed U-bolts and chains. Camco's Eaz-Lift Elite Round Bar is an 800 lb weight distribution hitch kit that includes sway control and a hitch ball. The ball and sway control ball are pre-installed and torqued, and the U-bolts and chain package are pre-installed on the spring bars.\n\nIt is a complete ready-to-tow kit, unlike the CURT parts, though it costs more than CURT 17052. Its sway control is a separate friction bar.\n\nBest for a light trailer with a tongue weight under about 800 lb. It is a ready-to-tow choice for lighter trailers.",
     "specs": [
       "800 lb round bar kit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00MEIFPCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00MEIFPCY?tag=rvgearlab-amz-20",
     "description": "CURT's 17052 is an MV round bar hitch rated up to 10,000 lb with a 2 inch shank and a grease zerk. CURT's 17052 is an MV round bar weight distribution hitch rated up to 10,000 lb with a 2-inch shank.\n\nIt has far more rating than Camco Elite Round Bar 800 and needs greasing. It states no tongue weight.\n\nBest for a heavier trailer where a round bar is wanted. It is the budget round bar option from CURT, and it needs periodic greasing to keep the bars moving smoothly.",
     "specs": [
       "10,000 lb MV round bar",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eX7oZzpSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01JP6OQ6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01JP6OQ6S?tag=rvgearlab-amz-20",
     "description": "CURT's 17075 is a replacement MV round bar head with grease zerk fittings. CURT's 17075 is a replacement MV round bar weight distribution head with grease zerk fittings, made for certain CURT round bar hitches. It is compatible with all CURT replacement weight distribution shanks.\n\nIt is a part, not a hitch, and costs far less than a kit. It fits certain CURT round bar hitches.\n\nBest for replacing a worn head on a CURT round bar hitch. Buy it only if your existing head is worn or damaged, and verify the model it fits.",
     "specs": [
       "Replacement MV round bar head",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t5XIXcZuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1GPV7CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1GPV7CJ?tag=rvgearlab-amz-20",
     "description": "CURT's 19302 are replacement retainers for CURT 17050, 17051, 17052 and 17057. CURT's 19302 are replacement round bar retainers for CURT hitches 17050, 17051, 17052 and 17057. They keep the spring bars attached to the weight distribution head.\n\nIt is a part, not a hitch, and costs more than Yayapig 17109 Retainers. It keeps the bars on the head.\n\nBest for replacing retainers on the listed CURT models. Buy them only as a replacement part for the listed models.",
     "specs": [
       "Replacement round bar retainers",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31767NlLW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGCSP47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGCSP47?tag=rvgearlab-amz-20",
     "description": "Yayapig's retainers replace CURT 17109 round bar retainers and come as two pieces. Yayapig's 17109 retainers are a direct replacement for CURT 17109 round bar retainers, sold as two pieces. They are described for RVs and travel trailers requiring weight distribution components.\n\nIt is a third-party part and costs less than CURT 19302 Retainers. It adds no rating.\n\nBest for a budget retainer swap. Buy them only to replace lost or worn retainers, and check the part number.",
     "specs": [
       "Replacement retainers, 2 pieces",

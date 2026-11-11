@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3175srf8cjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9SGQ1YV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9SGQ1YV?tag=rvgearlab-amz-20",
     "description": "The SAGUARO Barefoot Winter boot is a zero-drop winter hiking boot with a water-resistant PU leather upper, sealed seams and a thick warm lining. It lists a roomy wide toe box with space for thicker winter socks, a removable EVA fleece insole and a deep-tread rubber outsole.\n\nNext to the Mishansha Barefoot, it adds sealed seams and a removable fleece insole at a higher price. Compared with the Hi-Y2Kgirls Snow Boot, it states room for thick socks, which is the real test for wide feet in winter.\n\nIt suits a hiker with wide feet who wants a natural-shape winter boot for snowy sidewalks, muddy trails and wet grass. A reusable canvas bag is included.",
     "specs": [
       "Wide toe box, zero-drop sole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419+XAhrYBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9V8ZD3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9V8ZD3M?tag=rvgearlab-amz-20",
     "description": "The Mishansha Barefoot boot is a unisex winter barefoot boot with a faux fur lining, a durable water-repellent upper and a zero-drop sole. The listing describes a roomy toe area that lets toes spread and a multi-surface rubber outsole for dirt, gravel and wet pavement.\n\nIt is the lowest-priced wide-toe boot in the group and uses a fur lining for warmth, which the SAGUARO Barefoot Winter swaps for a thick fleece-type lining. It lacks the sealed seams of the SAGUARO.\n\nIt suits a budget buyer who wants a wide toe box and a flat sole for winter walks. Men and women can both wear it.",
     "specs": [
       "Wide toe box, zero-drop sole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q+SbCPBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H982X3RD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H982X3RD?tag=rvgearlab-amz-20",
     "description": "The Hi-Y2Kgirls Snow Boot is a women's winter hiking ankle boot with a thick soft faux fur lining, a waterproof microfiber upper and a heavy-duty rubber outsole with deep rugged treads. The listing states a generous toe room for natural toe stretch.\n\nIt carries a deeper tread than the Mishansha Barefoot and a more conventional hiking-boot shape than the SAGUARO. The listing calls it a lightweight unisex snow boot suited to trail walking, camping and commutes.\n\nIt suits a woman with wide feet who wants a faux fur lining and a conventional hiking-boot shape rather than a barefoot design. The microfiber upper repels light rain and slush.",
     "specs": [
       "Faux fur lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yHcW15a8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FTDS3S9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FTDS3S9?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Snow Boot is a men's waterproof hiking snow boot with 200 grams of insulation rated for -25F, a windproof synthetic toe cap and a removable washable insole. A rubber outsole is described as slip and abrasion resistant.\n\nIt has the strongest insulation claim in this group, which neither SAGUARO Barefoot Winter nor Hi-Y2Kgirls Snow Boot states. It is a conventional boot shape, not a wide-fit design.\n\nIt suits a man with average-to-slightly-wide feet who needs deep-cold protection for snow and skiing days. It is a pick for warmth first.",
     "specs": [
       "200 g insulation, -25F",

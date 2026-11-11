@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hYmzswEVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T5KRSPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T5KRSPH?tag=rvgearlab-amz-20",
     "description": "The HQMPC set is solid brass with 2 female couplers, 2 male nipples and 4 free washers in standard 3/4 inch GHT thread. The listing says it stands up to 200 PSI, offers one-handed operation and carries a 3-year warranty.\n\nAgainst LIKAGE, it adds a stated 200 PSI rating and a warranty at a higher price. Against Hourleey, it is brass instead of aluminum.\n\nBest for owners who want a durable brass quick connect for a standard garden-hose thread. A strong everyday set for a water hose chain.",
     "specs": [
       "Solid brass, 3/4 inch GHT",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VPhNQdMhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1DK7RRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1DK7RRT?tag=rvgearlab-amz-20",
     "description": "The LIKAGE set is solid brass 3/4 inch GHT quick connectors with 2 male and 2 female pieces and 2 spare rubber washers. The listing describes a rust-proof build, a pull-back release that needs no tools and a precision thread for a leak-free fit.\n\nAgainst HQMPC, it costs about half as much and has fewer extras. Against Hourleey, it is brass and lower priced per piece.\n\nBest for budget buyers who want brass without paying a premium. A simple, honest set.",
     "specs": [
       "Solid brass 3/4 inch GHT",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510ZQ2F9D6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086PZG7S6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086PZG7S6?tag=rvgearlab-amz-20",
     "description": "The Hourleey pack has 6 female and 6 male 3/4 inch aluminum quick connectors with 6 extra rubber washers. It has rubberized grips and fits standard 3/4 inch garden hose threads.\n\nAgainst the brass sets, it gives far more connectors per dollar and weighs less. Against HQMPC, it has no stated pressure rating.\n\nBest for outfitting several hoses, a filter and a regulator at once. A big, lightweight pack.",
     "specs": [
       "12 aluminum 3/4 inch GHT pieces",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jf4L4W9+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6RT4P6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6RT4P6R?tag=rvgearlab-amz-20",
     "description": "The Langina set has three brass quick connect fittings with a polished chrome finish and a self-locking structure. It includes adapters for 1/2 inch G (BSP) shower hoses and 3/4 inch GHT garden hoses and uses a valve system for one-handed operation.\n\nAgainst the GHT sets, it adds the 1/2 inch G adapter for RV exterior shower hoses. Against MytheeTale, it retrofits hoses you already own.\n\nBest for converting an exterior RV shower hose to a quick connect. A neat retrofit.",
     "specs": [
       "3 brass quick connect pieces",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EB18qHr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XRLQLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XRLQLT?tag=rvgearlab-amz-20",
     "description": "The MytheeTale is a 15 foot polyurethane coil hose with a 3/8 inch size and a 1/2 inch quick connect adapter, 3/4 inch fittings and solid brass fittings. The listing says it shrinks to 9 to 10 inches when stored and is free of lead and phthalates.\n\nAgainst the fitting sets, it is a complete hose that connects to an RV spray port. Against Langina, it includes the hose itself.\n\nBest for RV exterior showers and spray ports where storage space is tight. A compact, ready-to-use pick.",
     "specs": [
       "15 ft coil hose, 3/8 inch",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ya-R6KqZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZSF8Z57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZSF8Z57?tag=rvgearlab-amz-20",
     "description": "The BUTTIKU winterizing kit has a sprinkler blowout adapter with a shut-off valve and an air compressor quick-connect plug. It includes 3/4 inch male and female garden hose connectors, a 12.8 inch pre-assembled flexible hose and solid lead-free brass parts.\n\nAgainst the quick connect sets, it blows water out of lines and does not connect a fresh water hose. Against the others, it serves winterizing rather than day-to-day use.\n\nBest for winterizing the RV's plumbing with an air compressor. A seasonal tool and not an everyday quick connect.",
     "specs": [
       "Winterizing blowout adapter",

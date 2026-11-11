@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zFLcNY3WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXFT2YGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXFT2YGX?tag=rvgearlab-amz-20",
     "description": "The Quictent Privacy 10 x 10 Pop Up Canopy includes four sidewalls: two door panels and two window panels, all detachable and interchangeable. Roll-up mesh windows let in air, and a central lock structure lets one person set it up in about a minute.\n\nIt gives you a full set of walls at a lower price than the Eurmax, and 420D Oxford fabric with a UV coating protects the top. Compared with the Sannwsg's three walls it fully encloses the space.\n\nIt suits campers and market sellers who want an enclosed room that still breathes. The folded canopy and walls pack into one bag.",
     "specs": [
       "10 x 10 ft, four sidewalls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XJJcV1kBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF3FNCJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF3FNCJN?tag=rvgearlab-amz-20",
     "description": "The Quictent 10 x 20 ft canopy comes with 6 removable sidewalls attached by Velcro, with double-sided zippers and mesh windows on two sides. Its top is 420D Oxford with a PU coating and UV protection.\n\nIt is the only pick with six walls and a 200 sq ft footprint, which is twice the size of the 10 x 10 options. Walls are interchangeable, so you can open one side for a view.\n\nIt suits a group camp, a market stall or a party that needs a big, enclosed space. A roller bag helps move the long frame.",
     "specs": [
       "10 x 20 ft, six sidewalls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ssKm8V7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07G54PPRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07G54PPRF?tag=rvgearlab-amz-20",
     "description": "The Eurmax 10 x 10 commercial canopy has fabric listed as CPAI-84, NFPA 701 and ULC S109 fire retardant certified, with PU coating and seam sealing. The package includes 3 sidewalls and a middle door wall.\n\nIt adds a 10 ft awning extension of 30 sq ft, a patented no-tip roller bag and 4 weight bags that the Quictent does not list. A thumb lock system offers three height positions, with clearance from 10.4 ft to 11 ft.\n\nIt suits event hosts or vendors who need certified fabric and a US parts supply. The awning gives extra shade.",
     "specs": [
       "CPAI-84, NFPA 701 fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wD6USbCNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVX82PRW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVX82PRW?tag=rvgearlab-amz-20",
     "description": "The Sannwsg 10 x 10 canopy includes 3 detachable sidewalls and a one-touch lock for tool-free setup with 1 or 2 people. It stands 9.2 ft tall with three adjustable heights.\n\nIt lists two-way vents that improve airflow and reduce wind resistance, plus a storage bag with a top handle and two side handles. The sidewalls block 95% of prying views, which gives privacy.\n\nIt suits campers who want a walled canopy for a camp kitchen or a yard. The open side makes walking in and out simple.",
     "specs": [
       "10 x 10 x 9.2 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmXRQY+kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-amz-20",
     "description": "The Vinabilia 10 x 10 canopy has four removable sidewalls and can be ready in under 5 minutes with two people. The frame uses 25 x 25mm main tubes and 22 x 11mm crossbars.\n\nIt packs under 31 lb into its carry bag and fits a table and chairs for 6 to 8 people. It has the lowest price here, and still comes with four walls like the Quictent Privacy.\n\nIt suits budget campers who want walls without paying for commercial specs. Two people can raise it in a few minutes.",
     "specs": [
       "10 x 10 ft, four sidewalls",

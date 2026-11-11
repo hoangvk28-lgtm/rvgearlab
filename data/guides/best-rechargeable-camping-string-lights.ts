@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LTPWERTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VM8CDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VM8CDJ?tag=rvgearlab-amz-20",
     "description": "The TuoPuLife runs 39.4 ft of lights from a 3600mAh battery that fills in 8 hours of sun or 4 hours by USB-C. A USB port can charge a phone, and a remote with 4, 6 and 8 hour timers is included.\n\nIt carries the biggest battery and the longest string of the six, so it covers an awning where the 18 ft Luci covers a tent. Against the Staaricc pair, it trades a second reel for a remote and a faster USB-C fill.\n\nIt suits campers who want one long string with a solar backup and a phone top-up. The timers switch it off on schedule, which saves charge.",
     "specs": [
       "3600mAh, 39.4 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UEUWweOeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KYPDPKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KYPDPKC?tag=rvgearlab-amz-20",
     "description": "The Luci strings 20 warm white LEDs along 18 ft of cord, rated at 100 lumens. A 2000mAh lithium-ion battery lists up to 20 hours of light, and the built-in panel charges by sun or USB-A.\n\nIt is the only pick with a stated lumen figure and a plain warm-white glow. The TuoPuLife is longer and larger, while the Luci keeps a built-in panel and a phone charging function in a smaller set.\n\nIt suits tent campers and backpackers who want soft light and an emergency phone top-up. The 18 ft length wraps a dome tent comfortably.",
     "specs": [
       "100 lumens, 18 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51R60rUVVRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2GR6VNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2GR6VNX?tag=rvgearlab-amz-20",
     "description": "The Staaricc set gives two 32.8 ft retractable strings, each with five modes covering warm, RGB and flashing light. Solar and USB charging are both listed, and each reel measures 4.61 by 1.65 inches at 1.68 lbs.\n\nTwo reels mean one for the tent and one for the awning, which the single TuoPuLife cannot do. The listing gives its weight as 1.68 lbs, a fair price for the solar panel.\n\nIt suits couples or families with two sleeping spaces. The retractable design keeps the cord from tangling.",
     "specs": [
       "Two 32.8 ft reels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P+xAd1xsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWZY49LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWZY49LW?tag=rvgearlab-amz-20",
     "description": "The ZQHGMM reel stretches 32.8 ft and offers 8 modes (warm string, RGB flash, RGB breathing and more) in a 7.4 ounce body. The listing leads with upgraded buttons and the 4-in-1 camping light, string, work light and flashlight design.\n\nIt matches the KUQIHUG on length and mode count and focuses on a button that survives rough handling. Next to the TuoPuLife, it is far lighter and has no solar option.\n\nIt suits campers who toss gear in a bin and want a switch that holds up. The compact body packs away easily.",
     "specs": [
       "32.8 ft, 8 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l-m1LbKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-amz-20",
     "description": "The KUQIHUG gives 32.8 ft of RGB string lights, a 2000mAh battery and a full charge in about 5 hours. Runtime runs from 5 to 12 hours and reaches 30 hours with only the string lit, shown on a battery indicator.\n\nIt is one of the cheapest reels and one of few to state both capacity and charge time. Compared with the ZQHGMM, it gives you numbers to plan around.\n\nIt suits budget campers who want a lantern and string together. A storage reel keeps the cord tidy.",
     "specs": [
       "2000mAh, 5 hour charge",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BGRh1pvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GST54FYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GST54FYN?tag=rvgearlab-amz-20",
     "description": "The Skoiuc is a 20 ft solar string with shatterproof bulbs and USB charging. It lists 20+ hours of runtime, IP65 protection and a dusk-to-dawn sensor on a heavy-duty cable.\n\nIt is the only IP65 string in this group, so it can stay out in rain. It is a patio-style light rather than a lantern, which separates it from the reel-style picks.\n\nIt suits RV pads and campsites with an awning or tree to hang from. The sensor turns it on and off with no handling.",
     "specs": [
       "20 ft, IP65",

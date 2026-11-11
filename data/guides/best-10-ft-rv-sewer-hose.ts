@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-yTT5IFKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWK8FQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWK8FQC?tag=rvgearlab-amz-20",
     "description": "The RhinoEXTREME 10 ft is a pre-assembled 10 foot hose with Rhino swivel fittings and reusable locking rings. Its 24 mil thermoplastic elastomer wall sits over a reinforced polymer core and is made in the USA.\n\nAgainst the DUMPMAN 10 Ft, it spends more to buy a patented exoskeleton design and a branded fitting set. It compresses to about 57 inches, so it fits 4 inch square bumper tubes.\n\nBest for owners who want one hose that lasts for years and who store it in a standard bumper. A top choice for full-time travelers.",
     "specs": [
       "10 ft, 24 mil TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VhDN69JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 2x10 kit bundles two 10 foot hoses with rotating fittings, a removable clear elbow with a 4-in-1 adapter and four end caps. The TPE hose has a 24 mil wall, and each section collapses to 45 inches.\n\nCompared with the Camco RhinoEXTREME 10 Ft, it gives you two hoses and an elbow at a lower cost. The shorter 45 inch collapsed length is easier to tuck into smaller carriers.\n\nBest for owners who want a short run now and the option to join two sections for 20 feet later. A solid starter kit.",
     "specs": [
       "Two 10 ft hoses, 24 mil TPE",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 ft kit is a TPE hose with a 24 mil wall that is described as crush-proof and returns to shape after being stepped on. It has leak-proof 4-prong bayonet swivel fittings and a clear 90 degree adapter.\n\nIt is a step up in reach from the 10 foot picks and keeps the elbow included, unlike the OUTPRIZE extension. The clear adapter lets you see when the tank is empty.\n\nBest for rigs where the dump port is a little farther than ten feet away. A practical middle path between 10 and 20 foot kits.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cit-3zNfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F8VW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F8VW9?tag=rvgearlab-amz-20",
     "description": "In the DUMPMAN 10 ft kit you get a single 10 foot TPE hose along with two end caps and a detachable clear elbow carrying a 4-in-1 adapter. A 24 mil wall and 4-prong bayonets with rubber seals handle the leak-proof job.\n\nIt is the true 10 foot version of the DUMPMAN bundle above and costs less than the RhinoEXTREME. It keeps the elbow and two caps, which the OUTPRIZE extension leaves out.\n\nBest for a first sewer hose on a short run. A complete kit that needs nothing else at a sensible price.",
     "specs": [
       "10 ft TPE, 24 mil wall",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CjSqXiuAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074JFRW3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074JFRW3L?tag=rvgearlab-amz-20",
     "description": "The Camco Revolution 10 ft has pre-attached 360 degree rotating fittings and a heavy-duty vinyl hose rated at 15 mils of HTS. It is made in the USA with a patented fitting design.\n\nIts wall is thinner than the 24 mil TPE picks, which keeps the price low and the hose light. The full rotation fittings are the feature that distinguishes it from the DUMPMAN kits.\n\nBest for light-duty owners who want a Camco hose and easy alignment at the dump port. A good everyday hose for weekend trips.",
     "specs": [
       "10 ft, 15 mil HTS vinyl",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O2+-zg5zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D95GPCTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D95GPCTW?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE 10 ft extension uses 24 mil TPE with an inner steel wire, pre-attached swivel fittings on both ends and two storage caps. A 10 foot section compresses to 4.1 feet, and it pairs with OUTPRIZE and Camco 3 inch hoses.\n\nIt is the lowest priced pick and skips the elbow, so it works best joined to an existing kit. That trade is what separates it from the complete DUMPMAN 10 Ft Kit.\n\nBest for owners who already have a hose and a clear elbow and just need a bit more length. An efficient add-on.",
     "specs": [
       "10 ft, 24 mil TPE",

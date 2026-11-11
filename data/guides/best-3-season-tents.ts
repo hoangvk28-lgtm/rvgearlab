@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ztbU+XByL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T1MQZRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T1MQZRH?tag=rvgearlab-amz-20",
     "description": "The OneTigris COSMITTO is a freestanding 2 person backpacking tent built from 20D plaid ripstop polyester with a 75D nylon floor and a 1500mm waterproof coating. It has aluminum alloy frame poles, two zippered entrances and two large gear organizer pockets.\n\nIt is the only tent here sold plainly as 3 season, with a heavier floor fabric than the Forceatt tents. Compared with the Amazon Basics it trades floor space for a lighter, more packable frame.\n\nIt suits backpackers who hike in for spring and fall trips. Setup uses a simple pole and fly arrangement that packs to a small stuff sack.",
     "specs": [
       "2 person freestanding",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-amz-20",
     "description": "The Forceatt 2 person tent weighs 5.5 lb and has an 88.6 by 53.1 inch floor with a 43.3 inch interior height. A 3000mm waterproof index, a welded floor, 7001 series aluminum poles, two D-shaped doors and two vestibules are listed.\n\nIt has twice the stated waterproof rating of the COSMITTO and two vestibules for gear. Compared with the Forceatt 3-person it is smaller and lighter, with a lower price.\n\nIt suits couples who want a rain-ready tent that stores boots and packs in vestibules. Setup takes about 3 minutes, per the listing.",
     "specs": [
       "5.5 lb, 88.6 x 53.1 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083R68NSV?tag=rvgearlab-amz-20",
     "description": "Inside, the Forceatt 3 person tent runs 225 by 185 by 120 cm, which converts to about 88 by 73 by 47 inches. The shell is 70D polyester with a 200T coating, and airflow comes from one big mesh window plus a pair of roof openings above a welded floor.\n\nIt adds the most headroom here at about 47 inches and is the largest backpacking-style tent in the list. Compared with the 2-person Forceatt it sleeps one more person and costs more.\n\nIt suits three friends or a couple with gear who hike to the site. The listing claims a 3 minute setup with smooth No. 8 zippers.",
     "specs": [
       "225 x 185 x 120 cm interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mxD85jaYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-amz-20",
     "description": "This Amazon Basics dome is sold as a 3-season, 4-person tent on a 9 by 7 ft floor, standing 48 inches at the peak. Shock-corded poles slide through snag-free sleeves in under 6 minutes, while the rainfly lifts off and the seams are welded rather than stitched.\n\nIt has by far the most floor space, which suits car camping rather than backpacking. Compared with the COSMITTO it trades packability for a much larger living space.\n\nIt suits a family or friends camping by the car for summer weekends. An interior mesh pocket and carry bag are included.",
     "specs": [
       "9 x 7 ft floor, 48 in height",

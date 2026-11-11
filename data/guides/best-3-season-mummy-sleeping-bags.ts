@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I3IGePYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F383WNM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F383WNM8?tag=rvgearlab-amz-20",
     "description": "BUERTS fills this mummy with 28.2 oz of RDS-certified 620 fill power down in a 400T 20D nylon shell. The listing gives a 3 lb weight, a 13.8 x 7 inch packed size and an 85.8 x 32.3 inch cut, with a comfort temperature of 41F.\n\nIt is the only down bag in the group, which makes it the most compressible, and the saddle-shaped neckline helps seal heat. The OneTigris and Bessport use synthetic fill that packs larger.\n\nA strong choice for backpackers who want a packable 3-season bag. An inner pocket holds a phone.",
     "specs": [
       "620FP RDS down, 28.2 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "OneTigris designs this 3-season mummy for 46.4 to 59F, with a 300T pongee shell, a 190T lining and 7 oz of polycotton filling. The listing adds YKK zippers with anti-snag design and a hood with a cord stop, and it measures 6.8 x 2.7 feet.\n\nIt offers a roomier cut than the Bessport, and the shell is water repellent and quick drying. The stated range is warmer than the BUERTS, so it fits summer and early fall best.\n\nChoose it for bushcrafters and summer campers who want length and a tough shell. It also works for kids.",
     "specs": [
       "3-season, 46.4 to 59F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "Bessport sells a 3-4 season mummy that fits sleepers from 6 ft 1 in to 6 ft 6 in, with girth figures of 63, 50.3 and 33 inches. A 210T ripstop polyester shell, double SBS zippers and an insulated footbox are listed.\n\nIt covers a wider range than the OneTigris, with 15 to 45F in the title and a comfort claim of about 50 to 68F in the description. The quilted build and large footbox help warmth.\n\nA good pick for tall budget campers. It also costs the least of the four.",
     "specs": [
       "3-4 season mummy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "TETON labels the Trailhead 20 degrees and builds it as a microfiber-insulated mummy, with a hood that tightens around the face and zipper draft tubes. Vaulted footboxes add warmth and toe room, and the box includes a compression sack and hang loops.\n\nThe listing does not use the words 3-season, so it enters as the nearest fit: a mummy whose 20F label gives spring and fall nights some margin. Against the OneTigris, it offers a colder rating, and against the BUERTS it trades down for a lower price.\n\nChoose it for campers who want a name-brand mummy that can stretch into early winter. Hang it by the loops when it is not in use.",
     "specs": [
       "20F mummy, microfiber fill",

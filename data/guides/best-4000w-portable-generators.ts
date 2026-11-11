@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JdXA0Q6NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY9Q7ML9?tag=rvgearlab-amz-20",
     "description": "The Evernexta 208cc delivers 4000 starting watts and 3400 running watts under 3 percent THD, with a 30A outlet, two 120V outlets and a 12V DC port. The 2 gallon tank gives up to 6.5 hours at 50 percent load, ECO mode lowers engine speed at light loads and protection includes overload, an AC breaker and low-oil shutdown.\n\nIt states 200 more running watts than the Pulsar and the other Evernexta, which gives the largest cushion for an RV air conditioner. The open-frame build weighs 55 pounds.\n\nIt suits trailer owners who want to run an AC and a few appliances. EPA compliance and a 2-year warranty are listed.",
     "specs": [
       "4000 start, 3400 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gIYK0mCRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD6KJZRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD6KJZRR?tag=rvgearlab-amz-20",
     "description": "This Evernexta lists 4000 peak and 3200 running watts at 59 dB from 23 feet, with THD below 3 percent. It weighs 48 pounds and has two 120V 20A outlets, a 120V 30A L5-30R outlet and a 12V DC 8.3A output.\n\nIt is lighter than the Evernexta 208cc by 7 pounds and states a 59 dB noise figure, which the 208cc does not. ECO mode adjusts engine speed with load.\n\nIt suits campers who move the generator often and want a stated noise rating. The 30A outlet fits RV hookups.",
     "specs": [
       "4000 peak, 3200 running watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41217Z50LIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-amz-20",
     "description": "The Pulsar lists 4000 peak and 3200 rated watts, a 1 gallon tank for 4 hours at half load and 59 dB operation. The listing states it suits air conditioning units up to 13,500 BTU and RV use, and names clean power for sensitive electronics.\n\nIts listing names a 13,500 BTU limit, which helps match the generator to a rooftop AC. The 1 gallon tank is half the size of the 2 gallons on the Evernexta 208cc.\n\nIt suits RV owners with a single rooftop AC who want a stated BTU match. The brand offers an ultra-light design.",
     "specs": [
       "4000 peak, 3200 rated watts",

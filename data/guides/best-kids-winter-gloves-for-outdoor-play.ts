@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vq4YJ00XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HHGDJK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HHGDJK9?tag=rvgearlab-amz-20",
     "description": "The Tough Outdoors Kids glove uses SummitLoft insulation described as built to hold heat even in wet snow. It has waterproof nylon and reinforced synthetic leather palms, elastic cuffs and adjustable wrist straps.\n\nCompared with the SIMARI Touchscreen, it is a fully waterproof insulated glove rather than a thin fleece. Against the Eohak Ski Mittens, it adds wrist straps and reinforced palms.\n\nIt suits kids who play hard in real snow and wet conditions. The listing covers skiing, sledding and snowball fights.",
     "specs": [
       "SummitLoft insulation, waterproof nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OinUi7QfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQC3BYBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQC3BYBT?tag=rvgearlab-amz-20",
     "description": "The SIMARI Touchscreen is a glove made from stretchy spandex and thermal polar fleece with conductive PU leather fingertips on the index finger and thumb. It has a water-resistant coating, anti-slip silicone on the palm and fingertips and reflective details.\n\nCompared with the Tough Outdoors Kids, it is thinner and more flexible with a water-resistant, not waterproof, finish. Against the GOHI 6 Pack, it adds a water-resistant coating and anti-slip grips.\n\nIt suits kids who play, bike and use a phone in cool weather. The listing covers ages 3 to 15 for cool fall and early winter days.",
     "specs": [
       "Spandex and thermal polar fleece",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zG3M7S7ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH9VYXYB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH9VYXYB?tag=rvgearlab-amz-20",
     "description": "The GOHI 6 Pack is a set of six pairs of stretchy knit gloves made with wool and a fleece lining, with a tight cuff that holds in warm air. The listing says the two sizes fit ages 1 to 12.\n\nIt is the cheapest per pair and the easiest to replace after lost gloves. Compared with the Tough Outdoors Kids, it has no waterproofing and is far less bulky.\n\nIt suits younger kids who lose gloves often and need spares for school and the park. The stretch design makes them easy to pull on.",
     "specs": [
       "Wool knit with fleece lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s9tgOLoCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8VR1Y4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8VR1Y4?tag=rvgearlab-amz-20",
     "description": "The Eohak Ski Mittens are waterproof kids snow gloves made from polyester and cotton inside, with cotton insulation and thick smooth fleece. They have an adjustable cuff, an elastic wrist and an easy-on fit sized M for ages 5 to 10.\n\nCompared with the Tough Outdoors Kids, they cost less and have a simpler build. Against the UTOWO Snow Gloves, they use a polyester and cotton lining and a thicker insulation.\n\nIt suits kids who need a low-priced waterproof option for snow days. The listing also mentions cycling, driving and shoveling.",
     "specs": [
       "Waterproof, cotton insulation",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bCspj4jHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4XP87HL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4XP87HL?tag=rvgearlab-amz-20",
     "description": "The UTOWO Snow Gloves are waterproof kids ski gloves with an ultra-soft thick fleece lining, a slip-resistant textured PU palm and an elastic wrist. The listing suggests a free size for ages 5 to 10 and gives length and palm width in centimeters.\n\nIt is the lowest-priced pair here and the lightest on features. Compared with the Eohak Ski Mittens, it adds a textured PU palm and anti-lost design.\n\nIt suits kids who need affordable spare gloves for ski trips and play. The listing mentions skating, hiking and fishing too.",
     "specs": [
       "Waterproof, thick fleece lining",

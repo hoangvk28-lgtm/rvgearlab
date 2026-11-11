@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wuhSENP4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQY6RLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQY6RLK?tag=rvgearlab-amz-20",
     "description": "The Lrichy 90885 is sold as a replacement for the Tekonsha 90885 Prodigy P2, so it is a third-party design, not a Tekonsha product. The listing describes proportional braking, support for 2, 4, 6 or 8 brakes across 1-4 axles, a bright LED display with voltage readout, and a manual override with multi-level boost.\n\nCompared with the HRepair below it, it reaches a fourth axle and the mounting can rotate 360 degrees vertically with no leveling after mounting. The price is higher than the budget controllers lower down.\n\nBest for a tandem or triple-axle electric-brake trailer where a diagnostics screen showing voltage to the trailer is worth paying for. The listing text also calls it electric over hydraulic, which is a claim to confirm before relying on it for hydraulic actuators.",
     "specs": [
       "Replaces Tekonsha 90885",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CEtxCexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-amz-20",
     "description": "The HRepair is a replacement-style copy of the Tekonsha 90160 for 1-3 axle trailers. The listing describes proportional braking, a digital display with continuous diagnostics, three boost settings, and self-leveling technology.\n\nNext to the Lrichy 90885 above, it drops the fourth axle and the voltage readout but costs noticeably less. Against the briidea below, it adds a snap-in clip or bracket with a 180 degree mounting range.\n\nBest for a one to three axle trailer where you want a familiar proportional layout with plug-and-play wiring. It is another third-party design, so support comes from the seller.",
     "specs": [
       "Replacement for Tekonsha 90160",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41un0z5zUYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WGSRJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WGSRJB?tag=rvgearlab-amz-20",
     "description": "The briidea proportional controller is built around motion sensors and is rated for 1 to 4 braked axles (2-8 brakes). The listing highlights overcurrent protection, short-circuit protection and fault detection.\n\nWhere the HRepair relies on self-leveling, the briidea states it can be mounted at any position or angle, though the listing recommends placing it under the dash. It costs less than both controllers above it but gives you less detail on diagnostics display.\n\nBest for a first-time electric-brake owner who values built-in protection against a wiring fault. Verify the vehicle fit yourself, because the listing speaks in general terms.",
     "specs": [
       "Proportional, motion sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412wQshla2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3WBYYS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3WBYYS?tag=rvgearlab-amz-20",
     "description": "The Bydorunce 8507111 style unit is a time-delay controller, so it ramps braking up gradually after you press the pedal. The listing names an LED display, adjustable output, a manual override lever and 1-4 axle support (2-8 brakes).\n\nIt is the cheapest controller in this list and sits below the briidea because time-delay braking does not follow how hard you stop. The listing says the wiring harness is not included and may need to be bought, so budget for that.\n\nBest for light, occasional towing where simple and cheap matter most. It is a poor fit for a heavy trailer on mountain grades.",
     "specs": [
       "Time-delay braking",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WRm76vr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004QEJ7I2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004QEJ7I2?tag=rvgearlab-amz-20",
     "description": "The CURT 51436 is a vehicle-specific plug-in harness, not a controller. The listing says it is built with 12-gauge wire to keep power steady between controller, vehicle and electric brakes, and it fits select Ford F-150 through F-550, Expedition, Lincoln models and others by year.\n\nCompared with the Oyviny Ford harness below it, it adds a slit-loom sleeve for wire protection and states compatibility with CURT proportional, inertia and time-delay controllers using a quick plug.\n\nBest for a Ford owner whose truck year is on the listing and who is using a CURT quick-plug controller. It does nothing without a controller.",
     "specs": [
       "12-gauge wiring",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416HxsfpQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HTSV4LF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HTSV4LF?tag=rvgearlab-amz-20",
     "description": "The Oyviny 3035-P is a 2-plug brake controller wiring adapter for 1994-2008 Ford F-150 to F-450 and E-series among other years named in the listing. It is an accessory, not a controller.\n\nIt is 31 inches long, uses a standard 4-pin connector and uses ABS plastic and tin-plated copper terminals, and it costs a bit more than the CURT Ford harness in some listings. The CURT lists heavier gauge detail where this one does not.\n\nBest for older Ford owners who match the exact year range. Check the plug style before buying, because the older connector is not the same as newer trucks.",
     "specs": [
       "Ford 1994-2008 adapter",

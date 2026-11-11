@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xe9ZgYu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9KB4X6?tag=rvgearlab-amz-20",
     "description": "The GUTA GT20 10-Set comes with 10 sensors that read 0 to 188 psi and tire temperature from minus 40 F to 221 F. The listing says it has 6 alert modes, shows up to 24 tires and lets you switch between PSI and BAR.\n\nIt ranks first because ten sensors cover a pickup and a tandem trailer with two spares, and it has the widest stated pressure range here. It costs about twice as much as the Avutrel 10-Set below.\n\nBest for a travel trailer towed by a pickup where one screen watches every tire. The listing does not state a sensor type or a booster.",
     "specs": [
       "10 sensors, 0-188 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511b1umnLrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1CW7V3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1CW7V3S?tag=rvgearlab-amz-20",
     "description": "The Avutrel 10-Set has a 7 inch display, 10 copper sensors, a 10-wheel repeater system and adjustable 4 to 10 wheel modes. The listing says it has six alarm modes, solar and USB-C charging and shows cabin temperature and time.\n\nCompared with the GUTA GT20 10-Set it costs about half and includes a repeater, but states no pressure range. The 4 to 10 wheel modes let it work for a trailer alone or a full rig.\n\nBest for a travel trailer owner who wants a big screen and a repeater at a mid price. Ask the seller for the psi range before buying.",
     "specs": [
       "10 copper sensors, 7 inch screen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ynT45McL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-amz-20",
     "description": "The Tymate TM3 comes with 6 sensors and a booster, a solar lithium battery panel and a color LCD with automatic backlight. The listing says it has five alarm modes and a power-saving mode after 10 minutes without motion.\n\nIt costs a little less than the Tymate TM2 Booster Kit below and covers a triple-axle trailer or a tandem with a tow vehicle's front tires. The listing does not state a pressure range.\n\nBest for a tandem or triple-axle trailer that needs a booster at a moderate price. Confirm the psi range for your tires.",
     "specs": [
       "6 sensors and booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416sgilyeeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 Booster Kit comes with 6 sensors and a booster, with solar and USB charging, five alarm modes and an adaptive color LCD. The listing says the sensors have low power consumption and long battery life.\n\nIt costs slightly more than the Tymate TM3 Booster Kit and lists nearly the same features. The listing does not state the sensor type or a pressure range.\n\nBest for a travel trailer owner who can find it at a better price than the TM3. Otherwise the TM3 is the simpler choice.",
     "specs": [
       "6 sensors and booster",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xsJaxL6aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHFK2BLL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHFK2BLL?tag=rvgearlab-amz-20",
     "description": "The Hyphoon system comes with 4 external sensors and sends alerts to an iPhone app and Apple CarPlay. The listing says it keeps about 14 days of pressure and temperature history, exports data as CSV or JSON, and lets you create multiple vehicle profiles.\n\nUnlike the other kits it has no dedicated display, so it relies on your phone. It costs less than any six-sensor kit here, and covers only four tires.\n\nBest for an iPhone user with a tandem trailer who wants history and trend data. The listing mentions iOS, so confirm Android support before buying.",
     "specs": [
       "4 external sensors, Bluetooth",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41olgPVCpXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRJ17T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRJ17T2?tag=rvgearlab-amz-20",
     "description": "The Masoll 2-Set comes with 2 sensors and a booster that the listing says raises the transmission distance up to 120 ft. The listing says the kit is also sold in 2, 4, 6 or 8 sensor sets, with a color LCD and 4 brightness levels.\n\nIt is the cheapest dedicated-display kit here and covers only two tires, which suits a single-axle trailer. It lists six alert types including lost sensor and low sensor voltage.\n\nBest for a single-axle teardrop or small trailer. A tandem trailer needs a larger Masoll set or another kit.",
     "specs": [
       "2 sensors with booster",

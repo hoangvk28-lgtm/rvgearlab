@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316vjyh7SnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-amz-20",
     "description": "Coleman's Classic is a 1-burner butane stove with a single adjustable burner for precise temperature control. It has a large base for stable stirring, a removable porcelain-coated grate and a rust-proof aluminum burner.\n\nThe large base is what makes it good for a heavy kettle, ahead of the compact BIG HORN and WADEO. It includes a carry case.\n\nChoose it if coffee is the main use and you want a trustworthy name brand. It is simple to clean.",
     "specs": [
       "1 adjustable butane burner",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "Odoland offers up to 3500W of output with a windshield design, piezo ignition and a flame controller. The listing says it takes about 3 minutes to boil 1L of water.\n\nThat boil time is the quickest stated here, and the windshield helps on breezy mornings. A fuel canister adapter and carry case are included.\n\nChoose it for fast kettle boils and windy campsites. It folds for packing.",
     "specs": [
       "Up to 3500W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "BIG HORN folds into a compact bucket and gives 2200W (7500 BTU) from a cast iron, copper and aluminum burner. One-touch ignition and flame control cover simmer to high.\n\nIt is cheaper than the Coleman and still lets you simmer. It folds into a compact bag.\n\nChoose it for a low-cost coffee burner. It also handles a small pot of water.",
     "specs": [
       "2200W (7500 BTU) butane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RiyzY5QFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09W4PS6HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09W4PS6HR?tag=rvgearlab-amz-20",
     "description": "WADEO is a collapsible stove weighing 10.62 oz, with a 6.7 inch cooking area and a flame control valve. It works with isobutane canisters and, with an adapter, a 1 lb propane tank.\n\nThe wider 6.7 inch area is more stable than most backpacking stoves, and it is lighter than the Coleman. It costs about the same as the BIG HORN.\n\nChoose it for backpacking coffee with a small pot. It stores in the provided bag.",
     "specs": [
       "10.62 oz collapsible stove",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHwdya7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGDTYTV8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGDTYTV8?tag=rvgearlab-amz-20",
     "description": "MEREZA is a 12-cup percolator in 304 stainless steel with no aluminum. It is suitable for a camp fire, gas stovetop, electric stovetop and grill, and measures 5.7 x 8.66 inches at 2.16 lbs.\n\nIt brews on any heat source, which a burner alone cannot do. It holds more than the GSI 3-cup.\n\nChoose it to brew coffee for a group on any of the stoves in this guide. It pairs with the Coleman.",
     "specs": [
       "12-cup 304 stainless steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-7IsojtKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001LF3I1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001LF3I1Q?tag=rvgearlab-amz-20",
     "description": "GSI's Glacier Stainless percolator weighs 0.80 pound and has a heat-resistant silicone handle. A clear PercView knob lets you gauge brew strength.\n\nIt is much lighter than the MEREZA and has a see-through knob. It is meant for stovetops.\n\nChoose it for solo or two-person coffee on a backpacking stove. It stows easily in a pot set.",
     "specs": [
       "3-cup Glacier stainless steel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nTChlqI3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4QKNTJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4QKNTJ1?tag=rvgearlab-amz-20",
     "description": "The Cullaby is a rechargeable lantern with a 7500mAh battery and a USB-C port that doubles as a power bank. It offers five modes in warm white, cool white, natural white, red and red COB strobe, with stepless dimming from soft to full.\n\nAgainst the Duracell, it has a stated battery capacity and a wider color range. A removable diffuser cap and dual hanging points let it work as a tent light, ceiling light or work light.\n\nIt suits group campers and outage kits that want the most brightness with smooth dimming. The IP54 rating and shock-resistant housing cover rain and bumps.",
     "specs": [
       "3000 lumens, 7500mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3159tN-7YnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDW6P9YC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDW6P9YC?tag=rvgearlab-amz-20",
     "description": "The Duracell Tri-Power is a 3000 lumen lantern that charges by solar panel, USB or Qi wireless charging, with a dual battery source. It has high, medium, low and power save modes and a USB-C port that works for input and output.\n\nIt costs a little less than the Cullaby and adds solar and Qi charging that the Cullaby lacks. Against the Cullaby, the listing gives a shorter feature list and no battery capacity.\n\nIt suits campers who want several ways to recharge and a recognizable brand. USB-C in and out lets it charge a phone.",
     "specs": [
       "3000 lumens, tri-power charging",

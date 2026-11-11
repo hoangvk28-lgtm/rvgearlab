@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rusGK3xIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNHTWP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNHTWP6?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic 20F is a women's mummy with Cirroloft synthetic insulation, 30.5 oz of fill and a total weight of 2 lb 13 oz in the Regular size. It stuffs to 16 by 9 inches and fits sleepers up to 6 ft.\n\nIt is the only bag here that prints fill weight and total weight, so you can plan your pack around real numbers. Its integrated compression sack and spacious footbox add to the fit.\n\nIt suits women and smaller backpackers who want a documented synthetic 20 degree bag. Length options run from 5 ft 8 to 6 ft 6.",
     "specs": [
       "Cirroloft synthetic, 30.5 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead uses microfiber insulation inside a 20 degree mummy, with zipper draft tubes, a hood that closes gaps around the head and vaulted footboxes. A compression sack with heavy-duty straps and hang loops for storage are included.\n\nIt costs less than the Kelty and prints a named microfiber insulation, which the LEEF and Brazos listings do not. It states no weight.\n\nIt suits budget backpackers who want a named synthetic fill and a hood that seals in heat. Hang it by the loops to protect loft.",
     "specs": [
       "20F mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+tT8kkJEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9Y8JWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9Y8JWV?tag=rvgearlab-amz-20",
     "description": "The TETON Junior is a youth 20 degree bag. It pairs fiber fill with a soft lining, a half-circle hood, double-layer construction and draft tubes. A stuff sack with heavy-duty straps is included.\n\nIt is the only kids' bag in the list and is sized below the adult picks. It costs about the same as the Brazos.\n\nIt suits children camping in cool weather. Pair it with a pad and a hat.",
     "specs": [
       "Youth 20F bag",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R7Rgj5D1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy sold with 0, 20 or 30 degree labels and three sizes, with a compression sack. The listing describes a roomier mummy design that packs small.\n\nIt gives more size choices than any other bag here. The listing does not name a fill, so synthetic is not confirmed for this one.\n\nIt suits hikers who want a mummy they can size to their height. Choose the 20 degree option.",
     "specs": [
       "0, 20 or 30 degree options",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZzAYEc8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643DKJW?tag=rvgearlab-amz-20",
     "description": "The Coleman Brazos is a 20 degree F bag for campers up to 5 ft 11 in, with a Thermolock draft tube, Fiberlock construction to hold insulation in place and fasteners that lock it when rolled. It has a no-snag zipper.\n\nIt is the cheapest in the list and a good fit for casual fall trips. The listing does not name a fill, so synthetic is an assumption.\n\nIt suits shorter campers on a budget. Choose a taller bag if you exceed 5 ft 11.",
     "specs": [
       "20F, to 5 ft 11 in",

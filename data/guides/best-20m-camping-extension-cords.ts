@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r2abACYiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G19YWXN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G19YWXN1?tag=rvgearlab-amz-20",
     "description": "The cismorvex is a 20 foot 16/3 SJTW cord with three outlets, with a 13 amp, 1625 watt rating at 125 volts and ETL/cETL listing. It lists a 3-strand OFC core, an IP65 rating, a double-insulated jacket and one-piece molded plug, and the socket end has hooks and nail holes for mounting.\n\nAmong the three-outlet cords, it prints the most build detail, including the mounting holes for a post or wall. Compared with the energeaster, it adds a double-insulated cord and costs a little more.\n\nIt suits campers who want to run a lamp, fan and charger from one tidy outlet block. The mounting holes keep the plug end off the ground.",
     "specs": [
       "20 ft, 16/3 SJTW, 3 outlets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d00WDnU8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D73BFX1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D73BFX1J?tag=rvgearlab-amz-20",
     "description": "The energeaster is a 20 foot 16/3 SJTW cord with three outlets, 13 amps and 1625 watts at 125 volts, ETL/cETL listed. The IP65 vinyl jacket stays flexible below minus 58 degrees Fahrenheit, and a hook-and-loop fastener holds the coil. It lists over 20,000 bends without breaking.\n\nIt prints the same ratings as the cismorvex for a slightly lower price. Against the huanchain, it adds three outlets and a bend test.\n\nIt suits cold-season campers who want a cord that stays supple and coils easily. The fastener keeps the cord tidy in a bin.",
     "specs": [
       "20 ft, 16/3 SJTW, 3 outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mf3kQoYQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2D9T289?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2D9T289?tag=rvgearlab-amz-20",
     "description": "The huanchain is a 20 foot 16/3 SJTW cord with a single outlet, carrying a 13 amp, 1625 watt rating at 125 volts, and ETL/cETL listed. It lists flame, weather and cold resistance, strain relief and a hook on the socket end.\n\nIt has one outlet where the others have three, which suits a single appliance at the end of the run. Compared with the cismorvex, it costs a little less.\n\nIt suits campers who run one fan, one cooler plug or one light string and want a simple cord. The hook design helps keep the socket off wet ground.",
     "specs": [
       "20 ft, 16/3 SJTW, 1 outlet",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hrd9QQMjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07N4H4SQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07N4H4SQX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics is a 25 foot indoor and outdoor cord with three outlets and a grounded 3-prong plug, rated 13 amps, 1625 watts and 125 volts and ETL certified. It has a vinyl covering that resists moisture, abrasion and sunlight and all-copper wire.\n\nIt adds five feet of reach over the 20 foot cords and costs the least of the group. Compared with the cismorvex, it gives up the mounting holes and prints fewer weather details.\n\nIt suits campers who need a little more reach with three outlets at a low price. The brand name and ETL mark add confidence.",
     "specs": [
       "25 ft, 3 outlets, 13A",

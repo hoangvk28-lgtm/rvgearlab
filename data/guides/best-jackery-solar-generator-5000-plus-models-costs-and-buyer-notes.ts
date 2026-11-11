@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Solar Generator 5000 Plus and 2x500X Panels, 5040Wh, 7200W Output",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 2x500X Panels, 5040Wh, 7200W Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FBX7K2LT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FBX7K2LT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31UDk7xsjxL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
     amazonQuery: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41f6WDjPR0L._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Solar Generator 5000 Plus and 500W Panels, 5040Wh, 7200W Output",
     amazonQuery: "Jackery Solar Generator 5000 Plus and 500W Panels, 5040Wh, 7200W Output",
-    amazonUrl: "https://www.amazon.com/dp/B0F2SRB1YR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F2SRB1YR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31W5Kv14DZL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Solar Generator 5000 Plus and Extra Battery & 500W, 10kWh, 7200W",
     amazonQuery: "Jackery Solar Generator 5000 Plus and Extra Battery & 500W, 10kWh, 7200W",
-    amazonUrl: "https://www.amazon.com/dp/B0H3KVDY3R?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0H3KVDY3R?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31qQk4irv9L._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Solar Generator 5000 Plus and 2x200W Panels, 5040Wh,7200W AC Output product page",
-    "href": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EotRU6-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G44C211R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G44C211R?tag=rvgearlab-amz-20",
     "description": "The Stelle Drainage water shoe is a women's slip-on with breathable mesh, multiple drainage holes in the sole and a sturdy rubber outsole with a special traction pattern. It adds a cushioned insole with built-in arch support and a protective toe overlay.\n\nAgainst the SEEKWAY Aqua Sock, it adds a protective toe overlay and an arch-supporting insole for rocky ground. Compared with the Mishansha Wide Toe, it uses drainage holes in the sole to shed water faster.\n\nIt suits a woman who scrambles over wet rock and shell beds and wants toe protection and drainage together. The listing describes grip on wet, rocky ground.",
     "specs": [
       "Rubber outsole, traction pattern",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BcCu19vrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYWK2T7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYWK2T7J?tag=rvgearlab-amz-20",
     "description": "The Mishansha Wide Toe is a women's barefoot-style water shoe with a zero-drop sole, wide toe box and breathable mesh. The non-slip sole is described as giving traction on wet, sandy and rocky surfaces.\n\nIt has the roomiest toe area of the five and the lightest build, which makes it better than the SEEKWAY Aqua Sock for wide feet. It trades the toe overlay of the Stelle Drainage for a flexible barefoot feel.\n\nWide feet that want ground feel and light weight on beach walks and river trips will like it. Swimming, yoga and hiking are listed uses.",
     "specs": [
       "Zero-drop sole, wide toe box",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ab3tItzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0834N4XXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0834N4XXM?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Aqua Sock is a slip-on water shoe with a rubber outsole that protects feet from sharp rocks, gravel and shells and from hot sand. The soft elastic spandex upper dries quickly, and a smooth elastic neck prevents chafing.\n\nIt states sole protection from rocks, gravel and shells more directly than the Deevike Aqua Sock. It is lower priced than the Stelle Drainage and lacks drainage holes and a toe overlay.\n\nIt suits a budget buyer who wants a sock-like fit and basic sole protection on rocky beaches. The lace-free design makes it easy to slip on and off.",
     "specs": [
       "Rubber outsole blocks rocks, shells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IoX+7gEbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW83L299?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW83L299?tag=rvgearlab-amz-20",
     "description": "The Racqua Barefoot is a unisex water shoe with a hard-wearing, breathable stretch mesh upper and a durable, abrasion-resistant rubber outsole. Lumpy stripes on the sole increase friction, and elasticated straps with a heel pull tab make it quick to adjust.\n\nIt gives more outsole friction detail than the Deevike Aqua Sock and has a heel pull tab the Stelle Drainage lacks. It costs more than the SEEKWAY Aqua Sock.\n\nIt suits a hiker who wants an abrasion-resistant sole and quick-adjust straps for rocky riverbanks and beaches. Both men's and women's sizes are offered.",
     "specs": [
       "Abrasion-resistant rubber outsole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LEVo4f4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMPPS5CT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMPPS5CT?tag=rvgearlab-amz-20",
     "description": "The Deevike Aqua Sock is a lightweight stretch-fabric aqua sock for women and men with a smooth neck that prevents chafing. A block-textured sole gives anti-slip grip and protects feet from gravel on hot beaches.\n\nIt carries the lowest price tag and the simplest build, with a sock fit that packs small. It offers less sole detail than the Racqua Barefoot or the Stelle Drainage.\n\nIt suits a casual beach-goer who wants a low-cost shoe for gravel and hot sand. The listing offers a variety of sizes and colors.",
     "specs": [
       "Stretch fabric, smooth neck",

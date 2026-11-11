@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A4Fh7lXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRWT8M6K?tag=rvgearlab-amz-20",
     "description": "Coleman's Classic 62 quart rolling cooler is rated to keep ice up to 5 days at 90 degrees and holds 101 cans without ice or about 50 cans with 26 lb of ice. It has 6 inch all-terrain wheels with a tow handle and swing-up handles.\n\nAt about $64 it holds more than the 50 quart Xtreme and costs about $11 less. The extra 12 quarts matter for a family of four, and the Xtreme has a lid rated to seat 250 lb.\n\nFamilies and groups that carry food for a long weekend will get the most from it. The wheels make the walk from the car much easier.",
     "specs": [
       "5 days of ice at 90F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LGfpv0pPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BYDG3BM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BYDG3BM?tag=rvgearlab-amz-20",
     "description": "The Coleman Xtreme is a 50 quart wheeled cooler rated for ice up to 5 days at 90 degrees, with room for 84 cans. It has a built-in drain, all-terrain wheels, a retractable telescoping handle and a lid rated to hold 250 lb.\n\nIt costs about $75, the top of this budget, and the telescoping handle and drain are the upgrades over the Classic 62. The Classic holds more food, while this one is smaller and rolls more easily.\n\nCampers who walk a long way from the car, or who want a telescoping handle and a drain, will enjoy it. Beach trips suit it well.",
     "specs": [
       "50 quart, 84 cans, 5 days of ice",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BFEVFERlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPKL8NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPKL8NQ?tag=rvgearlab-amz-20",
     "description": "A 30 quart body with TempLock foam rated at 48 hours, this Chiller swallows 42 cans when empty of ice and 25 once 15 lb of ice goes in. The lid is built to carry 200 lb.\n\nAt about $50 it costs $14 less than the Classic 62 and has no wheels, which makes it easier to lift into a small car. The ice rating is shorter than the rolling Colemans.\n\nCouples and solo campers on a weekend trip get a compact cooler with a lid you can sit on. It fits a sedan trunk.",
     "specs": [
       "TempLock foam, up to 48 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Rj1qNJvoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB76L2ZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB76L2ZJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Pro 9-Quart is a lunch-box style hard cooler with TempLock FX insulation in the lid and body. It has rubberized boots to prevent sliding, a flat lid that works as a writing surface or a seat and a 5-year limited warranty.\n\nIt costs about $55, which is more than the 30 quart Chiller, and the money buys durability and a warranty rather than size. It is the only pick built for a job site or a daily commute.\n\nAnglers, workers and solo campers who want a tough personal cooler will like it. It holds lunch and drinks for a day.",
     "specs": [
       "9 quart hard cooler",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ihy3KU5iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G95J8C7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G95J8C7Y?tag=rvgearlab-amz-20",
     "description": "SMIRLY is a collapsible 37L soft cooler that holds 48 cans, with multi-layer insulation and waterproof Oxford cloth bonded to EVA. It has a padded handle and folds compactly.\n\nNear $43, this bag is the least expensive of the five and the one that packs flat. It keeps items cold for about 8 hours, so it complements a rolling cooler rather than replacing one.\n\nCampers who already own a big cooler and need a day bag for hikes or the beach will find it useful. It also works as a grocery tote.",
     "specs": [
       "37L, 48 cans",

@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Portable Solar Generator 300W Power Station",
     amazonQuery: "Portable Solar Generator 300W Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/519M0Y5tHeL._SL500_.jpg",
     specs: ["Capacity: 296Wh","Continuous output: 300W","Listed weight: 6.5 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"296Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"6.5 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Portable Solar Generator 300W Portable Power Station",
     amazonQuery: "Portable Solar Generator 300W Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51N0Qi-dPkL._SL500_.jpg",
     specs: ["Product type: Battery power station","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Battery power station"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Portable Power Station",
     amazonQuery: "Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GF7XRKDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GF7XRKDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51t98yFWrRL._SL500_.jpg",
     specs: ["AC waveform: Pure sine wave","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"AC waveform","value":"Pure sine wave"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
     amazonQuery: "MARBERO Solar Powered Generator 88Wh, 120W Surge",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGZ5FSR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51iRMhbcUoL._SL500_.jpg",
     specs: ["Capacity: 88Wh","Surge output: 120W","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"88Wh"},{"label":"Surge output","value":"120W"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "DaranEner 600W 576Wh Portable Power Station",
     amazonQuery: "DaranEner 600W 576Wh Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0G3WRF3KM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G3WRF3KM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413q6loDz0L._SL500_.jpg",
     specs: ["Capacity: 576Wh","Continuous output: 550W","Surge output: 1,200W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"576Wh"},{"label":"Continuous output","value":"550W"},{"label":"Surge output","value":"1,200W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Portable Solar Generator 300W Power Station product page",
-    "href": "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FKMK7RX5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ci4xwrhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG2D58MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG2D58MC?tag=rvgearlab-amz-20",
     "description": "The innotree Merino 5 Pack is a set of five women's quarter-length merino wool hiking socks with ventilation lanes, targeted cushioning and compression arch support. The listing describes a breathable mesh, odor control and a one-year replacement warranty.\n\nAgainst the SAVALOS Merino, it adds a stated warranty and ventilation lanes. Compared with the MOGGEI Winter, it is a lighter, cooler sock meant for three-season use.\n\nIt suits hikers who want a dependable merino sock in bulk. Five pairs cover a long trip without laundry.",
     "specs": [
       "Merino wool, ventilation lanes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LYqwISb5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1ZYG3N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1ZYG3N8?tag=rvgearlab-amz-20",
     "description": "The SAVALOS Merino is a five-pair set made from 70% merino wool, 23% polyester, 5% spandex and 2% nylon. It has compression stripes for arch support, reinforced heels, seamless toes and mesh ventilation.\n\nCompared with the innotree Merino 5 Pack, it has a stated high merino percentage and seamless toes. Next to the DYW Merino, it uses sizes tailored to women, Medium for US 5.5 to 10 and Large for 10 to 13.\n\nIt suits women who want a high-merino blend and a precise fit in both sizes. Reinforcements sit at heel and toe.",
     "specs": [
       "70% merino wool blend",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jEvIH7JkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQSV8296?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQSV8296?tag=rvgearlab-amz-20",
     "description": "The DYW Merino is a five-pair crew sock in 70% merino wool, 23% polyester, 5% spandex and 2% nylon. It has a stretchy cuff, an arch stripe and a cushioned foot for shock absorption.\n\nIt matches the SAVALOS Merino on fiber blend and costs less. Against the innotree Merino 5 Pack, it is crew height, so it protects more of the ankle and lower calf.\n\nIt suits women who want crew-height merino at the lowest price here. Sizes M and L are marked for both men and women.",
     "specs": [
       "70% merino blend, crew height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HsSVInefL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMZM4616?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMZM4616?tag=rvgearlab-amz-20",
     "description": "The MOGGEI Winter is a five-pair set of thick crew socks made from wool and cotton with a fuzzy inner lining. The listing describes a heavy, soft, warm construction in sizes M (6 to 10) and L (10 to 13).\n\nCompared with the innotree Merino 5 Pack, it is heavier and warmer, with a cozy interior. Against the SAVALOS Merino, it trades merino for a wool and cotton blend.\n\nIt suits cold-weather hikers, cabin days and boot wear. The listing says to hand wash and avoid ironing.",
     "specs": [
       "Wool and cotton blend, thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418vsr6x4dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJCLFD6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJCLFD6T?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer Dura Dri is a six-pair quarter sock with moisture-wicking fibers, arch support and mesh ventilation channels. It has a reinforced heel and toe over a fully cushioned footbed.\n\nIt is a simpler, synthetic option next to the merino packs, and gives six pairs at the lowest cost per pair. Compared with the Dickies Dri-Tech, it adds a full cushioned footbed.\n\nIt suits easy day hikes and everyday walks. Fabric content varies by color, so check the exact pair.",
     "specs": [
       "Moisture-wicking, mesh channels",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512FNG7bxfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN4FJ648?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN4FJ648?tag=rvgearlab-amz-20",
     "description": "The Dickies Dri-Tech is a mid-crew sock with moisture-wicking fibers, ventilation channels, arch compression and half cushion comfort. The heel and toe are reinforced for durability.\n\nAgainst the Eddie Bauer Dura Dri, it is a bit higher on the calf and has half cushion instead of full. Compared with the merino packs, it is the lightest and cheapest option.\n\nIt suits warm-weather walks and light hikes. The mid-crew length sits below the calf.",
     "specs": [
       "Mid-crew, moisture-wicking",

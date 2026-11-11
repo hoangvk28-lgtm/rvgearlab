@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bTm9xpOeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCX44T5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCX44T5?tag=rvgearlab-amz-20",
     "description": "Tyona's TC6 is a six-sensor kit reading 0 to 188 psi with error under 1 psi, a 4.5 inch color screen and a signal booster. Tyona's TC6 is a six-sensor high-pressure TPMS reading 0 to 188 psi with error under 1 psi, a 4.5 inch color screen, six alert modes and a signal booster for 130 ft distance.\n\nIt has the highest stated range here, above Flydew 6-Wheel's 144 psi, and includes a booster. Its listing does not state the sensor type.\n\nBest for load range G tires and fifth wheel pressures. Confirm the sensor mounting type with the seller.",
     "specs": [
       "6 sensors, 0 to 188 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V52cyuULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-amz-20",
     "description": "Flydew's six-wheel kit lists a 0 to 144 psi range with plus or minus 1.5 psi accuracy and solar plus USB-C charging. Flydew's six-wheel TPMS lists a 0 to 144 psi range with plus or minus 1.5 psi accuracy, six alarm modes with custom thresholds and solar plus USB-C charging. The listing describes a three-step installation.\n\nIt states a lower ceiling than Tyona TC6 but costs much less. It covers six wheels.\n\nBest for tires that run up to about 125 psi on a budget. It is a low-cost 144 psi six-wheel kit.",
     "specs": [
       "6 sensors, 0 to 144 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413zGKTVnKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ9M6SCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ9M6SCH?tag=rvgearlab-amz-20",
     "description": "Tymate's TM12 six-sensor kit uses flow-through sensors so air can be added without removal. Tymate's TM12 flow-through six-sensor kit lets you add air through the externally mounted sensors without removing them. The display supports up to 12 tires with split-screen cycling, six alarm modes and USB-C or solar charging.\n\nIt adds convenience that Flydew 6-Wheel does not state, but its listing gives no psi range. Ask before using it on high-pressure tires.\n\nBest for convenient inflation once the psi range is confirmed. Check the valve stems before choosing flow-through.",
     "specs": [
       "6 flow-thru sensors",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J7kHAmpcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1L3LM1?tag=rvgearlab-amz-20",
     "description": "Tymate's TM12 four-sensor kit pairs IP67 external sensors with a 12-tire display. Tymate's TM12 four-sensor kit pairs IP67 external sensors with a display that supports up to 12 tires and six alarm modes. It charges by USB-C or solar.\n\nIt costs less than Tymate TM12 6 Flow-Thru and also states no psi range. It covers four wheels.\n\nBest for a four-wheel trailer after the range is confirmed. It is the four-wheel entry to the TM12 line.",
     "specs": [
       "4 external sensors",

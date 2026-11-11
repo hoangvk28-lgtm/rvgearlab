@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516DQV5rMXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8KW957?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8KW957?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN 55 Series is a 12V pump delivering up to 7.5 GPM at a consistent 75 PSI with a five-chamber self-priming design and an intelligent pressure switch. The listing describes a single-diaphragm style aimed at quiet running.\n\nIt leads the group on flow with the Kohree and the TWERE kit, and its switch is described as intelligent rather than generic. It costs more than the hzhdven 7GPM.\n\nBest for large rigs that want top flow with a quiet-design claim. On the plus side, heavy-duty switch.",
     "specs": [
       "7.5 GPM at 75 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gyA5E9fIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTHQHHYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTHQHHYG?tag=rvgearlab-amz-20",
     "description": "The Kohree 2026 pump lists 7.5 GPM at 70 PSI with a five-chamber diaphragm and an updated internal structure for steadier pressure. Self-priming reaches 10 feet vertical and 155 feet horizontal, and short run-dry operation is described.\n\nIt states a 70 PSI figure lower than the Wassermann 75 PSI and costs less, with a generous priming range. Its listing mentions leak-proof testing.\n\nA good fit for owners who want 7.5 GPM at slightly gentler pressure. Buyers also get this: updated 2026 internal structure.",
     "specs": [
       "7.5 GPM at 70 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519Wc9jnr4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2MMYSMJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2MMYSMJ?tag=rvgearlab-amz-20",
     "description": "The Kitvance 12V pump is rated 6.0 GPM at 70 PSI with a smart bypass, a one-piece four-chamber diaphragm and NSK double ball bearings. The pressure is adjustable and the pump is aimed at tankless heater supply.\n\nIt trades 1.5 GPM against the 7.5 GPM pumps for the clearest bypass and bearing description. It is also easier on the battery.\n\nBest for owners who want high flow with a refined switch rather than the maximum number. Another reason it earns a slot: aimed at tankless heaters.",
     "specs": [
       "6.0 GPM at 70 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yi-s0QcxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3X77R7W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3X77R7W?tag=rvgearlab-amz-20",
     "description": "The hzhdven pump is a 12V five-chamber self-priming diaphragm pump rated 7 GPM at 70 PSI with a heavy-duty switch and strainer. Its listing mirrors a common 7 GPM design.\n\nIt undercuts the Wassermann and Kohree and still lists a strainer. The description is thinner on materials than the Kohree.\n\nA good fit for budget buyers who want 7 GPM with a strainer. On the plus side, five-chamber design.",
     "specs": [
       "7 GPM at 70 PSI, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512fIIAWNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8J995M5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8J995M5?tag=rvgearlab-amz-20",
     "description": "The TWERE 7.5 GPM kit is a 12V marine washdown pump at 80 PSI with a strainer and pressure switch. The kit adds a 25 foot hose, quick connect fittings and a high-pressure spray nozzle.\n\nIt carries the highest pressure here and the only included hose and spray gun, which turns it into a wash station. That puts it above the bare pumps for exterior cleaning.\n\nBest for owners who want to wash the rig and run plumbing. Worth noting on the listing: enclosed motor.",
     "specs": [
       "7.5 GPM at 80 PSI, 12V",

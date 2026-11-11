@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqsmHzBAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V81QSC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V81QSC6?tag=rvgearlab-amz-20",
     "description": "The NEVO RHINO is an 18L pack with a 3L PEVA bladder and a thermally insulated bladder compartment. The listing says the insulation keeps liquids cool for up to 5 hours, and ventilated mesh lines the shoulder straps, waist straps and back.\n\nIt carries the largest reservoir here, ahead of the Everfun and MIYCOO, and it is lighter than a standard 18L daypack. Three zipper compartments store extras of different sizes.\n\nIt suits hikers who drink a lot and want cool water on warm days. A kink-free sip tube keeps flow smooth.",
     "specs": [
       "18L with 3L PEVA bladder",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dv96M5IWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B76Q78FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B76Q78FQ?tag=rvgearlab-amz-20",
     "description": "The Everfun is an 18L pack weighing 1.74 pounds with a 2L second-generation bladder and a built-in rain cover. An insulated compartment fits up to a 3L bladder, and a 3D breathable mesh back panel promotes airflow.\n\nCompared with the NEVO RHINO, it adds an integrated rain cover that deploys quickly. Against the Wotony, it has more room, with eight functional pockets.\n\nIt suits hikers in changeable weather who want a cover in one piece. The main compartment holds clothing, a first aid kit and gear.",
     "specs": [
       "18L, 1.74 lb, 2L bladder",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411pl64xOyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGTPDXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGTPDXJ?tag=rvgearlab-amz-20",
     "description": "The MIYCOO includes a 2L food-grade BPA-free bladder with a thickened leak-proof design and a wide opening for easy filling and cleaning. An insulated bladder bag holds an ice pack, keeping water cold for up to 4 hours, and mesh shoulder straps keep air moving.\n\nIt costs less than the NEVO RHINO and Everfun, with a smaller feature set. A front zipper pocket and a main pocket handle towels, snacks and sunglasses.\n\nIt suits budget hikers and runners who want a bladder pack with the basics. The wide mouth makes it easy to clean.",
     "specs": [
       "2L bladder, wide opening",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hUV+LbPJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXFYD1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXFYD1V?tag=rvgearlab-amz-20",
     "description": "The Wotony is a 12L hydration pack weighing 8.5 ounces, with a choice of 2L or 3L BPA-free PEVA bladder and a hose clip. Its waterproof, tear-resistant PU-coated nylon and helmet fastener suit cycling as well as hiking.\n\nIt is the lightest pack here, far under the Everfun, with a helmet fastener the others lack. The reservoir choice lets you pick between a smaller and larger bladder.\n\nIt suits cyclists, festival goers and short hikers who want a small, light pack. Clean seams and sturdy zips are noted on the listing.",
     "specs": [
       "12L, 8.5 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413-NqmgpVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQZ2JV5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQZ2JV5Q?tag=rvgearlab-amz-20",
     "description": "The BECOJADDE is a 15L or 20L foldable pack in high-density water-resistant polyester, with an adjustable chest strap, a removable waist belt on the 20L and a helmet holder. It takes a bladder up to 2L, sold separately.\n\nIt is the only pick here that folds down for travel, and the only one that skips the reservoir. Compared with the Wotony, it has more storage and a waist belt.\n\nIt suits hikers who already own a bladder and want a pack that stows compactly. Multiple compartments organize phones, jackets and trekking poles.",
     "specs": [
       "15L or 20L foldable",

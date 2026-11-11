@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EF ECOFLOW DELTA Pro 3 Solar Generator 4096Wh",
     amazonQuery: "EF ECOFLOW DELTA Pro 3 Solar Generator 4096Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31azmDRUOCL._SL500_.jpg",
     specs: ["Capacity: 4,096Wh","Continuous output: 4,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"4,096Wh"},{"label":"Continuous output","value":"4,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "EF ECOFLOW Power Station 4096Wh DELTA Pro 3",
     amazonQuery: "EF ECOFLOW Power Station 4096Wh DELTA Pro 3",
-    amazonUrl: "https://www.amazon.com/dp/B0D145TFFY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D145TFFY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41BjfHdGZzL._SL500_.jpg",
     specs: ["Capacity: 4,096Wh","Continuous output: 4,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"4,096Wh"},{"label":"Continuous output","value":"4,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "EF ECOFLOW DELTA Pro 3 Portable Power Station, 4096Wh, 4000W AC Output",
     amazonQuery: "EF ECOFLOW DELTA Pro 3 Portable Power Station, 4096Wh, 4000W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0D14FMFZD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D14FMFZD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31nSROQ3MsL._SL500_.jpg",
     specs: ["Capacity: 4,096Wh","Continuous output: 4,000W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"4,096Wh"},{"label":"Continuous output","value":"4,000W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
     amazonQuery: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 3,600W","Runtime claim: Up to 2.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW DELTA 3 MAX Portable Power Station",
     amazonQuery: "EF ECOFLOW DELTA 3 MAX Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0FR8VG94V?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FR8VG94V?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31xUhB4xOqL._SL500_.jpg",
     specs: ["Continuous output: 3,400W","Runtime claim: Up to 1.13 hours","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Continuous output","value":"3,400W"},{"label":"Runtime claim","value":"Up to 1.13 hours"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EF ECOFLOW DELTA Pro 3 Solar Generator 4096Wh product page",
-    "href": "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DB5TH7GN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

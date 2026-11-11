@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i3iZlCepL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGPZ3QS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGPZ3QS4?tag=rvgearlab-amz-20",
     "description": "The Ficstar 20FT has a -45°F rating and a self-regulating thermostat that adjusts heat to conditions. Ficstar lists this 20FT hose with a -45°F rating and a self-regulating thermostat that adjusts heat to conditions.\n\nIt beats the LONRI on rating by ten degrees and offers more cold margin than the budget Ficstar. It costs about 20 dollars more than the cheaper Ficstar.\n\nIt is described as using food-grade drinking water materials and is built for winter RV camping. It suits winter campers who want a true 20 ft hose with deep-cold protection.",
     "specs": [
       "20 ft, -45°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Aag9ZV+mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSK9NRDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSK9NRDT?tag=rvgearlab-amz-20",
     "description": "The LONRI 20FT states a thermostat that turns on at 37°F and is rated to -35°F. LONRI HEAT's 20FT hose has a smart thermostat that switches on at 37°F and is rated to -35°F.\n\nIt publishes the clearest setpoints among the six, which the Ficstar does not. Its double-seal washers and Teflon tape add leak protection.\n\nIt uses 3/4 inch GHT aluminum fittings with double-seal washers and pre-applied Teflon tape. It fits buyers who want to know exactly when the heat switches on.",
     "specs": [
       "20 ft, rated to -35°F",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VyottTr+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9TLKNKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9TLKNKF?tag=rvgearlab-amz-20",
     "description": "The Nwsuewi 20FT is titled as a true 20 foot hose with a 1/2 inch inner diameter and BPA-free materials. Nwsuewi sells this 20FT hose with a 1/2 inch inner diameter and a heating system that senses ambient temperature.\n\nIt senses ambient temperature and uses 3/4 inch threads on both ends, while the DD7T and 6XZS are longer hoses. It sits in the middle of the price range.\n\nBoth ends have 3/4 inch threads, and the materials are BPA free and described as lab tested. It suits owners who want a true 20 ft hose from a lab-tested materials story.",
     "specs": [
       "20 ft, 1/2 inch inner diameter",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413RV42kgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP4S2Q2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP4S2Q2?tag=rvgearlab-amz-20",
     "description": "The budget Ficstar 20FT turns on below about 8.5°C (47°F) and keeps the heated copper wire inside the hose. This Ficstar 20FT hose has an auto-adjusting thermostat that turns on below about 8.5°C (47°F).\n\nIt is 20 dollars cheaper than the -45°F Ficstar while keeping an auto-adjusting thermostat. Leak-proof washers and Teflon tape at both ends add sealing.\n\nThe heated copper wire sits inside the hose, with leak-proof washers and Teflon tape at both ends. It is the pick for mild-winter owners who want a true 20 ft hose at the lowest cost.",
     "specs": [
       "20 ft self-regulating hose",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aGZ5NdxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6LXDD7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6LXDD7T?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 25FT has a thermostat turning on near 47°F, stainless steel connectors and a -20°F rating. RVGUARD lists a 25FT hose with -20°F protection and a thermostat that turns on at about 47°F.\n\nIt adds five feet over a 20 ft hose and offers metal connectors the Ficstar does not mention. The -20°F rating falls short of the -45°F Ficstar.\n\nIt has a five-layer hose, stainless steel connectors and a 3/4 inch GHT adapter, with lead and BPA free water. It suits buyers who want slack and rugged fittings.",
     "specs": [
       "25 ft, -20°F protection",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519uUT37RHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1T96XZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1T96XZS?tag=rvgearlab-amz-20",
     "description": "The WABUPD 30FT uses thickened heating wires and a five-layer shell with a -45°F rating. WABUPD titles this hose 30FT with -45°F protection and says it uses thickened heating wires.\n\nIt gives ten feet more than a 20 ft hose, and it is the longest in this guide. Its price is the highest of the six.\n\nThe shell is described as a five-layer J thickened build made for cold outdoor use. It fits owners who need generous reach and a deep-cold rating.",
     "specs": [
       "30 ft, -45°F rating",

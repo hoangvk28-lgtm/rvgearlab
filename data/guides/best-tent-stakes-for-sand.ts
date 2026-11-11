@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oWliC1J9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W65LVZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W65LVZL?tag=rvgearlab-amz-20",
     "description": "The Hikemax Plastic set gives you 10 ABS plastic stakes that are 9 inches long and 22 millimeters wide, with a T-beam profile. Each stake weighs 0.99 ounces, and the bright orange color stands out against pale sand.\n\nCompared with the COBARYEN Spiral, it drives in by hand with no twisting, which makes pitching a beach tent faster. Against the metal sets, plastic stakes are lighter and cannot rust in salt air, and the T-beam shape adds grip in loose grains.\n\nIt suits beach campers and anyone with a canopy or tarp who needs many cheap, rust-free anchors. A full 9 inches of depth is useful in dry surface sand.",
     "specs": [
       "9 inch ABS, T-beam profile",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j-w31PvdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7KL3LWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7KL3LWT?tag=rvgearlab-amz-20",
     "description": "The COBARYEN Spiral set is six screw-in anchors made from nylon and fiberglass, each 9.4 inches long with a 0.79 inch diameter. They weigh about 1.7 ounces apiece and are sold as sand stakes for the beach.\n\nThe spiral thread gives far more surface contact than a straight peg, so it resists pull-out better than the Hikemax Plastic in loose sand. It also does not rust, which sets it ahead of the steel sets like the Eurmax Galvanized.\n\nIt is the right pick for shade tents, tarps and gazebos that see sideways gusts on open sand. Twisting them in by hand takes only a few turns.",
     "specs": [
       "9.4 inch spiral thread",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4152atVyc2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T15J92X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T15J92X?tag=rvgearlab-amz-20",
     "description": "The 9 Inch Aluminum Pegs set contains eight stakes of 7075 series aluminum alloy, each 9.06 inches long and weighing 33 grams. A pointed tail and a top hook make them easy to push in and pull out, and a storage bag is included.\n\nThey give you metal strength at a weight close to plastic, so they outlast the Hikemax Plastic on a firm patch. The length matches the COBARYEN Spiral, with a straight shape that relies on depth rather than a thread.\n\nIt suits backpackers who also camp on beaches and want one lightweight set for both. A beach mat or small tent holds well with these angled into damp sand.",
     "specs": [
       "9.06 inch 7075 aluminum",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wI-0QAsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLV6H7YN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLV6H7YN?tag=rvgearlab-amz-20",
     "description": "The AVOFOREST 7.1 Inch set is a 12 pack of anti-rust metal stakes with a safety orange coating and a storage bag. At 0.07 pounds each, they are described as far lighter than comparable iron stakes, and the design is built for deeper penetration.\n\nYou get two more stakes than the Hikemax Plastic and a lower weight than the steel sets, at a length shorter than the 9 inch picks above. That makes it the better pack for covering many guy lines on a larger tent.\n\nIt suits campers who use sand as only part of a trip and want a general stake that also works on grass and dirt. The orange coating helps with tripping hazards.",
     "specs": [
       "7.1 inch metal, 12 pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDPkAMQyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PQB74J4?tag=rvgearlab-amz-20",
     "description": "The Eurmax Galvanized set is a 10 piece pack of galvanized steel canopy stakes that comes with four 10 foot ropes and an orange stopper. The galvanized coating is described as rust-free, and the listing names beach outings among its uses.\n\nIt adds the pre-cut ropes that no other set here includes, which suits canopy and pop-up shade setups. Compared with the AVOFOREST 7.1 Inch, it carries more steel plus the rope kit, and the listing leaves the stake length open.\n\nIt fits canopy and beach shelter owners who need ropes and stakes in one box. The stopper makes the lines easy to see.",
     "specs": [
       "10 pack galvanized steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u1V3wYmhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCK4VH5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCK4VH5R?tag=rvgearlab-amz-20",
     "description": "The FEED GARDEN Steel set is a 10 pack of 7 inch hot-dip galvanized steel stakes with bright orange heads. The heads give a good grip for pulling the stakes out, and the sharp tip drives in by hand, foot or hammer.\n\nIt is the heaviest, thickest stake in this guide, which makes it the best backup for firmer ground on the way to the beach. Next to the Eurmax Galvanized, it has no ropes and a clearly stated 7 inch length.\n\nIt suits campers who split trips between beach and campground and want one sturdy steel set. The listing calls it designed for grass, dirt and packed earth.",
     "specs": [
       "7 inch galvanized steel",

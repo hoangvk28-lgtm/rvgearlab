@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yywnUUgpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHDDLJ9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHDDLJ9R?tag=rvgearlab-amz-20",
     "description": "The YolloBike is the one listing here with a stated 950 rated watt figure, along with 1200 watts of surge from a 71cc two-stroke engine. It weighs 35.3 pounds and has a 1 gallon tank with a run time of up to 8 hours, a 120V outlet, a 12V DC output rated 8.3A and a 50:1 fuel-oil mix.\n\nNext to the PowerSmart, it adds 50 rated watts and a longer claimed run time. The recoil start and ergonomic handle keep operation simple.\n\nIt suits campers who want the most headroom from a small generator for lights, a fan, a slow cooker and chargers. A battery can be topped up through the 12V output.",
     "specs": [
       "950 rated, 1200 surge watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wDESe0neL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF23ZRZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF23ZRZD?tag=rvgearlab-amz-20",
     "description": "The PowerSmart PS50 lists 1200W surge and 900W rated from a 71cc two-stroke engine, with a 1.1 gallon tank for about 5 hours at 50 percent load. It weighs 34 pounds, measures 16 by 14 by 13.8 inches, and uses a 50:1 gas-to-oil mix of 87 octane or better.\n\nIt sits 50 rated watts below the YolloBike and costs less, weighing about 1.3 pounds less. The splash lubrication and forced air cooling are listed.\n\nIt suits campers whose loads stay under 900 watts and who want a compact, lighter generator. The F5TC spark plug and recoil start keep upkeep simple.",
     "specs": [
       "1200 surge, 900 rated watts",

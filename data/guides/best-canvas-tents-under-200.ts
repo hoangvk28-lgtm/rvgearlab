@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bHi72LDfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H32WC7RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H32WC7RT?tag=rvgearlab-amz-20",
     "description": "The VEVOR bell tent is 9.84 feet across with a 6.6 foot peak and fits 2 to 3 people. It uses thickened poly-cotton canvas, galvanized metal poles, reinforced stitching, mesh windows, top vents, a stove jack and a silicone mat that protects the floor.\n\nNo other tent in this group is sold with a stove jack, and the SPECRAFT and TIYASTUN do not clearly offer one. It also brings a PVC groundsheet, stakes and guy lines in one kit.\n\nIt suits couples who want to try a heated canvas tent without spending much. Roll-up sidewalls help airflow when you are not running a stove.",
     "specs": [
       "9.84 ft, 6.6 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516ZWePCOjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3TR5QBW?tag=rvgearlab-amz-20",
     "description": "The SPECRAFT is a 10 foot bell with a 9.8 foot diameter and 6.6 foot peak for 3 to 4 people. It combines mixed TC cotton with aluminum poles, double doors and a full mesh base.\n\nIt sleeps one more person than the VEVOR and uses lighter aluminum poles, while the VEVOR keeps the stove jack. The TIYASTUN fits a single sleeper, so this is the family pick.\n\nIt suits small families who want a stable bell tent with real headroom. Door layers can be rolled up for ventilation.",
     "specs": [
       "9.8 ft diameter, 6.6 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317H0oTVm6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYKYYRJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYKYYRJK?tag=rvgearlab-amz-20",
     "description": "The TIYASTUN is a one person four-season poly-cotton tent with an anti-splash coating rated to 3000mm. It measures 141.7 by 74.8 by 43.3 inches and includes a mesh inner tent that sets up in about 15 minutes.\n\nIt shares the poly-cotton breathability of the VEVOR in a lower, tighter shape. It gives up family space to the SPECRAFT and the VEVOR in exchange for wind resistance and portability.\n\nIt suits solo hunters, anglers and bushcrafters who need a low shelter for cold nights. The front curtain pulls open for airflow.",
     "specs": [
       "Poly-cotton, 3000mm coating",

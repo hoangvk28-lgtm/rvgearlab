@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "GROWATT INFINITY 2000 Pro Portable Power Station, 2048Wh Solar Generator",
     amazonQuery: "GROWATT INFINITY 2000 Pro Portable Power Station, 2048Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Bq5cST7lL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "COMeap Solar Panel Cable",
     amazonQuery: "COMeap Solar Panel Cable",
-    amazonUrl: "https://www.amazon.com/dp/B0DGXHB51D?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DGXHB51D?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/412pg4mqtTL._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "MECMO NEMA L5-30P to TT-30R 30 Amp RV Adapter, Portable Compact Adaptor, 3 Prong 30A 125V Twist Locking G",
     amazonQuery: "MECMO NEMA L5-30P to TT-30R 30 Amp RV Adapter, Portable Compact Adaptor, 3 Prong 30A 125V Twist Locking G",
-    amazonUrl: "https://www.amazon.com/dp/B0DYVDRD44?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DYVDRD44?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41B0IPm9rBL._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "12AWG Anderson Plug Connector Cable，3.3FT Battery Extension Cable",
     amazonQuery: "12AWG Anderson Plug Connector Cable，3.3FT Battery Extension Cable",
-    amazonUrl: "https://www.amazon.com/dp/B0FRDPHDXK?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FRDPHDXK?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41ol-X+iVDL._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "ECO-WORTHY 200 Watts 12 Volt/24 Volt Solar Panel Kit",
     amazonQuery: "ECO-WORTHY 200 Watts 12 Volt/24 Volt Solar Panel Kit",
-    amazonUrl: "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
     specs: ["Capacity: 800Wh","Runtime claim: Up to 4 hours","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"800Wh"},{"label":"Runtime claim","value":"Up to 4 hours"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "GROWATT INFINITY 2000 Pro Portable Power Station, 2048Wh Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DMVVN28Z?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

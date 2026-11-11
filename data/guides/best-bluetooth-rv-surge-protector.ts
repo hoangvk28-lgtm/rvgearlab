@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n9qtD9vVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30W is a 30A smart surge protector with both WiFi and Bluetooth, wireless fault alerts and voltage meter data. It has a replaceable surge module, so after a spike you swap the module and keep the housing, and an IP65 water resistant heavy duty build that handles weather at the pedestal.\n\nAt $169.99 it costs $90.00 more than the PohuStues at $79.99, which is the price of the brand and the WiFi link. It is $150.01 below the PWD30EPOW at $320, whose listing text is identical, so the cheaper model is the sensible way to buy into the Power Watchdog line.\n\nPick this if you want alerts that do not depend on being within Bluetooth range, plus a module you can replace. The honest caveat: the listing does not give a joule rating, cutoff voltages or reconnect delay, so you cannot compare its protection numbers directly with the others.",
     "specs": [
       "30A, WiFi and Bluetooth",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I7ffB3CnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6SV7GY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6SV7GY5?tag=rvgearlab-amz-20",
     "description": "The PohuStues 30A lists 18,000J and an auto shutoff when voltage drops below 104V or rises above 132V, reconnecting when power is safe. A bright LED meter shows live voltage and fault codes E1 to E4, and a pre plug scan checks the pedestal for problems such as open ground before you connect.\n\nIt costs $79.99, which is $90.00 under the Power Watchdog PWD30W. It is $3.00 above Edovaf and $2.23 below Festicreamy, and it is the only pick that writes down both cutoff voltages along with a 3 year warranty, which is why it ranks above the KIRFEIHT at the same price.\n\nPick this if you want documented thresholds and an IP67 sealed lid at a low price. The caveat is that the listing shows a NEMA TT-30P plug and the app, but not whether the surge module can be replaced, and there is no WiFi link.",
     "specs": [
       "30A, 18,000J",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cQVFt8n0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYDL6FVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYDL6FVN?tag=rvgearlab-amz-20",
     "description": "The KIRFEIHT 30A lists 18,000J with auto shutoff and auto reset, a high definition LED screen readable in sunlight and an IP67 sealed cover. It has a right angle 30 amp plug that saves storage space, a non slip rubber grip, and a listing that says UL listed, plus remote app monitoring.\n\nAt $79.99 it matches PohuStues on price and joules, but it does not state the cutoff voltages, which is why it ranks one place lower. It is $3.00 above Edovaf at $76.99, whose bullets are nearly identical, so the choice between them is mostly the plug design and a few dollars.\n\nPick this if you like the right angle plug and want an IP67 cover at the same price as PohuStues. The caveat: UL listed is claimed in the listing, so look for the certification mark on the unit itself, and cutoff thresholds are not shown.",
     "specs": [
       "30A, 18,000J",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hIjgEaDtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4KFMWMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4KFMWMD?tag=rvgearlab-amz-20",
     "description": "The Edovaf 30A is a Bluetooth unit with 18,000J of protection, auto shutoff and reset, an HD display with a built in circuit analyzer and an IP67 sealed cover. The listing describes remote cutoff from the app, and the plug is a standard TT-30P that fits 30A pedestals across the US and Canada.\n\nAt $76.99 it is the cheapest of the three 18,000J units, $3.00 under PohuStues and KIRFEIHT and $5.23 under Festicreamy, which lists only 10,000J. Its bullets match the KIRFEIHT almost word for word, so the savings come with the same missing cutoff numbers.\n\nPick this if you want the lowest price among the high joule picks. The caveat is that cutoff and reconnect settings are not stated, and the title calls it a new listing with a UL claim, so confirm the mark on the product label when it arrives.",
     "specs": [
       "30A, 18,000J",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k0Esba2YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT1MX4LL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT1MX4LL?tag=rvgearlab-amz-20",
     "description": "The Festicreamy 30A lists 10,000J, a large LED screen showing voltage, amperage, wattage, kWh, temperature and frequency, Bluetooth app control and an IP68 sealed housing. Its surge module is replaceable, and the plastic is V-1 flame retardant with an anti slip handle for plugging in with wet hands.\n\nAt $82.22 it is the most expensive of the four picks under $100 but has the lowest joule rating, 10,000J against 18,000J on three cheaper units. It is the only budget pick that mentions a replaceable surge module, which is its real advantage over PohuStues.\n\nPick this if the 6-in-1 display and the replaceable module matter more than joules. The caveat: 10,000J is about half the listed rating of its rivals, and cutoff voltages are not given.",
     "specs": [
       "30A, 10,000J",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319aC-3RXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOW is a 30A WiFi and Bluetooth protector whose listed features match the PWD30W: wireless fault alerts, voltage meter data, a replaceable surge module and an IP65 build. It also connects through dogbone adapters, so it works with the adapters you may already own.\n\nIt costs $320, which is $150.01 more than the PWD30W at $169.99 and $240.01 above PohuStues at $79.99. The listing text shows no feature that justifies the extra, so the premium may buy a different internal spec that the Amazon text does not reveal.\n\nPick this if you specifically want the EPOW model number and have confirmed what it adds over the PWD30W. The caveat: with no joule or cutoff data and a price about four times PohuStues, it is the weakest value in this comparison.",
     "specs": [
       "30A, WiFi and Bluetooth",

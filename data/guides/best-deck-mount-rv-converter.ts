@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m6xnGvGoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDJ67CK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDJ67CK5?tag=rvgearlab-amz-20",
     "description": "The Xmnbl WF-9855 is a 55A converter with a stated 13.6VDC output, 105 to 130 VAC input and 950 watts of power. The seller lists a 5 year warranty and says it replaces WF-9855 variants and 9800 series units, including the WF-9855-MBA and WF-9855AN, with a silent fan in the latest revision.\n\nIt costs $59.99, just $1.00 more than the sixcow unit at $58.99, and that dollar buys a longer written warranty and a stated output voltage that sixcow's listing text does not give. Against the $109 GYHMK 9855-AD it is $49.01 cheaper for the same 55A rating, which is why it tops this list.\n\nPick this if you are replacing a failed 55A WF-9855 and want the lowest risk on price. The caveat is a fixed 13.6V output with no lithium mode listed, so a lithium bank may charge slowly or incompletely; treat this as a lead acid and AGM converter.",
     "specs": [
       "55A output, 13.6VDC",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413koWQDmdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKYJC81P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKYJC81P?tag=rvgearlab-amz-20",
     "description": "The sixcow WF-9855 is a 55A deck mount converter with a 120V AC input at 11A, listed to replace any WF-9800 series unit including IOTA-DLS-55 and Atwood ACO-32 models. The cooling fan runs only when needed, and an electronic current limiter shuts power off during overload or short circuit conditions.\n\nAt $58.99 it is the cheapest pick in the guide, $1.00 below Xmnbl, which has the same 55A rating. The only separating details are Xmnbl's written 5 year warranty and stated 13.6VDC output, neither of which this listing offers, so the dollar saved buys less paper protection.\n\nPick this if you want the lowest price for a 55A swap and a fan that stays off at idle. The caveat is that the full three stage voltage figures are cut off in the listing, so check them against your battery chemistry before ordering, and ask the seller about warranty length.",
     "specs": [
       "55A deck mount",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yv6-i1eBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00F8MC45E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00F8MC45E?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM3-100LK delivers 100A with an output window of 13.6 to 14.4Vdc, UL and CUL certification, reverse battery protection and a temperature controlled fan. It is listed as a replacement for the WF-9800 series and as compatible with the WFCO WF-9855, so it drops into the same space.\n\nIt is the most expensive pick at $175, $16 above the GYHMK 9875-AD at $159 for 25A more output. Against a 55A unit like Xmnbl at $59.99 you pay $115.01 extra, which is only worth it with a large bank, an inverter charging load or heavy DC loads that eat into a smaller unit's output.\n\nPick this if you have a big lithium or multi battery bank and want a 14.4V top of range plus a safety certification on the listing. The caveat: AC input draw and dimensions are not stated, so check your shore circuit and the deck space before you commit.",
     "specs": [
       "100A output",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u6LFXhkoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDMNMC4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDMNMC4?tag=rvgearlab-amz-20",
     "description": "The GYHMK 9875-AD is a 75A deck mount converter written to replace 9800 series units, with three stage automatic charging and an electronic current limiter that shuts off on overload or short circuit. The listing also says it gives clean power with no interference to TV, radio or other signals.\n\nIt sits $16 below the PowerMax at $159 and $50 above the GYHMK 9855-AD at $109, so you buy 20 extra amps for $50, which is $2.50 per amp. That is a fair jump if your battery bank is 200Ah or more and your 55A unit is feeding the house loads first.\n\nPick this if a 55A unit feels too small but a 100A unit is too costly. The caveat: the listing gives no output voltage figures and no warranty length, so you cannot see the charge profile or the terms before buying, and the AC draw is not stated either.",
     "specs": [
       "75A deck mount",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Csnu2hSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDNBRVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDNBRVL?tag=rvgearlab-amz-20",
     "description": "The GYHMK 9855-AD is a 55A deck mount replacement for the 9800 series, with the same three stage automatic charging and electronic current limiting as its 75A sibling. The listing claims clean power with no interference to TV or radio signals and describes it as a way to avoid replacing the entire power center.\n\nAt $109 it is $49.01 above Xmnbl and $50.01 above sixcow for the same 55A rating, and $10 above the OMMFARL 9845-AD at $99 for 10A more. Nothing in the listing text justifies that premium over Xmnbl, whose voltage and warranty are written down, so it ranks mid table.\n\nPick this only if the other 55A units are out of stock or you want to stay with the GYHMK line next to a 9875-AD. The caveat is value: you pay about $50 more with no extra listed spec, and no voltages or warranty length appear.",
     "specs": [
       "55A deck mount",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BFeG5lIFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLV1XV3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLV1XV3X?tag=rvgearlab-amz-20",
     "description": "The OMMFARL 9845-AD is a 45A deck mount converter with three stage charging and 105 to 130 VAC input at 60 Hz. It is the only listing here that states it is designed for both lead acid and lithium ion batteries, and it is written as a replacement for 9800 series systems.\n\nAt $99 it costs $39.01 more than Xmnbl for 10A less output, so it only makes sense as a lithium claim play. The lithium wording is the single mention among the six, but no voltage figure is given to back it up, which leaves the claim unverified against PowerMax's 13.6 to 14.4Vdc window.\n\nPick this if you have a small bank, light loads and want the one listing that names lithium compatibility. The caveat is that the claim has no voltage detail and the output is the smallest here, so ask the seller for the lithium charge voltage in writing before you order.",
     "specs": [
       "45A three-stage charging",

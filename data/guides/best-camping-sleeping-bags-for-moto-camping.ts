@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416uiYdBf-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-amz-20",
     "description": "Weighing 4 lb, the KANYAK rectangle measures 86.6 by 32.48 inches and lists ratings of 41F comfort and 32F limit. The listing gives a compressed pack size of 11 to 14.2 inches, three zippers including a foot zipper, and a 210T polyester shell.\n\nAgainst the Amazon Basics bag it adds a colder figure and a printed pack size, so you can check it against a roll bag. Two KANYAK bags can also splice together for a couple riding two-up.\n\nIt suits riders camping in cool spring and fall weather who want their numbers on the page. The foot zipper vents heat when the night warms.",
     "specs": [
       "Comfort 41F, limit 32F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-iGbt0YsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics bag is rated for 50F and above and measures 84 by 31.5 inches. It has synthetic fill, an integrated hood, a compression carry sack, and loops for bundling after use.\n\nAgainst the KANYAK it sits at the warm-weather end with no pack dimension listed, and its compression sack and recycled polyester make it an easy first bag. It also opens fully to act as a blanket.\n\nIt suits riders on summer trips who want a simple, cheap bag. It is machine washable.",
     "specs": [
       "Rated 50F and above",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FSX+vMnkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPXRC6RS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPXRC6RS?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic 0F is a mummy rated to 0 degrees with 60 oz of Cirroloft synthetic fill. The listing gives a total weight of 4 lb 11 oz, a stuff size of 17 by 11 inches uncompressed, and a fit for sleepers up to 6 ft 6 in in the Long size.\n\nOnly this bag pairs a mummy cut and a built-in compression sack with a stated cold rating from a major outdoor brand. Against the Coleman Heritage it weighs less than half as much to carry.\n\nIt suits winter hikers and campers who want a bag that stays warm when damp. The footbox is roomy and an exterior stash pocket holds small items overnight.",
     "specs": [
       "0F rating, 60 oz Cirroloft fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big & Tall is filled with 5 pounds of Holofill 808 insulation and rated to 10F. It measures 40 by 84 inches, sizes for sleepers to 6 ft 7 in, and has a cotton cover with a synthetic flannel liner.\n\nNext to the Kelty Cosmic 0F, it trades packability for room and a lower price, and FiberLock construction keeps insulation from shifting. It reads more like a thick blanket than a technical bag.\n\nIt suits car campers and cabin sleepers who never carry the bag far. The no-snag zipper and wide cut help bigger campers sleep comfortably.",
     "specs": [
       "10F rated, 5 lb Holofill 808",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41szQlJyvZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MZXZH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MZXZH9?tag=rvgearlab-amz-20",
     "description": "The TANSTRIDER weighs 4 lb at 86.6 by 31.5 inches, with a printed comfort range of 40 to 70F and an extreme limit that starts at 30F. It has anti-snag two-way zippers, a waterproof polyester shell and opens flat to a blanket.\n\nIt is clearer about its numbers than the tuphen or WKFAMOUT, printing weight and both temperature figures. Against the Kelty it covers much milder nights, so it is a three-season bag with a four-season label.\n\nIt suits shoulder-season campers who want a flat-opening bag for adults and teens. The printed 30 degree limit tells you where it stops.",
     "specs": [
       "40-70F comfort range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417NnOhOHzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHXVMR19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHXVMR19?tag=rvgearlab-amz-20",
     "description": "The WKFAMOUT unfolds to 90 by 39 inches for campers up to 6 ft 7 in, with a quilted dual-layer synthetic fill. The listing gives a comfort rating of 30F, and side zippers let two bags join into a double.\n\nIt is wider than the TANSTRIDER and the tuphen, and it compresses into a sack with side straps. It also offers machine-washable quilting that stops fill from shifting.\n\nIt suits couples or big and tall campers who want to zip two bags together on cool nights. The wide cut leaves room for layers.",
     "specs": [
       "90 x 39 in, comfort 30F",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JlF8-BXNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0851H1K7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0851H1K7C?tag=rvgearlab-amz-20",
     "description": "The tuphen measures 29.5 by 86.6 inches with a microfiber liner. Its rating runs from 5 to 25C (41 to 77F), with a comfort range of 17 to 24C, and a two-way zipper vents the feet.\n\nPriced lowest of the five, it states its warm range openly, unlike the WKFAMOUT. Next to the TANSTRIDER it gives a narrower fit and prints no weight.\n\nIt suits budget campers who want a mild-weather bag with a washable liner. It packs into a carry bag and wipes clean.",
     "specs": [
       "5 to 25C rated",

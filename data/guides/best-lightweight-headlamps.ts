@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51URfm2B1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08D66HCXW?tag=rvgearlab-amz-20",
     "description": "The LHKNL headlamp lists a weight of 1.87 ounces, the lightest stated figure in this group. The head rotates 60 degrees and locks in place, there are 8 modes with a motion sensor, and a 3 second long press turns it off from any mode. It carries an IPX4 splash rating and is sold as a set of two.\n\nAgainst the BIAT, it is about half an ounce lighter and adds a locking tilt head. Compared with the two Energizer packs, it is rechargeable, so there are no spare cells to carry.\n\nIt suits backpackers, runners and car campers who want a known, very low weight on the forehead. The two-lamp set also covers a partner or a spare.",
     "specs": [
       "1.87 oz, 8 modes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l3WPyp8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4KJ3MWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4KJ3MWK?tag=rvgearlab-amz-20",
     "description": "The BIAT headlamp throws a 230 degree wide beam from a COB LED and adds a spotlight, with six modes in total. The soft silicone and elastic band weighs 2.47 ounces and the shell is rated IPX4. A motion sensor switches it on and off with a wave, and the listing says it works through gloves.\n\nIt is about half an ounce heavier than the LHKNL and throws a much wider flood for camp chores. Compared with the DanForce, it gives up brightness and a red light mode for a lower weight.\n\nIt suits campers who mostly light up a tent, a cooking area or a map rather than a far trail. The silicone band is soft against the forehead.",
     "specs": [
       "2.47 oz silicone and elastic band",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qcw4e1+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WC2VYMS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WC2VYMS?tag=rvgearlab-amz-20",
     "description": "The Energizer Universal set gives two headlamps with a red light mode, 100 lumens and a beam that reaches 40 meters. The lamps are IPX4 water resistant, survive a 1 meter drop and come with 4 batteries in the box. The listing describes them as lightweight and compact without printing a weight.\n\nThe lowest price on this list comes with the only set that includes cells in the pack. Against the Energizer PRO pack, it drops brightness from 260 lumens to 100 in return for the cheapest entry.\n\nIt suits families, kids and glove-box emergency kits where two simple lights matter more than rechargeability. The red mode keeps night vision intact at camp.",
     "specs": [
       "100 lumens, 40 meter beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvXVMkIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-amz-20",
     "description": "The Energizer PRO pack gives two 260 lumen headlamps with an 80 meter beam. Three modes cover high, spot and wide, dimming runs from 10 to 100 percent, and the housing is IPX4 water resistant.\n\nIt is brighter than the Energizer Universal and costs only a little more. Against the LHKNL, it is not rechargeable, which trades a USB cable for a pack of cells you can swap in the dark.\n\nIt suits campers who like the Energizer name and want a step up in output for walks to the bathroom or a night hike. The two lamps cover a partner.",
     "specs": [
       "260 lumens, 80 meter beam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wEsOW1M-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FLK7V3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FLK7V3H?tag=rvgearlab-amz-20",
     "description": "The DanForce Bold-S is a USB rechargeable headlamp with a Luminus LED rated at 1080 lumens, a red light and a zoomable beam. The aluminum body and adjustable headband are described as a lightweight fit for long use.\n\nIts listed output is far above every other lamp here, with the only zoom beam in the group. Compared with the LHKNL, it asks for more weight on the forehead in return for reach.\n\nIt suits night hikers and campers who want to see far and keep a red light for the tent. The aluminum shell reads as sturdier than plastic.",
     "specs": [
       "1080 lumens, Luminus LED",

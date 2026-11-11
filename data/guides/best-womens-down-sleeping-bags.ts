@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aurJ0qYNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPJKBWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPJKBWR?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 is a long-running backpacking staple filled with 550-fill compressible down and finished with recycled nylon and polyester fabrics and a PFAS-free water-repellent coating. At about $190, it is the lowest-priced bag here by a wide margin, and its listing prints useful numbers: an ISO limit rating of 21F, an ISO extreme rating of -11F, and a total weight near 2 lb 6 oz in the regular.\n\nNext to the Mountain Hardwear Bishop Pass above it in price, the Kelty gives up some fill power, since 550 fill is heavier and bulkier than 650, and it also costs about $145 less while coming in short, regular and long sizes that fit sleepers up to 5 ft 6 in, 6 ft and 6 ft 6 in. The dual-direction zippers let you vent at the feet, and the down is traceable through the Responsible Down Standard.\n\nIt suits a first-time down buyer, a backpacker who wants one bag for spring through fall, and anyone who wants a published ISO number to plan around.",
     "specs": [
       "550-fill RDS down, ISO limit 21F",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zd7E+r3CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSC2HD6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSC2HD6D?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Ascent is a women's 30F three-season bag with RDS-certified 750+ fill power goose down, a non-PFC Ultra-Dry Down treatment and a 20D recycled nylon shell and liner. At about $399, it is the most expensive bag here, and it earns that with details like vertical torso baffles in a box baffle construction that keep the down from migrating.\n\nCompared with the NEMO Disco just below it, the Ascent uses higher fill power, 750 versus 650, and a Free Flow Zip System that lets you unzip from different positions or open the whole bag flat to use as a quilt on warm nights. Against the Spark above, the Ascent carries a warmer 30F label and a heavier 20D fabric in place of the Spark's 10D shell. Shoulder snaps and a footbox zipper let you wear it around camp like a poncho.\n\nChoose it if you want a premium, adaptable bag for spring-to-fall trips, and if you value the narrow-shoulder, wide-hip women's cut with an anatomically shaped footbox.",
     "specs": [
       "750+ fill RDS goose down, 30F",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fTsqO7TfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3V37V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3V37V6?tag=rvgearlab-amz-20",
     "description": "The NEMO Disco is a women's 30F bag in NEMO's spoon shape, which widens the bag at the elbows and knees so a side sleeper can curl up without pulling the whole bag across their body. It is filled with 650-fill hydrophobic, PFAS-free, RDS-certified down, and the listing shows the Regular Wide size, priced around $300.\n\nCompared with the Sea to Summit Ascent above, the Disco uses lower fill power but swaps that for a roomier shape and an updated Thermo Gill vent system with a multistage zipper that lets you fine-tune how much warmth escapes. A Blanket Fold design adds an oversized draft collar that blocks cold air or can be released to dump heat. Versus the Mountain Hardwear Bishop Pass below it, the Disco is rated warmer-weather and favors comfort over cold-weather performance.\n\nIt is built for side sleepers, restless sleepers and anyone who has found a classic mummy claustrophobic, and for buyers who care that the maker takes responsibility for the product at end of life through its Endless Promise.",
     "specs": [
       "650 FP hydrophobic RDS down, 30F",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3159CtAOGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGWLXL9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGWLXL9J?tag=rvgearlab-amz-20",
     "description": "The Mountain Hardwear Bishop Pass is a women's down bag rated to 15F, aimed at the shoulder seasons when nights turn cold. It uses 650-fill down in a ripstop nylon face fabric that is described as highly abrasion resistant, and it adds a two-way zipper with a draft guard that traps heat and blocks cold air. It costs about $335.\n\nAgainst the Kelty Cosmic 20, the Bishop Pass offers higher fill power and a colder 15F label, at a higher cost, which means a lighter and smaller pack for the temperature. Compared with the Big Agnes Daisy Mae below it, it carries a milder rating that suits more trips, so it is less likely to be overkill on a cool but not freezing night. The abrasion-resistant face fabric stands up better to scraping against tent floors and pack straps than a feather-light shell.\n\nIt makes sense for fall hunters, early-spring backpackers and campers who want a single compact bag for nights down to the teens.",
     "specs": [
       "650-fill down, 15F rating",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31obf89kyyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MDHLJ3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MDHLJ3W?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Daisy Mae is a women's-specific sleeping bag rated to 0 degrees, filled with 650 DownTek, Big Agnes's treated down. It is sold in the Regular size with a right-side zipper, at about $320, and it is the coldest-rated bag in this comparison, which makes it the one built for winter rather than the shoulder seasons.\n\nCompared with the Mountain Hardwear Bishop Pass above it in the ranking, the Daisy Mae pushes the rating 15 degrees colder, so it gives a larger warmth buffer for a cold sleeper in deep winter, where the Bishop Pass is a lighter shoulder-season choice. Against the 45F Sea to Summit Spark, it is the opposite end of the temperature spectrum entirely, a bag for snow camping and cold cabins rather than summer ultralight trips.\n\nIt fits women who sleep cold, winter campers and anyone who prefers a single bag for the coldest nights of the year. Confirm the size chart and zipper side against your height and sleeping position before ordering.",
     "specs": [
       "650 DownTek insulation, 0 degree",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31faXhlIH-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTD8927W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTD8927W?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Spark Women's is a 45F ultralight bag filled with 850+ fill power RDS-certified down treated with Ultra-Dry Down, wrapped in a 10D nylon shell and liner. It carries a broad mummy shape with hood and zipper draft tubes and costs about $349, and its women's design uses a shorter length, narrower shoulders and wider hips, with down chambers mapped to a woman's physiology.\n\nCompared with the Sea to Summit Ascent above it, the Spark chases weight, using sewn-through construction in place of box baffles and a 10D fabric in place of 20D, which is why it is a 45F bag, not a 30F one. Against the Kelty Cosmic 20 below, it is a different tool: lighter and far more compressible, with the highest fill power in the list, but designed only for warm nights.\n\nIt is for summer backpackers, bikepackers, touring cyclists and hut users who want the smallest possible bag, and who care about the lifetime Sea to Summit Guarantee.",
     "specs": [
       "850+ fill RDS Ultra-Dry down, 45F",

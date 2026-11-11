@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c89D14U1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBX1WPJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBX1WPJP?tag=rvgearlab-amz-20",
     "description": "The BougeRV pairs a 20,000mAh pack with a 9-inch fan and seven aerodynamic blades that the listing puts at up to 12 mph or more. It lists over 33 hours on low, a 5-hour recharge on an 18W QC adapter, USB-C and USB-A ports for charging devices, and app control up to 49 ft.\n\nIt has the largest blade diameter among the 20,000mAh fans and the quickest named recharge, which separates it from the 7-inch BINUYASHA. Compared with the OGERY it drops the stand and adds app control with 1, 2, 4, 6 and 8 hour timers.\n\nIt suits car and tent campers who want strong airflow on a hot night plus a way to top up a phone. Four speed levels span a gentle breeze to a strong gust.",
     "specs": [
       "20,000mAh, 9-inch, 7 blades",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516pxWU7VPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQM8HHD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQM8HHD8?tag=rvgearlab-amz-20",
     "description": "The OGERY adds a telescoping stand that extends to 3.7 ft, turning it into a floor or desk fan. It lists up to 5.0 m/s airflow, 200 hours on low and 17 hours on high, 30, 60, 90 and 120 degree oscillation and 270 degree tilt, plus a remote, LED light and sleep mode.\n\nIt is the priciest 20,000mAh fan here and the only one with a height-adjustable stand. Against the BougeRV it lists a much longer low-speed runtime and runs while it charges, with a charge time of about 7.5 hours.\n\nIt suits campers who want a free-standing fan beside a cot or table. The stepless speed control gives a fine range from a breeze to a gust.",
     "specs": [
       "20,000mAh, 3.7 ft stand",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51I8zjS8egL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVB44KFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVB44KFC?tag=rvgearlab-amz-20",
     "description": "The BINUYASHA lists a UL-certified 20,000mAh polymer battery with 16 to 50 hours of runtime and overcharge and over-discharge protection. It has a 7-inch brushless motor with 5 blades at up to 5.1 m/s, 8 stepless speeds, 18 LEDs and a remote with a 16 ft range.\n\nIt sits below the BougeRV on blade size and above the Givryes on controls, with an 8-speed stepless dial. It lists a splash-resistant housing and a 12-month warranty.\n\nIt suits campers sleeping near a fan who want a quiet motor and fine speed control. The sleep mode turns off lights and sounds for nighttime.",
     "specs": [
       "20,000mAh UL-certified battery",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u0Z5iNKwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMMX35W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMMX35W?tag=rvgearlab-amz-20",
     "description": "The Givryes lists a non-detachable 20,000mAh battery with a digital display, 4 wind speeds and 14 to 60 hours of runtime. It adds a 360 degree rotating hook, a brushless motor, 3 LED brightness levels and 45 or 90 degree auto oscillation.\n\nIt is a step simpler than the BINUYASHA, with fewer speeds and no named battery certification, and it is the cheapest of the 20,000mAh fans. Compared with the BougeRV it has a smaller body and lighter feature set.\n\nIt suits campers who want a straightforward hanging fan with a battery readout. The hook swivels to hang from a tent ceiling, tree branch or RV rack.",
     "specs": [
       "20,000mAh, digital display",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+1NEupCeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6MGJLRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6MGJLRG?tag=rvgearlab-amz-20",
     "description": "The Garvee steps up to a 40,000mAh pack with up to 70 hours on the lowest speed, 5 speeds, a 20 ft remote and an auto-off timer at 1, 2, 4, 6 or 8 hours. It has dual-color LED lighting at 3 brightness levels, 90 degree auto swivel with a 45 degree option and 270 degree tilt.\n\nIt carries double the pack of the four 20,000mAh fans and is the only one with a long 20 ft remote and a sleep mode that shuts off lights at once. A rubber base keeps it steady on a table.\n\nIt suits campers who run several nights without a recharge and like to control the fan from a sleeping bag. The ABS body is described as resistant to drops and daily wear.",
     "specs": [
       "40,000mAh, 70 hours low",

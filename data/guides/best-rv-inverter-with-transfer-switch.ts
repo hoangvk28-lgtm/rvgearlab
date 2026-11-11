@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BlRic066L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL5KRBHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL5KRBHL?tag=rvgearlab-amz-20",
     "description": "Renogy's 3000W PUH inverter is our top transfer-switch pick for its mix of power, efficiency, and monitoring. Its on-grid transfer switch moves loads between shore AC and battery DC automatically, it runs above 92 percent efficiency with under 18W idle consumption, includes built-in Bluetooth and a wired remote switch, and its fans stay under 51dB.\n\nAgainst the AIMS 2000W ranked next, Renogy offers more inverter output and app monitoring but does not include a battery charger, so you keep your existing converter. AIMS combines inverter, charger, and switch, which suits rigs replacing a converter. Against the LiTime 2000W below, the Renogy adds 1000W and Bluetooth.\n\nThis suits owners with a working lithium-ready converter who want to add 3000W AC and seamless switching. The caveat is that charging is not included, so pair it with a lithium-capable converter.",
     "specs": [
       "3000W pure sine, >92% efficient",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LLGgCCYeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00I36K1VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00I36K1VQ?tag=rvgearlab-amz-20",
     "description": "AIMS combines an inverter, 70 amp battery charger, and automatic transfer switch in one low-frequency unit. It delivers 2000W continuous with a 6000W surge for up to 20 seconds, supports gel, AGM, lead-acid, and LiFePO4 with selectable battery type, and includes a lithium wake-up feature for over-discharged batteries.\n\nIt ranks second because it costs more than the Renogy while offering less inverter output, but it replaces your converter, inverter, and transfer switch in one box. Its heavy transformer design handles motor loads and compressor starts better than high-frequency units like the 2500W ATS unit below.\n\nPick it if you are replacing an old converter and want one integrated system. The caveat is weight and price for a 2000W rating.",
     "specs": [
       "2000W, 6000W surge for 20 sec",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kCiVxQA5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV2J9WGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV2J9WGS?tag=rvgearlab-amz-20",
     "description": "The LiTime 2000W is a value pick with a clear spec sheet. Its built-in ATS with utility bypass switches between grid and battery within 20ms, it makes 2000W continuous with 4000W peak, uses dual cooling fans rated for minus 20 to 40 degrees C, and ships with battery cables, mounting hardware, and a display screen.\n\nAgainst the Renogy at the top, it gives up 1000W and Bluetooth but costs about $170 less. Against the 2500W ATS unit below, it has a documented operating temperature range and a recognized brand with product liability coverage.\n\nThis suits owners who want a reliable, clearly documented transfer switch inverter on a budget. The caveat is 2000W output, which limits running large loads together.",
     "specs": [
       "2000W / 4000W peak",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cnDn+zwSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMVGNW95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMVGNW95?tag=rvgearlab-amz-20",
     "description": "This 2500W unit is built around RV panel integration. Its integrated ATS switches between shore power and battery automatically, and a hardwired 3-wire AC input terminal block (live, neutral, ground) lets you wire it securely into an RV breaker panel. It outputs 2500W continuous and 5000W peak and supports lithium, AGM, and lead-acid batteries.\n\nIt ranks below LiTime because the brand is less established and the switch time is not quoted. Its edge is the hardwired input terminal, which the cheaper 1500W pick lacks, and 500W more output than the LiTime.\n\nPick it if you want to feed a dedicated inverter subpanel. The caveat is a 12-month support term and an unstated switch time.",
     "specs": [
       "2500W / 5000W peak",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sXPZcTZzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJK5S2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJK5S2Y?tag=rvgearlab-amz-20",
     "description": "The cheapest pick here still includes a built-in automatic transfer switch rated at about 12ms. It makes 1500W continuous and 3000W peak, ships with a 15 foot wired LCD remote showing input voltage, output, power use, and faults, and includes a pair of 16 square millimeter (about 5 AWG) battery cables.\n\nAt 1500W it is limited to smaller loads like a TV, laptop, CPAP, or small fridge, below every other pick. Its 12ms switch time is the fastest quoted in this list, faster than LiTime's 20ms.\n\nThis suits small trailers that only need a few outlets on battery. The caveat is that a microwave or hair dryer will exceed its output.",
     "specs": [
       "1500W / 3000W peak",

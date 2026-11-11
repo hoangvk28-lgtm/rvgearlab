@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dzFR83SkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000NJ6F34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000NJ6F34?tag=rvgearlab-amz-20",
     "description": "The Thetford Premium RV Bug Bust is a 32 oz cleaner for sun-baked bugs on RVs, boats and cars. It is safe on gel coats, fiberglass, decals and painted aluminum and will not discolor seals around windows.\n\nIt is the only pick that names window seals and decals, which matters on an RV front cap. The nontoxic, biodegradable alkaline detergent is non-flammable.\n\nIt suits owners with fiberglass fronts and graphics. It is the one made for RV materials.",
     "specs": [
       "32 oz RV bug cleaner",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jhl0G+paL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL9JYRTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL9JYRTG?tag=rvgearlab-amz-20",
     "description": "Sea Foam Bugs B Gone comes as a pack of three 16 oz spray bottles. It is a water-activated formula for dried bugs, soot and crud on paint, glass, chrome and plastic.\n\nThe three bottles give more volume than the single-bottle picks, and it is listed as free of harsh chemicals and odors. It is also usable as a pre-soak.\n\nIt suits owners who keep a bottle in the rig and one at home. Safe on windshields.",
     "specs": [
       "Three 16 oz bottles",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qkj4uOleL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077YW4VB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077YW4VB3?tag=rvgearlab-amz-20",
     "description": "The ZORBX Black Streak and Bug Remover is a 24 oz extra-strength spray for insect residue and stains on RV and car exteriors. It is listed for glass, metal, plastic, rubber and fiberglass.\n\nIt tackles black streaks as well as bugs, which the Chemical Guys does not list. A citrus scent and odor remover add a freshening feature.\n\nIt suits owners with streaked sidewalls and a buggy front. It is a two-in-one cleaner.",
     "specs": [
       "24 oz extra-strength spray",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z8TUi0-oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003Y9N2E0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003Y9N2E0?tag=rvgearlab-amz-20",
     "description": "The Chemical Guys Bug and Tar Remover is a 16 oz pre-wash that can be added to a wash bucket or foam cannon. It lists safe use on paint, glass, chrome, plastic, grilles and headlights.\n\nIt also removes tar and sap, and it rinses without streaking. It is the best fit among the picks for a routine foam wash.\n\nIt suits detailers who already use a foam cannon. Use it before a full wash to reduce swirls.",
     "specs": [
       "16 oz pre-wash",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416ZEIJzrjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004BFZRCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004BFZRCQ?tag=rvgearlab-amz-20",
     "description": "The 3D Bug Remover is an all-purpose cleaner and degreaser for bugs, insects and tree sap. It lists plastic, rubber, metal, chrome, aluminum, windows and mirrors.\n\nIt works as a spray and rinse with no scrubbing. It is suitable for paint, wax and clear coats.\n\nIt suits owners who want one product across many surfaces. It is also usable inside.",
     "specs": [
       "Bug and tar degreaser",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nEx+J6nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YJJ8Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YJJ8Z?tag=rvgearlab-amz-20",
     "description": "ProSol Works Bug Splat N' All is a 32 oz RV roof cleaner that targets bug splatter, black streaks, water spots and tree sap. It lists plastic, fiberglass, aluminum and rubber roofs.\n\nIt also conditions the surface, and it is the lowest priced option. Its family-friendly formula is non-toxic.\n\nIt works for owners who clean roof and exterior in one routine. Work one section at a time with a brush.",
     "specs": [
       "32 oz roof cleaner",

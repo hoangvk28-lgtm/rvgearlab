@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-amz-20",
     "description": "Suburban SW6D is a 6 gallon propane water heater with direct spark ignition, a porcelain-lined steel tank and a replaceable anode rod. The listing says an optional electric element adds campsite power use.\n\nAgainst FOGATTI InstaShower 7, it stores hot water instead of heating on demand. Against Ranein 65K, it needs no 12 volt controls for a fan.\n\nIt is the best match for owners who want a proven Suburban tank. Think of it as the pick for standard tank replacement.",
     "specs": [
       "6 gallon propane, DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vwida+QtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 7 is a 48,000 BTU propane tankless heater with a stated 2.5 GPM. The listing says it is CSA certified with forced exhaust, auto shutoff and freeze protection, with a high-altitude mode to 9,800 feet.\n\nAgainst Ranein 65K, it has a lower burner and a lower price. Against Suburban SW6D, it heats on demand.\n\nIt suits families who want tankless without the largest burner. Buyers focused on mid-size households will find it a sensible match.",
     "specs": [
       "48,000 BTU propane tankless",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UTi9wwvSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-amz-20",
     "description": "Ranein RA65EH is a 65,000 BTU propane tankless heater with a stated 3.9 GPM and CSA wording. The listing says it replaces most Suburban and Atwood 6, 10 and 12 gallon heaters in a 12.8 inch opening and has a remote showing gas use, voltage and flow.\n\nAgainst FOGATTI InstaShower 7, it has far more burner. Against Suburban SW6D, it heats on demand.\n\nIt suits big households and long showers. It earns its slot for large households.",
     "specs": [
       "65,000 BTU, 3.9 GPM stated",

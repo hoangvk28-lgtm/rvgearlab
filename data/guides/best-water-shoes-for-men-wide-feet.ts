@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Kai4zXdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMK6GWHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMK6GWHP?tag=rvgearlab-amz-20",
     "description": "The TRAILBLITZ is a lace-up water shoe sold with a wide size option, as the listing title shows with its 10.5 Wide. It has an upgraded drainage-hole mesh upper, a slip-resistant outsole, toe protection, a thick sole and a lace lock.\n\nIt is the only pick here sold in an actual wide width, which gives it a more reliable fit than the toe-box-only ITLXJR Wide Fit or the adjustable Racqua Toggle. The lace lock and thick sole give more protection than the Scurtain Barefoot.\n\nIt suits a man with a wide forefoot who hikes streams and fishes from rocky banks. The lace lock holds a swollen foot without losing the fit.",
     "specs": [
       "Wide size option",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PkqSfTxJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G258W6K7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G258W6K7?tag=rvgearlab-amz-20",
     "description": "The Scurtain is a barefoot-style slip-on with an extra wide toe box, a soft knitted upper and adjustable straps. The sole is a minimalist zero-drop rubber outsole, and a removable honeycomb insole is meant to reduce sweat and odor.\n\nExtra wide toe space is its main selling point, and it gives more room than the ITLXJR Wide Fit or the DOUSSPRT Mesh. The adjustable straps let you tune the fit more than the plain slip-on ITLXJR.\n\nIt works for a man whose forefoot spreads and who likes a minimalist feel on the shore or around the deck. The removable insole also makes it a comfortable everyday shoe.",
     "specs": [
       "Extra wide toe box",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DxbKuEQHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGHMCQL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGHMCQL6?tag=rvgearlab-amz-20",
     "description": "The ITLXJR is a barefoot aqua sock sold as a wide fit with a wide toe box for natural toe spread. An anti-slip sole pattern, quick-dry breathable material and a flexible slip-on design that packs flat are listed.\n\nIt is one of the two cheapest pairs here and still names a wide fit, which makes it better value than the TRAILBLITZ Wide Lace-Up for casual use. It lacks the straps of the Scurtain Barefoot, so the fit is fixed.\n\nIt suits a man with wide feet who wants a low-cost spare for the beach or a trip. The flat-packing design saves space.",
     "specs": [
       "Wide fit, wide toe box",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WckA-PM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C54V8H5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C54V8H5P?tag=rvgearlab-amz-20",
     "description": "The BUWTDAY is a barefoot water shoe with a hook-and-loop closure, a lace-free design, a heel pull tab, a soft padded insole and a non-slip rubber sole. Several drainage holes in each sole let water flow out.\n\nThe hook-and-loop strap opens wider than a plain slip-on, which makes it the top adjustable pick for a wider foot when no wide size is on offer. It has more cushion than the ITLXJR Wide Fit and the Racqua Toggle.\n\nIt suits a man who needs room across the instep and forefoot and likes quick changes at the water's edge. The pull tab helps with wet feet.",
     "specs": [
       "Hook-and-loop, heel pull tab",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmXYB471L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VB6S2RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VB6S2RZ?tag=rvgearlab-amz-20",
     "description": "The DOUSSPRT is a men's water shoe with a breathable, durable air mesh upper, open mesh and holes in the sole. The listing names beach, pool, fishing and boating as uses.\n\nOpen mesh gives more airflow than the TRAILBLITZ Wide Lace-Up and a bit more give than the Racqua Toggle. It costs a good deal less than the TRAILBLITZ.\n\nIt is aimed at a man who runs warm and wants a ventilated shoe for beach and boat days. The mesh stretches to some degree around a wide foot.",
     "specs": [
       "Air mesh upper",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r18l5ykAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMDWHQVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMDWHQVM?tag=rvgearlab-amz-20",
     "description": "The Racqua Toggle is a lightweight quick-dry mesh water shoe with a toggle fastening, a robust slip-resistant, abrasion-resistant sole and a curved front for toe protection. It folds to pack into a backpack.\n\nThe toggle fastening opens the shoe more than the plain slip-on ITLXJR Wide Fit, and it costs the least in this group. It has a thinner build than the BUWTDAY Hook-and-Loop.\n\nIt suits a man who wants a cheap, foldable shoe he can loosen at the toggle for a wider foot. It rides easily in a travel bag.",
     "specs": [
       "Toggle fastening, quick-dry mesh",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51e4wu9CllL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NPVMGXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NPVMGXP?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal Black 4 inch by 50 foot roll relies on a 35 mil layer of MicroSealant with an aluminum backing that holds up under UV. According to the page, nothing else is required to seal it, and it works on metal buildings, trailer roofs, drain pipes and boats.\n\nAgainst the white butyl tapes, it brings the brand-name system and a one-step repair. The black backing suits metal roofs more than white rubber ones.\n\nIt fits owners who want the original product for permanent seams. In 4 inch eternabond tape for rv roof, permanent seams is its lane.\n\nA 4 inch band is wide enough to bridge a vent flange edge and still land well beyond the screw line on both sides, and the 35 mil MicroSealant layer is thick enough to flow into the small gaps along a seam. The aluminum backing carries the UV protection, so the roll goes on as a finished repair with no topcoat. On a dark metal roof or trim edge, the black finish simply disappears into the surface.",
     "specs": [
       "4 in x 50 ft black",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nSMSW60dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMHT3KBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMHT3KBS?tag=rvgearlab-amz-20",
     "description": "The MOGOFE Yellow Titan 4 inch by 50 foot white tape is described as professional butyl RV roof repair tape. It resists rain, snow and wind and applies to flat, curved or corner surfaces with a clean, cut, peel, lay, press process.\n\nIt suits roofs, windows and doors, which widens its use. It costs far less than EternaBond.\n\nIt fits owners who want white butyl for varied surfaces. With 4 inch eternabond tape for rv roof, mixed surfaces fits it best.\n\nThe clean, cut, peel, lay and press routine is short enough that a first-time DIYer can finish a window or door seam in one pass. Because the butyl backing conforms to flat runs, curved corners and sharp bends, a single roll covers a whole run of mixed shapes around a camper. White finish keeps the patch looking consistent against a light fiberglass or rubber roof.",
     "specs": [
       "4 in x 50 ft white",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fnlAUJ7AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099S2QJ4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099S2QJ4D?tag=rvgearlab-amz-20",
     "description": "The PAULINN 4 inch by 50 foot tape uses natural rubber, with a surface that primes itself and a protective silicone coating. It lists UV resistance and use in any temperature.\n\nIts natural pure white color is close to the roof color, unlike an asphalt look. It costs more than Kohree and Welluck.\n\nIt fits owners who care about a clean white finish on visible seams. Under 4 inch eternabond tape for rv roof, expect visible white seams to suit it.\n\nA natural rubber body with a self-priming surface bites into slightly rough, aged roof material without a separate primer coat. The silicone UV coating on the exposed face guards the tape against sun, which matters on a roof that bakes all summer. Its natural white shade sits close to most roofs, giving visible seams a cleaner look than an asphalt-colored band.",
     "specs": [
       "Natural rubber, 4 in x 50 ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ClRlepZzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JM1652N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JM1652N?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 4 inch by 50 foot tape creates a waterproof airtight barrier with no additional sealing required. Its listing says it has no binders or fillers and its white finish helps reflect sunlight.\n\nIt is among the lowest priced in this list. It installs by cleaning, cutting, peeling and pressing.\n\nIt fits owners who want a white tape at a low price. On 4 inch eternabond tape for rv roof, budget white seams is where it fits.\n\nA pure butyl build without binders or fillers lays down as a uniform, soft ribbon, and the white face reflects some sunlight instead of soaking it up. Needing no additional sealing, the roll is a one-pass fix for a hairline split or a lifted seam. At $21.95 for 50 feet, it is a practical way to cover several small spots on one afternoon.",
     "specs": [
       "4 in x 50 ft white",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AukqlGKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-amz-20",
     "description": "The Kohree 4 inch by 50 foot butyl tape is a white roll, UV resistant and made for RV roofs, windows and doors. It is described as super sticky and flexible with a self-priming seal.\n\nIt is the lowest-priced roll in this list. It uses premium butyl for long life.\n\nIt fits owners who want simple, cheap coverage. With 4 inch eternabond tape for rv roof, cheapest 4 inch fits it best.\n\nQuality butyl gives this Kohree roll a sticky, forgiving feel that follows the bends around a vent base or a curved roof edge. The self-priming seal grips on contact, and the white UV-resistant face suits roofs, windows and doors alike. At $22.09 for 50 feet, it works as a go-to spare roll for the camper storage bay, ready for the next surprise leak.",
     "specs": [
       "Butyl, 4 in x 50 ft",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KfYwqr-xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2VYSGJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2VYSGJW?tag=rvgearlab-amz-20",
     "description": "The CHUANGSEED white tape is titled 4 inch by 50 feet and uses PDA film with butyl rubber. It is waterproof, moisture and air tight, and resists UV and chemicals.\n\nIts bullet text mentions a 6 inch width, so the listing mixes sizes. It is priced close to Kohree.\n\nIt fits owners comfortable confirming the width before ordering. In 4 inch eternabond tape for rv roof, budget buyers who verify size is its lane.\n\nButyl rubber bonded to PDA film gives this roll a waterproof, airtight layer that also resists UV and chemicals, so sun, cleaning products and road grime all fall within what it handles. One purchase covers several flanges and a few feet of seam, thanks to the long 50 foot white roll. At $21.75 it is among the most affordable ways to stock up on roof tape.",
     "specs": [
       "PDA film with butyl",

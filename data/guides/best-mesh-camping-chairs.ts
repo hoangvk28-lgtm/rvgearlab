@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PretQm9xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTNVJ5TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTNVJ5TK?tag=rvgearlab-amz-20",
     "description": "The CAMPHILL 2-Pack gives two oversized chairs with a breathable mesh back, a cup holder, a side pocket and a carry bag. The wide design and robust frame are listed as stable without wobbling.\n\nIt is the pick for families, since the Alvantor and Kijaro are single chairs. Compared with the Matrasco-style pairs, its mesh back is the central feature. It suits couples and families who want two matching mesh chairs at one price.",
     "specs": [
       "2 chairs included",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EsQ+sKfrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G58HYN25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G58HYN25?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED Recliner uses stretch mesh and a 70 cm high back that adjusts from 90 to 120 degrees in four positions. It supports 350 lbs and folds to 38.2 by 8.7 by 8.7 inches at 11.88 lbs.\n\nWhere the CAMPHILL 2-Pack is a fixed back, this chair reclines and adds firm armrests that help you stand. It also has a cup holder. It suits campers who want to lean back and rest in warm weather.",
     "specs": [
       "90 to 120 degree recline",
@@ -86,7 +86,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ohv+Ec20L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9KJR54T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9KJR54T?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED Director is a director's chair with breathable Textilene fabric, a metal frame rated for 400 lbs and an attached side table. The table holds cups, a phone and small items, and the chair folds to about 19.75 by 19.75 by 6 inches.\n\nCompared with the EVER ADVANCED Recliner, it trades recline for a flatter folded size and a table. It has the highest rating in this group. It suits campers who eat or play cards at the chair and want a compact fold.",
     "specs": [
       "400 lb capacity",
@@ -116,7 +116,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arAW3JReL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL2126YN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL2126YN?tag=rvgearlab-amz-20",
     "description": "The Alvantor Full Mesh uses Textilene fabric across a high backrest, with a frame described as rock-solid and a smooth setup. It is a lawn and beach style chair that carries easily.\n\nAgainst the Kijaro, it has a taller back, and against the EVER ADVANCED Recliner it costs a little less. It suits campers and beach visitors who want an all-weather mesh seat.",
     "specs": [
       "Full Textilene mesh",
@@ -146,7 +146,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yygkLzmOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082LZNWJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082LZNWJN?tag=rvgearlab-amz-20",
     "description": "The Kijaro Vik locks open for extra stability, uses no-sag diamond ripstop polyester with mesh and rates up to 300 lbs. The steel frame suits tailgating and camp use.\n\nNext to the Alvantor, it offers a locking frame that holds the seat open when you stand. Its 300 lb rating is the lowest here. It suits lighter campers and tailgaters who want a steady chair.",
     "specs": [
       "Locks open for stability",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yLVdD9T3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHJJN1K5?tag=rvgearlab-amz-20",
     "description": "The Buknuwo is a 12.8V 100Ah lithium iron phosphate battery that weighs about 22 pounds, which its listing puts at roughly two thirds lighter than a comparable lead-acid unit. It has a 100A battery management system, grade A cells, an ABS case described as dustproof and weather-resistant, and Bluetooth 5.0 with an app for iOS and Android, a feature that most batteries at this price skip. It can be wired in series or parallel for larger banks.\n\nIt takes the top spot because it is the cheapest battery here at $142.99 and still includes an app, so it beats the yeagulch Group 31 by $2.30 while adding monitoring. Against the Super Empower Group 24 it costs $37 less but gives up a stated cold-weather charging rule. Against the two AGM batteries it costs about the same to buy and, at an estimated 80 percent usable lithium capacity, works out near $140 per usable kilowatt-hour versus roughly $283 to $292 for AGM at 50 percent.\n\nPick this if you want lithium for the least money and like seeing charge level on your phone. The caveat is that the listing gives no exact low-temperature cutoff, so if the battery rides in an unheated bay, confirm the freezing behavior with the seller first.",
     "specs": [
       "12.8V 100Ah, 100A BMS",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D-MVVOU-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRNSM3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRNSM3G?tag=rvgearlab-amz-20",
     "description": "The yeagulch is a 12.8V 100Ah LiFePO4 battery rated at 1,280Wh in a BCI Group 31 case, the larger footprint many travel trailers use for their house batteries. The listing claims a lifespan up to 10 years and more than 4,000 cycles at 100 percent depth of discharge, a flat discharge curve that keeps about 95 percent of capacity available even at a 100A draw, and a weight of 21.6 pounds. Up to four units can be wired in series for 48V or in parallel for capacity.\n\nIt ranks second because it costs $2.30 more than the Buknuwo but drops the app, and it is $34.70 cheaper than the Super Empower. What it offers in return is the Group 31 fit, which matters if your tray was built for a bigger lead-acid battery, plus an explicit 4,000-cycle claim at full depth of discharge. Compared with the Weize AGM, it delivers about double the usable energy for a similar price.\n\nChoose it when your battery tray is a Group 31 size and you want straightforward lithium. The caveat is that the seller warns not to use it as a car, starting or golf cart battery, so it is strictly a house battery.",
     "specs": [
       "1,280Wh, BCI Group 31",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6WGt3HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-amz-20",
     "description": "The Super Empower is a 12.8V 100Ah lithium battery built to BCI Group 24 dimensions, 6.49 by 10.24 by 8.98 inches, and 21.6 pounds, with M8 terminals. Its listing is unusually specific about cold behavior: charging pauses below 32°F, discharge stops at minus 4°F, and charging resumes above 41°F. It also gives charger settings, a 14.4 to 14.6 volt constant-current constant-voltage profile, and notes MPPT or PWM solar controllers can be set to a lithium profile.\n\nIt sits third because it is $34.70 more than the yeagulch and $37 more than the Buknuwo, and it has no app. What that money buys is documentation: you know exactly when it will stop charging and when it will restart, and it fits the smaller Group 24 tray found in many pop-ups and small trailers. Compared with the Litime Xtra Mini it is $139.60 cheaper but about 29 percent larger by volume.\n\nPick it if the battery lives in a bay that can dip below freezing and you want the cutoff points in writing. The caveat is that the 41°F restart threshold means charging can lag on a cold morning even after the air warms above 32°F.",
     "specs": [
       "Group 24, 21.6 lb",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WoL4kf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3XP375R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3XP375R?tag=rvgearlab-amz-20",
     "description": "The Litime Xtra Mini measures 9.02 by 5.43 by 8.62 inches and weighs 19.13 pounds with handles, making it the smallest and lightest 100Ah battery here. The listing adds Bluetooth 5.0 through the Litime app, a 100A battery management system with more than 20 safeguards, low-temperature protection that pauses charging below 32°F, a claim of 4,000 plus deep cycles and support for up to 4P4S expansion.\n\nIt ranks fourth only on price: at $319.59 it costs $176.60 more than the Buknuwo and $139.60 more than the Super Empower for the same 1,280Wh. The extra money buys compactness, about 29 percent less volume than the Group 24 Super Empower by our arithmetic, plus a known brand and app. That makes it the only pick that makes sense when space, not dollars, is the constraint.\n\nChoose it for van-style installs, under-seat boxes or any bay too small for a Group 24 battery. The caveat is cost: at about $312 per usable kilowatt-hour on our 80 percent estimate, it is the most expensive way here to buy energy.",
     "specs": [
       "9.02 x 5.43 x 8.62 in",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy AGM is a sealed 12V 100Ah absorbent glass mat lead-acid battery that needs no watering. Its listing cites an upgraded electrolyte formula that discharges between minus 4 and 140°F, a 1,100A maximum discharge for 5 seconds, series connection with no stated limit and parallel connection of up to four batteries.\n\nIt ranks fifth because lead-acid math is unkind. At $174.99 it costs $5 more than the Weize AGM and $29.70 more than the yeagulch lithium, yet if you keep to 50 percent depth of discharge to protect its life, you only get about 600Wh, against roughly 1,024Wh from the 80 percent lithium estimate. That works out near $292 per usable kilowatt-hour. In exchange it tolerates cold discharge better than most lithium and needs no special charge profile.\n\nPick it for a seldom-used rig, a short weekend setup or a low-budget fix where your existing converter only has a lead-acid profile. The caveat is weight: the listing excerpt does not state it, but a 100Ah AGM is much heavier than the 19 to 22 pounds of the lithium picks.",
     "specs": [
       "12V 100Ah sealed AGM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize is a 12V 100Ah sealed lead-acid AGM battery measuring 12.99 by 6.73 by 8.43 inches. The listing states a 1,150A maximum discharge, a self-discharge rate of 1 to 3 percent per month, charging between 14 and 122°F, discharging between 5 and 122°F and a one-year warranty. It reminds buyers to store it charged, and says Amazon does not handle battery returns, so warranty claims go through the seller.\n\nIt is last but is the cheapest AGM at $169.99, $5 less than the Renogy. Against the Renogy it has a narrower stated discharge range, 5°F instead of minus 4°F at the cold end, and a short one-year warranty. Against the lithium picks it costs $27 more than the Buknuwo to deliver, by our 50 percent estimate, about 600 usable watt-hours instead of about 1,024.\n\nThis is for a low-use backup bank or a first-time buyer who wants the simplest replacement. The caveat is that cold charging is allowed only above 14°F and the short warranty puts more risk on you than the lithium picks that list multi-year protection.",
     "specs": [
       "12V 100Ah sealed AGM",

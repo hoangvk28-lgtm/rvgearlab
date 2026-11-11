@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XhoGJXNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVVQQ6S8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVVQQ6S8?tag=rvgearlab-amz-20",
     "description": "The DMH Outdoors 6-person tent has a (9+5) by 10 foot floor, with a 9 by 10 foot room and a 5 foot screened porch, and a 78 inch center height. It lists a mesh door, 3 mesh windows, a mesh top, a rainfly, taped seams and a tent skirt.\n\nIt costs less than the CORE with Screen Room and shares the DMH 10's layout at a smaller size. The listing says two people can pitch it in about 15 minutes.\n\nIt suits a family of four to six who want a screened sitting area at a modest price. An E-Port opening lets a cord reach inside.",
     "specs": [
       "(9+5) x 10 ft floor, 78 inch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410ojzn0Z+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBFW4D5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBFW4D5?tag=rvgearlab-amz-20",
     "description": "The CORE 6-person cabin tent measures 10 by 9 feet with a 72 inch center height and a screen room. The listing says it fits two queen air beds and comfortably holds 3 people with gear or up to 6 without.\n\nIts weather kit is H2O Block fabric at 1200mm with a taped rainfly, guylines, steel stakes and a gear loft. Against the DMH 6 it states capacity with and without gear, and it costs more.\n\nIt suits a family that values the stated capacity guide. Its loft holds small gear overhead.",
     "specs": [
       "10 x 9 ft, 72 inch center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vj8P6TqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-amz-20",
     "description": "The DMH Outdoors 10-person tent has a (10+7) by 14 foot floor and a towering 84 inch center height, with a screened porch. It lists a mesh door, 3 mesh windows, 3 mesh tops, a rainfly, taped seams and a tent skirt.\n\nIt is the biggest of the three and adds 2 mesh pockets, a tablet pocket and an overhead mesh loft. Against the 6-person DMH it has a bigger porch and more headroom.\n\nIt suits a large family or a group of friends who want a screen room big enough for a table. The E-Port lets power in from outside.",
     "specs": [
       "(10+7) x 14 ft, 84 inch center",

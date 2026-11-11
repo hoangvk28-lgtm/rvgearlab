@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NXvFZ0qBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4ZR418N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4ZR418N?tag=rvgearlab-amz-20",
     "description": "The ALEADER Duck Boot has a textured EVA outsole described as slip-resistant on icy, snowy ground, with seam-sealed waterproof construction, microfleece lining and a lace-up closure with a buckle-strap collar. The listing gives an insulation rating of -26 degrees Celsius.\n\nEVA is lighter than the rubber on the Padphri Fur Boot, and the textured pattern is called out directly for icy ground, which the Ecetana Slip-On and SHIBEVER Hook-and-Loop leave general. Seam sealing and buckle straps make it the most complete cold-weather build here.\n\nPick it for icy commutes where grip and warmth both matter. It also dresses up well for work.",
     "specs": [
       "Textured EVA slip-resistant sole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CGsy5rSHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6JF12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6JF12?tag=rvgearlab-amz-20",
     "description": "The Padphri Fur Boot has a wear-resistant rubber sole with a unique anti-slip texture design, a waterproof leather and technology upper, and a fluffy fur lining and insole. The listing calls it feather-light and flexible, with grip on smooth, wet or muddy surfaces.\n\nRubber with a deliberate texture gives it a clearer sole story than the generic wear-resistant base of the Ecetana Slip-On, and the grip is named for wet and muddy ground as well as snow. It costs less than the ALEADER Duck.\n\nChoose it for wet, muddy winter walks and slushy sidewalks where plain soles slide. The lightweight build keeps legs fresh.",
     "specs": [
       "Rubber sole, anti-slip texture",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vRl1DaRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGVPFJB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGVPFJB3?tag=rvgearlab-amz-20",
     "description": "The Ecetana Slip-On Ankle Boot has a wear-resistant sole with a texture design said to improve safety on the road, a soft and flexible base and a warm faux fur lining. The upper is waterproof cloth that keeps out rain and snow to some extent.\n\nThe soft flexible sole suits walking and jumping more than a stiff duck-boot sole like the ALEADER Duck. It is a step simpler than the Padphri Fur Boot on materials.\n\nIt works for a woman who wants an easy slip-on for dry or light snow days and likes a flexible feel. The faux fur keeps ankles warm.",
     "specs": [
       "Textured wear-resistant sole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RwYfQwohL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8H4C27Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8H4C27Q?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Hook-and-Loop is an ankle boot lined in faux fur under a water-resistant upper, a hook-and-loop plus elastic lace closure and a durable rubber outsole. The listing says the rubber outsole gives traction on snow, ice, wet roads and slippery surfaces.\n\nA rubber outsole named for snow, ice and wet roads is a clearer grip claim than the general road-safety wording on the Ecetana Slip-On. The hook-and-loop closure makes it faster to dress than the ALEADER Duck.\n\nIt suits a woman who needs a quick-on casual boot with rubber grip for city snow. Sizes run from 5.5 to 12.",
     "specs": [
       "Durable rubber outsole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bw+STfGyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFPN1H6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFPN1H6F?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Zip Fur is a zippered fuzzy ankle boot with a warm faux fur lining, a water-resistant outer, an adjustable string and a non-slip furry sole described for daily wear and errands. It is offered in many sizes for women.\n\nA side zip gets it on faster than the lace-up ALEADER Duck, and the adjustable string tightens the top better than the plain Ecetana Slip-On. It costs the same as the SHIBEVER Hook-and-Loop.\n\nIt suits a woman who wants an easy zip-on for shopping, walks and errands in cold weather. The lining is soft and warm.",
     "specs": [
       "Zippered, fuzzy faux fur lined",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-vxEtgdgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KWPF3WL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KWPF3WL?tag=rvgearlab-amz-20",
     "description": "The Chooka Plush Chelsea Bootie has 100 percent waterproof vulcanized rubber, a plush faux fur lining, stretchy gores and a pull tab, with a sturdy tread listed for traction on wet or slippery surfaces. The slim silhouette is a Chelsea style.\n\nRubber soles give it better wet-pavement behavior than fabric bases, and it carries the lowest price tag. It does not have the winter-specific features of the ALEADER Duck.\n\nIt suits a woman who needs a rubber boot for wet streets and slushy crossings, with a sleek look. The listing advises sizing up.",
     "specs": [
       "Vulcanized rubber, sturdy tread",

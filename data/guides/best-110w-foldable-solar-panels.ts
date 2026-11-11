@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411dvylkqFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6YVC46?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6YVC46?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 110W uses N-type 16BB cells at 25.6 percent efficiency and weighs 8.02 lbs, folding to 24.45 by 22.99 by 1.57 inches. Its cable carries five connectors including DC8020, and an integrated hub adds USB-C PD and two USB-A ports.\n\nAgainst the E-POWO, it gives a higher listed efficiency, a lighter body and a fifth connector for more stations. Compared with the TPDEFZQ, it adds direct USB charging without a separate controller.\n\nIt suits campers who want one panel that recharges a station and phones without extra hardware. The IP67 ETFE surface and kickstand legs set up in seconds.",
     "specs": [
       "25.6% N-type, 8.02 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kYGrVTBpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TCX2CB?tag=rvgearlab-amz-20",
     "description": "The E-POWO 110W weighs 9.74 lbs and folds to 24.09 by 23.23 by 0.8 inches, the thinnest folded size here. It has USB-A, USB-C and QC3.0 ports, a 7-in-1 adapter and two kickstands with 40, 50 and 60 degree angles.\n\nIt adds a built-in accessory pouch that the ZOUPW lacks and offers three set angles for catching low sun. Against the MHPOWOS, it adds USB ports and a bigger adapter set at the same price.\n\nIt fits campers who angle the panel through the day and want phone charging on the panel. The IP67 rating covers rain and dust.",
     "specs": [
       "0.8 in folded thickness",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51srZPaxePL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LR2WJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LR2WJK?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS uses monocrystalline cells at 23.5 percent efficiency and weighs about 4.5 kg, folding to 23.46 by 21.25 by 1.57 inches. A solar extension cable connects to a 4-in-1 interface for Anderson, XT60, DC7909 and DC5521.\n\nAgainst the E-POWO, it matches the price and swaps the USB ports for a longer extension cable. Compared with the ZOUPW, it costs less with a lower efficiency figure.\n\nIt suits station owners who want a plain, thick-handled panel with simple plug-and-play output. The IP67 rating covers wet weather.",
     "specs": [
       "23.5% mono cells, 4.5 kg",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xtGE7ymQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJGRL5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJGRL5Q?tag=rvgearlab-amz-20",
     "description": "The TPDEFZQ weighs 8.15 lbs and folds to 20.27 by 22.99 by 1.37 inches. It includes a controller with three multifunctional ports, a 10 ft 4-in-1 extension cable and a 3-in-1 DC connector plus DC8020 cable.\n\nThis is the cheapest panel on the list and has the shortest folded length. Against the ZOUPW, it gives up some efficiency, yet it adds a controller and a long extension cable.\n\nA complete kit for a first purchase at the smallest outlay. Two kickstands and 25 percent A+ monocrystalline cells round it out.",
     "specs": [
       "25% A+ mono, 8.15 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jna+BPJ4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQY9HXJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQY9HXJ?tag=rvgearlab-amz-20",
     "description": "The EASYLONGER ESP110 lists 23.4 percent cell efficiency and IP65 ETFE protection. It has XT60, Anderson, DC, USB-C and USB-A ports, an adjustable kickstand and eight hanging holes.\n\nIt costs well above the other 110W panels, so it is the pick for those already in the EASYLONGER ecosystem. Compared with the ZOUPW, it adds eight hanging holes and a kickstand that adjusts.\n\nIt is best for owners of EASYLONGER power products, whose listing names several compatible models. Hanging holes let it ride on a tent, balcony or rack.",
     "specs": [
       "110W, 23.4% efficiency",

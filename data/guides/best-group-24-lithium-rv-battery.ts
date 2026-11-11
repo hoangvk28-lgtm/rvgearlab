@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLYCRMdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-amz-20",
     "description": "The LiTime Group 24 is the safest all-round choice for a factory tray swap. At 21.9 lbs it is about 63 percent lighter than a lead-acid Group 24, and its BMS stops charging at freezing temperatures while also adding Bluetooth monitoring through the LiTime app.\n\nThe GRENERPOWER below is much cheaper and has a stronger 150A BMS, but LiTime backs this battery with a 5-year warranty, round-the-clock support, and product liability insurance. That support is what you are paying for, since capacity and size are nearly identical across this list.\n\nIt suits buyers who want a well-known brand and documented support. The price is the catch: at current pricing it is nearly double several capable rivals.",
     "specs": [
       "100Ah, 21.9 lbs",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PaVwK4zrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXWD11ND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXWD11ND?tag=rvgearlab-amz-20",
     "description": "The GRENERPOWER 100Ah has the strongest BMS among the single Group 24 batteries here at 150A, so it can feed a slightly larger inverter than the 100A picks. It sticks to standard 10.24 x 6.61 x 8.31 inch dimensions and adds app alerts for faults and temperature.\n\nCompared with the LiTime above, it costs much less and supplies more current, but its low-temperature charging protection is listed at -5C, around 23F, which is lower than the 32F guidance for LiFePO4. Redodo below costs more and has a 100A BMS.\n\nPick it for a warm-weather rig with a mid-size inverter. In freezing weather, avoid charging it until the battery has warmed above 32F.",
     "specs": [
       "150A BMS",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aG+GqGBNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG235C2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG235C2R?tag=rvgearlab-amz-20",
     "description": "The Redodo Group 24 is built for harsh mounting spots. Its listing calls out waterproofing, salt spray, and corrosion protection along with a low-temperature cutoff, which matters for batteries sitting on an open trailer tongue.\n\nIt costs more than the GRENERPOWER above and has a lower 100A BMS, but its weather protection is better documented. The HumsiENK below matches its IP-style protection for less but has a slightly bigger footprint claim.\n\nIt is a good fit for travel trailers with exposed tongue trays. Note the listing says the first charge needs a lithium charger with 0V activation.",
     "specs": [
       "100Ah, 22.16 lbs",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FFSUjiszL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LY5XDX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LY5XDX?tag=rvgearlab-amz-20",
     "description": "The HumsiENK 100Ah combines an IP65 rating, UL-tested cells, and a 5-year warranty for well under $200. Its 8.2 x 6.6 x 10.2 inch case fits standard Group 24 trays and loosely fits larger boxes too.\n\nIt undercuts the Redodo above while matching it on weather protection, but its low-temperature shutdown is described only generally, without the exact charge cutoff temperature. The ABKpower below states a clear 32F charge cutoff.\n\nIt suits owners who want water resistance and warranty coverage on a budget. Ask the seller at what temperature charging stops if you camp in cold weather.",
     "specs": [
       "IP65 rated",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BqvEucO8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCPHCZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCPHCZ1?tag=rvgearlab-amz-20",
     "description": "The ABKpower 100Ah is the cheapest pick here that clearly states it stops charging below 32F, the threshold that matters for LiFePO4 longevity. It also has an IP65 case and weighs 21 lbs.\n\nIt costs less than the HumsiENK above and is clearer on cold behavior, but its listing does not state a warranty length and describes the app mainly for voltage. The LIPULS below costs a little more with more detailed RV-oriented specs.\n\nIt is a solid buy for spring and fall campers. Confirm warranty coverage with the seller before ordering.",
     "specs": [
       "Stops charging below 32F",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-k-X5wrnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-amz-20",
     "description": "The LIPULS 100Ah is the purest drop-in on this list. Its listing commits to BCI Group 24 dimensions of 10.23 x 6.61 x 8.30 inches and states it slots into Group 24, 27, or 31 compartments without modification.\n\nIt ranks below the Bluetooth picks because it has no app, so you need a separate monitor to track charge. It costs a bit more than the ABKpower, which adds an app and a stated 32F cutoff, so the LIPULS mainly wins on its precise drop-in dimensions.\n\nIt suits owners who already have a battery monitor installed. Without one, a Bluetooth model is more useful for the same money.",
     "specs": [
       "10.23 x 6.61 x 8.30 in",
@@ -189,7 +189,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nwzLZB-TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL72KPBZ?tag=rvgearlab-amz-20",
     "description": "The RVLithTime Mini is the cheapest Group 24 lithium in this roundup. It measures 10.2 x 6.65 x 8.39 inches, has a 100A BMS, and clearly lists its charging range as 32F to 113F.\n\nIt ranks last because, like the LIPULS above, it lacks Bluetooth and also omits a warranty term. You are trading monitoring and support for the lowest upfront cost.\n\nIt is a good starter battery for a weekend trailer on hookups. Pair it with an inexpensive shunt monitor if you plan to boondock.",
     "specs": [
       "10.2 x 6.65 x 8.39 in",

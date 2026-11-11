@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21AtONV+KTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CWVH38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CWVH38?tag=rvgearlab-amz-20",
     "description": "The HIKEBURGER is an ultralight one-person bivy sack made of mesh, 20D nylon and a 40D silicone nylon, weighing 0.56 pounds. It measures 78.74 by 23.62 by 19.68 inches and packs to about 7.9 by 3.9 by 3.3 inches.\n\nIt sits between an inner tent and a bivy bag, so it blocks mosquitoes and insects while staying under a tarp. Top of the price range in this group, it is also the single pick with a mesh living space.\n\nIt suits solo backpackers and thru-hikers who sleep under a tarp in buggy summer weather. It works best with a foam pad, since an inflatable pad can crowd the interior.",
     "specs": [
       "0.56 lb mesh and nylon bivy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412S6eoM6RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C77Q857X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C77Q857X?tag=rvgearlab-amz-20",
     "description": "The Upneargo emergency bag weighs 5.1 ounces and is made of 400T nylon with a honeycomb heat-reflective material instead of plain film. The drawstring ends in a 120 decibel whistle, and a carabiner clips it to a pack.\n\nIts nylon outer makes it tougher than the foil bags found at lower price points, so it can be reused. It costs less than the HIKEBURGER and packs smaller, so it fits any pocket.\n\nIt suits hikers who want a reusable emergency bag and a whistle in one item. It comes in three colors, so choose a bright one if rescue visibility matters.",
     "specs": [
       "5.1 oz, 400T nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cmsfLjXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-amz-20",
     "description": "The 3F UL Gear cover is made of DuPont Tyvek and comes in two sizes: Type A at 180 by 80 centimeters and about 130 grams, and Type B at 230 by 90 centimeters and about 200 grams. It folds to about 16 by 8.5 centimeters.\n\nIt is the lightest pick by far and works as a breathable waterproof cover that keeps tent condensation off a sleeping bag. It is not a standalone bag and does not add warmth.\n\nIt suits ultralight backpackers who want to protect a down bag from moisture. Use it inside a tent or under a tarp.",
     "specs": [
       "DuPont Tyvek, 130g or 200g",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q8M1-VWZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNTBDKTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNTBDKTW?tag=rvgearlab-amz-20",
     "description": "The Qunclay set includes twelve emergency bivy sacks, twelve whistles and twelve nylon stuff sacks. Each bag measures about 82.7 by 35.4 inches and is made of aluminum foil film with a hood.\n\nIt is the cheapest per bag in this guide and fits groups, camps and school trips. The foil is thin, so these bags are for emergencies and not repeated use.\n\nIt suits scout troops, camp counselors and event organizers who need a bag for everyone. Store them in a dry bin.",
     "specs": [
       "Twelve 82.7x35.4 in bags",

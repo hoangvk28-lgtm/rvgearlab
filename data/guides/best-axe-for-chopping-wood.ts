@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FHcUKoISL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZTC23BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZTC23BJ?tag=rvgearlab-amz-20",
     "description": "The Fiskars X25 is a 28 inch splitting axe with advanced bevel convex blade geometry that adds power and makes the blade easier to remove from wood. A shock-absorbing FiberComp handle, protective sheath and lifetime warranty are included.\n\nIt balances reach and control better than the 36 inch X27 and the Truper, with a power-to-weight ratio the listing compares to an aluminum baseball bat. It is a good all-round size for most users.\n\nIt fits homeowners and campers with medium to large logs. The sheath protects the blade between uses.",
     "specs": [
       "28 inch FiberComp handle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arb560hZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004M3BAQE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004M3BAQE?tag=rvgearlab-amz-20",
     "description": "The Fiskars X27 Super Splitting Axe has a 36 inch shock-absorbing handle for taller users, a hardened forged steel blade and a convex bevel designed for one-strike splits. It ships with a protective sheath and lifetime warranty.\n\nIt is the longest Fiskars and gives the most reach and swing speed for large logs. It is a better fit than the X25 for users over six feet tall.\n\nIt fits taller users and big firewood piles. The sheath and lifetime warranty come in the box.",
     "specs": [
       "36 inch handle for tall users",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21yglaqD48L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00UY1TANI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00UY1TANI?tag=rvgearlab-amz-20",
     "description": "The Truper Michigan axe has a 3.5 lb forged steel head, a 35 inch American hickory handle kiln-dried and lacquered, and a dual-wedge assembly with a wooden and steel wedge. The Michigan pattern is a classic felling head shape.\n\nIt is the most traditional pick, with natural shock absorption from hickory and a securely wedged head. It suits users who prefer wood handles.\n\nIt fits loggers, farmers and homeowners who want a hickory axe that lasts. The kiln-dried lacquered handle resists the weather.",
     "specs": [
       "3.5 lb forged head, 35 inch hickory",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314KsizgeqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B014M9LQGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B014M9LQGG?tag=rvgearlab-amz-20",
     "description": "The Fiskars Pro IsoCore is an 8 lb maul with a 36 inch IsoCore shock-absorbing handle, a textured non-slip grip and an inseparable riveted head. A protective sheath and lifetime warranty come in the box.\n\nIt is the heaviest tool in the group and splits tough, knotty logs where the lighter axes bounce. The shock absorption protects hands over many swings.\n\nIt fits those who burn wood and need to split large amounts. The sheath protects the edge in storage.",
     "specs": [
       "8 lb maul, 36 inch handle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Fafb4VaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00002N5N7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00002N5N7?tag=rvgearlab-amz-20",
     "description": "The Estwing Camper's Axe is 26 inches long with forged steel construction, a molded shock reduction grip that cuts vibration by 70% and a ballistic nylon sheath with belt loop. The handle is pressed steel tubing soldered for a permanent bond, and it is made in Rockford, Illinois.\n\nThe all-steel handle cannot break like wood. It is the most durable pick for rough camp use.\n\nIt fits campers and cabin owners who want an axe that survives abuse. The belt loop sheath makes carrying easy.",
     "specs": [
       "26 inch forged steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mYgZ+HXXS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HC5P2RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HC5P2RQ?tag=rvgearlab-amz-20",
     "description": "This 15 inch hatchet has a 560 gram head, an overall weight of 800 grams and a 4.5 inch blade of 45 number steel. The head widens like a fan to split firewood and kindling, and the handle is 12.59 inches.\n\nIt is the lightest and lowest priced pick here, suited to kindling and small branches. It cannot match the power of the full-size axes.\n\nIt fits day trips and campers who need a hatchet for kindling. The fan-shaped head helps start splits.",
     "specs": [
       "15 inch, 560 g head",

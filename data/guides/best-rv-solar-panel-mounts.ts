@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VKz1phSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TLBRY9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TLBRY9V?tag=rvgearlab-amz-20",
     "description": "The Newpowa Double Arm is a heavy-duty aluminum alloy bracket with a bottom support that mounts to a pole, wall, fence or any flat surface. The listing says it takes panels up to 55.51 inches wide, holds one 160W to 250W panel or two 200W Newpowa panels, tilts from 0 to 90 degrees and includes screws, bolts, washers, nuts and steel clamps. It costs $159.99.\n\nIt carries more panel than any other fixed mount here: two 200W panels is 400W, compared with 340W for the AIMS Dual Pole and 150W for the LINOVISION Pole. That works out to about $0.40 per supported watt against about $0.53 for AIMS. The listing does not state the pole diameter the clamps accept, which matters, because AIMS lists 3.25 inches and LINOVISION lists 4.33 to 4.72 inches, so you must confirm your pole.\n\nPick this if you are building a campsite pole or a fence-line array for two larger panels. The caveat is that the listing warns other-brand panels without mounting holes may need DIY drilling.",
     "specs": [
       "Up to 55.51 inch panel width",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sp9pAnrVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X57GL65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X57GL65?tag=rvgearlab-amz-20",
     "description": "The AIMS pole mount holds two panels of up to 170W each or 26.5 inches wide, tilts from 20 to 70 degrees, uses clamps for existing poles up to 3.25 inches in outer diameter and is built of anodized aluminum with stainless steel hardware. Predrilled holes speed assembly, and the listing states a 10-year warranty. It costs $180.19.\n\nIt costs $20.20 more than the Newpowa Double Arm but holds 60W less, so you pay for documentation and warranty, not capacity. The 20 to 70 degree tilt range is narrower than the Newpowa's 0 to 90, which is enough for most latitudes but not for laying panels flat. At 26.5 inches wide it fits older 100W to 170W panels and will accept only one larger panel.\n\nChoose it if you want stated pole sizes, stainless hardware and a 10-year warranty for a long-term campsite or park-model install. The caveat is the width limit, since many current 200W panels are wider than 26.5 inches.",
     "specs": [
       "Two panels, 170W each",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/214aN5hGj7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1RMS5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1RMS5N?tag=rvgearlab-amz-20",
     "description": "The LINOVISION Pole mount is made of galvanized steel and takes a single panel of 50W to 150W, with an adjustable width of 19.3 to 28 inches and a thickness of 0.9 to 1.26 inches. It clamps to poles 4.33 to 4.72 inches (110 to 120 mm) in diameter with half-round clamps and tilts between 20 and 45 degrees. It costs $109.99, and the listing says one person can install it with the included hardware.\n\nIt is $50 cheaper than the Newpowa Double Arm and $70.20 cheaper than the AIMS Dual Pole, but it carries one panel at most 150W, so it costs about $0.73 per supported watt, worse than either. Its pole range is a big gotcha: 4.33 to 4.72 inches is far larger than the 3.25 inch limit of the AIMS, so it suits utility poles and heavy posts rather than a standard 2 or 3 inch pipe.\n\nPick this if your post is 4.3 to 4.7 inches in diameter and you want a single 100W to 150W panel. The caveat is a 20 to 45 degree range, which limits steep winter tilt for northern campsites.",
     "specs": [
       "One panel, 50W to 150W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DuUsOhK3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G394W6Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G394W6Z4?tag=rvgearlab-amz-20",
     "description": "The AeternaSol 45 inch set is aluminum alloy with triangular bracing, designed for panels from 100W to 400W, with a 0 to 90 degree tilt, horizontal or vertical mounting and a listed 2400Pa wind load, 1.4 kN per square meter snow load and 120 kg load capacity. It ships with four fixed brackets, two tilt brackets, M6 and M8 hardware and six self-drilling screws, and works on roofs, balconies, boats, campers or the ground. It costs $39.99.\n\nIt is the cheapest fixed mount here and the only one that states a wind load, so it is the right pick when a panel will sit on the ground and a gust is a real risk. It does not give you a pole mount, though, and the listing says one person can fold the legs down. At $39.99 it costs $120 less than the Newpowa Double Arm, but a ground mount needs ballast or stakes the listing does not supply.\n\nChoose it if you want a ground-ready tilt mount for a rigid panel at a low price. The caveat is that the 2400Pa figure is a seller claim and you still have to anchor the set yourself.",
     "specs": [
       "100W to 400W panels",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CPKVpEQAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4KY28BN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4KY28BN?tag=rvgearlab-amz-20",
     "description": "The Nicesolar stand is made from 5mm 304 stainless steel, folds to 375 by 300 by 27 millimeters, weighs 2.58 pounds, has three angle settings and installs and removes without tools. The listing says it is meant for foldable and flexible panels, not for fixed rigid glass panels, and notes hand welding means angles vary slightly. It costs $59.99.\n\nIt is $30.22 more than the DOKIO Stand but built of heavier stainless steel with a measured folded size, and it offers three set angles instead of a continuous arc. Compared with the fixed mounts above it holds only portable panels, so it is a campsite tool, not an installation, and it sells for under a third of the $180.19 AIMS Dual Pole.\n\nPick this if you carry a foldable or flexible panel and want a stable, packable stand. The caveat is that the listing does not state wind limits, so strap or ballast it on breezy days.",
     "specs": [
       "Stainless steel, 2.58 pounds",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FqKfES59L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7RZF2WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7RZF2WW?tag=rvgearlab-amz-20",
     "description": "The DOKIO stand is a stainless steel arc that props a foldable panel at an adjustable angle, folds flat for storage and works with panels of various sizes, using one or more stands depending on the panel. The listing says it is not suitable for rigid glass panels and recommends securing it with ropes or pegs in wind. It costs $29.77.\n\nIt is the cheapest option here and $30.22 below the Nicesolar Stand, but it gives you a continuous angle adjustment instead of fixed steps and no listed size, weight or material grade. You may need two stands for a wide panel, which brings the cost close to the Nicesolar. It also tells you plainly that wind needs ropes or pegs, which is honest but means the stand alone is not stable in a gust.\n\nChoose it if you need a cheap way to tilt a foldable panel in calm weather. The caveat is that nothing in the listing gives dimensions, a weight limit or a wind rating.",
     "specs": [
       "Stainless steel arc stand",

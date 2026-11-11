@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RKO9iTIfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC6PKRZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC6PKRZQ?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS 6.0 ft truck tent uses double-layer 210D polyester Oxford with a PU2000 coating and a straight aisle design that leaves more access space. A top mesh starry sky roof, four-side mesh windows and two inner storage bags complete the build, with four fiberglass poles and a user guide.\n\nIt gives more floor access and a sky roof than the Rightline and costs less than the Umbrauto. The PU2000 coating is below the PU3000 on the CROSSHIP and Umbrauto.\n\nIt suits 6 foot-bed owners who want a roomier entrance and stargazing. Color-matched pole ends make setup quick.",
     "specs": [
       "Straight aisle, double layer",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gYcGwhphL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-amz-20",
     "description": "The Umbrauto is cut for standard 6.3 to 6.8 foot beds with a tent length of 78.7 inches, so Ford F150 owners are a natural match. Its 210T polyester has PU3000, and the expandable awning measures 4 by 4 feet with color-coded poles to match.\n\nIt is the only long-bed tent in the group, and it costs the most here while beating the others on rain protection. It sleeps 2 to 3 people.\n\nOwners of a standard 6.5 foot bed after shade and PU3000 protection should look here first. The awning extends the living area.",
     "specs": [
       "78.7 in length, 6.3-6.8 ft beds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414XvAj88cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FSBE7BE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FSBE7BE?tag=rvgearlab-amz-20",
     "description": "The Rightline Gear tent fits full-size short beds of 5.5 feet and sleeps two, with a floorless design that sets up without unloading the bed. Tape-sealed seams and PU2000mm fabric shed rain, and heavy-duty straps with nylon buckles protect the truck finish.\n\nIt costs less than the Umbrauto and the JOYTUTUS 6.0, and its floorless build saves time at camp. It has no awning, which the Umbrauto adds.\n\nIt suits short-bed owners who want a quick, gear-friendly pitch. The sky view vent adds light and airflow.",
     "specs": [
       "Floorless, 5.5 ft short bed",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xv7GRz9DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQSHN4FV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQSHN4FV?tag=rvgearlab-amz-20",
     "description": "The CROSSHIP is a 2-person truck bed tent in 210D Oxford with a PU3000 coating, sold in sizes for 5.5 to 5.8 foot, 6.4 to 6.7 foot and 8 to 8.2 foot beds. Mesh panels give airflow and keep insects out, and the fabric is anti-tear.\n\nIt covers more bed lengths than any other tent here and costs less than the JOYTUTUS 6.0 and Umbrauto while keeping PU3000. It leaves out the awning of the Umbrauto.\n\nIt suits couples with a long or short bed who want the cheapest PU3000 option. Choose the right size option before checkout.",
     "specs": [
       "PU3000 Oxford canopy",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vYxVV5o9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H35K62LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H35K62LP?tag=rvgearlab-amz-20",
     "description": "This WildFinder model fits 5.5 to 6 foot beds and offers a 65 inch wide, 66.9 inch tall interior. The 210D polyester Oxford has PU3000 on it, and a sleeve at the door lets cables or cool air pass from the truck.\n\nIt undercuts the CROSSHIP slightly and adds a power tunnel that no other pick has. It spans fewer bed sizes than the CROSSHIP.\n\nIt suits short and standard bed owners who want truck power or a fan fed to the tent. Color-coded poles speed up setup.",
     "specs": [
       "92.5 x 65 x 66.9 in interior",

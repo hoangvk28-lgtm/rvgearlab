@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KiVa2nGBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWCG4Q6P?tag=rvgearlab-amz-20",
     "description": "The LiTime M8 is a 500A Bluetooth smart shunt covering 8V to 120V banks, with real time current, voltage, power and state of charge in the app. It supports adjustable alarms for low capacity, temperature and voltage, shows history such as discharge capacity and cycles, and carries a 1 year warranty.\n\nAt $99.99 it costs $10.00 more than the ANCEL BM1000 and carries 100 more amps of shunt rating (500A against 400A). Pick this if you want the biggest shunt, a stated warranty and charge cycle history in your phone. It has no screen, so you need your phone to read it.",
     "specs": [
       "500A shunt, 8V to 120V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xUfMoL6kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F91B3NLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F91B3NLN?tag=rvgearlab-amz-20",
     "description": "The ANCEL BM1000 is a 400A Bluetooth smart shunt for 10V to 120V banks, showing SOC, voltage, current, power and remaining capacity. It lists reverse polarity and overload protection, wrong proof ports and point to point wiring, plus 30 days of energy history in the app.\n\nAt $89.99 it costs $10.00 less than the LiTime M8 and $26.89 more than the Renogy 500A, adding Bluetooth and install protection. Pick this if your peak load stays under 400 amps, which the listing says covers typical 100 to 300A RV, marine and solar peaks. It is app only with a 30 day history.",
     "specs": [
       "400A shunt, 10V to 120V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TdVPWnbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RP5B5P7?tag=rvgearlab-amz-20",
     "description": "The Renogy 500A Monitor pairs a 500A shunt with a backlit display showing voltage, current, consumed power, capacity and battery degradation rate, with a stated 1% accuracy. It has high and low capacity alarms, a transparent shunt holder and a 20 foot shielded cable.\n\nAt $63.10 it is $26.89 under the ANCEL BM1000 and $0.11 above the LNEX 500A, with the longest stated cable at 20 feet. Pick this if you want a physical display at the helm without a phone. The listing does not state Bluetooth, so remote reading needs a screen run.",
     "specs": [
       "500A shunt, 1% accuracy",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oFXXEfapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BC4Q3P26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BC4Q3P26?tag=rvgearlab-amz-20",
     "description": "The LNEX 500A Monitor has a 2.4 inch color screen, a 500A shunt, a 16 foot shielded wire and programmable high and low voltage alarms for 8V to 100V banks. It lists support for lead acid, LiFePO4 and lithium ion chemistries.\n\nAt $62.99 it is $0.11 cheaper than the Renogy 500A and $17.35 above the BINTA, and its cable is 4 feet shorter than the Renogy. Pick this if you want the color screen at the lowest price among the display units that list a 16 foot cable. The listing gives no Bluetooth or app.",
     "specs": [
       "500A shunt, 8V to 100V",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FaLP8eNYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB3BPZ8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB3BPZ8B?tag=rvgearlab-amz-20",
     "description": "The BINTA 500A Monitor is a shunt with a 2.4 inch color screen and a sliding cover, ±1% readings, 8V to 100V support and currents from 0 to 500A. It includes a 10 foot shielded cable, a ground loop wire and high and low capacity alarms.\n\nAt $45.64 it costs $17.35 less than the LNEX and $54.35 less than the LiTime M8. Pick this if you want the lowest price for a 500A shunt with a screen. Its 10 foot cable is the shortest here, so measure your run first.",
     "specs": [
       "500A shunt, ±1% readings",

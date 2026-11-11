@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KVXX3qwoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XD2N14J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XD2N14J?tag=rvgearlab-amz-20",
     "description": "The Earth Pak is a 20L roll-top bag made of abrasion-resistant 500D PVC and listed as marine-ready for kayaking, paddleboarding, rafting and canoeing. It includes an IPX8 certified waterproof phone case, and bags at 10L and 20L include a 24 to 42 inch adjustable shoulder strap.\n\nIt is the sturdiest bag in this set and the one that comes with a phone case, which the Unigear and Frelaxy do not. The size range runs from 5L to 55L, so you can match the bag to your hatch.\n\nIt fits paddlers who want one tough bag for overnight gear. The strap makes portaging easier.",
     "specs": [
       "20L, 500D PVC roll-top",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4xez1ZIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SYPGNWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SYPGNWY?tag=rvgearlab-amz-20",
     "description": "The Unigear bag is made from stiff 500D PVC with fully welded seams made by high-frequency technology and a roll-top closure. It floats and resists tearing and abrasion.\n\nIt matches the Earth Pak on fabric weight and seam welding at a fraction of the price. It is more basic, with no phone case or extra straps.\n\nIt fits paddlers on a budget who want a tough, floating bag. It suits kayaking, boating, fishing and camping.",
     "specs": [
       "500D PVC, welded seams",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tbddTkGWS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095K6PQ1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095K6PQ1T?tag=rvgearlab-amz-20",
     "description": "The Frelaxy set has five ultralight dry sacks in 3L, 5L, 10L, 15L and 20L, each in a different color. They use waterproof polyester with a fully taped seam and roll-top closure, and weigh from 35g to 60g each.\n\nThe color-coded sizes make it easy to sort gear in a hatch, which the single-bag picks cannot do. They have a rectangular base for packing and D-rings to clip.\n\nIt fits paddlers who want to separate clothes, food and electronics. The ultralight weight suits backpacking too.",
     "specs": [
       "Five bags, 3L to 20L",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418xPqShs+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4DZJHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4DZJHP?tag=rvgearlab-amz-20",
     "description": "The Pimoys set has three ultralight dry bags in 6L, 10L and 20L, made of 210T ripstop polyester with an internal waterproof coating and double stitching. A rectangular base stacks neatly and a roll-top seals the bag.\n\nIt is smaller than the Frelaxy set and costs less. The buckle closure is simple to use, and the bags fold flat for storage.\n\nIt fits day paddlers who want three sizes at a low price. The roll-top is simple to operate in cold wet hands.",
     "specs": [
       "6L, 10L and 20L set",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xuoS-uXbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWDG7LWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWDG7LWJ?tag=rvgearlab-amz-20",
     "description": "The TILYMOL is a 5L transparent dry bag with seamless welding and a roll-top closure. It includes a floating phone pouch with an emergency whistle and a removable adjustable strap.\n\nThe clear PVC lets you see contents without unrolling, and a reinforced bottom resists abrasion. It is smaller than the Earth Pak and aimed at small valuables.\n\nIt fits paddleboarders and kayakers who want phone, keys and wallet in one view. The whistle adds a small safety tool.",
     "specs": [
       "5L transparent PVC",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z-OyeBHpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PM1R4N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PM1R4N8?tag=rvgearlab-amz-20",
     "description": "The HEETA is a 5L transparent dry bag backpack made of PVC that is 0.6 mm thick on the bottom and 0.3 mm on the sides. It has adjustable shoulder straps, a side handle and a phone case.\n\nIt is the only backpack style in this group, which makes it comfortable on a long carry from car to put-in. It comes in sizes from 5L to 40L.\n\nIt fits paddlers and beachgoers who carry gear on foot. The side handle gives a second way to carry.",
     "specs": [
       "5L transparent PVC backpack",

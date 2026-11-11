@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413Pgj00q6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JQNS4?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 is the core of the range: 1,024Wh of LiFePO4 storage behind a 2000W pure sine wave inverter with a 4500W surge. At $529 it charges from 0 to 80 percent in 36 minutes on AC, or in 26 minutes when AC and solar are combined, and it expands to as much as 5,120Wh with up to two B2 extra batteries. A UPS function switches in under 20 milliseconds, and a 3500-plus cycle rating backs the battery.\n\nCompared with the Mega 1 Lite below, the Mega 1 costs $40 more and charges to 80 percent faster and adds the two-battery expansion path, which makes it the better long-term buy. Compared with the Mega 1 kit above it, it provides the same inverter with a third of the battery for $770 less.\n\nIt fits a weekend RV trip with a fridge, a microwave and a coffee maker, a home backup for a few circuits or a first station that you can grow later. Starting small and adding a B2 battery spreads the cost over time.",
     "specs": [
       "1,024Wh LiFePO4, 2000W, 4500W surge",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TiB344vsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG8JVRZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG8JVRZ9?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 Power Station Kit pairs a Mega 1 with a B2 expansion battery for a total of 3,072Wh at $1,299. The 2000W pure sine wave inverter with a 4500W surge carries over, so appliances such as a microwave, a sump pump and a CPAP can run, and the modular setup connects in seconds. The Mega 1 recharges 0 to 80 percent in 36 minutes on AC, with LiFePO4 cells rated for more than 3,000 cycles.\n\nCompared with the Mega 1 alone, the kit adds 2,048Wh for $770 more, which is a good deal at roughly 38 cents per watt-hour. Compared with the Mega 1 Lite, it triples the capacity for about $810 more.\n\nIt suits a household that wants to carry a fridge, lights, Wi-Fi and medical devices through an outage, or an RV owner who wants a full day or more of power. The battery stores compactly when you separate it, so you can take only the Mega 1 on a short trip.",
     "specs": [
       "3,072Wh LiFePO4 (1,024Wh plus 2,048Wh)",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RL0I+GqWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ7BHVL?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 Lite is the lower-priced entry to the Mega family: 1,024Wh, a 2000W output with a 4500W surge, and a 1400W AC input that fills the battery from 0 to 100 percent in 46 minutes. At $489 it offers two 140W USB-C PD ports, a UPS switchover under 20 milliseconds and app control with a 700W slow-charge option.\n\nAgainst the Mega 1, the Lite costs $40 less, while the Mega 1 adds the two-battery expansion path and the 36-minute charge to 80 percent. Against the Exodus 700 it adds nearly twice the battery, three times the output and a 4500W surge for about $195 more.\n\nIt fits a camper who wants a microwave and a kettle at camp, a laptop worker who benefits from dual 140W USB-C ports, and a household that wants outage backup for a fridge. App control lets you slow the charging for a quiet night.",
     "specs": [
       "1,024Wh LiFePO4, 2000W, 4500W surge",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wKKdg7KWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H97WF3YC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H97WF3YC?tag=rvgearlab-amz-20",
     "description": "The OUPES Exodus 700 holds 576Wh in a LiFePO4 pack and delivers 700W of pure sine wave power with a 1200W surge, for $294.49. It offers a 140W USB-C PD port for laptops and cameras, accepts 240W of solar to reach 80 percent in about two hours, and carries a UPS function under 10 milliseconds with a 960W max.\n\nCompared with the Exodus 350, it doubles the battery and the inverter for $104.50 more, which brings a mini fridge or a 12 volt cooler into range. Compared with the Mega 1 Lite, it costs $195 less and weighs far less, with a quarter of the output.\n\nIt works for a van or small RV where the loads are a fridge, fan, lights and phones, and for a camper who wants a station that fits in a pack seat. A 2-hour solar charge with a 240W panel makes it practical for daytime top-ups.",
     "specs": [
       "576Wh LiFePO4, 700W, 1200W surge",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AUwFtcwuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8SMM39F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8SMM39F?tag=rvgearlab-amz-20",
     "description": "The OUPES Exodus 350 is the smallest station in the range: 288Wh of LiFePO4 storage, a 350W pure sine wave inverter with a 600W surge, and a 140W USB-C PD port, for $189.99. It accepts up to 240W of solar and reaches 80 percent in 69 minutes, and the battery is rated for 3000-plus cycles to 80 percent. A UPS switchover under 10 milliseconds protects a router or a laptop.\n\nStepping up to the Exodus 700 doubles the battery and the inverter for about $105. The Exodus 350 is the right choice when weight and price matter most and the loads are a phone, a laptop, lights and a small fan.\n\nIt suits a tent camper, a kayaker who wants to charge a camera, a day-trip photographer or a commuter who wants outage protection for a router and a laptop. The 140W USB-C port charges a performance laptop without a power brick.",
     "specs": [
       "288Wh LiFePO4, 350W, 600W surge",

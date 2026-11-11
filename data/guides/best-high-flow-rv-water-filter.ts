@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RyE3nnj4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPQK563C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPQK563C?tag=rvgearlab-amz-20",
     "description": "Hansing states effectiveness at flow rates up to 6 gpm, with a six-layer design including 0.5-micron pleated polyester, PP cotton, activated carbon fiber, molecular sieve and KDF-55 fiber. It comes with a stand, a pressure gauge, brass threads and a brass adapter kit.\n\nAgainst Feeligivin 3-Stage below, it states a clear flow figure and adds a gauge, which makes pressure loss visible. Compared with PUREPLUS Dual-Stage, it uses more layers in one body.\n\nIt suits families on a full-hookup who want to watch pressure. The six-layer design may still restrict flow as it clogs, so watch the gauge.",
     "specs": [
       "Up to 6 gpm stated",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qgo9uU5UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-amz-20",
     "description": "PUREPLUS is a dual-stage system with a 5-micron PP10 sediment cartridge and a second stage, using stainless steel 3/4 inch ports and a bracket. The listing says one cartridge set handles 13,000 gallons in about 3 to 6 months with high flow and no significant pressure attenuation.\n\nAgainst Hansing 6-Layer above, it makes a claim about pressure loss but gives no gpm. Compared with Flow-Pur 5-Micron below, it has two stages and a bracket for ground or wall.\n\nIt works for buyers who want two stages without a big flow penalty. The pressure claim has no figure attached, so measure your own pressure.",
     "specs": [
       "5-micron sediment stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511GHC0rlmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKFQYH5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKFQYH5D?tag=rvgearlab-amz-20",
     "description": "Feeligivin lists a 0.2-micron high-flow filter at the end of a three-stage system and brass quick connects for the garden hose. The listing claims up to 120 days of filtering and reduced particulates.\n\nAgainst Hansing 6-Layer above, it filters finer but states no gpm. Compared with PUREPLUS Dual-Stage, it adds a third stage and a finer one.\n\nChoose it if finer filtration matters and you can accept some flow cost. A 0.2-micron stage can restrict flow, and the listing gives no number.",
     "specs": [
       "0.2-micron high-flow filter",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZZsLfxwCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00C5SX12E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00C5SX12E?tag=rvgearlab-amz-20",
     "description": "Flow-Pur is a single external canister with a 5-micron carbon block that reduces chlorine and improves taste. It is built for operating pressures between 20 and 125 psi and comes with a wrench, bracket and hose fittings.\n\nCompared with PUREPLUS Dual-Stage above, it is one stage and has a documented pressure range. Against Camco Tastepure 2-Pack below, it is a canister with cartridge changes.\n\nIt suits people who want a durable single-stage setup. No gpm is stated, but a single stage generally restricts less than multi-stage.",
     "specs": [
       "5-micron carbon block",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "Camco Tastepure 2-Pack gives two inline GAC and KDF filters listed to NSF/ANSI 42 and 53, with CSA lead-free certification to 372. They reduce taste, odor, chlorine and sediment.\n\nAgainst AQUA CREST Inline below, they have NSF 53 listed and come in a pair. Compared with Flow-Pur 5-Micron, they are throwaway filters and no flow rate is stated.\n\nGood for easy hose-end use. If flow matters, no figure is given, so test your fill speed.",
     "specs": [
       "NSF/ANSI 42 and 53",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+6cuN6tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z7ML4LW?tag=rvgearlab-amz-20",
     "description": "AQUA CREST is an inline KDF and activated carbon filter certified to NSF/ANSI 42 and 372 with a copper-ended swivel hose protector and a described 400 PSI pressure test.\n\nAgainst Camco Tastepure 2-Pack above, it is a single filter without the NSF 53 listing. Compared with Hansing 6-Layer, it is a basic, throwaway filter.\n\nIt works as a low-cost baseline. No flow rate is stated on the listing.",
     "specs": [
       "NSF/ANSI 42 and 372",

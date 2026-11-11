@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d3vF6nweL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTM2VYRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTM2VYRK?tag=rvgearlab-amz-20",
     "description": "FEATRITY 2 Pack is a 10.3 ounce white self-leveling lap sealant that the listing says adheres to EPDM, TPO, vinyl, fiberglass and aluminum roofing membranes. It targets vents, vent pipes, skylight edges and exposed screws.\n\nAgainst Kohree 2 Pack, it names vinyl and fiberglass in addition to TPO. Against Dicor Black, it is self-leveling for flat laps.\n\nIt is the best match for flat TPO laps and vent bases. Think of it as the pick for flat tpo laps.",
     "specs": [
       "2 x 10.3 oz self-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KPb724qVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B019QGSE4C?tag=rvgearlab-amz-20",
     "description": "Dicor 551LSB-1 is a HAPS-free 10.3 ounce black non-leveling lap sealant that gives a secondary seal along roof edges and termination rails. The listing says it is compatible with EPDM, TPO and PVC membranes.\n\nAgainst FEATRITY 2 Pack, it is for edges and vertical trim. Against Kohree 4 Pack, it is a branded RV sealant.\n\nIt is the best match for TPO roof edges and termination bars. Buyers focused on tpo roof edges will find it a sensible match.",
     "specs": [
       "10.3 oz black non-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yzi8nOFjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F48BJ93V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F48BJ93V?tag=rvgearlab-amz-20",
     "description": "Kohree Non Sag RV Roof Sealant 4 Pack is a white non-leveling lap sealant that bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood. It keeps its shape without dripping.\n\nAgainst Dicor Black, it is white and gives four tubes. Against Kohree 2 Pack, it is non-leveling rather than self-leveling.\n\nIt suits TPO roofs with several vertical joints and edges. It earns its slot for several tpo edges.",
     "specs": [
       "4 white tubes, non-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQcSeg4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Sealant 2 Pack is a white self-leveling lap sealant that levels within 30 seconds. The listing names EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst FEATRITY 2 Pack, it is similar in count with a wider surface list. Against Kohree 4 Pack, it is self-leveling.\n\nIt suits small TPO flat repairs. It is a natural fit for small flat repairs.",
     "specs": [
       "2 tubes, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeKFpBzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Lap Sealant 4 Pack is a self-leveling sealant for horizontal roof details such as vents, skylights, AC units, antenna mounts and seams. The listing says it is not for vertical surfaces or open gaps, and it pairs with Liquid Rubber seam tape and coating.\n\nAgainst FEATRITY 2 Pack, it states its limits and links to a larger system. Against Dicor Black, it is for flat details only.\n\nIt suits owners building a tape and coating system on a TPO roof. Think of it as the pick for matched roof systems.",
     "specs": [
       "4 tubes, self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ell-sZFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY RV Roof Sealant is a 1 gallon water-based, solvent-free white coating that dries in about an hour. The listing says no primer step is needed and that it works on EPDM, TPO, metal and fiberglass roofs.\n\nAgainst the tube sealants, it covers a whole roof rather than a lap. Against Liquid Rubber Lap 4, it is a coating with a quick dry.\n\nIt suits owners recoating a TPO roof after sealing the laps. Buyers focused on whole-roof coating will find it a sensible match.",
     "specs": [
       "1 gallon water-based coating",

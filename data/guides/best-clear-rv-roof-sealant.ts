@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41urfPryK+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ76G1B2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ76G1B2?tag=rvgearlab-amz-20",
     "description": "The Camco clear RV trim sealant is a non-leveling, non-sag formula for slanted surfaces such as RV roofs. Its listing says it bonds to EPDM rubber, TPO, fiberglass, wood, aluminum, steel and masonry and resists outdoor elements.\n\nIt is the only clear tube here that names roof surfaces. It stays put on slopes.\n\nIt fits owners who want a clear seal on a sloped edge. With clear rv roof sealant, clear sloped seals fits it best.",
     "specs": [
       "Clear non-leveling sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gQZK4ASQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D1DZ73N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D1DZ73N?tag=rvgearlab-amz-20",
     "description": "The Dicor cap sealant in clear is paintable and seals RV windows, entry doors, compartment doors and joints. Its listing names metal, wood, plywood, rubber, concrete, glass, thermoplastics and fiberglass.\n\nIt is a trim sealant, not a roof lap sealant. It is a known RV brand.\n\nIt fits owners sealing window and door edges. With clear rv roof sealant, window and door edges fits it best.",
     "specs": [
       "Clear cap sealant",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xeBgmD-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FC98X2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FC98X2?tag=rvgearlab-amz-20",
     "description": "The Geocel Pro Flex is a 10 ounce clear flexible sealant cartridge. Its listing says it adheres to many surfaces even when damp, can be applied over itself, is paintable and resists dirt pick-up.\n\nIt is the only one here that sticks to damp surfaces. It costs less than Camco.\n\nIt fits owners who need a clear tube with forgiving prep. On clear rv roof sealant, damp surface repairs is where it fits.",
     "specs": [
       "10 oz clear cartridge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mIyt73YKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT3VWHWM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT3VWHWM?tag=rvgearlab-amz-20",
     "description": "The Gociean non-leveling sealant stays on vertical surfaces and fills cracks, seams, windows and skylights. Its listing names a 30 minute surface dry time and low odor with UV resistance.\n\nIt is made for slopes and verticals rather than flat laps. Color is not stated in the lead text.\n\nIt fits owners with sloped or vertical seams. Under clear rv roof sealant, expect vertical seams to suit it.",
     "specs": [
       "Non-leveling lap sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317QBWc+3SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877QPNQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877QPNQ9?tag=rvgearlab-amz-20",
     "description": "The Alpha all purpose RV sealant is non-sag and works best on vertical or uneven surfaces. Its listing says it needs minimal prep and handles shocks and vibration once cured.\n\nIt is not recommended for flat surfaces where water ponds. Color is not stated in the lead text.\n\nIt fits owners who want a simple tube for uneven areas. In clear rv roof sealant, uneven vertical seals is its lane.",
     "specs": [
       "Non-sag all purpose sealant",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410A5QMAQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 4 piece self-leveling sealant is white and designed for RV roofs. Its listing says it uses hybrid technology, pumps out easily and cures quickly with low odor and low VOC.\n\nIt is white, not clear, which makes it the contrast pick here. It gives four tubes.\n\nIt fits owners who prefer a white roof seal. For clear rv roof sealant, it suits white roof seals.",
     "specs": [
       "White 4 pack",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iyafkrLjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ENDOJ0G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ENDOJ0G?tag=rvgearlab-amz-20",
     "description": "Wet & Forget Shower in the 64 oz vanilla spray is a no-scrub formula that targets soap scum, grime and body oils. The listing says to spray weekly, leave it for 8 to 12 hours, then rinse with warm water.\n\nAgainst the Fresh Scent version, it is the same formula with a different fragrance. Against Thetford Aqua-Clean, it is a dedicated shower product rather than an all-surface foam.\n\nA strong choice for fiberglass showers where you want a weekly spray and no scrubbing. It earns its slot for weekly no-scrub upkeep.",
     "specs": [
       "64 oz no-scrub spray",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Xsm0SrLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B57SFPQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B57SFPQT?tag=rvgearlab-amz-20",
     "description": "Wet & Forget Shower in the fresh scent is a 64 oz no-scrub spray that lists fiberglass, acrylic, tile and glass. It uses the same weekly spray and 8 to 12 hour wait, with no bleach, ammonia or dyes.\n\nCompared with the Vanilla version, it differs mostly by scent and a slightly lower shelf price. Compared with Pink Stuff foam, it relies on dwell time in place of foam and wiping.\n\nBest for acrylic and fiberglass owners who prefer a clean scent and a spray bottle. It is a natural fit for acrylic showers.",
     "specs": [
       "64 oz, up to 12 weeks",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rcy4BKGFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006H93EQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006H93EQ?tag=rvgearlab-amz-20",
     "description": "Thetford Aqua-Clean Kitchen and Bath Cleaner is a 32 oz UltraFoam made for RV, boat and home surfaces. The listing says it is non-abrasive and safe on plastic, porcelain, fiberglass and system seals.\n\nAgainst the Wet & Forget picks, it works as a foam you spray and wipe in minutes, not an overnight soak. Against Walex, it names fiberglass and seals directly.\n\nBest for owners who want one RV-made cleaner for the shower, sink and counters. Think of it as the pick for all-in-one rv bath.",
     "specs": [
       "32 oz UltraFoam",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D61Y2hl8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFXZQQF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFXZQQF?tag=rvgearlab-amz-20",
     "description": "Walex Premium RV/Marine Kitchen and Bath Cleaner is a naturally derived citrus cleaner for counters, sinks and bath surfaces. It is made for the compact spaces of RVs and boats.\n\nCompared with Thetford Aqua-Clean, it is a lighter-duty cleaner with a plant-based positioning. Compared with PROSOL WORKS, it targets kitchen and bath specifically.\n\nA fit for buyers who prefer a naturally derived formula for light-to-moderate shower cleaning. Buyers focused on light bath cleaning will find it a sensible match.",
     "specs": [
       "Naturally derived formula",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NtIZFq4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SFGCNCG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SFGCNCG?tag=rvgearlab-amz-20",
     "description": "The Pink Stuff Miracle Bathroom Foam Cleaner is a 25 oz foam for tiles, sinks, tubs, showers and faucets. The listing names limescale, soap scum and hard water stains.\n\nCompared with the Wet & Forget picks, it is a short-dwell foam that you spray, wait and wipe. Compared with Thetford Aqua-Clean, it names limescale as a target.\n\nA good option for hard-water campsites where limescale on fixtures is the problem. It earns its slot for hard water stains.",
     "specs": [
       "25 oz bathroom foam",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P9tjektaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDRCSSF8?tag=rvgearlab-amz-20",
     "description": "PROSOL WORKS RV Interior Cleaner is a 16 oz water-based spray for toilets, countertops, flooring and upholstery. It is described as free from harsh chemicals and safe for households with children and pets.\n\nAgainst Walex, it is a broader interior cleaner. Against the Wet & Forget picks, it is for light daily cleaning, not a soap-scum soak.\n\nA fit for weekly wipe-downs of the whole RV interior in one bottle. It is a natural fit for whole-interior wipe-downs.",
     "specs": [
       "16 oz water-based spray",

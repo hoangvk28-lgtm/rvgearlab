@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j94egikZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7XQD4MR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7XQD4MR?tag=rvgearlab-amz-20",
     "description": "The JBphxior kit is designed specifically for Coleman-Mach 450XX, 452XX, 470XX, 472XX, 480XX and 482XX series air conditioners. The JBphxior kit is designed specifically for Coleman-Mach 450XX, 452XX, 470XX, 472XX, 480XX and 482XX series air conditioners.\n\nIt costs about 30 dollars less than the Polar Start and cuts starting current by 75 percent. The 1497-3601 kits cost less but give fewer details.\n\nIt reduces the compressor's starting current by 75 percent and cuts noise and vibration at startup. It suits owners who want a kit that names their series and states a 75 percent cut.",
     "specs": [
       "Fits Coleman-Mach 450XX to 482XX",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3TNr6YzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSXQQBKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSXQQBKZ?tag=rvgearlab-amz-20",
     "description": "The Polar Start soft starter kit includes hardware and an installation guide covering over 70 models of RV air conditioners. The Polar Start soft starter kit includes hardware and an installation guide covering over 70 models of RV air conditioners.\n\nCompatible makes include Dometic, Coleman (Airxcel), Houghton Belaire and GE, and it can start two air conditioners on 30 amps. It costs the most of the six.\n\nCompatible makes include Dometic, Coleman (Airxcel), Houghton Belaire and GE, and it can start two air conditioners on 30 amps. It suits owners who may swap AC brands or run two units.",
     "specs": [
       "Covers 70+ RV AC models",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S8P-V4skL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1T29JPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1T29JPG?tag=rvgearlab-amz-20",
     "description": "The XINMANG kit is tailored to Coleman-Mach 450XX to 482XX series with the 1497-3601 part number. The XINMANG kit is tailored to Coleman-Mach 450XX, 452XX, 470XX, 472XX, 480XX and 482XX series with the 1497-3601 part number.\n\nThe listing says a novice can install it in about 20 minutes and that it is weather sealed. It costs the same as the CCNLHZM.\n\nThe listing says a novice can install it in about 20 minutes and that it is weather sealed. It suits first-time installers who want a quick fit.",
     "specs": [
       "1497-3601 Coleman-Mach fit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LU48nsdKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH6WRGSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH6WRGSL?tag=rvgearlab-amz-20",
     "description": "The CCNLHZM kit is a 1497-3601 soft start control kit that reduces inrush amperage up to 75 percent and lessens overall power consumption. The CCNLHZM kit is a 1497-3601 soft start control kit for Coleman 450XX, 452XX, 470XX, 472XX, 480XX and 482XX air conditioners.\n\nIt uses semiconductor materials to cut instantaneous current. It costs the same as the XINMANG.\n\nIt reduces inrush amperage up to 75 percent and uses semiconductor materials to cut instantaneous current. It suits owners who want the 75 percent figure at a low price.",
     "specs": [
       "1497-3601 for Coleman-Mach",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aZW11s2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFYWBXCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFYWBXCM?tag=rvgearlab-amz-20",
     "description": "The XHEIN kit is a Soft Start Control Kit 1497-3601 that replaces the OEM part for Coleman-Mach 450XX to 482XX air conditioners. The XHEIN kit is a Soft Start Control Kit 1497-3601 that replaces the OEM part for Coleman-Mach 450XX to 482XX air conditioners.\n\nIt reduces peak starting power to minimize surges. It costs about 6 dollars more than the CRAPOZ.\n\nIt reduces peak starting power to minimize surges that trip circuit breakers. It suits owners who want to match the OEM part number.",
     "specs": [
       "Replaces OEM 1497-3601",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+3FYuVbXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJZQ3QBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJZQ3QBF?tag=rvgearlab-amz-20",
     "description": "The CRAPOZ kit is a 1497-3601 soft start control kit that cuts inrush current by up to 75 percent in a flame-retardant, dustproof ABS housing. The CRAPOZ kit is a 1497-3601 soft start control kit for Coleman Mach 450XX, 452XX, 470XX, 472XX, 480XX and 482XX series.\n\nIt undercuts every other pick here. It names the same Coleman Mach series as the other 1497-3601 kits.\n\nA flame-retardant, dustproof ABS housing and up to 75 percent less inrush current make it a clean fit for a Coleman rooftop unit. It suits budget buyers with a listed Coleman-Mach series.",
     "specs": [
       "1497-3601 for Coleman Mach",

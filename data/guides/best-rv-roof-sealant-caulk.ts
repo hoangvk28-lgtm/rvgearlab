@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KuM52fCCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LSW-1 is a 10.3 oz self-leveling lap sealant for RV roofing. It works with EPDM, TPO and PVC membranes and adheres to aluminum, mortar, wood, vinyl, galvanized metal, fiberglass and concrete, and it is sun-ray stabilized to avoid discoloration.\n\nAgainst the BEBOBLY, it has a long record on RV roofs and a stated membrane list. Against the Kohree, it is for horizontal surfaces only.\n\nBest for lap seams, vent bases and flat surfaces on EPDM, TPO or PVC roofs. A dependable standard.",
     "specs": [
       "10.3 oz self-leveling lap sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VhuGJrrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00YBFTCZE?tag=rvgearlab-amz-20",
     "description": "The Dicor Ultra Sealant is a 10.1 oz polyether sealant with no solvents or isocyanates. It is non-yellowing, weather-enduring, fast curing and paintable with most paints, and its listing notes that polypropylene roof accessories and some membranes must be primed with Dicor Ultra Sealant Primer.\n\nAgainst Dicor 501LSW, it is polyether and paintable with a primer note. Against the hybrid silicone BEEST, it avoids silicone chemistry.\n\nBest for owners who want a paintable sealant that does not yellow. A good pick for mixed accessories.",
     "specs": [
       "10.1 oz polyether sealant",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mUDdXDDAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPFZKG11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPFZKG11?tag=rvgearlab-amz-20",
     "description": "The BEBOBLY lap sealant is a self-leveling formula that levels in about 30 seconds and lists over 300 percent elongation. It is described as non-shrinking, non-cracking, no odor and UV stable for RV roofs.\n\nAgainst Dicor 501LSW, it states elongation and leveling time. Against the Ziollo, it costs a bit more.\n\nBest for roofs that flex a lot with temperature. A good pick for large seams.",
     "specs": [
       "Self-leveling in about 30 seconds",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21zX9N4YUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-amz-20",
     "description": "The Ziollo is a self-leveling EPDM lap sealant for rubber roofs, seams and vents. A 10 oz tube covers 25 linear feet, and the formula is non-hazardous with no solvents.\n\nAgainst the BEBOBLY, it costs less and states linear coverage. Against Dicor 501LSW, it names EPDM rubber roofs.\n\nBest for rubber roofs, seams and vents on a budget. A solid everyday choice.",
     "specs": [
       "10 oz self-leveling EPDM caulk",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417+GfmOEHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8Y7992T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8Y7992T?tag=rvgearlab-amz-20",
     "description": "The BEEST Self-Leveling RV Roof Sealant is a 10 oz hybrid silicone formula that is thick enough not to drip out of the tube on its own. It is described as working even in wet conditions and protecting against UV rays and extreme weather.\n\nAgainst the Ziollo, it lists hybrid silicone and wet application. Against the Dicor Ultra, it is self-leveling.\n\nBest for quick repairs in damp weather. A budget-friendly lap sealant.",
     "specs": [
       "10 oz hybrid silicone",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f4WZohYgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4895SXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4895SXG?tag=rvgearlab-amz-20",
     "description": "The Kohree Non-Sag RV Roof Sealant is a non-leveling formula that keeps its shape without dripping or running. It bonds to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood and can patch cracks on vertical surfaces.\n\nAgainst the self-leveling picks, it works on vertical edges and gaps. Against Dicor Ultra, it lists a wider surface list.\n\nBest for vertical joints, edges and cracks. A necessary companion to a self-leveling tube.",
     "specs": [
       "Non-sag, non-leveling sealant",

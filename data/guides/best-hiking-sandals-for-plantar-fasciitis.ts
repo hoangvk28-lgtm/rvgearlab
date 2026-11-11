@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4185oUp86YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVX5GBHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVX5GBHX?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Bionic Arch uses a bionic design with an orthotic arch-supportive footbed, a heel cup and a thick cushioned sole with a front rolling balance design. A breathable mesh upper, three hook-and-loop straps and a non-slip tread complete the build.\n\nCompared with the KuaiLu Suede-Strap, it leans on mesh and breathability rather than padded suede straps. Against the YESWIN, it adds a rolling forefoot shape and a heel cup.\n\nIt suits women who want a structured, orthotic-style sandal for long summer walks. The wider sole fits the way the foot moves.",
     "specs": [
       "Orthotic arch-support footbed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4172XT1UOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVXC363P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVXC363P?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Suede-Strap pairs memory foam cushioning and an orthotic arch footbed with three soft padded suede leather straps. The listing adds a quick-dry slip-on build, a textured footbed for creek walking and non-slip tread.\n\nIt costs a little less than the KuaiLu Bionic Arch, and the padded straps spare tender skin. Compared with the WHITIN, it brings thicker cushioning and arch contouring.\n\nIt suits women who want comfort and a recovery-style feel after long days on their feet. The wide straps keep the foot in position.",
     "specs": [
       "Memory foam, orthotic arch footbed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VLZG2++nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWJSCTBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWJSCTBJ?tag=rvgearlab-amz-20",
     "description": "The YESWIN Orthopedic names plantar fasciitis in its listing and describes a cushioned footbed, a shock-absorbing midsole and a sturdy rubber outsole. The open-toe mesh upper keeps the foot cool.\n\nCompared with the KuaiLu Bionic Arch, it has fewer adjustment details and a sleeker casual look. Against the YOCCI Walking Sandal, it focuses on a mesh upper and shock absorption.\n\nIt suits women who want a stylish walking sandal that still offers orthopedic support. Neutral colors suit travel outfits.",
     "specs": [
       "Arch support system",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GYdGYl1+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN1JS8J1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN1JS8J1?tag=rvgearlab-amz-20",
     "description": "The WHITIN Trail has an EVA midsole for arch support and shock absorption, three adjustable hook-and-loop straps and a deep heel cup. Quick-dry webbing and a durable rubber outsole let it double as a river sandal.\n\nNext to the KuaiLu sandals, it is lighter and closer to a true hiking sandal. It costs less than both KuaiLus.\n\nIt suits women who hike creeks and trails and want a secure, grippy sandal. The rugged foot protection prevents abrasions.",
     "specs": [
       "EVA midsole with arch support",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OSTrz7SoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7MDPJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7MDPJL?tag=rvgearlab-amz-20",
     "description": "The YOCCI Walking Sandal names plantar fasciitis relief and uses a double-layer cushioned footbed with heavy-duty support and shock absorption. Quick-dry webbing with hook-and-loop closures at toes, heel and ankle adjusts the grip, and an anti-slip rubber outsole provides traction.\n\nIt is the lowest-priced pair in the list and borrows features from sandals costing twice as much. Compared with the WHITIN Trail, it is more cushioned and less rugged.\n\nIt suits women who want a budget orthopedic-style sandal for walks and water. Full-length cushioning spreads pressure.",
     "specs": [
       "Double-layer cushioned footbed",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gi2HBn-lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TNRV66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TNRV66?tag=rvgearlab-amz-20",
     "description": "The EAGBUB 2-pack has two bars, each with a 5200mAh battery for 10,400mAh total, 3000K, 4500K and 6000K white, plus red flash. It lists about 7 hours on high and up to 33 hours on low, dimming from 100% to 10%, USB output and Type-C charging in 5 to 6 hours.\n\nTwo bars arrive in one pack, and the listing names a 1/4 inch tripod thread among five mounting options, from magnets to chains. That makes it the most flexible mount list of the six.\n\nIt suits car campers who want one light in the tent and one at the table or the SUV. The USB output tops up a phone.",
     "specs": [
       "2 bars, 5200mAh each",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413kJadkMdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGQN4XKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGQN4XKV?tag=rvgearlab-amz-20",
     "description": "The BSEED bar has 5 modes: 3000 lumens high, 1500 lumens low, warm light, red light and SOS. It has a 5200mAh battery for 3.5 hours on high and 6.5 on low, N50 magnets with a silicone base, hooks, IP54 water resistance and IK08 impact resistance.\n\nIt matches the other 3000 lumen bars on output and costs less than the MechaniLite and Hipplan. It names red and warm modes alongside SOS.\n\nIt suits campers who want a bright, cheap bar with red and warm options. The 360 degree head and 180 degree legs position the beam.",
     "specs": [
       "3000 lumens, 5 modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bgQn45adL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK7W7BRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK7W7BRC?tag=rvgearlab-amz-20",
     "description": "The Hipplan bar has 102 LEDs for up to 3000 lumens, four modes (white, warm, yellow and emergency flash), a 5200mAh battery with a 5000-cycle life and Type-C charging in 2 to 3 hours. It is built from aluminum alloy and ABS with IP65 water resistance, two magnets and two hooks.\n\nIt lists the best weather rating of the 3000 lumen bars, IP65 against IP54, and the fastest charge time. It costs more than the BSEED.\n\nIt suits campers in wet climates who want a rugged bar and quick charging. The yellow mode helps against bugs.",
     "specs": [
       "102 LEDs, 3000 lumens, 4 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h2bR8hIkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F27SRF7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F27SRF7B?tag=rvgearlab-amz-20",
     "description": "The SIOLAXEN has a 5500mAh battery, 6500K daylight, 5 modes at 2200, 1000 and 300 lumens plus strobe and SOS, and a 6.8 inch body with IP54 resistance. It charges by USB-C with solar compatibility and uses a magnetic strip with a folding hook.\n\nIt carries the largest battery of the six and the lowest price. It is dimmer than the 3000 lumen bars.\n\nIt suits campers who want a small, cheap bar with a big battery. The compact size fits a glove box.",
     "specs": [
       "5500mAh, 6500K daylight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-D4g2EpUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6V19282?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6V19282?tag=rvgearlab-amz-20",
     "description": "The MechaniLite has an 81-LED COB board for 3000 lumens, a 5200mAh battery for 3.5 hours on high and 6.5 on low and USB-C charging. It has a 360 degree main light with 180 degree legs and an impact-resistant housing.\n\nIt matches the BSEED on output and runtime. It has a warning that the magnets will not hold on aluminum or carbon fiber.\n\nIt suits campers who want a wide, even beam on a steel surface. It hangs from hooks too.",
     "specs": [
       "3000 lumens, 81-LED COB",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318p0jZlLlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPC1WFH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPC1WFH5?tag=rvgearlab-amz-20",
     "description": "The JINLITE bar lists 3000 lumens on high and 1500 on low with 3 modes including SOS, N50 magnets on a scratch-free base and a 5200mAh battery for up to 6 hours. It carries IP54 and IK07 ratings and can act as a backup charger.\n\nIt matches the MechaniLite on price and adds an SOS mode. It is a step below the BSEED on impact rating.\n\nIt suits campers who want a signal mode and N50 magnets on a scratch-free base. The listing shows a green body.",
     "specs": [
       "3000 lumens high, 1500 low",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cbSLrOlwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GN8T9VL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GN8T9VL3?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS VOLIX P300 pairs a 256Wh LiFePO4 battery with a 300W pure sine wave AC output (600W surge) and weighs 7.87 pounds. Its listing publishes more than most in this class: a 100W USB-C PD port, two USB-A ports, a 12V car socket, 0 to 100 percent AC charging in about 2 hours, up to 110W of MPPT solar input, a UPS switchover under 20 milliseconds and a rating of over 4,000 cycles.\n\nAt $129 it is $20 cheaper than the ALLWEI 300W for the same 256Wh, which works out to about $0.50 per watt-hour against $0.58. It is 1.5 pounds heavier than the ALLWEI and offers only one AC outlet, where the DaranEner 192Wh and EnginStar 296Wh give you two. In return you get the fastest recharge claim here and the longest warranty, six years against the ALLWEI's five.\n\nPick this if you want a single CPAP, laptop and phone setup that you can plug into a wall socket while it quietly acts as a small UPS. The caveat is the single AC outlet, so a power strip is needed if you ever run two mains devices, and the 100W USB-C shares the same 256Wh pool.",
     "specs": [
       "256Wh LiFePO4, 300W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 300W holds 256Wh in LiFePO4 cells rated for 3,000 charge cycles, delivers 300W continuous and 600W peak through one pure sine wave outlet, and weighs 6.4 pounds at 9.25 by 5 by 6.81 inches. Output ports are one AC, a 60W USB-C PD, an 18W USB-A, two DC5521 and a 12V car socket, and it supports pass-through charging so you can run devices while it recharges.\n\nAgainst the ALLPOWERS P300 it costs $20 more at $149, gives up 1,000 cycles of rated life and a year of warranty, but it is 1.47 pounds lighter. Versus the yewpiny EM300, which is $0.99 more at $149.99 for 259Wh, the ALLWEI states its warranty (five years) and its recharge times: 3.5 to 4 hours on AC, 4 to 5 hours with a 100W panel, and 2 to 2.5 hours with AC and solar together.\n\nChoose it if you move the station between bed, couch and picnic table every day and weight matters more than the last $20. The caveats are the single AC outlet and the slower wall recharge compared with the 2-hour claims from ALLPOWERS and DaranEner.",
     "specs": [
       "256Wh LiFePO4, 300W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKYDWMTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKYDWMTW?tag=rvgearlab-amz-20",
     "description": "The DaranEner is the cheapest station here at $113.99 and the one with the smallest battery, 192Wh of LiFePO4 rated for 3,500 cycles. It still has two pure sine wave AC outlets at 300W with a 600W surge, a 60W USB-C PD, two 18W USB-A ports and a 120W DC port, weighs 5.73 pounds, and runs below 50 dB. Its listing says a full AC charge takes about 2 hours from a 100W wall input.\n\nAgainst the ALLPOWERS P300 it is $15.01 cheaper but holds 64Wh less, so the $0.59 per Wh works out higher than the ALLPOWERS at about $0.50. It matches the two AC outlets of the EnginStar 296Wh and the Apowking 40W Kit, but with a LiFePO4 battery instead of the lithium-ion packs those two use. The listing is blunt that it is not meant for rice cookers, hair dryers or mini-fridges above 300W.\n\nBuy it if the load is phones, a tablet, LED lights and a small fan, or as a second small unit for a tent or tow vehicle. The caveat is runtime: its own listing estimates only about 2 to 4 hours of CPAP use, so a night-long medical need calls for a larger battery.",
     "specs": [
       "192Wh LiFePO4, 300W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e8hnRhoWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHRW71SS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHRW71SS?tag=rvgearlab-amz-20",
     "description": "The yewpiny EM300 stores 259Wh in a LiFePO4 pack rated for 2,000 or more cycles and lists 300W output with a 600W peak. Ports include one AC outlet, a 65W USB-C PD, a second 36W USB-C, two USB-A, two DC ports and a car socket, and it weighs 7.17 pounds with pass-through charging and a built-in cooling system that only spins up when the unit runs warm.\n\nIt costs $149.99, which is $0.99 more than the ALLWEI 300W and $20.99 above the ALLPOWERS P300 for 3Wh more capacity than either, so the extra money buys mostly ports, not energy. It also gives less assurance: the same listing describes the AC output as both pure sine wave and corrected sine wave, and it does not state a warranty length or a UPS time. The ALLWEI and ALLPOWERS both do.\n\nPick it if you want two USB-C ports and a 65W laptop charge without an adapter, and you will mostly charge from DC. The caveat is that mismatch in the AC waveform wording, so check the waveform before powering a CPAP or sensitive electronics from the outlet.",
     "specs": [
       "259Wh LiFePO4, 300W",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AT-tNKNgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SHB84J2?tag=rvgearlab-amz-20",
     "description": "The EnginStar packs 296Wh into a 9 by 5.5 by 7.5 inch body, the largest battery here, with two 110V pure sine wave AC outlets, three USB outputs including an 18W USB-C, a 12V car port and two DC barrel ports at 12V and 24V. At $132.99 that is about $0.45 per watt-hour, the best ratio of the six. It uses a lithium battery rated for 1,000 cycles and states a 12-month warranty.\n\nIt holds 40Wh more than the ALLPOWERS P300 for $3.99 more, but the cycle rating is a quarter of the ALLPOWERS's 4,000 and the AC recharge is slow, around 7 hours against 2 hours. Its only USB-C is 18W, versus 100W on the ALLPOWERS and 60W on the ALLWEI. The listing does not publish a weight, and it warns the unit only supports devices under 300 watts.\n\nChoose it for a seldom-used emergency kit where the most stored energy per dollar matters and recharge speed does not. The caveats are the 1,000-cycle rating, a 12-month warranty (shared with the Apowking) and the unpublished weight, which makes it a poor choice for daily cycling.",
     "specs": [
       "296Wh lithium, 300W",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vwGtV2bXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHC51QJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHC51QJV?tag=rvgearlab-amz-20",
     "description": "The Apowking is the lightest pick at 5 pounds and the only one sold with a panel: a 40W monocrystalline solar panel with 10 DC connectors. Its 220Wh lithium-ion pack feeds two pure sine wave AC outlets rated 300W with a 600W peak, two USB-C PD ports and three USB-A ports, and the listing describes the unit as having no fan noise. A built-in LED panel claims about 300 lumens for 30 plus hours.\n\nAt $189.98 it is the priciest here, about $0.86 per Wh, but that price includes the panel: against the ALLPOWERS P300 at $129 the kit costs $60.98 more for 36Wh less storage. A 40W panel adds only a modest trickle in good sun, so treat it as a top-up rather than a daily recharge. The listing mentions a 12-month customer support period and does not state a cycle rating for the lithium-ion cells.\n\nPick it if you want one box that goes into a daypack with a panel included and you value the 5 pound weight. The caveats are the modest 40W panel, the unstated cycle life and the premium over the LiFePO4 units for less capacity.",
     "specs": [
       "220Wh lithium-ion, 300W",

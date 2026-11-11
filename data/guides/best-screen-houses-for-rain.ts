@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51waHkMXH3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN1RFVVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN1RFVVZ?tag=rvgearlab-amz-20",
     "description": "The East Oak 12x12 Canopy has B3 mesh, six sunshade panels and a triple-layer Oxford fabric. The listing calls its walls waterproof, and it weighs about 30 pounds with a carry bag.\n\nIt gives the largest floor of the five and the best weather panels, with a pop-up that sets up in under a minute. Against the East Oak 10x10 Canopy it is bigger and costs more.\n\nIt suits groups who want the biggest rain-ready room and a quick pitch. The sunshade panels also add privacy.",
     "specs": [
       "12 x 12 ft footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UroHwy5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-amz-20",
     "description": "The East Oak 10x10 Canopy has the same waterproof-wall design as the 12x12 and weighs 27 pounds. It has B3 mosquito netting and six sunshades, and the listing compares it with 50-pound steel-framed tents.\n\nIt costs much less than the East Oak 12x12 Canopy and is lighter by three pounds. Compared with the Litmustes Screen House it offers waterproof walls, while the Litmustes adds sandbags.\n\nIt suits families who want a manageable 10x10 with weather panels. Its wall panels add privacy as well.",
     "specs": [
       "10 x 10 ft, 27 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nQoPNvN+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3Z78WY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3Z78WY5?tag=rvgearlab-amz-20",
     "description": "The Litmustes 10x10 Screen House pops up in about 3 seconds and comes with four windproof ropes, eight heavy-duty stakes, four sandbags and anti-wind buckles. It is 300 by 300 by 205 cm and is rated for 6 to 8 people.\n\nIt has the best anchoring kit of the five, which matters most in a wet, gusty camp. Compared with the VEVOR Screen House it adds sandbags, and compared with the East Oak 10x10 Canopy it costs less.\n\nIt suits campers who face wind with rain and want the extra weights. The 205 cm peak is tall enough for most adults to stand.",
     "specs": [
       "300 x 300 x 205 cm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a2JtQcwNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-amz-20",
     "description": "The VEVOR 10x9.2 Screen House is a 7.55 ft pop-up on reinforced fiberglass and steel poles with 360 degree mesh. Its 300D Oxford canopy is described as dependable weather protection, and VEVOR sells matching 300D silver-coated sidewalls with a 1500mm waterproof rating separately.\n\nIt is the cheapest of the full-featured pop-ups and the only one with a matching sidewall kit. Compared with the Litmustes Screen House it gives taller headroom at 7.55 ft.\n\nIt suits budget campers who want to add waterproof panels when the forecast turns. The reinforced poles hold the frame steady in breezes.",
     "specs": [
       "10 x 9.2 ft footprint",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31owJUA9EjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS3MT98H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS3MT98H?tag=rvgearlab-amz-20",
     "description": "The CAMPROS 12x10 Screen House has a 90 inch center height and 120 square feet of shade under a 190T polyester roof. It has one optional sun wall and comes with stakes, tie downs and a carry bag.\n\nIt is the lowest-priced of the five and gives a long floor, and it needs about three people and ten minutes to assemble. The pop-ups above set up much faster.\n\nIt suits budget campers who want a tall, long mesh room. A 12 ft length gives a long table room.",
     "specs": [
       "12 x 10 ft, 90 in center",

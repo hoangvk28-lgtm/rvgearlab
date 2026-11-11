@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Jif5BhjIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002N5PQMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002N5PQMM?tag=rvgearlab-amz-20",
     "description": "The Valterra AquaFresh is a 1/2 inch by 10 foot drinking water hose engineered for 160 psi RV hookups. It lists NSF-listed materials, Hi-Flow fittings and an included hose gripper.\n\nIt states a pressure rating, which the Camco 10-foot does not list in the same way. It is also lower priced than the Cupohus.\n\nIt suits owners who want a documented pressure figure on a short hose. The gripper simplifies installation.",
     "specs": [
       "1/2 inch by 10 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nuv5+V5yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVLQQRSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVLQQRSN?tag=rvgearlab-amz-20",
     "description": "The Cupohus is a 5/8 inch, 10 ft drinking water hose with an extra thick wall and 3-layer hybrid polymer build. It lists a range of -4°F to 176°F and 20 percent greater rigidity.\n\nIt has a wider bore than the Valterra and Camco 10-foot, and it lists a bright green color for visibility. It is the highest priced true 10 ft pick.\n\nIt suits owners who camp in cold or rough conditions. The extra thickness resists abrasion.",
     "specs": [
       "5/8 inch by 10 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QFPlNU6bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006JLSNI?tag=rvgearlab-amz-20",
     "description": "At 10 feet with a 1/2 inch inner diameter, the Camco TastePURE is an NSF/ANSI 61 certified hose with CSA lead-free certification to NSF/ANSI 372. Diamond-hatch reinforcement and USA manufacturing round out the spec sheet.\n\nAmong the 10 foot picks it is the lowest priced, and its certification wording is the clearest of the group. The Cupohus offers a wider bore for flow.\n\nOwners who want certified drinking water credentials on a short, inexpensive hookup will like it. UV stabilization suits sunny sites.",
     "specs": [
       "1/2 inch by 10 ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yDXb87oIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BM9H25VL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BM9H25VL?tag=rvgearlab-amz-20",
     "description": "The WELLUCK is a 5/8 inch by 10 ft hose made of food-grade rubber with solid lead-free brass connectors. It is BPA free and phthalate free and straightens under water pressure.\n\nIt uses brass connectors where the others use aluminum or plastic. It has a 3x ply construction.\n\nIt suits owners who prefer brass ends. It is also lightweight.",
     "specs": [
       "5/8 inch by 10 ft",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317RwacSuuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01D51VB9E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01D51VB9E?tag=rvgearlab-amz-20",
     "description": "The Flexzilla Garden Lead-in Hose is a 5/8 inch by 10 ft hybrid polymer hose with anodized aircraft aluminum fittings. It is abrasion resistant and lies flat with no memory.\n\nIt is the lightest in feel and lays flat, and it is built as a garden lead-in. It is the pick for rinsing and utility tasks.\n\nIt suits owners who want a tough short hose for non-drinking jobs. Fittings are crush resistant.",
     "specs": [
       "5/8 inch by 10 ft",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x1kHuAnYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004ME11FS?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 25-Ft is a 5/8 inch drinking hose that is NSF/ANSI 61 certified and CSA lead-free certified. It lists diamond-hatch kink resistance and UV-stabilized PVC.\n\nIt gives 15 more feet than the 10 ft picks at a price near the Valterra. It is the pick for sites where the spigot is farther away.\n\nIt suits owners who may need extra reach. The 5/8 inch bore keeps flow strong.",
     "specs": [
       "5/8 inch by 25 ft",

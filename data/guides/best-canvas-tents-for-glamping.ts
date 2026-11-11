@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cE0xEHinL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-amz-20",
     "description": "The WHITEDUCK Regatta is made from breathable performance canvas with a PFC-free water-resistant finish. It includes a sewn-in groundsheet, a fire-retardant stove jack, mesh windows, roof vents, poles and a tool kit.\n\nAgainst the VANFOND it has taller standard walls at 2 ft 7 in, higher than average for bell tents. Compared with the ShinHye it adds two-layer doors and windows plus an electrical cable outlet.\n\nIt suits glamping couples and families who plan to stay in a heated, powered tent for several nights. The listing calls it four-season.",
     "specs": [
       "Wall height 2 ft 7 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319uuK7PBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRVVZQML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRVVZQML?tag=rvgearlab-amz-20",
     "description": "The VANFOND measures 16.4 ft across with a 9.9 ft top height and a 5.6 ft door. The listing says it fits a queen bed plus two blow-up mattresses, and it includes a sewn-in PVC groundsheet and a 5 inch stove jack.\n\nAgainst the WHITEDUCK it has the larger stated footprint and costs less. Compared with the ShinHye it has a detachable groundsheet and roll-up walls for 360-degree airflow.\n\nIt suits families who want a bed in a canvas tent and open sides in summer. The listing quotes about 25 minutes to pitch.",
     "specs": [
       "16.4 ft diameter, 9.9 ft top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tm2t--HKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT9TVL9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT9TVL9B?tag=rvgearlab-amz-20",
     "description": "The ShinHye is 100 percent cotton with a PU 5000mm waterproof rating and a PE floor against ground moisture. It is sold in four sizes, and the 3 m version has a 9.85 ft diameter and a 7.22 ft top height.\n\nIt costs about 210 dollars less than the VANFOND and has the only waterproof number printed of the three. Compared with the WHITEDUCK it costs about 350 dollars less and still includes a stove jack, mesh windows and roof vents.\n\nIt suits glamping beginners who want a cotton bell tent without paying 500 dollars or more. Pitching is a lay-flat, peg and center pole job.",
     "specs": [
       "100% cotton, PU 5000mm",

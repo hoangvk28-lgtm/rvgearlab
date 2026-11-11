@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z-ibVOqGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7R3BNG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7R3BNG7?tag=rvgearlab-amz-20",
     "description": "IRONYAK is an 18 inch tabletop charcoal grill with 319 square inches of chrome-plated cooking space, a built-in lid thermometer and reinforced legs. It works as a grill or a smoker and has a removable ash pan and a nylon cover in the box.\n\nAt about $69 it offers the largest cooking area in this guide and a cover that the others lack. The Charbroil propane grill is easier to light, while this one gives twice the room for the money.\n\nFamilies and groups of four who cook on charcoal will get the most from it. It needs basic tools to assemble.",
     "specs": [
       "18 inch, 319 sq in cooking area",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tA6QBVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-amz-20",
     "description": "The Charbroil Portable Convective is a one-burner propane grill with 190 square inches of cooking space and porcelain-coated grates. It runs on liquid propane and has a compact footprint of about 15 by 24 inches.\n\nAt about $54 it is the cheapest gas grill in this budget and carries a name that shows up in many camp kitchens. The IRONYAK has more space and the Outvita needs no fuel.\n\nCampers who want gas without paying for features will like the simple burner. It suits tailgates and RV sites.",
     "specs": [
       "190 sq in cooking space",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZReqr7aIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H797M5H5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H797M5H5?tag=rvgearlab-amz-20",
     "description": "Outvita is a 1600W electric grill with a removable stand, an interlocking hood and bowl and chrome-plated grates over stainless heating tubes. It cooks up to 10 burgers at a time and has a waterproof plug.\n\nAt about $70 it is the most expensive pick, and it needs no charcoal, propane or flare-up management. It needs a 1600W power source, so it suits campgrounds with hookups or a large power station.\n\nRV owners on powered sites, apartment dwellers and anyone who bans open flames will like it. Smoke is minimal.",
     "specs": [
       "1600W electric, 10 burgers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Iylx6J+GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW3BLTWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW3BLTWX?tag=rvgearlab-amz-20",
     "description": "The Joyfair is a cylindrical charcoal grill with a powder-coated body, a lid thermometer and a 13.5 by 8.8 inch cooking rack. A triangular leg structure and a wooden handle keep it stable and cool to touch.\n\nNear $43, the Joyfair is the lowest priced here and the smallest, with a thermometer the Charbroil lacks. The IRONYAK offers more than twice the surface for $26 more.\n\nSolo campers and couples who want temperature control in a small package will like it. It slides into a trunk corner.",
     "specs": [
       "Lid thermometer, 13.5 x 8.8 inch rack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SMvpyNioL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-amz-20",
     "description": "The BESTFIRE has a valve that connects to a 20 lb tank or a small cylinder, an adjustable regulator and foldable legs. It has 165.36 square inches of porcelain-coated cooking area.\n\nIt costs about $50, $4 less than the Charbroil, and its dual valve is the feature that sets it apart. The Charbroil has more cooking area, and this one has flexible fuel options.\n\nCampers who already own a 20 lb tank and also carry small cylinders will use both. It suits backyard and campsite cooking.",
     "specs": [
       "2-in-1 valve, 20 lb or small cylinder",

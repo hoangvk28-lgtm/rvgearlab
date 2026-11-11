@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yrcnAxhkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSR474WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSR474WC?tag=rvgearlab-amz-20",
     "description": "The Lrichy 90160 is a proportional controller for 1-3 axles that supports 2, 4 or 6 brake trailers. It uses internal inertia sensors, has an LED display and includes a snap-in dash clip, an adjustable-angle bracket and a plug-and-play port for two plug adapters.\n\nIt is sold as a replacement for the Tekonsha 90160 Primus IQ, so it is a clone, with a two-year warranty. Against the Orvex 90160 below it adds the mounting hardware and a stated two-year warranty, while the Orvex leans on a lifetime-service claim.\n\nBest for a single-axle camper or utility trailer where you want proportional stops and a simple install. Both axle limits are right for a two-brake trailer, so you are not paying for capacity you will not use.",
     "specs": [
       "Proportional, 1-3 axles",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hdlBlej0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFCHQN6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFCHQN6B?tag=rvgearlab-amz-20",
     "description": "The LAJBZ proportional controller is listed for 1-3 axle trailers with 12V electric brakes. It self-levels, has multiple boost levels and a bright digital display showing output level, trailer connection and diagnostics.\n\nCompared with the Lrichy 90160 it has no listed brake-count range or warranty, but it describes itself as ideal for RVs, campers, boats and utility trailers. It is a replacement-style unit like the rest, not a name brand.\n\nBest for a boat or utility trailer you move between vehicles with different dash angles. Confirm the exact brake count with the seller if you are unsure.",
     "specs": [
       "Proportional, 1-3 axles",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4140kVvpReL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWLMPYJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWLMPYJK?tag=rvgearlab-amz-20",
     "description": "The Orvex Universal controller is listed as a replacement for Tekonsha 90160. It has proportional braking, a digital display, a manual override lever, three boost settings and self-leveling technology.\n\nIts listing text is nearly identical to the HRepair 90160, so it is part of the same clone family. Against the Lrichy 90160 it is a bit pricier and says lifetime service and a no-hassle return policy rather than a stated warranty term.\n\nBest for buyers who want a clip or bracket mount with 180-degree range and a manual override lever. Treat the lifetime wording as a seller promise to verify.",
     "specs": [
       "Proportional, self-leveling",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fhKtKYusL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2X8M7X?tag=rvgearlab-amz-20",
     "description": "The CURT TriFlex Next is a proportional inertia controller with a triple-axis accelerometer, and the third axis adjusts power on hills. The title says 2-4 axles while one bullet says 1-4 axles and operates 2-8 brakes.\n\nThat conflict is the main catch for a single-axle trailer. Against the Lrichy 90160 it is a major brand with a slim low-profile build, but you pay roughly double for capacity a two-brake trailer does not need.\n\nBest if you plan to upgrade to a tandem later and want a CURT controller now. Ask the seller to confirm single-axle support before buying.",
     "specs": [
       "Triple-axis accelerometer",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hrgLTww9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G543YF5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G543YF5J?tag=rvgearlab-amz-20",
     "description": "The AKLOSIPY harness is a plug-and-play connector for Sprinter 2500 and 3500 vans, listed for 2500 2007-2009 and 3500 2007-2021 years. It lists reference part number 306300 and weatherproof terminals.\n\nIt is not a controller, so it ranks below the controllers above, but it fills a gap the other picks cannot. Compared with the Oyviny 3036-P below it targets a van platform rather than Ford trucks.\n\nBest for a Sprinter owner pulling a single-axle trailer who already has a controller. Check the model year range before ordering.",
     "specs": [
       "Sprinter 2007-2021 fits",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zvcf4sxAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097ZG55VH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097ZG55VH?tag=rvgearlab-amz-20",
     "description": "The Oyviny 3036-P is a plug-in adapter for 2009-2021 Ford F-150, 2017-2023 F-250 through F-550 and several Ford and Lincoln SUVs. It has a standard 4-pin plug and does not require cutting or splicing.\n\nVersus the AKLOSIPY Sprinter harness, it covers a far larger set of vehicles, but it is still a connector, not a controller. Its list names Draw-Tite Activator and Tekonsha controllers, so pair it with a controller that has a matching plug.\n\nBest for a Ford owner who wants a clean connection for a single-axle trailer. Check your exact year against the list.",
     "specs": [
       "Select Ford and Lincoln fits",

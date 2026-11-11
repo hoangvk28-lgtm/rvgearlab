@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JxnlOV9wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHR2DJK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHR2DJK9?tag=rvgearlab-amz-20",
     "description": "The Sireck lists a 40,000mAh pack with up to 80 hours on the lowest setting and 24 hours on high. It is a 10-inch fan with 5 speeds, a digital battery indicator, remote control, a timer and an LED lantern with 3 brightness levels.\n\nIt is the only true 40,000mAh listing here, with a larger fan and a longer low-speed runtime than the 36,000mAh Korbot. Compared with the FRIZCOL it carries more than 1.5 times the pack.\n\nIt suits campers on multi-night trips who want strong airflow and a lantern in one hanging unit. The 45 and 90 degree oscillation spreads air across a tent.",
     "specs": [
       "40,000mAh, 80 hours low",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F+sj+k-HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRHKWJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRHKWJD?tag=rvgearlab-amz-20",
     "description": "The Korbot lists a 36,000mAh capacity built from two detachable 18,000mAh batteries that can be swapped, with a 120 hour runtime claim. It has 2 LED brightness levels, a timer, low-noise operation and a hook with adjustable angle.\n\nIt is a near-size alternate to the Sireck, giving up about 10% of the capacity for swappable packs. Compared with the FRIZCOL it carries a much larger total pack and a hook.\n\nIt suits campers who want to charge one battery while the other runs. The two-pack design also lets you carry a spare.",
     "specs": [
       "36,000mAh, two 18,000mAh packs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL carries a 24,000mAh pack that the listing ties to 11 to 60 hours of use, and it spins at 3950 rpm while staying under 30 dB. Three timer presets, two lamp levels, a tiltable head and non-slip feet round out the body.\n\nIt is the lowest priced fan and about two thirds the capacity of the Korbot. The listing frames it as a 3-in-1 fan for camping, fishing and picnics.\n\nIt suits campers who want a mid-size pack at a low price and do not need the largest capacity. Under-30 dB operation helps at night.",
     "specs": [
       "24,000mAh, 11 to 60 hours",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YTWMqf9ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWHFWYL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWHFWYL?tag=rvgearlab-amz-20",
     "description": "This kit pairs two 400W monocrystalline panels, with 10BB cells and efficiency up to 25%, with a 30A MPPT controller, MC4 connectors and pre-drilled mounting holes, and the listing calls it a kit for a 12 volt system. It costs $529.99, or about $0.66 per watt, the lowest in this group by far.\n\nThe price hides an electrical limit the listing does not mention. At about 14V, a 30A controller passes only about 420W on a 12V bank, so nearly half of the 800W array would be clipped, while on a 24V bank the same controller passes about 840W. That makes it a 24V kit in practice, and it costs $319.91 less than the WUZECK 24V 8x100 that is designed for 24V from the start. Brackets, cables and monitoring are not described.\n\nPick this if you run a 24V battery bank and have room for two large panels. The caveat is that on 12V you are paying for 800W you cannot use, so skip it for any 12V system.",
     "specs": [
       "2 x 400W, up to 25%",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nbGthKNML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KKTBKCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KKTBKCF?tag=rvgearlab-amz-20",
     "description": "ExpertPower includes eight 100W monocrystalline panels (800W) rated up to 21% efficiency, a 60A MPPT controller with a Bluetooth adapter that auto-detects 12V, 24V, 36V and 48V systems with a 150V maximum PV input, a pair of 20 foot 10AWG solar cables, a pair of 6 foot 8AWG battery cables, eight sets of mounting brackets and branch connectors. It costs $859.99, or about $1.08 per watt.\n\nA 60A controller passes about 840W at 14V on a 12V bank, which is enough for 800W with a 40W margin, and it also handles 24V. It costs $140 less than the ExpertPower 100A 8x100, which has the same panels and a larger controller, and $29.01 less than the ACOPOWER 4x200 that uses half as many panels. The cost is panel count: eight panels need the most roof area and wiring of any kit here.\n\nChoose it if you have a 12V bank, a roof with room for eight small panels and want stated cable gauges and Bluetooth. The caveat is that 40W of headroom leaves no room to add panels.",
     "specs": [
       "8 x 100W, up to 21%",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UJsvbv-YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJCWCXND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJCWCXND?tag=rvgearlab-amz-20",
     "description": "WUZECK supplies eight 100W PERC monocrystalline panels with 23% conversion, aluminum frames with IP65 or better protection rated for 2400Pa wind and 5400Pa snow, Z brackets, black extension cable and a 50A controller. The listing says this version is for 24V batteries and the controller works with sealed, gel, flooded and lithium batteries. It costs $849.90.\n\nAt about 28V charging, a 50A controller passes around 1,400W, so on a 24V bank it has plenty of room for 800W and for later expansion. It costs $10.09 less than the ExpertPower 60A 8x100 but is locked to 24V, so it will not work on a 12V RV battery. The listing does not state whether the 50A controller is MPPT or PWM, which changes harvest.\n\nPick this if you have or plan a 24V battery bank and want eight small panels. The caveat is the controller type is undefined in the listing, so ask the seller.",
     "specs": [
       "8 x 100W PERC, 23%",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-ayfxqXVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097T6SZWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097T6SZWR?tag=rvgearlab-amz-20",
     "description": "ACOPOWER includes four 200W monocrystalline panels with pre-drilled holes and 35 inch 12AWG leads, a 60A MPPT controller with 99.5% peak efficiency, a 30 foot 12AWG solar adaptor kit, an 8 foot 8AWG tray cable, a cable entry housing, four Z bracket sets and 1Y4 branch connectors. The listing says the panels wire in parallel for 12V or series for 24V and notes the order is delivered in multiple packages. It costs $889.\n\nIt is $29.01 more than the ExpertPower 60A 8x100 but uses half as many panels, which means fewer connections and a smaller roof layout, and the 60A MPPT controller passes about 840W on 12V. It costs $110.99 less than the ExpertPower 100A. It is the only kit here listing a cable entry housing and tray cable.\n\nChoose it if you want four panels, a 12V-capable controller and a tidy roof entry. The caveat is the listing's feature text mentions a 50A controller in one bullet and 60A in the title, so confirm the controller amps before you buy.",
     "specs": [
       "4 x 200W monocrystalline",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51o0cl4PJ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSKLRRC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSKLRRC3?tag=rvgearlab-amz-20",
     "description": "This ExpertPower kit has eight 100W monocrystalline panels (800W), a 100A MPPT controller with built-in Bluetooth and a display that auto-detects 12V, 24V, 36V and 48V systems with a 250V maximum PV input, a pair of 20 foot 10AWG MC4 solar cables, a pair of 6 foot 8AWG battery cables, eight bracket sets and connectors. It costs $999.99.\n\nIt costs $140 more than the ExpertPower 60A 8x100 with identical panels, and the 100A controller passes about 1,400W at 14V on 12V, so the extra money buys 560W of headroom for adding panels, plus a 250V PV input for higher-voltage series strings. If you will not expand, that money is wasted, since the 60A already passes the full 800W.\n\nPick this if you plan to grow the array later or want long series strings. The caveat is that 100A requires thick battery cable, and the 6 foot 8AWG battery cable in the box is minimal for that current.",
     "specs": [
       "8 x 100W, up to 21%",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xq0TWKLxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z78BCZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z78BCZH?tag=rvgearlab-amz-20",
     "description": "RICH SOLAR supplies four 200W monocrystalline panels with 9 busbars and an anti-reflective coating, plus a 60A MPPT controller with a digital display of volts, amps and amp hours. The listing highlights a pre-assembled wiring harness that needs no crimping tools, plug-in compatibility with other RICH SOLAR products for later expansion, a 25-year output warranty and free lifetime after-sales support. It costs $1,299.99.\n\nIt is the most expensive kit here, $410.99 above the ACOPOWER 4x200 that has the same panel layout and controller size, and $770 above the 2x400 30A Kit. The extra money buys the no-crimp harness, the stated 25-year output warranty and lifetime support, not extra capacity or cable, since the listing names no cable gauges, brackets or entry housing.\n\nChoose it if you do not want to crimp cable and value a stated warranty and support commitment. The caveat is that other four-panel kits give more listed hardware for hundreds of dollars less.",
     "specs": [
       "4 x 200W, 9 busbars",

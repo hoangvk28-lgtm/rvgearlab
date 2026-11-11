@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tDgoDelcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWK7Z3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWK7Z3Y?tag=rvgearlab-amz-20",
     "description": "The Columbia Women's Transverse lists Omni-Tech multilayered, seam-sealed waterproofing for prolonged moderate rain and snow, Techlite cushioning with high energy return and Omni-Grip traction. The upper blends leather and mesh, with metal hardware and a cushioned collar.\n\nCompared with the Columbia Newton Ridge Lightweight, it focuses on sealed waterproofing rather than a leather and mesh bootie. Against the ANJOUFEMME Waterproof, it brings named systems instead of general claims.\n\nIt suits women who hike through drizzle and wet snow and want a well-documented boot. The cushioned collar protects the ankle on long days.",
     "specs": [
       "Seam-sealed Omni-Tech",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410knL1bxfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6KNMD62?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6KNMD62?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME Waterproof Hiker lists a sealed waterproof membrane, a mid-cut collar with a structured heel, and a cushioned EVA midsole. Deep, aggressive lugs grip wet rock and loose gravel.\n\nCompared with the Columbia Newton Ridge Lightweight, it highlights ankle structure over leather build. Against the NORTIV 8 Trekking, it gives a firmer mid-cut and more aggressive lugs.\n\nIt suits women who roll ankles on uneven ground and want stability with rain protection. Abrasion-resistant materials and reinforced stitching add durability.",
     "specs": [
       "Sealed waterproof membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dsXn1M58L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWBS3M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWBS3M9?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Lightweight uses waterproof full-grain leather and mesh bootie construction, a durable mesh tongue and a lace-up closure. A lightweight midsole and Omni-Grip traction with a dual-zone winter tread handle ice and snow.\n\nNext to the Columbia Women's Transverse, it costs noticeably less and swaps seam sealing for leather. Compared with the NORTIV 8 boots, it brings a famous name and leather quality.\n\nIt suits women who want leather durability on a middle budget. The dual-zone winter tread suits cold, icy trails.",
     "specs": [
       "Waterproof full-grain leather",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S5Y1QdULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093W724Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093W724Y8?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Trekking uses a suede and mesh structure with a durable mesh tongue for breathability. It has a lightweight durable midsole and advanced traction rubber soles, with a slightly firm sole for durable support.\n\nAgainst the NORTIV 8 Women's Toe-Cap boot, it focuses on style and breathable mesh. It costs a bit more than that boot.\n\nIt suits women who want a feminine-looking trail boot for everyday outdoor use. Contrasting color blocks add a bright finish.",
     "specs": [
       "Suede with mesh tongue",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xsFzvIYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9JGX19R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9JGX19R?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Toe-Cap lists a waterproof membrane lining, rubber detailing on the upper, a suede upper, a protective toe cap and a textured rubber outsole. A flexible insole with a heel cup and a padded collar add comfort.\n\nIt is the lowest-cost boot here, and it names a membrane where the NORTIV 8 Trekking does not. Against the Columbia boots, it gives up brand pedigree for price.\n\nIt suits women who need a dry, protected boot for casual hikes on a tight budget. The toe cap shields toes from roots and stones.",
     "specs": [
       "Waterproof membrane lining",

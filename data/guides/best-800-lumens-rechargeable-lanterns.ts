@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417M-0uu0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-amz-20",
     "description": "The AlpsWolf Camping Lantern lists 800 lumens, a 3600mAh battery that fully charges in about 3 hours and an IP65 water and dust rating. It works as a lantern, flashlight, spotlight and red strobe, weighs 0.8 pounds and includes a strap in the box. It costs $24.99, the lowest price of the two.\n\nAgainst the Coleman below it, the AlpsWolf carries a higher IP65 rating compared with IPX4 and costs much less. The spotlight mode adds a use the Coleman does not have, with a range of 1640 feet claimed in the listing, and the 4-in-1 design means one light replaces a flashlight and a lantern. At 0.8 pounds, it is easy to pack in a daypack or a drawer.\n\nThe right call for campers after one compact light that works as a lantern, a torch and a signal. It suits hikers, anglers, RV owners who want a light in the glove box and anyone who needs water and dust resistance for rainy campsites.",
     "specs": [
       "800 lumens, 3600mAh, 0.8 lb",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b-Z8N5EdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1BXRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1BXRG?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic Rechargeable 800L LED Lantern has a built-in 4800mAh lithium-ion battery with level indicators. It steps through 100, 300 and 800 lumens, and carries an IPX4 water resistance rating with 1 meter impact resistance. It costs $59.99 and comes from a recognized camp brand.\n\nAgainst the AlpsWolf above it, the Coleman has a larger 4800mAh battery and three clear lumen steps, which make it easier to plan runtime across a weekend. The level indicators show charge at a glance, and the impact resistance to 1 meter adds protection for a lantern that spends its days on a picnic table and its nights on a shelf. The classic lantern shape spreads light around a table.\n\nThis is the pick for families who want a classic lantern look with a simple three-step control. It suits car campers, RV owners who set a lantern on the picnic table every evening and anyone who values a bigger battery and a familiar brand.",
     "specs": [
       "Up to 800 lumens, 4800mAh",

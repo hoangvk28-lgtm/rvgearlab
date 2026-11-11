@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eh0jKFQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CT17FKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CT17FKB?tag=rvgearlab-amz-20",
     "description": "The Clostnature one-person tent weighs 4 pounds in total and is freestanding with two aluminum poles. Full interior mesh walls maximize ventilation, and a reinforced pole structure with adjustable guy lines handles wind.\n\nCompared with the Sutekus, it is a real backpacking-grade tent with aluminum poles and guy lines. Against the camppal, it stands on its own without stakes.\n\nIt suits solo hikers who want a light, free-standing tent for three seasons. It pitches fast and packs small.",
     "specs": [
       "4 lb total weight",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LnrN9TvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-amz-20",
     "description": "The camppal solo tent gives you an 8.2 foot floor, a 2.95 foot width and a 3500 to 4000mm waterproof rating. Zipper seams are taped and the single-pole structure sets up in about 3 minutes.\n\nCompared with the Clostnature Solo, it offers a longer floor and a higher waterproof number. Against the Night Cat Pop-up, it is a traditional pitch with a better fly.\n\nIt suits tall solo hikers who need length and want strong waterproofing. The single pole keeps weight down.",
     "specs": [
       "8.2 ft long, 3500 to 4000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+a0wNBbyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HC5CGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HC5CGW?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a one-person backpacking tent sold as a four season shelter. It has aircraft grade aluminum poles, a two-way zipper and an interior loop for hanging a camping light.\n\nCompared with the Clostnature Solo, it adds a light hook and a sturdier pole set. Against the camppal, it has fewer stated numbers.\n\nIt suits solo hikers who want winter-ready features and small conveniences. The two-way zipper makes it easy to vent.",
     "specs": [
       "Aircraft grade aluminum poles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41POIor4EoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-amz-20",
     "description": "The Night Cat Pop-up tent opens in about 3 seconds when thrown on the ground. It weighs 1.5 kg and packs to 21 by 21 by 2 inches, with an inner size of 7.7 by 3.3 by 2.95 feet.\n\nCompared with the camppal, it pitches in seconds instead of minutes and packs flat. Against the Clostnature Solo, it is lighter on setup effort and also lighter on pole structure.\n\nIt suits solo campers who value speed, like beach and festival goers. One door and two windows give airflow.",
     "specs": [
       "1.5 kg, packs 21 x 21 x 2 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHXwNqr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-amz-20",
     "description": "The Sutekus single tent measures 78.7 by 39.4 by 33.5 inches, weighs 3 pounds and uses 180D Oxford. It includes two poles, four pegs and a storage bag, with one entrance.\n\nIt is the lightest tent on the list by listed weight and the lowest cost. Compared with the camppal, it is shorter and has fewer waterproof specs.\n\nIt suits budget solo campers who like a camouflage pattern, such as hunters. A seller note offers support if quality issues arise.",
     "specs": [
       "3 lb, 78.7 x 39.4 x 33.5 in",

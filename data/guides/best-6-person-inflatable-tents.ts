@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hTPLZSUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW36ZHJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW36ZHJW?tag=rvgearlab-amz-20",
     "description": "The TOMOUNT is a 6 to 8 person inflatable measuring 13 by 9.8 by 6.5 ft, in a size family that includes a smaller version. It uses 300D Oxford cloth, an inflatable frame with a pump, two symmetrical doors and four two-layer mesh windows.\n\nIt carries the only 6-8 person rating and the biggest footprint of the four. Against the BravArrk it costs more, with a 12-month warranty and a simpler layout.\n\nIt suits families of six who want a roomy floor and a quick pump setup. Inflation takes about 5 minutes.",
     "specs": [
       "6-8 person, 13 x 9.8 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TjjIrkVIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGNQ1KJR?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 4 to 6 person tent with a 16.4 by 7 by 7 ft layout, a floorless pole-stabilized living room at the front and two bedrooms with integrated floors at the rear. It has three doors, four windows, PU3000mm Oxford and a stove jack in the living room.\n\nIt is the only tent with a separate living room and stove area, which keeps the sleeping rooms clean. Against the TOMOUNT it costs less and splits sleeping from living space.\n\nIt suits families who want a living room and two bedrooms. The bedrooms use PVC air beams that resist bursting.",
     "specs": [
       "4-6 person, 16.4 x 7 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wbFjXWO9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWDG7P9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWDG7P9M?tag=rvgearlab-amz-20",
     "description": "The MEXOLIR is designed as a 4 to 6 person tent with PE Oxford air columns and a skylight. The fabric is 150D plus 120 g PE double-sided Oxford at 1500mm, with a reinforced base and double doors with two side windows.\n\nIt has the lowest rating of those listed and built-in pockets for phones and headlamps. Against the Wixeeua it costs more and uses a thinner fabric.\n\nIt suits families who want pockets and a basic tent for mild weather. The pockets keep small items off the floor.",
     "specs": [
       "4-6 person, PE Oxford",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fnst9QfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KHCHDS?tag=rvgearlab-amz-20",
     "description": "The Wixeeua offers 67.8 sq ft with a 6.5 ft center and fits 4 comfortably and up to 6 with sleeping bags and gear. It uses 420D Oxford at 3000mm, a PVC skylight with a zip-closed curtain and a stove jack.\n\nAs the least expensive here, it also lists a 3000mm rating. Against the MEXOLIR it adds a stove jack.\n\nIt suits families of four who occasionally squeeze in six. A 5 minute setup uses a pump.",
     "specs": [
       "4-6 person, 67.8 sq ft",

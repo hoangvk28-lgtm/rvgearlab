@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419kEZkh6LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSQWV8LS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSQWV8LS?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Torchlight EXP is a 20 degree youth bag with DownTek down insulation and an adjustable length system of hook-and-loop panels that grow from tot to teen. Two expandable panels run from shoulder to footbox so the child can open the bag for airflow or keep it snug.\n\nIt is the only down bag here and the only one that grows with the child, which spreads its price over several years. An integrated pad sleeve keeps the bag on the pad, and an attached storage sleeve keeps it tidy.\n\nIt suits kids who camp often and will keep growing. The stuff sack and storage sleeve are both included.",
     "specs": [
       "20F DownTek down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E-wyQQ8aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G1WZM77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G1WZM77?tag=rvgearlab-amz-20",
     "description": "KidzAdventure offers this mummy in kids and youth sizes, rated 32 to 59F, with a sleeve for a pillow and a pack-style sack to carry it. The page lists about 2 lb.\n\nIt is the lightest of the four, and the youth size covers older children. It costs far less than the Big Agnes and prints a temperature range, which the Clostnature does not.\n\nIt suits scouts and school-age campers who need a light pack bag. A pillow sleeve keeps a rolled jacket in place.",
     "specs": [
       "32 to 59F range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M50XWW-hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCT3YGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCT3YGM?tag=rvgearlab-amz-20",
     "description": "KingCamp targets children aged 10 to 12 with this 43F mummy, using dual-layer synthetic fill, a cotton flannel interior and a 190T water-resistant polyester shell. The shape is cut to a child's body for a snug fit.\n\nIts cotton flannel is softer than the Clostnature's and the rating sits warmer than the KidzAdventure's lower end. It costs more than both.\n\nIt suits tweens who run cold and like a soft lining. The shell sheds light moisture.",
     "specs": [
       "43F rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FeY5smbJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KN5VS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KN5VS2X?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a hollow fiber mummy measuring 7 ft 3 by 2 ft 8 inches, described for kids and adults. A mummy hood with strap, an extra patch that prevents zipper snags and a right-zipper design are listed, and a left-zipper version can zip to it.\n\nNo other bag here costs less, and it is long enough for a teen to keep for years. The 3 lb build is the heaviest of the group.\n\nIt suits teens and budget buyers who want a long, light-enough bag. Pairing a left and a right zipper makes a double.",
     "specs": [
       "7 ft 3 x 2 ft 8 inches",

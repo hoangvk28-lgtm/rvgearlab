@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JrJoYDyRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK6LGZK3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK6LGZK3?tag=rvgearlab-amz-20",
     "description": "The H&G Lifestyles RV Water Filter uses NSF GSG certified food-grade iron resin that its listing says removes iron and manganese while reducing calcium and magnesium. The resin is regenerable with standard water softener salt and has a 3/4 inch GHT brass connection.\n\nIt is the only pick that names manganese, and regenerating the resin saves on replacement cartridges. It works as an RV filter or a whole-house system.\n\nThe pick for well-water campers with iron or manganese staining. It also suits long stays.",
     "specs": [
       "Iron and manganese removal",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rOJGC8G4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JGKWHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JGKWHT?tag=rvgearlab-amz-20",
     "description": "The H&G Lifestyles Iron Filter for Garden Hose targets iron in campground and well water, with 3/4 inch GHT connections. It aims to reduce iron-related discoloration and metallic taste.\n\nIt costs a fraction of the iron resin system and installs between spigot and RV inlet. It addresses iron rather than manganese.\n\nA good first step for campers with rusty water. It also works as a trial.",
     "specs": [
       "Iron reduction",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bm+sZcDnS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0995X7Y3W?tag=rvgearlab-amz-20",
     "description": "The RANSOTO External RV Filter System is a 3-stage RV water purifier with a powder-coated steel stand that can be mounted or staked. Its listing says it filters sand and other sediment and reduces odors.\n\nIt is a general system and a sediment pre-filter ahead of an iron filter. The stand adds stability.\n\nA solid addition for rigs that fill from sandy sources. It also suits staked outdoor setups.",
     "specs": [
       "3-stage filtration",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51127i5vSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure XL RV Water Filter uses 6-step filtration with GAC and KDF and is independently listed to NSF/ANSI 42 and 53. It offers 2x the filtration power of standard filters per its listing and includes a flexible hose protector.\n\nIt is the XL size of the Camco filter and handles taste and chlorine. It pairs well behind an iron filter.\n\nBest for campers who want certified taste filtering after an iron stage. It also suits long trips.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JM+ObayZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Water Filter 4-Pack lists a 20 micron rating with 5-layer filtration, NSF certification and BPA-free materials. It uses GAC and KDF and each can lasts a camping season.\n\nIt covers a full year at a low cost and handles chlorine taste. It does not target metals.\n\nA great spare pack for weekend travelers. It also helps protect plumbing from coarse sediment.",
     "specs": [
       "20 micron 5-layer filtration",

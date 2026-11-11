@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g8ipoItiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q7PBC2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q7PBC2Y?tag=rvgearlab-amz-20",
     "description": "OAE's 80A MPPT states 150V PV, up to 99% efficiency and 12V to 48V auto-detect. OAE's 80A MPPT controller auto-detects 12V, 24V, 36V and 48V systems, accepts up to 150V of PV input and lists efficiency up to 99%. The listing names sealed, gel, flooded and lithium batteries.\n\nIt is clearly documented but is the priciest 80A here, well above PowMr 80A 150V and Qigreesol 80A. The listing is short on extras.\n\nBest for a builder who wants a plain, documented 80A. It is a plain, high-capacity 80A at a premium price, so compare it with the cheaper 150V units.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CjB8kwRbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H28L1V6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H28L1V6Z?tag=rvgearlab-amz-20",
     "description": "PowMr's 80A lists 99.9% tracking, 150V PV and eight layers of protection. This PowMr 80A MPPT controller lists 99.9% tracking efficiency, a 150V maximum PV input and DSP control with an LCD. It works with 12V, 24V, 36V and 48V batteries and lists eight layers of protection against overload, overheating, short circuits and reverse polarity.\n\nIt costs far less than OAE 80A MPPT and adds DSP control. Tracking figures are the brand's own claims.\n\nBest for most 80A builds. It is a strong all-round 80A for an RV or off-grid system.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lSJGkeSsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7CHZHGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7CHZHGX?tag=rvgearlab-amz-20",
     "description": "PowMr's 80A DSP lists efficiency of 98.1% or better and PV utilization of 99% with up to 12 in parallel. PowMr's 80A MPPT controller lists maximum efficiency of 98.1% or better and PV utilization of 99% or better from a built-in DSP, with up to 12 units in parallel. It auto-detects 12V, 24V, 36V or 48V and names flooded, vented, sealed, gel, NiCd and lithium batteries.\n\nIt is close to PowMr 80A 150V in price and adds parallel support and a longer chemistry list.\n\nBest for a growing off-grid system. It is a well-described 80A for larger arrays.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OmmnqhMfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYC1DTL1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYC1DTL1?tag=rvgearlab-amz-20",
     "description": "This PowMr 80A listing supports up to 12 in parallel with die-cast aluminum and dual cooling. This PowMr 80A MPPT controller supports up to 12 units in parallel, with die-cast aluminum, dual cooling and a negative-ground design. It works with 12V, 24V, 36V and 48V lead-acid and lithium batteries.\n\nIt costs more than PowMr 80A DSP but gives less PV detail in its headline. It is negative ground.\n\nBest for a modular battery bank. It suits builders who plan to scale by adding controllers.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X+VGZSRtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1QT2Z9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1QT2Z9P?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 80A uses an MPPT-based algorithm with a 100V PV cap and an LCD with seven modes. Qigreesol's 80A controller uses an MPPT-based algorithm with a 100V maximum PV input and auto-detects 12V to 48V systems. A backlit LCD shows battery voltage, charge current and temperature across seven operational modes, and dual USB ports are included.\n\nIt costs far less than PowMr 80A 150V but has a lower PV cap. Confirm warranty.\n\nBest for a small string under 100V. It is a low-priced 80A for modest arrays, so confirm warranty and support first.",
     "specs": [
       "80A MPPT-based, 12V to 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fzzpl7uKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS98MB3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS98MB3C?tag=rvgearlab-amz-20",
     "description": "AuraSolar's 80A lists 99.9% tracking with an LCD, dual USB and a timer at the lowest price. AuraSolar's 80A MPPT controller lists 99.9% tracking efficiency and works with 12V, 24V, 36V and 48V batteries. It adds an LCD, dual USB ports and a timer, and lists eight layers of protection.\n\nIt undercuts Qigreesol 80A and gives no PV cap in the headline. Ask for it.\n\nBest for a very budget 80A where you verify specs. It is the cheapest 80A here, so confirm PV limits and warranty before buying.",
     "specs": [
       "80A MPPT, 12V to 48V",

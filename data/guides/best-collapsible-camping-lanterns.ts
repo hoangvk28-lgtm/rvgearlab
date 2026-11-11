@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYZRqBVzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BFC87D2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BFC87D2?tag=rvgearlab-amz-20",
     "description": "The Lepro lantern lists 190 lumens with 360 degree illumination, instant on and off by pulling up and pushing down, and IPX4 splash protection. It runs on 3 AA batteries per lantern that are not included, and it is sold here in a 4-pack, with a 2-pack of the same line also available.\n\nIts listing alone gives a lumen figure and a weather rating, which the KPKJOO does not list. A four-lantern set lights a family tent plus a table.\n\nIt suits families and groups who want several simple lanterns for a campsite. The pull-up brightness control is easy to use in the dark.",
     "specs": [
       "190 lumens, 360 degree light",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410u64+eH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPVKJHGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPVKJHGW?tag=rvgearlab-amz-20",
     "description": "The KPKJOO collapses to 2.67 inches wide by 3.74 inches tall, smaller than a mobile phone, and runs on AAA batteries. It uses energy-efficient LED technology and is listed for tents, power outages and emergency kits.\n\nIt is the smaller of the two, which makes it a glove-box or pocket light. It does not state lumens, unlike the Lepro.\n\nIt suits campers and drivers who want a tiny emergency light. The collapsible design extends for full illumination.",
     "specs": [
       "2.67 by 3.74 inches collapsed",

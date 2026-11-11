@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41foXvygQkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KRS57W?tag=rvgearlab-amz-20",
     "description": "The BILT HARD is the only pick here that states both numbers plainly: 2500 starting watts and 2000 running watts from an 80cc four stroke engine. It also lists a CO sensor, parallel readiness and pure sine wave output under 3% THD, at $299.99.\n\nAgainst the GENMAX at $329.99, it costs $30.00 less and spells out its continuous rating, which the GENMAX listing does not. It is not the lightest, and the listing leaves runtime figures vague. Pick this if you want a clearly labelled 2000W running ceiling with parallel expansion later.",
     "specs": [
       "2500W peak, 2000W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IyhOGva1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2000i is built around portability. The listing gives 34 pounds, as low as 60 dBA, and 8 hours at 50% load from a 1 gallon tank, with an Eco mode to trim fuel use. It sells for $329.99 and is EPA compliant.\n\nCompared with the BILT HARD it costs $30.00 more but weighs far less to lift into a truck bed, though the 2000 figure is labelled starting watts, so continuous output is lower and not stated here. Pick this if you carry the unit often and only run a fridge, lights and chargers.",
     "specs": [
       "2000W starting, 34 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xojzozY2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHJZ347W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHJZ347W?tag=rvgearlab-amz-20",
     "description": "The AFOERIT 2000W is the cheapest here at $299, and the listing highlights a cast iron cylinder liner, 57 dB operation, CO shutoff and pure sine wave power. It is aimed at small camper and light RV use.\n\nIt sits just $0.99 under the BILT HARD, so price is not the reason to pick it; the quieter 57 dB rating is. The listing does not separate running from surge watts, which weakens its sizing claim. Pick this if low noise matters most and your loads stay well under 1500 watts.",
     "specs": [
       "57 dB operation",

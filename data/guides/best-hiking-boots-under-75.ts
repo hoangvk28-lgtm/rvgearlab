@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JGWvc7YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53KTRTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53KTRTC?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Suede Mid combines a waterproof membrane with soft suede leather, a rubber toe guard and a reinforced heel. A multi-directional traction outsole, a removable insole and a shock-absorbent MD midsole round out the build.\n\nAt about $46 it costs $14 less than the NORTIV 8 Ankle High and uses real suede in place of the synthetic uppers common under $40. The toe cap and reinforced heel protect against rocks and stumbles.\n\nIt suits hikers who want a protective, waterproof boot without paying for a premium brand. It covers hiking, hunting, camping and fishing.",
     "specs": [
       "Waterproof membrane, suede leather",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVGmhQDwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L5KBYYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L5KBYYY?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Ankle High has removable shock-absorbent insoles, lightweight flexible EVA midsoles for cushioning and energy return, and high-quality rubber soles with advanced traction. It suits hiking, hunting, camping, climbing, fishing and everyday work.\n\nAt about $60 it is the priciest boot here and costs $14 more than the Suede Mid. The EVA midsole is the standout, reducing foot fatigue over a long day.\n\nIt suits hikers and workers who spend hours on their feet. The ankle-high cut gives support.",
     "specs": [
       "Ankle-high cut, rubber sole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Mol45lUjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNS5RQ8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNS5RQ8W?tag=rvgearlab-amz-20",
     "description": "The Amazon Essentials hiking boot has a nylon and PU suede upper with a full internal waterproof bladder, a padded collar, flex notches that cradle the ankle and a molded memory foam insole. A pull tab and quick-lace system help getting it on, and reflective details aid low-light visibility.\n\nAt about $49 it costs $3 more than the NORTIV 8 Suede Mid and replaces real suede with a synthetic upper. The padded collar and memory foam insole make it comfortable out of the box.\n\nIt suits casual hikers who want easy on-off lacing and a soft feel. It works for camp and town.",
     "specs": [
       "Waterproof bladder, nylon and PU suede",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pl8uelzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D473ZDTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D473ZDTB?tag=rvgearlab-amz-20",
     "description": "This women's NORTIV 8 boot weighs 12.3 oz per shoe, with EVA insoles, mesh paneling for ventilation and Oxford fabric with TPU patches in high-wear areas. A tongue design blocks debris and the upper offers four hours of static water resistance.\n\nAt about $40 it costs $6 less than the Suede Mid and weighs far less than any boot here. It is breathable and water-resistant rather than waterproof.\n\nIt suits women who want a light, ventilated boot for dry-weather trails. The color-block design suits town too.",
     "specs": [
       "12.3 oz per shoe",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i29w54WFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTHJDTSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTHJDTSS?tag=rvgearlab-amz-20",
     "description": "The Athlefit is a women's lace-up ankle boot in durable waterproof leather with a padded collar, metal eyelets and a non-slip build. Its firm 1.2 inch heel adds a little height.\n\nAt about $32 it carries the lowest price here and is the only boot styled for work or combat. The 1.2 inch heel sits higher than the flatter hiking soles on the NORTIV 8 pair.\n\nIt suits women who need a waterproof boot for short walks, camp chores and town. The leather wipes clean.",
     "specs": [
       "Waterproof leather, lace-up",

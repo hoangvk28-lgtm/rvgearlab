@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YgL9vsWiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TVDJ6QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TVDJ6QN?tag=rvgearlab-amz-20",
     "description": "The GANA 12V set uses 12V DC low-voltage power, 48 ft of wire with 15 shatterproof bulbs and a 2200K warm white light of 60 lumens with a CRI above 96. It has a power supply that checks the circuit within 3 seconds of startup and plastic bulbs in place of glass, with a 1-year guarantee.\n\nIt is the only 12V pick with a safety-minded power supply and shatterproof bulbs, and it also comes in a shorter 32 ft size of the same line. It costs more than the Aurelema.\n\nIt suits families and RV campers who want pergola-style lights that are safe around children. The warm 2200K tone suits a picnic table.",
     "specs": [
       "12V DC, 48 ft, 15 bulbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51It6pwkHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D976NQF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D976NQF8?tag=rvgearlab-amz-20",
     "description": "The Aurelema is a 33 ft string with 100 warm yellow LEDs that plugs into a standard 12 volt cigarette lighter or power outlet. It uses green wire for a natural look and an IP44 waterproof build.\n\nIt is the only pick that plugs straight into a vehicle socket, and it has the most bulbs here at 100. It costs less than the GANA and has a rating of IP44.\n\nIt suits van and car campers who want lights from the vehicle. Golf cart and tent decoration are also listed.",
     "specs": [
       "12V plug-in, 33 ft, 100 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-KbIdq9fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6BFF51L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6BFF51L?tag=rvgearlab-amz-20",
     "description": "The plosim is a 50 ft solar string with 18 plus 1 shatterproof LED bulbs, a remote with timer and dimming, 3 light modes, a solar panel and a USB charging cable. It is waterproof and cordless.\n\nIt is a low-voltage solar option for campers without a 12V source. It has no 12V plug, unlike the Aurelema.\n\nIt suits campers who want hang-and-go lights charged by the sun. The remote controls the brightness.",
     "specs": [
       "50 ft, 19 shatterproof bulbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kDCBZCUoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKFR84TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKFR84TK?tag=rvgearlab-amz-20",
     "description": "The addlon 54 ft solar string lists 17 bulbs including 1 spare, 3 brightness modes, remote control and 20 or more hours of run time. It charges by solar or USB and has a 1-year quality support promise.\n\nIt is nearly the same price as the plosim and the AceList. It offers a spare bulb and a long runtime claim.\n\nIt suits campers who want a set that charges by solar or USB after cloudy days. The remote switches brightness.",
     "specs": [
       "54 ft, 17 bulbs with a spare",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r4+2eI8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCS24G61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCS24G61?tag=rvgearlab-amz-20",
     "description": "The AceList has 20 LEDs in five camp shapes: oil lamps, campfire, camper van, tents and a picnic table. It runs on batteries or USB, with a waterproof battery box and a remote.\n\nIt is the only themed set and the only one with a waterproof battery box. It is shorter than the others.\n\nIt suits campers who like decoration for the tent, RV or patio. It runs from a USB source or batteries.",
     "specs": [
       "20 LEDs, five camp shapes",

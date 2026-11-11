@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GNyLs4M4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVPQSJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVPQSJ1?tag=rvgearlab-amz-20",
     "description": "The COOLBEBE measures 83 by 16 by 12 inches for 260 liters of space, made of 600 denier water-resistant fabric with a heavy-duty metal SBS zipper. It adds an extra-large zippered pocket and carries by an adjustable shoulder strap or dual handles.\n\nIts 16-inch width is wider than the 12-inch AYIXITIELU, so it holds a canopy top and legs together instead of just poles. Compared with the TOPDesign, it adds 37 inches of length for full-size party tent poles.\n\nIt suits campers carrying an 83-inch canopy frame plus fabric to the campsite. The zippered pocket stores stakes, ropes or a mallet.",
     "specs": [
       "83 x 16 x 12 in, 260L",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GB1A6V3VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4KB4ZD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4KB4ZD6?tag=rvgearlab-amz-20",
     "description": "The Vincreem is an 83 by 16 by 12 inch, 260 liter duffle made of soft-sided 600D Oxford fabric with padded shoulder straps. A wide zippered opening helps load long tent poles, canopy covers and camping frames.\n\nIt matches the COOLBEBE on dimensions and adds padded shoulder straps, while the COOLBEBE adds a zippered exterior pocket. Against the AYIXITIELU it is 4 inches wider and states its volume in liters.\n\nIt suits campers who haul their canopy a long way from the car and want padded straps. The foldable design stores flat between trips.",
     "specs": [
       "83 x 16 x 12 in, 260L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31emIrBtJ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK938289?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK938289?tag=rvgearlab-amz-20",
     "description": "The AYIXITIELU measures 83 by 12 by 12 inches in water-resistant 600D polyester with reinforced handles and corners. A dual zipper system opens the bag from either end.\n\nCorner reinforcement is the edge over the Vincreem and COOLBEBE, since poles press hardest into the ends. At 12 inches wide, it is narrower, so it suits poles more than bulky canopy fabric.\n\nIt suits campers who keep poles separate from the canopy top. Dual zippers speed up loading long poles.",
     "specs": [
       "83 x 12 x 12 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qt5Yf7FAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0992333CG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0992333CG?tag=rvgearlab-amz-20",
     "description": "The TOPDesign is a 46 by 12.5 by 12.5 inch, 30 gallon duffle in thick, water-resistant 600D Oxford fabric with double-stitched seams. It holds camp chairs, tent poles, a hammock or a cot.\n\nAt 46 inches it fits in a smaller vehicle than the 83-inch bags, with the 30 gallon volume covering shorter poles, chairs and a hammock. The listing includes a one-year free replacement offer.\n\nIt suits campers with shorter tent poles, chairs and cots who do not need an 83-inch bag. It folds flat to store.",
     "specs": [
       "46 x 12.5 x 12.5 in, 30 gal",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aBW9ooplL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4TL7WQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4TL7WQ2?tag=rvgearlab-amz-20",
     "description": "The HAPPY CHEERS is a 57 gallon (216 liter) heavy-duty PE tarp bag measuring 42 by 23 by 13.5 inches with double-headed zippers and two handle types. The listing names outdoor camping gear among its uses.\n\nIt is a general moving bag rather than a tent bag, offering more volume than the TOPDesign for soft items like sleeping bags and tent bodies. It does not carry 83-inch poles like the long duffles.\n\nIt suits campers who need a big bag for a soft-sided family tent, bedding and chairs. It serves as an off-season storage bag too.",
     "specs": [
       "57 gal, 42 x 23 x 13.5 in",

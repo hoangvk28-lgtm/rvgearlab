@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E3UatG26L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCSBNR5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCSBNR5F?tag=rvgearlab-amz-20",
     "description": "YOSN 5 Gallon Jug is a food-grade PE container with a removable USB-C rechargeable pump. The listing says it fills a cup in about 3 seconds, weighs 2.2 pounds and has a leak-resistant seal and spigot, with a 1.3 gallon water bag also included.\n\nAgainst Wolverine Tuff Bottle, it adds a pump and a lighter weight. Against VEVOR 360 GPH, it dispenses drinking water instead of transferring it.\n\nIt is the best match for campers who want a simple, battery-free-of-RV jug at a sink or table. It earns its slot for drinking and cooking water.",
     "specs": [
       "5 gallon jug with USB-C pump",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c0j2px-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WRTKMQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WRTKMQ6?tag=rvgearlab-amz-20",
     "description": "Wolverine Tuff Bottle Boondocking Water Pump Kit includes three 5.3 gallon (20 liter) double-wall flexible bottles with matching fittings. The listing says they are made in the USA and designed for rugged, heavy use.\n\nAgainst YOSN 5 Gal Jug, it holds 15.9 gallons across three bottles. Against VEVOR 360 GPH, it is a storage and feed system.\n\nIt suits campers who haul several bottles to a fixed 12 volt pump. It is a natural fit for hauling water.",
     "specs": [
       "Three 5.3 gallon bottles",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tqueeg5tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1NWGXRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1NWGXRV?tag=rvgearlab-amz-20",
     "description": "VEVOR Water Transfer Pump is a 12 volt, 1/10 horsepower portable utility pump moving 360 gallons per hour. The listing says it has an aluminum alloy body, a start switch and battery clamps, and comes with a 6 foot hose.\n\nAgainst YOSN 5 Gal Jug, it moves water between containers instead of dispensing. Against CAMPLUX kits, it is a plain transfer pump.\n\nIt suits moving water between a jug and the RV tank. Think of it as the pick for filling the fresh tank.",
     "specs": [
       "12V, 1/10 HP, 360 GPH",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EsXrHEyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TWRDB9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TWRDB9R?tag=rvgearlab-amz-20",
     "description": "CAMPLUX Portable Propane Water Heater and Pump Kit is a 1.32 GPM tankless outdoor shower system with a 12 volt pump, 25 feet or more of power cable and an AY132 core that runs on two D cell batteries. The listing says the pump can draw from a lake, a bucket or a jug.\n\nAgainst CAMPLUX 5L Kit, it is the lower-priced version. Against YOSN 5 Gal Jug, it adds hot water.\n\nIt suits outdoor showers away from taps, used outdoors only. Buyers focused on outdoor showers will find it a sensible match.",
     "specs": [
       "Propane tankless, 1.32 GPM",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HGSVbs95L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YY5QD8M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YY5QD8M?tag=rvgearlab-amz-20",
     "description": "CAMPLUX 5L Portable Propane Gas Tankless Water Heater Kit gives a 1.32 GPM stated flow with an included 12 volt pump and over 25 feet of power cable. The AY132B core runs on two D cell batteries and ignites at low water pressure.\n\nAgainst CAMPLUX Shower Kit, it is a higher-priced 5 liter version with the AY132B core. Against VEVOR 360 GPH, it heats the water.\n\nIt suits campers who want the larger kit. It earns its slot for larger off-grid showers.",
     "specs": [
       "Propane tankless, 1.32 GPM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bzUCBdGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01KR7D16A?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01KR7D16A?tag=rvgearlab-amz-20",
     "description": "Valterra Pump Converter Kit lets an RV water pump draw antifreeze to winterize water lines. The listing is brief and names it a water system antifreeze pump converter kit.\n\nAgainst the jug and transfer pumps, it is a winterizing part. Against the shower kits, it is permanent plumbing.\n\nIt suits owners who want an easier antifreeze routine. It is a natural fit for winterizing.",
     "specs": [
       "Antifreeze pump converter kit",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410B4ygtH9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-amz-20",
     "description": "The VEMDIA is a 12V 100Ah Group 31 LiFePO4 battery at $138.98, with a 100A smart BMS and a 24 lb weight. It lists discharge from -4F to 140F and 15,000 or more cycles at 60 percent depth of discharge.\n\nIt is $20.02 below the GRNOE G31 at the same size and amperage, and the VEMDIA spells out its temperature range where the GRNOE emphasizes warranty. Pick this if you want a full G31 drop-in at the lowest price. Caveat: the listing gives a discharge range, not a charging cutoff, so check cold charging.",
     "specs": [
       "12V 100Ah, Group 31, 24 lb",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sKoSHncRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQ4XJC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQ4XJC1?tag=rvgearlab-amz-20",
     "description": "The VATRER is a 12V 600Ah LiFePO4 bank in one case at $1,299.99, with a 300A BMS and automatic self-heating that the BMS triggers when a charger is connected in the cold. At 12.8V nominal that is roughly 7.7kWh in one unit.\n\nIt costs $1,161.01 more than the VEMDIA G31 but buys six times the amp-hours and the heating, which is what winter campers are missing. Pick this if you run an inverter and camp below freezing. Caveat: at about $217 per 100Ah it is pricier per amp-hour, and size and weight are not listed.",
     "specs": [
       "12V 600Ah, 300A BMS",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIs4+DwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9PJ5DH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9PJ5DH4?tag=rvgearlab-amz-20",
     "description": "The GRNOE is a 12V 100Ah Group 31 battery at $159 with a 100A BMS, a 22.48 lb weight and 12.9 by 6.7 by 8.6 inch case. It lists 36 months of replacement support, IP65 water resistance and a 300A discharge allowance for 3 seconds.\n\nIt runs $20.02 above the VEMDIA G31 with the same capacity, and you are paying for the stated warranty and IP65 rating. Pick this if you want a printed protection window. Caveat: it lists a smart low-temperature cut-off but not the temperature, so confirm it before buying.",
     "specs": [
       "12V 100Ah, 22.48 lb, G31",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bRdVjy7kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY72MKZ2?tag=rvgearlab-amz-20",
     "description": "The CHITOLI is a 12V 100Ah Group 24 LiFePO4 battery at $152.99 with a 100A smart BMS. It lists 4,000 cycles at 100 percent depth of discharge, and recommends charging at 14.6V and 20A, about 5 hours.\n\nIt costs $14.00 more than the VEMDIA G31 and $43.99 more than the RVLithTime G24, the other Group 24 here. Pick this if your tray is Group 24 and you want a stated charge profile. Caveat: the listing gives no weight or cold-temperature limit, so the BMS behavior in freezing weather is unverified.",
     "specs": [
       "12V 100Ah, Group 24",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51auKKcYtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCY8FRX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCY8FRX3?tag=rvgearlab-amz-20",
     "description": "The RVLithTime is a 12V 100Ah Group 24 battery at $109, the lowest price here. It lists a 100A BMS with overcharge, over-discharge, overcurrent and short-circuit protection, plus low-temperature protection that stops charging in the cold.\n\nIt is $29.98 below the VEMDIA G31 and $43.99 below the CHITOLI G24, but the listing gives no weight, warranty or temperature threshold. Pick this if price leads and you camp in mild weather. Caveat: stopping charge in the cold protects the cells but means no charging in freezing weather.",
     "specs": [
       "12V 100Ah, Group 24",

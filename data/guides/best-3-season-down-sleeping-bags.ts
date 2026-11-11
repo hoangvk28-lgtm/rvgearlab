@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B5xuTZfEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-amz-20",
     "description": "Naturehike fills this bag with 650 fill duck down, and the weights printed are 1.67 pounds (medium) and 1.95 pounds (large). The shell is 400T 20D ripstop with YKK zippers, and the cut sits between a mummy and an envelope.\n\nIt posts the lowest printed weight of the four and the highest fill power next to the ATEPA's 650, which together make it the easiest to carry. A storage bag and a compression sack come with it, and the price sits in the middle of the group.\n\nIt suits backpackers who care most about ounces and have a warm pad to pair with it. Buyers of the large size get a little more room.",
     "specs": [
       "650 fill duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kdo1-9pCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYP4Y9C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYP4Y9C5?tag=rvgearlab-amz-20",
     "description": "The QEZER is filled with 600 fill power duck down and states a comfort range of 41 to 54F with a limit of 30F. Its weight is 2.16 lb, its packed size is 13.39 by 6.69 inches, and the semi-rectangular cut is 85.04 by 31.5 inches.\n\nNo other bag in this list gives a comfort number alongside a limit number, which makes its warmth easiest to judge. Double zippers, chest insulation and a foot vent add small comforts, and it costs less than the BUERTS and Naturehike.\n\nIt suits campers who want honest temperature figures from a down bag at a modest price. Two QEZER bags can zip together, according to the listing.",
     "specs": [
       "600 FP down, 2.16 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I3IGePYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F383WNM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F383WNM8?tag=rvgearlab-amz-20",
     "description": "The BUERTS is a mummy-style bag with 28.2 oz of RDS-certified 620FP down in a 400T 20D nylon shell. The listing puts weight at 3 lb, packed size at 13.8 by 7 inches and the interior at 85.8 by 32.3 inches.\n\nAt 3 lb it is the heaviest of the four, and in return it offers the most down by listed weight and a snugger mummy hood. An inner pocket and a saddle-shaped neckline add features the QEZER skips.\n\nIt suits sleepers who want an RDS-certified fill and a warm-weather mummy shape. The title lists 20, 40 and 60F versions, so choose the one that matches your nights.",
     "specs": [
       "620FP RDS down, 28.2 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FXCzJ8b6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NZGN3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NZGN3Q?tag=rvgearlab-amz-20",
     "description": "ATEPA fills this XL cut with 600 g of 650 fill power COLDMASTER down blended with synthetic fibers, in an 88.6 by 35.4 inch shape. The shell is 20D 400T ripstop with a down-proof, water-repellent finish and 3D baffles.\n\nIt is the widest bag here and the only hybrid, a mix that helps it hold some warmth if damp. Straps on the bag lock to most backpacking pads, which keeps side sleepers from rolling off.\n\nIt suits larger sleepers and side sleepers who want pad attachment straps. A compression sack is included.",
     "specs": [
       "88.6 x 35.4 inch XL",

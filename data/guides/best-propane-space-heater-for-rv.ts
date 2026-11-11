@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OKvPkpb6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYT8HCT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYT8HCT6?tag=rvgearlab-amz-20",
     "description": "Mr. Heater Portable Buddy Midnight is a 4,000 or 9,000 BTU radiant propane heater stated for spaces up to 225 square feet. The listing says it is designed and approved for indoor and outdoor use, though indoor use is not approved in Canada or Massachusetts, and gives up to 5.4 hours on a 1 pound tank.\n\nAgainst Big Buddy Midnight, it is the smaller, more portable heater. Against Little Buddy, it has two heat steps and more output.\n\nIt is the best match for RV owners who want a portable propane heater with attended use. Think of it as the pick for attended portable heat.",
     "specs": [
       "4,000 or 9,000 BTU radiant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sddhpfw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYZGNKMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYZGNKMG?tag=rvgearlab-amz-20",
     "description": "Mr. Heater Big Buddy Midnight offers 4,000, 9,000 and 18,000 BTU output and heats spaces up to 450 square feet. It has a built-in high-powered fan to circulate warm air.\n\nAgainst Portable Buddy 9K, it has double the top output. Against ProCom Thermostat, it is portable and uses a fan.\n\nIt suits larger rigs and bays where more heat is needed. Buyers focused on large spaces will find it a sensible match.",
     "specs": [
       "4,000/9,000/18,000 BTU",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bB1pYiBgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CD1SSDTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD1SSDTS?tag=rvgearlab-amz-20",
     "description": "ProCom Blue Flame heater produces up to 10,000 BTU on liquid propane and heats up to 500 square feet. It has high, medium and low thermostat control, a push-button ignition and a pilot oxygen depletion sensor that shuts it off, and it can be wall mounted.\n\nAgainst ProCom Manual, it adds thermostat steps. Against Mr. Heater Buddy 9K, it is a fixed ventless heater.\n\nIt suits owners who want a mounted heater with thermostat control. It earns its slot for mounted heat.",
     "specs": [
       "10,000 BTU blue flame",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bB1pYiBgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFMLK6JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFMLK6JZ?tag=rvgearlab-amz-20",
     "description": "ProCom manual ventless heater gives 10,000 maximum BTU on propane only with piezo ignition and two heat settings, no electricity needed. It has an oxygen depletion sensor with automatic shutoff and heats up to 500 square feet.\n\nAgainst ProCom Thermostat, it has two settings and no thermostat. Against Mr. Heater Portable Buddy, it is a base-mounted heater.\n\nIt suits owners who want a no-power heater with simple controls. It is a natural fit for no-power heat.",
     "specs": [
       "10,000 BTU, propane only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+0oURWZUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001CFRF7I?tag=rvgearlab-amz-20",
     "description": "Mr. Heater Little Buddy puts out 3,800 BTU per hour on propane for spaces up to 95 square feet, with one-button ignition.\n\nAgainst Portable Buddy 9K, it is smaller and cheaper. Against HEYDUOTON, it is a brand-name radiant unit.\n\nIt suits a small bunkhouse or porch where only a little heat is needed. Think of it as the pick for very small spaces.",
     "specs": [
       "3,800 BTU on propane",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+0y24X+0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFGRHXPV?tag=rvgearlab-amz-20",
     "description": "HEYDUOTON is a portable propane heater with a control valve and adjustable heat knob, sold for camping, patios and tailgates. The listing describes use outdoors and for RV getaways.\n\nAgainst Mr. Heater Little Buddy, it is a low-cost outdoor heater. Against ProCom Manual, it is portable and has no stated oxygen sensor.\n\nIt suits outdoor sitting areas next to an RV, not cabin heat. Buyers focused on outdoor sitting areas will find it a sensible match.",
     "specs": [
       "Portable camping heater",

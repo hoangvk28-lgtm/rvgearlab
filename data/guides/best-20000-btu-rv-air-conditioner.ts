@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D6ubi4FPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08LZX88JM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08LZX88JM?tag=rvgearlab-amz-20",
     "description": "The RecPro 15K is a heat pump unit available ducted or non-ducted, listed at 55.4 dB. It describes a low amp draw for running other appliances without overload.\n\nCompared with the 18,000 BTU units here, it sits a size lower, but it is the one that markets low draw for generator and solar users. The remote and LED touch controls need no thermostat wiring.\n\nIt is the pick for owners watching their generator budget. The ducted or non-ducted choice adds flexibility.",
     "specs": [
       "15K BTU heat pump",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wLozU45ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6X2LGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6X2LGY?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K Ducted uses variable speed compressors and bolt-on installation. At 72.4 lbs it is listed as about 10 percent lighter than other units.\n\nIt is the only ducted 18,000 BTU pick, while the Arsenda and KINGRVER are non-ducted. Constant, variable running avoids the abrupt starts and excess amp draw of standard units.\n\nIt fits large coaches with existing ducts. The variable speed design helps battery and generator runtime.",
     "specs": [
       "18,000 BTU ducted",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+rTy4svdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H38SS9YY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H38SS9YY?tag=rvgearlab-amz-20",
     "description": "The KINGRVER is an 18,000 BTU non-ducted cooling-only unit with remote and mobile app control. It offers adjustable fan speeds and road-ready durability.\n\nIt keeps the design simple compared with the heat pump models, which tends to suit coaches with a separate furnace. The app control is something the Arsenda listing does not mention.\n\nIt suits owners who want 18K cooling and nothing else. Phone control is handy when the unit is hard to reach.",
     "specs": [
       "18,000 BTU cooling only",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YDVqPAaqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGQB41SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGQB41SF?tag=rvgearlab-amz-20",
     "description": "The TOSOT 16,000 BTU unit lists 43 dB, a 12,500 BTU heat pump and Gree+ app control. It works from 23°F to 115°F and fits standard 14.25 x 14.25 inch openings.\n\nIt lists the lowest noise level of the group and a complete kit with hardware. It is the smallest capacity of the picks apart from the RecPro.\n\nIt is designed for RVs in the 16 to 24 foot range. Owners who sleep lightly will value the low listed noise.",
     "specs": [
       "16,000 BTU, 12,500 BTU heat",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TTzBRgFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WNWDR8?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18,000 BTU unit is a non-ducted heat pump using R32 refrigerant, with a listed outdoor range of 23°F to 115°F. It fits standard 14.25 inch roof openings.\n\nIt undercuts the KINGRVER and Furrion while adding heat. It does need 12V DC alongside 115V AC, which the Furrion handles differently.\n\nIt suits large non-ducted coaches on a budget. The heat pump extends the season.",
     "specs": [
       "18,000 BTU heat pump",

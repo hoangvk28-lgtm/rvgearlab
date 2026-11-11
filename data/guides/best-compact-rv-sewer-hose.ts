@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wqs0B49+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MV7KFFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MV7KFFX?tag=rvgearlab-amz-20",
     "description": "The Valterra Silverback 15 foot kit has one collapsible hose with rotating fittings and a clear 90 degree adapter. It collapses from 15 feet to 53 inches, and the adapter fits six sewer types.\n\nIt costs more than the SheeChung and packs shorter than most 15 foot hoses. The six-type adapter is broader than a basic elbow.\n\nBest for owners who want 15 feet that tucks into a bumper. A compact choice for travel trailers.\n\nCollapsing from 15 feet to 53 inches puts the Silverback in the bumper tube of most travel trailers, so the hose rides out of sight between trips. Rotating fittings let the hose lay flat without twisting at the connection, and the clear 90 degree adapter shows what is flowing and fits six sewer types. Owners who want a full 15 feet of reach with a neat stow get both here.",
     "specs": [
       "15 ft, collapses to 53 in",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qhv8YYUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H45XH1D7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H45XH1D7?tag=rvgearlab-amz-20",
     "description": "The EZ RV Snap Trap is a P-trap that creates a water seal inside the sewer hose to help block sewer gas, odors and flies. It installs within standard sewer hose support systems and supports proper campground slope.\n\nIt is not a hose, and it costs about the same as the Valterra kits. It stands apart as the only odor control part in the group.\n\nBest for full-hookup campers who want odor control. A useful add-on to any hose.\n\nA water seal inside the line keeps sewer gas, odors and flies from climbing back up the hose, which makes a long stay at a full-hookup site more pleasant. The trap works within a hose support system and keeps the proper campground slope in place. Because it blocks gas, you can leave the gray valve open and let the water drain freely.",
     "specs": [
       "P-trap for sewer hose",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wgMX1D+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BGK2QA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BGK2QA?tag=rvgearlab-amz-20",
     "description": "Valterra's EZ Coupler gives you 20 feet from two collapsing 10 foot hoses with rotating ends, plus a 90 degree adapter. Each hose collapses from 10 feet to 25 inches.\n\nIt collapses the smallest of all hoses here and costs less than the Silverback. The 25 inch packed length is half the Silverback.\n\nBest for very small bumpers or bays. A compact option with 20 feet of reach.\n\nTwo 10 foot hoses that each collapse to 25 inches mean the kit stows in about half the length of a 15 foot hose, a real help for tiny bumper tubes and van bays. Rotating ends make each coupling easy, and the 90 degree adapter routes the line down into the sewer inlet. Together the sections give 20 feet of reach at a price near $50.",
     "specs": [
       "2 x 10 ft, collapses to 25 in",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H6OxaeZsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071WPWSKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071WPWSKS?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 10 foot extension has a collapsible design and a pre-attached lug and bayonet fitting. A steel wire core sits inside the 23 mil polyolefin wall, and the listing names Camco hoses 39764, 39767, 39742 and 39770 as matches.\n\nIt costs less than the Valterra kits and adds reach to a Camco hose. It is an extension rather than a complete kit.\n\nBest for Camco owners who need more reach. A fitting add-on for Camco kits.\n\nA steel wire core inside a 23 mil polyolefin wall keeps this 10 foot extension from collapsing under its own weight, while the collapsible design stows it small. A pre-attached lug and bayonet fitting joins to Camco hoses, and the listing names models 39764, 39767, 39742 and 39770 as matches. A Camco owner with a short run finds an easy way to stretch it here.",
     "specs": [
       "10 ft, 23 mil polyolefin",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "Compact and flexible, the SheeChung 15 foot hose has a 24 mil TPE wall, swivel bayonets with four prongs and a see-through elbow adapter. It is built for tight spaces and portable tanks.\n\nIt costs less than the Silverback and has a tougher wall. Compared with the EZ Coupler, it is a single hose with no joint.\n\nBest for tight sites where a thick wall matters. A solid compact pick.\n\nA 24 mil TPE wall gives this 15 foot hose a tougher skin than standard vinyl while staying flexible enough to coil in a tight space. Swivel bayonets with four prongs make the connection easy, and the see-through elbow adapter shows when the flow is clear. As a single hose with no joint, it suits portable tanks and cramped sites.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ve1W39c7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BUOSCU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BUOSCU?tag=rvgearlab-amz-20",
     "description": "The Camco 20 foot standard hose is a single 20 foot hose with a 12 mil HTS vinyl wall and a steel wire core. It has a 3 inch opening and suits occasional RVing.\n\nIt costs the least and is the thinnest hose here. Compared with the EZ Coupler, it offers fewer accessories for a lower price.\n\nBest for occasional campers who own an elbow. A cheap long hose.\n\nTwenty feet of hose with a 12 mil HTS vinyl wall and a steel wire core gives a long reach at $21.93, the best cost per foot of any kit here. The 3 inch opening works with threaded and slip fittings, so it pairs with the elbow and adapters many owners already carry. It suits occasional campers who want a straightforward, inexpensive hose.",
     "specs": [
       "20 ft, 12 mil HTS vinyl",

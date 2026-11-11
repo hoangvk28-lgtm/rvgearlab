@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ibXJtnEIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKN4YM5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKN4YM5T?tag=rvgearlab-amz-20",
     "description": "The LiTime 12V 200Ah Mini is billed as the first 200Ah LiFePO4 battery in the Group 31+ size, and it weighs 44.5 pounds. Its listing publishes more of the numbers that matter than most: 6,000 deep cycles at 100 percent depth of discharge, Bluetooth 5.0 monitoring, a 200A battery management system, and low-temperature protection that stops charging below 32°F and stops discharging below minus 4°F. It also states compliance with the ABYC E-13 standard.\n\nIt ranks first over the Renogy 200Ah Pro because it costs $153 less while still documenting the low-temperature thresholds in plain numbers. It beats the cheaper dumfume and PUPVWMHB units on documented standards and a stated cycle count at 100 percent depth of discharge, though it costs about twice as much. It gives up the active heater the Renogy Pro has, so charging stops in a freeze rather than warming the cells.\n\nPick this if you want a compact 200Ah that fits a Group 31+ space and a verifiable spec sheet, and your trips seldom involve charging below freezing. The caveat is that it has no heater, so in a cold basement bay the battery will simply refuse to charge until it warms.",
     "specs": [
       "2,560Wh nominal, 200A BMS",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319dV6auC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX1B177X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX1B177X?tag=rvgearlab-amz-20",
     "description": "The Renogy 200Ah Pro adds an active heater to the usual 200Ah package. Its listing describes self-heating with overheat protection, built-in Bluetooth, more than 60 BMS protections, an IP67 dust-tight and waterproof case, a UL94 V-0 fire-retardant casing, an internal structure designed to resist vibration, and an ISO 9227 corrosion-resistance certification. It is listed for 5,000 plus deep cycles.\n\nIt is second because it is the most expensive battery here at $782.79, which is $153 more than the LiTime. For that money it solves the problem the LiTime and others only describe: it warms the cells so charging can continue below freezing. Against the Renogy Core Mini it adds the heater and Bluetooth, but the Core Mini is smaller and $129 cheaper.\n\nChoose it for winter camping, snowbird travel or any rig where the battery sits in an unheated bay. The caveat is price and the extra current the heater draws from the battery or charger, which is worth checking in the manual.",
     "specs": [
       "Self-heating with Bluetooth",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nEuaSZAPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5HQNXTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5HQNXTS?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 200Ah Core Mini is described as one third smaller than a standard 200Ah lead-acid battery. The listing shows a 200A BMS with low-temperature cut-off, an IP65 waterproof and vibration-resistant case, FCC, UN38.3, ROHS and UKCA certifications, a five-year limited warranty, and compatibility with the Renogy 300A battery shunt for monitoring through the Renogy app. The product title says 100A BMS while the bullet says 200A, so confirm the continuous current rating before sizing wiring.\n\nIt ranks third: it is $128 cheaper than the Pro and gives you the same brand support, but it has no built-in heater or Bluetooth, and it costs $24 more than the LiTime. In exchange it offers a five-year warranty and shunt compatibility, which suits owners who already track charge with a shunt.\n\nPick it if you have a tight battery compartment and want a known brand with a longer warranty. The caveat is the conflicting BMS current figure in the listing, so check the manual or ask support before connecting a large inverter.",
     "specs": [
       "200Ah, low-temp cut-off",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YODBqNXDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYTXXY2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYTXXY2J?tag=rvgearlab-amz-20",
     "description": "The PUPVWMHB 12V 200Ah Mini costs $329 and includes Bluetooth monitoring, a 200A BMS, a low-temperature cut-off, a claimed up to 15,000 cycles, and a five-year warranty. The listing says up to four can be connected in series and parallel to reach 800Ah at 51.2V, or about 40.96kWh at maximum.\n\nIt ranks fourth. Against the dumfume just below, it adds Bluetooth and a mini case for $11 more, but its listing gives no exact low-temperature thresholds the way the dumfume and LiTime do. Against the LiTime it costs $301 less, which is the whole case for buying it, but the 15,000-cycle figure is an up-to claim without stated test conditions.\n\nThis fits budget builds where an app view matters and the battery lives in a heated space. The caveat is thinner documentation, so check that the charge cut-off temperature suits your climate before buying.",
     "specs": [
       "Bluetooth, 200A BMS",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q+BW6+fsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGPVF4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGPVF4Z?tag=rvgearlab-amz-20",
     "description": "The dumfume 12V 200Ah is the cheapest battery here at $317.98, which works out to about $124 per nominal kilowatt-hour. The listing gives 2,560Wh, a 200A BMS that cuts off above 200A, low-temperature protection with charging stopping below 32°F (0°C) and discharge allowed down to minus 4°F (minus 20°C), an IP65 rating, UL and UN38.3 certification, a claimed 15,000 cycles, and a five-year warranty.\n\nIt ranks fifth only because it has no app and a lesser-known name, not on specs. It matches the LiTime's cold-weather numbers at half the price, and it undercuts the Wattcycle by $112 while listing a documented low-temperature cut-off the Wattcycle does not. Against the PUPVWMHB it lacks Bluetooth but states exact thresholds.\n\nChoose it for the lowest cost per kilowatt-hour and plain, documented protection in a heated space. The caveat is no monitoring beyond the battery itself, so pair it with a shunt or a voltmeter if you want to watch state of charge.",
     "specs": [
       "2,560Wh, 200A BMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZPJ51sDpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPL6Q5YZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPL6Q5YZ?tag=rvgearlab-amz-20",
     "description": "The Wattcycle 12.8V 200Ah lists a claimed 15,000 cycles, A+ grade cells, a built-in 200A BMS, SDS, UN38.3, FCC, CE and ROHS certifications, and expansion of up to four batteries in series or parallel for 40.96kWh. It measures about 9.4 inches tall by 19 inches wide according to the listing.\n\nIt is last because it is $112 more than the dumfume but lists no low-temperature protection, no Bluetooth and no IP rating, and the BMS wording is confusing: it says the 200A BMS disconnects on discharge current over 100A. It does carry a longer certification list than the others and sells for $200 less than the LiTime.\n\nPick it only if you need the broader certification set, the series-parallel expansion, and the battery lives in a heated space. The caveat is the unclear BMS current statement, so ask the seller what continuous discharge it actually supports before running an inverter.",
     "specs": [
       "200Ah, 15,000 cycles claimed",

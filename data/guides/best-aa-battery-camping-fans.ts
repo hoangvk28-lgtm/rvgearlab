@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514XUb1P2NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076CF73K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076CF73K8?tag=rvgearlab-amz-20",
     "description": "The Gazeled F18 is a 5-inch clip-on fan that takes 4 AA batteries and includes 8 free AA batteries in the box. It also runs from USB sources like a power bank, with a USB cable included, and rotates 360 degrees in two directions.\n\nIt is the only AA fan here that lists batteries included in volume, and it costs less than the O2COOL or TOPLAND. Compared with the LEMOISTAR it uses 4 cells, which helps power.\n\nIt suits campers who want a ready-to-run fan for a tent, a car seat or a stroller. The clip grips edges for hands-free use.",
     "specs": [
       "4 AA, 8 batteries included",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419mHgUDe6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01508UXTO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01508UXTO?tag=rvgearlab-amz-20",
     "description": "The O2COOL Treva is a 5-inch clip fan using 4 AA batteries, with a rotating, pivoting clip head and two speeds. The listing claims up to 14 hours of airflow with a patented blade design.\n\nIt is the only AA fan here that names a specific hours figure for the batteries, and it sits between the Gazeled and the TOPLAND on price. It lacks USB, unlike the Gazeled.\n\nIt suits campers who want a clip fan for a bed, desk or car seat. The slim body slips into a bag.",
     "specs": [
       "4 AA, up to 14 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FA4VYB40L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKDM5FBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKDM5FBY?tag=rvgearlab-amz-20",
     "description": "The TOPLAND runs from 4 AA batteries or USB and works with power banks. It has a built-in magnet for metal surfaces, folds smaller, offers 3 speeds and 360 degree vertical rotation, and lists about 10 hours on low with AA at around 45 dB.\n\nIt is the priciest AA fan here and the only one with a magnet. Compared with the O2COOL it adds USB power and a folding body.\n\nIt suits campers who want to stick a fan on a vehicle door or a metal tent pole. USB backup keeps it running when the AAs die.",
     "specs": [
       "4 AA or USB power",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41anna6HnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SD3CZCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SD3CZCW?tag=rvgearlab-amz-20",
     "description": "The Shinebella takes 3 AA batteries (not included) or USB-C power, with 4 speeds from a brushless motor and a 360 degree clamp rotation. It has a 1.8 inch clamp, an aroma container for essential oil and weighs 0.61 lbs.\n\nIt adds the aroma container that the Gazeled lacks and offers more speeds than the O2COOL. It uses three cells, which gives a different battery arrangement than the 4-AA fans.\n\nIt suits campers who like a scented breeze or want a compact fan for a treadmill, car seat or nightstand. The brushless motor is described as ultra quiet.",
     "specs": [
       "3 AA or USB-C, 4 speeds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pxL-OoQlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB2WZ7T5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB2WZ7T5?tag=rvgearlab-amz-20",
     "description": "The LEMOISTAR uses 3 AA batteries that are included and also runs on USB, with 4 speeds and a pure copper brushless motor. It rotates 720 degrees overall, has a detachable front grille for cleaning and an aroma container, and clamps up to 1.8 inches.\n\nIt is the cheapest fan here and, like the Gazeled, ships with batteries. It adds a washable grille and a scent container.\n\nIt suits campers who want a very cheap AA fan with batteries in the box. The listing says to use 1.5V AA cells.",
     "specs": [
       "3 AA included, USB powered",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rltUYpeuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FSYCXGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FSYCXGS?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 200Ah PLUS stores 2,560Wh in roughly 55 lbs and carries a 200A BMS. The listing claims up to 95% usable capacity and lets you connect up to 4 in series (48V) or 4 in parallel (800Ah), which makes it a flexible base for a growing bank.\n\nAt $439.99 it is $143.69 above the Renogy AGM, but the usable energy is far higher. It costs $250.00 less than the Redodo 320Ah, though with 120Ah less capacity. Pick this if you want a bank you can add to later. Caveat: the listing does not give dimensions, so measure space against the actual size.",
     "specs": [
       "12V 200Ah, 2,560Wh",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tHhe5UyzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFN1FXN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFN1FXN1?tag=rvgearlab-amz-20",
     "description": "The Redodo 12V 320Ah Mini LiFePO4 is sized 32% smaller than standard 300Ah batteries and the listing says one unit replaces six 12V 100Ah lead acid batteries. It claims 1kWh per day for 4 days and 4,000 to 15,000 cycles, with Bluetooth monitoring of voltage and state of charge.\n\nIt costs $250.00 more than the Power Queen 200Ah and gives 120Ah more capacity in one case, which means no parallel wiring. Pick this if you have one compartment and want the biggest single battery. Caveat: one big battery is a single point of failure, unlike a bank of two.",
     "specs": [
       "12V 320Ah Mini LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 200Ah AGM is a sealed deep cycle battery with a self discharge rate below 3% at 77F and a listed ability to deliver up to 10 times its rated capacity in amps. At $296.30 it is the cheapest route to 200Ah.\n\nCompared with the Power Queen 200Ah it is $143.69 cheaper, but lead acid normally gives about half its rating, so 200Ah behaves like roughly 100Ah. Pick this if your converter charges lead acid only and you rarely dry camp. Caveat: the listing gives no weight, and a 200Ah AGM is very heavy.",
     "specs": [
       "12V 200Ah AGM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nSq2FiOxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZWMGZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZWMGZ2?tag=rvgearlab-amz-20",
     "description": "The VMAX XTR6-235 listing is for two 6V Group GC2 AGM batteries, each 235Ah and 1.62kWh. Wired in series they form a 12V bank with 235Ah, and at $739.98 for the pair they are the most expensive pick here.\n\nThey cost $299.99 more than the Power Queen 200Ah yet need a lead acid charge profile and heavy interconnect cables. Pick this if you already run 6V golf cart style batteries and want a proven series layout. Caveat: you must replace both together, and the pair is heavy and tall.",
     "specs": [
       "Two 6V 235Ah GC2 AGM",

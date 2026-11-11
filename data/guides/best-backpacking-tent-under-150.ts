@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416z7msx0TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081R35BXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081R35BXY?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering Lynx is a freestanding one-person tent that weighs 4 lb 1 oz. Its 75D 185T rainfly has a 1500mm coating and the 2000mm poly taffeta floor has half-mesh walls to cut condensation.\n\nCompared with the Clostnature 1P, it names a brand known for outdoor gear and states waterproof numbers on both fly and floor. Against the camppal, it is freestanding with two aluminum poles.\n\nIt suits solo backpackers who want a well-known brand with listed specs. The half-mesh walls help in humid weather.",
     "specs": [
       "4 lb 1 oz, freestanding",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person tent measures 7 ft 3 in by 4 ft 11 in by 3 ft 10 in and weighs 5.29 pounds. It uses a PU 5000 coating on the rain fly and bathtub groundsheet, with two aluminum poles and two D-shaped doors.\n\nCompared with the JELUCAMP, it uses aluminum poles and a higher waterproof number. Against the ALPS Lynx, it adds a second sleeper for about 1.2 pounds more.\n\nIt suits two hikers who want a light, freestanding tent with high waterproofing. Mesh walls and two vents manage airflow.",
     "specs": [
       "5.29 lb, 7 ft 3 in long",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ehXDJpryL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-amz-20",
     "description": "The Clostnature one-person tent has a total weight of 4 pounds and a freestanding design with two aluminum poles. It has full interior mesh walls and adjustable guy lines.\n\nCompared with the ALPS Lynx, it matches the weight and adds a reinforced pole structure with guy lines. Against the Night Cat Upgraded, it uses aluminum poles instead of a clip system.\n\nIt suits solo backpackers who value light weight and venting. The mesh walls maximize airflow in warm weather.",
     "specs": [
       "4 lb total weight",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2F-BIeiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-amz-20",
     "description": "The Night Cat Upgraded tent uses an easy clip setup instead of pole sleeves. It is 7 by 3.8 by 3.8 feet, with 210T polyester taffeta at PU 3000, a 150D oxford floor at PU 3000 and waterproof tape on every seam.\n\nCompared with the Clostnature 1P, it pitches faster and lists exact waterproof numbers for floor and fly. Against the camppal, it pitches with simple clips instead of a pole sleeve.\n\nIt suits solo hikers and a kid, since the listing says it fits one adult and one more child. The weight is 4.4 pounds.",
     "specs": [
       "Easy clip setup, 7 x 3.8 x 3.8 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-amz-20",
     "description": "The camppal one-person tent has a single pole, a 3500 to 4000mm waterproof rating and an 8.2 foot long floor. The listing puts setup at 3 minutes.\n\nCompared with the ALPS Lynx, it has a longer floor and higher waterproof numbers. Against the Night Cat Upgraded, it adds a vestibule area and a single-pole pitch.\n\nIt suits tall solo backpackers who want length. The seam-taped zippers add rain protection.",
     "specs": [
       "8.2 ft floor, single pole",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kcM4U6wmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSC668ZX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSC668ZX?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP dome tent comes in 1, 2, 4 and 6 person versions, with PU3000 polyester and 7.9mm fiberglass poles. The listing gives 86.6 by 59.1 by 43.3 inches and a double-layer door.\n\nCompared with the Clostnature 2P, it is cheaper and roomier on paper, with fiberglass poles. Against the Night Cat Upgraded, it sleeps two adults with a double-layer door.\n\nIt suits budget buyers who want a spacious dome for short trips. The double-layer door improves ventilation and bug protection.",
     "specs": [
       "86.6 x 59.1 x 43.3 inches",

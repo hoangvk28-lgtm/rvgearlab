@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Nature's Generator 30A Non-Automatic Transfer Switch",
     amazonQuery: "Nature's Generator 30A Non-Automatic Transfer Switch",
-    amazonUrl: "https://www.amazon.com/dp/B0CNQR39RT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CNQR39RT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41OxYNr3mNL._SL500_.jpg",
     specs: ["Service rating: 30A","Circuit capacity: 12 circuits","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"30A"},{"label":"Circuit capacity","value":"12 circuits"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Nature's Generator 50 Amp Manual Transfer Switch 12-Circuit 120/240V, UL Listed Non-Automatic Power Trans",
     amazonQuery: "Nature's Generator 50 Amp Manual Transfer Switch 12-Circuit 120/240V, UL Listed Non-Automatic Power Trans",
-    amazonUrl: "https://www.amazon.com/dp/B0D9LG1QWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D9LG1QWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41DaBB-J6VL._SL500_.jpg",
     specs: ["Service rating: 50A","Circuit capacity: 12 circuits","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Circuit capacity","value":"12 circuits"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Nature's Generator 50A Automatic Transfer Switch UL Approved (No Wire No Breaker)",
     amazonQuery: "Nature's Generator 50A Automatic Transfer Switch UL Approved (No Wire No Breaker)",
-    amazonUrl: "https://www.amazon.com/dp/B0DWMM7J3Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DWMM7J3Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41TxbJayYUL._SL500_.jpg",
     specs: ["Service rating: 50A","Circuit capacity: 24 circuits","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Circuit capacity","value":"24 circuits"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 5000 Plus and Smart Transfer Switch, 5040Wh, 7200W Output",
     amazonQuery: "Jackery Explorer 5000 Plus and Smart Transfer Switch, 5040Wh, 7200W Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DWXBK16H?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41InfImR7gL._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Service rating: 60A"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Service rating","value":"60A"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Nature's Generator Manual Transfer Switch Kit 15A 4 Circuits Indoor",
     amazonQuery: "Nature's Generator Manual Transfer Switch Kit 15A 4 Circuits Indoor",
-    amazonUrl: "https://www.amazon.com/dp/B07JVYSK74?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B07JVYSK74?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41k5fYAYTHL._SL500_.jpg",
     specs: ["Service rating: 15A","Circuit capacity: 4 circuits","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"15A"},{"label":"Circuit capacity","value":"4 circuits"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Nature's Generator 30A Non-Automatic Transfer Switch product page",
-    "href": "https://www.amazon.com/dp/B0CNQR39RT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CNQR39RT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

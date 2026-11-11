@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Xb7gg6fwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HXC69Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HXC69Z?tag=rvgearlab-amz-20",
     "description": "Avutrel's 12-sensor kit has a 7 inch display, a 12-wheel repeater system and switchable 4 to 12 wheel modes. Avutrel's 12-sensor TPMS has a 7 inch color screen, a 12-wheel repeater system and all-copper sensors with six alarm modes. The monitor can switch between 4, 6 and 12 wheel modes and shows interior temperature and time while charging by solar.\n\nIt covers more wheels than Marsflex 10-Sensor and costs less. Its listing does not state the sensor mounting type.\n\nBest for a motorhome with a toad. It suits a long rig with many wheels, though the mounting style is not stated.",
     "specs": [
       "12 copper sensors, 7 inch solar display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51omZYiveJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7S1RLBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7S1RLBZ?tag=rvgearlab-amz-20",
     "description": "SYNJAUPO's 10-sensor kit lists pressure up to 188 psi and includes a dedicated signal booster. SYNJAUPO's TPMS has a seven inch digital screen with manual brightness, four-, six- and eight-wheel modes and a dedicated signal booster. The listing cites pressure up to 188 psi and copper-core sensors.\n\nIt costs less than Marsflex 10-Sensor and has a 7 inch screen. Its brightness is manual and the listing does not mention solar.\n\nBest for a motorhome running high-pressure tires. It is a high-range ten-sensor kit at a modest price.",
     "specs": [
       "10 sensors, 7 inch display",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EIFhsOq+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJJMVC6M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJJMVC6M?tag=rvgearlab-amz-20",
     "description": "Marsflex's 10-sensor TPMS is pre-marked and pre-paired for 10 sensors. Marsflex's TPMS comes pre-marked and pre-paired for 10 sensors and is described for trucks, semi trailers and RVs. The receiver has a segmented LCD with power saving, and the listing cites six alarm modes with tolerance within 2 psi.\n\nIt costs more than SYNJAUPO 10-Sensor and states a tolerance within 2 psi. Its sensor type is not stated.\n\nBest for a large motorhome that wants a ready-to-use ten-sensor set. It is aimed at 10-wheel vehicles, so confirm the sensor mounting type before ordering.",
     "specs": [
       "10-wheel system, pre-paired",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UjF45NGPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1QJS3G8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1QJS3G8?tag=rvgearlab-amz-20",
     "description": "Hieha's six-sensor kit has a 7.84 inch solar display and a stated 130 ft sensing distance. Hieha's 7.84 inch solar TPMS pairs six sensors with a 5000mAh battery and states 24-hour continuous battery life with a 130 ft sensing distance without a repeater. Accuracy is listed at plus or minus 1 psi.\n\nIt covers fewer wheels than Avutrel 12-Sensor but costs less. It claims accuracy of plus or minus 1 psi.\n\nBest for a smaller motorhome with six tires. Verify the pressure range against your tire's maximum pressure.",
     "specs": [
       "6 sensors, 7.84 inch solar display",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412nne1KKWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBPDPSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBPDPSM?tag=rvgearlab-amz-20",
     "description": "Flydew's six-sensor kit has external sensors and a 0 to 144 psi range at a low price. Flydew's TPMS uses six external sensors with a color digital display, a 0 to 144 psi range and six audible and visual alarms. High, low and temperature thresholds can be customized.\n\nIt costs less than Hieha 6-Sensor and has no solar display. It covers six tires only.\n\nBest for a budget six-tire motorhome. It is a low-cost six-wheel kit, so check warranty and support.",
     "specs": [
       "6 external sensors, 0 to 144 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yr2wQfGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6T164P4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6T164P4?tag=rvgearlab-amz-20",
     "description": "Masoll's set is four cap-style GM sensors with a relearn tool for GM trucks. Masoll's SP-R set is four cap-style tire pressure sensors for GM vehicles around 2017 to 2026 with a relearn tool and dual 315 and 433MHz frequencies. The listing says it also works for GM trailering apps if the truck supports them.\n\nIt has no display and works with a compatible factory system, so it does not monitor a motorhome by itself.\n\nBest only for a GM tow vehicle with a compatible system. It is a replacement or add-on for GM trucks, not a complete RV TPMS with a display.",
     "specs": [
       "Set of 4 sensors for GM vehicles",

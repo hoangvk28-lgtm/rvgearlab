@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3179eoOkYGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFCRS7WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFCRS7WW?tag=rvgearlab-amz-20",
     "description": "The BSTiltion is a 12V pump rated 3.0 GPM (11.6 L/min) with a pressure switch that starts the pump when line pressure drops below 45 PSI. Its listing cites a three-chamber diaphragm and advanced bearings for quiet running, and it reads as the most plainly RV-oriented pump in this lineup. It keeps the page simple to read.\n\nAt 3.0 GPM it sits nearest the 2.8 GPM mark, a fifth of a gallon above it. The Ceelpeopar 2.5 is a little below it in flow, and the 4.0 GPM units run a full gallon above it. That placement means the BSTiltion needs the least interpretation, because a one-fifth gap is well inside the difference between open flow and what a tap delivers.\n\nRight for buyers who want a plain 12V RV pump close to 2.8 GPM without stepping into sprayer-style listings or oversized flow. The built-in switch keeps the pump idle until a tap opens, and the three-chamber diaphragm suits an owner who wants a calm, steady stream at a normal household flow. It is a calm, no-surprises choice.",
     "specs": [
       "3.0 GPM (11.6 L/min) on 12V DC",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H+pP-9ChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7FP54ZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7FP54ZG?tag=rvgearlab-amz-20",
     "description": "The Ceelpeopar is a 12V pump rated 2.5 GPM at 60 PSI with a corrosion-resistant fiberglass-reinforced polypropylene manifold and an all-copper motor. Self-priming up to 10 feet, a 114 foot lift and an auto shut-off are listed, which makes it a durable small pump for lines that want a modest flow. Its build reads as rugged.\n\nIt is the lowest-flow pump in this lineup and sits three tenths of a gallon under 2.8 GPM, and its listing is the single one that names a chemical-resistant body. It is priced above the generic 4 GPM pumps, which pay for flow where this one pays for material. Against the BSTiltion, it trades RV wording for a more rugged build.\n\nA fit for owners who want a small, sturdy pump for utility lines, outdoor rinses or a rig where slightly less than 2.8 GPM is a feature. The 10 foot prime reaches a low tank, and the auto shut-off with dry-run protection looks after the motor when the tank runs empty. That makes it a handy utility pump.",
     "specs": [
       "2.5 GPM at 60 PSI on 12V DC",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mGi47ch8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-amz-20",
     "description": "The MAXZONE RV Fresh Water Diaphragm Pump is a 12V diaphragm pump delivering 4.0 GPM at 50 PSI and can run dry for a short time and has thermal overload protection. The box holds two 1/2 inch barbed adaptors and a 50 mesh inlet strainer, so the install can start without extra parts. That makes it a self-contained starter pump.\n\nIt equals the PRODEEZ in flow and pressure and lands in the same price band, and it names a 30 PSI maximum inlet pressure, a figure that helps when the pump is fed by a pressurized source. It carries a full gallon more flow than the 3.0 GPM BSTiltion, which makes it the headroom option for a buyer who would rather round up than down. Rounding up is simple here.\n\nRight for buyers who want a 4 GPM pump with a strainer and barbs included and who are happy to round the 2.8 GPM target upward. The thermal overload guard and short run-dry allowance protect the motor, and the included fittings cover the usual 1/2 inch plumbing. It is a tidy, ready option. Overall it is a dependable fit for that job.",
     "specs": [
       "4.0 GPM at 50 PSI on 12V DC",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mcjb8T+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4QKF1GW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4QKF1GW?tag=rvgearlab-amz-20",
     "description": "The PRODEEZ 33 Series is a 12V pump rated 4.0 GPM at 50 PSI with a stated 8.0 maximum amp draw. It lists short run-dry capability and ships with two 1/2 inch barbed adaptors and a 50 mesh strainer, which makes it a complete starter kit for a first-time install. That is a handy bundle.\n\nIt states the amp figure that the MAXZONE listing never prints, which helps with wire and fuse selection, and its price sits slightly below the MAXZONE. Next to the BSTiltion it offers a full gallon more flow for far less money, with the 8.0 amp number printed where the BSTiltion gives none. For a buyer rounding 2.8 GPM upward, it is the best-documented way to do it.\n\nA good pick for owners wiring a fresh circuit who need a draw number to choose a fuse. The 33 Series footprint is familiar in RV and camper installs, and the 8.0 amp figure turns an electrical question into a simple comparison against the wire already in the coach. It is a smart pick for careful wiring.",
     "specs": [
       "4.0 GPM at 50 PSI on 12V DC",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxLK4qtKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D77FG89G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D77FG89G?tag=rvgearlab-amz-20",
     "description": "The YoungTree is a 110V AC pump delivering 4.0 GPM at 50 PSI, adjustable from 40 to 70 PSI. Self-priming to 9.8 vertical feet, a 131 foot lift, thermal overload protection and soft rubber feet are listed, and a garden hose adapter ships with it for direct hose use. Everything is ready for a simple plug-in install.\n\nIt is the AC pump in the group, which suits full-hookup use where the 12V picks would drain a battery. Its adjustable switch is the feature that answers the 2.8 GPM question best, because a pressure dial can tame a 4 GPM motor toward a modest household feel. The BSTiltion has no such dial, and the MAXZONE and PRODEEZ are fixed at 50 PSI.\n\nA good fit for owners who run a pump from shore power and want a flexible pressure setting. It also works as a quiet transfer pump around the camp, and the rubber feet make it a comfortable neighbor in a compartment near the bed, where a rattling motor would be noticed at night. Its adjustable range makes it flexible.",
     "specs": [
       "110V AC, 4.0 GPM at 50 PSI",

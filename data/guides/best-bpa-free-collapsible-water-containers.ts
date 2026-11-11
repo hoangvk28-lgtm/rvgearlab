@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416ZCGyS0LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-amz-20",
     "description": "ITRAZ makes this pair of 5.3 gallon containers from LDPE4 and PP that the listing calls food-grade, non-toxic, odorless and free from BPA. A gasketless on/off spigot has no parts to replace, a capped air vent speeds the flow, and a soft molded handle makes carrying easier.\n\nOnly this pair has a capped air vent, so water leaves at about a gallon per minute without a glug, unlike the Gowithwind and WaterStorageCube. The listing says that is 20 percent faster than traditional designs.\n\nA great fit for families who want two large containers and a fast, steady pour. The wider materials statement helps for drinking-water use.",
     "specs": [
       "Two 5.3 gallon containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WVkdkGyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D38LLP1?tag=rvgearlab-amz-20",
     "description": "Gowithwind sells two 5.3 gallon jugs in BPA-free LDPE, with a patented spigot that sits under an outer lid to stop leaks during transport. The listing frames them for camping, hiking and emergency water storage.\n\nThe outer lid shields the spigot from knocks when the jug rolls in a trunk, which the ITRAZ and WaterStorageCube do not describe. The listing adds a camping eBook, and the price per jug runs slightly above some rivals.\n\nBest for road trips and storage in a car boot where jugs get bounced around. The lid protects the spigot while the jug travels.",
     "specs": [
       "Two 5.3 gallon BPA-free jugs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kRsSjePVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNH6F8L?tag=rvgearlab-amz-20",
     "description": "ACVOINRR makes this two-pack from LDPE4 plastic that the listing says is free from BPA, PVC and DEHP, with a PP faucet marked On/Off. It folds to 3 cm thick, and the listing offers 10 L (2.6 gal) and 20 L (5.3 gal) sizes.\n\nIt names three plastics-related absences, BPA, PVC and DEHP, where the Gowithwind names only BPA. The faucet cover is wide and fits most spouts, and the pack costs less than the ITRAZ pair.\n\nA fit for hikers and campers who want a materials statement and a flat pack. The folded thickness makes it easy to stow.",
     "specs": [
       "LDPE4, free of BPA, PVC, DEHP",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51374GUt8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FVDQP77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FVDQP77?tag=rvgearlab-amz-20",
     "description": "WaterStorageCube sells a single 2.6 gallon container from PE plastic with a food-grade, odorless statement and no BPA, PVC or DEHP. A gasketless lid and spigot, a thicker lid for pressure and a soft molded handle are listed.\n\nIt is the smallest and cheapest entry here and a single jug, where the other three are two-packs. It stays soft in the cold and is easy to fill, drain and dry.\n\nBest for campers who want one small, easy-to-handle jug for a day trip. The listing frames it for emergency prep too.",
     "specs": [
       "Single 2.6 gallon container",

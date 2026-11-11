@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dORXQ2luL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002UHVAA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002UHVAA?tag=rvgearlab-amz-20",
     "description": "The Valterra 45 degree Hydroflush attachment has a removable anti-siphon valve and an internal backflow preventer. Its listing says it breaks up plugged tanks, cleans the tank, pipe, valve and drain hose, and has clear walls.\n\nThe clear walls show when water runs clear. It costs more than Evangenial.\n\nIt fits owners who want to flush black tanks. In removable rv sewer hose fittings, tank flushing is its lane.",
     "specs": [
       "45 degree rinser",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MsxTM60AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR1G62FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR1G62FQ?tag=rvgearlab-amz-20",
     "description": "The Evangenial rinse cap has a six-way spray and an on-off lever valve. Its listing says the bayonet lug fits standard 3 inch RV sewer hoses.\n\nIt sprays inside the hose walls. It costs a little less than Valterra.\n\nIt fits owners who want to flush the hose. For removable rv sewer hose fittings, it suits hose flushing.",
     "specs": [
       "6-way spray rinse cap",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316lzmUj9IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073CVG4GV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073CVG4GV?tag=rvgearlab-amz-20",
     "description": "The Camco flexible 3-in-1 adapter is a black seal compatible with 3 inch NPT, 3.5 inch NPT and 4 inch NPT sewer inlets. Its listing says ridges let it press into place without twisting, even when threading is stripped.\n\nIt works on damaged threads. It is cheap.\n\nIt fits owners with worn dump inlets. In removable rv sewer hose fittings, worn dump inlets is its lane.",
     "specs": [
       "Flexible 3-in-1 seal",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ljq1YPECL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00OJHPQSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00OJHPQSQ?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX wrench 2 pack fits Rhino, Revolution and Easy Slip bayonet and lug swivel fittings. Its listing says it helps connect and disconnect fixtures from a sewer outlet.\n\nIt is a tool. It costs a bit more than the Camco cap.\n\nIt fits owners with stiff fittings. On removable rv sewer hose fittings, stiff fittings is where it fits.",
     "specs": [
       "2 wrench pack",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Hm4J0AddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BQKBP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BQKBP2?tag=rvgearlab-amz-20",
     "description": "The Camco 39463 sewer cap has a 3/4 inch hose connection for draining the grey water tank. Its listing says it caps the sewer connection to prevent leaks and has bayonet tabs.\n\nIt does two jobs. It costs about the same as the other Camco parts.\n\nIt fits owners who drain grey water through a garden hose. Among removable rv sewer hose fittings, think grey water draining.",
     "specs": [
       "Cap with 3/4 in hose connect",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r5aoQjbaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVG5TB95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVG5TB95?tag=rvgearlab-amz-20",
     "description": "The AVERONR clear fitting uses a 90 degree elbow design to move water quickly into a portable tote tank. Its listing says it is transparent and fits most brands of tote tank.\n\nIt has built-in gaskets for odor. It costs more than most here.\n\nIt fits owners who use a tote tank. With removable rv sewer hose fittings, tote tank dumping fits it best.",
     "specs": [
       "Clear 90 degree design",

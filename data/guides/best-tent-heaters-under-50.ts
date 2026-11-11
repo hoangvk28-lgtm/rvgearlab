@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lljo7oH4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKH3GW63?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKH3GW63?tag=rvgearlab-amz-20",
     "description": "The Buyplus is a propane heater with 10,000 BTU of output and a heavy-duty steel body with safety mesh guards. It has a tip-over switch and match-lit ignition that takes about 3 seconds, and it needs no electricity.\n\nIt has the highest output in the group by a wide margin, which suits larger open-air spaces. It costs about $12 more than the BLAZEAL and gives a lot more heat per dollar.\n\nIt suits outdoor gatherings and large sheltered patios or screen rooms with open ventilation. Light it with a match through the ignition hole.",
     "specs": [
       "10,000 BTU propane heater",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314j1bxUXtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSS74JRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSS74JRQ?tag=rvgearlab-amz-20",
     "description": "The BLAZEAL is a portable propane heater with a catalytic infrared burner and a free-bending snake hose. It lists coverage up to 200 square feet and runs on 1-pound propane tanks sold separately.\n\nIt is the cheapest propane pick here and adds a catalytic burner, which burns without a visible flame. The snake hose lets you place the tank away from the heater.\n\nA low-cost radiant heater for outdoor use, it is easy to carry. Buy the tanks separately.",
     "specs": [
       "Catalytic infrared propane heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413iaJZoriL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9W8WCW?tag=rvgearlab-amz-20",
     "description": "This portable propane heater lists 200 square feet of radiant heat, quick 2-second heating and two adjustable heat settings. It runs on 1-pound propane tanks sold separately, with a front grill against accidental burns and a stand that holds the cylinder upright.\n\nIt sits between the BLAZEAL and the Buyplus on price and offers two settings through a rotating knob. It is meant for use in well-ventilated areas.\n\nIt suits outdoor camps where you want a simple radiant heater. The front grill helps prevent accidental burns.",
     "specs": [
       "200 sq ft radiant propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kuSAPNbzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHVG7T2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHVG7T2W?tag=rvgearlab-amz-20",
     "description": "This electric outdoor heater uses 1500W PTC ceramic heating with a 2600 RPM fan and three modes: 25W natural air, 750W low heat and 1500W high heat. The surface is V-0 flame retardant and has overheat protection.\n\nIt has no flame and no fumes, which is a safer fit for a tent than the propane picks. It needs mains power, and it measures 6 by 8 by 15 inches with a carrying handle.\n\nIt suits powered campsites and screen rooms. Keep it on a flat, hard surface.",
     "specs": [
       "1500W PTC, three modes",

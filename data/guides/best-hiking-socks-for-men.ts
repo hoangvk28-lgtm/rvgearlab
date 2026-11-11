@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512AJbzwSLS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000XFW6O0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000XFW6O0?tag=rvgearlab-amz-20",
     "description": "The Darn Tough Midweight is a Hiker Midweight Micro Crew sock knit from 63% merino wool, 35% nylon and 2% Lycra spandex. The fine-gauge knit has mid-level cushion under the foot, and each pair is knit in Vermont with a lifetime guarantee against wear, tear or holes.\n\nCompared with the innotree Merino 3 Pack, it adds a no-strings lifetime guarantee. Against the Dickies Dri-Tech, it brings merino wicking and a micro crew cut that peeks above a hiking boot.\n\nIt suits hikers who want one durable sock they can trust for years. The wicking knit pulls moisture off the skin.",
     "specs": [
       "63% merino, 35% nylon, 2% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iPASotIzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C49JV4G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C49JV4G6?tag=rvgearlab-amz-20",
     "description": "The innotree Merino 3 Pack is a set of three merino wool blend hiking socks with spandex for durability. It has full thickness and cushion along the bottom of the foot, a compressive top that holds the sock on the calf and a one-year replacement warranty.\n\nAgainst the Darn Tough Midweight, it costs less per pair and carries a shorter warranty. Compared with the Niorasen, it adds a fine-gauge fuzzy inner and compression arch support.\n\nIt suits hikers who want merino comfort in a multipack. The listing covers hiking, camping, trail running and hunting.",
     "specs": [
       "Merino wool blend, spandex",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OUljdw5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPFJCLDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPFJCLDD?tag=rvgearlab-amz-20",
     "description": "The Niorasen Merino is a three-pair crew sock in 50% merino wool with nylon and polyamide. It is OEKO-TEX certified, with terry cushioning along the full length and double-reinforced toes and heels.\n\nCompared with the innotree Merino 3 Pack, it has a certified fabric and a seamless build. Against the Alvada Merino, it has four unisex sizes from small to large.\n\nIt suits hikers who want a thick, fully cushioned sock for rocky trails. The reinforced toes and heels resist wear.",
     "specs": [
       "50% merino, OEKO-TEX certified",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61mDsWWEqyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F3FFTMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F3FFTMK?tag=rvgearlab-amz-20",
     "description": "The Alvada Merino is a three-pair crew sock for men and women made of merino wool and nylon. The listing describes an itch-free feel, shaped cushioning in the footbed and a warm build for cold winter hikes.\n\nIt is warmer than the Dickies Dri-Tech and simpler than the Niorasen Merino. Compared with the innotree Merino 3 Pack, it has no stated warranty.\n\nIt suits cold-season hikers who want a cozy merino sock. Washing on cold keeps the wool soft.",
     "specs": [
       "Merino wool and nylon blend",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518rXl8iHBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VCMSK8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VCMSK8B?tag=rvgearlab-amz-20",
     "description": "The Dickies Dri-Tech is a crew sock in soft, breathable moisture-control fibers with arch compression and ventilation channels. It has a durable reinforced heel and toe, and the pack comes in 6, 12 or 18 pairs.\n\nIt is the cheapest per pair in the group and the lightest. Compared with the Darn Tough Midweight, it has no wool and no guarantee.\n\nIt suits easy day hikes, trail walks and work wear. Fabric content varies by color.",
     "specs": [
       "Moisture-control fibers, crew",

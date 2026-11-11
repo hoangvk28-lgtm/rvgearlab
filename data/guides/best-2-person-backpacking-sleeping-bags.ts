@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "AGEMORE's double is named for camping, backpacking or hiking and uses a 210T water-resistant polyester shell over a brushed flannel lining. The listing states a 32 to 59F design range, and the bag compresses into its sack and splits into two singles.\n\nIt carries the widest cold range in the group, which gives it an edge over the oaskys and FJALLNOK on chilly nights. Zippers on both sides let one person use it alone, a feature the Blackpongo also offers.\n\nA sensible choice for couples who want one bag to cover car camping and short hikes. The flannel lining feels warm to the touch.",
     "specs": [
       "210T shell, flannel lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pLXopJQ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D129YGL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D129YGL5?tag=rvgearlab-amz-20",
     "description": "Blackpongo builds this double with 400 GSM fiber fill, a double-layer construction and wraparound zippers so it separates into two bags or opens into two queen-size blankets. The roomy rectangular shape fits two people up to 7 ft tall.\n\nNext to the AGEMORE it offers more height room and a contoured 3D hood with drawstrings. The oaskys has pillows, while this one leans on warmth and size.\n\nChoose it for tall couples who want the hood and fill of a cold-weather bag in a double. It is also a low-cost choice.",
     "specs": [
       "400 GSM fiber fill, double layer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ulAEBv7lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSX4Z5MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSX4Z5MQ?tag=rvgearlab-amz-20",
     "description": "FJALLNOK offers a 59 x 86.6 inch double with a brushed cotton flannel lining, 3D synthetic fiber fill and a draft tube along the entire zipper. The listing gives a 41 to 59F design range, fits people up to 6 ft, and includes a compression sack.\n\nIt is warmer in construction than the oaskys and the only pick with a draft tube along the full zipper. The range starts at 41F, so it fits cool rather than cold nights.\n\nA fit for couples who want a draft-tube double for fall camping. It also opens fully into a mat.",
     "specs": [
       "Flannel lining, 3D synthetic fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mW+QibjJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRVXWR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRVXWR3?tag=rvgearlab-amz-20",
     "description": "oaskys sells a queen-size XL double that measures about 220 x 145 cm, with a 210T anti-tearing polyester shell and a 190T lining. Its stated design range runs 10 to 20C, and two pillows ship in the box.\n\nIt costs the least and adds the pillows, which the AGEMORE and FJALLNOK do not. The range is warmer than the others, so it is the summer and early fall pick.\n\nChoose it for budget campers who want a double for mild nights. The extra pillows save a separate purchase.",
     "specs": [
       "220 x 145 cm queen XL",

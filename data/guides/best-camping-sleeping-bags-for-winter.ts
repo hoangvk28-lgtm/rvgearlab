@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE XXL measures 90 by 39 inches and sizes up for adults to 6 ft 7 in. It lists three figures, a 30F comfort rating, a 15F limit and a 0F extreme, with a draft tube along the zip and a cotton flannel lining.\n\nAgainst the BORULL Winter XL it prints a colder limit figure and the full trio of ratings, which makes planning easier. Its dual-pull two-way zipper and draft tube hold heat in better than the MEREZA 0 Degree.\n\nIt suits car campers who want a roomy bag with ratings they can read. Treat the 30F comfort number as the one for planning.",
     "specs": [
       "90 by 39 inch XXL size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pIq2xV3ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVG6BPZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVG6BPZ?tag=rvgearlab-amz-20",
     "description": "The BORULL Winter XL measures 92 by 35 inches and lists a comfort range of 32 to 43F, with a limit of 20F to 65F. It has a flannel lining, siliconized fiber fill in one continuous piece, a two-way zipper and an adjustable drawstring hood.\n\nCompared with the HiZYNICE XXL it costs less and packs into a compression sack, with a comfort range that starts a little warmer. Against the MEREZA 0 Degree it prints a real range instead of a zero label.\n\nIt suits big and tall campers on nights in the 30s. The fill is machine washable and resists shifting.",
     "specs": [
       "92 by 35 in, comfort 32 to 43F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bw4CLZZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-amz-20",
     "description": "Buyers of the MEREZA 0 Degree get a rectangle of 32.3 by 90.5 inches, a windproof and waterproof 210T shell and a 3D hood. A pillow and compression sack are packed along with it, for sleepers up to 7 feet.\n\nPriced lowest of the five, it bundles a pillow that none of the others include. It has a stated 40F comfort figure, which is warmer than the HiZYNICE XXL at 30F.\n\nIt suits budget campers on chilly nights above 40F. The extra pillow saves a small purchase.",
     "specs": [
       "32.3 by 90.5 inch rectangle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vR3ekZKtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1CFWRC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1CFWRC6?tag=rvgearlab-amz-20",
     "description": "The Macarrie is a wearable 0 degree bag with sleeves, a hood and pockets on both sides. It is filled with down cotton and weighs about 1 kg, with a water-resistant outer layer and a compression bag.\n\nIt weighs a listed 1 kg and is the only one you can walk around in, which helps when you cook or break camp in the cold. Against the HiZYNICE XXL it gives up room for mobility.\n\nIt suits campers who want to move around in the cold. The pockets hold a phone and keys.",
     "specs": [
       "Wearable, 1 kg",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cAQdvba1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1ZTPVC8?tag=rvgearlab-amz-20",
     "description": "The MEREZA Flannel Double is a queen-size bag sized for two, with a 100 percent flannel lining and OEKO-TEX certified materials. The brushed flannel surface traps air for warmth.\n\nIt is the only double in this group, so it shares warmth where the HiZYNICE XXL and BORULL Winter XL sleep one. It is sold as an all-season bag for cabin and car camping.\n\nIt suits couples who camp in cold weather and want a shared bag. Flannel feels soft against skin.",
     "specs": [
       "Queen double, 100% flannel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bsnWlLSCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TTXBHRW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TTXBHRW?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress is a 24 ounce press purifier: fill the outer bottle, press the inner one down and drink. The listing names removal of viruses such as rotavirus, norovirus and hepatitis A, bacteria such as E. coli and salmonella, and protozoa such as giardia, cryptosporidium and amoebae. It also filters particulates and adsorbs VOCs, PFAS, chemicals, pesticides, herbicides and heavy metals. The replaceable cartridge is good for 65 gallons, about 250 liters.\n\nCompared with the SteriPen Classic 3 below, the GeoPress costs $5 less, needs no batteries and works on murky water, while the pen treats a liter in 90 seconds with a lamp rated for 8,000 treatments. Compared with the LARQ PureVis 2, it adds named virus and protozoa removal for $29 less.\n\nIt suits a solo backpacker, a traveler who fills from taps and streams alike and a car camper who wants a simple routine. Nothing to charge, pump or wait for makes it the easiest purifier to live with.",
     "specs": [
       "24 oz press purifier, no pumps or batteries",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lxGdoXA1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SG6V9WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SG6V9WC?tag=rvgearlab-amz-20",
     "description": "The SteriPen Classic 3 is a UV-C pen that purifies clear water with no chemicals, no taste change and no waiting for tablets. It runs on four AA batteries, with about 25 treatments from alkaline, 150 from lithium or 100 from rechargeable NiMH cells, and an LED panel shows treatment size, battery level and remaining lamp life. The lamp is rated for 8,000 treatments, and the tapered neck fits most wide-mouth bottles. You stir gently for 90 seconds per liter or 48 seconds per half liter.\n\nCompared with the SteriPen Ultralight, the Classic 3 costs $3.82 less and runs on swappable AA cells that you can buy in any trail town, while the Ultralight is lighter and USB rechargeable. Compared with the SteriPen Ultra, it saves $30 and swaps the OLED screen for an LED panel.\n\nIt suits a thru-hiker or an international traveler who prefers common batteries over a charging cable. Lithium AA cells stretch it to 150 treatments.",
     "specs": [
       "UV-C pen, 1L in 90 seconds, 8,000-treatment lamp",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21In1cg7tTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L52FLJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L52FLJV?tag=rvgearlab-amz-20",
     "description": "The SteriPen Ultralight is a 3 ounce pen-style UV purifier that activates on contact with water and stops automatically, so it never runs down in your pack. The 8,000-treatment lamp purifies a liter in 90 seconds, and the USB rechargeable battery gives about 20 treatments per charge from any USB source.\n\nCompared with the Classic 3, the Ultralight costs $3.82 more and drops to 3 ounces with water-activated operation and USB charging, which suits hikers who already carry a power bank. Compared with the SteriPen Ultra, it costs $26 less and has no display, which keeps the weight down.\n\nIt suits a thru-hiker who charges at town stops, a weekend hiker on clear alpine sources and a gram counter. Water activation means there is no button to forget, and a pocket-sized body slips into a hip-belt pouch.",
     "specs": [
       "3 oz UV-C pen, water-activated",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cvQdV0zGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NK9948M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NK9948M?tag=rvgearlab-amz-20",
     "description": "The SteriPen Ultra is the top of the pen line, with a high-contrast OLED display that confirms each treatment, keeps a running count and shows battery status. An internal rechargeable battery powers up to 8,000 liters per lamp lifetime and charges from a computer, wall outlet or a solar panel sold separately. It purifies 1 liter in 90 seconds, or 0.5 liter in under a minute, with watertight seals and rubber protection.\n\nCompared with the Classic 3, the Ultra costs $30 more and swaps AA cells for an internal USB rechargeable battery with an OLED display. Compared with the Ultralight, it costs $26 more and adds the display and a running treatment count.\n\nIt suits a gadget-minded hiker who wants proof that each liter was treated, a traveler who tracks usage and anyone who wants a rechargeable pen with a screen.",
     "specs": [
       "UV-C pen with OLED treatment display",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41736aNeyBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8BNWTCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8BNWTCS?tag=rvgearlab-amz-20",
     "description": "The LARQ PureVis 2 is an insulated stainless steel bottle with a UV-C LED that activates every 2 hours to keep the bottle and water clean, eliminating 99 percent of bio-contaminants such as E. coli and mold. Its nano filter straw reduces chlorine, VOCs, PFAS and pharmaceuticals, tested to NSF/ANSI 42 and 53, with one filter lasting 40 gallons. Double-wall vacuum insulation keeps drinks cold for up to 24 hours, and one USB-C charge runs 2 to 3 weeks.\n\nCompared with the GRAYL GeoPress, the LARQ costs $29 more and adds insulation, an app and a self-cleaning cycle, while the Grayl names virus and protozoa removal for stream water. Compared with the PURIBLOC GOpure, it adds UV cleaning and insulation for about $72 more.\n\nIt suits a day hiker, a commuter, a trailhead camper or a traveler who wants cold, clean-tasting tap water and a bottle that cleans itself. A cap sensor logs sips for the optional hydration app.",
     "specs": [
       "Insulated steel bottle with UV-C LED every 2 hours",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412af798FjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BP4BSZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BP4BSZD?tag=rvgearlab-amz-20",
     "description": "The PURIBLOC GOpure is a thumb-sized pod that drops into any bottle, pitcher or glass. It is made from a blend of food-grade ingredients including diatomaceous earth, which adsorbs trace contaminants such as chlorine and heavy metals, and the listing says it optimizes pH and improves taste. The pod is meant to keep water fresher for longer and is positioned for hiking, camping and backpacking, with an environmentally sustainable design.\n\nCompared with the LARQ PureVis 2, the GOpure costs about $72 less and gives a simple, battery-free pod you can move between bottles. Compared with the GRAYL GeoPress, it costs $43 less and focuses on taste and contaminants such as chlorine and metals.\n\nIt suits a camper who filters tap water before a trip, a traveler improving the taste of hotel water or a buyer who wants a low-cost, no-moving-parts companion in the water bottle.",
     "specs": [
       "Thumb-sized pod with diatomaceous earth blend",

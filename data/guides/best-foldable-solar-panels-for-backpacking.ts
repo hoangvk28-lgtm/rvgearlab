@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jiYtfANJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EXWCPLC?tag=rvgearlab-amz-20",
     "description": "The BigBlue 28W has two USB-C ports and one USB-A port at 5V and 3A each, with 4.8A combined, and folds to 11 by 6 by 1.4 inches. It weighs 1.5 pounds, lists 25.4 percent cell efficiency with a shadow-free surface and carries an IP44 rating.\n\nIt is the only panel here that states weight and folded size, which backpackers need to plan a pack. Against the FlexSolar, it has fewer watts and a lower water rating, with three ports instead of two.\n\nIt suits hikers and small groups who share one panel across several phones and headlamps. The size fits in a pack's lid pocket.",
     "specs": [
       "28W, 25.4% efficiency",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 40W has 24 percent monocrystalline cells, two fast outputs (USB-A with QC3.0 and USB-C with PD2.0) rated 18W apiece, plus a 19V DC output. A smart IC chip detects each device, an LED shows charging status, and the panel carries an IP67 rating with 2 carabiners for hanging it from a pack.\n\nIt states per-port wattage clearly and has the higher water rating. Compared with the BigBlue, it adds 12 watts and a DC output.\n\nIt suits backpackers who charge a phone and a power bank together and expect rain. The carabiners let the panel dry on a pack while walking.",
     "specs": [
       "40W, 24% cells, IP67",

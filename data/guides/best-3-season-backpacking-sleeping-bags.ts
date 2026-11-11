@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "The VENTURE 4TH is a 90 by 39 inch XXL bag stated for comfort from 30 to 70 degrees F, with a water-resistant polyester shell, anti-snag zippers and a compression sack. The brand adds a lifetime replacement guarantee.\n\nIt prints the widest and coldest range of the four, going 20 degrees lower than the MalloMe. It is machine washable and larger than the Naturehike envelope.\n\nIt suits tall campers and trail hikers who want one affordable bag for shoulder seasons. It is the one to pick if nights may fall to 30 degrees.",
     "specs": [
       "30 to 70F stated range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfBY+ln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-amz-20",
     "description": "The Naturehike Envelope is an ultralight backpacking bag with listed ratings of 59 degrees F and 32 degrees F, at 1.68 lb and 80.7 by 33.5 inches. It is waterproof and comes with a compression sack.\n\nIt is the lightest bag listed here, and its two printed figures tell you where it works. It gives up the XXL room of the VENTURE 4TH.\n\nIt suits hikers who count ounces and camp in mild weather. Treat 59 degrees as the comfortable end.",
     "specs": [
       "1.68 lb, compressible",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated for 50 to 77 degrees F, weighs around 3 lb and fits a 6 ft adult. It has a waterproof outer shell that wipes clean, machine-washable construction, double-sided snag-free zippers and a headrest drawstring.\n\nIt is heavier than the Naturehike Envelope and rates warmer than the VENTURE 4TH. It suits mixed use, since the listing names kids and adults.\n\nIt suits families and casual hikers on warm nights. It is a warm-weather bag.",
     "specs": [
       "50 to 77F rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D5OIW3qtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-amz-20",
     "description": "The Sportneer is a 31.5 by 87 inch bag for adults and kids, with a 190T polyester shell and a two-way foot zipper that opens a vent. It is described as waterproof and compact.\n\nIt is priced alongside the MalloMe and offers the foot vent the others lack. It lists no temperature range.\n\nIt suits warm-night hikers and travelers who want a cheap, compact bag. The foot vent helps on mild nights.",
     "specs": [
       "31.5 x 87 inch size",

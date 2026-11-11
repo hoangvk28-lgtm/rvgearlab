@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aK-ou1-LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4R5G2RK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4R5G2RK?tag=rvgearlab-amz-20",
     "description": "The Aurikall is a coulomb meter at $84.49 with a 400A rating, 10 to 100V range, a 2.4 inch color LCD and WiFi plus Bluetooth app monitoring. It reports voltage, current, power, capacity and time, and has over-voltage, under-voltage, over-current, over-power and over-temperature protections.\n\nIt costs $3.47 less than the Zunate and handles 300A more, which matters if an inverter ever pulls hard from your bank. Pick this if you want the highest current headroom plus remote viewing under $100. Caveat: the listing does not state a warranty length or idle draw, so check the seller page.",
     "specs": [
       "400A, 10 to 100V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uIlROd47L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1VGGFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1VGGFR?tag=rvgearlab-amz-20",
     "description": "The Zunate costs $87.96 and covers 10 to 100V with a 100A current limit, a 2.4 inch color LCD and WiFi plus Bluetooth remote monitoring. It measures voltage, current, power, Ah and Wh, includes a buzzer for low capacity or voltage, and ships with shunt, sampler and cables.\n\nIt is $3.47 more than the Aurikall yet tops out at 100A, a quarter of the Aurikall's 400A, and it costs $50.99 more than the QWORK. Pick this if your loads are lights, pump and fridge below 100A. Caveat: a 1200W inverter at 12V draws about 100A, so it leaves no margin.",
     "specs": [
       "100A, 10 to 100V",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j9-f+ZbXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0824X5MKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0824X5MKM?tag=rvgearlab-amz-20",
     "description": "The QWORK is $36.97 and lists an 8 to 80V range in the title, with a reinforced 350A shunt and tracking up to 999Ah. The 13 ft custom cable lets the display sit away from the battery, and an onboard memory chip retains the last parameters through a power loss.\n\nIt is $47.52 under the Aurikall and offers 350A, close to the Aurikall's 400A, but no WiFi or app. It is $16.98 above the SUPNOVA and $23.71 above the DROK, with a proper external shunt. Pick this if you want serious current handling cheaply. Caveat: the bullets say 8V to 100V while the title says 8V to 80V, so confirm voltage before using on 24V.",
     "specs": [
       "350A external shunt",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cshKnSZjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZRYMMKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZRYMMKD?tag=rvgearlab-amz-20",
     "description": "The SUPNOVA is $19.99 with a 7 to 100V range, IPX7 waterproof rating, a 23.62 inch lead set, mounting bracket and low/high voltage buzzer alarm. It supports lead-acid, AGM, LiFePO4 and ternary lithium, and a short press of M switches voltage and temperature.\n\nIt is $16.98 below the QWORK but lists no shunt amp rating, so we treat it as a voltage-based gauge rather than a full coulomb counter. It is $6.73 above the DROK, with a stronger water rating. Pick this if the monitor sits in a wet bay. Caveat: default chemistry is 12V lead-acid, so set it correctly for lithium.",
     "specs": [
       "IPX7 waterproof",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZYv9JkG0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNDVL1ZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNDVL1ZP?tag=rvgearlab-amz-20",
     "description": "The DROK is $13.26, the lowest price here, with a 10 to 100V range, a color LCD readable in sunlight and a 60cm external temperature probe to clip to the battery. It displays capacity, voltage or Fahrenheit temperature and has a full-enclosure shell with reverse polarity protection.\n\nIt is $6.73 cheaper than the SUPNOVA and $23.71 cheaper than the QWORK, but no shunt rating is listed. The temperature probe is its edge over the SUPNOVA in cold-weather battery checks. Pick this if you want an inexpensive voltage and temp readout. Caveat: no app, and no stated current rating, so do not rely on it for inverter loads.",
     "specs": [
       "10 to 100V range",

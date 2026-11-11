@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ierJJE1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QG1QQ5V?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM6000XiE lists 6000 peak and 5250 rated watts from a 312cc OHV engine with electric start and inverter power. It weighs 106.9 pounds, rolls on two wheels with a steel handle, and has an hour meter with LED indicators, a 120/240V 30A locking outlet and CO detection with auto shutoff.\n\nIt is the lowest priced unit here and states 5250 rated watts, the same rating as the dual fuel GENMAX. It trades the second fuel and the lower noise rating for less than half the price.\n\nIt suits campers and backup buyers who want inverter output and a CO sensor at the lowest cost. The L14-30R outlet feeds a 240V load.",
     "specs": [
       "6000 peak, 5250 rated watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H01PiXB8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQLW6VJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQLW6VJW?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM6000iED is a dual fuel unit with a 224cc OHV engine, 6000 peak and 5250 rated watts, and a 3.6 gallon tank. It lists 62 dBA at 23 feet at 25 percent load, THD under 3 percent, a CO detect auto shutoff and a 5-in-1 digital data center. Remote start with a key fob, a telescopic handle and wheels are included, at 117.9 pounds.\n\nIt lists the lowest noise figure and the only second fuel, propane, on the list. Compared with the GM6000XiE, it adds dual fuel, a quieter rating and a key fob at more than twice the price.\n\nIt suits campers who want quiet running and a fuel fallback for storms. The digital data center shows hours, voltage, load, fuel and frequency.",
     "specs": [
       "6000 peak, 5250 rated, dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YLhyks8vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXF7WYMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXF7WYMT?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods lists 6000 starting and 5000 running watts from a 224cc OHV engine, with a Bluetooth app for remote start and stop and live voltage, frequency, fuel, load and runtime. A dedicated switch changes between 120V and 240V, and a fast charging port jump-starts the built-in lithium battery.\n\nIt is the only unit with app control and a 240V switch on the list. Compared with the GENMAX units, it lists 250 fewer running watts and offers electric and recoil start.\n\nIt suits tech-friendly campers who like to start and watch the generator from a phone. The LED panel light helps at night.",
     "specs": [
       "6000 starting, 5000 running watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ix3zfKhHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCM9NNSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCM9NNSB?tag=rvgearlab-amz-20",
     "description": "The RINADURS lists electric start, a CO sensor that can shut it down, and low oil and overheat protection. The title says 6000W peak while one bullet says 5500W peak power, and the listing frames it for home backup, food trucks and work sites.\n\nIt sits between the GM6000XiE and the dual fuel units on price and names a CO sensor plainly. Compared with the GM6000XiE, it lists fewer specifics on weight and outlets.\n\nIt suits buyers who want electric start with a CO sensor for a food truck or backup role. Overheat protection is listed too.",
     "specs": [
       "6000W peak in title, CO sensor",

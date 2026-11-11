@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kOn7d2TML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSTNPN19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSTNPN19?tag=rvgearlab-amz-20",
     "description": "The OGERY has a 30000mAh battery with a stated 26 to 322 hour range, 5.0 m/s airflow and auto oscillation at 30, 60, 90 and 120 degrees with a 270 degree vertical tilt. A 22W QC/PD output port can power small devices, and a three-level LED lantern is built in.\n\nIt is the only pick that oscillates, and the 30000mAh battery is the largest of the four. The FRIZCOL and Coolice have remotes too, and neither lists oscillation or fast-charge output.\n\nIt suits a camper who wants to set the sweep angle, light and timer from the bag and still have a power bank. The 30000mAh cell leaves room to charge a phone as well.",
     "specs": [
       "30000mAh, 26 to 322 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL is a 24000mAh fan with four speeds, three timers and a two-level LED light, all run from a remote. It lists 11 to 60 hours of runtime and a noise level under 30 dB.\n\nIt sits below the OGERY on features and above the Coolice on battery size. The remote and three timers cover the night routine without needing an oscillating head.\n\nIt suits a light sleeper who wants control from the bag and a quiet fan. Non-slip pads and an ABS body let it stand on a mat or table.",
     "specs": [
       "24000mAh, 11 to 60 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ha9f+oyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-amz-20",
     "description": "The Coolice has a 12000mAh battery, three wind speeds and a lantern with nine beads rated up to 600 lux. The remote handles timing, and USB-C 5V/2A charging, a foldable hook and a 360 degree head round it out.\n\nIt has the smallest battery of the four, and it adds a stated lux rating for the lantern. The DUKUSEEK offers a lantern and gives no brightness figure.\n\nIt suits a tent camper who hangs the fan and wants a lantern on a timer. The remote saves reaching up to the hook.",
     "specs": [
       "12000mAh, 65-hour claim",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sfx3Pdu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8528HS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8528HS1?tag=rvgearlab-amz-20",
     "description": "The DUKUSEEK is a three-in-one lantern, hanging fan and emergency power bank with a brushless motor and ultra-thin blades. It comes with a remote, a timer and CE and FCC certification.\n\nIt costs the least of the four, and it is the only one that names safety certification. It gives fewer figures than the Coolice or FRIZCOL, so it is a simpler buy.\n\nIt suits a camper who wants a hanging fan, a light and a phone top-up on a tight budget. Use the remote for the timer and the hook for the tent loop.",
     "specs": [
       "Lantern, fan and power bank",

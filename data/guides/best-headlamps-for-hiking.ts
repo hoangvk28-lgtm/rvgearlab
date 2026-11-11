@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w-LbyL25L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1X5J79N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1X5J79N?tag=rvgearlab-amz-20",
     "description": "The Black Diamond Cosmo 350 produces up to 350 lumens, runs on three included AAA batteries or the rechargeable BD 1500 Li-ion pack, and is rated IP67 for 30 minutes of submersion in 1 meter of water. Dimming, strobe and red night-vision modes are listed.\n\nIt is the only pick that lets you choose AAA or a rechargeable pack, and the only one with an IP67 rating. A low-profile body and adjustable headband suit long hikes and runs.\n\nIt suits hikers who want a dependable lamp that takes cells from any store. The brand is a known outdoor name.",
     "specs": [
       "350 lumens, 3 AAA included",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D2kMMPwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y21GMKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y21GMKQ?tag=rvgearlab-amz-20",
     "description": "The Lepro 2-Pack lists a beam of up to 2,000 lux reaching 500 feet, six modes including spot, flood and red, and up to 15 hours per charge over USB-C. It weighs 2.65 ounces and tilts 45 degrees under an IPX4 rating.\n\nIt has a spare lamp for the price of one, and a stated 15 hour runtime that beats the Blukar's unstated figure. It lists lux, not lumens, which is a useful beam measure.\n\nIt suits budget hikers who want a rechargeable pair for the pack and the car. The sweat-proof headband fits adults and kids.",
     "specs": [
       "2000 lux, 500 ft reach",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lukIQIYtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4KK73NB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4KK73NB?tag=rvgearlab-amz-20",
     "description": "This 2-pack throws a 230-degree wide beam from a COB LED plus a spotlight, with six modes and a motion sensor that works within about 10 cm. The silicone and elastic body weighs 2.47 ounces, and the lamps are rated IPX4.\n\nIt spreads light across the trail without moving your head, a benefit that spot-only lamps cannot match. It lists the lightest weight among the rechargeable pairs.\n\nIt suits trail runners and hikers who prefer floodlight over spot. Hand-wave control works with gloves.",
     "specs": [
       "230-degree beam, COB and spot",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51odzuo7HmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLVT2Y9N?tag=rvgearlab-amz-20",
     "description": "The Blukar combines COB and XPG LEDs with stepless dimming, eight modes and a motion sensor, powered by a 1200mAh USB-C battery. The removable, washable headband adjusts in length, and the lamp is rated IPX5.\n\nIt has the finest brightness control of the six and a better water rating than the Lepro's IPX4. The title's 2000L figure is a marketing number, so lean on the modes and battery.\n\nIt suits hikers who like to dial brightness for map reading and trail. The washable band keeps long trips fresher.",
     "specs": [
       "COB plus XPG, stepless dimming",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iB+0wv56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y21PLQM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y21PLQM?tag=rvgearlab-amz-20",
     "description": "The Lepro battery-powered 2-Pack throws up to 1,300 lux at 400 feet from an XPG2 LED, runs 22 hours on the low setting and has six modes including red. The 45-degree tilt head and removable, washable headband fit hard hats as well.\n\nIt runs on replaceable batteries instead of an internal cell, so a spare set solves a dead lamp on the trail. It reaches less far than the rechargeable Lepro at 400 feet against 500.\n\nIt suits budget hikers who prefer swappable cells. It is also rated against splashes and drops.",
     "specs": [
       "1300 lux, 400 ft reach",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dq0QSLrQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083JV9DB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083JV9DB9?tag=rvgearlab-amz-20",
     "description": "The Energizer PRO-360 ships with three Energizer batteries and lists modes for high, low, wide, wide low, green, red and flashing. The VisionGuard feature gradually raises intensity, and the IPX4 body is rated for impact up to 1 meter with a shatterproof lens.\n\nIt costs the least of the six and works out of the box. It is also the only pick that adds a green mode.\n\nIt suits new hikers and emergency kits that want a ready lamp with batteries. The wide mode helps with campsite tasks.",
     "specs": [
       "Three batteries included",

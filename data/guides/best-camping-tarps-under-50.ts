@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pGUkQ1FrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKNR9C5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKNR9C5W?tag=rvgearlab-amz-20",
     "description": "The GOLDCAMP Bushcraft is a 10 by 13.2 foot tarp in 70D ripstop nylon with a 15,000mm polyurethane coating and 19 reinforced webbing loops. It carries a UV 50+ rating and an aluminized layer that reflects heat, and it ships with a carry bag. At about $45 it is the top of the budget, and the fabric is what the money buys: tight weave, a thick coating and a rating built for sustained rain.\n\nThe 15,000mm coating is six times the 2,500 rating on the FREE SOLDIER Waterproof tarp, and 70D nylon is markedly tougher than the 210D polyester in the CAODITU Waterproof kit. Webbing loops stand up to load far better than the plain grommets found on the poly sheets, which opens up diamond, porch and lean-to pitches.\n\nIt suits a solo or two-person camper who wants a shelter that holds up in a storm and is willing to supply cord and stakes. For a long weekend in unsettled weather, nothing else on this list is as capable, and the heat-reflecting layer helps on sunny days as well, a quiet bonus for anyone who naps under the canopy.",
     "specs": [
       "70D ripstop nylon, 10 x 13.2 ft",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ut5p-QJKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HO15DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HO15DGS?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER Waterproof tarp is a 10 by 10.5 foot sheet of 210T ripstop polyester with a 2,500 PU coating and heat-sealed seams. Four guy lines with built-in tensioners and a small stuff sack come in the box. Around $40 it is the ready-to-pitch pick: open the bag, run the lines and the shelter is up, which suits anyone who has no cord, stakes or patience for fuss.\n\nIt costs about $5 less than the GOLDCAMP Bushcraft and brings the guy lines that nylon tarp leaves for you to buy, a small convenience that adds up when you shop for a first kit. Compared with the CAODITU Waterproof kit it offers more fabric and tie-out loops for pitching a low shelter, while the CAODITU brings the poles for a flat awning roof.\n\nIt is a good match for a hiker or hammock camper who wants cord included and a stuff sack that disappears into a pack. The fabric packs down well, and the tensioners save time in the rain. It is also easy to move between campsites, so a weekend hiker can pitch it quickly and break camp before breakfast is cold.",
     "specs": [
       "10 x 10.5 ft 210T ripstop polyester",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-amz-20",
     "description": "Think of the CAODITU Waterproof awning as a roof in a bag: a square canopy close to ten feet on a side, built from 210D ripstop polyester with a PU coating and taped seams. Two poles, stakes and guy lines arrive with it, so the whole roof stands without extra gear. At about $30 it is the budget entry to a coated-fabric shelter, with roughly 96 square feet under a PU layer.\n\nIt lands about $10 under the FREE SOLDIER Waterproof tarp while adding its own poles, so you get a flat roof on bare ground as part of the package. Next to the Patiobay Tarp 12x16 it covers 96 square feet against 192 and swaps plastic for woven fabric that folds into a bag, a good trade when the tarp is a roof and never a floor.\n\nIt suits picnic-table camps and tailgate sites where trees are scarce and a free-standing roof is welcome. A hammock camper with nothing to hang a ridgeline from will like it too, since the poles stand in for trees and the taped seams keep drips off the sleeper. Packed up, it travels with its own hardware, so nothing gets left behind in the garage.",
     "specs": [
       "Square 9.8 ft canopy in 210D ripstop",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410owR1ufUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-amz-20",
     "description": "The Patiobay Tarp 12x16 is a 12 by 16 foot sheet of 8 mil virgin polyethylene with metal grommets every 23.6 inches and a stitched poly rope hem. It has no stakes or guy lines in the package. At about $29 it brings 192 square feet of thick plastic, a mid-size option that makes sense as a groundsheet or an overhead cover.\n\nIt is the thickest large sheet here, with 8 mil against the 5 mil on the CARTMAN 14x20Ft and the MVPNET 20x30Ft, and its close grommet spacing means guy lines can attach near every high-wind point. Next to the CAODITU Waterproof awning it delivers 192 square feet against 96 for a similar price, and the thick plastic takes a tent pole better than coated fabric does.\n\nIt is a good fit for a family car camper who wants one tough sheet under a tent or over a stack of gear. Rope hems and close grommets carry the force from a wind gust along the edge, so a tie-down never concentrates its pull. It is the strongest pairing for a family tent footprint in the guide.",
     "specs": [
       "12 x 16 ft, 8 mil virgin polyethylene",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515YYJ52PoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-amz-20",
     "description": "Spread out, the CARTMAN 14x20Ft becomes a 5 mil polyethylene field of about 280 square feet, finished with sealed hems, a rope edge and metal rings at three foot spacing. At about $20 it gives the best area for the money in the guide short of the MVPNET sheet. Fourteen square feet per dollar is hard to match.\n\nCompared with the Patiobay Tarp 12x16 it provides 88 more square feet at a lower price, giving up the thicker 8 mil sheet and the closer grommet rows in exchange for a much wider span, which suits roofing more than flooring. Next to the MVPNET 20x30Ft it covers 320 square feet less, and it folds into a package that fits a trunk shelf, which makes it the easier of the two to store between trips.\n\nIt suits groups roofing a long communal table or covering a wood supply for a week. As a budget cover with big reach, it is the logical first buy for a first campsite, with a lot of cover for every dollar, and it stays useful as a spare long after you add a nicer shelter.",
     "specs": [
       "14 x 20 ft, 5 mil polyethylene sheet",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t976F1ADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2X7JR1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2X7JR1Y?tag=rvgearlab-amz-20",
     "description": "The MVPNET 20x30Ft is a 20 by 30 foot tarp in 5 mil waterproof poly with aluminum edge buckles and a UV-resistant finish. It is sold for vehicles, camping mats, boats and firewood piles. At about $41 it spreads 600 square feet of coverage, the largest sheet in the guide and about 14 square feet per dollar.\n\nIt matches the CARTMAN 14x20Ft on area per dollar while covering 320 more square feet, so one sheet replaces several separate covers and saves you from juggling stakes and rope for each one. Set against the Patiobay Tarp 12x16, it gives up thickness in exchange for sheer size, and the aluminum buckles resist the rust that plain steel grommets pick up, which keeps the rim clean after a wet season.\n\nIt suits a camper who needs to cover a whole vehicle, a boat or a long supply pile in one go. Group sites with a big communal kitchen are a natural home for a sheet this wide, and its buckles give plenty of anchor points around the rim for guy lines or bungee cords, so wind has a hard time getting under the edge.",
     "specs": [
       "20 x 30 ft, 5 mil waterproof poly",

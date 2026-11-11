@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510kypqQuPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4G12QKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4G12QKS?tag=rvgearlab-amz-20",
     "description": "Ustinian 97521 is a 28 foot retractable hose kit (9 feet collapsed) with a 1 and a half inch inner diameter, two clamps and one connector. The listing says it uses modified PVC for abrasion resistance and is compatible with Thetford Sani-Con Turbo 400S, 500S, 600S and 700 series but not the 300S.\n\nAgainst Ustinian 21ft, it gives seven more feet of reach. Against BEUTFQL, it states the compatibility exclusions and the collapsed length.\n\nIt is the best match for Sani-Con Turbo owners who need a 28 foot replacement. Think of it as the pick for sani-con turbo replacement.",
     "specs": [
       "28 ft, 9 ft collapsed",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510kypqQuPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT244MKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT244MKJ?tag=rvgearlab-amz-20",
     "description": "Ustinian 97521 21 foot is the shorter version of the same kit, with a 1 and a half inch inner diameter, two clamps and one connector. It lists the same Thetford Sani-Con Turbo compatibility and the same 300S exclusion.\n\nAgainst Ustinian 28ft, it extends less but costs less. Against MytheeTale, it has a larger inner diameter.\n\nIt suits dump spots close to the RV. Buyers focused on close dump spots will find it a sensible match.",
     "specs": [
       "21 ft retractable hose",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gFcl1-R5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5CCXZG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5CCXZG3?tag=rvgearlab-amz-20",
     "description": "BEUTFQL is a 29 foot retractable macerator hose kit with a 29 foot nylon protective sleeve, 2.25 inch inside diameter on the sleeve, extending from 9.8 to 29 feet. The listing says it matches Thetford 97521 and the Sani-Con Turbo 400S, 500S, 600S and 700.\n\nAgainst Ustinian 28ft, it adds a nylon sleeve already installed. Against AMOEJOV, it is nearly the same kit with different branding.\n\nIt suits owners who want sleeve protection included. It earns its slot for sleeve protection.",
     "specs": [
       "29 ft, 9.8 ft collapsed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HfNSPp1YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5C8CH19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5C8CH19?tag=rvgearlab-amz-20",
     "description": "AMOEJOV is a 29 foot retractable hose kit with a 1 and a half inch hose, a 29 foot nylon sleeve and two stainless clamps. The listing says it is compatible with Thetford 97521 and Sani-Con Turbo systems.\n\nAgainst BEUTFQL, it lists stainless clamps. Against Ustinian 28ft, it adds the nylon sleeve.\n\nIt suits owners who want the sleeve and stainless clamps. It is a natural fit for sleeve and clamp buyers.",
     "specs": [
       "29 ft retractable hose",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hynpA3K7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC4BJ2T6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC4BJ2T6?tag=rvgearlab-amz-20",
     "description": "MytheeTale is a 28 foot retractable macerator hose with a 1 inch inner diameter, sold as a replacement for 70424 and compatible Thetford Sani-Con 62-5800 systems. The nylon sleeve comes pre-installed.\n\nAgainst Ustinian 28ft, it has a 1 inch inner diameter in place of 1 and a half. Against BEUTFQL, it lists a different Thetford part number.\n\nIt suits owners whose Sani-Con model takes a 1 inch hose, and the listing says to verify the macerator model first. Think of it as the pick for 1 inch sani-con systems.",
     "specs": [
       "28 ft retractable",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qer6DDsML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F655PWKY?tag=rvgearlab-amz-20",
     "description": "Amazon Basics RV Sewer Hose Kit 15 ft includes one hose, two covers and a 90 degree four-in-one ground converter. It is a standard gravity sewer hose kit and not a macerator discharge hose.\n\nAgainst the macerator kits, it is for gravity dumping and has no Thetford Sani-Con compatibility listed. Against Ustinian 21ft, it is a different hose type.\n\nIt is included as a reminder: use it for gravity dumping, and choose a macerator hose for pressurized waste. Buyers focused on gravity dumping only will find it a sensible match.",
     "specs": [
       "15 ft gravity hose",

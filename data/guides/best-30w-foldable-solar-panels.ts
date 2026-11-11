@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312qwrtte6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFTY44K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFTY44K?tag=rvgearlab-amz-20",
     "description": "The Renogy lists 1.23 lbs, a folded size of 10.55 x 8.86 x 0.71 inches, USB-C PD3.0 at 20W max and USB-A QC3.0 at 18W max. A full parallel design keeps output when part of the panel is shaded, with 6 metal hanging holes, 4 carabiners and IP67 protection.\n\nIt is the lightest panel here and the only one that states how it handles shade. It costs more than every other 30W pick.\n\nIt suits hikers and backpackers who charge a phone while walking. The hanging holes tie it to a pack.",
     "specs": [
       "1.23 lbs, 10.55 x 8.86 in fold",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31osfmCZwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2WFTZFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2WFTZFX?tag=rvgearlab-amz-20",
     "description": "The FlexSolar lists 24 percent efficiency, QC3.0 USB-A and USB-C outputs and an LED indicator that shows charging status. It is a 4-fold panel at 1.4 lbs that unfolds to 32 x 12.4 x 0.1 inches.\n\nThe LED shows when the panel is feeding a device, which the Griplier and wagnation do not list. It weighs slightly more than the Renogy and costs less.\n\nIt suits first-time solar users who want to see that charging is working. The thin unfolded profile lies flat on a tent.",
     "specs": [
       "24% cells, 1.4 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-DQbi4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP lists USB-A and Type-C outputs at 5V/3A with 15W max, a built-in smart chip that identifies devices and a weight of 2.4 lbs. It folds to 10.63 inches and ships with a USB to Type-C cable and 2 carabiners.\n\nIt is heavier than the Renogy and FlexSolar and delivers 15W max from each port. It costs about the same as the FlexSolar.\n\nIt suits campers who want a plain USB charger with a cable in the box. The smart chip adjusts speed per device.",
     "specs": [
       "30W, 5V/3A 15W max ports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AipqdKbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7FCG5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7FCG5D?tag=rvgearlab-amz-20",
     "description": "The ENOFLO lists a 3-fold design at 2.09 lbs and a folded size of 13 x 8.5 x 0.3 inches, with QC3.0 USB and DC outputs, IP65 and a 10-in-1 adapter set. It carries a 12-month warranty.\n\nIt is the only 30W pick with a long adapter set and a stated warranty. It folds thinner than the Renogy at 0.3 inches.\n\nIt suits campers who want to charge small DC devices as well as phones. The 12-month warranty adds support.",
     "specs": [
       "3-fold, 2.09 lbs, 0.3 in thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418FRvmJINL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN466G5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN466G5K?tag=rvgearlab-amz-20",
     "description": "The Griplier lists Class A monocrystalline cells up to 23 percent, a 4-fold design, an IP65 rating and ETFE film. It has one USB port, one Type-C port and one DC port.\n\nIt is the second-cheapest pick and includes a DC port the SOLUPUP lacks. It matches the FlexSolar on port types without a status LED.\n\nIt suits budget campers who want three outputs. The 4-fold design stays compact in a pack.",
     "specs": [
       "23% cells, 4-fold, IP65",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fhSekvwdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRYP911H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRYP911H?tag=rvgearlab-amz-20",
     "description": "The wagnation lists up to 24 percent efficiency, a folded size of 11.97 x 8.27 x 1.38 inches at 2.2 lbs and a seamless one-piece IP65 build with ETFE. It includes a DC5521 cable and 3 DC connectors alongside USB-C and USB-A.\n\nIts price is the lowest in the list and thicker when folded than the ENOFLO. It adds more DC connectors than the Griplier.\n\nIt suits budget campers who want USB and DC options. The one-piece build resists splashes.",
     "specs": [
       "24% cells, 2.2 lbs",

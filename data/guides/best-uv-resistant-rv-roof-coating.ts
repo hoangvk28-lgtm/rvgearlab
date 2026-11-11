@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n+5NlNnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-amz-20",
     "description": "The Countryman 100 percent silicone coating comes in a 4.75 gallon pail for RV and flat roofs. Its high-solids formula leaves more protective silicone after curing, and the listing says most applications need no primer.\n\nUnlike acrylic or latex coatings, it resists ponding water, which is its main edge over the water-based pails in this list. It also lists a single-coat application at the recommended coverage rate.\n\nIt fits owners who want a long-lasting silicone system for a large roof. It works well where water pools after rain.",
     "specs": [
       "100% silicone, high solids",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5150+ft6MQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-amz-20",
     "description": "The BEEST 5 gallon coating is a white solar reflective liquid rubber for trailers, metal and other roofs. It lists a minimum film of 1 gallon per 50 square feet, which calls for 2 to 3 heavy coats.\n\nIt covers up to 250 square feet in two coats per its title. That makes it the larger water-based option against Wadities and DecorRom.\n\nPick it for a full roof recoat with a UV resistant liquid rubber. It fits owners who want volume at a mid price.",
     "specs": [
       "5 gallon liquid rubber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PAtzEJXvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BDWDMOY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BDWDMOY?tag=rvgearlab-amz-20",
     "description": "The Dicor Signature Extended Life coating is a silicone-style white coating for EPDM roofs, used with Dicor's primer. It is permanently flexible and unaffected by sun rays or temperature extremes.\n\nIt fits the EPDM-specific side of this list, compared with the multi-surface coatings from BEEST. The coating system also upgrades the look of an old and worn roof.\n\nChoose it for an EPDM rubber roof where a known RV brand matters. It suits owners already planning a primer step.",
     "specs": [
       "1 gallon EPDM coating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XUE2nbDKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A30MGA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A30MGA?tag=rvgearlab-amz-20",
     "description": "The HENG'S Industries coating is a 1 gallon rubber roof coating for RV rubber roofs, seams, tears, vents and air conditioners. It is UV resistant and expands and contracts with the roof.\n\nIt resists cracking and withstands impact, and is non-toxic and non-polluting. It is more of a spot sealer than a full coat compared with BEEST 5 Gal.\n\nChoose it for patching seams and sealing around vents. It suits owners with a rubber roof.",
     "specs": [
       "1 gallon rubber coating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wfKTqT2xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-amz-20",
     "description": "The Wadities coating is a white solar reflective, UV resistant membrane that offers 1000 percent flexibility. It applies by brush, roller or sprayer, with 1 gallon per 50 square feet over 2 to 3 heavy coats.\n\nIt costs less than the 4.75 gallon silicone and matches BEEST on coverage per gallon. It lists higher concentrations of materials in its formula.\n\nChoose it for a budget-friendly 1 gallon UV coating on a small roof. For uv resistant rv roof coating, it suits small roof value.",
     "specs": [
       "1000% flexibility",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51G-1alZmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQSWDH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQSWDH4?tag=rvgearlab-amz-20",
     "description": "The DecorRom 1 gallon coating is white with rust inhibition and UV resistance for repairing and protecting roofs. It lists high-efficiency solar reflective cooling and all-temperature flexibility.\n\nIt adds rust inhibition, which suits metal roof edges. It has the lowest price here.\n\nChoose it for a metal-edged camper roof on a tight budget. With uv resistant rv roof coating, metal roof budget fits it best.",
     "specs": [
       "Rust inhibition",

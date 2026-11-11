@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIax7ZYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-amz-20",
     "description": "The Beech Lane Dual is an external two-canister system with a 5 micron sediment filter and a 0.5 micron carbon block, lead-free brass 3/4 inch fittings and a mounting bracket. It carries a lifetime manufacturer warranty.\n\nCompared with the XINSHUO 5-Stage, it filters less finely but costs far less and is simpler to service. Against hose filters like the Camco Tastepure, it holds larger cartridges that treat more water between changes.\n\nBest for boondockers who fill tanks regularly and want a sturdy canister system. It mounts on a bracket, so it needs a stand or hook at the fill spot.",
     "specs": [
       "5 micron and 0.5 micron",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ffhrk8rYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJYH43R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJYH43R?tag=rvgearlab-amz-20",
     "description": "The XINSHUO is a five-stage system with an ultrafiltration element listed at 0.1 micron and 3/4 inch brass quick connectors. The listing describes it as lightweight and built to handle road bumps and temperature swings.\n\nIt filters more finely than the Beech Lane Dual, but costs about two and a half times as much and has no stated capacity. Against the OKBA, the fine 0.1 micron claim is the main reason to pay extra.\n\nA solid choice if you fill from unknown sources and want fine filtration, though the listing names no certification or gallons rating.",
     "specs": [
       "0.1 micron UF stage",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure pack lists NSF/ANSI 42 and 53 and CSA lead-free certification to NSF/ANSI 372, with GAC and KDF media in a six-step design. It screws onto any garden hose and is made in the USA.\n\nIt is cheaper and more portable than the canister systems above, but treats fewer gallons per cartridge. Compared with the Camco Tastepure XL below, it is the standard size, sold as a 2-pack.\n\nBest for boondockers who want certified filtering in a pack-away form. It reduces taste, odor, chlorine and sediment, not microbes.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51127i5vSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure XL uses the same six-step design and NSF/ANSI 42 and 53 listing as the standard model, but the listing says it has twice the filtration power. It includes a flexible hose protector and is made in the USA.\n\nIt is sold as a single larger filter, priced close to the standard Camco Tastepure 2-pack, and the extra size is the point for a long stay. Against the Beech Lane Dual, it is easier to carry but still a disposable cartridge.\n\nA good fit for boondockers who fill large tanks and want more capacity without going to a canister.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iXBhxvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH 4-Pack gives four hose filters and two flexible hose protectors, with a 20 micron rating and a lab-tested 97.9 percent chlorine claim. The media is GAC and KDF.\n\nNext to the Camco picks, it names no NSF standard in the highlights, but you get four filters in one purchase. Against the Kohree 4-Pack, it gives fewer pieces of detail on capacity.\n\nGood for boondockers who expect to burn through filters on long trips and want spares in the rig.",
     "specs": [
       "97.9% chlorine claim",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JM+ObayZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892ZSZ5R?tag=rvgearlab-amz-20",
     "description": "The Kohree 4-Pack is a set of NSF-listed inline filters, with a 20 micron stage, five layers of GAC and KDF, and a stated 1,057 gallon capacity per filter. The listing says each lasts the entire camping season, and advises replacing them regularly.\n\nIt is the lowest-priced pick on the list per filter. Against the GLACIER FRESH 4-Pack, it states a capacity per filter, which the GLACIER listing does not.\n\nA fair choice for boondockers who treat filters as a consumable. It improves taste and chlorine but is not designed to make questionable water safe.",
     "specs": [
       "20 micron, 5-layer",

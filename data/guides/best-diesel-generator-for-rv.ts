@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnmP5lzlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010T243GU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010T243GU?tag=rvgearlab-amz-20",
     "description": "The Generac XD5000E is a diesel generator with 5,500 starting watts, powered by a Yanmar LW series 435cc air-cooled engine. It carries a 12 gallon diesel tank that runs for 32.4 hours at 50 percent load, and its total harmonic distortion is 6 percent. A steel cradle and a lifting eye make it easier to move and secure.\n\nThere is no sibling pick in this guide, so the most useful comparison is against the alternatives. A gas inverter generator costs a fraction of the price and runs quieter, yet it needs refueling far more often and the fuel degrades faster in storage. A dual-fuel portable offers flexibility between gasoline and propane, though it cannot match a diesel's runtime per tank or its engine durability. The XD5000E sits at the other end of the scale: expensive, but built for long, steady work.\n\nThis is the pick for RV owners who need a lot of unattended runtime, such as boondockers who run an air conditioner for many hours or owners who want a backup for a long outage. It also suits people who already carry diesel for a truck or motorhome and prefer one fuel type.",
     "specs": [
       "5,500 starting watts",

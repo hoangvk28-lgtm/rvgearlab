@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n9qtD9vVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30W is the standard 30 amp model in the Wi-Fi line, at $169.99. It pairs Wi-Fi and Bluetooth connectivity with wireless fault alerts and live voltage readings, so you can monitor the pedestal from the app anywhere in range. A replaceable surge module means that after a spike you swap the module rather than the entire unit, and an IP65 water-resistant heavy-duty body is built for weather.\n\nCompared with the PWD30EPOW above it in price, the PWD30W costs $140 less and covers the same 30 amp service with the same described features. Compared with the GEARGO Smart 30 Amp, it costs about $50 more and brings Bluetooth, a replaceable surge module and a more established app, while the GEARGO leads on its joule claim and an IP68 housing.\n\nIt suits a travel trailer on a 30 amp pedestal where you want alerts on your phone, such as a seasonal site or a rig left plugged in over a weekend. Dogbone adapter compatibility keeps it flexible when a site has a different outlet.",
     "specs": [
       "30A Wi-Fi and Bluetooth smart protector",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312sQGCcUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50W is the 50 amp counterpart to the PWD30W, priced at $228.02. It offers the same patented Wi-Fi and Bluetooth connection, wireless fault alerts and live voltage data, along with the swap-out surge module and IP65 housing. Compatibility with dogbone adapters lets it work with a 30 amp pedestal when needed.\n\nAgainst the PWD50EPOW, it costs $121.97 less for the same described features. Against the GEARit 50 Amp, it costs about $88 more and adds Bluetooth, the replaceable module and the larger Power Watchdog app ecosystem, while the GEARit brings a 7200 joule rating and kWh tracking at a lower price.\n\nIt fits a fifth wheel or large motorhome where a single failure can damage two air conditioners and a residential fridge, and where an owner wants alerts rather than a surprise. The replaceable module is especially useful on a heavy-use rig, since a spike costs a module rather than a protector.",
     "specs": [
       "50A Wi-Fi and Bluetooth smart protector",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lh4IoWZYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HMG4CVF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HMG4CVF2?tag=rvgearlab-amz-20",
     "description": "The GEARGO Smart 30 Amp costs $119.99 and brings the most features per dollar in this group. A 15,000 joule claim sits behind automatic shut-off and restore, a bright LED display that stays readable in sunlight, and a built-in pedestal circuit analyzer that inspects the outlet before power connects. It talks to the Tuya and Smart Life app over Wi-Fi for real-time monitoring and one-tap remote control, and an IP68 sealed shell is rated against rain, snow and sand.\n\nCompared with the Power Watchdog PWD30W, the GEARGO is about $50 less and adds the pre-connection analyzer, remote on and off and a higher ingress rating, while the Watchdog adds Bluetooth, a replaceable module and a dedicated RV app. Compared with the GEARit 50 Amp, it covers the 30 amp service for $20 less.\n\nIt works for a budget-minded owner of a 30 amp rig who wants a check before connecting and a way to switch power from the couch. The diagnostic step makes it a practical tool at unfamiliar campgrounds.",
     "specs": [
       "30A, 15,000 joule claim, Wi-Fi app control",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NaqlJf1dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXGBN5VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXGBN5VS?tag=rvgearlab-amz-20",
     "description": "The GEARit NEMA 14-50 Smart Surge Protector is priced at $139.99 and combines 7200 joules of multi-stage MOV surge protection with a Wi-Fi power meter. Over 2.4GHz Wi-Fi the GEARit app shows live voltage, amperage, wattage and kilowatt-hours, so it replaces a separate 50 amp meter. It has NEMA 14-50P and 14-50R ends, which means no adapters, and a sealed weatherproof housing for rain, dust and puddles.\n\nCompared with the Power Watchdog PWD50W, the GEARit costs about $88 less and adds kilowatt-hour tracking and a stated joule rating, while the Watchdog offers Bluetooth and a replaceable surge module. Compared with the Power Watchdog PWD50EPOW, it costs $210 less.\n\nIt fits an owner of a 50 amp fifth wheel who wants to watch energy use over a month at a long-stay site and keep an eye on the pedestal. The kilowatt-hour readout helps check a campground's electric bill, and the 7200 joule rating gives clear numbers for comparison.",
     "specs": [
       "50A NEMA 14-50 with 7200 joules MOV protection",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319aC-3RXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOW is the higher tier of the 30 amp line, at $309.99. The product text matches the PWD30W: Wi-Fi and Bluetooth connectivity, wireless fault alerts, a replaceable surge module, an IP65 housing and dogbone compatibility. The EPOW suffix marks it as a separate model, so confirm what it adds on the Power Watchdog product page before paying the premium.\n\nCompared with the PWD30W, it adds $140 for the EPOW designation. Compared with the GEARGO Smart 30 Amp, it costs $190 more and brings a replaceable module, Bluetooth and the Power Watchdog app.\n\nChoose it if you want the top tier of a brand you already use, if you manage several Power Watchdog units from one app, or if the EPOW features match something you need. For most 30 amp trailers, the standard PWD30W is the better value.",
     "specs": [
       "30A Wi-Fi and Bluetooth smart protector, EPOW model",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW tops this group at $349.99. The product text again matches the standard version: Wi-Fi and Bluetooth monitoring, wireless fault alerts, a replaceable surge module and an IP65 housing, with dogbone adapter compatibility. The EPOW name points to a distinct model, so check the product page for what the suffix includes.\n\nCompared with the PWD50W, it adds $121.97 for the EPOW designation. Compared with the GEARit 50 Amp, it costs $210 more and brings Bluetooth, a replaceable module and the Power Watchdog app.\n\nIt suits an owner of a large rig who already uses Power Watchdog products, or who wants the highest tier of the line for a full-time setup. A buyer with a standard 50 amp rig will usually be fine with the PWD50W.",
     "specs": [
       "50A Wi-Fi and Bluetooth smart protector, EPOW model",

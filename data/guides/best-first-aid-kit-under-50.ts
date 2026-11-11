@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P9tyd65+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CYBXLA4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CYBXLA4?tag=rvgearlab-amz-20",
     "description": "The Be Smart Get Prepared kit holds 250 pieces in a sturdy case with organized compartments and included wall mounts. The listing says it meets OSHA and ANSI 2009 guidelines for 50 people and includes SILVEX wound gel.\n\nIt carries more pieces than the ProHeal and sits below the 24/7 First Aid in price. It trades the 100-person scale of that kit for a more portable 50-person setup.\n\nIt is the best fit for a family home, a small shop or a campsite base that wants a real kit without the top price. The wall mounts let it live on a garage or RV wall.",
     "specs": [
       "250 pieces, 50-person rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mVRqGAD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083X6DJCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083X6DJCL?tag=rvgearlab-amz-20",
     "description": "The 24/7 First Aid kit has 336 pieces and is described as OSHA compliant and sized for up to 100 people. The case is a wall-mountable plastic box with a clear cover and individual compartments.\n\nIt holds more than any other kit under this ceiling and costs the most. Compared with the Be Smart 250-Piece, it adds scale for crowds in a larger case at 3.25 x 11.5 x 13 inches.\n\nIt suits scout troops, work crews and large family camps that need a stocked box. Antiseptic wipes, burn cream and gauze make up the core.",
     "specs": [
       "336 pieces, 100-person scale",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KFJkFJylL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPQ7SYT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPQ7SYT6?tag=rvgearlab-amz-20",
     "description": "The ProHeal is a 111-piece kit rated for 10 people, built to ANSI Type III, Class A and OSHA compliant. It has a plastic case with two latches, a handle and wall-mounting tabs, plus a manual and guide.\n\nIt is smaller than the Be Smart 250-Piece and fits a vehicle glove compartment. The latch case and handle make it easier to grab than the zipper bags in this group.\n\nIt works for a car, a workshop or a small campsite where a compact, compliant kit is enough. The included guide helps non-experts.",
     "specs": [
       "111 pieces, 10-person rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51drvjOIcCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5J8MVDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5J8MVDD?tag=rvgearlab-amz-20",
     "description": "The 1st Aid 300-piece kit comes in a compact red bag with plastic compartments, an emergency blanket and a triangular bandage. The listing sells it for hikes, camping and the car.\n\nIt lists 300 pieces at a price below the ProHeal and the Be Smart 250-Piece. The listing notes that the zipper edge is not waterproof, so it does not match the sealed cases here.\n\nIt is for budget campers who want a light bag with extras such as a blanket. It fits in a pack.",
     "specs": [
       "300 pieces in a compact bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411tLyA56aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB794BKQ?tag=rvgearlab-amz-20",
     "description": "The Vriexsd Mini holds 150 pieces in a waterproof EVA hard shell that measures 6.4 x 4.9 x 2.7 inches and weighs 0.73 lbs. It has bonus carabiners and small compartments with categorized sleeves.\n\nIt is the only kit here with a waterproof hard shell and a listed weight of 0.73 lbs. It offers fewer pieces than the 1st Aid 300pc, yet the case protects them better.\n\nIt suits day hikers, kayakers and bikers who want a kit that clips to a pack. The sleeves keep items sorted.",
     "specs": [
       "150 pieces, 0.73 lbs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uWuN0lFrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CYBXH7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CYBXH7G?tag=rvgearlab-amz-20",
     "description": "The Be Smart Get Prepared 110 Pc kit is the lowest-priced kit in the group, in a rugged high-density plastic case that is impact resistant. The case measures 7.5 x 2.5 x 6.8 inches and uses easy-slide latches.\n\nIt carries fewer pieces than the Be Smart 250-Piece from the same maker, yet it fits in a car seat pocket or a day bag. The listing says it meets FDA regulatory standards as a medical device.\n\nIt is the pick for a tight budget or a second kit for a spare car. The compact case slips under a seat.",
     "specs": [
       "110 pieces in a rugged case",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tcbVOapKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-amz-20",
     "description": "NewDoar lists this bag at 1.5 lb with a compressed size near 11.8 by 6.5 inches and a 50 to 70F rating. The shell is 380T ripstop nylon over a breathable polyester lining, and a Velcro neckline stops the zipper from creeping open.\n\nIt is the lightest of the four on paper and the only one that links to a second bag for a double, or unzips fully into a summer blanket. A heavy-duty compression sack shrinks it to about a third of its size.\n\nIt suits summer hikers and bike tourists who want the lowest carry weight and the option to share. It costs the most of the four.",
     "specs": [
       "1.5 lb, 50 to 70F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TF2SEPBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-amz-20",
     "description": "WERTYCITY lists about 1.54 lb and a compressed height of 6.9 inches for this warm-weather bag, with a nylon outer, a breathable pongee lining and comfort pegged at 59F. Two bags can be zipped together as a double.\n\nIts 6.9 inch roll is the smallest of the four and shorter than the ECOOPRO's 11 inches. It costs less than the NewDoar and rates a touch warmer than the Wind Tour.\n\nIt suits hikers whose pack is already full and whose nights stay warm. The small roll fits a side pocket.",
     "specs": [
       "About 1.54 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO's warm weather bag is listed at 1.7 lb and 11 inches tall once compressed, with a waterproof nylon outer, a polyester lining and a 55 to 60F working range. A variant of the same bag is listed at 86 by 30 inches.\n\nIts waterproof shell gives dew and light spray something to bead off. It is heavier and larger than the NewDoar and WERTYCITY.\n\nIt suits budget hikers on dry, warm routes. A compression sack and smooth zipper come with it.",
     "specs": [
       "1.7 lb, 11 inches tall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TGGcx-8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB93DVJ6?tag=rvgearlab-amz-20",
     "description": "Wind Tour rates this synthetic bag at 43 to 59F and lists 2.2 lb. In sleep mode it measures 84.6 by 31.5 inches including a hood extension, and in quilt mode it opens to 72.8 by 63 inches.\n\nIts 43F low end is the coldest of the four, so it handles cooler dawns at altitude better. It is the heaviest of the group and the lowest priced, and the quilt mode doubles as a blanket.\n\nIt suits summer hikers who see chilly mornings and want a quilt option. The storage sack is breathable.",
     "specs": [
       "2.2 lb, 43 to 59F",

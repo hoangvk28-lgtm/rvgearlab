@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EAjRmCgnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8YSD2D3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8YSD2D3?tag=rvgearlab-amz-20",
     "description": "This kit pairs two 500W flexible monocrystalline panels with a 40A charge controller for $369.99, or about $0.37 per watt. The listing says the panels suit 12 to 48V battery charging, bend to fit curved roofs, and have six grommet holes so they can be fastened with screws or attached with silicone and adhesive tape. The junction box is described as sealed and waterproof.\n\nIt ranks first because it is the only pick that includes a controller with a stated amp rating at a price near the cheapest options. Against the Portable 500W Kit it costs $99 more and its controller is smaller, 40A versus 50A, so it is the weaker kit on charging headroom. Against the 5x200W N-Type pack it saves $210, but it gives up rigid glass panels and the long performance warranty that pack lists.\n\nPick it if you want one box that covers panels and a controller and you are comfortable bonding flexible panels to a roof. The caveat is the controller: at a 14.4V charging voltage, 40A is about 576W, so on a 12V battery this kit cannot use its full 1000W unless you wire for 24V or higher.",
     "specs": [
       "2 x 500W flexible panels",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AXPSYJyYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZ7MBMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZ7MBMC?tag=rvgearlab-amz-20",
     "description": "The Portable 500W Kit costs $270.99 and includes two 500W monocrystalline flexible panels with a stated 23 percent conversion efficiency, an ETFE film coating for abrasion resistance, and a 50A intelligent controller with real-time voltage monitoring and overcharge, over-discharge and short-circuit protection. The listing says the panels bend up to 30 degrees to follow curved roofs without complex brackets.\n\nIt ranks second because it undercuts the Flex 500W Kit by $99 and offers a 50A controller instead of 40A, which lets a 12V array reach about 720W at 14.4V (an estimate) instead of 576W. It matches the Flex Basic Kit on price but states its controller size and efficiency, which that listing does not. Against the 10x100W N-Type pack it saves $215, though it has no glass panels or certification listed.\n\nChoose this if you want the cheapest complete route to roughly 700W of usable 12V charging, or you plan to wire at a higher voltage. The caveat is size: at 23 percent efficiency a 500W panel needs about 2.2 square meters, around 23 square feet each (our arithmetic), so confirm the real dimensions with the seller before you measure your roof.",
     "specs": [
       "2 x 500W, 23% efficiency",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415TKXNHngL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3V83HKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3V83HKV?tag=rvgearlab-amz-20",
     "description": "The Flex Basic Kit is the cheapest listing here at $269.99, or $0.27 per watt. It is described as a 1000 watt flexible kit with a charge controller, using monocrystalline cells, a sealed waterproof junction box and six mounting holes for fasteners, silicone or tape. The listing positions it for RVs, boats, campervans and golf carts.\n\nIt ranks third because the listing never states the controller amp rating, the panel count or the individual panel wattage, while the Portable 500W Kit costs just $1 more and publishes a 50A controller and 23 percent efficiency. Compared with the Flex 500W Kit you save $100, but you are taking the missing numbers on trust. That is a real difference when the controller size decides how much of the array you can use.\n\nThis works for a tight budget where you can message the seller and get the controller size and panel layout in writing before ordering. The caveat is plain: without a stated controller rating you cannot check the 12V ceiling, so treat the 1000 watt label as unverified until you do.",
     "specs": [
       "1000W flexible kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qPdvxPK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVFZVMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVFZVMD?tag=rvgearlab-amz-20",
     "description": "This pack contains five 200W N-type panels with 25.8 percent cell efficiency and 16-busbar cells, certified to IEC 61215, IEC 61730 and UL 61730. Each panel measures 52.8 x 30.3 x 1.18 inches and weighs 23.8 pounds, so the set adds about 119 pounds and roughly 55 square feet (our arithmetic). It has tempered glass, an aluminum frame, a low temperature coefficient of minus 0.3 percent per kelvin, and a 25-year performance warranty with 10 years of technical support.\n\nIt ranks fourth by price, $579.99 or $0.58 per watt, which is $210 above the Flex 500W Kit and $94 above the 10x100W N-Type pack. In return it states certifications, a partial-shade design with series-parallel cell strings, and the number of panels you can mount in smaller groups, which makes it easier to route around vents than two huge sheets. It lists no controller, so add one.\n\nPick it if you want proven rigid glass with documented standards and the flexibility to split 1000W into five roof positions. The caveat is weight and cost: 119 pounds of panels plus a controller of at least 80A for a 12V battery (estimate) makes this the heaviest and priciest route.",
     "specs": [
       "5 x 200W N-type",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41611kOdhSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSTTKMJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSTTKMJ6?tag=rvgearlab-amz-20",
     "description": "This pack gives you ten 100W N-type panels with 25.8 percent efficiency, 16-busbar cells, 3.2mm anti-reflective tempered glass, an aluminum frame and an IP68 junction box. It carries the same IEC 61215, IEC 61730 and UL 61730 certification wording as the 5x200W pack. At $485.99 it costs about $0.49 per watt.\n\nIt ranks fifth: it is $94 cheaper than the 5x200W N-Type pack and uses smaller panels that fit gaps between roof vents, and it is $36 above the DOKIO 10-Pack but uses rigid glass rather than a flexible surface. Ten panels means ten sets of connectors and a larger wiring plan, so a combiner box and careful fusing matter more here than with two big sheets.\n\nChoose it if your roof has many small usable spaces and you want glass panels you can mount in groups of two to four on separate zones. The caveat is complexity: ten panels, no controller listed, and a long list of MC4 joins to keep weatherproof.",
     "specs": [
       "10 x 100W N-type",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PtRtHhh+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1CRDXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1CRDXG?tag=rvgearlab-amz-20",
     "description": "The DOKIO 10-Pack supplies ten 100W flexible 18V panels for $449.77, or about $0.45 per watt. The listing describes an ETFE top sheet for better light transmission and wear resistance, MC4 connectors, panels that bend safely up to 30 degrees, and wiring in series for higher voltage or in parallel for higher current. Each panel arrives with foam protectors to limit shipping damage.\n\nIt ranks sixth because the listing is the thinnest on numbers: no efficiency, weight, certification or controller. Against the 10x100W N-Type pack it costs $36 less, but trades glass and certified standards for lighter, thinner panels. Against the two-panel kits it is $80 more than the Flex 500W Kit and costs more per watt, in exchange for panels small enough to carry and place without help.\n\nPick it if weight or curved surfaces rule out glass and you want to place small panels one at a time. The caveat is heat: the listing warns that panels must not be mounted directly on combustible materials such as wood, asphalt shingles, fabric or foam, and that ventilation space is needed, which conflicts with gluing flexible panels flat to a roof.",
     "specs": [
       "10 x 100W, 18V",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414nv8rI75L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDHJ8DM?tag=rvgearlab-amz-20",
     "description": "The POWGRN 50 Amp unit is rated 26,000J and ships with an anti-theft ring plus an oversized weather cover. At $44.99 it is the cheaper way into a lockable setup, with an LED readout for voltage, current and power, and an auto shutoff that stays off until you press a manual reset.\n\nAgainst the GEARGO 30A at $161.48, you save $116.49, but you also lose the app and the pre-connection circuit analyzer. Pick this if you run a 50A rig and want the ring and manual reset. The caveat: the listing gives no reconnect delay or certification mark, so check the label.",
     "specs": [
       "50A, 26,000J rating",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41czPrZjsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30A is rated 28,000J with an IP68 plug adapter and a larger LED display. Its circuit analyzer checks for reverse polarity, open ground and open neutral before you connect, and the Bluetooth app shows voltage, current and wiring status from your phone.\n\nIt costs $116.49 more than the POWGRN 50A, and that money buys the analyzer, app and over and under voltage cutoff relay. Pick this if you have a 30A trailer and want to read the pedestal from inside. The caveat: the listing does not mention a physical lock or anti-theft ring, so it is not the lockable choice.",
     "specs": [
       "30A, 28,000J rating",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314ymYjL8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYFKY9YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYFKY9YQ?tag=rvgearlab-amz-20",
     "description": "The Litime 12V 165Ah is a Group 31 LiFePO4 with self heating in two modes (regular and energy efficient) and 172.3Wh/L energy density. It also adds Bluetooth password protection so nobody else can pair with your battery.\n\nAt $479.99 it costs $177.60 more than the Litime 100Ah at $302.39, but 165Ah gives about 2100Wh versus 1280Wh and adds heating. Pick this if you camp in cold weather. The caveat is the highest price here, and heating draws some of the battery's own energy.",
     "specs": [
       "12V 165Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3167E3QlCpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ78JZ2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ78JZ2B?tag=rvgearlab-amz-20",
     "description": "The Litime 100Ah Group 31 measures 13 x 6.77 x 9.08 inches at 22.16 lb, about a third of a lead acid battery. It has a 20 plus protection BMS and automotive grade cells.\n\nAt $302.39 it costs $50.40 more than the Power Queen at $251.99 and $137.44 more than a single GRNOE battery at $164.95. Pick this if you want a known brand with listed dimensions. The caveat is that it has no self heating and costs more than the Power Queen.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oHKbGnpOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BQSJPTB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BQSJPTB?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 100Ah Group 31 has a 100A BMS with overcharge, over discharge and short circuit protection, and weighs just 24 lb. It uses Grade A cells.\n\nAt $251.99 it costs $50.40 less than the Litime 100Ah and is $82.00 more than the Balanergy at $169.99. Pick this if you want a mid priced single with a clear BMS rating. The caveat is 2 lb heavier than the Litime and no heating.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qb5DJkt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH4SX4N6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH4SX4N6?tag=rvgearlab-amz-20",
     "description": "The GRNOE set is two 12V 100Ah Group 31 LiFePO4 batteries with a 100A BMS and low temperature protection. Each measures 12.9 x 6.7 x 8.6 inches and weighs 22.48 lb, and they ship one battery per box.\n\nAt $329.90 for two it works out to $164.95 each, which is $87.04 less per battery than the Power Queen 100Ah. Pick this if you want 200Ah cheaply. The caveat is the listing's own warning that batteries ship separately, and the brand is less established.",
     "specs": [
       "2 x 12V 100Ah LiFePO4",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413BHXyJEYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN7JMCVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN7JMCVF?tag=rvgearlab-amz-20",
     "description": "The Balanergy 12V 100Ah Group 31 lists A plus cells, a 100A BMS with temperature control and low temperature protection that cuts discharge below -4F. It is claimed up to 15000 cycles.\n\nAt $169.99 it is $82.00 less than the Power Queen 100Ah and $5.04 more than a single GRNOE battery at $164.95. Pick this if you want one battery at the lowest price. The caveat is that the 15000 cycle number is a manufacturer claim and the brand is new.",
     "specs": [
       "12V 100Ah LiFePO4",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S+dIhMlLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N9K9PF?tag=rvgearlab-amz-20",
     "description": "The Aoxun 12x12 Screen Tent is crafted from thickened 300D Oxford and fine polyester mesh and blocks over 99 percent of UV rays. It has sturdy fiberglass poles, windproof ropes, luminous ground stakes and six detachable wind cloths, two with windows.\n\nIt costs slightly less than the VEVOR 12x12 Camping Gazebo for the same size and wind cloth count. The luminous stakes help you spot guy lines after dark.\n\nIt suits groups who want a large gazebo-style room at a fair price. The windproof ropes help it stay put in breezes.",
     "specs": [
       "12 x 12 ft footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rnnUlemML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YGXNJZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YGXNJZC?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12x12 Camping Gazebo uses 300D Oxford and B3 gauze netting that the listing rates IPX3 waterproof, bite-proof and UV-proof. It includes six wind cloths, two with mesh windows, plus ground stakes, guy ropes and a two-sided zipper.\n\nIt is the only 12 by 12 ft model here that names an IPX3 rating and has an inner steel structure. It is slightly pricier than the Aoxun 12x12 Screen Tent.\n\nIt suits campers who want a stated water rating in a big pop-up. The two-sided zipper makes entry smooth.",
     "specs": [
       "12 x 12 ft, 300D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rnnUlemML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJXFP8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJXFP8L?tag=rvgearlab-amz-20",
     "description": "The VEVOR 10x10 Gazebo is a six-sided pop-up with 300D Oxford that the listing calls waterproof and UV-resistant. It holds 6 to 8 people and includes six removable wind cloths and two mesh windows.\n\nIt brings the same wind cloth system as the 12x12 models in a smaller footprint. It costs only slightly less than the Aoxun 12x12 Screen Tent.\n\nIt suits families who want a compact gazebo with wind panels. The listing says it accommodates up to 8 people.",
     "specs": [
       "10 x 10 ft, six-sided",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51X1ipU+2PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC51KNC7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC51KNC7?tag=rvgearlab-amz-20",
     "description": "The Lenotos 10x10 Screen Tent has a 7 ft interior, dual zippered doors and internal gear hooks, and fits 4 to 6 people plus furniture. It folds into a 28 inch disc and includes 12 stakes, six sandbags and 12 guylines.\n\nIt has the biggest anchoring kit of the six and packs the flattest. Its 150D Oxford has UPF 50+ protection and waterproof capabilities per the listing.\n\nIt suits campers who stake out in wind and want a slim fold. The dual zippered doors give two ways in.",
     "specs": [
       "10 x 10 ft, 7 ft high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419yBTR1hIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PCYX6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PCYX6K?tag=rvgearlab-amz-20",
     "description": "The VEVOR 6x6 Gazebo is a four-sided 6 by 6 ft shelter made from thickened 300D Oxford with UPF50+ protection. It has fiberglass poles, windproof ropes, luminous ground nails and four removable windproof cloths, two with mesh windows.\n\nIt carries the same fabric as the bigger VEVOR models in a size for two or three chairs. It costs more than the Lenotos 10x10 Screen Tent for a much smaller footprint.\n\nIt suits solo campers who want wind cloths on a tiny gazebo. Mesh windows on two cloths keep air flowing when closed.",
     "specs": [
       "6 x 6 ft, 4-sided",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a2JtQcwNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4J4SXD6?tag=rvgearlab-amz-20",
     "description": "The VEVOR 10x9.2 Screen House stands 7.55 ft tall and has reinforced fiberglass and steel poles. Its 300D Oxford screened canopy and 360 degree mesh offer weather and bug protection, and it holds 4 to 8 people.\n\nAt the lowest price here it also has the tallest roof of the 10 ft class. Compared with the VEVOR 10x10 Gazebo it has no wind cloths and costs about half as much.\n\nIt suits penny-wise campers who want a roomy screen house. Wind cloths or sidewalls can be added later if the weather turns.",
     "specs": [
       "10 x 9.2 ft, 7.55 ft tall",

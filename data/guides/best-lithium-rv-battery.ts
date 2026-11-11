@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi4nZc5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4WS1BGY?tag=rvgearlab-amz-20",
     "description": "The Power Queen 125Ah earns the top spot because it solves the most common RV lithium problem: you have a Group 27 battery box and want more than 100Ah without rebuilding the tray. At 12.13 x 6.69 x 8.31 inches it drops into a standard Group 27 space while adding roughly 320Wh over a typical 100Ah lithium of the same footprint, and the built-in Bluetooth 5.0 app reports state of charge, current, power, and cell temperature.\n\nCompared with the ECO-WORTHY 314Ah ranked just below it, the Power Queen carries far less capacity, but it weighs a fraction as much and needs no new mounting space. The ECO-WORTHY is the better pick for a dedicated boondocking bank; the Power Queen is the better pick for the typical travel trailer that wants a clean, low-risk swap. It also lists compliance with ABYC E-13 and UN38.3, documentation many budget brands skip.\n\nBest for weekend and seasonal campers upgrading from lead-acid who want monitoring and a credible safety paper trail. The caveat: it is an energy storage battery only, so it should not double as an engine starter, and confirm your converter has a lithium charge profile before relying on it.",
     "specs": [
       "125Ah in a Group 27 case",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1aG07jHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS3Y9TBQ?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 314Ah is the pick for RVers who want one battery to do the job of a three-battery bank. It stores 4019Wh behind a 200A BMS, so a 2000W-class inverter can run a microwave or coffee maker without tripping the battery, and an on-case LED display shows charge level even when your phone is out of range of the Bluetooth app.\n\nIt ranks second behind the Power Queen 125Ah only because it asks more of the rig: the case measures 16.3 x 8.46 x 10.24 inches and weighs 60.4 lbs, so many travel trailer tongue boxes cannot take it. Against the VATRER 300Ah below it, the ECO-WORTHY offers slightly more capacity and a lower price, but it protects itself in the cold by cutting charging at 19.4°F instead of warming the cells.\n\nBest for dry campers who have floor space inside a basement compartment and want maximum runtime per dollar of quality hardware. Caveat: a single large battery means one point of failure, and the charging cutoff means winter campers still need a heated space or a heated model.",
     "specs": [
       "314Ah, 4019Wh",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ntErG5hKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKYCXTMP?tag=rvgearlab-amz-20",
     "description": "The VATRER 300Ah is here for one reason the other large batteries cannot match: a built-in self-heating function. LiFePO4 cells should not be charged below freezing, so standard batteries simply refuse solar or converter charge on a cold morning. This one warms its cells first, which keeps a solar setup useful in shoulder-season and winter camping.\n\nIt sits third because it costs about $100 more than the ECO-WORTHY 314Ah while offering slightly less capacity. The tradeoff is clear: the ECO-WORTHY stops charging when it gets cold, while the VATRER keeps working. Next to the LiFePO4 100Ah picks below it, it is in a different league for runtime, with 5000 rated cycles at 100% depth of discharge and an app that logs cycle count so you can track wear.\n\nBest for RVers who camp in freezing temperatures without shore power. Caveat: the heater draws energy to run, so plan for some capacity loss on cold nights, and the case is large enough that you should measure before ordering.",
     "specs": [
       "300Ah with self-heating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313zzaBzrHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DB36KW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DB36KW?tag=rvgearlab-amz-20",
     "description": "The LiTime 100Ah Group 31 is the conservative choice: a plain, well-supported 100Ah drop-in from one of the larger LiFePO4 brands. It weighs 22.05 lbs, uses a 100A BMS, and comes with a five-year warranty plus 24-hour technical support, which matters more than any spec if a battery fails mid-trip.\n\nCompared with the VATRER 300Ah above it, you get a third of the capacity, but you can build a bank gradually by adding identical units. Against the MARSENERGY 100Ah ranked below, the LiTime costs more and lacks Bluetooth, but its larger Group 31 case and established support network are the reason it ranks higher for overall confidence.\n\nBest for RVers who want two simple, identical batteries and a brand they can reach after the sale. Caveat: with no app or display, you will want a shunt-based battery monitor to see real state of charge.",
     "specs": [
       "100Ah, Group 31 case",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pTrg7kZKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVYKHP94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVYKHP94?tag=rvgearlab-amz-20",
     "description": "The MARSENERGY 100Ah is the pick for smaller rigs whose battery tray only takes a Group 24 battery. It measures 10.16 x 8.46 x 6.54 inches and weighs 21 lbs, so it drops into the same box as the lead-acid it replaces, and it adds Bluetooth monitoring that the LiTime above it lacks.\n\nIt ranks below the LiTime Group 31 because its support and certification documentation are thinner, but it ranks above the Mighty Max because it adds an app, a waterproof case, and cycle ratings of 4500 at full depth versus Mighty Max's 2500. The brand also notes cells formulated with low-temperature additives, though you should still treat freezing charging as off-limits.\n\nBest for pop-up, teardrop, and small travel trailer owners who want monitoring without moving the battery. Caveat: a 100A BMS limits a single battery to roughly a 1000W inverter.",
     "specs": [
       "Group 24 size, 21 lbs",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WJbgAG+DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C283FQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C283FQ9?tag=rvgearlab-amz-20",
     "description": "The Mighty Max ML100-12LI rounds out the list as the no-frills option: a 100Ah LiFePO4 battery in a 12.99 x 6.77 x 8.66 inch Group 30H case with internal thread terminals and a BMS covering high voltage, low voltage, high current, and short circuit protection. It can be wired with up to four identical batteries.\n\nCompared with the MARSENERGY above it, you give up Bluetooth and a much longer cycle rating; Mighty Max lists 2500 cycles where most picks here claim 4000 or more. Its warranty is one year, against five years for the LiTime and MARSENERGY. Those are the reasons it ranks last for quality even though it is a perfectly usable battery.\n\nBest for RVers who want the simplest possible swap and plan to add a separate monitor. Caveat: it ships minimally charged, so give it a full charge before your first trip, and no cables or mounting hardware are included.",
     "specs": [
       "100Ah, Group 30H case",

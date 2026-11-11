@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mr2rENyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ8DYT4J?tag=rvgearlab-amz-20",
     "description": "The SIOKIUU lists 2500 peak and 1900 running watts from an 80cc four-stroke engine at under 3 percent THD. It weighs 39.46 lb, runs under 59 dBA at 23 feet and has a 1.06 gallon tank good for 8.6 hours at 50 percent load.\n\nIt states running watts, weight, noise and runtime, a fuller spec set than the GENMAX GM2200i and RINADURS 2200W. A parallel function and a CO sensor with automatic shutdown are named.\n\nIt suits campers who want a light, quiet inverter generator with a long stated runtime. A 3-year warranty is listed.",
     "specs": [
       "1900 running, 2500 peak watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hdcAPTtaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NY2BYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NY2BYY?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 1200 surge and 900 rated watts from a 71cc two-stroke engine, weighing only 34 lbs. It has a 120V 7.5A AC outlet, a 12V 5.3A DC output with a charging cable and about 5 hours at 50 percent load.\n\nIt is the lightest gas unit here, ahead of the SIOKIUU at 39.46 lb. It meets ANSI/PGMA G300, UL2201 and EPA standards and costs far less than the inverter units.\n\nIt suits campers with light loads like lights, slow cookers, fans and small tools. The DC output can charge a battery.",
     "specs": [
       "900 rated, 1200 surge watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411K6EBF2ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-amz-20",
     "description": "The EnginStar is a 296Wh lithium power station rated 300W with two pure sine AC outlets, an LED light and a large LCD. It weighs 6.5 lb and charges by wall in about 7 hours, by car or from a compatible solar panel.\n\nIt is by far the lightest pick, since it carries no engine, and it produces no exhaust. Its energy is small next to the generators, so it covers phones, laptops and a fan.\n\nIt suits campers who want quiet, fume-free power for small devices. Wall and car chargers are in the box.",
     "specs": [
       "296Wh lithium, 300W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pz7SQZoOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099JZXBPW?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2200i lists 2200 starting watts from a 79.7cc four-stroke inverter engine at 41.8 lb. It runs as low as 58 dBA, with up to 6 hours at 50 percent load on 1 gallon.\n\nIt is quieter on paper than the SIOKIUU, at 58 against under 59 dBA, and adds a 30A outlet. It is slightly heavier than the SIOKIUU.\n\nIt suits car campers who want an RV-ready outlet in a light body. CO shutdown and low-oil alarms are listed.",
     "specs": [
       "2200 starting watts, 41.8 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419zOkMTEYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8HH28F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8HH28F?tag=rvgearlab-amz-20",
     "description": "The RINADURS lists 41.2 lb with Eco Mode, a CO sensor, low oil shutdown and overheat protection. It is parallel ready and aimed at camping, tailgating and backup use.\n\nIt weighs a little less than the GENMAX GM2200i and can pair with a second unit. It lists less detail than the SIOKIUU on noise and runtime.\n\nIt suits campers who may add a second generator later. The title says 2200W while the description says 2000W.",
     "specs": [
       "41.2 lb, Eco Mode",

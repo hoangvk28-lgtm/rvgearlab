@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EY-TitQPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9SMD8BC?tag=rvgearlab-amz-20",
     "description": "The GRECELL UB200 is a 200W monocrystalline panel with cells listed at up to 23.5% and a flexible ETFE surface. It weighs 10.14 lbs, folds to 21.46 by 22.95 by 1.77 inches and carries DC7909/8, XT60, Aviation and Anderson connectors.\n\nIt offers four times the wattage of the Buachois and double the DOKIO, and it is the only pick that lists an auto-reconnect function after a sunlight interruption. The Anderson plug suits many caravan power-station leads.\n\nIt fits caravaners who run a power station for lights, a fridge and chargers beside the van. A single panel gives a daily recharge for stations in the 500Wh class.",
     "specs": [
       "200W, up to 23.5% cells",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZoRLmsG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VN68ZBV?tag=rvgearlab-amz-20",
     "description": "The DOKIO 100W suitcase panel clips straight onto a 12V battery with alligator leads and a smart PWM controller. It lists a 9.8 ft cable, built-in 5V 2A USB ports and a 25-year transferable output warranty.\n\nIt is the only pick that clips onto a leisure battery with no extra gear, and its cable lets the panel stand in sun while the battery sits in shade. Compared with the Buachois 50W it doubles the panel size and adds a rubber handle.\n\nIt suits caravaners who want to top up a leisure battery on a campsite with no mains. The listing names vented, AGM and gel battery types.",
     "specs": [
       "100W, smart PWM controller",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vraK9lIyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC2JQG9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC2JQG9M?tag=rvgearlab-amz-20",
     "description": "The Buachois 50W is a monocrystalline 12V kit with two USB ports, a Type-C port and a DC port, plus an integrated voltage regulator. It uses ABS construction and has pre-drilled holes on the back so it can be mounted on a caravan, RV or boat.\n\nIt sits between the small maintainers and the DOKIO, with more outputs than either. The mix of USB, Type-C and DC lets one panel run chargers while it tops up a battery.\n\nIt suits caravaners who want a fixed or semi-fixed panel for a small leisure battery and phones. The listing says it can charge a vehicle battery while powering other devices.",
     "specs": [
       "50W monocrystalline 12V",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tNoJ65x3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PQ64H3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PQ64H3?tag=rvgearlab-amz-20",
     "description": "The Hosrivae 30W is a 12V monocrystalline kit with a USB charger, listed for caravans, boats, trucks and campers. It lists weather resistance for wind, snow and extreme temperatures and an internal diode that blocks current leakage at night.\n\nIt is the lowest priced panel here, at less than half the Buachois. The diode is a named protection that the cheaper maintainers do not list.\n\nIt suits caravan owners who want a cheap panel to keep a small battery fed. The listing names portable and lightweight use.",
     "specs": [
       "30W 12V monocrystalline",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clqPqi+kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T9VZDFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T9VZDFT?tag=rvgearlab-amz-20",
     "description": "The Hoysicy 20W kit is a monocrystalline panel with a 10A PWM controller and two 6.5 ft cables with alligator clips and O-ring terminals. It lists an anodized aluminum frame, tempered glass and under-voltage, over-voltage, short circuit and anti-reverse protections.\n\nIt is the smallest panel here and the only one sold as a battery maintainer. Against the DOKIO it trades output for a rigid frame with corner protectors and pre-drilled holes.\n\nIt suits caravan owners who store the van over winter and want the leisure battery to stay topped up. It is a 12-month warranty product.",
     "specs": [
       "20W, 10A PWM controller",

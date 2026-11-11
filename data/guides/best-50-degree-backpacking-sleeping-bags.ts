@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tcbVOapKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-amz-20",
     "description": "NewDoar prints a 1.5 lb weight and an 11.8 x 6.5 inch packed size for this bag, rated 50 to 70 degrees F. The shell is 380T ripstop nylon with a polyester lining, and a heavy-duty compression sack is included.\n\nIt is the lightest bag on the list and the only one that states its weight outright, ahead of the 2 lb 12 oz Kelty Rambler 50. Two-way zippers link two bags into a double, and the neckline uses Velcro so the zipper stays shut.\n\nA strong match for hikers who want the lowest weight in warm weather. It is the budget-friendly choice for summer thru-hikes and bike touring.",
     "specs": [
       "Weighs 1.5 lb total",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21xOwMW+c8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-amz-20",
     "description": "The Kelty Rambler 50 is a semi-rectangular synthetic bag with an 11.3 oz Cloudloft fill and a 50 degree lower limit. The listing gives a 2 lb 12 oz total weight, a 7 x 11 inch stuffed size, and compression straps in the box.\n\nIt names its insulation and fill weight, which the NewDoar does not. The J-shaped zipper lets a foot stick out, and the bag unzips fully into a blanket for two.\n\nA good pick for newer backpackers who dislike a snug mummy. The roomier cut suits restless sleepers.",
     "specs": [
       "50 degree, 11.3 oz Cloudloft fill",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y3zTJ4nXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PCLGSJS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PCLGSJS?tag=rvgearlab-amz-20",
     "description": "JEAOUIA lists a 50 to 68F design range and a 190T nylon waterproof shell over a polyester pongee lining. The bag measures 31.5 by 86.6 inches, fits campers up to 5 feet 11 inches, and prints a 3 lb weight.\n\nIt costs less than the Kelty Rambler 50 and adds a drawstring hood and a foot zipper for temperature control. The compressed packing size is given as a 7.9 to 14.2 inch range.\n\nA fit for budget hikers and families who want an inexpensive warm-weather bag. It wipes clean easily.",
     "specs": [
       "50 to 68F design range",

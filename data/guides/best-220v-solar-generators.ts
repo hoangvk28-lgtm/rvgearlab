@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-qip9YhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWM1V7P6?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 5000 Plus kit holds 5,040Wh and lists 7,200W rated output, with 14,400W of surge and both 120V and 240V support. Two 200W panels are included, solar input reaches 4,000W, and capacity expands up to 60kWh with a 60A Smart Transfer Switch for 12 circuits at 120V or 6 circuits at 240V.\n\nIt stores 1,400Wh more than the OSCAL PowerMax 6000 kit and outputs 1,200W more. It is also the only pick that names a transfer switch for whole-home circuit backup.\n\nIt suits households that want whole-home backup with both 120V and 240V. The capacity can run a house for days.",
     "specs": [
       "5,040Wh, 7,200W, 120V/240V",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k1bng6tfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5MK8TMF?tag=rvgearlab-amz-20",
     "description": "The OSCAL PowerMax 6000 kit includes three 400W panels and a 3,600Wh LiFePO4 station with 6,000W of split-phase 120V/240V output and 9,000W surge. It charges from 0 to 100 percent in 1.44 hours on 2,200W AC and 2,400W solar, and an EPS switchover takes 5 to 8ms.\n\nIts three included 400W panels give it a 1,200W array, three times the 400W that comes with the Jackery 5000 Plus. The BLUETTI Elite 200 V2 offers less output and stores about 1,500Wh less.\n\nIt suits cabin and RV owners who want 240V from a roughly 3.6kWh battery with a meaningful panel array included. The EPS makes it a workable backup for critical loads.",
     "specs": [
       "3,600Wh LiFePO4, 6,000W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 200 V2 kit includes 2 x 200W panels and a 2,073.6Wh station with 2,600W of continuous AC output. It lists a standby draw of 10W, a CNAS-certified automotive-grade LiFePO4 battery rated over 6,000 cycles and a full recharge in 5.5 hours from 400W of panels.\n\nIt carries the lowest price tag in this trio and the smallest output, with only 120V use on its listing. Next to the OSCAL PowerMax 6000 kit it stores less and cannot run 240V loads.\n\nIt suits RV and cabin buyers who want a compact 120V solar kit and not 240V. The 6,000 cycle rating suits daily cycling.",
     "specs": [
       "2,073.6Wh, 2,600W continuous",

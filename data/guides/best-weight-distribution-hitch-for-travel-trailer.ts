@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wGHXdb8DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CCL1VX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CCL1VX3?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW01350 TrackPro states a 13,000 lb gross towing rating and 1,300 lb tongue weight with a 2-inch receiver and a pre-installed ball. Blue Ox's BXW01350 TrackPro is a weight distribution hitch with spring bars rated 1,300 lb tongue weight and 13,000 lb gross towing, a 2-inch receiver, a 7-hole shank and a pre-installed 2-5/16 inch ball.\n\nIt states more than Camco TR3 1,200 and has a higher tongue weight rating than the CURT 17057 listing, which gives none. The cost is a price near the premium end.\n\nBest for a large travel trailer with a tongue weight up to about 1,300 lb. It suits trailers up to 13,000 lb.",
     "specs": [
       "13,000 lb, 1,300 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 is a 1,200 lb kit with clamp-adjusted sway control that turns off for backing. The title lists the kit as 1,200 lb, while the text cites a 2-5/16 inch ball rated 15,000 lb and 1,500 lb tongue weight.\n\nIt adds switchable sway control that Blue Ox BXW01350 does not describe, but its title and text quote different ratings. The title's 1,200 lb figure is the safer one to use.\n\nBest for a mid-size travel trailer with a tongue weight under 1,200 lb. Weigh the trailer loaded and compare the figures before ordering for this travel trailer case.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB14WN6?tag=rvgearlab-amz-20",
     "description": "CURT's 17057 is a 14,000 lb MV round bar hitch with a grease zerk and a 2-inch shank. The listing says grease must be applied to keep the bars lubricated.\n\nIt costs well under Blue Ox BXW01350 and Camco TR3 1,200, but the listing gives no tongue weight rating and the bars need greasing. No sway control is included.\n\nBest for a travel trailer owner who accepts greasing and will add sway control separately. Weigh the trailer loaded and compare the figures before ordering for this travel trailer case.",
     "specs": [
       "14,000 lb MV round bar",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cDLJnMyuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMX2DI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMX2DI?tag=rvgearlab-amz-20",
     "description": "CURT's 17350 is a bolt kit for CURT trunnion bar hitches. CURT's 17350 is a bolt kit for CURT trunnion bar weight distribution hitches with a corrosion-resistant zinc finish.\n\nIt is a repair part rather than a hitch and sits far below the kits above in cost. It helps only if your hitch is a CURT trunnion model.\n\nBest for restoring a worn CURT trunnion hitch. It is a replacement part.",
     "specs": [
       "Trunnion bar bolt kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XBKSbbudL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMTKP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMTKP2?tag=rvgearlab-amz-20",
     "description": "CURT's 17111 is a replacement chain kit for CURT weight distribution hitches except TruTrack. CURT's 17111 is a replacement chain kit for CURT weight distribution hitches except TruTrack. It attaches to spring bars with the included U-bolts and offers multiple links for tension.\n\nIt replaces the chains that connect spring bars to the frame and costs far less than a new hitch. It does not apply to TruTrack.\n\nBest for replacing damaged chains on an older CURT hitch. It is a replacement part.",
     "specs": [
       "Replacement chain kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PuNyTL-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX1Z4Q9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX1Z4Q9M?tag=rvgearlab-amz-20",
     "description": "Perfect Pairz sells clips, locking pins and rivets that keep round bar spring bars on the bracket. Perfect Pairz sells a replacement retainer package for round bar weight distribution hitches with two clips, two locking pins and two rivets.\n\nIt is a third-party retainer set for CURT 17600 and 17601 style systems and costs about the same as other retainer parts. It does not change any rating.\n\nBest for replacing lost round bar retainers. Buy it only to replace retainers, and check the part number.",
     "specs": [
       "Round bar retainer package",

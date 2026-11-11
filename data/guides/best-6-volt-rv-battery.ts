@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XQGAV99bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081S9P7LW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081S9P7LW?tag=rvgearlab-amz-20",
     "description": "The Trojan T-105 is the battery most other GC2 models describe themselves as replacing, and this listing ships the pair you need for a 12V RV house bank. Each battery is rated 225Ah at 6V in the GC2H footprint, measuring about 10.30 x 7.13 x 11.07 inches and weighing 62 pounds.\n\nIt ranks above the Go Power AGM because flooded construction tends to tolerate deep cycling and occasional abuse at a lower price per pair than sealed AGM of similar capacity. The tradeoff versus the Go Power is upkeep: you have to check electrolyte and add distilled water, and the battery compartment must be vented to the outside.\n\nBest for full-timers and boondockers with an accessible, vented battery bay who want the classic two-battery setup. The caveat is height: at just over 11 inches, check that your tray and hold-down clear it before ordering, since some trailer tongue boxes were sized for shorter group 24 batteries.",
     "specs": [
       "6V 225Ah each, GC2H size",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IX5Xm14mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GT39CSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GT39CSX?tag=rvgearlab-amz-20",
     "description": "Go Power builds RV solar kits, and this 6V AGM is aimed squarely at that use. It is rated 224Ah at the 20-hour rate, uses sealed construction so there is no electrolyte to top up, and has integrated handles to help lift it into place.\n\nCompared with the Trojan above, you give up some value per dollar but gain a battery that can live in a less accessible compartment without regular checks. It sits ahead of the US Battery 4-pack because most RVs only need two batteries, and buying singles lets you get exactly a pair.\n\nBest for travel trailer and fifth-wheel owners pairing batteries with solar who never want to open a cap. The caveat is that this listing is one battery, so budget for two, and confirm your charger or converter has an AGM profile to avoid undercharging.",
     "specs": [
       "6V 224Ah at C20",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YpTjM4SnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LWBVXL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LWBVXL?tag=rvgearlab-amz-20",
     "description": "The US2200 XC2 is a GC2 flooded battery rated 232Ah at 6V, and this listing is a four-pack. Wired as two series pairs in parallel, that gives a 12V bank of roughly 464Ah, which suits big rigs running a residential fridge or inverter overnight.\n\nPer battery it matches the Trojan on size (about 10.25 x 7.125 x 11.25 inches) with slightly more rated capacity, but it ranks third because most RVers do not have space for four. If you only need two batteries, the Trojan pair is a cleaner buy; if you need four, this pack is simpler than buying two separate pairs.\n\nBest for owners expanding a lead-acid bank who already have a vented bay sized for four GC2 batteries. The real caveat is maintenance and weight: four flooded cells need regular water checks, and the total mass adds up quickly on a trailer tongue.",
     "specs": [
       "6V 232Ah each, 4 pack",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nuCYRi-1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F63WLRZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F63WLRZC?tag=rvgearlab-amz-20",
     "description": "Interstate's extreme cycle GC2 is a sealed AGM rated 210Ah at 6V with a 475 minute reserve capacity at a 25 amp draw. It measures about 10.25 x 7.06 x 10.8 inches with top post terminals, so it drops into most GC2 trays.\n\nAgainst the Go Power AGM ranked above it, you get less rated capacity (210Ah versus 224Ah) and pay more per battery. What keeps it in the list is Interstate's retail network, which makes warranty handling and core recycling easier than shipping a heavy battery back to an online seller.\n\nBest for RVers who would rather walk into a store than deal with mail-order returns. The caveat is value: two of these cost noticeably more than a Trojan pair while storing less energy, so it only makes sense if the sealed design and local support matter to you.",
     "specs": [
       "6V 210Ah AGM",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K+d-+6TpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HW1GBSH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HW1GBSH?tag=rvgearlab-amz-20",
     "description": "NPP's NP6-225 is a sealed AGM 6V battery rated 225Ah with M8 bolt terminals, listed at a GC2 footprint of about 10.24 x 7.09 inches and under 10 inches tall. The maker quotes self-discharge below 3% per month at 77F, which helps RVs that sit between trips.\n\nIt undercuts the Go Power and Interstate AGMs on price while matching or beating their capacity ratings, which is why it is our budget AGM pick. The tradeoff is brand support: Go Power and Interstate have established US RV dealer networks, while NPP support runs mostly through the seller.\n\nBest for weekend campers who want sealed 6V batteries at close to flooded prices. The caveat is height: it is shorter than the Trojan, so an existing hold-down bracket may need an extra spacer to clamp firmly.",
     "specs": [
       "6V 225Ah AGM",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7knWIp3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-amz-20",
     "description": "Weize rates this GC2 AGM at 240Ah, the highest figure among our picks, and it weighs 67 pounds with dual SAE post and M8 bolt terminals. It measures about 10.24 x 7.09 inches and 10.79 inches tall overall, so it fits standard GC2 trays.\n\nCompared with the NPP above it, you get 15Ah more rated capacity per battery for a similar price, but it ranks lower because the listing is written for golf carts and floor scrubbers, with less RV-specific guidance on charging. Against the Trojan, it skips watering but does not have the same long track record in RVs.\n\nBest for owners chasing maximum stored energy from a sealed pair on a budget. The caveat is that rated capacity on a lesser-known AGM deserves some skepticism; a 240Ah label does not guarantee more real runtime than a well-known 225Ah battery.",
     "specs": [
       "6V 240Ah AGM",
@@ -196,7 +196,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nkoJMRTdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ7HG7R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ7HG7R9?tag=rvgearlab-amz-20",
     "description": "Mighty Max's ML210 is a 6V 210Ah sealed AGM in GC2 size (about 10.25 x 7.00 x 10.75 inches) with dual terminals. Being spill-proof, it can be mounted in any position, which helps in awkward compartments.\n\nIt is the cheapest way into a sealed 6V pair here, but it trails the NPP and Weize on rated capacity and comes with only a one year warranty. Against the Trojan at the top, you save money and skip watering, but give up the deep cycle reputation that makes the Trojan our default recommendation.\n\nBest for owners who need to replace a dead pair cheaply, for example before selling a rig or for occasional campground use. The caveat is longevity: with a one year warranty, it is not the pick if you plan to boondock heavily for years.",
     "specs": [
       "6V 210Ah SLA AGM",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XeA+sAERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX7XS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX7XS?tag=rvgearlab-amz-20",
     "description": "The Camco Aluminum Sewer Hose Support is made from rust-resistant aluminum with solid brass rivets and fits standard 3 inch RV sewer hoses up to 10 feet. It extends up to 6 feet and folds to a compact 6 and three quarter inches, and it ships with a strap kit.\n\nAgainst Camco Sidewinder 30ft, it is a metal build for short runs where the plastic models are made for longer hoses. Against RVMATE 20ft, it is more compact to store.\n\nIt is the best match for owners who want an aluminum support for a short dump run. Think of it as the pick for short dump runs.",
     "specs": [
       "Rust-resistant aluminum",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g1AHEa2BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-amz-20",
     "description": "The Camco Sidewinder is a telescoping, folding plastic support that fits a 30 foot, 3 inch RV sewer hose. The listing says the deep cradles stop the hose slipping and the design curves around obstacles to keep a downward slant.\n\nAgainst Camco Aluminum 10ft, it handles three times the hose length in plastic. Against Kohree 20ft, it is the longest option here.\n\nIt suits owners with a long hose to a far dump port. Buyers focused on long hose runs will find it a sensible match.",
     "specs": [
       "30 ft telescoping plastic",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414bvCsEURL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQ26BL47?tag=rvgearlab-amz-20",
     "description": "The Kohree 20 foot support is orange polypropylene with a deep U-shaped design, a flexible accordion layout and height adjustment. The listing says no assembly is required and it folds with a carry strap.\n\nAgainst RVMATE 20ft, it adds height adjustment and a stated hinge build. Against Camco Aluminum 10ft, it is plastic and twice as long.\n\nIt suits owners who need adjustable slope across uneven ground. It earns its slot for uneven dump sites.",
     "specs": [
       "20 ft PP accordion support",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zKMygCsqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTNBR6CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTNBR6CY?tag=rvgearlab-amz-20",
     "description": "RVMATE 20 foot support is UV-resistant plastic that sets a downward slope toward the dump station. The listing says you place it under the waste port, pull it to the connection and lay the hose on top to reduce wear.\n\nAgainst Kohree 20ft, it is simpler with fewer stated adjustments. Against BEBOBLY 15ft, it is longer.\n\nIt suits 20 foot runs on a low budget. It is a natural fit for budget 20ft runs.",
     "specs": [
       "20 ft UV-resistant plastic",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qhpvhun+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP98P7T7?tag=rvgearlab-amz-20",
     "description": "BEBOBLY 15 foot support is collapsible plastic with an organ-style design and an angled downward slope. The listing says it fits hoses up to 3.8 inches in diameter and includes a rubber band and carry strap.\n\nAgainst RVMATE 20ft, it is shorter but includes a rubber band. Against Camco Aluminum 10ft, it is plastic and a half longer.\n\nIt suits mid-length runs where compact storage matters. Think of it as the pick for mid-length runs.",
     "specs": [
       "15 ft collapsible plastic",

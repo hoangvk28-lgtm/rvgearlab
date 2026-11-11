@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ylz4aTS1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3P8TH69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3P8TH69?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 30 foot heated drinking water hose is rated to -45 degrees F and uses self-regulating heating that adds heat as temperatures fall. It has a secure locking power connector that twists to lock, a 5/8 inch inner diameter and standard 3/4 inch GHT fittings.\n\nAgainst the CircleRiver 50FT, it is 20 feet shorter and costs less. Against the Ficstar hoses, it adds a locking power connector.\n\nBest for owners who want a secure plug connection on a mid-length hose. A balanced pick for most trailers.",
     "specs": [
       "30 ft, -45F self-regulating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zXN0nzWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3P3234J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3P3234J?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 50 foot heated hose carries the same -45 degree F rating, self-regulating heating, locking power connector and 5/8 inch inner diameter as the 30 foot model. It uses standard 3/4 inch GHT fittings.\n\nAgainst the CircleRiver 30FT, it adds 20 feet at a higher price. Against the Ficstar 50FT, it adds a locking connector.\n\nBest for far spigots that need a long hose with a locking plug. A heavy-duty winter choice.",
     "specs": [
       "50 ft, -45F self-regulating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VV16gtr5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5RL56SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5RL56SF?tag=rvgearlab-amz-20",
     "description": "The REHOSEUP 15 foot heated hose is rated to -45 degrees F and uses a smart self-regulating external thermostat. It has double washers at each end, a durable outer jacket and instructions with a video.\n\nAgainst the Ficstar 20FT, it is 5 feet shorter and costs more. Against the CircleRiver hoses, it has no locking connector.\n\nBest for a spigot close to the RV where a -45 degree rating matters. A compact winter hose.",
     "specs": [
       "15 ft, -45F self-regulating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EST4uPZeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7XBVTSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7XBVTSB?tag=rvgearlab-amz-20",
     "description": "The Ficstar 50 foot self-regulating hose has an auto-adjusting thermostat that turns on when the ambient temperature drops below about 8.5 degrees C. It has the heated copper wire in the middle of the hose, a thermostat controller, leak-proof washers and Teflon tape at the ends.\n\nAgainst the CircleRiver 50FT, it costs half as much. Against the Ficstar 20FT, it adds 30 feet.\n\nBest for budget buyers who need a 50 foot hose. A well-priced long reach.",
     "specs": [
       "50 ft self-regulating hose",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WDRhJK8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCZQN24X?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 35 foot heated drinking water hose is lead and BPA free with a smart self-regulating external thermostat and double washers. It uses a 3/4 inch GHT American screw interface and is meant to gradually thaw ice into water.\n\nAgainst the CircleRiver 30FT, it adds 5 feet at a lower price. Against the Ficstar 50FT, it is shorter and costs less.\n\nBest for budget buyers who want a mid-length self-regulating hose. A low-cost option.",
     "specs": [
       "35 ft self-regulating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413RV42kgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP4S2Q2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP4S2Q2?tag=rvgearlab-amz-20",
     "description": "The Ficstar 20 foot self-regulating hose has an auto-adjusting thermostat that turns on below about 8.5 degrees C and leak-proof washers with Teflon tape at the ends. It places the heated copper wire in the middle of the hose and adds a thermostat controller.\n\nAgainst the Ficstar 50FT, it is 30 feet shorter and much cheaper. Against the REHOSEUP, it is longer and costs half as much.\n\nBest for short runs at the lowest price. A starter hose for mild winter camping.",
     "specs": [
       "20 ft self-regulating hose",

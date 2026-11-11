@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313APk38tCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWZGDPK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWZGDPK7?tag=rvgearlab-amz-20",
     "description": "The Coast EAL30R has five light modes: warm white, cool white, daylight white, solid red and flashing red. It lists 1000 lumens, up to 15 hours on its built-in Zithion-X battery, 4 AA backup power and USB-C input and output ports for charging devices.\n\nIt is the only pick with both a flashing red signal mode and an AA backup, which separates it from the Yonktoo. It also carries a lifetime warranty.\n\nIt suits campers who want a dependable lantern with a signaling red mode and a power bank function. The folding handle makes it easy to hang or carry.",
     "specs": [
       "1000 lumens, 5 light modes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yNd7JuOLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZ9BTM8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZ9BTM8?tag=rvgearlab-amz-20",
     "description": "The Yonktoo is a 3 by 3 by 2.5 inch lantern weighing 8 oz with a 6400mAh battery and a listed 300 hours on its lowest setting. It offers up to 1000 lumens and 5 modes: cool white, natural white, warm white, red light and SOS, with IPX5 water resistance.\n\nIt has the longest low-mode runtime here and a magnetic base that attaches to metal surfaces. It costs less than the Coast.\n\nIt suits multi-day campers who want a small tent light with a night-vision red mode. The hook and magnet hang it overhead.",
     "specs": [
       "6400mAh, 300 hours low",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gs7fZyKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3D6863K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3D6863K?tag=rvgearlab-amz-20",
     "description": "The iodoo lists a 10,000mAh rechargeable battery, IP45 water and dust resistance and a built-in hook with a magnetic base. Short presses cycle through preset modes, a long press gives stepless dimming, and the title names a red light mode.\n\nIt has the largest battery here and the brightest claim, with the title naming 3000 lumens and a bullet naming 4000. It costs more than the other three.\n\nIt suits campers who want a big, bright lantern that dims smoothly. The magnet lets it stick to a vehicle or a metal pole.",
     "specs": [
       "10,000mAh, IP45",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JLi5ZXDLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWMCN2T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWMCN2T2?tag=rvgearlab-amz-20",
     "description": "The Sunny Power weighs 4 oz and measures 5.03 by 2 by 1.4 inches, with Type-C charging, a smart LED display, and 3 light colors: white, warm yellow and red. It is rated IP44 and sold as a lantern and flashlight combination.\n\nIt is the lightest and cheapest pick here and fits a pocket. It gives up the power bank function and the large battery.\n\nIt suits backpackers who want a pocket light with a red mode for the trail and the tent. The display shows the battery status.",
     "specs": [
       "4 oz, 5.03 inches long",

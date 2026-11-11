@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nf+T+MdNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-amz-20",
     "description": "The NANJEEN Large Luxury is built from waterproof tech cotton with reinforced seams and weighs in at a stated 35 kg. It offers a 12 sq m interior for 2 to 10 people and sets up in under 8 minutes with a hand pump.\n\nAgainst the cheaper NANJEEN it prints the fabric and the weight. Compared with the CORANI it uses cotton rather than polyester and costs about 530 dollars more.\n\nIt suits groups who want a heavy tent that resists wind and tearing. The listing calls it four-season ready with a wind-resistant structure.",
     "specs": [
       "35 kg tech cotton, sealed seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414uO65bbPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4TBTFZW?tag=rvgearlab-amz-20",
     "description": "The BravArrk 8-12 person air tent has a 129 sq ft floor of 157 by 118 by 79 inches. It uses PU3000mm high-density Oxford with UPF30+ and a free-standing PVC air-beam structure marketed with reinforced wind resistance.\n\nAgainst the NANJEEN it has a stated PU rating and a panoramic skylight, and costs about 170 dollars less. Compared with the CORANI it adds an integrated stove jack and a larger 8 to 12 person size.\n\nIt suits large families who want a four-season air tent with stated wind reinforcement. Setup takes about 7 minutes.",
     "specs": [
       "157 x 118 x 79 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sI-g6yG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSLM7WQX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSLM7WQX?tag=rvgearlab-amz-20",
     "description": "The NANJEEN Luxury lists a wind and rain resistant build with a 12 sq m interior for 2 to 10 people. A 6 minute setup with a hand pump, dual doors and mosquito protection round out the title.\n\nIt costs about 330 dollars less than the NANJEEN Large Luxury and has the faster stated setup at 6 minutes. Against the BravArrk it costs less and states fewer specs.\n\nIt suits campers who want a NANJEEN air tent at a lower price. A hand pump comes with it.",
     "specs": [
       "12 sq m, 2 to 10 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jiU63HSoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTX5696B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTX5696B?tag=rvgearlab-amz-20",
     "description": "The CORANI measures 14.1 by 6.5 by 9 ft and is listed as windproof for 6, 8 or 10 people. It has TPU inflatable pillars, 6 windows, 2 doors and a 100 percent polyester PU body rated to 2000mm.\n\nPriced lowest in this group, it ships 6 guy ropes and 10 stakes in the kit. Against the NANJEEN it uses polyester and states a 2000mm rating.\n\nIt suits budget campers who need an anchored kit for breezy trips. A hand pump and storage bag are in the box.",
     "specs": [
       "14.1 x 6.5 x 9 ft",

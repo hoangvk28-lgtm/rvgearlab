@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tckwRHYxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY94Z66Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY94Z66Y?tag=rvgearlab-amz-20",
     "description": "The GEYOTO 45W has three ports: two USB-C and one USB-A, including a 25W PD fast-charge port. It lists conversion up to 26 percent, an IP68 laminated surface and use for camping, hiking, fishing and boating.\n\nAgainst the E-POWO, it adds a second USB-C and a higher IP rating, and compared with the ELECAENTA it charges three devices at once. The brand line points to automotive-inspired safety standards.\n\nIt suits hikers and campers who charge a phone, a power bank and earbuds together. The 25W PD port handles fast charging for modern phones.",
     "specs": [
       "45W, 25W PD USB-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516PyrhK8ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83LMHVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83LMHVF?tag=rvgearlab-amz-20",
     "description": "The ELECAENTA is a 60W panel with a 45W USB-C output, a QC3.0 USB port and a DC output of 5.5 by 2.1 mm. It lists up to 25 percent efficiency, ETFE laminate and an IPX5 rating for the charging box and cables.\n\nIt is the only pick that includes ten extra DC connectors and a DC cable, so it also tops up small stations. Against the GEYOTO, it gives a 45W USB-C instead of 25W, with a lower IPX5 rating on the box.\n\nIt suits campers who want one panel for a laptop through USB-C and a small power station through DC. Two carabiners let it hang from a pack.",
     "specs": [
       "60W, 45W USB-C output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mBKTu8bBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQBGWLNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQBGWLNH?tag=rvgearlab-amz-20",
     "description": "The E-POWO 45W has three outputs: a DC port rated 5A max, a Type-C and a USB-A. It lists up to 23 percent conversion with ETFE lamination, IP67 protection and an 18-month warranty.\n\nIt costs about the same as the GEYOTO and gives a DC output the GEYOTO does not list. Against the ELECAENTA, it is a true 45W at a lower price, with a longer warranty than most small panels.\n\nIt suits first-time buyers who want DC and USB output in one small panel. The kit includes a solar connector, a 2-in-1 USB cable and two carabiners.",
     "specs": [
       "45W, DC 5A + Type-C + USB-A",

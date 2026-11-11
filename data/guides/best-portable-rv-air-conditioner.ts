@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BO9jEmkFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1R3NQQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1R3NQQR?tag=rvgearlab-amz-20",
     "description": "The BAYKUL is a portable camping unit with 6,800 BTU cooling and 7,500 BTU heating, a 6-in-1 mode set and R-32 refrigerant. It runs on 110V outlets or car inverters, at 46 dB with an average power draw of about 550 watts.\n\nAgainst the Wszrfozn, it adds heating and a lower noise rating. Against the Garvee, it is built for camping with a carry bag.\n\nBest for campers who want one portable unit for both cooling and heat. A flexible option for vans and tents.",
     "specs": [
       "6,800 BTU cooling, 7,500 BTU heating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vy2mkmnzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H34L276B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H34L276B?tag=rvgearlab-amz-20",
     "description": "The Wszrfozn is a 7,000 BTU portable unit that weighs 33 lbs and measures 21.38 by 12.4 by 14.29 inches. It lists a drain-free dehumidifying function below 70 percent humidity and 58 dB noise in sleep mode.\n\nAgainst the BAYKUL, it has higher cooling BTU at a lower price. Against the Outohome, it adds 1,800 BTU.\n\nBest for tent and van campers who want high cooling in a compact unit. A strong pick for hot sites.",
     "specs": [
       "7,000 BTU, 33 lbs",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RfhylHEpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVRYWTSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVRYWTSG?tag=rvgearlab-amz-20",
     "description": "The Outohome is a 5,200 BTU portable unit that weighs 31 lbs and measures 22.4 by 11.2 by 13.8 inches. It lists four modes, a 24-hour timer, 46 to 50 dB sleep mode and a drain-free operation below 70 percent humidity.\n\nAgainst the Wszrfozn, it is lighter and quieter in sleep mode. Against the SYSXLT, it offers 1,800 BTU more.\n\nBest for small campsites and vans that want a lighter unit. A well-balanced pick.",
     "specs": [
       "5,200 BTU, 31 lbs",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F9l9clKHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H97B3X45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H97B3X45?tag=rvgearlab-amz-20",
     "description": "The SYSXLT is a 3,400 BTU portable unit with a GMCC compressor that lists a drop of up to 18 degrees F in 5 minutes. It measures 18.1 by 11 by 5.12 inches, offers 42 dB sleep operation and a 1 to 12 hour timer.\n\nAgainst the Outohome, it is much smaller and quieter. Against the Wszrfozn, it has less than half the BTU.\n\nBest for a bed or small cab where a quiet compact unit is enough. A neat pick for solo sleepers.",
     "specs": [
       "3,400 BTU, GMCC compressor",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E4haxIM0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H98ZWTZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H98ZWTZK?tag=rvgearlab-amz-20",
     "description": "The Garvee is a 3-in-1 portable unit rated 14,000 BTU, with a stated 9,300 BTU SACC rating, for rooms up to 750 square feet. It includes rolling casters, side handles, a window installation kit and a 24-hour timer.\n\nAgainst the camping units, it cools far larger spaces and rolls on casters. Against the BAYKUL, it has more capacity but is made for rooms.\n\nBest for a toy hauler garage or a large room that needs strong cooling. A good fit when space allows a window kit.",
     "specs": [
       "14,000 BTU (9,300 BTU SACC)",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417NuRj2UKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H33WNC3T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H33WNC3T?tag=rvgearlab-amz-20",
     "description": "The Ylkf is a personal evaporative air cooler with a 1,200 ml water tank, ice cooling, 2, 4 and 8 hour timers and sub-45 dB noise. It is USB-powered and fits on a tabletop.\n\nAgainst the compressor units, it is a desk-sized cooler at a tiny fraction of the cost. Against the SYSXLT, it needs water and ice instead of refrigerant.\n\nBest for a bedside or desk in a small space. A cheap add-on, not a full AC.",
     "specs": [
       "1,200 ml tank, ice cooling",

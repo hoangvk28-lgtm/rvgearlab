@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hidBkF7ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCFX15TD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCFX15TD?tag=rvgearlab-amz-20",
     "description": "The Greystone is a 22 inch super slim, vented range hood that runs on 12 volts, so it works straight from the coach battery system. It moves about 200 cubic meters of air per hour through a dual-speed fan, and it includes a built-in 12 volt LED lamp over the cooktop. A three-layer charcoal filter helps absorb odors, and the low profile preserves headroom in a compact kitchen. It costs $92.22.\n\nCompared with a roof vent fan, which sits several feet from the stove, the Greystone captures steam and grease at the source before it spreads through the cabin. Against a basic clip-on or recirculating unit, it brings real airflow and a two-speed fan that adjusts to light simmering or heavy frying. The LED light also replaces the dim glow of a cabin overhead, making it easier to see what you are cooking.\n\nThis is the pick for owners replacing a worn hood or adding one above a cooktop in a travel trailer, camper van or small motorhome. It suits cooks who fry or boil often and want to keep their small living space fresh and clean.",
     "specs": [
       "22 inch slim profile",

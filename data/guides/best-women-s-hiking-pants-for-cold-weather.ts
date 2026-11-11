@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ehCig-6FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H38JMWHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H38JMWHC?tag=rvgearlab-amz-20",
     "description": "The baleaf Fleece-Lined pant has a water-resistant softshell exterior, a thermal fleece interior and four zipper pockets with reflective details. Articulated knees, a straight leg, an elastic waistband with outer drawcord and adjustable ankle cuffs complete the build.\n\nIt is the lowest-priced pair here and the only one with reflective details and a cuff you can wear loose or tight to lock out snow. Against the MAGCOMSEN Waterproof Softshell, it trades a waterproof coating for a lighter feel.\n\nIt suits a woman who hikes, walks and commutes in cold weather and wants lightweight warmth with real mobility. The convertible cuff helps in light snow.",
     "specs": [
       "Water-resistant softshell, fleece",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313XmkzXKcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6BQTPGF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6BQTPGF?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Waterproof Softshell is a women's fleece-lined ski and hiking pant with a waterproof softshell coating that repels water, rain, snow and wind. The ripstop fabric resists wear and scratches, and two front zipper pockets hold a phone and keys.\n\nIt is the priciest pair, and its ripstop fabric and a waterproof coating on the surface go beyond the baleaf Fleece-Lined. It carries fewer pockets than the Rdruko pairs, with a mid-waist zipper closure and elastic side.\n\nIt suits hikers who stand in wet snow and need the most waterproof-sounding shell in the group. Ice fishing and mountaineering are named occasions.",
     "specs": [
       "Waterproof softshell, ripstop",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wf0-CA10L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YJLVCJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YJLVCJB?tag=rvgearlab-amz-20",
     "description": "The Gopune Fleece Hiking pant has a waterproof and windproof fabric with a fleece lining and a soft shell water-resistant coating. It carries six pockets: two front slants, two back hook-and-loop pockets and two knee pockets.\n\nSix pockets beat the four zippers on the Rdruko pairs for storage, and the knee pockets are a feature none of the others list. A partial elastic waistband gives it a comfortable adjustable fit.\n\nIt suits a hiker who carries a lot, such as a camera, gloves and a map. Camping and mountaineering are listed uses.",
     "specs": [
       "Six pockets including knees",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TuOCWyx5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YDFD8LH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YDFD8LH?tag=rvgearlab-amz-20",
     "description": "The Rdruko Softshell Green is a women's waterproof and windproof softshell pant with a fleece lining and four zipper pockets. A partial elastic waistband allows an adjustable fit, and the cut is slim.\n\nIt matches the other Rdruko pair on features and costs slightly less than the Gopune Fleece Hiking. It has fewer pockets than the Gopune, and each one closes with a zipper.\n\nIt suits hikers who want a slim cut with a windproof fabric for hiking, trekking and field work. The listing names winter wear as an everyday use.",
     "specs": [
       "Waterproof windproof softshell",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CiFSg2IUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YD4R9MR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YD4R9MR?tag=rvgearlab-amz-20",
     "description": "The Rdruko Insulated Gray ski pant is listed as waterproof and insulated, with the same windproof fabric, fleece lining and four zipper pockets as the green model. A partial elastic waistband gives an adjustable fit.\n\nIt shares its features with the Rdruko Softshell Green and sells for the same price, so color and cut decide it. Against the BenBoy Slim Fit, it uses a plain elastic waist where the BenBoy adds a belt.\n\nIt suits a hiker who wants a cold-weather pant in a neutral gray and does not need a belt. Snowboarding, camping and trekking are listed uses.",
     "specs": [
       "Waterproof insulated ski pant",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31X-DeyFySL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076CCM5WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076CCM5WK?tag=rvgearlab-amz-20",
     "description": "The BenBoy Slim Fit pant is made of 92% polyester and 8% spandex and is listed as waterproof, windproof, warm and abrasion resistant with a fleece lining. It has an adjustable waistband with a belt, patchwork knees, steric knee darts and zippered thigh cargo pockets.\n\nA belt and knee darts give it a more tailored hiking shape than the plain elastic waists on the Rdruko pairs. It is the second-lowest priced pair in the group after the baleaf.\n\nIt suits a woman who wants a slim, tailored cold-weather hiking pant that adjusts with a belt. Zippered cargo pockets on the thigh keep a phone secure.",
     "specs": [
       "Spandex blend, waterproof windproof",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SpjQURZJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-amz-20",
     "description": "The Cleartide is a 12V pump with 3.3 GPM at 50 PSI, a brushless BLDC motor, 10 foot self-priming and self-diagnosis with dry-run protection. The listing says it supports three to four outlets, wording that reads as marketing, while the control electronics are the real story for anyone interested in how a pump decides when to start and stop.\n\nIt is the pump here whose electronics adjust power output when the motor overheats, which goes well beyond a plain mechanical switch. The WASSERMANN 3.0 and FLUMEXXON rely on a conventional pressure switch that clicks on and off with line pressure, while the Cleartide manages the motor itself. That difference is the main reason it sits at the top of the list for switch quality.\n\nBest for owners who want a smart, self-protecting control on a 12V system and are willing to pay for it. A brushless motor has no brushes to wear out, and the self-diagnosis gives a tidy answer to a pump that might otherwise run dry or run hot while nobody is watching the coach. It is the careful-owner pick for hands-off protection.",
     "specs": [
       "3.3 GPM at 50 PSI on 12V",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kOFJKiw2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBTYWJRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBTYWJRF?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN RV Water Pump 3.0 GPM is a 12V self-priming diaphragm pump at 3.0 GPM and 55 PSI sold to match the 4008-101-A65 part number. The box adds barbed fittings, a threaded adaptor and a filter, and the pump starts the moment a tap opens and stops when the line is full. That keeps the install quick.\n\nIt is the standard-style on-demand pump of the group, with the familiar 55 PSI cut-out and a kit that saves buying parts separately. The FLUMEXXON offers the same rating with a different diaphragm count, and the Cleartide swaps this mechanical switch for electronic control. For a buyer who wants the switch to behave exactly as the old one did, this is the straightforward answer.\n\nFits owners who need an on-demand 4008-style pump with a conventional switch and no surprises. The cut-out is fixed at the factory, which suits a coach whose plumbing was built around 55 PSI, and the included filter helps keep grit from reaching the switch and valves. It is the safe, familiar pick for a simple swap.",
     "specs": [
       "3.0 GPM at 55 PSI on 12V",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K4AFhGxdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-amz-20",
     "description": "The FLUMEXXON RV Water Pump is a 12V four-chamber pump listed against the 4008-101-A65 and E65 numbers at 3.0 GPM and 55 PSI. The listing describes smart automatic pressure switch control and a quiet 12V DC design, so the switch and the diaphragm work together to keep the stream calm. That pairing is the heart of its appeal.\n\nIt is the four-chamber alternative to the WASSERMANN 3.0, which aims at smoother flow, and it sits at a similar price. More chambers mean the pump delivers water in more overlapping strokes, which softens the pulse that makes a switch seem to chatter. It also names both the A65 and E65 numbers, where the WASSERMANN names one. That is a clear step up in smoothness.\n\nGood for buyers after an on-demand 4008 replacement with a smoother diaphragm and a switch that avoids hammering. It suits owners who have been bothered by pulsing at the tap and want to solve it at the pump, before adding an accumulator or a second fitting to the line. It is a considered step up from the simplest drop-in replacement.",
     "specs": [
       "3.0 GPM at 55 PSI on 12V DC",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kxU5T7aPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHF5BJNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHF5BJNF?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 110V pump is rated 5.5 GPM with its pressure switch set to 70 PSI and an upgraded switch said to last longer. Thermal overload protection and continuous running beyond an hour are listed, so the pump and its switch are built for long, demanding duty cycles. It is a robust pairing. That suits heavy seasonal use.\n\nIt is the AC choice here and carries the highest cut-out pressure, which suits hookup users with robust plumbing. None of the 12V pumps reaches its flow. Because the switch is the part that cycles the most, the upgraded switch is the feature to weigh against the WASSERMANN 3.0 and FLUMEXXON, whose listings say nothing about switch longevity.\n\nA fit for shore-power owners who want strong flow and a durable switch, such as a rig that sits on hookups all season and feeds a big shower or an outdoor line. Among its strengths is a run time that handles long tank fills without a pause. It makes sense for an owner who values durability.",
     "specs": [
       "5.5 GPM at 70 PSI on 110V AC",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aZZQ51v7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSYK2J8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSYK2J8R?tag=rvgearlab-amz-20",
     "description": "The Doytn is a 12V diaphragm pump rated 1.2 GPM at 80 PSI with a built-in pressure switch that starts and stops it when a faucet or nozzle opens. Self-priming and run-dry capability are listed, which makes it a simple, forgiving pump for a van with one tap. That keeps the whole setup compact. That keeps the setup compact.\n\nIt is the smallest and cheapest on the list and suits a van with one tap. Its 80 PSI figure is a maximum rather than a working setting at that flow, a reminder of how switch ratings and running pressure differ. Next to the WASSERMANN switch kit, it is a whole pump for a few dollars more, which can beat a repair on a worn mini pump.\n\nA good fit for single-tap builds where a tiny pump is enough. A low power draw adds to its appeal, and its built-in switch means the whole system is one small box with two hoses and two wires, an easy layout for a first-time van builder. The saving over a larger pump is real. It works well as a first plumbing project.",
     "specs": [
       "1.2 GPM at 80 PSI on 12V",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LijfgAljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8RMTW8?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN RV Water Pressure Booster Pump Switch Kit is a 40 to 80 PSI pressure switch for 12V, 24V, 110V and 115V diaphragm pumps. It senses pressure through a diaphragm to start and stop the pump, and it installs by reconnecting the pump's wires to a 2-pin connector. It is a small part with a big job.\n\nAs a standalone switch assembly, it suits owners whose pump still runs strong and whose switch has quit, saving the cost of a whole new pump. Its adjustment screw sits under the cover, which gives a degree of control that the fixed-pressure WASSERMANN 3.0 and FLUMEXXON do not offer. Alongside the Doytn, it is the other low-cost answer on the list.\n\nBest for repairs where the motor still works and the diaphragm is sound. An owner who is comfortable with a screwdriver can swap the switch, set the pressure with the central screw and have the pump back in service in a short afternoon, at a fraction of the price of a replacement. It is the thrifty route when the pump is otherwise healthy.",
     "specs": [
       "40 to 80 PSI pressure switch",

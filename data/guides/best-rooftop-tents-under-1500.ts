@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Adventurer Pro is a 2 to 3 person aluminum hard shell that folds down to 7 inches thick and opens to 62.99 inches tall. A hydraulic lid works in about 5 seconds, and a flocked floor, built-in LED strip and detachable side awning are included.\n\nIt has the lowest price and the fastest opening in the group, ahead of the lever system on the WildFinder. The 62.99 inch open height lets you sit up, which the budget HEYFUN Pioneer Pro cannot.\n\nIt suits couples who want quick setup and a flat 7 inch closed profile. The awning attaches for shade at camp.",
     "specs": [
       "2-3 person aluminum hard shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vMn0i3JlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 100 percent aluminum alloy hard shell with a stainless steel air pressure lever and polyester fabric. It has a recessed marine pad, a condensation pad, a comfort mattress, level 6 wind resistance and 5000 mm rain protection.\n\nA 7.5 foot telescoping ladder, a ladder organizer, an LED strip, two shoe organizers and three mesh windows are all included, which no other pick matches. It costs only slightly more than the Adventurer Pro.\n\nIt suits campers who want an all-metal shell with the ladder, lights and organizers supplied. The marine pad cuts dampness.",
     "specs": [
       "All-aluminum alloy shell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HQFL6DYJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ5NVWN?tag=rvgearlab-amz-20",
     "description": "This aluminum hard shell has an aluminum bottom plate, top cover and four corners, and a dismountable winter thermal layer. Air pressure rods raise it in about 10 seconds, and ripstop canvas with widened eaves is described as handling level 7 winds.\n\nThe thermal layer lets one tent cover winter trips, which the Adventurer Pro and WildFinder do not offer. A 6 cm mattress, two luggage poles and an LED light bar complete the kit.\n\nIt suits campers who use a tent year-round and want a liner that comes off for summer. Luggage poles carry extra gear on top.",
     "specs": [
       "Aluminum plate, cover, corners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51c397ssPNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5VRMYKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5VRMYKV?tag=rvgearlab-amz-20",
     "description": "This aluminum hard shell carries a 12V 216W solar panel, a USB outlet, a luggage bar and an LED strip, and sleeps two adults and one child or pet in an 85 by 52 by 59 inch space. It is made from 320g polyester with a W/R 5000 rating and taped seams.\n\nIt adds a solar panel that none of the cheaper tents offer. The winter-liner tent costs more, and this one keeps its price below the cap by skipping the thermal layer.\n\nIt suits campers who want power for phones and lights without a generator. Three windows have awnings for ventilation and rain cover.",
     "specs": [
       "12V 216W solar panel, USB outlet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xHwpht4ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8CD86M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8CD86M?tag=rvgearlab-amz-20",
     "description": "This shell combines a solar panel, a 12V multi-function outlet, a removable winter thermal layer and an aluminum bottom plate, top cover and corners. It pops up in about 10 seconds with air pressure rods and is rated W/R 5000 with 320g polyester.\n\nIt is the only pick that pairs solar power with a winter liner, and it costs about $120 more than the Arctwonder Solar Shell. It sits at the top of the range.\n\nIt suits four-season campers who want power and warmth in one shell. A single person can close it in two steps.",
     "specs": [
       "Solar panel plus winter layer",

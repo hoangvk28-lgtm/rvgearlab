@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j1UPhaYEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZP8MWPF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZP8MWPF?tag=rvgearlab-amz-20",
     "description": "The Rhino Valley is a Lycra canopy sold in 10 by 13 and 10 by 10 foot sizes, both 6.5 feet tall. It ships with 8 sandbags, 4 thickened aluminum poles and 4 windproof ropes, and the fabric is triple stitched with UPF 50+ protection.\n\nIt differs from the COZEER and Voivey by adding ropes to the bags, so the anchors work in two ways at once. A sand shovel is included to fill the eight bags faster than scooping by hand.\n\nIt suits a family that wants the most wind-ready kit and the option of a longer 10 by 13 canopy. Setup is described as spread out, fill the bags, add poles.",
     "specs": [
       "8 sandbags, 4 windproof ropes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lHflALnBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5N4XQRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5N4XQRJ?tag=rvgearlab-amz-20",
     "description": "The COZEER is a 10 by 10 foot Lycra canopy with 12 percent spandex, rated to block 98 percent of harmful rays. It carries 8 sandbags, 4 aluminum poles, 8 sand stakes and 8 grass stakes, which makes it the one pick naming both sand and grass stakes.\n\nAgainst the Rhino Valley it trades guy ropes for a bigger stake set that suits mixed ground. Compared with the Voivey it adds the grass stakes and elastic cords that hold the poles from shifting.\n\nIt suits beach days that may start on sand and move to a park lawn. The listing says one person can set it up and that it holds up to 8 people with chairs and gear.",
     "specs": [
       "8 sandbags, 16 stakes total",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T+TXX7fTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQBCKKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQBCKKW?tag=rvgearlab-amz-20",
     "description": "The Voivey is a 10 by 10 foot high-stretch Lycra canopy meant for up to 8 people. It carries 8 large-capacity sandbags and 4 thickened 0.7 inch support poles, and the listing calls the setup no-tool.\n\nIt sits close to the COZEER in size and bag count and leans on its machine-washable canopy for sandy trips. Against the Rhino Valley it skips the sand shovel and rope set, which is part of its lower price.\n\nIt fits families who hose off after every beach day and want a simple lay-out, fill, pole, tie-down routine. The washable fabric makes sand cleanup easier.",
     "specs": [
       "8 large sandbags",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aF25-QxIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-amz-20",
     "description": "The VEVOR covers 7.5 by 7.5 feet at 6.6 feet tall, with 180 g/m2 Lycra rated UPF 50+. It uses 4 large sandbags, 2 thickened aluminum poles and elastic top cords, and the listing adds both sandbag and ground stake anchoring plus a sand shovel.\n\nIt is the smallest and lightest canopy of the three Lycra styles, aimed at groups of 2 to 4 instead of the 8-person 10 by 10 foot canopies. The listing describes it as handling level 3 to 4 breezes.\n\nA good match for couples and small families after a trunk-friendly shelter that still uses the sandbag method. Its cost is the lowest here.",
     "specs": [
       "7.5x7.5 ft, 6.6 ft tall",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JKyMsawQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082PP699Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082PP699Y?tag=rvgearlab-amz-20",
     "description": "The AMMSUN is a 6.5 by 6.5 foot cabana built on an umbrella-style frame with 4 steel ribs and 4 large built-in sand pockets, one on each corner. It also includes a removable sidewall, a carry bag with shoulder strap and a little shovel.\n\nUnlike the three 10 by 10 foot canopies it uses sewn-in pockets in place of loose bags, so nothing separates from the tent. It packs to a 52 inch folded length, and the listing describes a two-part umbrella and extension pole.\n\nIt suits a pair or a small family that likes an umbrella-style pitch and wants sand weight attached to the shade. The sidewall adds low-sun protection.",
     "specs": [
       "4 built-in sand pockets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jQr43tcrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08J7V7ZPN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08J7V7ZPN?tag=rvgearlab-amz-20",
     "description": "The SUN NINJA beach shelter is listed with UPF 50+ water-resistant fabric, stability poles and anchors for sand, grass or rocky ground. It comes in 4, 6 and 8 person sizes and includes a travel bag.\n\nWhere the Rhino Valley and COZEER specify eight bags, the SUN NINJA describes anchors and stability poles without naming a sandbag count. That makes it the pick for buyers who need a specific person count more than a bag count.\n\nIt suits groups that want to choose a size from couples up to eight people. It is the priciest of the six.",
     "specs": [
       "UPF 50+ water-resistant fabric",

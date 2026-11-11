@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FNZyCsisL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXB48YYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXB48YYZ?tag=rvgearlab-amz-20",
     "description": "The Mohuihui is an inflatable canvas cabin sized for 6 to 10 people, with a 12 square meter floor and tech-cotton fabric. It adds a built-in stove jack, a transparent skylight, reinforced seams, a heavy-duty groundsheet and multiple tie-down points.\n\nNext to the VELUVIA it swaps steel poles for air beams, so it inflates rather than assembles. Against the CORE 12 it uses canvas instead of 1200mm coated polyester, which is the heavier-duty fabric choice.\n\nIt suits groups that want a cabin-style canvas shelter for all seasons. The air-beam frame removes the pole-threading step.",
     "specs": [
       "6 to 10 person, 12 sq m",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+zttLFe4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1L3614G?tag=rvgearlab-amz-20",
     "description": "The VELUVIA is a cabin hot tent for 6 to 8 people with a 6.5 ft center peak and 4.6 ft vertical walls. It carries a 210g poly-cotton roof, a flame-retardant stove jack for 2.7 to 4.7 inch pipes, steel poles and six mesh windows.\n\nCompared with the Mohuihui, it costs less and uses steel poles, with a 10-minute single-person setup. Against the CORE 12, it adds a stove jack and poly-cotton roof for cold-weather use.\n\nIt suits families that camp past summer and want a boxy layout for cots. The poly-cotton roof also helps limit condensation.",
     "specs": [
       "6 to 8 person cabin",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9Tt32E7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-amz-20",
     "description": "The CORE 12 measures 16 by 11 feet with an 86 inch center height and fits four queen air beds. H2O Block fabric rated 1200mm, a fully taped rainfly, sealed seams and guylines with steel stakes form its weather shell.\n\nIt has the biggest floor and tallest ceiling in the group, while the VELUVIA brings a stove jack and the Mohuihui brings canvas. A room divider and storage pockets are included.\n\nIt suits large car-camping families that mostly camp in warm to rainy weather. The label says up to 12 without gear, and the listing treats 6 as the comfortable count.",
     "specs": [
       "16 x 11 ft, 86 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XwAXj+lML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVQ7JTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVQ7JTR?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village is a 12.96 x 8.86 x 6 ft instant cabin with a pre-attached pole structure that sets up in 60 seconds. Its 150D blackout fabric is UPF50+, and the listing names five-sided ventilation and USB built-in lights.\n\nCompared with the CORE 12, it is lighter-duty and smaller, and it pitches in a fraction of the time. Against the Purebox it adds blackout fabric and built-in lighting at a higher price.\n\nIt suits campers who want a cabin that goes up fast and sleeps four on two air mattresses. The 8-person label counts sleeping pads side by side.",
     "specs": [
       "12.96 x 8.86 x 6 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x5s9iBs4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH11Q27?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH11Q27?tag=rvgearlab-amz-20",
     "description": "The Purebox is a 6-person cabin with near-vertical walls, two entry doors, four oversized mesh windows and a full-coverage rainfly with skirts. Its rainfly extends into a front awning that adds covered outdoor space.\n\nPrice is the lowest here and the build the lightest-duty, trading canvas and steel for a pre-attached instant frame. Against the Naturehike Village, it gives a bigger awning with no built-in lights.\n\nIt suits budget families that want a dependable fly and awning for fair-weather camping. Two doors help foot traffic with kids.",
     "specs": [
       "6-person near-vertical cabin",

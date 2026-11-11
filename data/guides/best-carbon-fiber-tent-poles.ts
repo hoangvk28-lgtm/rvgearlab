@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YfgdOISyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8T5TJHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8T5TJHJ?tag=rvgearlab-amz-20",
     "description": "The imgokaha 5.6 ft set gives you two telescoping carbon poles that run from 58 cm (23 in) closed to 170 cm (67 in) open, with 4 sections each. Each pole is listed at 240 g with a 27 mm maximum diameter, and the set ships with two thimbles and two storage bags.\n\nAgainst the longer imgokaha 7.9 ft set it saves about 150 g per pole and packs smaller, which is the right size for a standard backpacking tarp. Next to the DOBEN 67 in set it lists a firm weight and diameter and includes thimbles, so the tarp attachment is covered out of the box.\n\nIt suits solo and two-person tarp campers who want one carbon pole length that handles most pitches. The 4-section build keeps setup quick.",
     "specs": [
       "58 to 170 cm, 4 sections",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+kwsc3JeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJTXR4LF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJTXR4LF?tag=rvgearlab-amz-20",
     "description": "The imgokaha 7.9 ft set stretches from 62 cm (25 in) to 240 cm (96 in) using 6 telescoping segments. A single pole is listed at 394 g with a 31 mm maximum diameter, and the box adds thimbles and storage bags for both poles.\n\nCompared with the 5.6 ft imgokaha it is the one that reaches a full 8 ft, and it carries a thicker 31 mm pole for the added stretch. It is the highest-priced pick here, a step above the DOBEN 83 in set that reaches roughly 200 cm.\n\nIt is the pick for a big tarp, a lean-to awning or a pyramid shelter that needs real height. Taller pitches are where the extra sections earn their keep.",
     "specs": [
       "62 to 240 cm, 6 sections",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rTf8Hg3JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYX97Y4Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYX97Y4Q?tag=rvgearlab-amz-20",
     "description": "The Fzkaly pair uses 5 telescoping sections and extends to 6.9 ft, with each pole listed at 11.64 oz and collapsing to about 2 ft. A metal lock system holds each section in place, and an orange silicone tip protects the fabric where the pole meets the tarp.\n\nNext to the DOBEN 83 in set it uses fewer sections for a similar height, which means fewer joints to flex or slip. Compared with the imgokaha 7.9 ft it drops a segment and sits at a lower price.\n\nIt works for backpackers who want a taller carbon pole than 67 inches and trust a metal lock over friction sections. The tip cover also makes it a good tent center pole for a pyramid or tipi.",
     "specs": [
       "Up to 6.9 ft, 5 sections",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Rfwc3jw+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN2WSMT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN2WSMT6?tag=rvgearlab-amz-20",
     "description": "The DOBEN 83 in set builds each pole from 6 sections that reach up to 200 cm. The listing names 100% carbon content in 46T carbon fiber and adds a tip cover that reduces slipping and protects the tarp.\n\nIt sits between the 4-section DOBEN 67 in and the taller imgokaha 7.9 ft, trading about 40 cm of extra reach for 2 more joints than the smaller DOBEN. Against the Fzkaly it uses more sections to reach a similar height, which makes it a bit more modular.\n\nIt fits campers who want to build their own pole length from sections, since the listing says you can choose how many to assemble. It also suits tarp and awning use at around 6.5 ft.",
     "specs": [
       "Up to 200 cm, 6 sections",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RD7tZdljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48RBWV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48RBWV4?tag=rvgearlab-amz-20",
     "description": "The DOBEN 67 in pair uses 4 sections per pole and extends to 170 cm, the same reach as the imgokaha 5.6 ft set. It carries the same 100% 46T carbon fiber claim as the larger DOBEN and the same tip cover for tarps.\n\nIt is the more modest of the two DOBEN sets and ties the 5.6 ft imgokaha on price. Next to that imgokaha it gives up the listed weight and thimbles, and in return it brings the tip cover and a plain 4-section layout.\n\nIt is a fair pick for weekend campers who want a carbon pole pair for a small tarp or a rain fly. Short sections make it easy to fit in a pack.",
     "specs": [
       "Up to 170 cm, 4 sections",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kEcTcWucL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015XFVV6I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015XFVV6I?tag=rvgearlab-amz-20",
     "description": "The Six Moon Designs pole is a fixed carbon fiber tent pole that measures 45 inches (114 cm), or 17 inches (43 cm) folded, with a 3/8 in (10 mm) diameter. The listing recommends it for the Skyscape Trekker, Skyscape Scout, Lunar Duo Outfitter, Lunar Duo Explorer, Haven Bundle, Haven Tarp, Wild Owyhee and Haven Zero-G.\n\nUnlike the telescoping sets above it is a dedicated shelter pole, so it is the one that fits a named Six Moon design instead of a general tarp. It is the lowest-priced pick on this list, and it is sold as a single pole instead of a pair.\n\nIt is the answer for owners of those Six Moon shelters who need a matched replacement or an ultralight upgrade. The listing explains tightening the canopy until the pole shows a slight bend, then backing off.",
     "specs": [
       "45 inch fixed carbon pole",

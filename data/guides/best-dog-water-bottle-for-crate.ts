@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415l22qfSLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892CX7BL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892CX7BL?tag=rvgearlab-amz-20",
     "description": "The Vannon is a 34 oz bottle that refills from the top without being removed from the crate. Dual mounting clips hold it on wire crates, and a spring-free stainless steel nozzle uses a built-in ball.\n\nIt holds the most water of the five, which is more than three times the Choco Nose capacity. The top-fill design means you can refill in a moving vehicle without unclipping it.\n\nIt is the right choice for medium and large dogs on trips where refills are inconvenient. BPA-free food-grade materials suit daily use.",
     "specs": [
       "34 oz top-fill reservoir",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YqEPFtyiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00S02SRI2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00S02SRI2?tag=rvgearlab-amz-20",
     "description": "The Choco Nose bottle holds 10.2 oz and uses a patented no-drip nozzle with a 16mm opening for small dogs of 10 to 25 lb. A screw-on bracket snaps on and off for refilling.\n\nCompared with the Lixit, it adds a patented no-drip nozzle that keeps bedding dry. The listing says it is not for hamsters or small rabbits, so it is a dog-and-cat product.\n\nIt fits owners of beagles, corgis and similar small breeds who need a mess-free bottle. The bracket nails to a wall too.",
     "specs": [
       "10.2 oz, 16mm patented nozzle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VSF1JlMQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YJ2ZV8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YJ2ZV8?tag=rvgearlab-amz-20",
     "description": "The Kassiva is a 16 oz gravity dispenser with a 4.7 inch wide bowl and a floating disk that keeps the chin dry. It uses a quick-release design for refilling and is made of BPA-free ABS resin.\n\nIt uses a wide bowl instead of a nozzle, which suits dogs that dislike licking a ball tip. The listing gives bar spacing guidance for installation, which the other picks do not.\n\nIt works for small dogs and puppies that drink from a bowl. It is quiet to use and holds enough for multiple days.",
     "specs": [
       "16 oz, 4.7 inch wide bowl",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312Q6e-2ezL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SZ28YGC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SZ28YGC?tag=rvgearlab-amz-20",
     "description": "The FOBLOEER is a 400 ml gravity kennel dispenser with a dripless nozzle and a 4-stage regulating seal. It hangs on the crate, is BPA free and is described as quiet to drink from.\n\nIt costs less than the Vannon and the Choco Nose and holds about 13.5 oz. If it leaks, the listing says to adjust the black seal ring in the nozzle.\n\nIt suits owners who want a cheap, simple bottle for a travel crate. A money-back guarantee covers the purchase.",
     "specs": [
       "400 ml gravity dispenser",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31i2Qaah8BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002DIYTO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002DIYTO?tag=rvgearlab-amz-20",
     "description": "The Lixit is a 32 oz wide-mouth bottle in opaque, weather-resistant plastic. The listing says it suits smaller crates and carriers, and it works on a vacuum like all bottles.\n\nIt holds about the same as the Vannon and fills through a wide mouth that is easier than a narrow neck. It does not describe a dripless nozzle, so it relies on a seated gasket.\n\nIt is for owners who want a simple, large bottle for a carrier or small crate. The opaque body resists algae.",
     "specs": [
       "32 oz wide-mouth bottle",

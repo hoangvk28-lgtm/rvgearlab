@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5179lXUlWKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4NRFMQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4NRFMQK?tag=rvgearlab-amz-20",
     "description": "The iGen2800DFc runs on gasoline or propane. On gas it is rated 2,800W peak and 2,200W running, and on propane it drops to 2,520W peak and 1,980W running. It has a 120V TT-30R 30A outlet plus a 5-20R duplex, so a 30A shore cord plugs in directly, and the listing quotes up to 12 hours at 25% load.\n\nIt ranks above the gasoline only Westinghouse iGen2800c because propane gives you a second fuel when the gas station is far away, and it costs just $50 more at $549 against $499. The tradeoff is that propane output falls by 220 watts, so a load that fits at 2,200W on gas may trip the generator when you switch fuels.\n\nPick this if you boondock and want fuel flexibility with a real TT-30R outlet. The honest caveat is that the listing text gives no weight and no dBA figure, so check the product page before you assume it carries easily or sits well in a quiet campground, and plan on a second unit for full 30A.",
     "specs": [
       "2,200W running gas",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RzJ9E7DqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR841H?tag=rvgearlab-amz-20",
     "description": "The iGen2800c is the gasoline only sibling, rated 2,800W peak and 2,200W running with up to 12 hours at 25% load. It carries the same TT-30R 30A outlet and 5-20R duplex, adds two 5V USB ports, and lists 3% THD or less, which is the clean power phones, TVs and laptops need.\n\nAgainst the dual fuel model above it saves $50 at $499, and you give up propane and nothing else we can see in the specs, which makes the gap easy to judge. Against the Honda EU2200i at $1,196 it is $697 cheaper, though the Honda listing promises a full manufacturer warranty that this one does not mention.\n\nPick this if you only ever fill the tank with gasoline and want the lowest price for a true 2,200W running rating. The caveat is the same unlisted weight and noise, and getting full 30A for an air conditioner means buying a second compatible Westinghouse unit and the parallel cables.",
     "specs": [
       "2,200W running, 2,800W peak",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxgHAuM6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5PNZBFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5PNZBFQ?tag=rvgearlab-amz-20",
     "description": "The EU2200i is Honda's 2200 watt inverter generator, sold here as the EU2200ITAN. The title promises super quiet operation and up to 8.1 hours of run time, but the listing bullets only repeat that it includes the full manufacturer warranty, so outlets, weight and decibels have to be confirmed elsewhere before you buy.\n\nIt sits $103 below the Honda EB2200i at $1,196, and its title points at camping and home backup, which is the real difference from the jobsite oriented EB. Compared with the $549 Westinghouse iGen2800DFc it costs $647 more, so you are paying for the Honda name and warranty, not for extra rated watts.\n\nPick this if brand support and a full manufacturer warranty matter more to you than price, and you plan to run it every trip for years. The caveat is value: no TT-30R outlet is confirmed in the listing text, so check the outlet panel before you spend $1,196 on a unit you want to plug a 30A cord into.",
     "specs": [
       "2,200W inverter generator",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l-r+fvEtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YJCKSFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YJCKSFM?tag=rvgearlab-amz-20",
     "description": "The EB2200i is the jobsite version. Its listing gives 48 to 57 dB(A) and a run time of 3.2 to 8.1 hours on a 0.95 gallon tank, and it weighs just over 47 pounds. It carries full GFCI protection that the listing calls OSHA compliant, and Honda's CO-MINDER sensor shuts it down before detected carbon monoxide reaches dangerous levels.\n\nAt $1,299 it is the most expensive pick, $103 above the EU2200i. The extra buys GFCI outlets and durability changes aimed at work sites rather than any added wattage, which makes it a harder sell for a campground where nobody inspects your outlets, but a sensible one if the generator also powers tools.\n\nPick this if the generator also runs saws or chargers on a job, or if you want the documented CO shutdown and the stated 48 to 57 dB(A) range. The caveat is price, plus the listing shows no TT-30R outlet, so a 30A RV cord may need an adapter that limits you to 20A.",
     "specs": [
       "2,200W, 120V",

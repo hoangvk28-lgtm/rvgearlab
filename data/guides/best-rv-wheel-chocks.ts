@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wDHSViFzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002XLHUQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002XLHUQG?tag=rvgearlab-amz-20",
     "description": "The BAL X-Chock is a stabilizer pair made in the USA from rust-resistant, zinc-coated steel. It applies opposing force between tandem tires and adjusts from 1-3/8 inches to 10 inches, with a 3/4 inch ratchet wrench included.\n\nUnlike a wedge chock that only blocks rolling, the X-Chock pushes the two tires apart to reduce tire shift and sway. It also adjusts across a wide gap range, which beats the Lezcufer set on build pedigree and reach. It suits tandem-axle trailer and fifth-wheel owners who want rock-solid tires and a long-lived steel build.",
     "specs": [
       "Pair, one handle",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cpJYJMknL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8ZL9FPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8ZL9FPD?tag=rvgearlab-amz-20",
     "description": "The Lezcufer X-Stabilizer is an X-shaped heavy-duty steel stabilizer that exerts opposing force on two tires. The package contains 2 stabilizers, a ratchet wrench, a socket adapter, gloves and a storage bag.\n\nCompared with the BAL X-Chock, the Lezcufer lists more in the box, including gloves and a storage bag, in return for lower pricing. It fits RVs, travel trailers, fifth wheels and heavy-duty trucks with tire spacing. It is the best pick for tandem-axle owners who want stabilizers with all the accessories bundled.",
     "specs": [
       "2 X-shaped stabilizers",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hThNByvIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP1Q8YJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP1Q8YJL?tag=rvgearlab-amz-20",
     "description": "The OULEME 4PK has four solid rubber chocks, each 8 by 5 by 4 inches and weighing 2.45 lbs, with removable eyebolts. The rubber is UV-resistant and weatherproof, and the triangular shape matches the tire angle.\n\nCompared with the plastic Reonite set, the OULEME rubber has more weight and more grip, so it stays put on slopes. Anti-skid on both the bottom and the surface adds bite on pavement. It suits RV owners who want heavy, grippy wedges for parking on a driveway or sloped campsite.",
     "specs": [
       "4 rubber chocks",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bbW5ac9oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H11W86CN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H11W86CN?tag=rvgearlab-amz-20",
     "description": "The Reonite 4 Pack uses hard PP plastic with a textured base and 5 mm non-slip mats. The triangular structure accommodates tires up to 26 inches, and a built-in pull rope makes placement and removal simple.\n\nWhere the OULEME is heavy rubber, the Reonite is bright yellow plastic that you can see in grass and gravel. The rope lets you pull them back without bending down. It suits campers who want light, visible chocks with a pull rope for quick setup.",
     "specs": [
       "4 hard PP chocks",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iFVh44dYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CGU14T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CGU14T2?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 2-Pack is made of molded solid rubber and measures 8 by 4 by 6 inches. The rubber resists cracking, crushing and weather, and the surface is oil-resistant for use in any climate.\n\nIt gives you two chocks, not four like the OULEME, in exchange for a lower price. Molded non-slip traction pads grip pavement, gravel and garage floors. It suits small trailers and anyone who needs a single pair for one axle at a budget.",
     "specs": [
       "2 solid rubber chocks",

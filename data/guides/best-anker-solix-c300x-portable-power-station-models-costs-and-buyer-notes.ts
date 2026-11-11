@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Anker SOLIX C300 Portable Power Station, 288Wh Solar Generator",
     amazonQuery: "Anker SOLIX C300 Portable Power Station, 288Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0D62GMQ3F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D62GMQ3F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31F-9fr3TnL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Surge output: 600W","Included panel: 100W","Battery cycle claim: 3,000 cycles"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Surge output","value":"600W"},{"label":"Included panel","value":"100W"},{"label":"Battery cycle claim","value":"3,000 cycles"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Anker SOLIX C300 DC Portable Power Station, 288Wh, 300W, Outdoor Camping",
     amazonQuery: "Anker SOLIX C300 DC Portable Power Station, 288Wh, 300W, Outdoor Camping",
-    amazonUrl: "https://www.amazon.com/dp/B0D62PMB3R?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D62PMB3R?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31pF9S5+P0L._SL500_.jpg",
     specs: ["Capacity: 288Wh","Included panel: 100W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Included panel","value":"100W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Anker SOLIX C300 Portable Power Station",
     amazonQuery: "Anker SOLIX C300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0DBLJRRPW?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DBLJRRPW?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41J3h0MhtiL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Surge output: 600W","Included panel: 60W","Battery cycle claim: 3,000 cycles"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Surge output","value":"600W"},{"label":"Included panel","value":"60W"},{"label":"Battery cycle claim","value":"3,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Anker SOLIX C300 Portable Power Station",
     amazonQuery: "Anker SOLIX C300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GWQ1J7LC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GWQ1J7LC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31SyC9SorrL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 300W","Listed weight: 1.41 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"1.41 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Anker SOLIX C300 Portable Power Station, 288Wh Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0D62GMQ3F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0D62GMQ3F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

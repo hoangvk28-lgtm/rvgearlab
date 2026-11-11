@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31COGJizQ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-amz-20",
     "description": "The TETON Mountain Ultra sleeps up to four and is sold in 1 to 4 person sizes. Its roof is a complete mesh dome for night-sky views, and a fitted rainfly with all-around vents closes the tent in when weather changes.\n\nIt is the only true backpacking-grade dome here, so it packs tighter than the CORE or HG. The footprint is sold separately, which adds to the cost compared with the Coleman.\n\nHikers and campers who want a four-season-minded look at the sky will enjoy it. The micro-mesh inner blocks insects.",
     "specs": [
       "Full mesh top, 360-degree fly vents",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3156WMcVK1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNGT4TT?tag=rvgearlab-amz-20",
     "description": "The CORE dome has a floor near ten feet by nine and a 66 inch center, so a couple of queen air beds fit side by side. Its ball-and-socket joints speed assembly, and 1200mm H2O Block fabric sits under a taped rainfly, with sealed seams and fully zipped windows.\n\nIt offers three times the floor of the TETON and a storage-ready interior with pockets and a gear loft. The TETON wins on packed size and stargazing.\n\nFamilies wanting a roomy, weather-ready shelter will like it. Guylines and steel stakes come in the box.",
     "specs": [
       "Ten ft by nine ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wtzejDcqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT2VG1JQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT2VG1JQ?tag=rvgearlab-amz-20",
     "description": "The HG dome has a 168 by 132 inch floor, a 74 inch peak, a removable divider curtain and an e-port. It is made from 185T polyester with a PU1000 coating and weighs 20.5 lb.\n\nIt has the biggest floor in this list and a divider that creates two rooms, which the CORE and Coleman skip. Its coating suits showers more than storms.\n\nLarge groups and multi-family trips benefit from the extra room. It pitches in about ten minutes.",
     "specs": [
       "Floor 14 ft by 11 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "The Coleman instant dome is sold in four sizes, and the 4-person version measures eight feet by seven. Pre-attached poles set up in as fast as one minute, an integrated rainfly improves airflow, and Polyguard 2X double-thick fabric resists wear.\n\nIt has the fastest pitch here, and its fabric is thicker than the CORE or HG. The 4-person size is the smallest floor on the list.\n\nBeginners and quick-trip campers value the speed. The fly is integrated, so you do not carry loose parts.",
     "specs": [
       "Eight by seven ft, 4-person size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tyug8U+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCWN2R7?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP is a 4.3 lb two-person dome with a 7.2 ft by 4.9 ft footprint. Its PU3000 shell rides on fiberglass poles, and the door has a second mesh layer for airflow.\n\nIt costs a fraction of the other picks and covers two campers well. The TETON adds mesh and a footprint option, while the JELUCAMP sets the budget floor.\n\nOccasional campers and kids' sleepovers fit this tent. It is easy to carry.",
     "specs": [
       "4.3 lb, PU3000 polyester",

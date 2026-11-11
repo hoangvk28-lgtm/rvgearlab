@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
     amazonQuery: "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral",
-    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41BN9It7izL._SL500_.jpg",
     specs: ["Service rating: 50A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"50A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Nirakoka 30 Amp Automatic Transfer Switch, Rated 120VAC Applied to RV",
     amazonQuery: "Nirakoka 30 Amp Automatic Transfer Switch, Rated 120VAC Applied to RV",
-    amazonUrl: "https://www.amazon.com/dp/B0DC3YMZJC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DC3YMZJC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41TL8NPgO0L._SL500_.jpg",
     specs: ["Service rating: 30A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"30A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Go Power TS-30 30 Amp Automatic Transfer Switch, Dual Source Compatibility",
     amazonQuery: "Go Power TS-30 30 Amp Automatic Transfer Switch, Dual Source Compatibility",
-    amazonUrl: "https://www.amazon.com/dp/B00153EYTO?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B00153EYTO?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51uDg1dDjWL._SL500_.jpg",
     specs: ["Service rating: 30A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"30A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "AC120V 15Amp Automatic Transfer Switch, Generator ATS Auto Transfer Switch (NEMA 5-15P/R)",
     amazonQuery: "AC120V 15Amp Automatic Transfer Switch, Generator ATS Auto Transfer Switch (NEMA 5-15P/R)",
-    amazonUrl: "https://www.amazon.com/dp/B0FX4G8Q9Z?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FX4G8Q9Z?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41u+18gTFhL._SL500_.jpg",
     specs: ["Service rating: 15A","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Service rating","value":"15A"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EZ GENERATOR SWITCH",
     amazonQuery: "EZ GENERATOR SWITCH",
-    amazonUrl: "https://www.amazon.com/dp/B00FADDE0A?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B00FADDE0A?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/61dy3MzvZOL._SL500_.jpg",
     specs: ["Product type: Transfer and connection component","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Transfer and connection component"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Nirakoka RV Automatic Transfer Switch, Rated 240VAC 50A 70A Neutral product page",
-    "href": "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0CY1LLFJL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

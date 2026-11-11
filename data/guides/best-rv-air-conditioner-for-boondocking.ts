@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLbYGjcQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWLYBWJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWLYBWJD?tag=rvgearlab-amz-20",
     "description": "The iHooToo 12V DC RV Rooftop Air Conditioner is a 10,000 BTU unit with a dual-rotor compressor. The listing says it runs over 11 hours continuously on a 315Ah lithium battery and includes intelligent low-voltage protection.\n\nAgainst the Gidrox 12V Heater, it adds a stated lithium battery runtime and voice control. Against the outequip 12V Cool, it lists a quieter 32 dB indoors and 40 dB outdoors.\n\nBest for van and trailer owners with a large lithium bank. The app, Bluetooth and voice controls help manage power use.",
     "specs": [
       "12V DC, 10,000 BTU dual-rotor",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGP3D2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGP3D2G?tag=rvgearlab-amz-20",
     "description": "The Gidrox 10,000 BTU 12V DC RV Air Conditioner with Heater uses PTC technology for instant heat and states about 350W average at night in 30 degree C ambient. It lists 40 dB in Sleep mode and control by app, remote and panel.\n\nAgainst the iHooToo 12V, it adds a heater. Against the outequip 12V Heater, it states a wattage figure and costs less.\n\nBest for shoulder-season boondockers who need heat from the same unit. The listing says no power inverter is needed.",
     "specs": [
       "12V DC, 10,000 BTU with PTC heat",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-amz-20",
     "description": "The outequip 12V 10,000 BTU unit with a 4,500 BTU PTC heater cools in about 15 minutes according to the listing. It uses UV-stabilized ABS, a zinc-coated condenser and spring-supported mounts.\n\nAgainst the Gidrox 12V Heater, it offers a larger 4,500 BTU heater at a higher price. Against the outequip 12V Cool, it adds heating.\n\nBest for small spaces that need supplementary heat. The listing says the heater is not a primary source in extreme cold.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41anEQY8EBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDW5GKV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDW5GKV1?tag=rvgearlab-amz-20",
     "description": "The Outequip 12V RV Air Conditioner is a 10,000 BTU cooling-only unit that fits a standard 14 by 14 inch roof opening. It is 6.3 inches tall and 45 pounds, with Eco, Sleep and Turbo modes and app, remote and touch panel control.\n\nAgainst the outequip 12V Heater, it drops heat and lowers the price. Against the iHooToo 12V, it lists a weight and profile and fewer power details.\n\nBest for vans and Class B rigs and semi-truck sleepers that need a lightweight roof unit. It runs directly on 12V without an inverter.",
     "specs": [
       "12V DC, 10,000 BTU cooling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318W06BfE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-amz-20",
     "description": "The Renogy 3-in-1 RV Air Conditioner is a 15,000 BTU heat pump with a dual-motor, dual-fan system delivering 350 CFM. It lists 43 dB noise and a pull-out high-density filter.\n\nAgainst the Arsenda 18K, it offers less cooling in a quieter 43 dB package. Against the 12V units, it covers a larger cabin with heat from one roof opening.\n\nBest for larger trailers that boondock with a generator or inverter. It cools or heats up to 30 percent faster according to the listing.",
     "specs": [
       "15,000 BTU heat pump",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VZUAsyvSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS922THH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS922THH?tag=rvgearlab-amz-20",
     "description": "The Arsenda 18000 BTU RV Air Conditioner delivers 18,000 BTU cooling and 10,236 BTU heating for interiors up to 680 square feet. It runs at 50 dB and requires both 115V AC and 12V DC.\n\nAgainst the Renogy 15K, it offers more capacity at about the same price. Against the 12V units, it needs a generator or an inverter.\n\nBest for large rigs with a generator or big inverter. It is the highest-BTU option for big cabins.",
     "specs": [
       "18,000 BTU, 10,236 BTU heat",

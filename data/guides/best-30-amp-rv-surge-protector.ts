@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41czPrZjsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYCJ26L1?tag=rvgearlab-amz-20",
     "description": "This GEARGO is a 30 amp plug-in unit with a 28,000 joule rating, a larger LED display, a built-in circuit analyzer, Bluetooth with a phone app for voltage, current and wiring status, and an IP68-rated sealed cover. Its listing describes real-time voltage sensing with an automatic cutoff relay that reconnects once voltage stabilizes within a preset range, though it does not state the exact voltages.\n\nIt ranks first because it combines a cutoff relay, app alerts and the highest joule claim among the app-equipped units, at $161.48. It costs $41.49 more than the GEARGO WiFi unit, which lists 15,000 joules and an energy readout, and $37.31 more than the Progressive EMS-LCHW30, which lists far fewer joules but a longer fault list. The extra money buys remote alerts and a bigger rating, not a documented cutoff window.\n\nPick this if you want phone alerts and a relay in one plug-in unit. The caveat is that the listing leaves the cutoff thresholds unstated, so check the app or manual for the actual numbers.",
     "specs": [
       "28,000J, auto cutoff relay",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lh4IoWZYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-amz-20",
     "description": "The GEARGO WiFi unit pairs a 15,000 joule rating with Bluetooth sync to the Smart Life or Tuya app, a large LED display showing voltage, current, power and energy data, six indicator lights for wiring faults, an IP68 oversized cover and a three-year service period. The listing says the app tracks energy consumption and sends alerts for abnormal voltage, reverse polarity and open ground.\n\nIt ranks second at $119.99, which is $41.49 below the All-New 28000J and $4.18 under the Progressive EMS-LCHW30. Compared with the All-New it gives up joules and a stated cutoff relay but keeps the energy tracking, and compared with the Progressive it adds app monitoring and weather sealing while losing a detailed fault protection list. It is $80.00 more than the RVRVHOMM, which has twice the joules on paper.\n\nChoose it if you want to see how much power the trailer is drawing over a stay and prefer a third-party app. The caveat is that the listing states no cutoff voltage or relay, so it is a monitor first and a protector second.",
     "specs": [
       "15,000J, three-year service",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+YcMVxZ1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A32CGI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A32CGI?tag=rvgearlab-amz-20",
     "description": "The Progressive EMS-LCHW30 is rated for 30 amps at 120 volts and 3,600 watts, and its listing says it absorbs surges up to 1,790 joules. Its listing documents protection against over and under voltage, open ground and neutral, reverse polarity, miswired pedestal, accidental 120V, surge failure and AC frequency issues, plus thermal protection and an integrated display with LED indicators. It is described as made in the USA. The listing does not say whether the unit is plug-in or hardwired, and the HW in the model name usually points to hardwired, so confirm before ordering.\n\nIt ranks third at $124.17 because it gives up app monitoring and a big joule figure to publish the most specific fault detection list in this group. That is $4.18 above the GEARGO WiFi unit and $37.31 below the All-New 28000J. Against the RVRVHOMM it costs $84.18 more, and its joule number is a fraction of the RVRVHOMM's, so it is the clearest example of why joules should not drive the decision.\n\nPick this if you want a spec sheet that names each fault it guards against. The caveat is the mounting question and the lower joule rating, so verify installation type and that a hardwired unit suits your rig.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IZc7XlVBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKFFTQYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKFFTQYZ?tag=rvgearlab-amz-20",
     "description": "The RVRVHOMM is a 30 amp plug-in unit rated at 30,000 joules with MOV, GDT and TVS protection layers, an IP68 cover, a circuit analyzer with seven wiring-fault indicator states, and a three-year warranty. The listing gives ratings of 30A, 125V and 3,750 watts, an operating range of minus 35 to plus 110 degrees Celsius, and a flag-themed design. It costs $39.99.\n\nIt ranks fourth because it matches the highest joule claim in the field at roughly a quarter of the All-New 28000J's price, but it lists no display, no cutoff relay and no app. It is $10.00 above the 22000J unit and the Vehiker, both of which add auto shutoff or a lower number, and $80.00 below the GEARGO WiFi. Its documented temperature range is the widest stated here.\n\nChoose it if you want a cheap plain protector with a long warranty and a published operating range. The caveat is that nothing in the listing says it disconnects power in a brownout, so do not count on it for air conditioner protection.",
     "specs": [
       "30,000J, IP68 cover",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mZGZOSiEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDF44K4L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDF44K4L?tag=rvgearlab-amz-20",
     "description": "This $29.99 30 amp unit is rated at 22,000 joules and pairs an LED display for voltage, current, power and error codes with an automatic shutoff for over-voltage, under-voltage and over-temperature. The listing says power is restored automatically once voltage returns to 104 to 132 volts, and it states ETL and FCC certification and an oversized waterproof cover.\n\nIt ranks fifth because the brand is unnamed, but on documentation it beats units that cost much more: it publishes both the cutoff window and the reconnect range, which the All-New 28000J and the GEARGO WiFi do not. It costs $131.49 less than the All-New and $10.00 less than the RVRVHOMM, which lists more joules but no cutoff. It matches the Vehiker's $29.99 price while stating far more.\n\nPick this if you want a stated brownout cutoff at the lowest price in the group. The caveat is an unnamed brand and no app, so there is no remote warning if the relay trips while you are away.",
     "specs": [
       "22,000J, ETL and FCC",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D-cWyxgzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW426ST2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW426ST2?tag=rvgearlab-amz-20",
     "description": "The Vehiker is a $29.99 30 amp plug-in unit with a 16,000 joule rating, a circuit analyzer, a waterproof cover and flame-retardant materials. The listing says it is safety-certified without naming the certification, offers 24-hour customer service, and describes plug-and-play use.\n\nIt ranks last because it gives the buyer the least to verify: no named standard, no cutoff, no display and no warranty length. It costs the same as the 22000J Auto Reset, which states a cutoff window and ETL and FCC certification, and it is $10.00 below the RVRVHOMM, which at least names a warranty and operating range. Its only edge is that it is a plain, familiar plug-in format.\n\nChoose it only if you need the absolute cheapest plug-in protector and will rely on the lights alone. The caveat is that the 22000J Auto Reset costs the same and documents far more.",
     "specs": [
       "16,000J, analyzer lights",

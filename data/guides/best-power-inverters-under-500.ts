@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OECvwVFdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8P6LGGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8P6LGGG?tag=rvgearlab-amz-20",
     "description": "Cummins offers 4000W continuous through four 110V sockets with protective port covers, plus an 18W USB-C and a 2.4A USB-A port. Bluetooth monitoring lets you control it from a phone app.\n\nAt about $500 it costs three times the LVYUAN 4000W and matches its watts, and it adds the app and the port covers that the cheaper unit lacks. It is the premium-name option in this band.\n\nIt suits a truck or RV owner who wants to check load and battery from the cabin. The covers keep dust out of unused sockets.",
     "specs": [
       "4000W, four 110V sockets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2HBLhliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-amz-20",
     "description": "LVYUAN is a 4000W unit with an 8000W surge ceiling. It adds four AC sockets, one USB port, a screw terminal for hardwiring and a remote on a 16.4 ft lead, while the LCD tracks battery, output and load.\n\nAt about $170 it costs about a third of the Cummins 4000W and gives the same watts, which leaves most of the $500 cap unspent. It has no phone app, only the LCD and remote.\n\nIt suits van and RV conversions that want a lot of power cheaply. Spend the savings on thicker cable and a fuse.",
     "specs": [
       "4000W continuous, 8000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4154d4GMlYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSF97Q83?tag=rvgearlab-amz-20",
     "description": "The EGO kit pairs a 400W inverter with a 4.0Ah 56V pack and a fast 100W PD charger. Output is pure sine, and three USB ports cover phones and a laptop.\n\nAt about $250 it costs half the Cummins and delivers a tenth of its watts. It works without a vehicle and needs no installation.\n\nIt suits a laptop-and-lights campsite. The battery doubles as a tool pack.",
     "specs": [
       "400W pure sine",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "TVNIKD is a 2500W unit with three AC sockets and one 2A USB port. Ten 30A fuses sit inside, three fans cool it and the LCD reports battery state.\n\nAt about $155 it costs a little less than the LVYUAN and gives 1500W fewer. It is the pick when 2500W covers your biggest load.\n\nIt suits a truck or camper that runs a microwave. Wire it with heavy cable.",
     "specs": [
       "2500W, three AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "BELTTT delivers 1000W of pure sine power with a 2000W surge. It has twin AC sockets, one USB port and a status LCD, and heavy leads come in the box.\n\nAt about $120 it costs a fraction of the Cummins and is the only pure sine option here besides the EGO kit. It trades watts for clean power.\n\nIt suits laptops and CPAP-class devices on a deep-cycle bank. Choose it when waveform matters.",
     "specs": [
       "1000W pure sine, 2000W surge",

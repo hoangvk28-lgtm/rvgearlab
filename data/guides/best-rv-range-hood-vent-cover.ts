@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KDD8aXoWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPM8PJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPM8PJ6?tag=rvgearlab-amz-20",
     "description": "The Safoner is an aluminum stove exhaust cover that replaces the plastic cap on a camper range hood, and its depth adjusts from 1.2 to 2.2 inches so the wall thickness does not force any cutting or trimming. Butyl tape is packed in for the waterproof seal around the frame.\n\nCompared with the Camp'N and TonGass plastic caps below, the metal body resists the UV cracking that kills those covers, and its built-in clip holds the flapper still on the highway. It suits owners who want one install that lasts the life of the trailer.",
     "specs": [
       "Aluminum body",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KKk6q696L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPF6CK4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPF6CK4F?tag=rvgearlab-amz-20",
     "description": "The Terapaton is also aluminum with the same 1.2 to 2.2 inch adjustable depth, and its kit includes 10 rust-proof screws, butyl tape and aluminum foil tape for sizing the frame. A single-lock damper keeps the flapper closed during travel and opens with exhaust airflow.\n\nAgainst the Safoner above, it trades a slightly lower price for the foil tape and screw count spelled out in the box contents, so the install needs nothing from the hardware drawer. It suits first-time DIYers who want every consumable in one bag.",
     "specs": [
       "Aluminum alloy with coating",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/217vLkaWF7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09K4JQ3J7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09K4JQ3J7?tag=rvgearlab-amz-20",
     "description": "The Camco kit is a polyethylene replacement that fits side wall openings from 10 3/4 by 3 7/8 inches up to 11 by 4 1/8 inches, with three mounting flanges for different depths. It also includes the flap and a scoop, so it rebuilds the whole vent rather than patching one piece.\n\nWhere the aluminum covers have a continuous depth slider, the Camco gives three fixed flange options covering 5/8 to 1 5/8 inch walls, which is the thinner range. It suits owners with older, thin-walled trailers who want a name-brand part.",
     "specs": [
       "3 flanges, 5/8 to 1 5/8 inch",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s84j5XurL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LC36CQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LC36CQ3?tag=rvgearlab-amz-20",
     "description": "The Camp'N white cover is a straightforward replacement for a worn kitchen exhaust cap, sized for a rough opening about 3 1/2 inches tall. It comes in white to match most trailer sidewalls, with a clean low-profile look.\n\nIt undercuts every aluminum pick here, and next to the TonGass it offers the color choice (a black version also exists) in place of published ABS material details. It suits owners who simply need a cap back on the hood and plan to replace it again later.",
     "specs": [
       "3 1/2 inch tall opening",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MpfchGRTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRJQHX8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRJQHX8K?tag=rvgearlab-amz-20",
     "description": "The TonGass states its numbers: a 10 3/8 by 3 1/2 inch rough opening, a 1 11/16 inch collar and an overall size of 11 5/8 by 5 1/4 inches. It is molded from impact-resistant, UV-protected ABS and ships with 10 screws.\n\nNext to the Camp'N white cover at nearly the same price, the TonGass is the one that lets you measure before you buy, and it is designed for large-outlet static exhaust hoods in RVs and manufactured housing. It suits buyers who check dimensions first.",
     "specs": [
       "10 3/8 x 3 1/2 rough opening",

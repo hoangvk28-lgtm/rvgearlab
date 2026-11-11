@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417IMo0PkgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QLJ3WHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QLJ3WHP?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 55 Series 12V (SFDP1-055-060-55) is rated 5.5 GPM at 60 PSI with a built-in bypass, a self-priming five-chamber diaphragm and a heavy-duty pressure switch. A 4-year limited warranty and NSF/ANSI/CAN 61 and 372, NSF 24 and UL 778 standards are named.\n\nIt is the only pick that hits 5.5 GPM exactly and the only 12V one with named potable standards. It sits above the Gidrox 5.0 on documentation and costs more.\n\nA strong fit for full-timers who want a documented, high-flow 12V pump. The bypass reduces short cycling.",
     "specs": [
       "5.5 GPM at 60 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vQSOoR3qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TBJJ4FF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TBJJ4FF?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 55 Series 115V (SFDPA1-050-060-55) is rated 5.0 GPM at 60 PSI with a 2.56A maximum draw, a power plug, a five-chamber self-priming diaphragm and an internal bypass. It lists NSF/ANSI/CAN 61 and 372 potable testing.\n\nIt is the AC twin of the 12V SEAFLO 55 and the only AC pump here with amp draw and standards. It costs the most of the group.\n\nA strong fit for hookup-focused owners who want documentation. The 2.56A figure helps size the circuit.",
     "specs": [
       "5.0 GPM at 60 PSI, 115V AC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413d0gvUxZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGJ53TC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGJ53TC?tag=rvgearlab-amz-20",
     "description": "The Gidrox 5.0 is a 12V pump rated 5.0 GPM at a preset 55 PSI, and its range runs 30 to 80 PSI. It lists a 40 dB noise level, 10 foot self-priming, 125 foot head and 158 degree F overheating protection.\n\nIt undercuts the SEAFLO 55 12V by a wide margin while giving a stated noise level and an adjustable range. It lacks the named standards of the SEAFLO.\n\nA good fit for owners who want an adjustable, quiet 12V pump on a budget. The damping base protects thin panels.",
     "specs": [
       "5.0 GPM at 55 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414clyRpXaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5B536JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5B536JZ?tag=rvgearlab-amz-20",
     "description": "The DICMIC 115V is a self-priming diaphragm pump rated 5.0 GPM at 55 PSI with a one-piece diaphragm design. It plugs into a 115V AC outlet and lists thermal protection and run-dry capability.\n\nIt undercuts the SEAFLO 55 115V while giving up the amp draw and standards. It is a plain, simple AC pump.\n\nA good fit for shore-power owners who want 5.0 GPM at a low price. The thermal protection suits a hot bay.",
     "specs": [
       "5.0 GPM at 55 PSI, 115V",

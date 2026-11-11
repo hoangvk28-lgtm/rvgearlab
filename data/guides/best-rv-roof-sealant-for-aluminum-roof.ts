@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ahatSjeML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJLIW8?tag=rvgearlab-amz-20",
     "description": "The Dicor 551LSW-1 is a 10.3 oz non-leveling lap sealant that the listing says adheres well to aluminum, mortar, wood, vinyl, galvanized metal and concrete and stays flexible. It is formulated for EPDM roofing and meant for edges, vents and screw heads.\n\nAgainst WELLUCK 4PC, it holds its shape on edges and screw heads but is a single tube. Against Kohree 2 Pack, it is non-leveling rather than self-leveling.\n\nBest for aluminum edges, trim and fasteners where a bead must stay put. Clean and dry the metal first.",
     "specs": [
       "Non-leveling lap sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410A5QMAQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-amz-20",
     "description": "The WELLUCK 4-piece self-leveling sealant says it is compatible with EPDM and TPO sheeting and adheres to aluminum, brass, steel, glass, mortar, wood, PVC and TPV. It lists 10 minutes of working time, cure in 24 hours and a low-odor, low-VOC formula.\n\nAgainst Kohree 2 Pack, it gives four tubes and a stated working time. Against Dicor 551LSW, it self-levels, so it belongs on flat aluminum laps only.\n\nBest for flat aluminum seams where you want several tubes and a stated cure. The listing notes a different preparation for surfaces other than EPDM, so read it.",
     "specs": [
       "4-piece self-leveling pack",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQcSeg4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Roof Sealant 2 Pack is a self-leveling white lap sealant said to level within 30 seconds. The listing names bonding to EPDM, TPO, PVC, aluminum, brass, steel, glass, mortar and wood.\n\nAgainst WELLUCK 4PC, it gives two tubes and no stated working time but costs less. Against Dicor 551LSW, it self-levels on flat seams.\n\nBest for a small flat aluminum repair on a budget. Not for vertical or sloped joints.",
     "specs": [
       "2-pack self-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vWMHmxcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-amz-20",
     "description": "PAULINN Self Leveling Lap Sealant is a white flexible product for rubber roof EPDM repair that is described as truly self-leveling for flat surfaces. It sets within 30 minutes and cures fully within 24 hours, and is odorless and non-toxic per the listing.\n\nAgainst Kohree 2 Pack, it quotes set and cure times but does not name aluminum. Against WELLUCK 4PC, it focuses on EPDM rubber roofs.\n\nBest for EPDM first, with aluminum use needing seller confirmation. Keep it to flat joints.",
     "specs": [
       "Self-leveling lap sealant",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MyxrrPBUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQSFPJW?tag=rvgearlab-amz-20",
     "description": "LISRUX is a 12-tube pack of white self-leveling lap sealant for roof edges, vents and more. The listing says it levels within 30 seconds and withstands -40°F to 200°F.\n\nAgainst Kohree 2 Pack, it gives six times the tubes but names no aluminum in the visible text. Against WELLUCK 4PC, it is a larger bulk buy at a higher price.\n\nBest for a large roof when the seller confirms aluminum adhesion. Twelve tubes is far more than a single repair needs.",
     "specs": [
       "12-pack self-leveling",

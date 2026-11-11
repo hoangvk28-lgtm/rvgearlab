@@ -41,7 +41,7 @@ loadDotEnvLocal();
 const TOKEN_ENDPOINT = process.env.AMAZON_PAAPI_TOKEN_ENDPOINT ?? "https://api.amazon.com/auth/o2/token";
 const API_BASE = "https://creatorsapi.amazon";
 const MARKETPLACE = process.env.AMAZON_PAAPI_MARKETPLACE ?? "www.amazon.com";
-const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "theofficejournal-20";
+const PARTNER_TAG = process.env.AMAZON_PAAPI_PARTNER_TAG ?? "rvgearlab-amz-20";
 
 let cachedToken = null;
 

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EI1OMhsOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C66S8MT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C66S8MT4?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer Stowaway 30L is the one pack here with a listed laptop sleeve and a hydration bladder portal. It folds to 9 by 8 by 2.5 inches, with mesh side pockets and a back panel with padded straps.\n\nIt is the only pick that names a dedicated laptop sleeve alongside brand-backed ripstop polyester with a StormRepel finish. Against the WATERFLY, it adds a sleeve and mesh back panel.\n\nIt suits travelers who want a daypack that stuffs into luggage and still carries a laptop to the cafe. The 30L volume covers a long day out.",
     "specs": [
       "30L, folds to 9 x 8 x 2.5 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WkNWcIzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94ZH8KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94ZH8KM?tag=rvgearlab-amz-20",
     "description": "The Eddie Bauer Stowaway 20L has extended shoulder straps and a hip belt, which most packables skip. It folds into an 8.5 by 7 by 1.5 inch pocket and uses ultra-light ripstop polyester with the same StormRepel finish.\n\nCompared with the 30L, it is smaller, skips the listed laptop sleeve and adds comfort through the hip belt. It shares the water-resistant finish with the larger Stowaway.\n\nIt fits day hikers and travelers who want a stable carry for a light load. The hip belt keeps weight off the shoulders.",
     "specs": [
       "20L, folds to 8.5 x 7 x 1.5 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OsCi2b1WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XY29DQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XY29DQ8?tag=rvgearlab-amz-20",
     "description": "The sinotron weighs 0.7 pounds and its 22L main pocket is described as large enough for gadgets, several books and a 14 inch laptop. It folds into a small pouch and uses water-resistant nylon.\n\nIt names a 14 inch laptop, which most packables do not, at a lower price than the Eddie Bauers. Compared with the Bymontin, it is lighter and has a smaller volume.\n\nIt suits students and commuters who need a spare backpack that fits a 14 inch machine. The simple one-compartment layout is easy to stuff and pull out.",
     "specs": [
       "22L, 0.7 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413UlNG21pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P356DZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P356DZJ?tag=rvgearlab-amz-20",
     "description": "The WATERFLY is a 30L ultralight daypack that folds to sandwich size. It has a hidden pouch, a zipped front pocket, a cable hole with an internal pocket, a waterproof wet pocket and breathable shoulder straps.\n\nCompared with the Eddie Bauer 30L, it offers more pockets and a cable hole in place of a laptop sleeve. It is the one here with a cable hole for running a charger from a power bank inside.\n\nIt suits travelers who like organization and a place for a power bank. The wet pocket separates a swimsuit or water bottle.",
     "specs": [
       "30L, folds to sandwich size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hYP9OEgxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F93LH9XZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F93LH9XZ?tag=rvgearlab-amz-20",
     "description": "The Bymontin is a 35L pack that weighs 1 pound and folds into its own pocket. Its tear-resistant fabric resists rain, scratches and dirt, and the main compartment has room for clothes, gear and a hydration bladder.\n\nIt carries more than every other pick here, and it costs less than the Eddie Bauer 30L. The extra volume makes it a good overflow bag.\n\nIt fits travelers who need a spare large bag on top of their luggage. The simple build suits short day hikes and everyday use.",
     "specs": [
       "35L, 1 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pFWT79xQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DV33JJQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DV33JJQR?tag=rvgearlab-amz-20",
     "description": "The SUIKIHUM weighs about 7 ounces and measures 11 by 17.3 by 5.9 inches. A main zipper compartment, a front zippered pocket and two side pockets sit on a water-resistant nylon body.\n\nIt is the lightest pick here by a wide margin and the least structured of the group. It is far lighter than the Eddie Bauer and Bymontin.\n\nIt suits minimalist travelers who just want a bag that disappears in a suitcase. The pocket layout covers a phone, bottle and snacks.",
     "specs": [
       "20L, about 7 oz",

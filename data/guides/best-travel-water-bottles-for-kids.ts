@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21t5svh3J2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ94VDP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ94VDP9?tag=rvgearlab-amz-20",
     "description": "The Simple Modern kids bottle holds 14 oz in double-wall vacuum insulated stainless steel with a straw lid that stays leak-proof when the nozzle is closed. It fits most car and stroller cupholders, and the lid is top-rack dishwasher safe.\n\nIt is the one with an explicit cupholder-fit claim, which the Fanhaw and eklusun listings skip. It holds less than the 20 oz Fanhaw.\n\nIt suits toddlers and young kids on road trips and flights. The farm-animal print is a kid favorite.",
     "specs": [
       "14 oz double-wall insulated steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-9jFm9U0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN17SQRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN17SQRH?tag=rvgearlab-amz-20",
     "description": "The Fanhaw is a 20 oz stainless steel insulated bottle with a straw lid and a dust-prevent cover that keeps the straw clean. It carries a 1-year warranty and is dishwasher safe except for the lid.\n\nIt holds the most of the six and is the only one with a stated warranty. Compared with the Simple Modern, it gives more water for a lower price.\n\nIt suits older kids on long travel days who drink a lot. The straw cover keeps the mouthpiece clean in a bag.",
     "specs": [
       "20 oz stainless steel, insulated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dv0VfyPNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H83H4JJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H83H4JJV?tag=rvgearlab-amz-20",
     "description": "The eklusun holds 18 oz in 18/8 stainless steel with a silicone boot for drop protection and a food-grade silicone straw. A cleaning brush comes in the package.\n\nIt includes the brush that no other pick lists, and it adds a boot for drops. It is hand-wash recommended, so it takes more care than the Zak.\n\nIt suits parents who want drop protection and a brush for straw cleaning. The boot protects the bottle on hard floors.",
     "specs": [
       "18 oz 18/8 stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RrTIy8G-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCVG1GPF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCVG1GPF?tag=rvgearlab-amz-20",
     "description": "The Kerilyn is a 12 oz stainless steel insulated bottle rated on the listing for 12 hours hot and 24 hours cold. A soft strap on the lid rotates 180 degrees and a detachable silicone base pad protects the bottle.\n\nIt is the smallest bottle here with a stated hot-and-cold rating, which suits toddlers. The strap makes it easy for small hands to carry.\n\nIt suits toddlers who need a light bottle for short trips. The rotating strap fits a pack loop.",
     "specs": [
       "12 oz insulated, 24 hours cold",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Uqwa7X7HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8H75YT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8H75YT6?tag=rvgearlab-amz-20",
     "description": "The GOPPUS is a 17 oz BPA-free Tritan plastic bottle with a locking lid, a sealing ring, a one-hand flip-top and a soft silicone straw. A time marker and an easy-grip handle are included.\n\nIt is lighter than the steel bottles and adds a time marker that helps kids drink on schedule. It is not insulated.\n\nIt suits kids who carry their own bottle on trips. The handle makes it easy to clip or hold.",
     "specs": [
       "17 oz Tritan plastic",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UymN0Lw0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTLK3GL2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTLK3GL2?tag=rvgearlab-amz-20",
     "description": "The Zak Designs Dinosaur bottle holds 16 oz in break-resistant PP plastic and measures 6.61 inches tall. It has a spout cover that keeps the spout clean and is top-rack dishwasher safe.\n\nIt is the cheapest bottle here and the easiest to wash in a dishwasher. It lacks insulation.\n\nIt suits kids who lose bottles or need a cheap spare. The spout cover helps in a bag.",
     "specs": [
       "16 oz PP plastic, break-resistant",

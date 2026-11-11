@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FSX+vMnkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPXRLQLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPXRLQLH?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic is a 0 degree mummy with Cirroloft synthetic insulation, a 55 oz fill and a total weight of 4 lb 6 oz in the Regular size. It stuffs to 17 by 11 inches and fits sleepers up to 6 ft, while a Long size fits up to 6 ft 6 in with 60 oz of fill.\n\nIt is the only bag here that prints its fill weight and total weight, which makes it easy to compare. It is lighter and more packable than the Big Agnes Echo Park and has a more tailored fit than the WKFAMOUT envelope.\n\nIt suits backpackers and cold-weather campers who want a documented synthetic mummy with an integrated compression sack. Pick the Long size if you are over 6 ft.",
     "specs": [
       "Cirroloft synthetic, 55 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GcKtOHxLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPG728B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPG728B?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Echo Park is a long, wide 0 degree bag with FireLine Max Eco insulation, 100 percent post-consumer recycled polyester fill. It has an oversized draft collar, a zipper draft tube and a Padlok system with a Cinch Pad Sleeve for keeping the bag on a pad.\n\nIt gives far more room than the Kelty Cosmic and adds double zippers that mate with other Park Series bags. It costs the most of the three.\n\nIt suits larger campers who want a pad-attached bag with a comfortable cut for base camp. Pair it with a pad that fits the sleeve.",
     "specs": [
       "FireLine Max Eco synthetic",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pZOlioIGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY83PQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY83PQV?tag=rvgearlab-amz-20",
     "description": "The WKFAMOUT unfolds to 90 by 39 inches with dual-layer synthetic insulation, a quilted structure and a stated comfort rating of 30 degrees F. The listing names heights to 6 ft 7 in, and the bags zip to a second bag for a 2-person setup.\n\nIt is by far the cheapest of the three and the only one that prints a comfort figure, which tells you plainly it suits cool-to-cold nights. It is machine washable, and the stuff sack has side straps to reduce packed size.\n\nIt suits budget car campers and couples who may want to zip two bags together. Plan around the 30 degree comfort number.",
     "specs": [
       "90 x 39 inch envelope",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319lJkqHCEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS4Q6GDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS4Q6GDT?tag=rvgearlab-amz-20",
     "description": "The MSR Freelite 3 is a semi-freestanding ultralight 3-person tent with a listed minimum weight of 2 pounds 6 ounces. It has 43 inches of headroom, two large side-entry vestibules, a rectangular floorplan and DAC NFL aluminum poles.\n\nThe rainfly and floor use PFAS-free DuraShield coating with taped seams, and the tent adds interior pockets with cable ports. Compared with the Big Agnes it comes in at a lower price, and next to the Naturehike tents it uses name-brand poles and coatings.\n\nIt suits backpacking groups who want a proven low-weight shelter. The side vestibules give each end its own gear space.",
     "specs": [
       "Min weight 2 lb 6 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31l3bBIOahL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSM1BY4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSM1BY4S?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur UL 3 uses HyperBead waterproof fabric on a high-volume freestanding design with awning-style doors and dual doors. DAC Green anodized poles, a TipLok buckle that combines pole-tip capture and fly attachment, and reflective guylines come with it.\n\nIt is the priciest tent in the group and the only one that lists the TipLok pitching system. Against the MSR it is fully freestanding, which allows pitching on rock or platforms.\n\nIt suits groups who want the most refined features and will pay for them. The interior includes multiple pockets.",
     "specs": [
       "HyperBead fabric, freestanding",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313IFjKRqtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LDHW26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LDHW26?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud Up 3 is an ultralight, freestanding, double-layer tent measuring 116.1 by 82.7 by 45.3 inches. It uses a dual-Y aluminum pole set and includes a footprint, with inner and outer tents usable together or apart.\n\nAgainst the MSR and Big Agnes it costs a fraction and includes the footprint. A wing design widens the gap between the inner tent and fly.\n\nIt suits trios who want freestanding at a middle price. The tent adds more windproof cloth than earlier versions.",
     "specs": [
       "116.1 x 82.7 x 45.3 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFGX53ND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFGX53ND?tag=rvgearlab-amz-20",
     "description": "The Clostnature 3-person measures 7 feet 3 inches by 6 feet 3 inches by 3 feet 11 inches and weighs 5.9 pounds. It is freestanding on two aluminum poles, with a PU5000 bathtub floor and rainfly and a double-layer design.\n\nCompared with the Underwood it weighs half a pound less, and its box adds a pole repair kit alongside 14 aluminum stakes. Against the Naturehike Cloud River it states a clear weight and a higher PU5000 rating.\n\nIt suits budget trios who like spares in the box. The rainfly is removable for stargazing.",
     "specs": [
       "5.9 lb, 7'3\" x 6'3\"",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Mh9J8HOoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7QFBK2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7QFBK2R?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud River is sold for 2 or 3 people, with an 86.6 by 70.9 inch floor and 49.2 inches of headroom. It uses 7001 aluminum poles in an X cross structure, two doors and two ventilation windows.\n\nIt offers the tallest listed headroom of the six and a silver-coated 210T fly rated to 2000mm. Next to the Cloud Up it is smaller on the floor and more price-friendly.\n\nIt suits trios who want to sit up, and it sets up in about five minutes. The fly adds UPF 50+.",
     "specs": [
       "86.6 x 70.9 in, 49.2 in tall",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DOjWF3wNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQ8KB9G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQ8KB9G?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator 3-person weighs 6.4 pounds and opens to 86.6 by 74.8 by 47.2 inches. It has a PU5000mm rainfly, a freestanding two-aluminum-pole design, D-shaped doors and breathable mesh.\n\nIt is the least expensive pick and carries the heaviest listed weight, a trade you can offset by splitting it three ways. Against the Clostnature it has a near-identical floor and weighs half a pound more.\n\nIt suits groups on a tight budget. The kit includes 12 stakes and 4 ropes.",
     "specs": [
       "6.4 lb, 86.6 x 74.8 in",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kJ6BiBa0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003VAVRXA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003VAVRXA?tag=rvgearlab-amz-20",
     "description": "The Progressive Dynamics PD4635V is a 35 amp converter/charger from the Inteli-Power 4600 series with a Charge Wizard 4-stage charging system. The listing says it replaces the Parallax/Magnatek 6336 and the WFCO 8935 converter sections, and that the charger will not boil the battery. It is priced at $293.01.\n\nIt ranks first because it is the only unit here that names which older sections it replaces, which removes the guesswork from a like-for-like swap. The cost is $179 above the PowerMax PM4-35A and $231 above the VEVOR 35A, and in return you do not get a published lithium mode, since the listing text is silent on chemistries other than lead-acid. Against the Parallax 4435 at $319.45, it is $26 cheaper and describes its charging better.\n\nPick this if you are matching a failed WFCO 8935 or Parallax 6336 section in a lead-acid rig and want a recognized brand. The caveat is that it offers no lithium claim, so a LiFePO4 owner should look at the PowerMax or RecPro instead.",
     "specs": [
       "35A, Charge Wizard 4-stage",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41msVhfhcML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH52?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LH52?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-35A is a deck-mount 35 amp converter charger whose listing states regulated 12V power up to 35 amps DC, smart multi-stage charging for lead-acid banks, and adjustable output so a properly configured lithium bank can be charged. It lists current limiting, reverse-polarity and thermal protection and sells for $114.\n\nIt ranks second because it is the most balanced buy: $179 under the PD4635V, $15.95 under the RecPro, and the only name-brand unit under $130 that claims adjustable lithium output. The tradeoff versus the RecPro is that it does not publish numbered voltage steps, so you must read the manual for the real adjustment range. It also gives up the replacement-part naming that makes the Progressive easy to match.\n\nChoose it for a lithium bank or a mixed future upgrade where you want a recognized RV brand without a $290 price. The caveat is that adjustable is not a number in the listing, so confirm the actual voltage range before connecting a LiFePO4 pack.",
     "specs": [
       "35A regulated 12V output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eJWBUt1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W6KFN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W6KFN8?tag=rvgearlab-amz-20",
     "description": "The RecPro 35 Amp turns 110V AC into 12V DC with a temperature-controlled fan that runs only when needed. Its listing names four stages (Fast, Standard, Trickle and Equalization), says it handles lead-acid and lithium, and offers three fixed output modes of 13.0, 14.6 and 16.5 volts. It can be wired in series or parallel for more output, and the same line comes in 35 to 125 amp models. It costs $129.95.\n\nIt ranks third because it publishes the clearest voltage choices among the name-brand boxes, which the PowerMax PM4-35A does not, but costs $15.95 more. The 14.6 volt step is the one a LiFePO4 owner would select, so the lithium claim is checkable against the battery spec. Compared with the VEVOR at $61.90 it has a better-known brand and a line of upgrade sizes, though it is $68 pricier.\n\nChoose it if you want a selectable 14.6 volt lithium step and a path to larger sizes later. The caveat is the 16.5 volt mode, which is not a battery charging voltage and should never be left on.",
     "specs": [
       "35A, 13.0/14.6/16.5V modes",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dRG2pfh9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2DWJB1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2DWJB1?tag=rvgearlab-amz-20",
     "description": "The VEVOR 35 Amp is the cheapest unit here at $61.90. It lists dedicated lead-acid and LiFePO4 modes, a fixed voltage mode with choices of 13.0, 14.6 and 16.5 volts, a temperature-triggered fan, a metal housing for heat dissipation, six protections and a 100 percent copper cable. The listing says it is suited to small batteries rated 30Ah to 50Ah.\n\nIt ranks fourth because that 30Ah to 50Ah note is a limit worth respecting, and it lacks the safety listing and replacement naming of the legacy picks. It undercuts the PowerMax PM4-35A by $52.10 while publishing more checkable voltage numbers, but a name-brand unit gives you easier support. Against the Fortron at $120, it lists a dedicated lithium mode where the Fortron lists only a fixed 13.75 volt output.\n\nPick it for a small trailer, a camper van with a compact battery, or a secondary supply, where you can set the mode by hand. The caveat is that the listing ties it to batteries up to 50Ah, so a 100Ah bank would take a long time to fill.",
     "specs": [
       "35A, 13V to 16.5V range",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AR5ET+GfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSGY6TMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSGY6TMZ?tag=rvgearlab-amz-20",
     "description": "The Fortron/Source FSV35-12A-4 is a 35 amp converter from the SRV series that converts 120VAC to a fixed 13.75VDC. The feature text covers electronics rather than RV setup: resistance to transient high current, very high efficiency, over-current and over-voltage protection, forced air cooling with overheat protection, and an MTBF above 100,000 hours. It is priced at $120.\n\nIt ranks fifth because it states no lithium mode and no list of fitted factory sections, and the title gives a four-stage claim that the feature text never breaks into steps. At $120 it undercuts the RecPro by $9.95 but it offers far less setup information. It does beat the VEVOR for people who want a simple, fixed 13.75 volt supply that will not let a bank climb to a dangerous voltage.\n\nChoose it for a lead-acid or AGM rig where you want a fixed voltage with forced-air cooling. The caveat is that forced-air cooling usually means a fan you can hear, and the listing gives no warranty or dimension details.",
     "specs": [
       "35A, fixed 13.75V output",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ahteC9nzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00JPJJ9IQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00JPJJ9IQ?tag=rvgearlab-amz-20",
     "description": "The Parallax 4435 is a deck-mount converter in the 4400 series, and its listing is the thinnest of the six: it gives package dimensions of 4.5 by 13 by 10.5 inches, a package weight of 8 pounds, Mexico as the country of origin, and part number 4435. It does not publish charge stages, voltages or lithium support in the feature text. It sells for $319.45.\n\nIt ranks last because it costs $26.44 more than the PD4635V with less published detail, and $205 more than the PowerMax PM4-35A. The only reason to pay that is an exact Parallax 4400 series fit, where bolt pattern and connectors are already known to match your bay. Against every other pick, you are buying a part number, not a feature list.\n\nChoose it only when your RV has a Parallax 4400 series converter and you want the same series back. The caveat is the missing specs, so confirm the output and charge profile with the seller or on the Parallax label before ordering.",
     "specs": [
       "35A 4400 series part 4435",

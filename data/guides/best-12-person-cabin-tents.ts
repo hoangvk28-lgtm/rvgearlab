@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KbbvhpIvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-amz-20",
     "description": "This CORE tent measures 18 ft by 10 ft with an 80 inch center height and fits four queen air beds. Pre-attached poles lock in for setup in about two minutes, and built-in LED lights run on high, low and night settings.\n\nCompared with the Fanttik, it is more expensive yet adds two room dividers for three spaces and the LED system. Against the other CORE tents, it trades some roof height for instant setup and lighting.\n\nIt suits families who want lighting and three rooms. A fast pitch is part of the same package.",
     "specs": [
       "18 x 10 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9Tt32E7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-amz-20",
     "description": "The CORE 12-person tent is 16 ft by 11 ft with an 86 inch center height and straight walls. A room divider, storage pockets and 1200mm H2O Block fabric with a taped rainfly are all listed.\n\nIt costs less than the LED version and the full-rainfly model while keeping the tall straight-wall interior. Against the KTT tents it adds a brand name and a stronger fabric rating.\n\nIt works for buyers who want a CORE build. Lights and instant poles are skipped to hold the price down.",
     "specs": [
       "16 x 11 ft, 86 in peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gQnj2dYtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G54D9W8D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G54D9W8D?tag=rvgearlab-amz-20",
     "description": "This 16 ft by 11 ft CORE has an 86 inch center height and a full rainfly that forms an outside vestibule. The listing names H2O Block 1200mm fabric, a room divider and storage pockets.\n\nCompared with the other CORE 12-person tent, the full fly adds covered gear space outside the door. It costs more than any other tent in this group, and fits three queen beds.\n\nIt suits campers who want dry boots and coolers outside the sleeping area. The vestibule keeps the living space clean.",
     "specs": [
       "16 x 11 ft, 86 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JT64z+27L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHXD4C7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHXD4C7K?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C12 Pro Max measures 216 in by 120 in, fits three queen air mattresses and pitches in about 90 seconds with two people. Mesh windows on all four sides, floor vents and a ceiling mesh handle airflow.\n\nAgainst the LED CORE it skips the built-in lights and costs less. Compared with the KTT tents it adds an instant frame, SBS zippers and a removable canopy.\n\nIt is the choice for campers who want a pop-up tent at a price below CORE. Two people can have it standing before the cooler is open.",
     "specs": [
       "216 x 120 in footprint",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sN9ZV97nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVSDJPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVSDJPD?tag=rvgearlab-amz-20",
     "description": "The KTT 12-person tent has a 14.1 ft by 10 ft floor, a 6.58 ft height, two bay windows and a full rainfly. It splits into two rooms with a curtain and offers three doors and three mesh windows.\n\nAgainst the cheaper KTT it adds bay windows and a full fly. It is hand-pitched with folding rods, which keeps the price below the instant tents.\n\nIt suits budget buyers who like hands-on setup. Full rain coverage comes with the lower price.",
     "specs": [
       "14.1 x 10 ft, 6.58 ft peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aTYBBvbxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N1KM51Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N1KM51Y?tag=rvgearlab-amz-20",
     "description": "The KTT 12-person tent is a 14.1 ft by 10 ft cabin with a 6.58 ft peak. It lists 10 to 12 people, two rooms, three doors and three mesh windows.\n\nIt is the least expensive tent in this group, and a straight-wall design lets it hold four full air mattresses. Two poles on the door curtain create an awning.\n\nIt fits first-time cabin buyers who want a large footprint. A premium price is not part of the deal.",
     "specs": [
       "14.1 x 10 ft footprint",

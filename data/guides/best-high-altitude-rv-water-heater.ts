@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LN1-yaERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDR6N64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDR6N64?tag=rvgearlab-amz-20",
     "description": "AVOYTE RV Tankless is a 65,000 BTU propane heater with 12 volt power and a 16.9 ounce built-in mixing tank. The listing says it delivers up to 3.9 GPM, is CSA certified with seven safety protections and operates up to 9,800 feet.\n\nAgainst Hillhub 65K, it states an altitude limit and a mixing tank. Against ORBEK High Altitude, it lists a higher BTU and CSA wording.\n\nIt is the best match for owners camping above 5,000 feet who want stated altitude support. It earns its slot for high-elevation camping.",
     "specs": [
       "65,000 BTU, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41an3ATmlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDMTXQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDMTXQJ?tag=rvgearlab-amz-20",
     "description": "AVOYTE Model B is a second listing of the same 65,000 BTU, 12 volt tankless heater with a built-in mixing tank, stated 3.9 GPM and CSA certification. It states the same 9,800 foot altitude limit.\n\nAgainst AVOYTE 65K Model A, it is a sibling listing with different packaging. Against Dastiaque, it states an altitude limit.\n\nIt suits buyers who find this listing in stock first. It is a natural fit for alternate avoyte listing.",
     "specs": [
       "65,000 BTU, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpeSyMkUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-amz-20",
     "description": "ORBEK High Altitude is a 60,000 BTU propane tankless heater with 12 volt DC power. The listing states flow up to 3.5 to 3.9 GPM, oxygen-free copper heat exchangers, brushless DC fans, a 150 PSI pressure reducing valve and CSA certification.\n\nAgainst AVOYTE 65K Model A, it has a lower BTU and a named high-altitude version. Against Hillhub 65K, it names CSA and the DC fan.\n\nIt suits owners who want a high-altitude version at a moderate price. Think of it as the pick for mountain trips.",
     "specs": [
       "60,000 BTU propane, 12V DC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dJM34ViCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-amz-20",
     "description": "Hillhub RV Tankless is a 65,000 BTU propane heater with staged combustion that holds a set temperature from 95 to 124 degrees F. The listing says it delivers up to 3.9 GPM and fits a 12.8 inch opening for several RV brands.\n\nAgainst AVOYTE 65K Model A, it lists staged combustion but no altitude limit. Against Dastiaque, it has a higher BTU.\n\nIt suits owners who want a 65,000 BTU retrofit. Buyers focused on retrofits will find it a sensible match.",
     "specs": [
       "65,000 BTU propane tankless",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S6ZYVxHYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBXBNXBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBXBNXBH?tag=rvgearlab-amz-20",
     "description": "Dastiaque RV Tankless is a 55,000 BTU propane heater with an LED touch control and internal and external outlets. The listing says it is CSA certified with forced exhaust, freeze protection and automatic gas shut-off.\n\nAgainst Hillhub 65K, it has a lower burner and a lower price. Against Banrterd 55K, it lists CSA.\n\nIt suits owners with an outdoor shower need on a budget. It earns its slot for budget with outdoor outlet.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h1U-jfJIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR9MW19Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR9MW19Q?tag=rvgearlab-amz-20",
     "description": "Banrterd RV Tankless is a 55,000 BTU propane heater with 12 volt DC power, an oxygen-free copper heat exchanger and a brushless DC fan. The listing says it has a front water outlet and a 95 to 123 degree F range.\n\nAgainst Dastiaque, it uses 12V DC power and a front outlet. Against AVOYTE 65K Model A, it has less output.\n\nIt suits low-cost installs at modest altitudes. It is a natural fit for low-cost installs.",
     "specs": [
       "55,000 BTU, 12V DC",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rC13r2SZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SVJBSKY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SVJBSKY?tag=rvgearlab-amz-20",
     "description": "Countryman 100 percent silicone roof coating is a high-solids 1 gallon formula that the listing says bonds to properly prepared metal, EPDM, fiberglass, SPF and modified bitumen without primer in most applications. It is described as a single coat application when applied at the recommended rate.\n\nAgainst Dicor Metal, it is silicone with a no-primer claim rather than acrylic. Against Wadities Gallon, it states chemistry and substrates plainly.\n\nIt is the best match for owners who want a silicone for a metal roof that sees ponding or heavy sun. It is a natural fit for silicone on metal.",
     "specs": [
       "100% silicone, 1 gallon",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NPxmeTyPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJJX9I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJJX9I?tag=rvgearlab-amz-20",
     "description": "Dicor RP-MRC-1 is a 1 gallon white acrylic elastomeric coating made for metal RV roofing. The listing says it is for metal only and not recommended for EPDM or TPO.\n\nAgainst Countryman 1 Gal, it is water-based acrylic made for one roof type. Against E-SDS Metal, it is a coating while E-SDS is a polymer sealant.\n\nIt is a good choice for aluminum or steel trailers wanting a brand-matched white coat. Think of it as the pick for metal-only rvs.",
     "specs": [
       "Acrylic elastomeric",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i6f9mj3nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-amz-20",
     "description": "E-SDS is a 1 gallon MS polymer roof sealant named for metal RV roofs. The listing claims a 10 plus year service life, adhesion to rubber, metal and concrete, and a 0.8 to 1 millimeter layer after 2 to 3 coats at 40 square feet per gallon.\n\nAgainst Countryman 1 Gal, it is a polymer with a stated film thickness. Against Dicor Metal, it adds corrosion resistance wording.\n\nIt suits owners who want a non-silicone sealant for metal and a stated thickness. Buyers focused on polymer on metal will find it a sensible match.",
     "specs": [
       "MS polymer, 1 gallon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21AtxCeiDIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CP838MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CP838MW?tag=rvgearlab-amz-20",
     "description": "Gardner Aluma-Kote is a gloss silver fibered aluminum roof coating in a 1 gallon can. It is the classic metal-roof refresh with aluminum pigment and fibers.\n\nAgainst Dicor Metal, it gives a silver look in place of white. Against Gardner Sta-Kool, it is a smaller can with a different style.\n\nIt fits owners who want the traditional fibered aluminum coat. It earns its slot for classic silver coat.",
     "specs": [
       "Gloss silver fibered aluminum",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411OjpzMGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-amz-20",
     "description": "Gardner-Gibson Sta-Kool 15-Year Turbo-Dri is a 5 gallon white acrylic elastomeric coating with cool-core pigments. It is rain safe in 30 minutes and can be recoated in three hours.\n\nAgainst Wadities Gallon, it is a much larger pail with faster cure. Against Countryman 1 Gal, it is acrylic rather than silicone.\n\nIt suits large metal roofs worked in a single day. It is a natural fit for one-day jobs.",
     "specs": [
       "5 gallon white acrylic",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wfKTqT2xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94FYY98?tag=rvgearlab-amz-20",
     "description": "Wadities is a white solar reflective coating with a stated 1000 percent flexible membrane. One gallon is said to cover an RV up to 30 feet at 50 square feet per gallon over 2 to 3 coats.\n\nAgainst Gardner Sta-Kool, it is a small gallon with a clear coverage rule. Against E-SDS Metal, it is a liquid rubber style coat.\n\nIt is a fit for small metal trailers needing a flexible white film. Think of it as the pick for small flexible jobs.",
     "specs": [
       "1000% flexible membrane",

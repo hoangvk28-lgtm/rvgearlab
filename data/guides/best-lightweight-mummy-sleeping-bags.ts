@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319F9kyHxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-amz-20",
     "description": "The Nature Link mummy weighs 2.87 pounds and uses 20D ripstop nylon over an imitation silk cotton fill, with a stated comfort range of 42 to 55 degrees Fahrenheit. It measures 86.6 by 29.5 inches, an insulated foot box shapes the lower end and it costs $29.99.\n\nIt is the lighter of the two by more than 1.5 pounds, which makes it the easier bag to carry beyond the campsite, and it prints both weight and temperature range where many listings print neither. Against the Sportneer at $35.09, it saves about $5 and takes a classic mummy shape, with a taller 86.6 inch cut that welcomes sleepers up to the tall end.\n\nIt suits mild weather backpackers, shoulder season campers and RV owners who want an easy to store spare bag that handles nights from spring through early fall.",
     "specs": [
       "2.87 lb, 20D ripstop nylon",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ulkFGKoHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-amz-20",
     "description": "The Sportneer is a wearable sleeping bag with arm zippers, a hollow fiber fill and a stated range of 32 to 65 degrees Fahrenheit. It weighs 4.4 pounds, packs to 15.7 by 9.5 inches and costs $35.09, with an adjustable hood and a snap zipper.\n\nWhere the Nature Link starts at 42 degrees, the Sportneer reaches down to 32, which gives it the colder end of the two ranges, and the arm zippers let a sleeper keep hands free for a book, a phone or a hot drink. The packed size is a clear figure, so planning storage in a camper cabinet is simple.\n\nIt is the better match for camp chair comfort, chilly evening lounging around a fire and kids or adults who like moving around while wrapped in a bag.",
     "specs": [
       "Wearable, arm zippers",

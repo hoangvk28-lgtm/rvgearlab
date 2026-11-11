@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H-LCLl7yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDGNHDF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDGNHDF?tag=rvgearlab-amz-20",
     "description": "The WHITIN Feather Water Shoe has a drawstring at the ankle that the listing says keeps pebbles and sand grains out, a soft stretch upper and a removable skin-EVA insole. A thick TPR outsole is described as protecting against hot sand and boardwalk surfaces.\n\nThe ankle drawstring is unique in this group and the most direct answer to sand in the shoe, while the thick TPR sole adds more heat protection than the thin socks. It also costs less than the ELETON Wide Toe or SEEKWAY Treads.\n\nBeachgoers who hate gritty shoes will like it, and the removable insole helps with quick drying. It suits women's sizing.",
     "specs": [
       "Ankle drawstring keeps sand out",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qa8Lb1fQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWH47GCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWH47GCJ?tag=rvgearlab-amz-20",
     "description": "The ELETON Barefoot Shoe has an elastic band closure, a flexible synthetic mesh upper, a ventilated sole and a wear-resistant polyurethane anti-skid sole. A wide toe box with zero drop is listed for natural toe spread.\n\nA wide toe box and zero-drop shape give it a more natural feel than the WHITIN Drawstring or the snug SEEKWAY Treads. It also works on dry pavement and trails, unlike the thin aqua socks.\n\nIt suits a beachgoer who walks long stretches of sand and trail and prefers a barefoot style with toe room. The elastic band is quick to put on.",
     "specs": [
       "Wide toe box, zero drop",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RVJVbtKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DYPHFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DYPHFR?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Treads has thick rubber soles with a toe cap, 3D non-slip treads, an elastic vamp and a spandex upper with air holes. Drainage holes in both the insole and outsole help water leave.\n\nDeep 3D treads grip wet sand and rocks better than the ziitop Lock-Lace or the ATHMILE Hiking Barefoot, and double drainage clears water faster. It sits above the WHITIN Drawstring on price.\n\nIt suits a beach visitor who also explores rocky coves and tide pools. The toe cap shields toes from shells.",
     "specs": [
       "3D non-slip treads, toe cap",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51X8qHYdPZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P4L8QCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P4L8QCM?tag=rvgearlab-amz-20",
     "description": "The ziitop Lock-Lace has a stretch mesh upper, an anti-slip rubber outsole with a unique pattern and an elastic shoelace with a locking mechanism. A stretchy neckline helps with putting the shoe on and off.\n\nThe locking lace lets you tighten the fit more than the slip-on ATHMILE Hiking Barefoot or SEEKWAY Basic Aqua. It costs less than the SEEKWAY Treads and ELETON Wide Toe.\n\nIt suits a walker or swimmer who wants a snug, adjustable shoe for the beach to the car. The mesh dries quickly.",
     "specs": [
       "Locking elastic lace",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IKTnDzE8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY2PZBW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY2PZBW8?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Thick Sole is a sock-style shoe with a thick rubber sole, a toe cap and a breathable elastic upper. The listing says it protects against sharp objects and cushions steps.\n\nA thick sole makes it better for shells and hot ground than the SEEKWAY Basic Aqua, and the toe cap adds more protection than the ziitop Lock-Lace. It costs less than the ziitop.\n\nIt suits a beachgoer who wants a thick, packable sole and printed styles at a modest price. It folds small for a beach bag.",
     "specs": [
       "Thick rubber sole, toe cap",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ab3tItzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0834N2546?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0834N2546?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Basic Aqua is a slip-on with a rubber outsole made to protect from rocks, gravel and shells, a soft elastic spandex upper and a smooth neckline to prevent rubbing. It is called amphibious for water and dry land.\n\nIt is the cheapest pair in the list and the simplest, a good spare for the car or a family beach bag. It has fewer features than the ATHMILE Thick Sole.\n\nIt suits a beachgoer who wants a very light pair for short walks. It dries fast and packs flat.",
     "specs": [
       "Rubber outsole, spandex upper",

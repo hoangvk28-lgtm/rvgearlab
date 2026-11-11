@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zbi1xAneL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9HMV9TR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9HMV9TR?tag=rvgearlab-amz-20",
     "description": "The Wsky four-pack runs on solar, USB or AA power and offers a magnetic base and foldable hanging hook. It uses a sturdy military-grade ABS body and a collapsible design.\n\nIt is the most camp-ready of the five, with a power bank design and three power sources. Against the decorative KOOPER and BONLION lanterns, it folds flat for packing.\n\nIt suits campers who want hanging lanterns that also sit on a table or stick to a metal surface. Four lanterns cover a whole campsite.",
     "specs": [
       "Solar, USB or AA power",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+x4yF+ilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHD959FC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHD959FC?tag=rvgearlab-amz-20",
     "description": "The Jearytop uses vintage tungsten wire LEDs for a warm glow, with five lighting modes including a light sensor. It charges by solar panel or USB Type-C and hangs from a closed U-shaped hook.\n\nIt offers a warmer, cozier tone than the Wsky. Compared with the BONLION, it adds USB Type-C so it charges on cloudy days.\n\nIt suits campers who want a mood light under an awning. The U hook prevents the lantern from falling off.",
     "specs": [
       "Tungsten wire warm LED",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YDSOm2kcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGBCJF34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGBCJF34?tag=rvgearlab-amz-20",
     "description": "The BONLION two-pack has IP65 waterproofing, high-strength ABS and a monocrystalline solar panel. It switches on automatically at dusk and off at dawn, and comes with a handle and a clip for hanging.\n\nIt costs less than the Wsky and KOOPER. Next to the Jearytop, it swaps the USB option for auto on and off.\n\nIt suits campers who want a set-and-forget light under an awning or from a tree. IP65 handles rain.",
     "specs": [
       "IP65, auto dusk to dawn",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x+foayEaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BTY14F3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BTY14F3P?tag=rvgearlab-amz-20",
     "description": "The KOOPER four-pack mimics real candle shapes with a flickering flame effect, a monocrystalline panel and IP65. It turns on automatically with a tear-off film switch.\n\nIt offers more ambience than any other pick and four lanterns per pack. Compared with the Wsky, it has no collapsible or USB features.\n\nIt suits campers who set up a patio-style site at an RV pad. The flame effect gives a campfire feel without heat.",
     "specs": [
       "Flickering flame effect",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t6e7I-8wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZK43D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZK43D?tag=rvgearlab-amz-20",
     "description": "The LEOKED is a hemp-rope solar lantern measuring 6.1 by 6.1 by 5.5 inches with IP44 protection. A rechargeable NiMH battery gives up to 8 hours of warm light after 8 hours of direct sun.\n\nIt costs the least of the five. Compared with the BONLION, it has a lower weather rating and a decorative look.\n\nIt suits campers who want a small accent light at a table or hook. The auto dusk to dawn operation is hands-free.",
     "specs": [
       "IP44, 6.1 inch square",

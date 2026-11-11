@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ok31zMfjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G449H4K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G449H4K8?tag=rvgearlab-amz-20",
     "description": "The Stelle Drainage is an adult water shoe in breathable mesh with built-in drainage holes, a non-slip rubber outsole with an enhanced tread, a reinforced rubber toe cap and a cushioned insole with arch support. An elastic lace system with a locking toggle adjusts the fit and the shoe folds flat.\n\nIt costs about $14, the top of the range, and it alone among these pairs combines a rubber toe cap, a lace lock and an arch-supporting insole. The drainage holes shed water faster than the closed soles of the SEEKWAY Aqua Sock and the ATHMILE Aqua Socks.\n\nIt suits campers who wade rivers, kayak or scramble over wet rocks and want real toe protection. The wide toe box suits broad feet.",
     "specs": [
       "Mesh upper, drainage holes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N9KQV-T-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F36KY7RP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F36KY7RP?tag=rvgearlab-amz-20",
     "description": "The WHITIN Toe Cap is a water shoe with a stretchy sock-like upper, a removable quick-drying insole, a flexible TPR outsole and adjustable elastic straps. A protective toe cap and anti-slip grip add safety.\n\nIt costs about $14, near the Stelle Drainage, and it is the only pair here with a removable insole you can wash or replace. The stretch upper slides on easier than the Stelle Drainage laces, while the toe cap gives more protection than the SEEKWAY Aqua Sock.\n\nIt suits travelers and campers who want a sock-like shoe that also works at a party or the beach. The elastic straps keep it from sliding off in water.",
     "specs": [
       "Stretch upper, removable insole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MSInVi43L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX92YHX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX92YHX8?tag=rvgearlab-amz-20",
     "description": "The Barefoot Drainage is a quick-dry barefoot-style water shoe with a stretch upper, a thickened anti-collision toe, an anti-slip rubber outsole with drainage holes and a honeycomb insole insert that wicks moisture. It is made for beach, pool, surf and yoga.\n\nIt costs about $13, a dollar less than the WHITIN Toe Cap, and it is the only barefoot-style shoe here with both drainage holes and a thickened toe bumper. The thin sole is closer to the ground than the Stelle Drainage.\n\nIt suits paddlers, swimmers and yoga users who want ground feel with some toe protection. The honeycomb insert dries quickly.",
     "specs": [
       "Barefoot stretch upper",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ab3tItzRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0834N4XXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0834N4XXM?tag=rvgearlab-amz-20",
     "description": "The SEEKWAY Aqua Sock is a slip-on aqua sock with a rubber outsole that guards against rocks, gravel, shells and hot sand. The soft elastic spandex upper dries quickly and the smooth elastic neck prevents chafing.\n\nIt costs about $10, around $4 less than the Stelle Drainage, and it has a firmer rubber sole than the ATHMILE Aqua Socks. It has no toe cap, so it gives less protection than the WHITIN Toe Cap.\n\nIt suits budget campers who want basic sole protection on rocky beaches and sandy rivers. The lace-free design makes it fast to put on.",
     "specs": [
       "Rubber sole blocks rocks",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411n-mUoHtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q3MYDQH?tag=rvgearlab-amz-20",
     "description": "The ATHMILE Aqua Socks pair a stretchy fast-dry upper with an anti-slip sole and a thick insole, and they fold flat and weigh almost nothing. Sizing runs large, so a half size smaller is the recommended pick.\n\nIt costs under $6, the lowest price in this guide, and it is the softest underfoot of the sock styles. It is thinner than the SEEKWAY Aqua Sock and folds smaller, which makes it the easiest to pack.\n\nIt suits travelers and swimmers who want a spare pair for pool decks, hotel beaches and light use. Keep them in a day bag for emergencies.",
     "specs": [
       "Thick insole, anti-slip sole",

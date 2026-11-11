@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HmXAfp5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-amz-20",
     "description": "The Andersen 2-1/2 inch shank hitch has a 6 inch drop and a 2-5/16 inch ball, and the listing says it is rated for 16,000 lb GTWR. It comes with 3, 4, 5 and 6 inch bracket options, and uses tension chains and an integrated friction cone in the ball housing to dampen sway.\n\nIt ranks first because it states both the highest gross rating here and a friction cone for sway control. The Weigh Safe hitches below top out at 12,500 lb and use a different anti-sway design, and the listing does not name a Weigh Safe tongue weight rating.\n\nBest for heavy bumper-pull trailers on a Class V receiver that needs a 6 inch drop. Confirm the receiver tube size, because a 2.5 inch shank only fits a 2.5 inch opening.",
     "specs": [
       "2.5 inch shank, 6 inch drop",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3BTKJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3BTKJ3?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight (8 inch) has an 8 inch drop, a 2.5 inch shank and a 12,500 lb towing capacity per its title. The listing describes a live adjustment head with an internal pivot point and anti-sway technology.\n\nCompared with the Weigh Safe 6in and 10in, it sits in the middle of the drop range and suits mid-height trucks. It carries the same listed rating as its siblings.\n\nBest for a truck whose receiver sits about 8 inches below the trailer coupler. The listing says to measure your receiver, and one line says it fits 2 inch receivers, so confirm the shank size before buying.",
     "specs": [
       "8 inch drop, 2.5 inch shank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21wqZE+RbJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3C3GGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3C3GGW?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight (10 inch) has a 10 inch drop, a 2.5 inch shank and a 12,500 lb towing capacity. It shares the live adjustment head and anti-sway technology wording of the other Weigh Safe models.\n\nAgainst the Weigh Safe 8in above it adds two inches of drop, which matters on lifted trucks, and it keeps the same rating. The Andersen 2.5in 6in tops out at a smaller drop here but a higher gross rating.\n\nBest for a lifted truck with a high receiver pulling a trailer that sits lower. Measure the drop with the trailer level, since a 10 inch drop on the wrong truck leaves the ball too low.",
     "specs": [
       "10 inch drop, 2.5 inch shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3F8L7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3F8L7Q?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight (6 inch) has a 6 inch drop, a 2.5 inch shank and a 12,500 lb towing capacity. It has the same live adjustment head and anti-sway technology as the other Weigh Safe models.\n\nIt gives the smallest drop of the three Weigh Safe versions and the same 6 inch drop as the Andersen 2.5in 6in, but with a lower stated rating. It suits trucks whose receiver is closer to the coupler height.\n\nBest for a stock-height truck on a 2.5 inch receiver and a trailer rated under 12,500 lb. Confirm the receiver size, since one line in the listing says it fits 2 inch receivers.",
     "specs": [
       "6 inch drop, 2.5 inch shank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xRupjNPCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GC21JW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GC21JW9?tag=rvgearlab-amz-20",
     "description": "The CURT 17132 is a replacement shank for CURT weight distribution hitches. It fits a 2-1/2 inch receiver, has an 8 inch drop, and is rated for 15,000 lb gross trailer weight and 1,500 lb tongue weight with multiple holes for head height.\n\nIt is not a hitch and has no sway control, which is why it ranks last. It is the right part if you already own a CURT weight distribution hitch and need a 2.5 inch, 8 inch drop shank.\n\nBest for a CURT hitch owner moving to a Class V receiver. Do not buy it expecting a complete hitch.",
     "specs": [
       "2.5 inch receiver, 8 inch drop",

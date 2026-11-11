@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Rz2FLCC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GCQ4NJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GCQ4NJ?tag=rvgearlab-amz-20",
     "description": "The MoKo XL Polarized is a 24.6 gram TR90 frame with 1.2mm TAC polarized lenses and 99.9 percent UV protection. It has built-in vents, an anti-fog design and 3-level adjustable nose pads.\n\nAgainst the QALLY Polarized, it adds venting and adjustable pads at a lower price. Next to the GLARDEFE Sport, it brings polarization the GLARDEFE does not list.\n\nIt suits riders who want fog control and a tunable fit for very little money. The XL cut is aimed at larger faces.",
     "specs": [
       "24.6g TR90 frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411mcjriMJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28L5GK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28L5GK5?tag=rvgearlab-amz-20",
     "description": "The QALLY Polarized has TAC HD polarized lenses with 99 percent UV400 protection, a hydrophobic lens coating and a heat-resistant flex frame. The lenses are CAT.3 and the nose pads are non-slip.\n\nAgainst the MoKo XL Polarized, it adds a water and smudge-resistant coating. Compared with the BIRCEN Wraparound, it lists polarization and a stated lens category.\n\nIt suits riders in strong sun who ride through the occasional shower. The flex frame is designed to be comfortable all day.",
     "specs": [
       "TAC polarized, CAT.3 lenses",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sFvdi1yhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4MKPB9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4MKPB9R?tag=rvgearlab-amz-20",
     "description": "The GLARDEFE Sport has UV400 lenses that block 99.9 percent of UVA and UVB, a shatterproof polycarbonate frame and a wraparound curve. The listing gives a 75mm lens width, 50mm lens height, 20mm nose bridge, 145mm frame width and 125mm temples.\n\nAgainst the BIRCEN Wraparound, it publishes the full dimensions so you can compare against glasses you own. Next to the MoKo XL Polarized, it skips polarization in exchange for a lower-priced standard lens.\n\nIt suits riders who want to check fit on paper before buying. The 25 gram frame has flexible rubber ear grips.",
     "specs": [
       "UV400, 99.9% UVA and UVB",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VfTjwWQzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXXLS6QR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXXLS6QR?tag=rvgearlab-amz-20",
     "description": "The BIRCEN Wraparound is a TR90 wraparound pitched at cycling, running, baseball, golf and mountain biking. The frame is described as ultra-light, flexible and impact resistant.\n\nAgainst the GLARDEFE Sport, it uses flexible TR90 instead of rigid polycarbonate. Compared with the KALIYADI 4 Pack, it is a single pair aimed at sport use.\n\nIt suits athletes who swap between several sports and want one frame. The sleek design suits training and races.",
     "specs": [
       "TR90 wraparound frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HviLGzKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFG311CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFG311CH?tag=rvgearlab-amz-20",
     "description": "The KALIYADI 4 Pack is four pairs of polarized UV400 sport sunglasses with integrated nose pads. Each pair ships with a pouch, cloth and strap in a gift box.\n\nAgainst the QALLY Polarized, it gives four pairs for a similar price. Compared with the MoKo XL Polarized, it adds pouches and straps in the box.\n\nIt suits groups, families or riders who lose sunglasses. The straps help on rough rides.",
     "specs": [
       "4 pairs, polarized UV400",

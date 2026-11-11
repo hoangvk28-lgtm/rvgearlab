@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvVec7JvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SM5HBK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SM5HBK1?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 500 v2 holds 512Wh in a LiFePO4 pack rated for 6,000 charge cycles and delivers 500W rated (1,000W surge) through two pure sine wave AC outlets. It weighs 14 pounds, runs as quiet as 28 dB, has a 10ms UPS switchover with bypass charging, and recharges from 0 to 80 percent in about 52 minutes on AC. The listing cites low self-discharge, 5 percent after half a year in storage, and ships a 16.4 foot extension cable.\n\nAt $359 it is the most expensive pick, about $0.70 per watt-hour, which is $189.01 more than the ANTPO 500W for 12Wh more storage. What that money buys is the longest cycle rating here, 6,000 against ANTPO's 3,500 plus and the ALLWEI's 3,000, along with the fast 52-minute 80 percent charge. The listing does not state a warranty length.\n\nChoose it for a camper that cycles the battery often, or for a bedside CPAP that you want near silent. The caveat is price: if the station mostly sits in a closet, the $169.99 ANTPO delivers nearly the same energy for less than half the money.",
     "specs": [
       "512Wh LiFePO4, 500W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413JL-PoS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-amz-20",
     "description": "The ANTPO 500W puts a Grade-A LiFePO4 pack, listed as 512Wh in the bullet points and 500Wh in the title, behind a 500W pure sine wave inverter with a 1,000W surge. It is rated for more than 3,500 cycles, weighs 13.2 pounds with a retro fuel-can shape and handle, and the listing claims 0 to 80 percent in 1 hour from a 500W wall input. A 200W panel recharge is quoted at 8 to 9 hours, and the warranty is 24 months.\n\nAt $169.99 it costs about $0.33 per watt-hour, the lowest among the units with a full 512Wh. Against the ALLWEI 500W at $269 it is $99.01 cheaper and charges faster on paper, but the ALLWEI adds a 100W USB-C port and a 13 pound body with two AC outlets. Against the Jackery it gives up 2,500 cycles and quiet 28 dB operation.\n\nBuy it if you want pure sine wave power, LiFePO4 and a 24-month warranty at the lowest price. The caveat is the capacity wording, since the title says 500Wh and the bullets say 512Wh, so plan on the lower number.",
     "specs": [
       "512Wh LiFePO4, 500W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k8tvlD1bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCNTFDJJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCNTFDJJ?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 500W stores 512Wh in LiFePO4 cells rated for 3,000 cycles to 70 percent capacity, roughly 10 years by its own claim. It has two 500W AC outlets, a 100W USB-C, a 36W USB-C, two USB-A, two DC5521 ports and a car port, measures 11.6 by 7.5 by 7.6 inches, and weighs 13 pounds. The listing claims a full AC recharge in 2.5 hours in Q mode and about 6.5 hours with a 100W panel.\n\nIt sits $90 below the Jackery at $269 but $99.01 above the ANTPO, so it is the middle-priced 512Wh unit at about $0.53 per watt-hour. The 100W USB-C means a laptop charges without a brick, and the UPS function protects a desktop PC or file server. The ANTPO has the faster wall-charge claim and the stated warranty, while the Jackery has twice the cycle rating.\n\nPick this if you also run a desk setup in the camper and want a 100W USB-C and a UPS behind the router. The caveat is that the listing does not publish a warranty length, so ask before relying on a long one.",
     "specs": [
       "512Wh LiFePO4, 500W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411-WfkjcFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWDKT7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWDKT7N?tag=rvgearlab-amz-20",
     "description": "The GRECELL 500W lists 519.48Wh with two pure sine wave AC outlets rated 500W total, a 60W USB-C PD, three USB-A QC3.0 ports, two DC ports, a car port and a 10W wireless charging pad. It weighs 14.1 pounds and includes a strobe and SOS flashlight. The listing says the cell chemistry is simply a reliable lithium battery, with no cycle rating published, and warns not to run devices above 500 watts.\n\nAt $179.97 it costs about $0.35 per watt-hour, close to the ANTPO's $0.33, but the recharge is far slower: 6 to 7 hours from the wall, 7 to 8 hours from the car, and 6 to 9 hours with a 100W panel in full sun. The EBL 500W below it has the same 519.48Wh and weight at $120.02 more, so the GRECELL is the cheaper way to get that body.\n\nChoose it for the lowest price on a pure sine wave unit with a wireless pad, used as an occasional storm and camping backup. The caveat is the missing cycle rating and the long wall recharge, so it is not the pick for daily use.",
     "specs": [
       "519.48Wh lithium, 500W",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ORXArFgTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLP145TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLP145TH?tag=rvgearlab-amz-20",
     "description": "The EBL 500W uses NCM lithium cells, the same energy-dense chemistry as most laptop and EV packs, at 519.48Wh and 14.1 pounds. It has two 120V pure sine wave AC outlets sharing 500W, a 60W USB-C PD, three 18W USB-A ports, two DC outputs, a car socket and a 10W wireless pad. The listing says not to exceed 500W continuous or 23V solar input, and to recharge every 90 days in storage for a battery life of 5 plus years.\n\nAt $299.99 it is about $0.58 per watt-hour, $120.02 above the GRECELL for the same 519.48Wh and 14.1 pound body, and $59.01 below the Jackery with a much lower stated life. The ALLWEI at $269 has LiFePO4, a 3,000 cycle rating and a 100W USB-C for $30.99 less. The EBL's real strength is the clearest operating limits in the listing.\n\nPick it only if you find it discounted toward the GRECELL's price, or if you value its published solar input limit of 23V and maintenance schedule. The caveat is that at list price the ALLWEI and ANTPO beat it on chemistry life and money.",
     "specs": [
       "519.48Wh NCM, 500W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fW6O0KPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1QSPB6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1QSPB6H?tag=rvgearlab-amz-20",
     "description": "The Antosynate lists 500Wh of LiFePO4 and a 500W AC output, a single 110V outlet, a 60W USB-C PD, QC3.0 USB and a 12V car outlet. Its AC waveform is stated as modified sine wave, which is a rougher approximation of grid power than pure sine, and the listing hedges on CPAP use by telling buyers to confirm with the manufacturer. It lists three recharge methods and claims thousands of cycles without a number.\n\nAt $169 it is the cheapest of the six, about $0.34 per watt-hour, $0.99 under the ANTPO 500W at $169.99. But the ANTPO has a pure sine wave inverter, a stated 3,500 plus cycle life and a 24-month warranty, none of which the Antosynate states. Against the GRECELL at $179.97 it has half as many AC outlets.\n\nBuy it for resistive loads such as lamps, chargers and a simple fan, where waveform is not a concern. The caveat is serious for an RV: sensitive loads such as CPAPs, some laptop adapters and any motor with electronics can run hot or fail on modified sine wave, so the ANTPO is the safer choice for $0.99 more.",
     "specs": [
       "500Wh LiFePO4, 500W",

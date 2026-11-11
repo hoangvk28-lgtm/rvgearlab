@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jk9fiVu0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHDMYRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHDMYRQ?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods 5KW inverter generator lists 5,000 peak and 4,000 running watts with pure sine wave output, an ECO mode and RV-ready design. At 4,000 running watts it has the most power of the three picks.\n\nAt $549.99 it costs $20.99 more than the Westinghouse 2550 Dual and $150.00 more than the PowerSmart 4400, but offers double the running watts of the Westinghouse. Pick this if you want to start a rooftop AC; the caveat is that the listing names no TT-30R, weight, noise level or warranty.",
     "specs": [
       "5,000 peak, 4,000 running watts",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OVuX0udDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR5R3NFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR5R3NFG?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 4400 is an open frame inverter rated 4,400 starting and 3,600 rated watts, with a 1.6-gallon tank listed for 11 hours at 25% load. It weighs 61.29 lb, measures 19.3 x 16.9 x 16.5 inches and has a 223cc engine with CO detection and low oil shutdown.\n\nAt $399.99 it is $150.00 below the maXpeedingrods 5KW and $129.01 below the Westinghouse 2550 Dual, with nearly double the Westinghouse's rated watts. Pick this for value; the caveat is the listed 76 dB from 23 feet, much louder than the 52 dBA Westinghouse, and it is the heaviest.",
     "specs": [
       "4,400 start, 3,600 rated watts",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r03DfnUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB99QS6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB99QS6S?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 2550 Dual runs on gas or propane and is rated 2,550 peak and 1,900 rated watts at under 3% THD. It weighs 42 lb, lists as low as 52 dBA, has a TT-30R, two 20A outlets and two USB ports, and runs up to 11 hours on 1.16 gallons at 25% load.\n\nAt $529 it costs $129.01 more than the PowerSmart 4400 for half the running watts, but it is 19.29 lb lighter and far quieter. Pick this for small loads and quiet sites; the caveat is that it will not start a typical rooftop AC alone, so plan to pair it with a second unit.",
     "specs": [
       "2,550 peak, 1,900 rated watts",

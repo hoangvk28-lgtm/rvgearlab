@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Udk5ieM8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004UMTH80?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004UMTH80?tag=rvgearlab-amz-20",
     "description": "The Checkers large wheel chock is made for tires from 32 to 46 inches in diameter, which covers the big tires on a fifth wheel, a toy hauler or a Class A motorhome. The material is built to withstand impact, abrasion, weather and UV, and the design spreads weight evenly across its body so it does not concentrate load at one point.\n\nCompared with the 27 to 32 inch Checkers model, this one is sized a full tier larger, so it catches a big tire high enough to matter on a steep grade. Against the Vergo pair, the Checkers gives you a chock matched to a tire range rather than a generic extra-large size, which helps when your tires are in the upper 30s or 40s. The Vestil and HOXWELL are better for flexibility and quantity, while this one is the direct choice for tire height.\n\nIt is the pick for owners of large motorhomes and heavy fifth wheels who park on a slope and want a chock whose published size range matches their tire diameter. If your tires measure over 32 inches, this is the best place to start.",
     "specs": [
       "Fits 32 to 46 inch tires",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CGKzyQ57L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQWH236?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQWH236?tag=rvgearlab-amz-20",
     "description": "The Vergo Industrial chock is an extra-large molded rubber pair, with each block measuring 9.8 by 8 by 6 inches. It uses a nylon-enhanced rubber body, and the maker positions it as commercial-grade, with reference to OSHA 1910.178(k)(1) for commercial vehicles.\n\nAgainst the single Checkers chocks, you get two chocks in the box for less than the price of the big Checkers, which matters because a steep driveway calls for a chock on the downhill side of each tire. The Vergo's 9.8 inch body is taller than the Vestil's 7.5 inch profile, so it catches a larger share of the tire. The HOXWELL gives you four pieces for more money, while the Vergo is the more affordable way to get a matched pair of heavy rubber.\n\nThis is the pick for a travel trailer or fifth wheel owner who wants two big, heavy chocks for one price and does not mind carrying the weight. It suits driveways where the trailer parks for a night or a season and the tires are in the middle to upper range of RV sizes.",
     "specs": [
       "9.8 x 8 x 6 inch",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SNDRxfHzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002T08K8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002T08K8S?tag=rvgearlab-amz-20",
     "description": "The Vestil LWC-15 is a laminated rubber chock measuring 7.5 by 8 by 8 inches, with a reinforced metal handle and a curved face that matches the shape of a tire. The laminated construction resists tearing, and the handle is what sets it apart on a steep driveway.\n\nCompared with the Vergo and the HOXWELL, which have no handle in the same position, the Vestil is the easiest to place and remove. On a slope, that matters because the chock has to be placed against a tire that may already be nudging downhill, and pulling it out later means freeing it from a loaded tire. Its 8 inch height is shorter than the Vergo's 9.8 inch body, so it suits mid-size tires better than the tallest ones.\n\nThis is the pick for an owner who sets and removes chocks often, especially a solo owner who needs a handle to control the chock while positioning it. At about $40 it also sits near the middle of the price range, making it a sensible upgrade from basic wedges.",
     "specs": [
       "7.5 x 8 x 8 inch",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l+7Zjp+HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XTMF1FP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XTMF1FP?tag=rvgearlab-amz-20",
     "description": "HOXWELL sells four heavy-duty rubber chocks with a polyfoam structure and a steel eyebolt, in a high-visibility orange. The eyebolt accepts a rope or chain, which is useful for pulling the chock free or tying two together, and the orange color stands out against pavement and gravel.\n\nBecause you get four chocks, you can block the downhill and uphill sides of both tires on one axle, or protect two axles on a tandem trailer, which no single-piece option here can match. Against the Vergo pair, the HOXWELL costs about $18 more but doubles the count. Against the Vestil, it trades a rigid handle for an eyebolt and a rope, which can be easier on your back when the chock is low to the ground.\n\nThis set is for owners of tandem or tri-axle trailers on a slope, and for anyone who wants every tire chocked on both sides. If your driveway is steep enough that you worry about a single chock failing, four pieces provide a built-in backup.",
     "specs": [
       "4 rubber chocks",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cqPv3sF+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VJQBY0E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VJQBY0E?tag=rvgearlab-amz-20",
     "description": "This Checkers chock is sized for tires from 27 to 32 inches, and it is built from the same impact-resistant material as the larger Checkers. The design uses an even weight distribution and resists weather and abrasion, so it holds shape in sun and rain.\n\nIt is lighter than the 32 to 46 inch Checkers, which makes it easier to carry and a good match for a travel trailer or a smaller fifth wheel. Against the Vestil, the Checkers is the more precisely sized option for mid-size RV tires, because the maker states the tire range outright. At about $32 it is also the least expensive way here to get a chock matched to tire size, with a price well below the Vergo and HOXWELL sets.\n\nPick this model if your trailer tires measure between 27 and 32 inches and your driveway grade is steep enough that you want a purpose-sized chock instead of a generic wedge. Buy two if you plan to block both sides of a tire.",
     "specs": [
       "Fits 27 to 32 inch tires",

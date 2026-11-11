@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5ElCbw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3DYMGZJ?tag=rvgearlab-amz-20",
     "description": "The Kohree split-design kit lists 1-4 axles and pairs a separate display with a controller body. The display can sit on the windshield, and the kit offers nine boost levels, automatic leveling and a Type-C data cable.\n\nVersus the CURT Echo, the Kohree is a wired dash-style kit with a much larger axle range at about half the price. Against the Lrichy 90160 it adds the split screen and nine boost levels, but it costs roughly double.\n\nBest for tandem owners who want the control body hidden and a readable screen in the line of sight. The listing says the two parts each have 2 chips, so confirm support terms with the seller.",
     "specs": [
       "Split display and controller",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qOS0RLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-amz-20",
     "description": "The CURT Echo is a Bluetooth controller that plugs into the 7-way and is tuned in the OneControl Auto app. It uses a triple-axis accelerometer and is listed for trailers with 1-2 axles and 2-4 brakes.\n\nThat range fits a dual-axle trailer exactly but leaves no room for a third axle. Compared with the Kohree Split, it avoids all under-dash wiring but costs about twice as much and depends on the vehicle 7-way supplying power.\n\nBest for tandem owners who swap between vehicles. An existing factory controller will not work while the Echo is plugged in.",
     "specs": [
       "Bluetooth, OneControl app",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yrcnAxhkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSR474WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSR474WC?tag=rvgearlab-amz-20",
     "description": "The Lrichy 90160 is a proportional controller for 1-3 axle trailers, supporting 2, 4 or 6 brakes. It includes a snap-in clip, an adjustable-angle bracket and a plug-and-play port, and the listing states a two-year warranty.\n\nIt is a clone of the Tekonsha 90160 Primus IQ. Against the Kohree Split it drops the split display but costs about half, and against the HRepair 90160 it adds mounting hardware.\n\nBest for a tandem with up to six brakes and a normal dash install. It is the sensible default when you want proportional stops without extras.",
     "specs": [
       "Proportional, 1-3 axles",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CEtxCexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-amz-20",
     "description": "The HRepair controller is listed as a replacement for Tekonsha 90160 and covers 1-3 axles. It has self-leveling, a digital display, a manual override lever and three boost settings.\n\nIt is another Primus IQ clone, so it competes directly with the Lrichy 90160. It is slightly pricier, lacks the stated two-year warranty and instead cites a lifetime service claim, but it self-levels.\n\nBest for tandem owners who want the lever and a flexible mount angle. Verify the support claim with the seller.",
     "specs": [
       "Proportional, 1-3 axles",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NXn-L37lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2XXMRJ?tag=rvgearlab-amz-20",
     "description": "The CURT Venturer Next is a time-delay controller for 1-3 axles and 2-6 brakes with adjustable power and ramp time. It has no internal moving parts and no leveling is required.\n\nCompared with the Lrichy 90160 it is simpler and lighter on features, because it follows a timed ramp rather than your deceleration. It is still a major-brand option that covers four brakes.\n\nBest for a light tandem used occasionally. For a heavy tandem, the proportional picks above are a better fit.",
     "specs": [
       "Time-delay, adjustable ramp",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S758ImuVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK56B37R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK56B37R?tag=rvgearlab-amz-20",
     "description": "The Lrichy 8508211 is a proportional controller for 1-4 axle trailers supporting 2, 4, 6 or 8 brakes. It replaces the Brake-EVN 8508220 and is described as smoother than the 8507111 time-delay design.\n\nIt is the cheapest here and matches the Kohree Split on axle range, but it has a plain LED display and no split screen or app. Against the Lrichy 90160 it supports eight brakes instead of six.\n\nBest for a budget-minded tandem owner who might add a third axle. It comes with brackets and screws and a two-year warranty.",
     "specs": [
       "Proportional, 1-4 axles",

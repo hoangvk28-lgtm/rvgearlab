@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319F9kyHxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D12GY1RL?tag=rvgearlab-amz-20",
     "description": "Nature Link sells a mummy bag filled with 300 g per square meter of imitation silk cotton, with a stated comfort range of 42 to 55F. The shell and lining are 20D nylon, the shell is ripstop and water-repellent, and the bag weighs 2.87 lb.\n\nIt is the lighter of the two by far and the only one that names the mummy shape. The 86.6 x 29.5 inch cut fits regular to tall sleepers, and an extra-insulated foot box keeps toes warm.\n\nA strong match for backpackers who want a compact mummy at a low price. It is fully machine washable.",
     "specs": [
       "2.87 lb, 20D ripstop nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ulkFGKoHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ2HRCSG?tag=rvgearlab-amz-20",
     "description": "Sportneer sells a wearable hooded bag with arm zippers, rated for 32 to 65F, with hollow fiber insulation. The listing gives a 4.4 lb weight and a compressed size of 15.7 x 9.5 inches, with a compression sack included.\n\nAgainst the Nature Link, it covers a colder low end of 32F and lets you use your hands without leaving the bag. A snap-secured zipper and an adjustable drawcord hood keep heat in.\n\nA fit for stadium seats, car camps and cold mornings when you need to move. It is machine washable.",
     "specs": [
       "Wearable, arm zippers",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41osxNx1pXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPWJF5BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPWJF5BY?tag=rvgearlab-amz-20",
     "description": "The Arkpax 1200W combines 1,024Wh of LiFePO4 with 1,200W continuous and 2,400W surge across four pure sine wave outlets. It lists 15 ports, including two 100W USB-C and four USB-A, and a 1000W AC charger that refills it in 1.5 hours.\n\nIt holds the most energy of the true 1200W units and weighs 28 pounds with a handle. Against the GRECELL H1200 it adds 352Wh, and against the UDPOWER S1200 it names its capacity.\n\nIt suits campers who want 1kWh and four AC outlets for a cooler, microwave and laptop together. The pack holds over 80% after 4,000 cycles.",
     "specs": [
       "1,024Wh LiFePO4, 1200W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jskXxumNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVXNMWSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVXNMWSK?tag=rvgearlab-amz-20",
     "description": "The GRECELL H1200 stores 672Wh in LiFePO4 cells with 1,200W continuous output from two AC outlets. It has two 100W USB-C, two 18W USB-A, a 12V DC and a 120W car port, and accepts 400W of solar input.\n\nIt pairs a 10ms UPS switchover with two 100W USB-C ports, which suits routers, PCs and laptops. It holds less energy than the Arkpax, with 3,000-plus cycles listed.\n\nIt suits campers who also want the unit as a home outage backup. Up to nine devices charge at once.",
     "specs": [
       "672Wh LiFePO4, 1200W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UO-rypUVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6H1YC3?tag=rvgearlab-amz-20",
     "description": "The UDPOWER S1200 lists 1200W pure sine wave output with an 1,800W surge, five AC outlets and two 100W USB-C PD ports in a 14-port hub. It lists 4,000 or more LiFePO4 cycles and UL2743 certification in the title.\n\nIt has the most AC outlets of the five and an 800W AC input for 0 to 80% in 1.5 hours. Next to the Arkpax it names a smaller surge and no capacity.\n\nIt suits campers with several AC devices at once who want a certified unit. The listing quotes rugged metal casing and a 0.3W idle draw.",
     "specs": [
       "1200W / 1800W, five AC outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MOGpMRJyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSDX8LTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSDX8LTM?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS 640Wh is a 600W unit with 1,200W surge from 640Wh of LiFePO4 and four AC outlets. It lists a 10ms UPS, a full charge in 1.5 hours and 4,000 or more cycles with a metal enclosure.\n\nIts 1,200W figure is a surge, not continuous output, so it is the nearest fit and not a true 1200W. It costs far less than the GRECELL H1200 and still holds close to its capacity.\n\nIt suits campers whose loads sit under 600W and who want long runtime with four outlets. PowerRaise technology handles appliance start-up.",
     "specs": [
       "640Wh LiFePO4, 600W / 1200W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ov0eEi0gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSZ83QQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSZ83QQG?tag=rvgearlab-amz-20",
     "description": "The CYBPULTE delivers 600W with 1,200W peak from 299Wh and weighs 6.8 pounds. A 140W USB-C PD port, two 110V outlets, two QC3.0 USB-A ports and a 12V car port round out seven ports.\n\nAt a quarter of the weight of the Arkpax it covers the light end of the group, and its 140W USB-C beats every true 1200W unit here. It is a 1200W peak only.\n\nIt suits solo campers and backpackers who need a surge reserve without a heavy pack. It charges MacBook Pro and gaming laptops at full speed.",
     "specs": [
       "299Wh, 600W / 1200W peak",

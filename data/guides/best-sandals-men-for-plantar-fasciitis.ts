@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AxdXwxsKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWXWZGGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWXWZGGY?tag=rvgearlab-amz-20",
     "description": "The COFACE Recovery slide has a thick soft insole, a cushioning yoga-mat footbed with a deep heel cup that conforms to the arch and a breathable mesh upper. Adjustable straps are listed for a wide fit, and a thick non-slip outsole adds traction.\n\nCompared with the HMLHML Roomy Slides, it adds adjustable straps and a mesh upper. Against the KuaiLu Leather Flip-Flops, it is a slide with more coverage.\n\nIt suits men who want a recovery slide with adjustability. The listing names beach, gym and garden use.",
     "specs": [
       "Yoga-mat footbed, deep heel cup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FzLjpxKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BM2R8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BM2R8W?tag=rvgearlab-amz-20",
     "description": "The HMLHML Roomy Slides are described as fitting all foot shapes without tightness, with arch support that eases plantar pressure. The ultra-stretchy latex EVA is listed as a replacement for thin slippers, and the listing says it reduces fatigue during long standing.\n\nCompared with the COFACE Recovery, it stresses roomy fit over adjustable straps. Against the GPOS Recovery, it is a pillow-style slide with simpler lines.\n\nIt suits men with wide feet or those who stand for long periods. The listing says it suits health-focused users.",
     "specs": [
       "Roomy fit for all foot shapes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415S9w0VeiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YR59GXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YR59GXX?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Leather Flip-Flops are men's thong sandals with a cast leather and two-tone webbing strap, corrective arch support and a deep heel cup. A yoga mat insole cushions, and the anti-slip rubber sole is described as waterproof.\n\nCompared with the MEGNYA Orthotic, it uses a leather strap and yoga mat insole. Against the COFACE Recovery, it is a flip-flop with a toe post.\n\nIt suits men who prefer a thong sandal with orthotic features. The listing names hiking, boating and beach.",
     "specs": [
       "Corrective arch support, deep heel cup",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313KyE81KxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BCHWSVB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BCHWSVB9?tag=rvgearlab-amz-20",
     "description": "The GPOS Recovery is a men's slide with an ergonomic toe cap that is slightly curved and a high-front low-back arc. A deep heel cup, thickened sole, arch support and a hollowed-out breathable upper add comfort.\n\nCompared with the HMLHML Roomy Slides, it adds a deep heel cup and a hollow upper. Against the COFACE Recovery, it uses a shaped footbed.\n\nIt suits men who want a shaped footbed after sports. The listing says it is designed for tired feet.",
     "specs": [
       "Ergonomic curved toe cap",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XBFon0i1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PFQGM8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PFQGM8S?tag=rvgearlab-amz-20",
     "description": "The MEGNYA Orthotic is a men's flip-flop with a soft PU leather upper, a padded inner and a biomechanically designed footbed with arch support. The toe-post design uses leather and fabric webbing, with a strong rubber outsole for stability.\n\nCompared with the KuaiLu Leather Flip-Flops, it uses a PU leather upper at a lower price. Against the GPOS Recovery, it is a thong style.\n\nIt suits casual wearers who want arch support in a flip-flop. The listing names hiking, boating and beaches.",
     "specs": [
       "PU leather upper, padded inner",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DZzCNbkAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050EH0FE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050EH0FE?tag=rvgearlab-amz-20",
     "description": "The Progressive EMS-LCHW50 is rated for 50 amps at 120 and 240 volts and 12,000 watts, and it absorbs surges up to 3,580 joules according to the listing. The listing names its protections: over and under voltage, open ground and neutral, reverse polarity, miswired pedestal, accidental 240V, surge failure and AC frequency issues, plus thermal protection and a display with LED indicators. It is described as USA manufactured. The listing does not say whether it is plug-in or hardwired, and the HW in the model name usually means hardwired, so confirm before ordering.\n\nIt ranks first because it is the only pick that names the full fault list. It costs $57.73 more than the GEARGO Smart 20000J and $7.79 less than the RVBASICS, which adds an app and a lock ring but lists 7,200 joules and no named fault list. It gives up app control and monitoring entirely, which the KIRFEIHT and the Smart App 22000J provide for roughly $42 to $57 less.\n\nPick this if you want the protection list written out and plan to mount it once. The caveat is its price and the missing app, which means no alert if it trips while you are away.",
     "specs": [
       "50A, 120/240V, 12,000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xdCwq7yOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYF7RWN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYF7RWN7?tag=rvgearlab-amz-20",
     "description": "The KIRFEIHT 50 amp unit has a 22,000 joule rating, auto shutoff with auto restore, a Bluetooth app showing input and output voltage, current and power with push alerts, an LED screen for voltage, current, frequency and status, an IP67 sealed cover, UL Listed and RoHS certification and a three-year warranty. The listing describes a built-in circuit analyzer for open ground and reverse polarity.\n\nIt ranks second at $104.99, just $0.52 above the GEARGO Smart 20000J, and $15.00 below the Smart App 22000J that shares many specs. Against the Progressive LCHW50 it costs $57.21 less and adds an app and an auto restore, but it does not name the 240V and frequency faults the Progressive lists. It is $65.00 below the RVBASICS, which lists a lock ring but only 7,200 joules.\n\nChoose it for the best mix of app alerts, UL listing and a stated warranty at a middle price. The caveat is that the listing does not state cutoff voltages, so check the app for the thresholds.",
     "specs": [
       "22,000J, UL Listed",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hMI-M1k6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4KV71CX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4KV71CX?tag=rvgearlab-amz-20",
     "description": "This 50 amp unit is rated at 22,000 joules and its listing states that it cuts power below 104 volts or above 132 volts and reconnects when voltage is safe. Its app, over Bluetooth, shows voltage, current, wattage and frequency and lets you cut power from your phone. It lists IP67 sealing, a flame-retardant ABS housing rated for minus 10 to plus 90 degrees Celsius, UL Listed and RoHS, and a three-year warranty.\n\nIt ranks third at $119.99, $15.00 above the KIRFEIHT BT 22000J, which has the same joule number and warranty but no stated voltage window or remote cutoff. It is $10.00 below the EyGde, which has no app, and $50.00 below the RVBASICS. Its published 104 to 132V window is the clearest stated cutoff among the app units.\n\nPick this if you want to shut off power from bed when a storm arrives and want the voltage window written down. The caveat is that Bluetooth range limits the remote cutoff to near the rig, and the listing names no brand clearly.",
     "specs": [
       "22,000J, cutoff 104 to 132V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LZd-zeJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT13LFG4?tag=rvgearlab-amz-20",
     "description": "The GEARGO Smart is a 50 amp plug-in unit rated at 20,000 joules with a built-in circuit analyzer for open ground, reverse polarity, high and low voltage and overheating, plus an LED screen showing line voltage, frequency and wiring status. Its listing says it disconnects on unsafe voltage and warns when internal temperature passes 110 degrees Celsius, carries an IP68 rating and a three-year warranty, and, notably, restores power by hand rather than automatically.\n\nIt ranks fourth at $104.47, the lowest price here, which is $57.73 under the Progressive LCHW50 and $25.52 below the EyGde. Against the KIRFEIHT it saves $0.52 but lacks an app and requires a manual restore, which can be a real nuisance if power blips while you are away. It does have a temperature warning the app units do not mention.\n\nChoose it if you are on-site most of the time and want a display and a manual restore so the coach does not restart on its own. The caveat is that the title says reset while the body says manual restore, so confirm the behavior before buying.",
     "specs": [
       "20,000J, IP68",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uud8vaW0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQV5L8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQV5L8P?tag=rvgearlab-amz-20",
     "description": "The RVBASICS 50 amp unit calls itself an EMS: its circuit analyzer continuously reads voltage, current and frequency and can disconnect the rig when it sees dangerous conditions. The listing gives a 12,000 watt rating at 120/240V, 7,200 joules of surge protection with a 10,000 amp MOV maximum spike current, ETL listing, a Bluetooth app with alerts, a weather-resistant clear cover and an anti-theft ring for chain or cable locking.\n\nIt ranks fifth at $169.99, the highest here, $7.79 above the Progressive LCHW50 which names its faults more fully, and $65.00 above the KIRFEIHT. Its joule rating is a third of the KIRFEIHT's, and the lock ring is the feature that justifies the price for some owners. It is $50.00 above the Smart App 22000J, which adds remote cutoff and a stated window.\n\nPick this if theft at a busy pedestal is your main worry and you want a bundled lock ring with an app. The caveat is that at nearly $170 it is the least cost-effective way to buy surge energy or documented cutoff.",
     "specs": [
       "12,000W, 7,200J, ETL",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n-nzObR+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH4Q1RQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH4Q1RQB?tag=rvgearlab-amz-20",
     "description": "The EyGde 50 amp unit has a large LED display for amps, watts, kWh and voltage, a circuit analyzer with nine named fault lights including missing L1 125V and missing L2 125V, 9,900 joules of surge protection and a three-year warranty. Its listing says it checks voltage three times a second within 90 to 250 volts and shuts off power when voltage drops below 90 volts, and it states that there is no app, Bluetooth or WiFi.\n\nIt ranks last because its cutoff is stated at 90 volts, which is looser than the 104 volt floor listed for the Smart App 22000J, and it has no app, though it costs $10.00 more than that unit at $129.99. It is $25.52 above the GEARGO Smart 20000J, which gives up kWh tracking. It is $32.21 below the Progressive LCHW50, and its per-leg fault lights are a useful check on a 50 amp pedestal.\n\nChoose it if kilowatt-hour tracking and per-leg fault lights matter to you and you do not need an app. The caveat is the 90 volt shutoff, which lets a deep brownout reach the coach longer than the other units.",
     "specs": [
       "9,900J, kWh display",

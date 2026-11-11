@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AdKUpNPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H17D482M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H17D482M?tag=rvgearlab-amz-20",
     "description": "The REDIGOO is a 160W panel with a built-in dual-axis tracker that turns it through 360 degrees to follow the sun, plus monocrystalline cells rated up to 23 percent. It uses a four-panel foldable array, a 4-in-1 cable for Anderson, XT60-F, DC7909 and DC5521, and a 10-in-1 DC adapter set.\n\nAgainst the ALLPOWERS and EcoFlow, it is the only pick that aims itself, which helps when no one is around to adjust a panel through the day. The listing calls for five-minute tool-free deployment.\n\nIt suits van and car campers who leave a panel unattended while they hike or fish. A 12-month limited warranty is named.",
     "specs": [
       "160W, dual-axis tracker",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514OZ3GwnLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44PDV2T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44PDV2T?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS SE160 is a true 160W panel working at 18V and 8.89A, with 23 to 25 percent monocrystalline cells. It measures 46.24 by 31.61 by 0.39 inches unfolded and uses a seamless one-piece waterproof design.\n\nIt costs about a third of the EcoFlow and also fits 12V systems. The listing names the ALLPOWERS P300, R1500 LITE and S2000 PRO stations as pairs.\n\nIt suits budget buyers and ALLPOWERS station owners who want 160W for the least money. The thin profile unfolds into a large area.",
     "specs": [
       "160W, 18V, 8.89A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3184VsUgmEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3VCQV6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3VCQV6W?tag=rvgearlab-amz-20",
     "description": "The EcoFlow 160W uses N-type cells at 25 percent efficiency, weighs 12.3 lbs and carries an IP68 rating with an ETFE coating. A 30 to 60 degree adjustable bracket and a solar angle guide give a 40-second setup.\n\nIt is the only 160W with both a stated weight and an IP68 rating, and it costs the most. Against the REDIGOO it relies on a manual bracket, and compared with the ALLPOWERS it costs roughly three times as much.\n\nIt suits EcoFlow station owners who want a tough, light 160W matched to their gear. The angle guide takes the guesswork out of aiming.",
     "specs": [
       "160W N-type, 25%",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AMKDrlQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK3DQVBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK3DQVBR?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA 100W is a 100W N-type panel with 16BB cells at up to 25 percent efficiency. It weighs 8.81 lbs, folds to 21 by 23 inches and carries IP68 waterproofing, two brackets and a 78.74 inch MC4 cable with nine adapters.\n\nIt gives up 60 watts against the 160W panels and costs less than any of them. Compared with the EcoFlow, it adds a longer cable and a wider adapter pack at a quarter of the price.\n\nIt suits small station owners who find 160W more than they need. A 12-month warranty is named.",
     "specs": [
       "100W N-type, up to 25%",

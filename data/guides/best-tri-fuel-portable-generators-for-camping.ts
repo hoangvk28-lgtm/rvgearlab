@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PUKyYQc7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2VJ2FC8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2VJ2FC8?tag=rvgearlab-amz-20",
     "description": "The DuroStar DS13000MXT is a 13,000-watt tri fuel generator with a 500cc engine and remote electric start. The listing names a fuel selection knob, a transfer-switch-ready 50A outlet and a CO Alert that shuts it down when fumes are detected.\n\nIt costs about a third less than the DuroMax XP13000HXT at the same 13,000-watt and 500cc spec. Its listing is shorter on outlet detail than the DuroMax's, which is where the savings show.\n\nIt suits large-RV owners who want gas, propane and natural gas backup at home as well. The 50A outlet matches a big motorhome inlet.",
     "specs": [
       "13,000W, 500cc, tri fuel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oKExTypAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092CJQ51F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092CJQ51F?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP13000HXT is a 13,000-watt, 500cc tri fuel generator with push-button and remote start, a CO Alert and a fuel selection interface. The listing says the panel includes a transfer-switch-ready 50A outlet.\n\nIt matches the DuroStar DS13000MXT on 13,000 watts and engine size, and its listing names a wider outlet range. The Westinghouse units lean on tank size, while this one leans on start options.\n\nIt suits camp organizers and motorhome owners who start the generator from a distance. It doubles as whole-home backup.",
     "specs": [
       "13,000W, 500cc, tri fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NFkbMy58L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP2QCSZQ?tag=rvgearlab-amz-20",
     "description": "The Generac 12,500 delivers 9,500 running and 12,500 starting watts, with a 500cc engine, automatic voltage regulation, COsense carbon monoxide shutdown and electric start. A 7.5-gallon tank runs up to 9.5 hours at 50% load or 14 hours at 25% load.\n\nIts automatic voltage regulation steadies output for motor loads, which the DuroStar and DuroMax listings do not name. It has fewer running watts than the GENMAX 15000.\n\nIt suits campers with a large trailer who want a known brand and an active CO sensor. Gasoline, propane and natural gas switch with a dial.",
     "specs": [
       "9,500W running, 12,500W starting",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K7NLlEX5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLH9RBYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLH9RBYD?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 14500 produces 11,500 running watts on gasoline, 10,500 on propane and 9,500 on natural gas, from a 550cc engine. The listing quotes up to 19 hours on a 9.5-gallon tank, remote electric start and a 3-year limited warranty.\n\nIt lists a 9.5-gallon tank and up to 19 hours, a runtime figure the DuroMax and DuroStar listings do not quote. It sits below the 20,000-watt Westinghouse in size and price.\n\nIt suits base-camp operators who want long runs between refuels. It also works as transfer-switch-ready home backup.",
     "specs": [
       "11,500W gas, 10,500W propane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wCwvjbDvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJ94XTN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJ94XTN?tag=rvgearlab-amz-20",
     "description": "The GENMAX 15000 provides 11,000 rated and 15,000 peak watts with a 10.56-gallon tank, a CO sensor, ATS and a digital display. A 50A output, a DC cigarette lighter outlet, an LED rope light and a 3-year warranty with lifetime technical support are listed.\n\nIt lists the biggest tank of the mid-size units and a higher peak than the Westinghouse 14500 Tri, with a CO sensor and ATS named. It costs more than the 13,000-watt units.\n\nIt suits large-rig owners who want an automatic transfer option and a digital readout. The rope light helps at a dark camp.",
     "specs": [
       "11,000W rated, 15,000W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qVxvQow0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQN51MQB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQN51MQB?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 28000 produces 20,000 running and 28,000 peak watts on gasoline, 18,000 on propane and 16,000 on natural gas, using a 999cc V-Twin engine. It has two 50A outlets, two 30A L14-30R outlets and a 125A terminal block for hardwiring.\n\nIt has far more running watts than any other pick, 20,000 against about 11,500 for the next unit, and the only 125A hardwire option. The Westinghouse 14500 Tri and the 13,000-watt units sit well below it.\n\nIt suits event organizers and farm or ranch camps running multiple rigs. It is also a whole-home standby option with an electrician.",
     "specs": [
       "20,000W running, 999cc V-Twin",

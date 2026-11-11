@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pBN+5jfCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001O02TK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001O02TK4?tag=rvgearlab-amz-20",
     "description": "The Kodiak Flex-Bow Deluxe is a 10 ft by 10 ft, 6-person tent in Hydra-Shield 100 percent cotton duck canvas that is durable, watertight and breathable. It has a 6 ft 6 in ceiling, two D-shaped doors with YKK zippers, four no-see-um mesh windows and a Flex-Bow frame that one person can set up.\n\nIt costs less than the Cabin Lodge and offers a quick single-person pitch. Bell tents use a center pole, while this one stands on a flex-bow frame with straight walls.\n\nIt suits campers who want a serious canvas tent without a huge investment. The frame keeps the fabric taut.",
     "specs": [
       "10 x 10 ft, 6.5 ft ceiling",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iCmC9bdAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-amz-20",
     "description": "The Kodiak Cabin Lodge SR is a 12 ft by 12 ft tent with a 7.5 ft peak and vertical walls. It uses Hydra-Shield cotton duck, a 13.5 oz vinyl sewn-in welded floor, a 5 inch stove jack, 6 no-see-um windows and 2 vents, and a galvanized 1-inch steel frame.\n\nIts price tops this group, and it holds up to 8 people (4 when using a stove). Next to the Flex-Bow it adds a stove jack and a steel frame.\n\nIt suits families who want a long-term, stove-ready canvas lodge. The vents can stay open during rain.",
     "specs": [
       "12x12 ft, 7.5 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cE0xEHinL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MZQ7BH2?tag=rvgearlab-amz-20",
     "description": "The WHITEDUCK Regatta is a bell tent in breathable performance canvas with a PFC-free water-repellent finish and an arctic-ready stove jack. The kit adds a sewn-in groundsheet, mesh windows, roof vents, poles, a tool kit and a weatherproof bag, and the standard wall height is 2 ft 7 in.\n\nThe price is below either Kodiak, and the sidewall is higher than on many bell tents. Against the WildFinder it has a brand history in bell tents.\n\nIt suits glampers who want a full package. Two-layer doors and windows add weather cover, and an electrical outlet is built in.",
     "specs": [
       "Performance canvas bell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder bell tent has 55 inch vertical sidewalls and a 9.2 ft peak. It uses a 210G TC cotton roof for lower condensation, has 8 mesh windows and doors, a removable floor and a pre-installed stove jack.\n\nIt is the largest tent here and costs well under the Kodiak Cabin Lodge. Against the WHITEDUCK it has a bigger footprint and uses TC cotton on the roof.\n\nIt suits groups that want a yurt-style bell tent with room to stand. A positioning sheet helps align the pegs.",
     "specs": [
       "16.5 ft, 9.2 ft peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ahVWjmrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer bell tent is 4 m across with an 8.2 ft top height and a 5 ft door. It uses polycotton canvas, double-layer windows, a pre-cut chimney opening for a stove and a removable floor, and fits 4 to 5 people.\n\nIt is the second-cheapest tent here and has a pre-cut chimney opening. Against the VEVOR it holds more people at a higher price.\n\nIt suits families who want a roomy bell tent on a modest budget. The listing is open that the fabric has no PU coating.",
     "specs": [
       "4 m diameter, 8.2 ft top",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bHi72LDfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H32WC7RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H32WC7RT?tag=rvgearlab-amz-20",
     "description": "The VEVOR bell tent is 9.84 ft across with a 6.6 ft peak and fits 2 to 3 people. It uses thickened poly-cotton canvas, reinforced stitching and galvanized metal poles, with mesh windows, top vents, a stove jack and a silicone fire mat.\n\nIt is the cheapest tent here and the smallest. Against the WaldZimmer it holds fewer people.\n\nIt suits couples who want to try a bell tent. The kit comes with stakes, guy lines and a PVC groundsheet.",
     "specs": [
       "9.84 ft, 6.6 ft peak",

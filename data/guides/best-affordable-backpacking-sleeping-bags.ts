@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BG+Vm+T2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-amz-20",
     "description": "The BORULL Lightweight is a 79 by 30 inch bag weighing 1.5 lb that packs to 7.9 inches, with a comfort range of 50 to 77 degrees F and washable continuous insulation. Its listed length suits sleepers up to 6 ft 7 in.\n\nIt is lighter than the ECOOPRO at 1.7 lb and the cheapest bag here. No other pick is both long and light.\n\nIt suits tall, weight-conscious hikers on warm trips. The 30 inch width is narrow.",
     "specs": [
       "1.5 lb, packs to 7.9 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tcAT1tVPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084RPJJQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084RPJJQD?tag=rvgearlab-amz-20",
     "description": "The ECOOPRO is an envelope bag measuring 83 by 30 inches, weighing 1.7 lb and compressing to 11 inches in height, with a nylon shell and 100 percent polyester lining. The listing says it keeps temperatures from 55 to 60 degrees F.\n\nIt is slightly heavier than the BORULL and packs a little larger, yet it costs only a few dollars more. Two near-identical listings were merged.\n\nIt suits warm-night hikers and scouts who want a light envelope. It is a summer bag.",
     "specs": [
       "83 x 30 inch envelope",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "Rated for 50 to 77 degrees F, the MalloMe suits adults up to 6 ft and carries a wipe-clean waterproof shell. The fabric can go in a washing machine, and the double-sided zippers are snag-free.\n\nAt about 3 lb, it is roughly twice the BORULL's weight, and it costs a little more. A headrest drawstring and a mixed adult-and-kids fit round it out.\n\nIt suits casual hikers and families on warm nights. A serious backpacker will notice the weight.",
     "specs": [
       "50 to 77F rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oGHWPdapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896X17S5?tag=rvgearlab-amz-20",
     "description": "Priced near the top of this group, the VENTURE 4TH XXL lists a 30 to 70 degree F range with a water-resistant polyester shell and anti-snag zippers. It packs into a compression sack and has a lifetime replacement guarantee.\n\nIts printed range reaches the coldest point of the five, and the 90 by 39 inch cut gives the most room. It costs more than the lightweight bags.\n\nIt suits tall hikers who need one affordable bag for shoulder seasons. It is machine washable.",
     "specs": [
       "30 to 70F stated range",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "The OneTigris Bushcrafter is a mummy bag rated 46 to 59 degrees F, with a 300T shell, YKK zippers, a cord-stopped hood and a 6.8 by 2.7 foot cut. Its fill is polycotton.\n\nThis is the sturdiest build in the set and also the priciest. The shell is water-repellent, and the zippers are anti-snag.\n\nIt suits bushcraft and survival campers who value a rugged shell over weight. It is not a winter bag.",
     "specs": [
       "Mummy, 46 to 59F rated",

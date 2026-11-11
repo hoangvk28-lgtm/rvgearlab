@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lM9bTxc-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09256L6JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09256L6JT?tag=rvgearlab-amz-20",
     "description": "The GRAYL GeoPress presses 24 oz (710 ml) of water through a cartridge with no pump, hose or battery. The listing names viruses such as rotavirus and hepatitis A, bacteria such as E. coli and protozoa such as giardia among what it removes.\n\nNo other bottle here lists viruses, and the page adds that it adsorbs PFAS, pesticides and heavy metals. Next to the Katadyn BeFree AC, it is rigid and treats less per fill, and its cartridge is rated for 65 gallons, about 250 liters.\n\nIt suits hikers who drink from questionable sources and travelers who want a purifier in bottle form. Press and drink.",
     "specs": [
       "Purifier: viruses, bacteria, protozoa",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ldfq7OnDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT9J7MBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT9J7MBC?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree AC is a collapsible one-liter bottle with a two-stage filter that removes sediment, fine particles and microplastics, plus an activated carbon stage that reduces chlorine and odors. The carbon stage is removable for faster flow in clear backcountry water.\n\nCompared with the GRAYL, it holds a full liter and packs flat with a flip cap and integrated carabiner handle. It cleans by shaking or swishing in water, with no backflushing or tools.\n\nIt suits solo hikers and travelers who want to improve both stream and tap water. The modular carbon stage adapts to the source.",
     "specs": [
       "1 liter collapsible bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iDbQRWnDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQCFV3PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQCFV3PC?tag=rvgearlab-amz-20",
     "description": "The Bachgold Squeeze is a folding bottle from Switzerland with a nanofiber adsorption layer behind a hollow fiber membrane of 0.2 micron. The page says it folds to pocket size, restores flow by rinsing and needs no replacement cartridge.\n\nCheapest here, it is also the sole bottle making a pocket-size claim. Against the BeFree AC, its pores are coarser and its page prints no flow or lifespan figures.\n\nIt suits first-time hikers who want the lowest-cost folding filter. It tucks away easily.",
     "specs": [
       "Nanofiber layer plus hollow fiber",

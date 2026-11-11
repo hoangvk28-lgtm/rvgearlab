@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319X7igU8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW-EXT is a goose down bag with RDS-certified down, a 10D nylon shell and a PFAS-free fabric. The medium weighs 0.94 pounds and the large 1.09 pounds, including the stuff sack.\n\nIt is the lightest bag here by a wide margin, well below the TETON Trailhead and the iClimb. Against the budget synthetic bags, it also unfolds into a down blanket and can layer inside a bigger bag.\n\nIt suits weight-focused backpackers who sleep warm and layer with clothes. It makes the pack lighter than any other pick.",
     "specs": [
       "0.94 lb medium, 1.09 lb large",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314RTLt2LnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0744D97JR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0744D97JR?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead is a 20 degree mummy with microfiber insulation, a roomy footbox, a zipper draft tube and a soft liner. A stuff sack and hang loops come included.\n\nCompared with the Naturehike CW-EXT, it carries more fill and a real cold rating, so it handles cooler nights. Against the iClimb, it is a more traditional mummy with a draft tube.\n\nIt suits budget backpackers who need a bag for 30s nights. The anti-snag zipper closes from inside or out.",
     "specs": [
       "20 degree rated mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FuMIHeXuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZQQWLYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZQQWLYM?tag=rvgearlab-amz-20",
     "description": "The iClimb uses 3M Thinsulate insulation in a 41°F mummy that weighs 2.4 pounds and packs to 10.6 by 7.9 inches. It has a 20D nylon shell, a double-layer build, a draft collar and a pillow sleeve.\n\nCompared with the Naturehike envelope bag, it is a mummy with a draft collar and a pillow sleeve. Against the TETON Trailhead, it is lighter and packs smaller, at a milder rating.\n\nIt suits backpackers who want a three-season bag with a middle weight. A stuff sack comes included.",
     "specs": [
       "41°F mummy, 2.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfBY+ln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-amz-20",
     "description": "The Naturehike envelope bag weighs 1.68 pounds and compresses to about 5 by 12 inches. It is 80.7 by 33.5 inches, rated 59°F to 32°F, and filled with 80 grams per square meter of imitation silk cotton.\n\nIt is roomier than the NewDoar and REDCAMP while sitting just above the 1.5 pound bags in weight. Against the iClimb, it is an unfussy rectangle that is simple to get in and out of.\n\nIt suits backpackers who dislike mummy bags and want room to turn over. The listing says it washes easily.",
     "specs": [
       "1.68 lb, 80.7 x 33.5 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "The NewDoar bag weighs 1.5 pounds and packs to 11.8 by 6.5 inches, with a 380T ripstop nylon shell. It is listed for 50°F to 70°F and has 2-way zippers that link two bags into a double.\n\nCompared with the REDCAMP, it names a packed size and adds a heavy-duty compression sack. Against the Naturehike CW-EXT, it is heavier and plain about its warm weather range.\n\nIt suits summer backpackers and couples who want to zip two bags together. The bag also unzips into a blanket.",
     "specs": [
       "1.5 lb, packs to 11.8 x 6.5 inches",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41noU-ipmKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MTXKG32?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MTXKG32?tag=rvgearlab-amz-20",
     "description": "The REDCAMP bag is 75 by 33 inches, weighs 1.5 pounds, and has an internal stuff pocket and a compressed oxford sack. The listing gives a comfortable 68°F and a 59°F to 77°F range, with a reverse 2-way zipper.\n\nCompared with the NewDoar, it is a bit shorter at 75 inches and priced lower. Against the Naturehike envelope, it matches the weight at a lighter price.\n\nIt suits budget backpackers who sleep in summer heat and want a quilt-style bag. The reverse zipper lets it join a second bag.",
     "specs": [
       "1.5 lb, 75 x 33 inches",

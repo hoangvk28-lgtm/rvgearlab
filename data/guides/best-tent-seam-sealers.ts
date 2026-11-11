@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I4JxnghNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08C36LMG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08C36LMG7?tag=rvgearlab-amz-20",
     "description": "Gear Aid Seam Grip TF is a water-based formula in a 4 fl oz bottle that seals up to 85 sq ft of nylon tent floors, rainflies and tarps. It was previously sold as Tent Sure and dries to a nearly invisible, flexible coating.\n\nIt is the only pick that also restores flaking or sticky polyurethane coatings, which goes beyond the seam-only glue of the other four. Compared with the INNOVAYOU it is a spread-on sealer rather than a tube adhesive.\n\nIt suits campers with an older nylon tent whose floor or fly coating is peeling. Water-based cleanup makes it easier to use than solvent products.",
     "specs": [
       "4 fl oz, up to 85 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T-bSfpI8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWSTF67J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWSTF67J?tag=rvgearlab-amz-20",
     "description": "The AmazingSpark kit has two 1.7 oz tubes, 3.4 oz in all, and two applicator brushes. It is clear and flexible, dries within 15 minutes and is usable within a day.\n\nIt has the fastest stated dry time of the five and the lowest price. Compared with the WAN2TLK it gives less total volume and a quicker cure.\n\nIt suits campers who want a cheap fix for dripping seams on nylon tarps, shelters and rainwear. Squeezing then brushing the tube spreads it into a thin film.",
     "specs": [
       "Two 1.7 oz tubes, brushes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DuXgrJ-AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HQ6DWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HQ6DWY?tag=rvgearlab-amz-20",
     "description": "The WAN2TLK includes two 60 ml bottles and an applicator stick, with a precision needle tip and a needle in the cap to keep the glue from clogging. It is positioned for tears, rips, cracks and leaks in tents, tarps and awnings.\n\nIt has the most volume of the generic kits and a stick for spreading. Compared with the AmazingSpark it carries more product, and compared with the 1DFAUL it adds the stick.\n\nIt suits campers repairing small tears as well as seams. The tip allows pinpoint application on tight stitches.",
     "specs": [
       "Two 60 ml bottles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uX+cxQ56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVZNLWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVZNLWG?tag=rvgearlab-amz-20",
     "description": "The 1DFAUL 120 ml sealer comes with an adhesive patch and brushes, and it dries transparent without peeling or cracking. The listing says to apply it evenly to the inside and outside seams.\n\nIt adds a patch for larger holes, which the INNOVAYOU and AmazingSpark do not mention. Compared with the WAN2TLK it adds a patch in place of a stick.\n\nIt suits campers who want one kit for seams and a small hole. It bonds nylon, polyester and canvas, per the listing.",
     "specs": [
       "120 ml sealer, patch, brushes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417bSa9DXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F212FZ1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F212FZ1W?tag=rvgearlab-amz-20",
     "description": "The INNOVAYOU is a clear gel in a tube with a precision open needle top, positioned as an alternative to needle and thread. The listing says to clamp the repair and wait 24 hours.\n\nIt is aimed at repairs more than broad seam coating, so it suits fixes like a ripped seam. Compared with the Gear Aid it is an adhesive for small areas, not a spread-on coating.\n\nIt suits campers who need to glue a split seam or small fabric damage. It also lists cotton, denim, leather, polyester and nylon.",
     "specs": [
       "120 ml clear gel",

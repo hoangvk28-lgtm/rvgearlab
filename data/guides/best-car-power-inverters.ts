@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41akEgZqJKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKQYJ6QM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKQYJ6QM?tag=rvgearlab-amz-20",
     "description": "The FT feiteeng lists 1000W continuous and 2000W surge as pure sine wave, with up to 95 percent conversion efficiency. An LED screen shows input and output voltage and real-time protection, with a fault-code system for problems.\n\nIt is the only pick that combines a pure sine claim with a diagnostic readout. Compared with the OLTEANP it adds the fault-code system, and against the POWERFUEL it trades extra outlets for cleaner power.\n\nIt suits campers and tradespeople who run sensitive gear from a vehicle battery. Six protections are listed, including reverse polarity.",
     "specs": [
       "1000W pure sine, 2000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iXQ6oro1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8T8Q92V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8T8Q92V?tag=rvgearlab-amz-20",
     "description": "The OLTEANP supplies 1000W continuous and 2000W peak, with two AC outlets, a 36W USB-C port and a fast USB port. An LCD shows voltage and protection codes such as overload and high voltage.\n\nIt is cheaper than the FT feiteeng and has a USB-C port the FT lacks. Compared with the POWERFUEL it provides continuous watts rather than a peak-only figure.\n\nIt suits road trips, truck sleeping and tailgating, which the listing names. Six safety protections and temperature-controlled cooling are standard.",
     "specs": [
       "1000W continuous, 2000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SS4qlb34L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVHGJ418?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVHGJ418?tag=rvgearlab-amz-20",
     "description": "The POWERFUEL lists 1200W peak with three AC outlets, one Type-C and three USB ports. It has a temperature-controlled fan, a real-time LCD and a six-way protection set.\n\nIt has the most ports of the five. The listing also names deep-cycle battery connection to power lights, routers and fans, which sets it apart from the plug-ins.\n\nIt suits families who charge many devices at once on a road trip. The figure is a peak rating, so check the continuous number before loading it.",
     "specs": [
       "1200W peak, 3 AC outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y6bTcKOLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKTTYHCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKTTYHCK?tag=rvgearlab-amz-20",
     "description": "The BESTEK gives 400W through dual 110V AC outlets plus a 30W PD USB-C and a QC 3.0 USB-A port in an iPhone-sized body. A 40 amp fuse and ETL certification are listed.\n\nIt is the only certified plug-in here and the least complex to set up. Compared with the DrimMek it has more output and a named fuse.\n\nIt suits drivers who charge laptops, tablets and cameras from the console. The 32-pin plug cord is long enough for most seats.",
     "specs": [
       "400W, dual AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xYWZ79ZYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D69KNQSJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D69KNQSJ?tag=rvgearlab-amz-20",
     "description": "The DrimMek is a compact 300W plug-in with multiple ports, a quiet fan and overload and short-circuit protection. It is built to sit in a glove box or console.\n\nIt is the cheapest option in this list. Compared with the BESTEK it has lower output and no named fuse.\n\nIt suits occasional travelers who charge a laptop or phone. A one-year replacement-only guarantee is listed.",
     "specs": [
       "300W, multi-port",

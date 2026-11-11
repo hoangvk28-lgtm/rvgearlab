@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HPhgBraUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VDC8LN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VDC8LN?tag=rvgearlab-amz-20",
     "description": "The RVMasking is a 37-40 ft cover in 9-layer non-woven fabric with 4% anti-UV composite, two over-roof straps and an extra-long horizontal strap that wraps the bottom to block wind. It has eight reinforced corner patches and three zippered roll-up side panels plus a rear zipper panel.\n\nCompared with the Umbrauto, it includes four tire covers and a propane tank cover, and it adds three zippered roll-up side panels. It suits owners with a full 38 ft rig that has tongue and ladder overhang.",
     "specs": [
       "37 to 40 ft range",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dxyD54URL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2RLG2X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2RLG2X1?tag=rvgearlab-amz-20",
     "description": "The Umbrauto is a 38-40 ft cover made from bi-component 9-layer fabric with 30% enhanced tear resistance and a UPF50+ rating. The fabric achieves a 20% weight and 25% volume reduction, with six vents and a soft-touch face that protects paint.\n\nAgainst the RVMasking, it is lighter to lift and compact to store, and it rates sun-block with a UPF number. It suits owners who handle the cover alone and park in strong sun.",
     "specs": [
       "38 to 40 ft range",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E0cWDGydL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7B2B5MX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7B2B5MX?tag=rvgearlab-amz-20",
     "description": "The Somokg 35-38 ft cover has 9-layer fabric with 35% enhanced tear resistance, a widened front panel for wind pulling forces, six vents and a sewn-in front label. Its kit includes five bottom straps, two extra-long straps, six gutter covers, a ladder cover and a tongue jack cover.\n\nNext to the Xenjum, the toss bag and front label guide one-person setup, and it costs a bit more for that. It suits owners of 36 to 38 ft trailers who want the full accessory pack.",
     "specs": [
       "35 to 38 ft range",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xkK44tKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7X9PGFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7X9PGFY?tag=rvgearlab-amz-20",
     "description": "The Xenjum 35-38 ft cover uses 9-layer fabric with a widened curved front panel, five bottom straps and two extra-long straps. Six vents and three zipper doors give breathability and access, and a throw bag helps secure straps underneath.\n\nIt matches the Somokg on strap count and costs almost the same, adding the three zipper doors in the headline. It suits owners who need to reach the door during storage.",
     "specs": [
       "35 to 38 ft range",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eufQEI4OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYMM8XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYMM8XK?tag=rvgearlab-amz-20",
     "description": "The VINPATIO uses a 9-ply top with a built-in waterproof membrane, an additional UV-resistant coating, and a 100% waterproof PU coating rated 2000mm. Windproof straps, a kit of accessories and reflective strips on front and back are included.\n\nIt is the lowest-priced 9-layer pick for a 35-38 ft cover, and it publishes a 2000mm waterproof rating that the Xenjum and Somokg do not. It suits budget buyers who want weather numbers on paper.",
     "specs": [
       "35 to 38 ft range",

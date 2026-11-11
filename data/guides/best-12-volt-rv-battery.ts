@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r-fMH1IVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6TCW9TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6TCW9TM?tag=rvgearlab-amz-20",
     "description": "The Lithova is a 12.8V 100Ah lithium iron phosphate battery in the BCI Group 24 size, the case size most RV owners recognize from lead-acid house batteries. The listing claims over 4,000 deep cycles at 100 percent depth of discharge and 6,000 at 80 percent, a smart BMS that balances cells and protects against overcharge, and expansion from 1.28kWh to a maximum 20.48kWh with 16 identical units wired 4P4S.\n\nIt ranks first because it is the lowest-cost way to get a proper house battery in a standard tray. At $149.99 it costs $161.10 less than the Litime Group 24 and $80 less than the Mighty Max G27M for the same 100Ah, and by our 80 percent estimate it works out near $147 per usable kilowatt-hour. It gives up Bluetooth, which the Litime offers, and it is a house battery only, unlike the dual-purpose AGM units below.\n\nPick it if you are replacing a Group 24 lead-acid house battery and want lithium on a budget. The caveat is that the listing excerpt does not give a cold-charge cutoff or a weight, so confirm those with the seller if the battery lives in an unheated bay.",
     "specs": [
       "Group 24, 12.8V 100Ah",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XkgRchGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-amz-20",
     "description": "The Vatrer is a 12V 300Ah lithium iron phosphate battery with a built-in 200A battery management system and a low-temperature cutoff. The listing says it uses automotive-grade cells, offers 5,000 plus cycles versus 300 to 500 for lead-acid, and has no acid, so it can be mounted in any position. At 12.8V it stores about 3,840Wh nominal.\n\nIt ranks second because it is the only pick that replaces an entire multi-battery bank. At $539.99 it costs $390 more than the Lithova, but it holds three times the energy for 3.6 times the price, so its estimated cost per usable kilowatt-hour is about $176, higher than the Lithova's $147 but far below the Litime Group 24. It does not fit a Group 24 tray and is much bigger and heavier than the 100Ah picks.\n\nChoose it when a big fridge, an inverter and a few days off-grid are the plan, and you have a bay that can hold a large battery. The caveat is that a single large battery is one point of failure, and the 200A BMS caps output near 2,500 watts.",
     "specs": [
       "12V 300Ah, 200A BMS",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLYCRMdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-amz-20",
     "description": "The Litime Group 24 is a 12V 100Ah lithium battery weighing 21.9 pounds, which the listing calls 35 percent smaller than lead-acid. It has Bluetooth 5.0 with an app, a 100A BMS with more than 20 safeguards, low-temperature cutoff that stops charging at freezing, and a claim of 4,000 plus cycles. It supports 4P4S expansion up to 20.48kWh.\n\nIt ranks third because it is the Lithova with an app and a known brand name at $161.10 more, giving about $304 per usable kilowatt-hour against about $147. It undercuts the Mighty Max G27M on cost per usable energy by roughly $80 per kilowatt-hour while storing nearly twice the usable energy. The Vatrer is cheaper per usable kilowatt-hour but needs far more space.\n\nChoose it if you want the standard Group 24 fit plus an app that shows charge level and the cold-weather protection stated in writing. The caveat is the price premium over the Lithova, so skip it if you already own a shunt-based monitor.",
     "specs": [
       "Group 24, 21.9 lb",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UFwbwCKDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G27M is a 12V 100Ah dual-purpose AGM in the Group 27M case, with 80 cold cranking amps, 850 cranking amps and 850 marine cranking amps. The listing claims up to 700 cycles at 50 percent depth of discharge and describes a sealed AGM build for marine, road and off-grid use. At 1,200Wh nominal it stores 600Wh usable at a 50 percent limit.\n\nIt ranks fourth because lead-acid costs more per usable watt-hour. At $229.99 it costs $80 more than the Lithova yet yields about 600Wh usable against 1,024Wh, so its estimated cost is roughly $383 per kilowatt-hour. It is $55 cheaper than the Interstate Group 31 for the same 100Ah, with a much lower cranking rating, since 80 CCA is modest next to the Interstate's 925.\n\nPick it for a Group 27M tray, a lead-acid-only converter or a rig where the same battery sometimes runs a small trolling or generator load. The caveat is the low 80 CCA figure, so it is not the battery to rely on for starting a large engine.",
     "specs": [
       "Group 27M, 12V 100Ah",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zt+XjvDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-amz-20",
     "description": "The Interstate 31-AGM5 is a Group 31 AGM rated 12V 100Ah with 925 cold cranking amps and 1,110 cranking amps. The listing describes thick plates built to discharge continuously and recharge many times, a service life it says is three times that of flooded batteries and two times that of alloyed AGM, and it is sold for both marine and RV use.\n\nIt ranks fifth because the high cranking rating is paid for. At $284.95 it costs $55.04 less than the Optima D34M and $54.96 more than the Mighty Max G27M for the same 100Ah. Against the Lithova, it costs $135 more and delivers about 600Wh usable instead of 1,024Wh. What it gives you is the ability to start a big engine and still cycle, which none of the lithium picks claim.\n\nPick it when one Group 31 battery must crank a diesel or large gas engine and run house loads on a short trip. The caveat is that for house-only duty you are paying about $475 per usable kilowatt-hour for cranking power you will rarely use.",
     "specs": [
       "Group 31, 12V 100Ah",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41unK8zUNQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00075OSCO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00075OSCO?tag=rvgearlab-amz-20",
     "description": "The Optima D34M BlueTop is a dual-purpose sealed AGM measuring 10.06 by 6.88 by 7.94 inches and weighing 43.5 pounds. Its listing gives 750 cold cranking amps, 870 marine cranking amps, a 55Ah C20 capacity and 120 minutes of reserve capacity, with dual SAE and stainless stud posts and spiral cell construction made with 99.99 percent pure lead.\n\nIt ranks last for house duty because 55Ah is only 660Wh nominal and about 330Wh usable at a 50 percent limit, at $339.99, or roughly $1,030 per usable kilowatt-hour. It costs $55.04 more than the Interstate G31 and carries about half the capacity. What it offers is compact size and strong cranking power in a battery rated as more vibration-resistant than standard flooded types.\n\nPick it as a starting battery for a motorhome chassis or as a small auxiliary battery where size matters. The caveat is that it is the wrong battery for a house bank, as it will run out of energy quickly.",
     "specs": [
       "Group 34M, 750 CCA",

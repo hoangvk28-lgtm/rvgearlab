@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fKxchcDGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK7PWPFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK7PWPFQ?tag=rvgearlab-amz-20",
     "description": "NEMO's Jazz uses 100% recycled Stratofiber synthetic insulation in an overfilled quilt with a featherbed-style bottom. The 50D DWR-treated shell and taffeta liner are recycled polyester, and a removable machine-washable sheet comes with it.\n\nA blanket-fold draft collar and double zipper pulls on both sides let each sleeper vent their own feet and upper body. That individual control is more refined than anything on the Kelty Doublewide 20F or the MHTD Canvas Double.\n\nA great fit for couples who want a home-bed feel at the campsite and will pay for it. The zippers on both sides also let two bags join together.",
     "specs": [
       "Recycled Stratofiber synthetic fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FWd4s1M3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-amz-20",
     "description": "Kelty's Tru.Comfort Doublewide is a 20F double built with Cloud Loft synthetic insulation, 64 inches of shoulder room and an 84 inch length. The listing adds a detachable top layer, a pair of blankets sewn in, foot vents and a big hood.\n\nIt prints the lowest temperature rating among the named-synthetic bags, ahead of the MHTD Canvas Double's 14 to 46F SGS range in daily warmth terms and well below the AGEMORE Flannel Double. Each sleeper manages their own airflow.\n\nBest for couples who camp into colder fall nights and want separate controls. The zip-off top layer converts it into a lighter bag for warm weather.",
     "specs": [
       "20F synthetic double",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EC5rl163L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKGN26XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKGN26XK?tag=rvgearlab-amz-20",
     "description": "MHTD wraps hollow synthetic insulation in a water-resistant cotton canvas shell with a graphene polyester pongee interior. The listing prints 8.8 lb, a compressed size of 17.3 x 14.4 x 7.5 inches, and an SGS-certified range of 14 to 46F.\n\nThat is a rare amount of printed detail, since the Kelty Doublewide 20F and NEMO Jazz Double leave out weight. It opens to 90.6 x 57 inches with double-headed YKK zippers for two-way ventilation.\n\nA smart choice for couples who care about a certified range and a known weight. The canvas shell holds up to rough ground.",
     "specs": [
       "8.8 lb, compresses to 17 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jFot28IYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43QK29X?tag=rvgearlab-amz-20",
     "description": "AGEMORE puts brushed flannel cotton inside a 210T water-resistant polyester shell and states a 41 to 59F design range. Zippers on both sides let it act as one extra-large bag or two singles, and it compresses into a carry bag.\n\nIt costs well under the Kelty Doublewide 20F and NEMO Jazz Double, and it adds a softer feel than the MHTD Canvas Double. The listing describes it as lightweight and compact, aimed at backpacking, camping and biking.\n\nA good fit for couples on mild three-season nights. The soft lining and low price suit casual weekends.",
     "specs": [
       "41 to 59F design range",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AO2TXCLuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVBW3KH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVBW3KH?tag=rvgearlab-amz-20",
     "description": "BORULL sizes this double at 92 x 63 inches, fits sleepers up to 7 feet, and lists a 40 to 65F comfort range with a 30F limit. Two pillows, a hood with an adjustment, snag-resistant zippers and a compression sack are in the box.\n\nIt is the biggest bag here and the lowest-priced, beating the AGEMORE Flannel Double on room and the Kelty Doublewide 20F on cost. It unzips flat into a queen-size blanket or splits into two singles and is machine washable.\n\nFits tall couples and plus-size sleepers who want space. A couple of extras make it easy for casual car camping.",
     "specs": [
       "92 x 63 inch queen",

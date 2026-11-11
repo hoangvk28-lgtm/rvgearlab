@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vL8HVZcIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJ7J5L?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Repair Kit bundles a 5 gallon water-based elastomeric roof coating with 1 gallon of EPDM primer, a 32 ounce cleaner, non-sag and self-leveling lap sealants, seam tape, a seam roller and gloves. The listing describes it as for EPDM and TPO roofs.\n\nAgainst the Liquid Rubber 1 gallon, it brings everything for the whole job in one box. Against the Rust-Oleum 5 gallon, it adds primer, cleaner and seam supplies the pail does not include.\n\nBest for a first-time DIYer with an EPDM or TPO roof who wants everything in one order. The complete list means fewer trips to the store mid-project.",
     "specs": [
       "5 gal coating, 1 gal primer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SPnIYmiNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-amz-20",
     "description": "The Rust-Oleum 710 Elastomeric Roof Coating is a 5 gallon white pail. The listing gives 84 percent initial reflectivity, 74 percent weathered reflectivity and rain resistance in 6 hours.\n\nCompared with the BEEST Kit, it is only the coating, so you buy the cleaner and primer separately for a lower price on coating. Compared with the 1 gallon options, it spreads the cost over a bigger pail.\n\nBest for larger roofs or owners who already own the cleaner and tools. The reflectivity numbers help buyers who want a cooler roof.",
     "specs": [
       "5 gallon white pail",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3hay2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV Roof Sealant is a 1 gallon white elastomeric coating listed for EPDM, TPO, fiberglass and aluminum roofs, skylights, vent covers and awning parts. It is sold as part of a 3-step system with a Liquid Rubber cleaner, EPDM and TPO primer and the coating.\n\nAgainst the Ziollo, it names more roof types and a matching primer and cleaner. Against the BEEST Kit, it is a single gallon you add to, with a stated weekend project time.\n\nBest for owners who want to follow a documented 3-step system. The multiple substrates suit mixed roofs and trims.",
     "specs": [
       "1 gallon white coating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PxbmOjHAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0877DWQCX?tag=rvgearlab-amz-20",
     "description": "The Ziollo RV Roof Sealant is a 100 percent silicone liquid rubber with a self-leveling formula. The listing says the reflective white coating lowers interior temperatures by up to 15 degrees F and is built to flex from hot desert to cold winters.\n\nAgainst the Liquid Rubber 1 Gal, it uses a silicone chemistry and offers add-on cleaner and paintable seam tape. Against the SENVEN 1 Gal, it names a temperature-reduction figure and a full companion system.\n\nBest for owners who want a silicone coating and a cooler cabin. Its full system includes a roof cleaner and seam tape.",
     "specs": [
       "100% silicone, self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Q1xbnjysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9BD9DW9?tag=rvgearlab-amz-20",
     "description": "The SENVEN RV Roof Sealant is a 1 gallon white elastomeric coating that rolls on like paint. The listing says apply 1 gallon per 50 square feet and that a 5 gallon pail covers a 30 foot RV.\n\nCompared with the Liquid Rubber 1 Gal, it lists similar EPDM, TPO, fiberglass and aluminum use at a lower price. Compared with the Fuchoi 1 Gal, it gives a clearer coverage rule of 50 square feet per gallon.\n\nBest for small repairs and budget touch-ups. The coverage rule helps you calculate how many gallons to buy.",
     "specs": [
       "1 gallon white coating",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515v1XgsHUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYRQNYB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYRQNYB6?tag=rvgearlab-amz-20",
     "description": "The Fuchoi Liquid RV Roof Coating is a 1 gallon white silicone coating with a one-thick-coat approach of 1 to 2 mm dry film covering up to 50 square feet. The listing says no primer is needed and allows 4 to 8 hours between coats.\n\nAgainst the SENVEN 1 Gal, it states a dry film thickness and a recoat window. Against the Ziollo Silicone, it lists a no-primer approach and wider substrates including wood, concrete and aged rubber.\n\nBest for owners who want fewer steps. It suits trailers, camper vans and motorhomes.",
     "specs": [
       "1 gallon white silicone",

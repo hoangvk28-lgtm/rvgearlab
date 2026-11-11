@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jgOcPKRSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NTSM3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NTSM3C?tag=rvgearlab-amz-20",
     "description": "The baleaf Seam-Sealed is a women's jacket with fully seam-sealed, water-repellent fabric rated for over 5000mm pressure head. It weighs about 285g, packs into its back pocket and lists back vents with a 3000g breathability rating.\n\nCompared with the Bikewa Reflective, it has fewer ventilation zips and a stated waterproof number. Against the Columbia Switchback IV, it adds sealed seams and a breathability figure.\n\nIt suits runners and hikers who sweat in warm rain. The listing includes five pockets that fit a 6.5 inch phone.",
     "specs": [
       "5000mm waterproof, seam-sealed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVgYK6O2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG9Q8CBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG9Q8CBQ?tag=rvgearlab-amz-20",
     "description": "The Bikewa Reflective is a men's cycling-style jacket with a DWR finish, a laminated TPU membrane and underarm zips plus back vents. Reflective elements on the front, back and hood add visibility, and three waterproof zipper pockets, two inner pockets and a back pocket hold gear.\n\nCompared with the baleaf Seam-Sealed, it adds underarm zips for faster cooling. Against the Outdoor Ventures Pullover, it is a full-zip jacket with more pockets.\n\nIt suits cyclists and runners in warm, wet evenings. The adjustable drawcord hem fits the jacket to your frame.",
     "specs": [
       "Underarm zips and back vents",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cMd4Ha8nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLR281GG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLR281GG?tag=rvgearlab-amz-20",
     "description": "The Columbia Switchback IV is a women's jacket with Omni-Shield treatment that repels light rain, resists stains and dries quickly. It packs into its own hand pocket and has a stow-away hood, zippered hand pockets, adjustable cuffs and a drawcord hem.\n\nCompared with the baleaf Seam-Sealed, it uses a repellent finish rather than a stated waterproof rating. Against the 33,000ft Women's, it adds a well-known brand finish and a stow-away hood.\n\nIt suits quick summer showers and travel. The listing says it is made for light precipitation.",
     "specs": [
       "Omni-Shield repels light rain",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qST8CI23L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5ZLFQC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5ZLFQC6?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Pullover is a men's 100% nylon pullover that lists breathable, waterproof performance with fully sealed seams. It folds into its front pocket and has a stow-away hood, elastic cuffs and a drawcord hem and hood.\n\nCompared with the Bikewa Reflective, it is lighter and simpler. Against the JMinger Packable, it uses nylon and a pocket stuff-sack.\n\nIt suits men who want a thin, sealed shell for warm trails. The listing mentions golf, running and biking.",
     "specs": [
       "100% nylon, sealed seams",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxkyH7+AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2HG4ZLZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2HG4ZLZ?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Women's jacket is a super lightweight packable shell with a carrying pouch and a hide-away hood. A casual, loose cut and an adjustable drawcord hood make it wearable on many occasions.\n\nCompared with the baleaf Seam-Sealed, it is looser and less technical. Against the JMinger Packable, it adds a hide-away hood.\n\nIt suits travelers who want a thin layer for muggy days. The listing names hiking, cycling and running.",
     "specs": [
       "Super lightweight, pouch included",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tNtsAnELL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TYXG8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TYXG8G?tag=rvgearlab-amz-20",
     "description": "The JMinger Packable is a women's jacket in 100% polyester that the listing calls waterproof, windproof and quick-drying. It has a drawstring hood and hem, two front pockets and a carrier bag.\n\nAgainst the 33,000ft Women's, it is a more fitted jacket with a quick-dry polyester. Compared with the baleaf Seam-Sealed, it has fewer technical specs at a lower price.\n\nIt suits casual wear in warm, wet weather. The listing notes it can work as a windbreaker.",
     "specs": [
       "100% polyester, quick-drying",

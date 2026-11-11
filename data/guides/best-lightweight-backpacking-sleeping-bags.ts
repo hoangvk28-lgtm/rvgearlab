@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eSyQ9NVuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP1ZX3MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP1ZX3MD?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic is a 40F mummy filled with 21.1 ounces of recycled CirroLoft ECO insulation, and the regular size weighs 2 lb 4 oz, measures 76 inches long, fits sleepers up to 6 feet and packs to 8 by 17 inches in its included compression stuff sack. At roughly $100, it is the most expensive bag here, and the premium buys a full set of published numbers.\n\nCompared with the TETON Trailhead further down, the Kelty targets milder nights, 40F against 20F, which is why its fill weight and weight can stay low. It adds a full-length draft tube, dual locking sliders, an insulated upper hood tube and offset quilting that reduces cold spots, and the footbox is shaped so tired feet can move. Versus the Naturehike below it, the Kelty gives you the only complete weight and size set in the list.\n\nIt suits warm-season thru-hikers, scout leaders and anyone who wants a dependable summer-to-early-fall bag and cares that the listing says exactly what they are buying.",
     "specs": [
       "40F, 21.1 oz CirroLoft ECO fill",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318QujwlAIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQT35Q5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQT35Q5V?tag=rvgearlab-amz-20",
     "description": "The Naturehike is sold in two versions, a blue MG120 with a 41F ISO comfort figure and a pine green MG270 with a 28F ISO comfort figure, both filled with SUNDOUCE Gold Label polyester fibers described as a down-like structure. The listing claims it runs about 30 percent lighter than other mummy bags with the same rating, and it sells for around $60 with PFAS-free, GRS-certified recycled fabrics.\n\nCompared with the Kelty Cosmic above it in the ranking, the Naturehike gives you a colder option, since the MG270's comfort figure reaches 28F, while the Kelty's label stops at 40F. Against the TETON Trailhead below it, it adds zippers on both sides so you can reach in for gear, a rear hanging design and wearable freedom, and its ISO figures are stated as comfort numbers rather than a bare brand label.\n\nIt is a good match for ultralight-minded hikers who want a choice of warmth, buyers who like machine-washable synthetic fiber, and anyone shopping the sub-$60 tier who still wants an ISO comfort figure.",
     "specs": [
       "ISO comfort 41F or 28F by model",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312tm8NmDPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVDZD9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVDZD9B?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead is a 20F mummy at about $65, and this listing in teal green highlights a strong, heavy-duty compression sack that cinches the bag down with straps. Its microfiber insulation is described as adding loft with first-rate compressibility, while vaulted footboxes and zipper draft tubes add warmth where hikers feel cold first.\n\nCompared with the Kelty Cosmic above it, the Trailhead carries a rating 20 degrees colder, so it covers nights that would make a 40F bag a poor choice, at about a third less cost. Compared with the Flat Earth below it, the TETON uses a proper mummy hood shaped to eliminate gaps around the face, plus hang loops for long-term storage so the loft stays fluffy between trips. The compression sack is the standout accessory for pack space.\n\nIt works for backpackers who camp in spring and fall, scouts who need to stretch a budget across a troop, and weekend hikers who want a colder-rated bag at a modest price.",
     "specs": [
       "20F mummy, microfiber insulation",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+CQQ5Ha3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0744H5QKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0744H5QKF?tag=rvgearlab-amz-20",
     "description": "This second TETON Trailhead listing is the same 20F mummy at the same $65 price, and its copy highlights comfort details: a soft liner, a roomy footbox, a zipper draft tube and anti-snag zippers that are easy to close from inside or outside the bag. The microfiber insulation is described as packing down without sacrificing performance, and a stuff sack is included.\n\nCompared with the Kelty Cosmic above it, the TETON gives you a lower rating and a more cushioned, cozy feel for cooler camping at a smaller price. Against the Nature Link below it, the TETON is a true mummy with a hood and footbox rather than an envelope, so it holds heat much better on a cold night. Because the two TETON listings describe the same bag, choose between them by which sack and photos suit you.\n\nThis one fits campers who dislike zipper snags in the dark, anyone sleeping on a cool night who values a soft liner against bare skin, and buyers who want a cold rating at under $70.",
     "specs": [
       "20F mummy, microfiber insulation",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-+m8fe4NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F95ZWQ1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F95ZWQ1X?tag=rvgearlab-amz-20",
     "description": "The Flat Earth Expedition is a 32F bag priced around $22 that opens to a full 82 inches for sleepers up to 6 feet. The listing says it is built for performance down to 25F, with baffles along the hood and shoulders, a contoured hood, top and side baffles and a soft lining to reduce drafts.\n\nCompared with the TETON Trailhead above it, the Flat Earth gives you a warmer label than a summer bag at roughly a third of the cost, with a dual-buckle compression sack that cuts bulk more than a plain cinch bag for a car, kayak or pack. Against the Nature Link below it, it is rated for colder nights, uses water-resistant ripstop fabric and adds dual zippers and a secure internal pocket, giving it more real trail utility for similar money.\n\nIt makes sense for first-time backpackers, kayak campers, scout troops and anyone assembling a low-cost sleep kit for three-season weekends, especially when the lowest price matters most.",
     "specs": [
       "32F rating, built for 25F",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BPdJhJtKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1296NDF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1296NDF?tag=rvgearlab-amz-20",
     "description": "The Nature Link is an envelope-style bag with a built-in hood, filled with 235 g per square meter of soft imitation silk cotton insulation and covered in 20D ripstop nylon with a 20D nylon lining. It weighs 2.6 lb, measures 86.6 by 29.5 inches, compresses down to about 12 inches in height and costs around $20.\n\nCompared with the Flat Earth above it, the Nature Link is lighter on the label, at a 46F to 59F comfort range, and roomier at 86.6 inches, which suits tall sleepers and warm summer nights where a full mummy would be too hot. The nylon shell is water-repellent, the bag is machine washable, and the bottom zipper can be opened fully so the bag lays flat as a blanket.\n\nChoose it for summer backpacking, fishing trips, bushcraft weekends, hot-climate hikes and for kids or tall adults who need extra length. It is the clearest example here of a bag that is lightweight because it is meant only for warm weather.",
     "specs": [
       "Comfort range 46F to 59F",

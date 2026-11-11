@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WQpYZg24L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX9VF5T8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX9VF5T8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X is a 50 amp portable unit rated 120V/240V and 12,000 watts, sold here with a Camco 40055 brass inline water pressure regulator. Its listing names open ground, open neutral and reverse polarity detection, over and under voltage protection, miswired pedestal and surge failure indicators, and accidental 240V protection.\n\nIt ranks first because it names the full set of EMS functions and states a 5-mode, 3,580 joule surge rating, UL certification and a locking bracket. The Progressive PT30X below offers the same fault list for a 30 amp rig at a lower surge rating.\n\nBest for a 50 amp motorhome or fifth wheel that visits crowded parks. The listing does not state a reconnect delay time, so check that detail with the seller if compressor protection matters to you.",
     "specs": [
       "50A, 120V/240V, 12,000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UiyPW9S+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX9PC8JH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX9PC8JH?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT30X is the 30 amp version, rated 120V and 3,600 watts, with a 3-mode, 1,790 joule surge rating. It lists the same fault set as the PT50X, including over and under voltage protection and accidental 240V protection, and is sold here with a Camco brass regulator.\n\nCompared with the Progressive PT50X above, it is smaller and cheaper but has a lower surge rating, and it only fits a 30 amp TT-30 inlet. It also costs more than the ENDMAN 30A Meter below, which monitors power but does not describe cutting it.\n\nBest for a travel trailer or small motorhome with a 30 amp plug that wants a named EMS fault list. The listing does not state a reconnect delay, so confirm it if you run a rooftop air conditioner.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ssudRcRKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050EH004?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-LCHW30 is listed as a hardwired RV surge and electrical protector for 30 amp rigs. The listing gives package dimensions of 21.09 by 10.59 by 18.29 inches and a 2.75 pound weight, but names no specific protections.\n\nUnlike the portable Progressive PT30X above, it is installed inside the rig, which removes the theft and weather worries of a pedestal-mounted unit. In exchange the listing tells you far less than the PT30X listing does.\n\nBest for a 30 amp owner who wants a protector that stays inside the coach. Ask the seller to confirm the voltage cutoffs and reconnect delay before you commit, since the listing does not state them.",
     "specs": [
       "Hardwired 30 amp protector",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a0C+4JtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRFT4BK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRFT4BK9?tag=rvgearlab-amz-20",
     "description": "The ENDMAN 30A is a TT-30P surge protector with an LCD that shows current, power, voltage, power factor and internal temperature, and a built-in kWh meter. It lists 12,000 joules of surge protection and says you can monitor low voltage.\n\nCompared with the Progressive PT30X above, it shows far more data, but the listing does not describe cutting power when voltage drops or a reconnect delay. That makes it a surge protector with a meter, not a full EMS.\n\nBest for a 30 amp owner who wants to watch amps and kilowatt hours to avoid tripping breakers. Do not rely on it to disconnect during a brownout.",
     "specs": [
       "12,000 joules, TT-30P plug",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DqF1XHElL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53S6K4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53S6K4W?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30A is a surge protector and circuit analyzer with a 12,000 joule rating, an IP68 waterproof and flame-retardant body, and right-angle plugs. The listing says it recognizes power failures and protects against high and low voltage, and it carries a three-year warranty.\n\nIt is the cheapest pick here, at under $30, and works as a pedestal tester before you plug in the rig. Next to the ENDMAN 30A Meter above it has no display of amps or watts, and the listing does not describe a cutoff or restart delay.\n\nBest for a 30 amp owner who mainly wants a wiring check and a low-cost surge layer. Treat it as a tester and a surge guard, not a full EMS.",
     "specs": [
       "12,000 joules, IP68 body",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31re9MfI8RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073Q57KJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073Q57KJN?tag=rvgearlab-amz-20",
     "description": "The Progressive 50 AMP Surge Protector POR listing has a title and no feature list. It is a Progressive Industries product at the 50 amp level, but the listing does not state surge rating, fault protections or whether it is portable or hardwired.\n\nNext to the Progressive PT50X above, you get a similar brand but none of the named protections, so you cannot compare the two on specifics. It ranks last for that reason alone, not because of any known fault.\n\nBest only if you can confirm the exact model and its protections with the seller first. Otherwise, the Progressive PT50X is the safer buy for a 50 amp rig.",
     "specs": [
       "Progressive 50 amp unit",

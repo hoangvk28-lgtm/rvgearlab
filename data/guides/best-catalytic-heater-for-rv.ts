@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hz8Z6FmML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMWC1S6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMWC1S6?tag=rvgearlab-amz-20",
     "description": "The Hotdevil is a portable catalytic propane heater rated at 8,520 BTU, with a combustion head twice the size of traditional models. Pulse ignition runs on two AAA batteries and the burner takes 1 lb propane cylinders.\n\nIt out-powers the Blazeal on stated BTU and adds a protective mesh guard and a stable cylinder holder. It is the stronger step up from small camp heaters for a trailer interior or an awning.",
     "specs": [
       "8,520 BTU catalytic burner",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314j1bxUXtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSS74JRQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSS74JRQ?tag=rvgearlab-amz-20",
     "description": "The Blazeal is a portable propane heater with an upgraded catalytic infrared burner producing 6,200 BTU, said to heat about 200 square feet. A control knob sets the output and a brass hose connects it to the cylinder.\n\nIt sits below the Hotdevil on output but is the lowest priced catalytic heater in this list, with an all-aluminum reflector and safety mesh guard. It is the easiest way to try catalytic heating in a small camper. It suits weekend campers and van owners who only need modest heat.",
     "specs": [
       "6,200 BTU catalytic burner",

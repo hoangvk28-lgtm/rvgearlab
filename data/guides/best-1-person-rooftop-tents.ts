@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DiZ5KySwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTK5N1Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTK5N1Z?tag=rvgearlab-amz-20",
     "description": "The Meedo Apolle A86 M is a clamshell soft shell that fits 2 people and mounts on most cars with a roof rack. It has a 4.5 inch high-density foam mattress, a telescopic aluminum ladder, two side doors, two windows and a sunroof, with 3000mm waterproofing and wind resistance of level 6 to 7.\n\nIt has the thickest mattress of the four, which a solo sleeper will notice. Compared with the hard shells here it uses a fabric clamshell and costs less than the Naturnest.\n\nIt suits solo campers who want a deep mattress and a skylight. The fold-down design opens like a book.",
     "specs": [
       "Soft shell clamshell, fits 2",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qrYpWaXyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNYYCHDW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNYYCHDW?tag=rvgearlab-amz-20",
     "description": "The Naturnest 2-Person is a hard shell that adds 20 percent more living space with a smart extension, so a solo sleeper can sit up and change clothes. It has dual-layer fabric that cuts condensation, a rigid aluminum shell with honeycomb insulation, a 1.97 inch mattress and roof crossbars.\n\nIt is the only pick that names a 2-person size on its title, and it adds sitting room that the others lack. The JOYINRUTE costs less and lacks the extension.\n\nIt suits solo campers who want to sit up inside and carry bikes or solar on the crossbars. Blackout fabric keeps the interior dark at dawn.",
     "specs": [
       "20% extra interior space",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RakULc07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-amz-20",
     "description": "Winter camping is the JOYINRUTE's strength, with a thermal liner that detaches, 320G blackout polyester and 5000mm of water resistance. Four hydraulic rods lift the aluminum body, and a flocked floor limits condensation.\n\nIt gives a better waterproof number than the Meedo and costs less than the Naturnest. It does not state a capacity.\n\nIt suits a solo winter camper who wants one shell for all seasons. The liner pulls out for summer.",
     "specs": [
       "5000mm, wind grade 6",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "Sold for two to three people, the HEYFUN Adventurer Pro folds down to 83.86 by 51.57 inches and only 7 inches tall. Gas struts raise it in 5 seconds to 62.99 inches high, and a side awning and LED lights come with it.\n\nIt is the best-priced of the four and has the slimmest closed profile. The Meedo has a thicker mattress and the Naturnest more interior room.\n\nIt suits solo campers who want the most compact closed shape and fast opening. Built-in LED lights save buying a lantern.",
     "specs": [
       "7 in closed, 62.99 in open",

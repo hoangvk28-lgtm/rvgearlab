@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTEgM99JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-amz-20",
     "description": "Built as a Group 31 lithium iron phosphate unit, the VEMDIA stores 100Ah at 12V, weighs 24 lbs and carries a 100A smart BMS. The listing claims 15,000+ cycles at 60 percent depth of discharge and 8,000+ cycles at 80 percent, a 5-hour charge with a 14.6V 20A charger and discharge from -4 to 140 degrees F.\n\nIt is the lowest-priced lithium here, and the listing says it is 70 percent lighter than comparable lead-acid. Against the SUPER EMPOWER pair it is one battery in a larger Group 31 shape, so measure the box before ordering.\n\nIt suits campers who want a single drop-in lithium battery for a van or camp bank. Smart BMS protections cover overcharge, over-discharge, over-current and short circuits.",
     "specs": [
       "12V 100Ah LiFePO4, Group 31",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xsrlCtKOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER set is two 12.8V 100Ah LiFePO4 batteries in BCI Group 24 size, each 6.49 by 10.24 by 8.98 inches and 21.6 lbs with M8 terminals. The listing recommends a 14.4 to 14.6V lithium charger, MPPT or PWM solar in lithium mode and a low-temperature function that pauses charging below 32 degrees F.\n\nTwo batteries make up 200Ah in parallel, the same nominal size as the Renogy, with each battery weighing 21.6 lbs. It is also the only pick with a stated low-temperature charge cutoff.\n\nIt suits campers who want lithium in a standard Group 24 size, or who plan to build a 200Ah bank. Charging resumes once the battery warms above 41 degrees F.",
     "specs": [
       "2 x 12.8V 100Ah Group 24",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 200Ah is a 12V AGM battery with quinary alloy plates, a monthly self-discharge listed below 3 percent at 77 degrees F, and performance below 32 degrees F. The listing says it handles discharge currents up to 10 times its capacity.\n\nIt matches the SUPER EMPOWER pair on 200Ah of nominal capacity in a single case at the lowest price per amp hour. Against the lithium picks it is much heavier and needs depth-of-discharge discipline.\n\nIt suits campers who want the lowest cost for a large 12V bank and are comfortable with the weight. AGM construction means no watering.",
     "specs": [
       "12V 200Ah AGM",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Va9-npM9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1V7TBYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1V7TBYR?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 800W lists 800W continuous and 1600W surge pure sine power. It has an LCD with real-time voltage, load readings and error codes, an aluminum body, and protections against overvoltage, low voltage, overload, short circuit, overheating and reverse polarity. It takes the top spot because it tells you what the battery and the load are doing at every moment, which matters in a parked vehicle.\n\nAgainst the WZRELB 800W, it swaps a plain DC voltage readout for a full LCD with load and error codes. Compared with the Go Power GP-800HD, it moves from modified to pure sine, which treats laptop chargers and cooler electronics more gently. The mechanism is feedback: a code on the screen turns a mystery shutdown into a clear message about what tripped.\n\nIt is best for a camper or road worker who wants one reliable 800W unit in a car or truck. Laptop work from a parked vehicle benefits from seeing battery voltage fall in real time, so you start the engine before the battery is flat. The error codes make troubleshooting simple at a dark trailhead.",
     "specs": [
       "800W pure sine, 1600W surge output",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cEII-GV8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7ZCKR5G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7ZCKR5G?tag=rvgearlab-amz-20",
     "description": "The WZRELB 800W lists 800W continuous and 1600W surge true pure sine output, with efficiency above 90 percent. It has a DC LED display, a remote controller, soft-start technology and an all-aluminum housing with a cooling fan. It earns its place as the pure sine model that spends less and still lets you switch the unit from your seat.\n\nCompared with the LVYUAN 800W, it adds a remote and costs less, with a DC voltage readout in place of load and error codes. Next to the modified sine units, it offers a cleaner waveform at a similar price. The soft-start circuit is the mechanism that helps, since it eases the inrush current of a small motor such as a cooler fan.\n\nIt is a smart pick for car campers who want pure sine and a remote on a tight budget. The remote keeps the switch in the cabin while the unit sits under a seat or in the cargo area. Efficiency above 90 percent means less battery energy turns into heat, which helps on a long parked session.",
     "specs": [
       "800W pure sine, 1600W surge output",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y5Cqget1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074RBCVSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074RBCVSG?tag=rvgearlab-amz-20",
     "description": "The Go Power GP-800HD is a modified sine wave 800W inverter with 1600W surge, pre-lugged cables, two 10 ft #4 AWG battery cables and a Class T 110A fuse. Installation instructions come with it for a plug-and-play setup. It ranks as the pick for a vehicle where the inverter stays, since the cable and the fuse arrive with the unit.\n\nCompared with the pure sine units, it saves the cost of buying cable and a fuse separately, and a Class T fuse is a robust part for the battery side of the circuit. Against the clamp-style budget units, it is built for a permanent connection. The mechanism is the hardware: heavy cable at the correct length cuts voltage drop between the battery and the inverter.\n\nIt is best for a camper wiring an inverter into a truck, van or trailer for repeated use. Lights, drills, blenders and chargers all suit modified sine output, and the heavy cable handles the 800W draw with ease. A buyer who wants to install once and forget it will find the included parts remove the guesswork.",
     "specs": [
       "800W modified sine, 1600W surge output",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EoD8Es-5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G64G6MMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G64G6MMM?tag=rvgearlab-amz-20",
     "description": "The EFFORTWAY 800W lists 800W continuous and 1600W peak with 2 AC outlets and a 2.1A USB port. It ships with a cigarette lighter adapter and battery clamps, and the listing says to use the socket for devices under 150W. At 6.7 by 3.5 by 2 inches it is compact, and it is the pick that honestly shows the difference between a dash plug and a battery clamp.\n\nCompared with the Go Power GP-800HD, it uses clamps instead of hardwired cable, which makes it easy to remove and store. Against the BYGD 800W, it gives both connection options in the box. The mechanism is choice: the lighter adapter handles phone-level loads from the dash, and the clamps carry a laptop charger or small appliance when the engine is running.\n\nIt is best for a car camper who charges phones from the socket and clamps to the battery for a laptop or small appliance. The compact body fits a glove box or a door pocket. It suits someone who wants an 800W label with a clear statement of what the socket can really supply, and who will clamp on when the job gets bigger.",
     "specs": [
       "800W continuous, 1600W peak, two AC outlets",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+D7Gd+CKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081GFJFWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081GFJFWD?tag=rvgearlab-amz-20",
     "description": "The BYGD 800W lists 800W with 2 US AC sockets, 2 quick-charging 2.4A USB ports and an on/off switch. It measures 7.9 x 5.5 x 2.9 inches and weighs 3.1 lb, with an 18-month warranty. It earns the compact label for combining a manageable body with a full set of sockets and a promise from the maker.\n\nCompared with the EFFORTWAY 800W, it offers faster USB charging and a listed weight of 3.1 lb. Next to the XYZ INVT 800W, it adds an isolation transformer in its safety description. The mechanism is the USB pair: two 2.4A ports charge phones and tablets quickly without using an AC outlet, which leaves both sockets for a laptop and a cooler.\n\nIt is a pick for campers who want a compact 800W with strong USB charging for a family. The small footprint stores easily in a car trunk, and the on/off switch means the unit can stay wired and idle without drawing under load. The 18-month warranty gives a clear path if something goes wrong, which suits a family vehicle that sees daily use.",
     "specs": [
       "800W with two US AC sockets",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4149qQ6wgNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BCYQBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BCYQBW?tag=rvgearlab-amz-20",
     "description": "The XYZ INVT 800W lists 800W modified sine wave output at 60Hz with dual AC outlets, soft start, and overload, low-voltage, over-voltage, overheat and short-circuit protection. It works with 12V batteries, which covers every car and truck. It is the entry point for an 800W inverter in this guide, with protections that match units at higher prices.\n\nCompared with the EFFORTWAY 800W, it drops the socket adapter and focuses on a battery connection at a similar price. Against the pure sine picks, it trades waveform quality for a lower cost. The mechanism is soft start: the circuit ramps up current gently, so a small fan or a cooler pump begins turning without a hard jolt to the inverter.\n\nIt is a good fit for campers who run laptops, phone chargers, lights and small fans from a parked vehicle. Light loads on a simple waveform need nothing more, and the dual outlets let two devices share the unit. Buyers who want the lowest outlay for an 800W label will find it a sensible start.",
     "specs": [
       "800W modified sine wave at 60Hz",

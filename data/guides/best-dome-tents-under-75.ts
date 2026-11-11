@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FG7Iw7CDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HH1YFHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HH1YFHS?tag=rvgearlab-amz-20",
     "description": "The UNP dome has a floor of 7 ft by 5 ft with a 45 inch peak and a 4.8 lb weight. A removable rainfly with two zippers, a skylight net, a large mesh window and an inside storage pocket complete it.\n\nIt is lighter and airier than the Amazon Basics dome, and one person can pitch it in about three minutes. Compared with the Forceatt, it has fewer weather features and a lower price.\n\nSolo pitchers and couples in warm weather will like the skylight. It fits one full-size air mattress.",
     "specs": [
       "7 ft by 5 ft floor, 4.8 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+A9gSG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics dome is a free-standing three-season tent with coated polyester, welded seams and shock-corded poles that pitch in under four minutes. A removable rainfly provides a back window and a cool-air vent.\n\nWelded seams make it the leakiest-resistant dome in this group, ahead of the UNP and Wakeman. It lacks the Forceatt's aluminum poles and double vestibules.\n\nFirst-time buyers who want a reliable two-person dome will find it a safe choice. Shock-corded poles reduce tangles.",
     "specs": [
       "Free-standing, three-season",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NCxFY4RGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084P5WB1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084P5WB1M?tag=rvgearlab-amz-20",
     "description": "The Forceatt Light Dome offers an interior about 7.5 ft long and 4.6 ft wide, weighing 5.5 lb. The fly is 210T polyester coated to PU3000, and the package includes 4 guy lines and 12 stakes.\n\nIt is the only dome here with that many guy lines and stakes, so it handles wind better than the UNP or Amazon Basics. An SBS zipper adds durability.\n\nIt suits hikers, scouts and beach campers who face breezes. One or two campers finish the pitch in roughly five minutes.",
     "specs": [
       "5.5 lb, PU3000 rainfly",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j1KQ9dXsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RJC5TM3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RJC5TM3?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN is a 2 to 5 person family dome with aluminum poles, an 8.5mm glass fiber bracket and 150D Oxford inner fabric rated PU2000. A double-layer top has mosquito screens for airflow.\n\nIt has a more ventilated top than the UNP or Amazon Basics, and a stronger floor than the Wakeman. It lacks the Forceatt's PU3000 rating.\n\nIt fits warm-climate campers who want airflow and a big floor option. Choose the size that matches your group.",
     "specs": [
       "150D Oxford, PU2000",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RBHHcBtSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0050P22VK?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a two-person dome weighing 2.75 lb with a footprint near 6.4 ft by 4.75 ft and a 40 inch peak. It uses 190T polyester, fiberglass poles, a detachable rain fly, a vent window and a dual-layer door.\n\nAt 2.75 lb it is the lightest tent here by over 2 lb and it also costs the least. In return it has less floor than the UNP.\n\nIt suits short hikes and festivals where weight matters more than space. The detachable fly lets you adjust to weather.",
     "specs": [
       "2.75 lb, 190T polyester",

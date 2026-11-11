@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aInZdsscL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVH3LFMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVH3LFMF?tag=rvgearlab-amz-20",
     "description": "The Willit Quick-Dry is made of 87 percent nylon and 13 percent spandex and is described as soft, quiet and UPF 50+ rated at 98 percent UV blocking. It has a gusseted crotch, articulated knees, an internal drawcord waist and hem and five secure pockets including a right-hip zip pocket.\n\nCompared with the Moosehill Women's Rear-Vent, it chooses a quiet, soft fabric over mesh venting. Against the Rdruko, it adds a gusset, drawcord hem and tighter pocket security.\n\nIt suits women who want a trail-to-town pair for humid days. The drawcord hem tightens against bugs.",
     "specs": [
       "87% nylon, 13% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kG32Q5xdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR8WLKGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR8WLKGK?tag=rvgearlab-amz-20",
     "description": "The Moosehill Women's Rear-Vent has vent openings behind the knees, a convertible capri hem secured with a snap and a hidden ankle drawcord. It is made from 90 percent nylon and 10 percent spandex with 4-way stretch, and has five pockets.\n\nCompared with the Moosehill Women's Mesh Panel, it keeps the same brand idea at a higher price with a roll-up hem. Against the Willit Quick-Dry, it prioritizes airflow over fabric softness.\n\nIt suits women who sweat behind the knees on climbs and want a snap-up capri option. The hidden cord keeps unwanted guests out.",
     "specs": [
       "Rear-knee ventilation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bFtqqeWvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGYSMXRW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGYSMXRW?tag=rvgearlab-amz-20",
     "description": "The Moosehill Women's Mesh Panel has mesh panels above the rear hips and along the calves for heat release, a 125 GSM 92 percent polyester and 8 percent spandex fabric and a low-swish feel. Five pockets, a soft elastic waist and tapered cuffs complete the cut.\n\nIt is the lowest-priced pair by a wide margin and the only one with calf mesh. Compared with the Moosehill Rear-Vent, it swaps knee vents for hip and calf mesh.\n\nIt suits women who want the cheapest vented pair for hot hikes. The abrasion-resistant fabric stands up to rough trails.",
     "specs": [
       "Mesh panels at hips and calves",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TTBj5CZpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X5HZ4KB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X5HZ4KB?tag=rvgearlab-amz-20",
     "description": "The Toomett Capri Stretch is described as skin-friendly, lightweight, wrinkle-free fabric with four-way stretch and UPF 50+. A roll-up feature around the knee and zippered thigh pockets finish the design.\n\nCompared with the Willit Quick-Dry, it adds a roll-up option and costs a bit less. Next to the Rdruko, it offers stretch and a stated UPF.\n\nIt suits women who want a lightweight pair that can turn capri on hot afternoons. Elastic waistband adjusts around a hip belt.",
     "specs": [
       "Four-way stretch, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OKnHYzNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088PLCG4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088PLCG4P?tag=rvgearlab-amz-20",
     "description": "The Rdruko Cargo uses outdoor water-repellent fabric with UPF 50+, a button fly with elastic waist and five pockets, including two leg cargo pockets with zippers. The listing describes it as quick dry and lightweight.\n\nAgainst the Toomett Capri Stretch, it has a more conventional cut without roll-up legs. Compared with the Willit Quick-Dry, it is lower priced and simpler.\n\nIt suits women who want a no-fuss cargo pant for hot hikes and camp. The zipped leg pockets hold maps and snacks.",
     "specs": [
       "UPF 50+ water-repellent fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sfsMwKLmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MPC8SX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MPC8SX9?tag=rvgearlab-amz-20",
     "description": "The baleaf Jogger Cuff is a lightweight, breathable, water-resistant jogger with UPF 50+ built in, four zip-closure pockets and an elastic drawstring waist. Articulated knees and cuff cord locks keep bugs out, and petite (27 inch) and tall (31 inch) versions are sold.\n\nCompared with the Willit Quick-Dry, it offers length options in place of a gusset. Against the Rdruko, it adds knee articulation.\n\nIt suits women who need petite or tall lengths in a cool, light pair. It is machine washable.",
     "specs": [
       "UPF 50+ lightweight fabric",

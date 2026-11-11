@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Be-NolARL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBTLVZXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBTLVZXV?tag=rvgearlab-amz-20",
     "description": "The maXpeedingrods is listed as 3,400 maximum watts and 3,000 running watts from a 144cc four-stroke engine. Its panel carries two 120V 20A outlets, one 120V 30A outlet and two USB ports, it weighs 46 pounds, and the listing claims up to 8 hours of run time. A CO shutdown, overload protection and low-oil cutoff are included, and a parallel kit can pair it with a second unit of the same brand.\n\nIt ranks first because it pairs the highest continuous rating here, 3,000 watts, with a named 30A outlet at $399.99. The Lifan matches the 3,000 rating at the same price but its listing does not name a 30A receptacle, and the RVMP has the outlet but only 2,700 continuous watts for $199.01 more.\n\nPick it if you want a plug-in RV outlet and a true 3,000 watt rating without paying premium prices. The caveat is that the listing publishes no decibel figure, so you cannot compare its noise against the 53 to 59 dB claims on rival listings.",
     "specs": [
       "3,400 max, 3,000 running watts",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gIN6FDCKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPL5PZG8?tag=rvgearlab-amz-20",
     "description": "The Lifan lists 3,500 peak and 3,000 rated watts, pure sine wave output, a 1.6-gallon tank, and up to 6.5 hours at 50 percent load in Eco mode. The body measures 22 by 13 by 18 inches and weighs 46.3 pounds. CO auto shutoff, low-oil protection and overload protection are included, and it is parallel ready with compatible equipment.\n\nIt ranks second behind the maXpeedingrods because the listing does not name a 30A receptacle, and the other listing does, at the same $399.99 price. It has a 400-watt higher continuous rating than the PowerSmart for $30 more, and the listed tank holds 0.1 gallon more than the RVMP's 1.5 gallons for $199.01 less.\n\nThis is for buyers who want 3,000 rated watts and a compact body that fits an RV compartment. The caveat is verifying the outlet list before you buy, since a 30A plug is the single feature that decides whether you need an adapter.",
     "specs": [
       "3,500 peak, 3,000 rated watts",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41huT47pVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBSMLZ9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBSMLZ9R?tag=rvgearlab-amz-20",
     "description": "The RVMP Flex Power is listed as 3,300 peak and 2,700 continuous watts with true sine wave output, an automatic CO shutoff, and 59 dB(A) at 23 feet. It has a 1.5-gallon tank said to run 8 to 10 hours, two GFCI household outlets, a 30 amp outlet, USB ports, 12V DC output, parallel capability and high-altitude performance up to 5,000 feet. The listing says it meets National Park Service sound requirements.\n\nIt is the most expensive pick at $599, which is $199.01 more than the maXpeedingrods and $229.01 more than the PowerSmart, while its 2,700 continuous watts sit 300 below the leader. What the extra money buys is an RV-focused design with a stated altitude rating and a published noise figure that meets park rules.\n\nPick it if you camp in national parks or at altitude and want a published sound claim. The caveat is value: for the same money you can nearly buy two of the cheaper units, so it only makes sense if the park-sound and altitude details matter to you.",
     "specs": [
       "3,300 peak, 2,700 continuous watts",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wBSud5MML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP27LVFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP27LVFD?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 3,000 surge and 2,600 rated watts, THD under 3 percent, 59 dBA at 23 feet, and a parallel-capable design with the kit sold separately. Safety is its strength: a CO sensor, low-oil shutdown, overload and short-circuit protection, and certifications to ANSI/PGMA G300, ANSI/UL2201 and EPA standards. It carries a two-year warranty and promises technician replies within 24 hours.\n\nIt ranks fourth because 2,600 rated watts is 400 below the leading units, though it costs $30 less than both of those at $369.99. Against the Evernexta it adds 250 rated watts and stated standards for $50 more, which is the whole argument for it.\n\nChoose it if documented certifications and a stated warranty count more than the last 400 watts. The caveat is that the listing does not name a 30A RV outlet, so confirm the panel before assuming you can plug a TT-30 cord straight in.",
     "specs": [
       "3,000 surge, 2,600 rated watts",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4161THDoHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-amz-20",
     "description": "The Evernexta lists 3,000 starting and 2,350 running watts from a 97.7cc four-stroke OHV engine. It weighs 41.8 pounds, measures 20.08 by 13.39 by 19.69 inches, runs at 53 to 56 dB from 23 feet, and offers dual 120V 20A outlets, USB-A and USB-C, 12V DC, parallel connection and an AC reset button.\n\nIt is the cheapest at $319.99, $80 below the Lifan, but its 2,350 running watts are 650 below the maXpeedingrods, the widest gap among the five. In exchange it is the lightest at 41.8 pounds versus 46 and publishes the quietest range here.\n\nThis works for a small rig with a fridge, lights and chargers, where 2,350 watts is plenty, and quiet is the priority. The caveat is that it has only 20A outlets, so a 30A shore-style plug needs an adapter, and it is a poor candidate for a roof air conditioner.",
     "specs": [
       "3,000 start, 2,350 running watts",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zCTCkWRVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYCD52D3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYCD52D3?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 30A controller pairs a dedicated LFP preset with a custom mode, which is the most direct way to dial in a LiFePO4 charge. ECO-WORTHY's 30A PWM controller offers preset charge modes for LFP, flooded, sealed and gel batteries plus a custom mode for tailored settings. It lists under 1% measurement error, a 30-day generation record and dual USB ports.\n\nIt offers more profile control than Peidesi 30A PWM or SUNAPEX 20A and a 30-day generation log named in its listing. The tradeoff is PWM regulation, so it cannot match the output of SOLPERK MPPT 10A or Aramox 100A with higher-voltage panels.\n\nBest for a 12V RV owner who wants to set exact charge voltages. It is the most configurable LiFePO4-friendly PWM unit here for owners who want to dial in charge voltages.",
     "specs": [
       "30A PWM, 12V/24V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f8BiGpG5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5XSWDMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5XSWDMT?tag=rvgearlab-amz-20",
     "description": "TCEUMIK's 30A PWM controller adds Bluetooth app monitoring and a customizable battery type for LiFePO4 and other lithium banks. TCEUMIK's 30A PWM controller connects to the LiMu Solar app over Bluetooth and detects 12V or 24V automatically. The listing names sealed, gel, flooded, LiFePO4 and lithium batteries and says the battery type can be customized, with seven load modes.\n\nIt gives you phone control that ECO-WORTHY 30A Custom lacks, though its listing is less specific about preset voltages. Compared with SUNAPEX 20A it carries more amps and seven load modes.\n\nBest for owners who want live charge data on a phone. Pick it when you want app monitoring and a selectable LiFePO4 profile at a low price.",
     "specs": [
       "30A PWM, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ItJwWQq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGP2WDX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGP2WDX7?tag=rvgearlab-amz-20",
     "description": "SUNAPEX's 20A controller is a simple 12V PWM that lists LiFePO4, AGM and gel and a zero-idle-drain design. SUNAPEX's 12V 20A PWM controller is meant to manage panels totaling less than 300W and works with LiFePO4, AGM and gel batteries. It uses SAE connectors, an LCD and LED indicators and lists zero idle power drain.\n\nIt undercuts TCEUMIK 30A on cost and complexity but limits panels to below 300W. Next to SOLPERK MPPT 10A it doubles the current while skipping MPPT tracking.\n\nBest for a small 12V trailer with up to 300W of panels. It is the simple 12V pick for a small trailer, but 300W is its ceiling.",
     "specs": [
       "20A PWM, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tvlw3D0EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNWRG7H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNWRG7H8?tag=rvgearlab-amz-20",
     "description": "SOLPERK's 10A MPPT lists up to 99% efficiency and a selectable LiFePO4 mode in an IP65 housing. SOLPERK's MPPT 10A model offers gel, AGM and LiFePO4 modes in an IP65 flame-retardant ABS housing and lists up to 99% conversion efficiency. An LCD and LED indicators track panel and battery status, and Type-C and USB ports power small devices.\n\nIt brings MPPT to a small LiFePO4 system where SUNAPEX 20A uses PWM, but its 10A rating limits array size. Against Aramox 100A it is far smaller and more focused on a single panel.\n\nBest for a portable or small solar setup feeding a 12V LiFePO4. It brings MPPT tracking to a tiny LiFePO4 setup, but 10A caps the array size.",
     "specs": [
       "10A MPPT, 12V only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KEUPcPx2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JQJ8239?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JQJ8239?tag=rvgearlab-amz-20",
     "description": "Aramox's 100A MPPT lists LiFePO4, AGM, gel and flooded and panels up to 160V in a low-priced package. Aramox's 100A MPPT controller supports 12V and 24V systems with LiFePO4, AGM, gel and flooded batteries, and lists up to 99% conversion efficiency and panels up to 160V. An LCD shows charging status and fault alerts, and dual USB ports are 5V/2.4A.\n\nIt has far more capacity than any other pick here and lists up to 99% conversion, though the listing is lighter on LiFePO4 profile detail than ECO-WORTHY 30A Custom. It is oversized for a small trailer.\n\nBest for a large 12V or 24V LiFePO4 bank with a big array. It is a high-amp, low-price MPPT, so check seller support before relying on it.",
     "specs": [
       "100A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41juz-6RWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B583TVVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B583TVVQ?tag=rvgearlab-amz-20",
     "description": "Peidesi's 30A PWM names LiFePO4, lithium, gel and lead-acid and suits 100W to 300W panels at a very low price. Peidesi's 30A PWM controller is automatically compatible with 12V or 24V systems and suits LiFePO4, lithium, gel and lead-acid batteries. It has a large LCD for switching modes and adjusting parameters and is described for 100W to 300W panels.\n\nIt trails ECO-WORTHY 30A Custom on profile control and extras but is easier on a budget than TCEUMIK 30A. Treat its LiFePO4 claim as something to verify on setup.\n\nBest for a budget 30A setup where you will check the charge voltages yourself. It is a low-cost general-purpose 30A PWM for small trailers.",
     "specs": [
       "30A PWM, 12V/24V auto",

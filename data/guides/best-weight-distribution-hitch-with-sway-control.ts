@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8DUE?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-0601 combines four-point sway control with weight distribution and is rated 6,000 lb and 600 lb tongue weight. The title states that it does not include a hitch shank.\n\nIt carries more integrated sway hardware than the CURT kits that use a bolt-on friction bar, but the title says no shank is included. It is the smallest rating here.\n\nBest for a trailer up to 6,000 lb with a tongue weight under 600 lb. Check its stated ratings against your own loaded numbers before using it on a with sway control setup.",
     "specs": [
       "6,000 lb, 600 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3C7TQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3C7TQT?tag=rvgearlab-amz-20",
     "description": "Weigh Safe's 4 inch drop True Tow Middleweight puts anti-sway technology in a live-adjust head rated 12,500 lb. Weigh Safe's True Tow Middleweight is a weight distribution ball mount hitch with a 4 inch drop, 2 inch shank and 12,500 lb towing capacity.\n\nIt is a ball mount style system with a different design from the spring bar kits and states no tongue weight rating. It costs more than the CURT kits.\n\nBest for an owner who wants live head adjustment and measures the receiver first. Measure your receiver and ball height first.",
     "specs": [
       "4 inch drop, 2 inch shank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UaMM78U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP83XG4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP83XG4S?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 800 lb has clamp-adjusted dynamic sway control that switches off for reversing. Camco's TR3 800 lb weight distribution kit has clamp-adjusted dynamic sway control that can be turned off and a 2-5/16 inch ball.\n\nIt is lighter-duty than Camco TR3 1,200 and costs a little more. The title and text give different ratings.\n\nBest for a trailer with an 800 lb tongue weight that backs up often. It suits trailers with up to 800 lb of tongue weight.",
     "specs": [
       "800 lb TR3 kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 1,200 has the same switchable sway control with a 1,200 lb title rating. Camco's Eaz-Lift ReCurve TR3 is a weight distribution kit with clamp-adjusted sway control that can be turned off.\n\nIt handles more than Camco TR3 800 lb and costs more. Its text cites a 1,500 lb ball rating that does not apply to the hitch.\n\nBest for a trailer with a tongue weight near 1,200 lb. Weigh the trailer loaded and compare the figures before ordering for this with sway control case.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nNYOYDnQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-amz-20",
     "description": "CURT's 17422 is rated up to 15,000 lb and includes sway control kit 17200 with short trunnion bars. It includes sway control kit 17200 and 28-3/8 inch forged steel spring bars.\n\nIt has the highest gross rating in the group and costs less than the Equal-i-zer, but its sway kit is a bolt-on friction bar. It states no tongue weight rating.\n\nBest for a heavy trailer where a friction bar is acceptable. Check its stated ratings against your own loaded numbers before using it on a with sway control setup.",
     "specs": [
       "15,000 lb, 2-inch shank",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WOnVIstzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FLXLDFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FLXLDFM?tag=rvgearlab-amz-20",
     "description": "CURT's 17322 is a 10,000 lb version of the same short trunnion kit with sway control kit 17200. CURT's 17322 is a short trunnion bar weight distribution hitch rated up to 10,000 lb with a 2-inch shank, a 2-5/16 inch ball and sway control kit 17200.\n\nIt costs slightly less than CURT 17422 and carries a lower rating. It shares the bolt-on friction sway bar.\n\nBest for a trailer up to 10,000 lb that needs a trunnion kit. It is a 10K trunnion kit with a bolt-on friction bar.",
     "specs": [
       "10,000 lb, 2-inch shank",

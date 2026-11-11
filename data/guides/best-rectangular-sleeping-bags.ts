@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "Cut wide at 90 by 39 inches for sleepers to 6 ft 7, the HiZYNICE XXL is the roomiest bag in the group. It prints three temperature figures, 30F comfort, 15F limit and 0F extreme, and adds a cotton flannel lining, a zipper draft tube and a dual-pull two-way zipper.\n\nAgainst the Coleman Brazos it is wider and prints more rating detail, which makes it the easiest rectangle here to plan around. Next to the Kanyak it is bigger and offers a colder limit figure.\n\nIt suits taller or broader campers who car camp in cool weather. The bag is machine washable.",
     "specs": [
       "30F comfort, 15F limit",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416uiYdBf-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-amz-20",
     "description": "At 86.6 by 32.48 inches and 4 lb, the KANYAK rectangle carries printed ratings of 41F comfort and 32F limit. It has three zippers including a separate foot zipper, a 210T polyester shell and a compressed size of 11 to 14.2 inches.\n\nTwo KANYAK bags can splice into a double, something the Coleman bags do not list. It is also the lightest rectangle with a printed weight in this guide.\n\nIt suits couples who car camp in cool weather and want to join two singles. The foot zipper vents heat when it warms up.",
     "specs": [
       "Comfort 41F, limit 32F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big & Tall holds 5 lb of Holofill 808 insulation and is rated to 10F. It measures 40 by 84 inches, takes campers to 6 ft 7, and layers a cotton cover over a synthetic flannel liner with FiberLock construction.\n\nIt states the coldest rating among the rectangles besides the TETON Deer Hunter's 0 degree label, and the thick fill makes it feel like a blanket. It weighs far more than the Kanyak.\n\nIt suits cabin, truck-bed and car campers who care about thickness and have no weight limit. The Wrap 'N' Roll system keeps it tidy in storage.",
     "specs": [
       "10F rated, 5 lb Holofill 808",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmzLs-hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-amz-20",
     "description": "Coleman sells the Brazos in standard size in 30F and 20F ratings, for campers to 5 ft 11. Features include a Thermolock draft tube, Fiberlock insulation that stays put and a no-snag zipper.\n\nIt costs less than the HiZYNICE and uses less material in its standard cut, which also makes it easier to store. The two ratings let you choose by season.\n\nIt suits casual campers under 5 ft 11 in who want a familiar brand. Fasteners keep the roll tight.",
     "specs": [
       "30F or 20F rating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggZVlyhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A4VLHSE?tag=rvgearlab-amz-20",
     "description": "The TETON Deer Hunter is a 0 degree bag with a tough canvas shell, fiber fill, a poly-flannel lining and a half-circle mummy-style hood. A second listing for the same bag is counted as one product here.\n\nIts canvas shell is the toughest in the group, suited to hunting camps and cabins. It costs more than every other rectangle and gives no comfort figure, unlike the HiZYNICE.\n\nIt suits hunters and cabin users who put their gear through hard use. The hood adds warmth on cold nights.",
     "specs": [
       "Canvas shell, fiber fill",

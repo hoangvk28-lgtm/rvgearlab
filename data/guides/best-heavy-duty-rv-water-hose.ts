@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518RwzPj8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 35-Foot is 20 percent thicker than premium hoses and NSF/ANSI 61 certified. It lists diamond-hatch reinforcement, UV-stabilized PVC and zero memory.\n\nIt is the most expensive pick here and the longest of the Camco hoses. The 35 foot reach and thick wall suit long drags.\n\nIt suits owners who drag a hose over rough campsites. The certification wording is clear.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OEGsMMuoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RNR9BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RNR9BY?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 25-Foot lists machined fittings for extra strength and a no-kink heavy-duty design. It is NSF/ANSI 61 certified, CSA lead-free certified and 20 percent thicker than premium hoses.\n\nIt is shorter and cheaper than the 35 foot version and keeps the machined fittings. It matches its build to a typical pedestal.\n\nIt suits owners who want strong fittings at a standard length. The ends handle repeated tightening.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zIHOIcPBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RNOVTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RNOVTM?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 10-Foot lists a heavy-duty no-kink design with strain relief ends and a 5/8 inch bore. NSF/ANSI 61 and CSA lead-free certifications cover drinking water use.\n\nIt is the shortest of the Camco hoses and lists strain relief ends. It costs less than the 25 foot version.\n\nIt suits owners who stay near the pedestal and want a rugged short hose. The strain relief protects the ends.",
     "specs": [
       "5/8 inch, 10 ft",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UWyJCgwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4PCLKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4PCLKQ?tag=rvgearlab-amz-20",
     "description": "Kohree's 50 FT hose stretches reach with a 20 percent thicker wall around a 5/8 inch bore, plus brass-plated aluminum fittings and strain relief ends. A storage bag and CA65 compliance are listed.\n\nIt gives 50 feet at a price under the 25 and 35 ft Camco hoses. Strain relief is something the cheaper picks do not list.\n\nOwners who want reach and a bag at a good price get the most from it. The strain relief protects the ends during hauling.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OOmVRvKXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LRP8MW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LRP8MW?tag=rvgearlab-amz-20",
     "description": "The Kohree NSF 372 Certified 25-ft hose is independently tested to NSF/ANSI/CAN 372. Precision-machined fittings, a large rubber grip and UV stabilization round out the build.\n\nIt adds NSF 372 testing at a lower price than the 25 and 35 ft Camco hoses. It lists a heavy-duty premium material build.\n\nIt suits owners who want documented testing and a sturdy build. The big grip helps with tight connections.",
     "specs": [
       "5/8 inch, 25 ft",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N3fCd3FhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083BXW2XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083BXW2XW?tag=rvgearlab-amz-20",
     "description": "The Minimprover is a 16.9 inch brass quick-connect adapter with a 12 inch EPDM rubber hose rated to 300 PSI and -22°F to 250°F. The brass is certified to contain less than 0.25 percent lead.\n\nIt is not a hookup hose, which sets it apart from the rest. It adapts an air compressor to the water system for winterizing.\n\nIt suits owners who winterize each fall. Wear safety goggles when using compressed air.",
     "specs": [
       "Brass quick-connect adapter",

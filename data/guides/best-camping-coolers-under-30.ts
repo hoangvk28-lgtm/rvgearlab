@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21syAtsydkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7MYJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZ7MYJQ?tag=rvgearlab-amz-20",
     "description": "This 48 quart hard-sided cooler has double-layer foam insulation and an elevated base that keeps the body off hot pavement or sand. It holds up to 76 cans and has swing-up handles that fold flat.\n\nAt about $28 it carries the largest capacity of the five and the lowest cost per quart. The soft bags weigh less, and this is the only pick with a rigid shell that keeps ice for more than a day trip.\n\nWeekend car campers and families get a proper ice chest for the price of a soft bag. It also works as a seat in a pinch.",
     "specs": [
       "48 quart, holds 76 cans",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oELwiKP+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1LDW7V9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1LDW7V9?tag=rvgearlab-amz-20",
     "description": "MIYCOO is a 60-can leakproof bag with an expandable double deck that grows from 14.6 by 11 by 8.5 inches to 11.8 inches high. It carries three ways: side handles, a removable shoulder strap or two people together.\n\nPriced near $30 like the YOUNGOA, it offers the most flexible capacity. The 48QT Hard Cooler holds more cans, and only this bag collapses flat.\n\nCampers who need to carry a large load from the car and then store the bag flat will like it. It suits groups and tailgates.",
     "specs": [
       "60 cans, expandable double deck",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KMSm1bxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QLB93C7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QLB93C7?tag=rvgearlab-amz-20",
     "description": "YOUNGOA uses military-grade 900D Oxford cloth with a leakproof lining and folds to under 3.9 inches. It opens 180 degrees, has Molle webbing for extra pouches and a large front pocket.\n\nIt costs about $30 and is tougher than the thinner bags, and the Molle webbing lets you clip on a bottle holder or tool pouch. The MIYCOO holds more, and this bag is better for rough handling.\n\nCampers who toss gear in a truck bed or boat will like the heavy fabric. It folds flat after the trip.",
     "specs": [
       "900D Oxford, 48 cans (30L)",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mMANimB9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PD3D27J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PD3D27J?tag=rvgearlab-amz-20",
     "description": "The Maelstrom Double Deck is a 27L soft cooler that weighs only 1.98 lb and holds about 30 cans. Five insulating layers and a separate upper deck keep snacks away from the ice zone.\n\nIt costs about $27, lower than the MIYCOO and YOUNGOA, and the dry upper deck means fewer trips into the cold compartment. It holds fewer cans than either of them.\n\nDay-trippers and beach goers who want a light bag with a dry snack deck will enjoy it. It is easy to stow.",
     "specs": [
       "27L, 30 cans, 1.98 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JjdnaOvlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKNTDY7D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKNTDY7D?tag=rvgearlab-amz-20",
     "description": "The TOURIT backpack holds 30 cans in a 30L main compartment with four layers of insulation and a hot-pressed leakproof lining. It has 5mm thick back padding, 8mm shoulder straps, a front zipper pocket, a front mesh pocket, two side zipper pockets and two bottle pockets.\n\nAt about $18 it is the cheapest pick here and the only backpack, which makes it the best choice when you walk to the site. The 48QT Hard Cooler holds far more and needs a car.\n\nHikers, kayakers and walk-in campers get hands-free carry and extra pockets. It suits short trails more than long ones.",
     "specs": [
       "30L, 30 cans, 4 insulation layers",

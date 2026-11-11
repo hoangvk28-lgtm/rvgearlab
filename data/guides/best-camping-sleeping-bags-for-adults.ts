@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE bag measures 90 by 39 inches and fits adults up to 6 ft 7 in. It lists a 30F comfort rating, 15F limit and 0F extreme, with a draft tube along the zip and a cotton flannel lining.\n\nCompared with the FARLAND, it is wider and lists three rating figures. Against the Coleman Brazos, it fits taller and wider sleepers.\n\nIt suits big and tall adults who camp in cold weather. The dual-pull zipper opens at the top or bottom.",
     "specs": [
       "90 x 39 inch XXL size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmzLs-hzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6416YYW?tag=rvgearlab-amz-20",
     "description": "The Coleman Brazos is rated to 30F and fits campers up to 5 ft 11 in. It has a Thermolock draft tube, Fiberlock insulation that stays in place and a no-snag zipper.\n\nAgainst the MalloMe, it is warmer and has a draft tube. Compared with the HiZYNICE, it is a standard size with a lower price.\n\nIt suits average-height campers who want a reliable cool-weather bag. The Fiberlock keeps fill from shifting.",
     "specs": [
       "Rated to 30F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EgTwc8-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJS2CVCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJS2CVCK?tag=rvgearlab-amz-20",
     "description": "The FARLAND bag measures 86.6 by 32.68 inches and fits users up to 6 feet. It has a waterproof windproof 290T nylon shell, a Microplush Fleece lining and a 400g per square meter silk-like cotton fill.\n\nCompared with the HiZYNICE, it is a bit smaller and uses fleece rather than cotton flannel. Against the Coleman Brazos, it is more padded.\n\nIt suits campers who like a soft, warm feel on cold nights. The shell repels light rain.",
     "specs": [
       "86.6 x 32.68 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-9xX+gapL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRT6MJN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRT6MJN3?tag=rvgearlab-amz-20",
     "description": "The MalloMe Year Round pairs a 50F to 77F rating with a 6 foot fit and a weight near 3 lb. Spills come off its water-resistant shell with a cloth, and a full machine wash is allowed.\n\nCompared with the YANLIFY, it states weight and fits to 6 feet. Against the Coleman Brazos, it is for warmer nights and costs less.\n\nIt suits adults who camp in spring and summer. It is also used for kids and teens.",
     "specs": [
       "About 3 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZcOYqq3fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-amz-20",
     "description": "The YANLIFY bag lists a comfort temperature of 50F to 68F and an envelope shape of (190 plus 30) by 80 cm. It has full-length two-way zippers and a 190T tear-resistant polyester shell with a compression sack.\n\nNext to the MalloMe, the YANLIFY lists a comfort range and costs less. Against the HiZYNICE, it is much lighter on features.\n\nIt suits adults who want the cheapest rated bag for mild weather. The envelope cut leaves room.",
     "specs": [
       "50F to 68F comfort range",

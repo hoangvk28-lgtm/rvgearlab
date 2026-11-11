@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515W7jwOXEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-amz-20",
     "description": "The Generac lists 2500 running and 3300 starting watts from a 59.5 lb body. TruePower technology holds distortion under 3 percent, PowerRush adds starting capacity, and COsense shuts the unit down if dangerous carbon monoxide levels are detected.\n\nCompared with the PowerSmart it runs on gas only, with 2500 running watts against the PowerSmart's 3300. Against the Oxseryn 2800W it adds 500 running watts and a CO sensor.\n\nIt suits campers who run a fridge, lights and a TV off one gas generator. Economy Mode trims fuel use and noise at light loads.",
     "specs": [
       "2500 running, 3300 starting watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN DF360iX runs on gasoline at 3600 surge and 2900 rated watts, or on propane at 3500 surge and 2600 rated. A CO Watchdog shutdown sensor, a TT-30R RV receptacle and a tool-free LPG quick connector come built in.\n\nIt is the only pick that offers an RV receptacle plus dual fuel in a 3600W class. Compared with the PowerSmart it adds an RV outlet and a three-year warranty.\n\nIt suits campers who want a propane option for storage and an RV 30A outlet for a trailer. Two 120V three-prong receptacles and two USB ports cover camp devices.",
     "specs": [
       "2900 rated watts gas, 2600 propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pN78FIAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-amz-20",
     "description": "The PowerSmart delivers 3300 running watts on gasoline and 3100 on propane, with 59 dBA in Eco Mode at 25 percent load. It runs 8 hours on its 1.3 gal tank or up to 24 hours on a 20 lb propane tank.\n\nIt has the longest runtime in the list and a 59 dBA Eco Mode figure close to the Oxseryn 2800W's. Compared with the WEN DF360iX it gives more running watts in place of a named RV outlet.\n\nIt suits campers on long weekends who want propane to extend runs. The listing names ANSI/PGMA G300, UL2201 and EPA certification.",
     "specs": [
       "3300 running watts gas",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-amz-20",
     "description": "The WEN 56235i lists 2350 surge and 1900 rated watts in a 39 lb ultralight body. A fuel shutoff protects the carburetor and the power is clean enough for phones, tablets and TVs.\n\nAt 39 lb it is the lightest pick, beating the 40 lb Oxseryn 2800W by about a pound while giving less output. Compared with the Generac it gives up 600 running watts.\n\nIt suits car campers who need a light generator for chargers, a small fridge and lights. A fuel shutoff lets it run the carburetor dry before storage.",
     "specs": [
       "1900 rated, 2350 surge watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EIFoZ5I7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQXF2RKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQXF2RKM?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 2800W lists 2000 running and 2800 peak watts from a 79.8 cc engine, with a 1.1 gal tank that runs 9 hours at 25 percent load. Noise is listed under 58 dBA at 23 ft, and a Type-C port joins the USB and two 120V outlets.\n\nIt is quieter than the PowerSmart on paper and much cheaper. Compared with the Oxseryn 4400W it trades 1400 running watts for a lighter 40 lb frame.\n\nIt suits budget campers with moderate loads. Parallel capability and Eco mode are listed.",
     "specs": [
       "2000 running, 2800 peak watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 4400W lists 3400 running and 4400 peak watts, with a 30A RV port, two 120V outlets and a 12V DC port. A 2 gal tank gives up to 14 hours at 25 percent load in a 56 lb open-frame body.\n\nIt has the most running watts of the six and the lowest price. Compared with the Generac it gives 900 more running watts and drops the COsense shutdown.\n\nIt suits campers with an RV and a 30A cord who want maximum watts for the money. Eco mode, overload protection and low oil shutdown are listed.",
     "specs": [
       "3400 running, 4400 peak watts",

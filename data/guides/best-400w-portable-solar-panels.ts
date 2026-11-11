@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wmsVOrsDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4GFN4NX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4GFN4NX?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W is two 200W panels, each 13.89 lbs and 27.78 lbs total, using 25 percent 16BB N-type cells. Each has a quadfold design, magnetic handle, four kickstands, an accessory pouch, USB-C PD 45W and dual USB-A ports, and an IP65 rating.\n\nSplitting the load into two panels makes it easier to carry than a single 400W panel and adds direct USB charging. It costs less than the REGO.\n\nIt suits campers who carry panels in two trips and want USB ports. The kickstands help with angle.",
     "specs": [
       "2 x 200W, 25% N-type",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xJ75ix+nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB3NFXV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB3NFXV7?tag=rvgearlab-amz-20",
     "description": "The REGO is a N-type 25 percent blanket panel that unfolds to about the front width of an SUV or pickup, working from minus 10 to 65 degrees Celsius with an ETFE-laminated case. It names Jackery Explorer 1000 v2, EcoFlow DELTA 3 and Anker SOLIX stations.\n\nIt is the priciest pick here and the only blanket-style Renogy. It is the only blanket-style Renogy in the list.\n\nIt suits vehicle campers who lay it across a hood or ground. The station list helps matching.",
     "specs": [
       "400W N-type 25% blanket",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kuaO8PD-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKZLH2CV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKZLH2CV?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists 23.37 lbs, a folded size of 25.98 x 35.43 x 1.77 inches and 25 percent A+ 16BB cells. It has a 4-in-1 MC4 cable for XT60, DC7909, Anderson and DC8020, with a polyester canvas backsheet.\n\nIt weighs about 4 lbs less than the Renogy set and 11 lbs less than the E-POWO. It costs about $40 more than the E-POWO.\n\nIt suits campers who want a light single panel with 25 percent cells. The four-in-one cable covers common stations.",
     "specs": [
       "25% 16BB, 23.37 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E+eGkUGRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TDYG8M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TDYG8M?tag=rvgearlab-amz-20",
     "description": "The E-POWO lists 23.5 percent cells, 15.57 kg (about 34.3 lbs), a folded size of 37.76 x 24.96 x 1.3 inches and IP67 ETFE. It has multi-port charging, two kickstands and a built-in accessory pouch.\n\nIt is heavier than the Renogy set and thinner when folded at 1.3 inches. It costs less than the SOKIOVOLA.\n\nIt suits campers who want built-in USB ports and rain protection. The pouch keeps cables together.",
     "specs": [
       "23.5% cells, 34.3 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515S3HyymZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6CRQG94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6CRQG94?tag=rvgearlab-amz-20",
     "description": "The Greenmagic lists 39V, monocrystalline cells with 95 percent transparent film, 4 built-in adjustable kickstands, an 840D Oxford outer and a built-in MC4 cable. It folds to 32.09 x 31.30 x 1.97 inches.\n\nIt costs about $80 less than the SOKIOVOLA and builds the cable in so it cannot be lost. It has more kickstands than the E-POWO.\n\nIt suits campers who want a simple, rugged panel with a built-in lead. The kickstands set up in seconds.",
     "specs": [
       "39V, 400W, built-in MC4",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ns-ST+nVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6XVXWR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6XVXWR?tag=rvgearlab-amz-20",
     "description": "The CTOLITY lists 23 percent efficiency, a 40V output, an IP65 rating, an adjustable kickstand and an auto-reboot feature that adapts to changing light. It is named compatible with Jackery and EcoFlow stations.\n\nIts price is the lowest in the list and costs about half the REGO. It lists fewer physical specs.\n\nIt suits budget campers who own a station that takes 40V. The auto-reboot adapts to clouds.",
     "specs": [
       "23%, 40V, IP65",

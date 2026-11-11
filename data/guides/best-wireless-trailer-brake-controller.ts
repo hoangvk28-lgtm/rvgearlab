@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312hx69qfcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDY6NCLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDY6NCLJ?tag=rvgearlab-amz-20",
     "description": "The SILUXE is a Bluetooth plug-in unit for 1-2 axle trailers that connects through your vehicle's 7-way socket and talks to a phone app. The listing mentions five customizable profiles, wiring and connection monitoring with on-screen notices, and LED diagnostics.\n\nCompared with the Degowget below it, it states more about diagnostics, including a check on your vehicle's rear-light wiring from the app. It costs less than the POBWAV and about the same as the TICANEE and Vorlexa.\n\nBest for someone who swaps between a couple of trailers and wants stored profiles for each. As with every unit here, the 7-way socket must provide the +12V power the listing describes.",
     "specs": [
       "Five saved profiles",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K1IAahAlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC1MP2B8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC1MP2B8?tag=rvgearlab-amz-20",
     "description": "The Degowget is sold as compatible with the Echo mobile controller and fits only vehicles with a standard 7-way blade plug with an active +12V pin. The listing says it will not work with 4-way, 5-way or European round plugs.\n\nAgainst the SILUXE above, it puts more emphasis on portability with a locking tab and retention strap, and it states that settings are stored internally so braking keeps working if the phone locks or Bluetooth drops. It does not state an axle range.\n\nBest for a driver who moves between vehicles and wants clear socket-compatibility warnings up front. Confirm the axle range with the seller before towing a tandem.",
     "specs": [
       "7-way blade only, +12V pin",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A4gi6m8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF525Q9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF525Q9W?tag=rvgearlab-amz-20",
     "description": "The Vorlexa is another 51180 alternative for 1-2 axle trailers (2-4 brakes) on a 7-way connector with +12V and ground. The listing names a triple-axis inertia sensor for proportional braking and a fail-safe memory that keeps working if your phone dims or takes a call.\n\nCompared with the Degowget above it, it states the axle range and sensor type directly. Against the TICANEE below, it offers similar capability but leans harder on the fail-safe memory description.\n\nBest for a buyer who worries about what happens if the phone drops the link mid-trip. The listing still leaves out warranty detail, so ask before buying.",
     "specs": [
       "Triple-axis inertia sensor",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lMz7EzdIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCC5GPMR?tag=rvgearlab-amz-20",
     "description": "The TICANEE is a 1-2 axle plug-in unit with a 3-axis motion sensor and app-based setup. The listing says it needs an active 7-way blade connector with working 12V power, ground and turn-signal circuits, and mentions that some vehicles may need extra steps.\n\nCompared with the Vorlexa above, it is more specific about compatibility with cruise control, anti-lock braking and low-voltage electrical systems. It also says you pair directly inside the app instead of through your phone's Bluetooth settings.\n\nBest for buyers whose vehicle has an unusual or low-voltage electrical system who want that addressed in the listing. Price is about the same as SILUXE.",
     "specs": [
       "3-axis motion sensor",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2142PJOUeRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK8PFQJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK8PFQJR?tag=rvgearlab-amz-20",
     "description": "The Diyeeni is the lowest-priced wireless unit in this list and works with a standard 7-pin flat blade socket with +12V power and ground. The listing describes a 3-axis accelerometer for proportional braking, app control on iOS and Android, and a fault safety memory.\n\nAgainst the TICANEE above, it saves some money and gives up the detailed vehicle compatibility notes. Against the POBWAV below it, it costs much less and states more about its sensor.\n\nBest for a buyer who wants wireless convenience at the lowest cost and has confirmed their socket is powered. Check the axle range with the seller, since the listing does not clearly state it.",
     "specs": [
       "3-axis accelerometer",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21NuF23VskL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC1S5DH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC1S5DH1?tag=rvgearlab-amz-20",
     "description": "The POBWAV is a Bluetooth app-controlled plug-in unit built around a 7-way RV blade plug. The listing mentions motion-sensing proportional braking, saved settings and portability between compatible vehicles.\n\nIt is the highest-priced unit here, yet it states less than the SILUXE or Vorlexa on axle range, profiles and diagnostics. That puts it last, since extra price does not buy extra stated features.\n\nBest only if it is the unit available to you at a fair price. Otherwise the SILUXE or Vorlexa explain more for less money.",
     "specs": [
       "Bluetooth app control",

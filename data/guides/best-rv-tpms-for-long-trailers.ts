@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410wUDwAH5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F29GV3Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F29GV3Z9?tag=rvgearlab-amz-20",
     "description": "B-Qtech's solar TPMS has eight flow-through sensors, a dedicated signal repeater and a 0 to 199 psi range. B-Qtech's solar TPMS has eight flow-through sensors and a dedicated signal repeater for long-range reliability, a 0 to 199 psi range and seven custom alert modes. It charges by solar or USB with an explosion-proof lithium battery.\n\nIt has more range than the GUTA kits and includes a repeater, unlike RVMATE 6-Sensor. It costs the most here.\n\nBest for a long fifth wheel with many tires. It is a long-range option with a top psi range.",
     "specs": [
       "8 flow-thru sensors, repeater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BIdu43QAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ST3WM38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ST3WM38?tag=rvgearlab-amz-20",
     "description": "GUTA's GT30 six-sensor kit has a screen that shows up to 10 tires and a rechargeable monitor. GUTA's GT30 six-sensor RV TPMS has a large screen that shows up to 10 tires on one page and a rechargeable monitor battery rated 12 to 14 days. Alerts cover high and low pressure, temperature, fast leaks and missing sensors.\n\nIt costs more than GUTA GT90 6-Sensor and states no repeater for this version. Its sensor type is not stated.\n\nBest for a mid-length trailer with six tires. Confirm sensor mounting type with the seller.",
     "specs": [
       "6 sensors, 10 tires on one page",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y8Q6M4HpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYRWP12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYRWP12?tag=rvgearlab-amz-20",
     "description": "GUTA's GT90 six-sensor kit reads 0 to 188 psi and tracks up to 10 tires. GUTA's GT90 six-sensor kit tracks pressure up to 188 psi and temperature with a color LCD and three brightness levels. Alerts cover high and low pressure, temperature, fast leaks, sensor loss and low sensor battery.\n\nIt costs less than GUTA GT30 6-Sensor and states a high range. Its sensor type is not stated.\n\nBest for a mid-length trailer at high pressure. It is a mid-price six-sensor GT90.",
     "specs": [
       "6 sensors, 0 to 188 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4155hEoO7LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPM1WWL4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPM1WWL4?tag=rvgearlab-amz-20",
     "description": "GUTA's GT20 four-sensor kit uses flow-through sensors for metal stems and handles up to 24 tires. GUTA's GT20 four-sensor kit uses flow-through sensors for metal valve stems so air can be added without removing them. It reads 0 to 188 psi on a large color LCD and supports up to 24 tires with six alert types.\n\nIt costs less than B-Qtech 8 Flow-Thru Solar and covers four tires only. It reads 0 to 188 psi.\n\nBest for a tandem trailer wanting flow-through. Check valve stems before ordering.",
     "specs": [
       "4 flow-through sensors, 0 to 188 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BVVxRSauL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1BWB742?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1BWB742?tag=rvgearlab-amz-20",
     "description": "Liwogi's solar kit has 12 copper sensors and a 7 inch screen with readings to 0.1 psi. Liwogi's 12-sensor solar TPMS has a 7 inch screen, readings to 0.1 psi, copper sensors and customizable 4, 6, 8, 10 and 12 wheel modes.\n\nIt covers more tires than any other here and costs less than B-Qtech 8 Flow-Thru Solar. Its brightness is manual.\n\nBest for a very long rig with many tires. It is the biggest wheel count among the solar kits.",
     "specs": [
       "12 copper sensors, 7 inch solar display",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d0xZ7rAFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH9FCNM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH9FCNM9?tag=rvgearlab-amz-20",
     "description": "RVMATE's six-sensor solar kit lists 0 to 87 psi and a strong 433.92MHz signal. RVMATE's six-sensor TPMS has pre-paired external sensors, solar charging, a 0 to 87 psi range and alerts for pressure, temperature, leakage, low battery and signal loss.\n\nIt costs far less than the GUTA kits and its 87 psi ceiling is low for heavy tires. No repeater is mentioned.\n\nBest only for lower-pressure tires. The 87 psi ceiling limits it to lower-pressure tires.",
     "specs": [
       "6 external sensors, 0 to 87 psi",

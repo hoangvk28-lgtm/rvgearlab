@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jEphSX80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB87MTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB87MTK?tag=rvgearlab-amz-20",
     "description": "The EINDER is a twist-on strainer with a 50 mesh stainless screen and a 1/2 inch NPSM inlet and outlet. The listing names the 33, 34, 42, 44, 51 and 54 diaphragm pump series it fits, which puts it at the top of this lineup for owners of Shurflo-style pumps. A transparent sight glass shows debris without pulling the screen, and the pack ships as a 2-pack with a spare screen included.\n\nAgainst the WASSERMANN ranked just below, the EINDER trades a male NPT inlet for NPSM threads that match common twist-on pump inlets, and adds a transparent sight glass. Next to the 2 Pack from CRESTWAVE, it keeps debris visible, which shortens the time between a clogging screen and your noticing it. That visibility is the mechanism behind its top spot, because a screen you can see is a screen you actually clean.\n\nIt suits Shurflo-style owners who want to spot a clogging screen early. Seeing sand collect through the sight glass means you clean on your own schedule, with the pump still breathing freely and the shower still strong. It is a sensible first strainer for a rig that travels through sandy or rusty areas, and the second screen in the box covers the next change.",
     "specs": [
       "50 mesh stainless screen, 1/2 inch NPSM",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413ozqjl0aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7QZ3R8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7QZ3R8K?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN is a 1/2 inch NPT inline strainer with a 50 mesh stainless screen and a clear removable bowl. The body is nylon that the listing calls heat and corrosion resistant, and it threads in line with a male inlet and a female outlet. That inline format makes it the pick for plumbing runs rather than twist-on pump ports, and the clear bowl keeps the screen condition obvious.\n\nCompared with the EINDER above it, this is one unit instead of a pair, and its NPT threads suit tapered fittings that the EINDER's NPSM threads reject. It is cheaper than most of the two-packs here, which gives clear-bowl visibility to owners whose plumbing already uses NPT and who need just one strainer for a pump with a standard 1/2 inch outlet.\n\nIt is best for pumps with a 1/2 inch outlet, including the WASSERMANN 3, 4 and 5 WDP series the listing names. The bowl unscrews by hand, so a ten second look after every trip keeps debris from building, and the nylon body suits an RV bay where heat and moisture are routine. A single unit at a low price makes it an easy replacement for an aging inline screen.",
     "specs": [
       "50 mesh stainless screen with a clear bowl",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uz2QiOicL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3NZNSJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3NZNSJQ?tag=rvgearlab-amz-20",
     "description": "The CRESTWAVE 2-Pack delivers two 50 mesh stainless screens with a 1/2 inch NPSM threaded inlet. The listing names 4008-101-A65 and the 2088 series as direct replacements and describes an upgraded O-ring seal for a drip-free connection. That part number detail is its main strength in this lineup, because you can cross-check it against your old strainer before you order a thing.\n\nNext to the EINDER, you gain a lower price per unit and part numbers to match, and next to the CRESTWAVE Single you gain a second screen in the same box. That spare is worth having when a mesh tears while you are parked far from a store, and it turns a ruined weekend into a two minute swap at the pump.\n\nThis is a good fit for owners whose pump matches the part numbers it names and who like carrying a backup. It protects the pump from sand and scale, and the tool-free twist-on makes a swap quick at any campsite, even when the pump bay is cramped and the light is poor. Two screens at this level of fit detail make it a dependable all-round choice.",
     "specs": [
       "Two 50 mesh stainless screens, 1/2 inch NPSM",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XLTHIh3QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRV7T12H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRV7T12H?tag=rvgearlab-amz-20",
     "description": "The LXJZCP is a two-piece set with a 50 mesh stainless screen, and the listing names WFCO and Shurflo pumps as compatible. It is designed to unscrew, rinse and reassemble without tools, so cleaning at the campsite takes a minute. Naming two of the most common RV pump makers makes it an easy shortlist for a large share of rigs on the road today.\n\nIt sits just below the CRESTWAVE 2-Pack in this ranking, where part numbers give a firmer cross-check, while the LXJZCP leans on brand compatibility across WFCO and Shurflo. Both packs hand you a spare screen, so the real difference between them is how much fit detail each page prints for you to compare. Neither one needs tools, and either one gives you a backup in the drawer.\n\nChoose it if you own a WFCO or Shurflo pump and like comparing the thread against your existing strainer yourself. The pair of screens gives you a ready replacement for the next trip, and the unscrew-and-rinse design suits owners who clean on the spot rather than carrying tools. For a rig that sees mixed campground water, that quick rinse habit does more for the pump than any extra feature.",
     "specs": [
       "50 mesh stainless screen in a two-piece set",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KHWK9dBIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3NWJVRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3NWJVRZ?tag=rvgearlab-amz-20",
     "description": "The CRESTWAVE Single is the same 50 mesh stainless, 1/2 inch NPSM strainer as the 2-Pack, sold as one unit. It lists 4008-101-A65 and 2088 series compatibility and an O-ring seal for a leak-free connection. As a single unit, it is the simple answer when one screen is cracked and the rest of the pump system is working well.\n\nIt is the second cheapest pick here, and the difference from the CRESTWAVE 2-Pack is quantity, so you save money today. Compared with the WASSERMANN, it adds NPSM twist-on threads suited to Shurflo-style inlets in place of an NPT inline body, which changes which pump ports it will seat on. Both of those threads are common, so one of the two strainers will suit nearly every rig.\n\nIt is best for a first-time replacement when you need exactly one screen and want it fast. The tool-free twist-on install gets the pump protected again at the campsite, and a longer trip is the moment to step up to the 2-Pack so a spare rides along in the drawer. Until then, this single screen does the same protective job at a lower cost.",
     "specs": [
       "50 mesh stainless screen, 1/2 inch NPSM inlet",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mwK-AtgSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GQL6F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GQL6F8?tag=rvgearlab-amz-20",
     "description": "The TDRRICH is a 110V self-priming diaphragm booster pump with a 3-chamber design, 4 gallons per minute flow and an automatic pressure switch. The listing cites CE ISO 8846 overheat protection and a built-in filter, and the pump comes with a bracket and rubber feet to reduce noise. It is the one pick in this lineup that adds pressure to the system instead of protecting a pump.\n\nAgainst the strainers above, it does a different job. Where they protect the onboard pump from grit, the TDRRICH lifts low campground pressure at the source, which makes it a companion to a screen instead of a substitute for one. The built-in filter handles coarse debris before the diaphragm chambers, and the automatic switch keeps pressure steady without any manual control.\n\nIt suits owners who connect to low-pressure spigots and have a 110V outlet at the site. A 4 GPM pump with an automatic switch means the shower and the kitchen faucet get steady flow whenever the hookup runs low, and the rubber feet and bracket keep the motor quiet in a cabinet. The bracket makes it simple to fix the pump in place inside a cabinet or bay.",
     "specs": [
       "4 GPM self-priming diaphragm pump, 3 chambers",

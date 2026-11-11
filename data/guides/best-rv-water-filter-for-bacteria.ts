@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hrQxoprdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-amz-20",
     "description": "The Virus Hero system stacks a 1 micron sediment filter, a 0.2 micron Virus Hero filter and a 0.5 micron carbon block in three 10 inch housings with a bracket. The listing says the Virus Hero filter reduces or removes viruses, bacteria and cysts, and calls the filters NSF certified.\n\nIt is the only pick here whose listing states a bacteria and virus claim in plain terms, which puts it ahead of Ziwshom 5-Stage's physical 0.01 micron membrane wording. It costs more than the Ziwshom, and the extra housings take up more space.\n\nBest for campers who suspect questionable hookup water and want a documented pathogen stage. Read the NSF details on the maker's page for exact scope.",
     "specs": [
       "0.2 micron Virus Hero",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l3LtshqzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4G198F?tag=rvgearlab-amz-20",
     "description": "Ziwshom's system has five stages and a 0.01 micron UF membrane, a transparent housing and a stated 4.5 gpm flow. It ships with brass threads, adapters, a wrench and an O-ring.\n\nIts listing talks about microscopic particles rather than bacteria, so it sits below the Virus Hero System on explicit claims. It costs less and flows faster, and a 0.01 micron membrane is physically fine.\n\nBest for buyers who want fine physical filtration and high flow. The listing does not use the word bacteria, so ask the maker for documentation.",
     "specs": [
       "0.01 micron UF membrane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZU-Kyn8sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LNFQ966?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LNFQ966?tag=rvgearlab-amz-20",
     "description": "Camco EVO is a marine canister that fits standard 2.5 by 10 inch cartridges, with a 5 micron sediment cartridge containing GAC and KDF, a stainless bracket and hose fittings of 1/2 and 5/8 inch. The listing says it protects against bad taste, odors, sediment, bacteria, chlorine and other contaminants.\n\nIt mentions bacteria, which Glacier Fresh 4-Pack and AQUA CREST do not, but it gives no micron figure for bacteria. It also uses boat-style hose fittings rather than garden hose threads, so an adapter may be needed.\n\nBest for tight spaces and tank-fill lines on rigs that accept boat-style fittings. Treat the bacteria mention with caution since no standard is named.",
     "specs": [
       "2.5 x 10 inch canister",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V9gM9ZPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NYVRP9R?tag=rvgearlab-amz-20",
     "description": "AQUA CREST is a hose filter certified, per the listing, against NSF/ANSI 42 and 372, using KDF and activated carbon. It includes a rotating hose protector, passed pressure testing per the listing and lasts about three months.\n\nIt is the documented taste and chlorine option here. NSF/ANSI 42 covers aesthetics and 372 covers lead-free content, so neither is a bacteria claim, and it sits below Camco EVO Marine on bacteria wording.\n\nBest for campers who add UV or boiling and want a certified hose filter. Do not rely on it for pathogens.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iXBhxvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-amz-20",
     "description": "Glacier Fresh's 4-pack uses GAC and KDF with two flexible hose protectors, and the listing says independent laboratory testing showed 97.9% chlorine reduction. Each filter lasts about three months.\n\nNext to AQUA CREST it has a specific chlorine number but no named standard. It gives you four filters for less money than the system kits, but no bacteria claim.\n\nBest for chlorine taste at a low cost. Add a UV or boil step if bacteria is a concern.",
     "specs": [
       "97.9% chlorine claim",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gkmtp4oaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6FLYPM?tag=rvgearlab-amz-20",
     "description": "Drupany ships four hose filters with KDF and GAC, each rated for up to 1,350 gallons or three months, plus two hose protectors for long trips or multiple vehicles. That multi-pack format suits travelers who want spares on hand.\n\nIt is the cheapest of the bundles and states capacity, but it is only a chlorine and taste filter, no better on bacteria than Glacier Fresh 4-Pack. Treat it as a budget taste filter and nothing more.\n\nBest for budget users on trusted municipal hookups. Pair with a purification step if the water source is uncertain.",
     "specs": [
       "KDF and GAC media",

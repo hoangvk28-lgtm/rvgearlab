@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4124EStkA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-amz-20",
     "description": "The Glocusent pairs a 5000mAh battery with a Type-C port that fully recharges in 3.5 hours and a 10W reverse fast charging function. Its seven modes cover 1800K warm to 6000K cool, with a night light mode down to 1 lumen and a red light.\n\nIt states the fastest phone-charging output of the four, ahead of the Enbrighten 650 Lumen at 1A. The seven modes give far more color options than the AYL 1800LM, which offers four.\n\nIt suits a tent camper who wants a bedside night light and a fast top-up for a phone from one pack. The hidden bottom hook and anti-slip handle give two hanging options.",
     "specs": [
       "5000mAh, 10W reverse charging",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j733mVWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-amz-20",
     "description": "The Cullaby packs 7500mAh behind a USB-C output that doubles as a phone charger, and the light itself reaches 3000 lumens. Five modes cover three white tones, plain red and a red strobe, all dimmable without steps.\n\nIt holds the largest pack of the four, 2500mAh above the Glocusent 1200LM and well over the 4400mAh Enbrighten 650 Lumen and AYL 1800LM. The removable diffuser cap and dual hanging design add a tent-light and work-light role.\n\nIt suits a household that wants the most reserve for phones during an outage. The wide dimming range means the light can stay on dim for hours.",
     "specs": [
       "7500mAh, USB-C port",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d4pNqxinL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RYZRZP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RYZRZP8?tag=rvgearlab-amz-20",
     "description": "The Enbrighten is an 11 inch lantern with a built-in 4400mAh pack that charges by Micro USB cable, and it also takes 3 D-cell batteries. A USB port outputs 1A for charging devices, and the light dims in steps up to 650 lumens.\n\nOf the four, it is the only one that accepts replaceable D-cells, which covers a long outage after the pack runs flat. It also lists IPX4 water resistance and an impact-resistant build, which the AYL 1800LM lists only as water-resistant.\n\nIt suits storm shelters and cabins where a spare set of D-cells sits in a drawer. A locking carabiner-style handle with a textured grip allows overhead hanging.",
     "specs": [
       "650 lumens, 4400mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41twA2bsGZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L65L7PW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L65L7PW?tag=rvgearlab-amz-20",
     "description": "The AYL is fitted with 46 LED bulbs for a stated 1800 lumens and carries a built-in 4400mAh battery. It lists up to 12 hours on a charge, four modes (daylight, warm, both and flash) and an IP44 waterproof rating.\n\nIt lists more light than the Glocusent 1200LM and the Enbrighten 650 Lumen. A slip-proof handle gives it a simple hands-free hang.\n\nPick it when raw brightness leads the list and a basic power bank is a bonus. The dimmable modes let it serve for a table or a tent.",
     "specs": [
       "1800 lumens, 46 LEDs",

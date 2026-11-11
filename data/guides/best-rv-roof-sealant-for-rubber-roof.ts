@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21zX9N4YUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Lap Sealant is a self-leveling EPDM caulk for rubber roofs, seams and vents, sold as one 10 ounce tube. The listing says one tube covers about 25 linear feet and flows around vents, along edges and into seams.\n\nAgainst Dicor 501LSW, it states EPDM and a linear coverage figure. Against WELLUCK 4PC, it is a single tube at a low price.\n\nIt is the best match for a small EPDM lap or vent seal. It earns its slot for epdm lap spots.",
     "specs": [
       "Self-leveling EPDM caulk",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410A5QMAQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VK945H?tag=rvgearlab-amz-20",
     "description": "WELLUCK 4PC is a white self-leveling lap sealant with a hybrid formula, 10 minutes of working time and a 24 hour cure. The listing says it is compatible with EPDM and TPO sheeting and adheres to aluminum, brass, steel, glass, mortar, wood, PVC and TPV.\n\nAgainst PAULINN, it states working time and a temperature range of 0 to 104 degrees F. Against Ziollo Single, it gives four tubes.\n\nIt suits EPDM roofs with several flat joints and owners who want a work window. It is a natural fit for flat epdm laps.",
     "specs": [
       "4 tubes, self-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vWMHmxcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-amz-20",
     "description": "PAULINN Self Leveling Lap Sealant is a white tube that sets within 30 minutes and fully cures in 24 hours. The listing says it is odorless, non-toxic and UV resistant for flat surfaces of an RV roof.\n\nAgainst WELLUCK 4PC, it states a faster set time. Against Ziollo Single, it covers more uses such as windows and sinks.\n\nIt suits a small flat repair with a quick set. Think of it as the pick for quick flat repairs.",
     "specs": [
       "Self-leveling, white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KuM52fCCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-amz-20",
     "description": "Dicor 501LSW-1 is a 10.3 ounce white self-leveling lap sealant for horizontal RV roofing. The listing says it is sun-ray stabilized and will not stain or discolor roofing material.\n\nAgainst Ziollo Single, it is a widely stocked brand. Against Liquid Rubber Lap, it states stain resistance and fewer system parts.\n\nIt suits owners who want an RV-brand sealant for flat laps. Buyers focused on brand-loyal flat laps will find it a sensible match.",
     "specs": [
       "10.3 oz white self-leveling",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DQZAi5GYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Lap Sealant is a white 2 pack self-leveling sealant for horizontal details such as vents, skylights, AC units and antenna mounts. The listing says it will not adhere to silicone and pairs with Liquid Rubber seam tape and coating.\n\nAgainst Dicor 501LSW, it states limits plainly and links to a coating system. Against the Liquid Rubber 5 Gal, it is the detail sealant.\n\nIt suits owners coating a rubber roof with the Liquid Rubber system. It earns its slot for matched roof systems.",
     "specs": [
       "2 tubes, self-leveling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant in 5 gallons is a white elastomeric coating system designed to work with EPDM, TPO, fiberglass and aluminum roofs. The listing describes a three-step weekend project with a cleaner, an EPDM and TPO primer and the coating.\n\nAgainst the tube sealants, it covers the whole roof rather than a lap. Against Liquid Rubber Lap, it is the coating partner.\n\nIt suits owners resealing an entire EPDM roof. It is a natural fit for whole epdm roofs.",
     "specs": [
       "5 gallon elastomeric coating",

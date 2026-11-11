@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51os22rWmfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8BXHWH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8BXHWH?tag=rvgearlab-amz-20",
     "description": "The TURBRO kit lists a 60 to 75 percent reduction in the power needed to start non-inverter RV air conditioners and fits units up to 15,000 BTU. It runs on 100 to 240V, carries dual IPX5 waterproofing with an epoxy-sealed circuit board and states it can run two ACs under 30A on a 30A hookup with two kits.\n\nAgainst the Kedite and NAYAMOL, it adds a stated voltage range and a BTU ceiling. Against the SoftStartRV unit, it costs less than half.\n\nBest for non-inverter rooftop units that need over 40A to start. A solid all-round choice with clear specs.",
     "specs": [
       "60 to 75 percent startup reduction",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QqDCVi0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV unit is described as 40 percent smaller to fit low-profile RV AC units and 100 percent waterproof. Its listing says it can start two ACs on 30 amp, one on a small generator or 15 amp, and run a 15,000 BTU AC on a 2200W generator.\n\nAgainst the TURBRO, it adds live support and technician help but costs far more. Against the Cosdam, it is a smaller unit with an established support network.\n\nBest for owners who want a known brand with live installation help. A good fit for low-profile roofs.",
     "specs": [
       "40 percent smaller, low-profile fit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YXdnjIq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD3TVDV?tag=rvgearlab-amz-20",
     "description": "The Kedite soft starter lists inrush reduction up to 75 percent, an IP65 waterproof rating and reverse motor protection. It is aimed at DIY installation and works with generators, solar systems and standard power supplies.\n\nAgainst the TURBRO, it costs less and lists a higher IP rating. Against the NAYAMOL, it adds reverse motor protection.\n\nBest for budget DIYers who want a rooftop-ready rating. A good value.",
     "specs": [
       "Up to 75 percent inrush reduction",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xQFj86vBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM3BRBNK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM3BRBNK?tag=rvgearlab-amz-20",
     "description": "The NAYAMOL lists starting a 15,000 BTU air conditioner on a 2200W generator, a 65 to 70 percent startup current reduction and use on a 20A household connector. It has an insulated dustproof housing and a waterproof wiring harness.\n\nAgainst the Wodli, it lists the same claim without LED indicators. Against the Cosdam, it states a reduction percentage and a 15,000 BTU example.\n\nBest for people running a 15,000 BTU AC on a small generator or household outlet. A practical pick.",
     "specs": [
       "65 to 70 percent startup reduction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LIdNJhHBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8JC9HNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8JC9HNN?tag=rvgearlab-amz-20",
     "description": "The Cosdam is a 110V, 60Hz soft start module for compatible rooftop units in motorhomes, travel trailers and fifth wheels. Its listing describes gradual compressor inrush, fewer voltage dips and light flicker and notes one module is needed per air conditioner.\n\nAgainst the Kedite and NAYAMOL, it costs less. Against the TURBRO, it has no stated reduction percentage.\n\nBest for budget shoppers with a compatible 110V rooftop unit. A basic starting point.",
     "specs": [
       "110V, 60Hz soft start module",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ECAmJ6AlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-amz-20",
     "description": "The SoftStart Home soft starter lists a startup power reduction of up to 70 percent and compatibility up to 6 tons (72,000 BTU) on 110 to 240V units. It is aimed at air conditioners and heat pumps on generators, RVs and solar.\n\nAgainst the RV-specific kits, it covers residential and commercial units. Against the TURBRO, it supports far larger systems at far higher cost.\n\nBest for owners with an oversized AC or a home-style unit in a van or tiny house. A strong pick for large loads.",
     "specs": [
       "Up to 70 percent startup reduction",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DBejhC4zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B3WN24K8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B3WN24K8?tag=rvgearlab-amz-20",
     "description": "The iodoo has a 10,000mAh built-in battery, 3000 lumens, 2700K, 4000K, 6500K and red flashing SOS colors and long-press stepless dimming. It lists a 15 m remote range, one-to-many control pairing, an IP45 rating and a magnetic base with a hook.\n\nIt has the longest named remote range here, 15 m, ahead of the Sinvitron at 10 m. It also controls several lights at once.\n\nIt suits campers who run several lights and want one remote for all. The warm 2700K setting is gentle at night.",
     "specs": [
       "10,000mAh, 3000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415Z9YDxDEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBWM39T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBWM39T?tag=rvgearlab-amz-20",
     "description": "The Trliradyn lists 4000 lumens from 30W, covering 200 square meters with 3 color temperatures (3500K, 5500K and 9000K) and stepless dimming. It runs 14 hours on high and over 100 hours on low, with IPX5 waterproofing, SOS mode, a hook and a magnet.\n\nIt has the highest lumen figure here. It costs more than the iodoo.\n\nIt suits campers who want a very bright light for a large tent or awning. The remote controls modes.",
     "specs": [
       "30W, 4000 lumens",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bGT3kTfDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VDQ83NC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VDQ83NC?tag=rvgearlab-amz-20",
     "description": "The Sinvitron lists 1000 lumens, a 5200mAh battery that doubles as a power bank, up to 150 hours of runtime and a remote that works up to 10 m (33 ft). It has 5 modes including natural, warm, cool and red strobe, stepless dimming and IPX5 water resistance, and is sold in two near-identical listings.\n\nIt charges phones, which the iodoo's listing does not name. It has a lower lumen figure than the iodoo and Trliradyn.\n\nIt suits campers who want a lantern, remote and a phone charger. It hangs from a hook or a magnet.",
     "specs": [
       "1000 lumens, 5200mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l+hb3ibwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLTRBNGN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLTRBNGN?tag=rvgearlab-amz-20",
     "description": "The Jearytop is a 2-pack of 120 LED lanterns with a 4500mAh battery each, solar and USB charging, a 4-level power display and a remote. It has 5 gears (strong, medium, low, flash and SOS) with a constant-current chip.\n\nIt is the only solar pick here and it is sold as a pair. It lacks the stated lumens of the others.\n\nIt suits campers who want two lights charged by the sun and a remote. The power display shows the charge.",
     "specs": [
       "2 lanterns, 4500mAh each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xjEtgcP9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079M23GTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079M23GTV?tag=rvgearlab-amz-20",
     "description": "The Ryno Tuff has an IR remote, 5 settings up to 150 lumens, a yellow-tinted bulb that is listed as practically invisible to most insects, USB charging, IP65 protection and over 300 hours at the lowest setting. It has a carabiner hook and a lifetime warranty.\n\nIts price is the lowest, and it alone pairs a bug-friendly yellow light with an IP65 rating. Brightness tops out far below the others.\n\nIt suits campers who fight bugs on summer nights and want a rugged lantern. The IR remote needs aiming.",
     "specs": [
       "150 lumens, IR remote",

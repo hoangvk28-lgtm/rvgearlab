@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nMpppy0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPZLCDMV?tag=rvgearlab-amz-20",
     "description": "The Champion 4500 Wireless lists 4500 starting and 3500 running watts, a wireless remote key fob that starts and stops it from up to 80 feet away, 61 dBA noise and up to 14 hours on 2.3 gallons. CO Shield, an Intelligauge meter, an EZ Start Dial and Economy Mode are included.\n\nIt states the longest fob range of the six, 80 feet against the 50 feet of the LIFAN 4800. The parallel kit (sold separately) links it to a Champion inverter of 2800 watts or higher.\n\nIt suits RV and tailgate users who want a quiet, well-supported inverter with a long fob range. A 3-year warranty and lifetime technical support are listed.",
     "specs": [
       "4500 start, 3500 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51I4QodNEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQY3MBLJ?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 4300W is a dual fuel inverter generator with key fob remote start, a dedicated 30A outlet for air conditioners and microwaves, and 53 dBA operation. It lists gasoline runtime of 11.5 hours and propane runtime of 34 hours at 25 percent load, with a 64 pound body, built-in wheels and a telescoping handle.\n\nIt states 53 dBA, within a decibel of the quietest here, and its 34 hours on propane at light load is the longest runtime listed. It also names UL2201 and EPA certification with CO auto-shutoff and low-oil protection.\n\nIt suits RV campers who want a quiet dual-fuel unit on wheels. The listing says to fire it up from the couch.",
     "specs": [
       "4300W dual fuel, key fob",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V3x5AqkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQMK94H7?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4000 lists 4000 peak and 3300 rated watts at under 3 percent THD, with gas or propane, a telescoping handle and remote start with a key fob, plus electric and recoil start. It has a 120V duplex outlet, a TT-30R RV outlet and two USB outlets, with as low as 52 dBA and up to 7 hours on a 1.69 gallon tank.\n\nIt states the lowest noise figure of the six, 52 dBA, a decibel under the AIVOLT 4300W. An LED data center shows fuel level, output, run time, voltage and hours.\n\nIt suits small trailers and car campers who want quiet dual-fuel inverter power with remote start. A 3-year limited warranty is listed.",
     "specs": [
       "4000 peak, 3300 rated watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YGuuInC8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRP8C7Y7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRP8C7Y7?tag=rvgearlab-amz-20",
     "description": "The LIFAN 4800 lists 4800 starting and 3800 running watts, a wireless key fob starting it from up to 50 feet and 58 dB at 25 percent load in an enclosed housing. A 2.64 gallon tank gives up to 10 hours, Smart Eco-Mode adjusts engine speed, and CO-MINDER and low-oil shutoff are included.\n\nIt lists more running watts than the Champion 4500 Wireless, and the listing says it starts a 13,500 BTU RV air conditioner along with a fridge, microwave and lights. It is a gasoline-only unit.\n\nIt suits trailer owners who need to run an AC and appliances together. The 30A RV-ready outlet connects directly.",
     "specs": [
       "4800 start, 3800 running watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GKn1HmkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR78XF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR78XF?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 6600 Dual lists 6600 peak and 5300 running watts on gasoline, and 5900 peak and 4800 running on propane. It has push-button electric start with a remote key fob, a TT-30R RV receptacle and a transfer switch ready L14-30R, with a 274cc engine and CO shutdown.\n\nIt adds propane to the electric-start Westinghouse 6600 line, and its 5300 running watts sit well above the inverter units here. A propane hose comes in the box.\n\nIt suits large trailers and home essentials where two air conditioners may be needed. A 3-year limited warranty is listed.",
     "specs": [
       "6600 peak, 5300 running watts",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518obGPYx8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXX3D6WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXX3D6WC?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 13500 lists 13,500 peak and 10,500 running watts on gasoline, and 12,500 peak and 9500 running on propane. It has a key fob remote start, electric and recoil start, a 500cc engine with low-oil and CO shutdown and up to 19 hours of runtime.\n\nIt offers the highest running watts of the six, roughly twice the Westinghouse 6600 Dual. Two GFCI household outlets, a transfer switch ready L14-30R and a 50A RV outlet complete the panel.\n\nIt suits large RVs and whole-home essentials with a transfer switch. A key fob, 12V charger and tools come in the box.",
     "specs": [
       "10,500 running, 13,500 peak watts",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f3UDDnf2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCM6YMMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCM6YMMZ?tag=rvgearlab-amz-20",
     "description": "The Fseoot inflates at the push of a button, and the pump shuts itself off once the beams are full. One person can pitch it in about two minutes, and 210D silver-coated Oxford with a PU 3000mm rating covers a floor of roughly 6.9 ft square under a 5.7 ft ceiling.\n\nAuto-inflation is the standout, since every other tent here needs a hand pump or a battery pump you operate. It costs a little more than the VEVOR and has the stronger stated rain rating.\n\nSolo pitchers and first-timers will like the one-button routine. Dual doors and top mesh vents give airflow.",
     "specs": [
       "Push-button auto-inflation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xt3l8rdbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BCGXVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BCGXVM?tag=rvgearlab-amz-20",
     "description": "The VEVOR cabin inflates automatically in about three minutes, and a full charge supports up to ten inflations. It uses 0.3mm TPU air tubes, a PU2000 Oxford shell and a canopy over the door, with an interior that fits an 86 inch square air mattress.\n\nIt costs less than every other tent here yet includes a self-inflating pump, which the SHANQUAN and YOYIOTDR lack. The 2000mm rating is the lowest in the list.\n\nCampers who want an effortless pitch on a budget will like it. TPU tubes resist deformation better than cheap PVC.",
     "specs": [
       "Auto-inflating TPU air tubes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YUT1qV-YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QHN8T3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QHN8T3?tag=rvgearlab-amz-20",
     "description": "The SHANQUAN covers roughly 6.9 ft by 6.9 ft under a 5.6 ft ceiling, with 210D anti-tear Oxford rated 3000mm, a built-in mosquito net and double doors. Air beams replace poles, and mesh windows provide ventilation.\n\nIts anti-tear fabric and 3000mm rating match the Fseoot, and inflation is by hand. It costs a little more than the Fseoot.\n\nCampers who like a sturdy shell and built-in net will enjoy it. It suits two to four people.",
     "specs": [
       "Floor about 6.9 ft square",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v+Pa5MD8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRZSCBG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRZSCBG8?tag=rvgearlab-amz-20",
     "description": "The YOYIOTDR comes with a transparent skylight, an awning and a high-pressure hand pump. It weighs 20.7 lb and packs to about 23.6 by 10.2 by 10.8 inches, with mesh windows and waterproof fabric.\n\nIts skylight and awning are unusual in this price range and set it apart from the Fseoot and SHANQUAN. The SANISANO has a stove jack that this tent lacks.\n\nFamilies who like views and shade will like it. It inflates in minutes with the hand pump.",
     "specs": [
       "Skylight and awning",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41acy1pEFnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMYVMNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMYVMNY?tag=rvgearlab-amz-20",
     "description": "The Aoxun uses 4-inch PVC air columns with automatic pressure relief and a 420D Oxford body with taped seams and a 3000mm hydrostatic rating. The interior measures about 9.8 ft by 6.9 ft under a 6.6 ft peak, with PVC transparent windows.\n\nIts interior is the largest in the list and it has a 7-level wind rating. It costs near the cap.\n\nFamilies who want space and a stout shell will like it. Zippered mesh panels add ventilation.",
     "specs": [
       "About 9.8 ft by 6.9 ft interior",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iPHvmOHIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFV8GVNB?tag=rvgearlab-amz-20",
     "description": "The SANISANO is a 4-person air tent measuring about 9.8 ft long, 6.9 ft wide and 6.4 ft tall, with 420D Oxford and a built-in stove jack. It includes a pump, stove fire mat, ground tarp, stakes, repair patches and seal tape.\n\nOf the six, only this one has a stove jack built in, and setup takes about 15 minutes. The Aoxun is larger.\n\nCool-weather campers who own a compatible stove will like it. Use a tent-rated stove only and keep it away from fabric.",
     "specs": [
       "Stove jack, 420D Oxford",

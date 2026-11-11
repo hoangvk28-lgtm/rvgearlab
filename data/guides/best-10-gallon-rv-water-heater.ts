@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GmhRj6ZKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06Y1QZPFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y1QZPFK?tag=rvgearlab-amz-20",
     "description": "The Suburban SW10D is a 10 gallon porcelain-lined steel tank heater with direct spark ignition. It has a replaceable anode rod and an optional electric element for campsite or generator power.\n\nWhere the Dometic WH-10GEA uses an aluminum tank with no anode, the SW10D keeps the classic steel tank with an anode you replace on a schedule. Suburban's flue tube design slows combustion to improve heat transfer.\n\nBest for owners replacing an existing Suburban who want the familiar layout and serviceable anode. It also suits buyers who like steel tanks.",
     "specs": [
       "Porcelain-lined steel tank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Klheb3ecL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVBZ8HZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVBZ8HZC?tag=rvgearlab-amz-20",
     "description": "The Dometic WH-10GEA is a gas and electric 10 gallon heater with an electronic ignition burner at 10,000 BTUs and a lightweight aluminum tank that needs no anode. A winterization bypass kit comes pre-installed.\n\nCompared with the Suburban SW10D, it drops the anode maintenance and adds a bypass kit that simplifies draining. The listing says its 10 gallon tank is 66 percent larger than a standard tank size.\n\nA great fit for owners who want less maintenance and an easier winterizing routine. It also suits anyone moving from a smaller tank.",
     "specs": [
       "10,000 BTU electronic ignition",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TY+9kBdlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5LK95T?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 10 Gallon RV Tank Water Heater is a propane and electric hybrid with a 12,000 BTU burner and a porcelain-lined tank. A remote temperature control lets you adjust and switch modes from inside the RV.\n\nIt has the highest BTU rating here, and it costs around $500, well below the Suburban and Dometic units. Hybrid mode helps recover hot water faster at peak use.\n\nA strong pick for owners replacing an older 10 gallon heater who want faster recovery and an inside control. It also suits budget upgrades.",
     "specs": [
       "12,000 BTU propane burner",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-niRnbuyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5BZKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ5BZKQ?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 10 Gallon RV Water Heater Replacement is made to fit 16.5 by 16.5 inch and 18.5 by 18.5 inch doors and keeps 1/2 inch NPT plumbing. It has a magnesium anode rod and dry burn, over-pressure and overheat protections described as CSA certified.\n\nIt is the pick when cutout fit is the main worry, since the listing names both door sizes. It connects to 12V DC for gas ignition and 120V AC for electric heating.\n\nBest for DIY owners who want a simple swap with named door sizes. It also suits beginners.",
     "specs": [
       "Fits two common door sizes",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317wcNlSs3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL9M23XX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL9M23XX?tag=rvgearlab-amz-20",
     "description": "The Thermomate ES1000 is a 10 gallon 120V 1500W point-of-use tank with an Incoloy-800 element and a porcelain enamel glass tank. The listing gives a 24.5 inch low profile and an adjustable thermostat.\n\nUnlike the gas and electric heaters here, it is a hard-wired electric heater that can run on its own or as a booster. It costs less than half of the Suburban SW10D.\n\nA good fit for tiny homes, conversions or an RV where propane is not wanted. It also suits owners adding a second heater.",
     "specs": [
       "10 gallon 120V 1500W",

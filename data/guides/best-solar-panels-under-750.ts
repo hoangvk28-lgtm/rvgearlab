@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-amz-20",
     "description": "HQST pairs two 200W N-type panels, each on 16BB Grade A+ cells that reach 25.4 percent at best, with IP65 protection and a corrosion-resistant aluminum frame. Each measures 46.3 by 30.1 by 1.2 inches and is 13 percent smaller and 14.5 percent lighter than standard panels.\n\nAt about $230 it gives 400W for the price of a single portable panel and is the lowest price per watt in this guide. The STAR gives 990W for about $430 more.\n\nChoose it for a camper van or RV roof where you want 400W of rigid solar. It is sized for Class B vans.",
     "specs": [
       "Two 200W N-type, 400W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Eu3rd0LhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFBSBWDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFBSBWDG?tag=rvgearlab-amz-20",
     "description": "STAR ships two 495W frameless bifacial panels with 25.6 percent N-type cells at 24V, certified to UL, ISO9001 and CE standards. Without a frame, dust and snow slide off, and the maker puts the gain at 15 percent over framed panels.\n\nAt about $660 it delivers 990W, nearly 2.5 times the HQST, for about 2.9 times the price. It carries UL 61730 certification, which the other picks do not list.\n\nChoose it for a cabin, a large RV roof or a home shed where you want a big array with little cleaning. It needs a 24V MPPT controller.",
     "specs": [
       "Two 495W bifacial panels, 990W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519hIfpanHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCC39XY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCC39XY7?tag=rvgearlab-amz-20",
     "description": "Twelseavan makes 400W in a portable foldable panel with 24 percent A+ cells, a fiberglass and polyester back and a weight of 22.7 lb. A five-way MC4 lead and three adapters are in the box.\n\nAt about $400 it costs $170 more than the HQST 2x200W and folds for travel. The STAR gives 990W for $260 more.\n\nChoose it for a large power station and a camp that needs to move. It weighs about 23 lb and is a two-hand carry.",
     "specs": [
       "400W foldable, 24% A+ cells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WWXphNKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RZZHHHM?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY is a 200W 12V/24V monocrystalline kit with a controller, pre-drilled mounting holes and a frame rated for 2400Pa wind and 5400Pa snow. It can wire in series for 24V or parallel for 12V, and the maker states up to 800Wh a day at 4 hours of sun.\n\nAt about $190 it carries the lowest price tag here and is the lone kit with a controller in the box. It offers half the watts of the HQST for $40 less.\n\nChoose it for a first solar setup that works with a battery. It comes with 1 year of support.",
     "specs": [
       "200W 12V/24V kit with controller",

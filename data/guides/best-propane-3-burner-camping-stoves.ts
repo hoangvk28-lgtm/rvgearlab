@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QNWNr+D3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AYU8BUC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AYU8BUC?tag=rvgearlab-amz-20",
     "description": "The Camp Chef Explorer 14 has three aluminum blue-flame burners of 30,000 BTU each, for 90,000 BTU in total. A three-sided windscreen, appliance-style knobs and a 3 foot hose and regulator for a bulk tank come with it.\n\nIt lists the lowest BTU of the group, and it is also the only stove with a 14 inch accessory system for grill boxes, griddles and pizza ovens. The 225,000 BTU burners are bigger on paper and cheaper, while the Camp Chef is the one built as a modular kitchen.\n\nA strong pick for car campers who cook for groups all season and want to add a griddle or grill. Natural gas and bottle adapters are sold separately.",
     "specs": [
       "90,000 BTU, three burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zGXK1rbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBVJ6N78?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBVJ6N78?tag=rvgearlab-amz-20",
     "description": "ROVSUN's three-burner cooker lists 225,000 BTU, a CSA listed adjustable regulator and detachable legs. A three-sided foldable windscreen and two side shelves are included, and the body is cast iron.\n\nNext to the cheaper Outvita 3 Burner it brings shelves and a windscreen at a higher price. Compared with the Camp Chef Explorer 14 it has far more raw BTU and no accessory system.\n\nA smart choice for tailgaters who want a place to put utensils beside a huge flame. Only the propane tank is missing from the box.",
     "specs": [
       "225,000 BTU, three burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41duumD0dgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9YCD67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9YCD67?tag=rvgearlab-amz-20",
     "description": "The ADREAK 3 Burner lists 225,000 BTU at 75,000 per burner, with a 0-20 PSI regulator and a cast iron stove head. It measures 34.2 by 17.7 by 29.9 inches, and the legs come off with no tools.\n\nIt sits in the middle of the pack on price. Compared with the ROVSUN it stands lower and lists no shelves or windscreen.\n\nA good match for backyard cooks and campers who just want raw heat for stews and stir-fry. Each burner has an individual knob.",
     "specs": [
       "225,000 BTU, 75,000 each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y1GuQBLPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1HTS39W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1HTS39W?tag=rvgearlab-amz-20",
     "description": "The Outvita lists three burners of 75,000 BTU each for 225,000 total, on a reinforced iron body with weather-resistant powder coat. The legs are dismountable, and a pressure regulator controls heat.\n\nIt is the lowest-priced stove here. It trims extras such as shelves and a windscreen.\n\nA fine option for crab boils, tailgates and group camps on a budget. The height suits an adult.",
     "specs": [
       "225,000 BTU, three burners",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413c+E+C3qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VH65K4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VH65K4?tag=rvgearlab-amz-20",
     "description": "The FSUON is a 225,000 BTU high-pressure three-burner with a cast iron frame and detachable legs. The listing says the burners hold a consistent flame and you can adjust the heat to suit any food.\n\nIt is the barest listing of the group, with no regulator rating, no windscreen and no dimensions. The cast iron frame is meant to resist tipping.\n\nA choice for buyers who want a no-frills heavy burner. It assembles in minutes.",
     "specs": [
       "225,000 BTU, high pressure",

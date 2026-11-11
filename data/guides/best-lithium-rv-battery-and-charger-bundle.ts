@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410AtkM+MKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XY9S3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XY9S3G?tag=rvgearlab-amz-20",
     "description": "The LiTime Group 24 bundle pairs a 12V 100Ah Group 24 battery with a 14.6V 20A charger that takes about 5 hours from 0 to 100 percent. The battery is rated 1.28kWh and expandable to 20.48kWh in a 4P4S bank of 16 units, and Group 24 is a common size.\n\nAt $368.28 it costs $31.30 more than the Power Queen and $78.79 more than the Lossigy 100Ah. Pick this if you want the faster 20A charger from a recognized size. The caveat is that the listing may ship in separate packages, and Group 24 is smaller than Group 31 if you need maximum space.",
     "specs": [
       "12V 100Ah, 1.28kWh",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TNlop5T6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1DMX3RP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1DMX3RP?tag=rvgearlab-amz-20",
     "description": "The Power Queen bundle includes a 12.8V 100Ah LiFePO4 battery weighing 24.25 lb and a 14.6V 10A CC/CV charger. The battery lists 1280Wh, 100A BMS protection, a 5 year battery warranty and a 2 year charger warranty.\n\nAt $336.98 it is $31.30 under the LiTime Group 24 and $47.49 above the Lossigy 100Ah. Pick this if documented warranty terms matter and a slower charge is fine. The caveat is the 10A charger, which needs roughly 10 hours to fill 100Ah from empty, twice the LiTime Group 24.",
     "specs": [
       "12.8V 100Ah, 1280Wh",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416OXdwubxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBWMRQBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBWMRQBF?tag=rvgearlab-amz-20",
     "description": "The Lossigy bundle lists a 12V 100Ah LiFePO4 battery with a 20A lithium charger, a smart BMS and an IP65 waterproof case. It measures 6.77 x 12.95 x 8.43 in, weighs 24.7 lb and claims operation from -4F to 140F and about 5 hours to charge.\n\nAt $289.49 it undercuts the Power Queen by $47.49 and the LiTime Group 24 by $78.79 while keeping the 20A charger. Pick this if you want the lowest price on a 100Ah and 20A pair. The caveat is that the bullets do not give a warranty term and the cold claim should be read as discharge, not charge.",
     "specs": [
       "12V 100Ah, 24.7 lb",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kHJpb5IQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQCGMXDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQCGMXDV?tag=rvgearlab-amz-20",
     "description": "The Redodo 50Ah bundle lists a 12V 50Ah LiFePO4 battery at 11.66 lb with a 50A BMS and 4000+ cycles, plus a waterproof charger. The title states the charger as 18.4V 10A, which is well above the 14.6V other bundles list for 12V LiFePO4.\n\nAt $253.99 it is $82.99 under the Power Queen and $35.50 under the Lossigy 100Ah, but it holds half the energy at 640Wh. Pick this if you run lights, a pump and a router. The caveat is that you should confirm the charger voltage with the seller, because 18.4V is not a normal top-of-charge for a 12V cell.",
     "specs": [
       "12V 50Ah, 11.66 lb",

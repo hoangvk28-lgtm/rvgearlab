@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BclPCGeOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083F6HBY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083F6HBY8?tag=rvgearlab-amz-20",
     "description": "The RecPro Screwdriver uses a flat screwdriver to set pressure, with a 0 to 160 psi gauge marked every 2 psi and major marks every 20. It adds a built-in stainless strainer and lead-free brass bonnets and movable parts.\n\nCompared with the knob-style Hourleey Handwheel, it is harder to nudge by accident because turning needs a tool. The fine 2 psi markings make a precise 50 psi setting easier than on the wider-scale TONDA Brass Screw.\n\nIt suits campers who like to set pressure once and leave it. The catch is that you must carry a screwdriver, and brass threads still need gentle tightening.",
     "specs": [
       "Flat screwdriver adjustment",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eakphpG6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRCZC9RY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRCZC9RY?tag=rvgearlab-amz-20",
     "description": "The Hourleey Handwheel replaces the usual screw with a handwheel, and the listing says it adjusts up to 160 psi. It is lead-free brass with less than 0.13 percent lead, with a 3/4 inch female inlet and male outlet.\n\nVersus the RecPro Screwdriver, adjustment is faster and needs no tools, but it is easier to bump while handling hoses. It is a similar price to the Drphiru Dial, though it lists an inlet screen filter.\n\nIt fits buyers who adjust often, for example when moving between spigots in a park. Check the setting after any hose movement.",
     "specs": [
       "Handwheel adjustment",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YDwinR80L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPZ2C3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPZ2C3H?tag=rvgearlab-amz-20",
     "description": "The Drphiru Dial adjusts with a handwheel turned clockwise to increase pressure and counterclockwise to decrease it. Its stainless steel gauge reads 0 to 140 psi, and the body is lead-free brass.\n\nA 0 to 140 psi scale is slightly easier to read than a 0 to 160 scale around 50 psi, which helps over the Hourleey Handwheel. It does not list a filter screen, unlike the RecPro Screwdriver.\n\nIt suits owners who want tool-free setting and a stainless gauge. The listing claims low temperature resistance for the gauge, but still drain it before freezing weather.",
     "specs": [
       "Handwheel clockwise to raise",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kQOn2TE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL86BVBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL86BVBC?tag=rvgearlab-amz-20",
     "description": "The FOCSPROD Scale Dial uses a top-mounted graduated dial with markings so you can preset and adjust pressure. Its listing notes it only reduces pressure and cannot raise it above what the spigot supplies.\n\nWhere the Drphiru Dial relies on the gauge alone, the FOCSPROD adds a rotatable scale you can line up to a target. It lists a hybrid heavy-duty build and an inlet filter, which the MEASUREMAN Gauge also offers.\n\nIt suits buyers who like a visible target mark. Verify the actual pressure on the gauge rather than trusting the dial markings alone.",
     "specs": [
       "Rotatable graduated dial",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BmUsxYysL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQW6S8ZB?tag=rvgearlab-amz-20",
     "description": "The TONDA Brass Screw is adjusted with a brass screw from 0 to 160 psi and includes a gauge and a built-in inlet screen. The body is lead-free brass.\n\nIt costs a bit less than the RecPro Screwdriver and offers the same tool-based adjustment, but the listing gives less detail on gauge marking. Compared with the Hourleey Handwheel, it is slower to change but less likely to drift.\n\nIt is a good fit for budget buyers who accept a screw adjustment. Check for leaks at the washers on first connection.",
     "specs": [
       "Brass screw adjustment",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m12zXmD5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX267L97?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX267L97?tag=rvgearlab-amz-20",
     "description": "The MEASUREMAN Gauge is the lowest-cost adjustable here, with a lead-free brass body, built-in gauge and an inlet filter screen. The listing says it is adjustable for city pressure.\n\nIt undercuts the TONDA Brass Screw on price but gives less detail on gauge range or adjustment style. Compared with the FOCSPROD Scale Dial it is plainer, with no graduated target dial.\n\nIt is a sensible choice for occasional campers who still want to see and set pressure. Confirm the gauge range on the package before relying on fine adjustments.",
     "specs": [
       "Adjustable with built-in gauge",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315hnF8OAkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KZXNVP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KZXNVP8?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is titled as a 4-person, 4-season family tent with a PU3000mm rainfly, a PU5000mm Oxford floor and fully taped seams. The interior measures 6.9 by 7.8 feet, and lightweight aluminum poles build a freestanding frame with two large doors and dual vents.\n\nIt costs less than half the Naturehike and sets up in minutes with a conventional frame. The Naturehike adds a stove jack, which this one lacks.\n\nIt suits cold-weather campers who want a standard tent without special gear. Breathable mesh panels help reduce condensation.",
     "specs": [
       "4-season, 6.9x7.8 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xUuw8FYGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLXQDRTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLXQDRTV?tag=rvgearlab-amz-20",
     "description": "The Naturehike Massif is a hot tent with a stove jack and a snow skirt that blocks wind and snow. It measures 16.7 by 8.36 by 5.9 feet with a removable inner of 88.6 by 51.2 inches, and it uses 30D silicone-coated polyester at 3000mm with aluminum poles.\n\nIt adds a stove jack, hall and snow skirt that the GEERTOP cannot, and it costs about twice as much. Its lightweight fabric keeps the pack size small.\n\nIt suits winter campers who plan to heat the tent with a stove. The two-room layout gives a hall.",
     "specs": [
       "4-season hot tent with stove jack",

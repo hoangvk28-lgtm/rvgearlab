@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eSWdawyAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRZW9KQH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRZW9KQH?tag=rvgearlab-amz-20",
     "description": "SUNER POWER's 20A MPPT states 100V PV, 240W at 12V and up to 99% tracking at a moderate price. SUNER POWER's 20A MPPT controller lists a 100V maximum PV input with 240W on 12V (480W on 24V) and up to 99% tracking efficiency. It uses a three-stage charge algorithm.\n\nIt is far better documented than VUICCI 10A USB-C and VQP 100A and costs less than Dyness 40A. It has no Bluetooth.\n\nBest for a small roof where documentation matters. It is a clean, honest 20A MPPT for a van or small camper.",
     "specs": [
       "20A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Jraba3bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ75NLRM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ75NLRM?tag=rvgearlab-amz-20",
     "description": "LiTime's 30A MPPT adds built-in Bluetooth and 99% tracking and is the priciest unit here. LiTime's 30A MPPT controller lists 99% tracking, a built-in Bluetooth module (no extra module to buy) and a die-cast aluminum case. An LCD with four buttons and LED indicators shows system data on the unit.\n\nIt costs more than Dyness 40A and SUNER POWER 20A MPPT but is the strongest documented 30A. Choose it when an app matters.\n\nBest for an app-ready MPPT that still costs less than premium names. It is the premium app-ready 30A here, so confirm the PV voltage limit against your panels.",
     "specs": [
       "30A MPPT, 12V/24V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4106TvUmy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTFKY3D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTFKY3D?tag=rvgearlab-amz-20",
     "description": "Dyness's 40A MPPT has built-in Bluetooth and lists lithium, AGM, gel and flooded support. Dyness's 40A MPPT controller connects to its mobile app through an integrated Bluetooth module and supports 12V/24V banks. The listing names lithium, AGM or sealed, gel, flooded and user-defined battery settings, plus overcharge and over-discharge protection.\n\nIt offers more amps than LiTime 30A MPPT and costs less. It has no stated PV cap in its headline.\n\nBest for a 40A app-monitored build. It asks for a bigger budget than the PWM units here, so choose it when you want tracking and an app in one package.",
     "specs": [
       "40A MPPT, 12V/24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sf0m+n6RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH67KWS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH67KWS6?tag=rvgearlab-amz-20",
     "description": "VQP's 100A MPPT lists 12V to 48V auto-detect and up to 99% tracking at a very low price. VQP's 100A MPPT controller auto-recognizes 12V, 24V, 36V and 48V systems and lists tracking efficiency of up to 99%. It adds light and time control modes, an LCD and two 5V USB ports, and works with lithium and lead-acid chemistries.\n\nIt has far more amps per dollar than SUNER POWER 20A MPPT but gives no PV cap in its headline. It is oversized for most RVs.\n\nBest for a big system on a tight budget where you verify specs. A 100A rating is far more than a typical RV needs, so confirm the max PV voltage and warranty with the seller before buying.",
     "specs": [
       "100A MPPT, auto 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m2bZI2ecL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGP8YMGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGP8YMGD?tag=rvgearlab-amz-20",
     "description": "SUNAPEX's 10A MPPT is 12V only with SAE connectors and Type-C and USB output. SUNAPEX's 12V 10A controller is described as MPPT and is designed for panels that do not have an integrated controller. It uses SAE connectors, an LCD and LED indicators, and offers Type-C and USB output ports.\n\nIt costs about the same as VUICCI 10A USB-C and has no fast-charge wattage listed. It is not for panels with built-in controllers.\n\nBest for portable panels. It fits a small portable-panel setup, and the listing says it is not compatible with panels that have built-in controllers.",
     "specs": [
       "10A MPPT, 12V only",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nRPXL7R-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCFTDRZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCFTDRZS?tag=rvgearlab-amz-20",
     "description": "VUICCI's 10A listing is the lowest-priced MPPT here with a 22W USB-C and an 18W USB port. This second VUICCI listing carries the same 10A 12V MPPT description, with a 22W USB-C port, an 18W USB port, LCD monitoring and eight layers of protection. It names the same gel, AGM, sealed, flooded and LiFePO4 batteries.\n\nIt undercuts SUNAPEX MPPT 10A and adds fast-charge ports. It is 12V only.\n\nBest for a single small panel. Choose whichever of the two VUICCI listings is cheaper on the day, since the copy describes the same controller.",
     "specs": [
       "10A MPPT, 12V only",

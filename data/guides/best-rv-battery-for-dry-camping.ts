@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41suGiXe1sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJ957H39?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJ957H39?tag=rvgearlab-amz-20",
     "description": "LiTime's self-heating 100Ah battery fits a standard group 24 box and weighs 22.71 pounds. In regular mode, when a charger is connected and cells are below 41F, it heats first and only begins charging once they reach 50F; an energy-efficient mode is also available, and the IP65 case adds weather resistance.\n\nIt ranks first because it solves the biggest dry camping problem, charging from a generator or solar on a cold morning, in the most common RV tray size. Compared with the Renogy self-heating pick below, it adds Bluetooth monitoring and a selectable heating mode; the Renogy has a faster heater but a different 22NF footprint.\n\nBest for weekend campers who travel in shoulder seasons and use generator or solar charging. The caveat is that the heater draws power from the charging source, so it will not warm the battery if you have no charge input.",
     "specs": [
       "12V 100Ah, group 24 fit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PJObcnOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTK98N3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTK98N3P?tag=rvgearlab-amz-20",
     "description": "Renogy's DuoHeat battery uses two heating pads totaling 110W, which the maker says warms the battery 40% faster. It is rated to operate from -22F to 131F, uses a 100A BMS with 25+ safety features, and sits in a compact group 22NF case with IP65 weather resistance.\n\nIt ranks second because its heating hardware and temperature range are the strongest here, but it lacks the LiTime's Bluetooth and fits a less common tray size. Compared with the Redodo self-heating pick, it heats with slightly more power and offers a smaller case.\n\nBest for dry campers in mountain or northern climates who start their generator on freezing mornings. The caveat is fit: the smaller 22NF case can slide in a group 24 box, so add a spacer or strap it securely.",
     "specs": [
       "12V 100Ah, group 22NF",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nFGl70ufL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-amz-20",
     "description": "Power Queen's 150Ah battery stores 1920Wh in a group 27 case, which the maker says is 50% more usable energy than a typical 100Ah lithium. It supports up to 1920W output, includes Bluetooth monitoring, and has low-temperature protection that blocks harmful charging and discharging.\n\nIt ranks third because it gives the most capacity in a standard tray, enough for two or three nights without running the generator, but it has no heater like the LiTime and Renogy above. In cold weather it will protect itself, but it cannot accept charge until it warms on its own.\n\nBest for spring through fall dry campers who want to skip the generator for a whole weekend. The caveat is winter use; if you camp in freezing temperatures, a self-heating pick is a better fit.",
     "specs": [
       "12V 150Ah, 1920Wh",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4178Qp-DCAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKH7M9VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKH7M9VS?tag=rvgearlab-amz-20",
     "description": "Redodo's 120Ah battery fits a standard group 24 footprint (10.24 x 6.61 x 8.27 inches) yet stores 1536Wh, about 256Wh more than a same-size 100Ah. It uses a 120A BMS, has Bluetooth monitoring and an IP65 case, and its white housing reduces heat absorption.\n\nIt ranks fourth because it is the best capacity upgrade for group 24 owners, though at 30Ah less than the Power Queen 150Ah, which needs a larger group 27 tray. Its low-temperature protection stops charging below 32F and resumes above 41F, but it has no heater.\n\nBest for small trailer owners in moderate climates who want more runtime without changing trays. The caveat is cold charging; on freezing mornings, solar input will wait until the battery warms.",
     "specs": [
       "12V 120Ah, 1536Wh",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ABGrp5+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNR87Q1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNR87Q1P?tag=rvgearlab-amz-20",
     "description": "Redodo's self-heating group 31 battery uses two heating pads totaling 100W, which the maker says warm the cells from 14F to 41F in about 30 minutes. It weighs 23.32 pounds, stops charging below 32F, and resumes once cells rise above 41F.\n\nIt ranks fifth because it brings self-heating at the lowest price here, about $100 less than the LiTime and Renogy picks, but skips Bluetooth. Compared with the Renogy self-heating model, its heater is slightly less powerful, and it uses a larger group 31 case.\n\nBest for budget-minded cold-weather campers with a group 31 tray. The caveat is monitoring: without an app, add a shunt monitor to know your real state of charge.",
     "specs": [
       "12V 100Ah, group 31",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AGEyICMQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZVMWTT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZVMWTT7?tag=rvgearlab-amz-20",
     "description": "HumsiENK's 160Ah battery stores 2048Wh with a 150A BMS and 1920W continuous output, at the lowest price per watt-hour in this roundup. It weighs 41.23 pounds and has an IP65 case rated for operation from -4F to 140F.\n\nIt ranks last because its 10.07 x 7.66 x 9.99 inch case does not match a standard group size, and it has no heater or Bluetooth. Against the Power Queen 150Ah, it offers more energy for much less money but with fewer features and less certainty about fit.\n\nBest for mild-weather dry campers who want maximum runtime per dollar and have a flexible battery bay. The caveat is to measure carefully, and avoid charging it below freezing.",
     "specs": [
       "12V 160Ah, 2048Wh",

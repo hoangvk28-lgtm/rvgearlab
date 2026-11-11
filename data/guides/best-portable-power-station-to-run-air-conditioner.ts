@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
     amazonQuery: "EnginStar Portable Power Station 300W 296Wh Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
     specs: ["Capacity: 296Wh","Continuous output: 300W","Listed weight: 6.5 lb","Runtime claim: Up to 2 hours"],
     specList: [{"label":"Capacity","value":"296Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"6.5 lb"},{"label":"Runtime claim","value":"Up to 2 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "AFERIY Portable Power Station 1024Wh Generator&200W Solar Panel",
     amazonQuery: "AFERIY Portable Power Station 1024Wh Generator&200W Solar Panel",
-    amazonUrl: "https://www.amazon.com/dp/B0GYZ3B1JQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GYZ3B1JQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41l1V31M20L._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Included panel: 200W"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Included panel","value":"200W"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "AFERIY Portable Power Station 1024Wh, Expandable Solar Generator to 5120Wh",
     amazonQuery: "AFERIY Portable Power Station 1024Wh, Expandable Solar Generator to 5120Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0GXF8J4ZB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GXF8J4ZB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41xjvQ+2sAL._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Surge output: 3,600W","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Surge output","value":"3,600W"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
     amazonQuery: "EF ECOFLOW Portable Power Station RIVER 2, 256Wh 300W",
-    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B8MXPRDB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31oJJr5KzCL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Listed weight: 7.7 lb","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Listed weight","value":"7.7 lb"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 300 Portable Power Station",
     amazonQuery: "BLUETTI Elite 300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
     specs: ["Capacity: 3,014Wh","Continuous output: 2,400W","Surge output: 4,800W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,014Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "EnginStar Portable Power Station 300W 296Wh Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

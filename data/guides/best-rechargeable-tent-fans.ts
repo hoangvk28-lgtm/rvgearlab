@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L6nZKlHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHPZLN7?tag=rvgearlab-amz-20",
     "description": "The SHUNLEE is a 31.5-inch hanging fan with five long blades, a 40000mAh battery and four wind speeds. A dimmable light with 3000K to 6000K color temperature and a remote with 2, 3 or 5 hour timers come in the same unit.\n\nIt carries the biggest battery on the list by a wide margin, ahead of the FRIZCOL at 24000mAh and the VOSFEEL at 20000mAh. The wide blade span also covers far more space than the small lantern-style fans.\n\nIt is the choice for a canopy, gazebo or big family tent where one fan has to cool a lot of air. The memory function resumes your last setting.",
     "specs": [
       "40000mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVTHPXLB?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL is a 3-in-1 camping fan with a 24000mAh battery, four speeds up to 3950 r/min and a listed runtime of 11 to 60 hours. It adds a two-level LED light, three timers and a remote.\n\nNext to the VOSFEEL it adds more battery capacity at a lower price, and compared with the SHUNLEE it gives up blade size for a much smaller footprint. Noise is listed under 30 dB.\n\nIt suits a car camper who wants multi-night runtime from a compact fan. A non-slip base lets it sit on a table as well as hang.",
     "specs": [
       "24000mAh, 11-60 hour range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nXnmVvkGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSMTV23H?tag=rvgearlab-amz-20",
     "description": "The VOSFEEL packs a 20000mAh battery with two outputs, so it can charge a phone while it runs. It runs 12 to 58 hours by the listing and adds four speeds, a three-level LED lantern and a remote with timer options.\n\nCompared with the DABOUHORS it is a simpler fan with a fixed head, while its lantern is the headline feature. It is priced above the FRIZCOL and below the SHUNLEE.\n\nIt fits a backpack-size packing plan. The foldable rotatable hook hangs it anywhere in a tent.",
     "specs": [
       "20000mAh, 2 outputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vVZ0ijFfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTV3BPSH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTV3BPSH?tag=rvgearlab-amz-20",
     "description": "The DABOUHORS has a 20000mAh battery that doubles as a power bank, plus four speeds and an oscillation choice of 45 or 90 degrees. Noise is listed under 30 dB, and timers run 1, 2, 4 or 8 hours.\n\nIt is the only pick here that sweeps air across the tent, where the VOSFEEL and FRIZCOL point a steady stream. A three-level LED light and a remote complete the set.\n\nIt suits a shared tent where two people sleep at different spots. Sweeping the breeze covers both without moving the fan.",
     "specs": [
       "20000mAh with power bank",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WiiNQqhBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-amz-20",
     "description": "The XTAUTO is a compact fan and lantern with a 4000mAh battery, 54 high-intensity LED chips rated at 500 lumens and three fan speeds. The listed runtime is six to eight hours, and four indicators show the charge left.\n\nIt has the smallest battery on the list, so it is a night-by-night fan next to the 20000mAh models. It adds magnets and a foldable hook so it can mount hands-free.\n\nIt fits a backpacker or a weekender who wants light and a breeze from one small unit. The ABS body is described as waterproof.",
     "specs": [
       "4000mAh, 6-8 hour runtime",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315R9AKhXhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS5C8SV7?tag=rvgearlab-amz-20",
     "description": "The Yueidung is a detachable ceiling-style fan with an 8000mAh battery, four speeds including a natural wind mode and a three-mode light. A four-hour fast charge gives up to about ten hours of fan runtime by the listing.\n\nIt has the lowest price in the list and sits between the XTAUTO and the 20000mAh models on battery size. The remote works within about 3 meters.\n\nIt suits a casual camper who wants a hanging fan and night light for a small or mid-size tent. Natural wind mode is a gentle change from steady air.",
     "specs": [
       "8000mAh, up to 10 hours",

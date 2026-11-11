@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aHNV-6VbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WY2SDW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WY2SDW8?tag=rvgearlab-amz-20",
     "description": "The QEZER Ultralight Down Sleeping Bag holds 9.17 ounces of 600 fill power down in an 84.65 by 32.28 inch mummy shape, weighing 1.3 pounds and packing to 9.84 by 5.51 inches. A wide trapezoidal footbox and 400T tear-resistant nylon complete the build at $72.19.\n\nCompared with the Naturehike below it, the QEZER spells out the fill weight and fill power, so the warmth can be judged from real numbers. Compared with the Kelty Mistral, it brings real down insulation in a lighter package.\n\nIt is the best choice for warm-weather backpackers who want a light, well-documented down bag with a roomy footbox.",
     "specs": [
       "9.17 oz of 600FP down",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51unIgsLyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4CD1T13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4CD1T13?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ultralight Backpacking RDS Down Sleeping Bag uses 295 grams of duck down in individual channels, weighs 1.3 pounds and stows to 4.7 by 10.2 inches. A water-repellent nylon shell protects the fill, priced at $71.99.\n\nCompared with the QEZER above it, the individual channels hold the down in place, and the pack size is compact. Compared with the Kelty below it, the down fill packs into a compact bundle at the same weight.\n\nIt is a great fit for ultralight hikers who care about packed size and want a channeled down bag for warm nights.",
     "specs": [
       "295 g of duck down",
@@ -92,7 +92,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312fDAc6daL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT2DY1ZV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT2DY1ZV?tag=rvgearlab-amz-20",
     "description": "The Kelty Mistral is offered in 20 and 40 degree versions, with an offset quilt pattern that removes cold spots and a recycled 68D polyester shell. Long and Women's sizes are available, at $89.95, and the feature text describes Cloudloft insulation.\n\nCompared with the two down bags above it, the Mistral supplies a printed temperature rating and a recognized brand. Its insulation stays warm in damp air, which suits cool, humid nights.\n\nIt suits campers who want a rated 20 degree option for shoulder-season nights, or a guest bunk that sees cool evenings, and who value size choices.",
     "specs": [
       "Cloudloft synthetic per features",

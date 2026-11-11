@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419P+3VqG+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6L25MDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6L25MDS?tag=rvgearlab-amz-20",
     "description": "The DMH OUTDOORS cabin lists a (12+5) x 10 ft floor with an 86 inch center height, which includes a screened porch. It adds a rainfly, taped seams, a tent skirt, a mesh door, 3 mesh windows and a mesh top.\n\nAgainst the BravArrk 8-Person and CAMPROS 8-Person, it is the only pick with a screen porch and the tallest listed ceiling. Compared with the Fanttik Zeta C8 Pro, it trades the instant frame for extra covered living room.\n\nIt suits families who want a bug-free place for meals and gear outside the sleeping area. The rain-resistant E-Port keeps cords off the floor when a power source is nearby.",
     "specs": [
       "(12+5) x 10 ft with porch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tI7OTCB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR17DVG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR17DVG5?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C8 Pro lists a 156 by 108 inch floor and sets up in under 60 seconds with pre-attached poles. It has mesh windows on all 4 sides, floor vents, a mesh ceiling and a tub-style base with a drainage channel at the door zipper.\n\nIts listing separates the 8-person sleeping-only claim from a more comfortable 4 people with gear. That honest split sets it apart from the DMH OUTDOORS cabin and CAMPROS 8-Person, which only state the headline number.\n\nIt suits a family that arrives late or pitches in changing weather and wants shelter up fast. A power cord entrance and carbon steel frame with protective sleeves round out the build.",
     "specs": [
       "156 x 108 in, sets up in 60 seconds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513VPRxRn5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTRFZLFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTRFZLFS?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 14 by 9 ft tent, 72 inches tall at the center, with room listed for eight sleeping bags or three queen air mattresses. A PU3000MM coating, sealed seams and a double-layer rainfly cover the weather side.\n\nA curtain turns it into two independent sleeping areas or a third living zone, a layout the DMH OUTDOORS cabin does not offer. It lists a higher rain coating than the CAMPROS 8-Person and uses color-coded parts for setup.\n\nIt suits a family that wants parents and kids in separate zones. Two people can assemble it, and large mesh windows with a mesh top handle airflow.",
     "specs": [
       "14 x 9 ft, 72 inch center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XblTuwCXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2KRWRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2KRWRK?tag=rvgearlab-amz-20",
     "description": "The CAMPROS lists straight walls rising to 72 inches at the center, plus sealed seams and a waterproof strip. A mesh top and mesh doors handle ventilation, and a curtain works as a room divider or projector screen.\n\nIt costs the least of the five, yet keeps the divider found on the BravArrk 8-Person. Straight walls give it more usable edge space than a sloped dome, which helps cots and air mattresses fit.\n\nIt suits a first-time family buying an 8-person tent for a few weekends a year. Its listing says a pair of people can have it up in roughly five minutes with color-coded poles.",
     "specs": [
       "72 inch straight-wall height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ux-oHWGxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9Z6VYGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9Z6VYGW?tag=rvgearlab-amz-20",
     "description": "The GoHimal is an SUV tent in the 5-8 person size family, measuring 8 by 8 by 7.2 ft with a 210T polyester fabric and PU3000mm coating. It has large mesh windows, a skylight, multiple pockets and color-coded poles.\n\nIt is the only pick here built to attach to a vehicle, which no cabin or dome in the list does. Its footprint is smaller than the 8-person cabins, so it works as a car-side shelter rather than a full family base.\n\nIt suits campers who want a sleeping space tied to the trunk with quick pole assembly. The listing calls it a four-season build.",
     "specs": [
       "8 x 8 x 7.2 ft",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t2w1cxvYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-amz-20",
     "description": "GOKWH is a 12.8V 120Ah LiFePO4 marine battery that stores 1536Wh. It has a Bluetooth 5.0 app, a 100A BMS and low-temperature protection, in a Group 24 case.\n\nAt about $171 it stores 60 percent more than the 75Ah VEVOR AGM for about the same money. The app shows charge, voltage and current, which the AGM and gel picks cannot.\n\nIt suits a boat, camper or van that needs real capacity and monitoring. It is the best amp-hour value here.",
     "specs": [
       "12.8V 120Ah, 1536Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317dTo3pzBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWM1TF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWM1TF7?tag=rvgearlab-amz-20",
     "description": "VEVOR is a 12V 75Ah sealed AGM battery rated for 300 to 1500 cycles between 30 and 100 percent depth of discharge. It accepts a maximum charge current of 15A and includes low-temperature protection for use from -4F to 140F.\n\nAt about $170 it costs about the same as the GOKWH 120Ah and stores 45Ah less. It keeps up to 65 percent of its charge after 12 months, so it stores better than a flooded battery.\n\nIt suits a tight budget that needs a standard lead-acid charger. It is also easier to charge in cold weather.",
     "specs": [
       "12V 75Ah sealed AGM",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51J22rFEFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FPVRXBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FPVRXBZ?tag=rvgearlab-amz-20",
     "description": "ExpertPower is a sealed 12V 75Ah gel battery with an impact-resistant housing and a standard terminal layout. The gel electrolyte prevents spills, so it can be mounted in several orientations.\n\nAt about $170 it costs the same as the VEVOR 75Ah AGM and tolerates vibration better. It trails the GOKWH 120Ah on capacity.\n\nIt suits a solar kit or boat where vibration and orientation matter. It arrives ready to install.",
     "specs": [
       "12V 75Ah sealed gel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ErUzfS4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQRKM25?tag=rvgearlab-amz-20",
     "description": "UPLUS is a Group 24M dual-purpose AGM marine battery rated 12V 79Ah with 550 cold cranking amps and 150 reserve capacity. It starts engines up to 350 horsepower and resists vibration.\n\nAt about $190 it costs more than the VEVOR 75Ah and does the extra job of starting an engine. It stores less than the GOKWH 120Ah.\n\nIt suits a boat with one battery doing both jobs. Space-saving is its main point.",
     "specs": [
       "12V 79Ah AGM, 550 CCA",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410vqB+4loL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088X5SHK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088X5SHK7?tag=rvgearlab-amz-20",
     "description": "Banshee is a Group 27M AGM marine battery rated 12V 90Ah with 600 cold cranking amps and a 185 minute reserve capacity. It has a carry handle and SAE terminals.\n\nAt about $200 it is at the cap and stores 15Ah more than the VEVOR 75Ah. The Mighty Max MM-G24M gives the same capacity in a smaller Group 24M case.\n\nIt suits a boat or camper that needs 90Ah and a start-capable battery. It is sealed and needs no watering.",
     "specs": [
       "12V 90Ah AGM, 600 CCA",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418st-JvIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-amz-20",
     "description": "Mighty Max MM-G24M is a 12V 90Ah Group 24M deep-cycle marine AGM that delivers 550 CCA, 700 CA and 700 marine cranking amps. It is dual-purpose, so it can start an engine and power electronics.\n\nAt about $200 it matches the Banshee 27M in price and capacity and trades 50 CCA for higher marine cranking amps. It is smaller in Group 24M size.\n\nIt suits a boat that needs strong starts and deep cycling from one battery. It handles cold well.",
     "specs": [
       "12V 90Ah AGM, 550 CCA",

@@ -31,7 +31,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JtxnVKdxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV8DQ11Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV8DQ11Y?tag=rvgearlab-amz-20",
     "description": "The Cuddl Duds Heavyweight 2 Piece Set is the one thermal in this roundup with a stated fabric weight, 235 GSM, backed by a brushed fleece interior. Thumbholes keep sleeves anchored over the hand, the pants include a functional fly and the smooth outside slides under a shell. It sells for $26.24.\n\nCompared with the mock neck set below it, this set brings a documented fabric density and thumbholes, which gives standing-around warmth in lift lines. Its pill-resistant fabric also holds its look after repeated washes in a small RV laundry routine.\n\nIt is the right set for skiers who run cold, stand in wind on a ridge or ski deep winter days and want the warmest, best-documented base layer in the group.",
     "specs": [
       "235 GSM heavyweight set",
@@ -61,7 +61,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bzbRDidDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C33BBHW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C33BBHW8?tag=rvgearlab-amz-20",
     "description": "The Mens Thermal Underwear Long Johns Set is a mock neck, fleece lined set built from 90 percent polyester and 10 percent spandex at $19.99. Four-way stretch and a tagless finish keep it comfortable through a full day on snow.\n\nCompared with the Cuddl Duds above it, the mock neck covers the throat, which removes the need for a separate gaiter under a jacket collar. Compared with the crew neck romision below it, the fleece lining adds a more insulated feel on cold chairlifts.\n\nIt is made for skiers who feel the cold at the neck and want a snug, stretchy, mid-priced set that moves with every turn.",
     "specs": [
       "90% polyester, 10% spandex",
@@ -91,7 +91,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLy+H+dtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDB3MDJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDB3MDJC?tag=rvgearlab-amz-20",
     "description": "The romision Thermal Underwear for Men is a crew neck set with raglan sleeves and lightly brushed fabric at $16.99. Four-way stretch and a tagless, seamless fit make it easy to wear on its own or under other layers.\n\nCompared with the mock neck set above it, the raglan sleeves free the shoulders for overhead reach and pole planting, and the lightly brushed fabric breathes well on active days. Compared with the Roadbox below it, the soft finish makes it comfortable as a standalone shirt after the lift closes.\n\nIt is a smart choice for high-output skiers and spring skiers who run warm and want a light, flexible, affordable set.",
     "specs": [
       "Lightly brushed fabric",
@@ -121,7 +121,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+T5meJ65L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8J2ZHWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8J2ZHWJ?tag=rvgearlab-amz-20",
     "description": "The Roadbox Thermal Underwear for Men is a brushed fleece lined set at $14.99 that uses flatlock seams and tear-away labels. Four-way stretch and easy-care fabric make it simple to live with through a ski trip.\n\nCompared with the romision above it, the flatlock seams lie flat under boot cuffs, pack straps and tight mid layers, which reduces rubbing over a full day. Compared with the Runhit below it, the tear-away labels remove the itch of printed tags at the neck.\n\nIt is the best fit for skiers who layer under bulky gear and want a low-price set that stays comfortable under straps and boots.",
     "specs": [
       "Brushed fleece lining",
@@ -151,7 +151,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3111k9F4TyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMJJK1YL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMJJK1YL?tag=rvgearlab-amz-20",
     "description": "The Runhit Thermal Underwear for Men is a fleece-lined top and bottom set at $14.99. It has a tagless collar, flat seams and a fly front on the pants, with four-way stretch for freedom through turns.\n\nCompared with the Roadbox above it, the fly front adds convenience on cold days, and the matching price makes it an easy spare. It holds the same low entry price as the Roadbox while giving a second style of set to rotate.\n\nIt is a good choice for budget-minded skiers who want a backup set in the trunk, so one set can dry while the other is worn.",
     "specs": [
       "Fleece-lined set",

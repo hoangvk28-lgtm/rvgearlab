@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gfVeVs2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C2XLPZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C2XLPZY?tag=rvgearlab-amz-20",
     "description": "EPEVER's Tracer 40A states 100V PV, 520W at 12V (1040W at 24V), temperature compensation and an RS485 port with Modbus. EPEVER's Tracer4210AN-G3 is a 40A MPPT controller with 12V/24V auto recognition, a 100V maximum PV input and 520W on 12V (1040W on 24V). It has an RS485 port with Modbus, lists temperature compensation and can pair with optional MT52/MT55 meters and WiFi or BLE adapters.\n\nIt costs less than the Renogy Rover 40A variants and is better documented than OAE 40A MPPT. Meters and Wi-Fi adapters are optional extras.\n\nBest for an installer who wants clear specs and monitoring options. It suits builders who want a documented unit with monitoring options, with accessories sold separately.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g8ipoItiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q83F257?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q83F257?tag=rvgearlab-amz-20",
     "description": "OAE's 40A MPPT accepts 150V PV and 570W at 12V and auto-detects 12V to 48V. OAE's 40A MPPT controller auto-detects 12V, 24V, 36V and 48V systems, accepts 150V maximum PV input and handles 570W at 12V up to 2270W at 48V. It lists temperature compensation and support for sealed, gel, flooded and lithium batteries.\n\nIt costs less than EPEVER Tracer 40A and has more PV headroom. It has fewer extras.\n\nBest for longer strings or higher battery voltage. It is a clean value pick for 40A with high-voltage input.",
     "specs": [
       "40A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yA0NU11mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDFT587G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDFT587G?tag=rvgearlab-amz-20",
     "description": "ECO-WORTHY's 40A MPPT has a built-in low-power Bluetooth module for app monitoring and parameter changes. ECO-WORTHY's 40A MPPT controller auto-detects 12V or 24V systems and has a built-in low-power Bluetooth module for monitoring and parameter changes through a phone app. The listing names gel, SLA, flooded and LiFePO4 batteries.\n\nIt costs more than OAE 40A MPPT and gives no PV cap in its headline. It lists LiFePO4.\n\nBest for a lithium RV that wants an app. It is a good app-ready 40A MPPT for a lithium RV, though it is priced near the premium names.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Up4hQmTHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV4H82R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV4H82R?tag=rvgearlab-amz-20",
     "description": "This Renogy Rover 40A lists 99.9% multi-peak tracking, -40F to 149F control and a TVS lightning guard. This Renogy Rover 40A has dual-peak MPPT with 99.9% multi-peak tracking efficiency listed, auto-detect for 12V or 24V, and temperature control from -40F to 149F. The listing adds a TVS lightning guard, four-stage charging, a lithium recovery mode and Modbus support.\n\nIt costs less than Renogy Rover 40A Bluetooth and adds the dual-peak and lightning claims. Modbus is supported.\n\nBest for shade-prone roofs and harsh weather. It is built for tough conditions and partial shade at a premium price.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vARSSsdJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-amz-20",
     "description": "The standard Renogy Rover 40A lists 98% conversion, 99% tracking and a -40F to 149F operating range. The Rover 40A is a 12V/24V auto-detecting MPPT controller with 98% conversion and 99% tracking efficiency listed. It operates from -40F to 149F with built-in low-temperature protection and a four-stage charge.\n\nIt costs less than Renogy Rover 40A Bluetooth and similar to Renogy Rover 40A Dual-Peak. It has four-stage charging.\n\nBest for a classic, well-known 40A MPPT. It suits a larger RV roof with a lithium bank in cold climates, though it costs more than generic 40A units.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LEurtJ65L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079JRNFY6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079JRNFY6?tag=rvgearlab-amz-20",
     "description": "This Renogy Rover 40A listing names Bluetooth and lists tracking up to 99% and operation with a zero-volt battery. Renogy's Rover 40A (the listing names Bluetooth) is a 12V/24V auto-detecting MPPT controller with tracking efficiency up to 99%. It uses four-stage charging for lead-acid and two-stage (bulk and absorption) for lithium and can operate when the battery is at zero volts.\n\nIt is the most expensive Rover here. Confirm what Bluetooth hardware ships with it.\n\nBest for a Rover buyer who wants an app listing. It is the pricey, well-supported 40A option, so confirm what the Bluetooth listing includes before buying.",
     "specs": [
       "40A MPPT, 12V/24V auto",

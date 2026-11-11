@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IiJmc7YyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KH8J12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KH8J12?tag=rvgearlab-amz-20",
     "description": "The Merrell Moab 3 is a pigskin leather and mesh hiking shoe with a bellows tongue, a protective toe cap and a recycled mesh lining. The laces and webbing are made from recycled material.\n\nIt sits at the top of the budget and is the only pick here with a long-standing trail pedigree. Compared with the KEEN Voyageur, it has a more flexible leather and mesh upper and a bellows tongue that blocks debris.\n\nIt suits hikers who want a proven shape and are happy with a breathable, not waterproof, shoe. The toe cap protects against rocks and roots.",
     "specs": [
       "Pigskin leather and mesh upper",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A-U7agHqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06ZYK6471?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06ZYK6471?tag=rvgearlab-amz-20",
     "description": "The KEEN Voyageur is a low breathable hiking shoe with a water-resistant leather and performance mesh upper. It adds 4mm multi-directional lugs on all-terrain rubber, a stability shank and an injected heel capture system.\n\nAgainst the Merrell Moab 3, it gives a firmer heel hold and more underfoot support. Compared with the NORTIV 8 Roomy, it is built from more structured materials and has a removable metatomical footbed.\n\nIt suits hikers who need a stable platform and secure heel on uneven ground. The padded tongue and collar help with comfort over long days.",
     "specs": [
       "Water-resistant leather and mesh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGiLW90tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P6MB2VV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P6MB2VV?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Leather is a waterproof hiking shoe in suede leather with a breathable mesh lining and a waterproof membrane. The rubber outsole has Multi-Directional Traction for mud and rock, with a rubber toe cap and a removable insole with arch support.\n\nIt is waterproof like the NORTIV 8 Roomy and carries a leather upper that the TRAILBLITZ cannot match. Compared with the KEEN Voyageur, it adds a membrane at less than half the price.\n\nIt suits budget hikers who still want dry feet in wet weather. The flexible MD midsole reduces foot fatigue.",
     "specs": [
       "Suede leather, waterproof membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412fVrV6NhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L5H5D6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L5H5D6H?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Roomy is a low-top waterproof hiking shoe with a roomy toe box that accommodates wide feet. It has a waterproof membrane, a robust rubber toe cap, a reinforced heel and a rugged outsole with deep lugs.\n\nNext to the NORTIV 8 Leather, it uses a lighter synthetic construction and gives more forefoot room. Compared with the AIVEJE, it adds waterproofing and a protective toe cap.\n\nIt suits hikers with broader feet who want waterproofing for shallow streams and puddles. The flexible MD midsole softens impacts.",
     "specs": [
       "Waterproof membrane, roomy toe box",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pQsgWbzEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHH1LG37?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHH1LG37?tag=rvgearlab-amz-20",
     "description": "The TRAILBLITZ Trail is a lace-up hiking shoe with a suede and mesh upper, EVA soft cushioning and a non-slip rubber outsole. The listing describes a lightweight build for urban walks and mountain terrain.\n\nIt costs a fraction of the Merrell Moab 3 and the KEEN Voyageur. Compared with the AIVEJE, it keeps conventional laces and a suede and mesh blend that holds shape.\n\nIt suits casual hikers and walkers who do not need waterproofing or a famous name. The EVA midsole cushions long walking days.",
     "specs": [
       "Suede and mesh upper",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MmKgoMknL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFLZJK1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFLZJK1W?tag=rvgearlab-amz-20",
     "description": "The AIVEJE Elastic is a breathable mesh walking and hiking shoe with adjustable elastic straps instead of tied laces. A rubber outsole with an MD midsole and ventilation holes in the sole help with grip and airflow.\n\nIt is the lowest-priced and lightest pick here and the easiest to put on. Compared with the TRAILBLITZ Trail, it swaps laces for quick elastic adjustment.\n\nIt suits travelers and casual walkers who want an easy, airy shoe. The listing also mentions use for jogging, driving and the gym.",
     "specs": [
       "Breathable mesh, elastic straps",

@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ct+7WHM3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTRHML53?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTRHML53?tag=rvgearlab-amz-20",
     "description": "The Outus pair measures 12.3 by 6.4 by 7 inches per chock, in aluminum alloy with a teeth-patterned base that grips concrete, asphalt and gravel. They are sold as a set of two and the ramp face follows the contour of the tire. At $115.99 they are the largest and most complete aluminum option here.\n\nCompared with the Buyers Products chocks, the Outus is bigger and arrives as a pair, so you get both chocks for one purchase and a size that suits heavier rigs with large tires. The 12.3 inch length gives more contact with the tire than the 8.75 inch Buyers models, which helps hold a heavier coach.\n\nIt is the pick for owners of larger travel trailers, fifth wheels and toy haulers who want a rust-proof pair sized for bigger tires and do not want to buy two separate chocks. A chock this size also feels reassuring on a steady grade, and the pair arrives ready for the first trip without a second order.",
     "specs": [
       "12.3 x 6.4 x 7 inch",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LgVbPkAjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01720XONK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01720XONK?tag=rvgearlab-amz-20",
     "description": "The Buyers Products WC1267 measures 6.25 by 12.25 by 7 inches, with a steep slope and rugged traction teeth on the base. It is built from lightweight aluminum for trucks, trailers and heavy equipment, and it is priced at $62.59 per chock.\n\nIts taller, steeper profile separates it from the shorter WC7118A and WC6096A, giving more resistance to roll-back because the tire meets a higher face. Compared with the Outus, it is a single chock at a lower price, so owners who prefer to buy chocks one at a time can start with one and add another.\n\nIt is the pick for trailer owners parking on slopes, hills and gravel pads who want a steep ramp face and strong traction teeth, and who are happy to buy two for a full set.",
     "specs": [
       "6.25 x 12.25 x 7 inch",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419cMrdk9lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BO5L3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BO5L3Q?tag=rvgearlab-amz-20",
     "description": "The Buyers Products WC7118A is extruded aluminum with a ribbed slope, measuring 6 by 8.75 by 5.86 inches. The ribbed surface adds friction, and the listing highlights use in ice and snow. It is $67.95 per chock.\n\nCompared with the WC1267, it is smaller and lighter, which makes it easier to stow in a bay or a truck bed. Against the WC6096A, it shares the same size and ribbed design, so the choice between them is mostly about price and the brand's rating for snow use.\n\nIt is the pick for winter campers, snowbirds and owners in cold climates who need extra friction on slick ground and want compact aluminum chocks that are easy to carry.",
     "specs": [
       "6 x 8.75 x 5.86 inch",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410g29w0dcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CIO6Y1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CIO6Y1Y?tag=rvgearlab-amz-20",
     "description": "The Buyers Products WC6096A shares the 6 by 8.75 by 5.86 inch ribbed aluminum design of the WC7118A. It fits snugly under wheels and handles snowy and icy conditions. It costs $45.95 per chock, the lowest price among the Buyers models.\n\nIt costs less than the WC7118A and far less than the Outus pair, which makes it the entry point to Buyers Products aluminum. Compared with the Speedway wheel stop, it is a true wedge, so it holds the tire from the front or back rather than acting as a barrier.\n\nIt is the pick for owners with lighter trailers, pop-ups and small campers who want a rust-proof chock that grips in winter conditions without a large investment.",
     "specs": [
       "6 x 8.75 x 5.86 inch",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bNgYc5KYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076VLWHP3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076VLWHP3?tag=rvgearlab-amz-20",
     "description": "The Speedway Motors trailer wheel stop is a polished diamond plate aluminum block that acts as a barrier in front of the tire. It is 12 inches wide and suits car trailers, enclosed haulers and garage floors. At $18.24 it is the lowest priced item on the list.\n\nUnlike the sloped Buyers chocks, it is a stop block rather than a wedge, which makes it a good match for fixed parking spots where the tire can rest against a barrier. The 12 inch width gives a broad contact area and the diamond plate finish resists scuffs and wear.\n\nIt is the pick for owners who park in a driveway or garage and want an inexpensive aluminum stop in addition to a pair of proper chocks.",
     "specs": [
       "Polished diamond plate",

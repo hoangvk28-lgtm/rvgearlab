@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311ajYewPFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6LY9ZWJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6LY9ZWJ?tag=rvgearlab-amz-20",
     "description": "The Night Cat 4-person tent has a 5 square meter inner floor that fits a queen air mattress, plus a separate 2 square meter vestibule for shoes and coolers. A PU3000mm rainfly, fully taped seams, 9.5mm fiberglass poles that are 15 percent thicker than standard, and a 5.6 kg pack weight are listed.\n\nAgainst the Coleman Skydome it adds a built-in vestibule and a stated water rating. Compared with the Purebox it comes with a 1-year warranty and thicker poles.\n\nIt suits families that want a place for muddy boots and a queen bed in the same tent. Five minutes with a family crew is the stated setup time.",
     "specs": [
       "5 sqm floor, 2 sqm vestibule",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rKGtdi9mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QG9H85?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QG9H85?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome has pre-attached poles that set up in under 5 minutes and nearly vertical walls with 20 percent more headroom than traditional Coleman domes. Welded corners and inverted seams from the WeatherTec system, a frame tested to 35 mph winds and a wider door are listed.\n\nAgainst the Sundome it is quicker to pitch and has taller walls, and costs about 18 dollars more. Compared with the Mimajor it relies on a tested brand frame rather than a pop-up hub.\n\nIt suits campers who want to stand near the walls and change without crouching. The wider door helps with air beds and bags.",
     "specs": [
       "Pre-attached poles, 5 minutes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tePFE0DvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ56L7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ56L7X?tag=rvgearlab-amz-20",
     "description": "The Purebox 4-person tent has an extended floor length for 3 to 4 adults, two doors and a high-density PU-coated rainfly with fully taped seams. A sleeve-pole system with fiberglass poles and a 10.8 lb pack weight are listed.\n\nIt is lighter than the Night Cat and costs less. Against the Coleman tents it lacks a wind test claim and adds an extra door.\n\nIt suits couples with a kid or a dog who want separate exits. The 10.8 lb weight is easy to carry from the car.",
     "specs": [
       "Extended floor, two doors",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIlVajcXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5WQBBRP?tag=rvgearlab-amz-20",
     "description": "The Mimajor is a pre-assembled pop-up with a hydraulic top pole structure that pitches in about 60 seconds. It has a 190T polyester shell with a 3500mm PU coating, a full-coverage rainfly with taped seams, and an 8.04 ft by 8.04 ft footprint with a 59 inch height.\n\nIt is the quickest tent here, and its 3500mm rating is the highest. Against the Skydome it has a lower roof.\n\nIt suits campers who arrive late and want to be inside quickly. Three mesh windows and a full ceiling mesh keep it airy.",
     "specs": [
       "60 second pre-assembled setup",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ybpVbwKmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QN9S9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QN9S9Q?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome seals out water with a tub-style floor, welded corners, inverted seams and a taped rainfly. Pre-attached poles with continuous sleeves set up in about 10 minutes, two large windows and a ground vent ventilate it, and an E-Port brings power inside.\n\nIt costs less than the Skydome and about the same as the Amazon Basics. Compared with the Mimajor it has a tested frame rated to 35 mph and a 1-year limited warranty.\n\nIt suits campers who want a trusted classic with an E-Port. Interior pockets hold phones and flashlights.",
     "specs": [
       "WeatherTec tub floor",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mxD85jaYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 4-person tent has a 9 ft by 7 ft floor with a 48 inch center height. Welded seams, a removable rainfly, a back window with a cool-air port and shock-corded poles that set up in under 6 minutes are listed.\n\nPriced lowest of the six, it offers the largest listed floor of the domes. Against the Coleman Sundome it skips the E-Port and tested frame claim.\n\nIt suits new campers who only need the basics. An interior mesh pocket and carry bag come with it.",
     "specs": [
       "9 x 7 ft, 48 in center",

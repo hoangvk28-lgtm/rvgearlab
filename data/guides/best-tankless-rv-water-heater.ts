@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UTi9wwvSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7GKVWT9?tag=rvgearlab-amz-20",
     "description": "The Ranein RA65EH is a CSA-listed 65,000 BTU tankless heater rated at 3.9 GPM that fits a 12.8 by 12.8 inch opening and replaces most Suburban and Atwood 6, 10 and 12 gallon tank heaters. A remote shows gas use, voltage, flow and anti-freeze status, and a top exhaust fan and flame-failure shutoff are listed.\n\nAgainst the ORBEK 239.99, it names CSA and a remote with readouts at a higher price. Against the FOGATTI 9 Pro, it costs far less with a similar GPM.\n\nBest for a tank replacement with the most BTU for the price. The exterior door is not included.",
     "specs": [
       "65,000 BTU, 3.9 GPM, CSA",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpeSyMkUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTCX1RWF?tag=rvgearlab-amz-20",
     "description": "The ORBEK is a propane 60,000 BTU unit listed at 3.5 to 3.9 GPM with oxygen-free copper heat exchangers, brushless DC fans and a built-in 150 PSI pressure-reducing valve. It comes in black or white with three door size options and a high altitude mode.\n\nAgainst the Ranein 65K, it states less BTU and no CSA mark but costs about a third less. Against the FOGATTI 7, it adds a built-in valve and more BTU for less money.\n\nBest for budget buyers who want 60,000 BTU. Check certification before relying on it.",
     "specs": [
       "60,000 BTU, 3.5 to 3.9 GPM",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z3RFlN4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C4Q8RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C4Q8RQ?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 9 Pro is a third-generation unit at 66,000 BTU delivering up to 3.6 GPM with temperature control within ±1°F. It has a built-in mixing tank, a 13 by 13 inch opening and high altitude operation to 9,800 feet.\n\nAgainst the Ranein 65K, it adds a mixing tank and precise control at more than double the price. Against the FOGATTI 8 Plus, it adds BTU and a smoother output.\n\nBest for large households that value stable temperature. The price is the highest here.",
     "specs": [
       "66,000 BTU, up to 3.6 GPM",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HhW5iNu2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 8 Plus is a 55,000 BTU propane, 12V DC unit that produces up to 2.9 GPM, with a 13 by 13 inch opening and a 15 by 15 inch door. The listing says it runs in high altitude mode to 9,800 feet and compares itself to tanks that last about 8 minutes.\n\nAgainst the FOGATTI 7, it adds BTU and GPM for more money. Against the ORBEK 60K, it lists less output and costs more.\n\nBest for mid-size households that want FOGATTI fit details. Confirm the door size.",
     "specs": [
       "55,000 BTU, up to 2.9 GPM",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vwida+QtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BML288XM?tag=rvgearlab-amz-20",
     "description": "The FOGATTI InstaShower 7 is a propane tankless unit at 48,000 BTU and 2.5 GPM with staged combustion, anti-scale protection and a high-altitude mode to 9,800 feet. It includes a pre-installed 150 PSI valve and a 6.6 foot smart remote, with three door options in two colors.\n\nAgainst the FOGATTI 8 Plus, it gives less output at a lower price. Against the ORBEK 60K, it has less BTU but names anti-scale protection.\n\nBest for smaller rigs where 2.5 GPM covers one shower. The GPM figure lacks a stated temperature rise.",
     "specs": [
       "48,000 BTU, 2.5 GPM",

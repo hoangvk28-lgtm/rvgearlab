@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YErqaUUJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQ22M99?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQ22M99?tag=rvgearlab-amz-20",
     "description": "The Lepro lists a 360 degree beam at 1000 lumens, with 12 hours in warm white at 300 lumens and 8 hours in daylight mode. It dims by long press across white at 6000K, warm at 3100K and a combined mode, and charges by Type-C with the cable included.\n\nIt is one of the few picks to quote runtimes for specific modes, which makes planning easier than with the JXTKD or UMLAEN. It also acts as a power bank for a phone in an emergency.\n\nIt suits campers who want a single, clearly specified lantern with warm and cool light. Hooks at the top and base let you hang it either way up.",
     "specs": [
       "1000 lumens, 360 degree beam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kU5QZFwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCJHCBKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCJHCBKC?tag=rvgearlab-amz-20",
     "description": "The Consciot gives 1000 lumens over 360 degrees with cool white, warm white, combined white and strobe modes. A 4400mAh battery, USB cable, anti-slip rubber and shockproof materials back an IPX4 rating, and a hold gesture gives stepless dimming.\n\nIt states a battery size, which the Lepro and JXTKD do not. The removable diffuser cap exposes a bottom hook for hanging upside down.\n\nIt suits campers who want a rugged lantern with stepless dimming. The built-in handle suits carrying or hanging.",
     "specs": [
       "1000 lumens, 4400mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+EfiRa4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-amz-20",
     "description": "The Westinghouse is a rechargeable 1000 lumen lantern in 5000K daylight white with five lighting modes and an IPX4 body. Charging comes from the solar panel or USB-C, and the SOS flash sits beside high, medium and low.\n\nIt adds a sun charging route that the Lepro, Consciot and JXTKD lack. An integrated handle keeps hanging simple.\n\nIt suits multi-day campers who want a backup to wall charging. A recognizable brand name adds confidence.",
     "specs": [
       "1000 lumens, 5000K white",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FZDID2NnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX8MX8C5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX8MX8C5?tag=rvgearlab-amz-20",
     "description": "The UMLAEN lists 1000 lumens with six modes, including warm, red and strobe, and four strong magnetic bases. Up to 6 plus hours on high and 24 plus hours on low are stated, and an IPX5 body is impact resistant.\n\nIt costs the least of the five and has the best water rating, at IPX5. A 360 degree rotating hook and magnets let it stick to a car hood or hang.\n\nIt suits budget campers who want hands-free mounting and a red night light. The red mode helps keep night vision.",
     "specs": [
       "1000 lumens, six modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319QbmILQ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG17VPX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG17VPX7?tag=rvgearlab-amz-20",
     "description": "The JXTKD lists 1000 lumens with four lighting modes, stepless dimming and a built-in rechargeable battery. It is described as compact and lightweight.\n\nIt costs well under the Consciot while matching its stepless dimming, and it sits at the compact end of the group. It gives no battery capacity or IP rating, which the Consciot and UMLAEN do.\n\nIt suits campers who want a basic, packable light with smooth dimming. It works as a tent or table light.",
     "specs": [
       "1000 lumens, 4 modes",

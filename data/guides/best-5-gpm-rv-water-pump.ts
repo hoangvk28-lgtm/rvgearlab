@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513i0RoIQaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYN3XB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYN3XB7?tag=rvgearlab-amz-20",
     "description": "The Bokkee is a 12V pump delivering 5 GPM at 45 PSI with a smart pressure switch that starts at 15 PSI and shuts off at 45. A pure copper motor, NSK double ball bearings, a stainless steel seal ring and an imported drive bearing are listed.\n\nIt is the only 5 GPM pump here at the gentle 45 PSI setting, which suits older plumbing. It costs more than the DICMIC 12V, which runs at 55 PSI.\n\nA good fit for owners who want high flow without 55 PSI. The listing says it supports the faucet, shower and toilet at once.",
     "specs": [
       "5 GPM at 45 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+VwBVdL4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5B47MQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5B47MQ8?tag=rvgearlab-amz-20",
     "description": "The DICMIC 12V is a self-priming diaphragm pump rated 5.0 GPM at 55 PSI. Its one-piece diaphragm, ultra-quiet and thermal protection claims and run-dry tolerance are listed.\n\nIt is the lowest-priced 5 GPM pump here and the 12V pick for owners who accept 55 PSI. It undercuts the Bokkee.\n\nA good fit for owners who want 5 GPM on 12V at a budget price. The thermal protection suits hot bays.",
     "specs": [
       "5.0 GPM at 55 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414clyRpXaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5B536JZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5B536JZ?tag=rvgearlab-amz-20",
     "description": "The DICMIC 115V is a self-priming diaphragm pump rated 5.0 GPM at 55 PSI that plugs into a 115V AC outlet. The listing mentions a one-piece diaphragm, thermal protection and run-dry capability.\n\nIt is the AC counterpart of the DICMIC 12V and suits full-hookup rigs. It costs more than the 12V version.\n\nA good fit for owners who stay on shore power. It avoids battery draw for long showers.",
     "specs": [
       "5.0 GPM at 55 PSI, 115V AC",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412WVizM4cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T991LT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T991LT?tag=rvgearlab-amz-20",
     "description": "The Heuyrao 110V is a four-chamber AC pump, 5.5 GPM at a steady 70 PSI, and its switch runs on demand. A pure copper motor, CE certification and short run-dry capability are listed.\n\nIt is the highest-pressure pump on the list and sits half a gallon above the 5.0 GPM pumps. It suits owners with robust plumbing or a regulator.\n\nA good fit for owners who want maximum flow on shore power. The four chambers smooth the spray.",
     "specs": [
       "5.5 GPM at 70 PSI, 110V",

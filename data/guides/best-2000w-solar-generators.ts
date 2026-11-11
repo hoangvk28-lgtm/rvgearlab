@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J42iP7mSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark2000 delivers 2000W continuous with a 2400W A-Boost mode from a 1,536Wh LiFePO4 battery that expands to 4,608Wh with Ark2000E packs. It has 8 ports, charges to 80 percent in 55 minutes on 1,500W AC or about 1.2 hours on 1,200W of solar, and has a 10ms UPS with a 3W emergency LED.\n\nIt holds about 50 percent more energy than either OUPES kit and takes in more solar, up to two 600W panels. The GRECELL 2400W has a bigger battery and no expansion path or fast-charge figure on its listing.\n\nIt suits campers, RV owners and home backup buyers who want a 2000W unit that can grow later. The UPS covers routers and computers through short outages.",
     "specs": [
       "2000W continuous, 2400W A-Boost",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zSzY5ecJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS71NRSZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS71NRSZ?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 kit pairs a 1,024Wh LiFePO4 station with a 100W panel and lists 2000W pure sine wave output with a 4,500W surge. It recharges from empty to 80 percent in 36 minutes on AC and expands from 1,024Wh to 5,120Wh, with up to 800W of solar input.\n\nIts 36 minute AC refill beats the 55 minutes of the ABOK Ark2000 and the 46 minutes of the OUPES Mega 1 Lite. It ships with the panel, which the ABOK does not.\n\nIt suits weekend campers who plan to refill from a wall outlet at the next campground and want a starter solar panel in the box. The 4,500W surge helps with tool and microwave starts.",
     "specs": [
       "2000W, 4,500W surge, 1,024Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fm7k3FuLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTQGZ94T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTQGZ94T?tag=rvgearlab-amz-20",
     "description": "The OUPES Mega 1 Lite kit includes a 1,024Wh, 2000W station and a foldable 100W panel with monocrystalline cells rated up to 23 percent efficiency. It lists 2000W rated power with 4,500W surge, a 46 minute AC recharge to full and LiFePO4 cells with 3,500-plus cycles to 80 percent.\n\nIt costs a little less than the OUPES Mega 1 and charges to 100 percent in 46 minutes where the Mega 1 reaches 80 percent in 36. It lists no expansion path, which the Mega 1 does.\n\nIt suits first-time solar buyers who want the 2000W output and a panel in one purchase. The cycle rating suits regular weekend use.",
     "specs": [
       "1,024Wh, 2000W, 4,500W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YqWYDXx4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF6KRFY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF6KRFY1?tag=rvgearlab-amz-20",
     "description": "The GRECELL 2400W provides 2400W continuous AC from a 1,843.2Wh LiFePO battery and weighs 55 pounds at 16.9 by 11.8 by 11 inches. It has 4 AC ports, 2 USB-A, 2 USB-C, 2 DC ports, a car outlet and a 10W wireless pad, and takes AC, car or an optional 200W panel.\n\nIt stores more than the ABOK Ark2000 and both OUPES kits and outputs 400W more continuously, for a lower price than the ABOK. It does not state a fast-charge time or an expansion path.\n\nIt suits home backup and RV owners who want the most stored energy for the money in this size class. The two side handles help with moving 55 pounds.",
     "specs": [
       "2400W continuous, 1,843.2Wh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k7xVwJn+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZS5LZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZS5LZD?tag=rvgearlab-amz-20",
     "description": "The GRECELL 1000W stores 999Wh and lists 1000W continuous pure sine wave output with a 2000W peak. It weighs 17 pounds, has 10 ports including a 60W USB-C PD, three QC 3.0 USB-A ports and a wireless pad, and the listing says it runs CPAP machines, mini-fridges and TVs.\n\nIt reaches 2000W only as a peak, which makes it the lightest and cheapest here and the only one that is not a true 2000W machine. AC charging takes 7 to 8 hours, which is slow next to the ABOK and OUPES.\n\nIt suits campers and cabin owners with modest loads who want to keep weight down. Ask your CPAP maker before relying on any inverter-based power.",
     "specs": [
       "999Wh, 1000W with 2000W peak",

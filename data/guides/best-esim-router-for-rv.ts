@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L1XUqMy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-amz-20",
     "description": "The GL.iNet MUDI 7 is a 5G tri-band Wi-Fi 7 travel router powered by a Qualcomm Dragonwing X72 modem with up to 4.67 Gbps download. It combines a built-in eSIM with two physical Nano-SIM slots with dual standby, and it has no SIM lock. A 2.5G Ethernet port and a 10 Gbps USB-C port support wired backhaul, tethering and external storage. Quad-path multi-WAN failover runs Ethernet, Wi-Fi repeater, USB tethering and 5G at once and re-routes in seconds if one drops.\n\nCompared with the InHand CR602 below, the GL.iNet costs about $9 less and adds tri-band Wi-Fi 7 and a built-in 13.5-hour battery, while the InHand adds a swappable battery and published carrier certifications. Compared with the NETGEAR Nighthawk M7, it costs $30 less and adds more WAN options and Ethernet.\n\nIt suits a full-time RV worker who combines campground Wi-Fi, a Starlink dish and 5G, and wants the router to pick the best link. The 30W PD fast charging refills the 5150mAh battery quickly.",
     "specs": [
       "5G up to 4.67 Gbps, tri-band Wi-Fi 7",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V72YNze-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7WDKYHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7WDKYHZ?tag=rvgearlab-amz-20",
     "description": "The InHand CR602 is a 5G Release 16 router with Wi-Fi 7 BE3000 and carrier aggregation that the maker rates at up to 7.01 Gbps. It is certified by Verizon, AT&T and T-Mobile, which reduces the chance of being throttled as an unknown device, and it works with an existing SIM. Triple uplink redundancy combines 2.5G Ethernet WAN with dual Nano-SIM and an eSIM, and it has dual 2.5G Ethernet ports. A 10000mAh swappable battery gives about 15 hours, and three years of InCloud management is included.\n\nCompared with the GL.iNet MUDI 7, it costs about $9 more and adds carrier certifications from all three big carriers, a swappable battery and three years of cloud management. Compared with the NETGEAR M7, it costs $20 less and certifies Verizon as well.\n\nIt suits an RV worker with an existing carrier plan who wants a certified router, and a traveler who wants to carry a spare battery. The InCloud manager shows signal, traffic and battery from a phone.",
     "specs": [
       "5G NR R16, Wi-Fi 7 BE3000, dual 2.5G Ethernet",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VrhVltOfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4XP7JMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4XP7JMR?tag=rvgearlab-amz-20",
     "description": "The NETGEAR Nighthawk M7 is a 5G mobile hotspot with Wi-Fi 7 at up to 3.6 Gbps and a NETGEAR eSIM that sells 5G and 4G data plans in more than 140 countries through the Nighthawk app, with no contracts. It is certified for AT&T and T-Mobile and unlocked for other compatible carriers, connects up to 32 devices, and includes a firewall, WPA3 encryption and automatic firmware updates.\n\nCompared with the GL.iNet MUDI 7, the Nighthawk costs $30 more and offers a simple app-based plan store and a hotspot form factor, while the GL.iNet offers more WAN options. Compared with the TravlFi Journey1, it adds 5G and Wi-Fi 7 for $320.99 more.\n\nIt suits a traveler who crosses borders, wants to buy local data from an app and values a recognized brand. A dedicated hotspot also frees the phone's battery.",
     "specs": [
       "5G hotspot with Wi-Fi 7, up to 3.6 Gbps",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21gP2WAnn8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-amz-20",
     "description": "The TravlFi Journey1 is a 4G LTE RV hotspot with built-in eSIM technology and prepaid data plans from 2GB up to unlimited, billed every 30 days with no contract. Its patented network switching finds the strongest signal across major networks and re-optimizes when you change location, so you do not hold a SIM from each carrier. The pocket-size device creates a private network for laptops, phones and a smart TV.\n\nCompared with the Linklan LA7, it costs about $1 less and offers RV-focused plans and automatic network selection, while the Linklan adds a physical SIM slot and a free 5GB trial. Compared with the GL.iNet X3000, it costs $241.99 less for LTE instead of 5G.\n\nIt suits a seasonal RVer who wants to pay only for months on the road, a weekend camper who wants one device and one bill, or a first-time buyer who prefers one device and one bill over comparing carriers. Plans can start small and grow.",
     "specs": [
       "4G LTE hotspot with built-in eSIM",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414UBkN-ppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6VP9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQ6VP9P?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-X3000 Spitz AX is a Wi-Fi 6 cellular gateway with 5G under both NSA and SA standards, Wi-Fi speeds of up to 574 Mbps on 2.4GHz and 2402 Mbps on 5GHz, and dual-SIM with single standby. GL.iNet's travel eSIM cards cover over 100 countries including the USA, Europe, Asia and Australia, and offer a range of customizable plans with transparent pricing.\n\nCompared with the GL.iNet MUDI 7, it costs $49 less and gives up Wi-Fi 7, the built-in battery and dual standby, while keeping 5G and eSIM options. Compared with the Linklan LA7, it adds 5G and Wi-Fi 6 for $241 more.\n\nIt suits a traveler who wants a home-style 5G router in the rig, a user who likes GL.iNet's open software and a buyer who needs a travel eSIM for trips abroad. Dual-SIM selection lets you pick the stronger carrier.",
     "specs": [
       "5G NSA and SA, Wi-Fi 6 up to 2402 Mbps",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41guMx6uSXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJBNCJVP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJBNCJVP?tag=rvgearlab-amz-20",
     "description": "The Linklan LA7 is a 4G LTE Cat 6 hotspot with speeds up to 300 Mbps download and 50 Mbps upload, a 5000mAh battery, USB-C charging and a compact 2.74 by 4.43 by 0.75 inch body. It supports both a physical SIM and an eSIM, and it includes free 5GB of US data to try the service. The Linklan app manages plans and settings.\n\nCompared with the TravlFi Journey1, it costs about $1 more and adds a physical SIM slot and the free trial, while the TravlFi offers RV-oriented plans and network switching. Compared with the GL.iNet X3000, it saves $241.\n\nIt suits a light user who wants a pocket hotspot for a weekend, a traveler who wants a spare for international trips and a buyer testing eSIM before investing in a router. The 5000mAh battery runs a day of light use.",
     "specs": [
       "4G LTE Cat 6, up to 300 Mbps down",

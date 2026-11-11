@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pcXyQG8hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4J9WFY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4J9WFY8?tag=rvgearlab-amz-20",
     "description": "The Renogy 8-fold lists 25 percent N-type 16BB cells, 8.82 lbs and a folded size of 16.14 x 15.35 x 3.07 inches. It has an IP65 rating for minus 10 to 65 degrees Celsius, 1 USB-C and 2 USB-A ports and can lie across an SUV windshield.\n\nIt weighs about 5 lbs less than the other Renogy 200W and 10 lbs less than the ZOUPW. The windshield mounting option is unique here.\n\nIt suits campers who carry a panel in a small trunk. The USB ports mean it can charge devices directly.",
     "specs": [
       "25% N-type, 8.82 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CvFaQf-fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-amz-20",
     "description": "This Renogy lists 25 percent N-type cells, 13.89 lbs and a folded size of 23.72 x 22.99 x 1.97 inches, with a magnetic closure. The listing states UL 61730 testing and names CE, RoHS, FCC, CA65, PSE and ISO 9001 claims.\n\nIt brings a named UL standard that none of the others list, and USB-C PD 45W plus dual USB-A. It weighs 5 lbs more than the 8-fold Renogy and has four kickstands.\n\nIt suits buyers who value certifications for an RV or van. The accessory pouch keeps cables in one place.",
     "specs": [
       "25% N-type, 13.89 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4199NAF0H8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYSC1KY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYSC1KY8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 200W lists 23.5 percent A+ cells, 18.96 lbs and a folded size of 25 x 21.06 x 1.97 inches. It has IP67 ETFE, a 5-in-1 cable, magnetic handles and a junction box with USB-A QC3.0 and USB-C PD 60W.\n\nIts USB-C port is stronger than the Renogy models' 45W, and it carries the heaviest weight. It costs a little more than the UL Renogy.\n\nIt suits car campers who want the highest-wattage USB-C port. The five connectors fit several brands.",
     "specs": [
       "23.5% cells, 18.96 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ueb53YPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ8VB8P1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ8VB8P1?tag=rvgearlab-amz-20",
     "description": "The Ecosonique lists a 6-fold design at 11 lbs folding to 18 x 16.3 inches, with 20V MC4 direct output and a 3 m MC4 cable. It includes a 0.5 m adapter to XT60, Anderson, DC7909 and DC5525 plus four adjustable kickstands.\n\nIt is lighter than the ZOUPW and both Renogys except the 8-fold, and it costs much less than any Renogy. It uses Oxford cloth with CPC lamination.\n\nIt suits campers who want a compact, lower-cost 200W. The 3 m cable lets the station sit in shade.",
     "specs": [
       "11 lbs, 6-fold, 18 x 16.3 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QvAmMKeVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075SZMFP2?tag=rvgearlab-amz-20",
     "description": "The DOKIO lists 9.7 lbs and a folded size of 20 x 27 x 1.1 inches, with a standalone PWM controller and a 9.84 ft cable. Dual USB ports supply phones, lamps and small gadgets.\n\nIt is the only 200W pick that includes a controller, so it charges a 12V battery without extra parts. Among stated weights it is lighter than every other 200W except the 8-fold Renogy.\n\nIt fits vans and trailers running a 12V battery bank. The slim 1.1 inch fold stores flat.",
     "specs": [
       "9.7 lbs, 1.1 in thick",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QMUiMgEIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7KLG1Y4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7KLG1Y4?tag=rvgearlab-amz-20",
     "description": "The LVYUAN lists a blanket-style 200W panel with P-PERC cells at 23 percent, IP64 and a centripetal inward-folding design. It outputs 20V to 24V.\n\nIt is the lowest-priced panel here, and it needs an adapter for most Jackery, EcoFlow and Bluetti stations according to its own listing. Its listing urges checking the folded size and weight before buying.\n\nIt suits budget buyers with a station that takes 20V to 24V. The inward fold packs flat.",
     "specs": [
       "200W blanket, 23% P-PERC",

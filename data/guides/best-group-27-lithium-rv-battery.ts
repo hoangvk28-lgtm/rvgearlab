@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi4nZc5hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4WW46JK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4WW46JK?tag=rvgearlab-amz-20",
     "description": "The Power Queen 125Ah is a 12V Group 27 LiFePO4 battery with Bluetooth 5.0, app remote control and a 20 plus protection BMS. It stops charging below 32F and stops discharging below -4F, which are actual thresholds you can plan around.\n\nAt $284.99 it costs $17.60 less than the Litime 100Ah at $302.59 and carries 25Ah more, roughly 1600Wh versus 1280Wh. Pick this if you want the most energy per dollar in a standard case. The caveat is that charging stops at freezing, so winter campers need a heated option or a warm compartment.",
     "specs": [
       "12V 125Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evBZX-JdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV1FKH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV1FKH5?tag=rvgearlab-amz-20",
     "description": "The Litime 100Ah Group 27 battery has Bluetooth 5.0, 20 plus BMS protections including a low temperature cutoff, and a 30 second overload recovery. The listing names fit in compartments like the Brinkley Z 2900 and Four Winds 22E.\n\nAt $302.59 it costs $17.60 more than the Power Queen 125Ah and gives 25Ah less, so you pay extra for fit documentation and brand support. Pick this if your rig is on the fitment list. The caveat is lower energy per dollar than the Power Queen.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gI9T1Z5YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYTV2J8M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYTV2J8M?tag=rvgearlab-amz-20",
     "description": "This Litime set is two 12V 100Ah Group 27 LiFePO4 batteries, so a pair gives 200Ah and 2560Wh at 12V. It has the same Bluetooth 5.0 app and BMS protections as the single.\n\nAt $596.10 the pair costs $9.08 less than buying two singles at $605.18, a small saving. Pick this if you are building a house bank in one order. The caveat is the shipping notice, which says the order may arrive in multiple packages.",
     "specs": [
       "2 x 12V 100Ah LiFePO4",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+xKq-jT8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-amz-20",
     "description": "The CYCLENBATT 12V 100Ah Bluetooth LiFePO4 battery is built to the Group 27 size with a smart BMS and low temperature shutdown. The sister listing gives dimensions of 12.09 x 6.65 x 8.19 inches, which helps with tray checks.\n\nAt $209.99 it costs $75.00 less than the Power Queen 125Ah and $92.60 less than the Litime 100Ah. Pick this if budget is the first question and 100Ah is enough. The caveat is that RV specific fit claims are weaker than Litime's, so measure first.",
     "specs": [
       "12V 100Ah LiFePO4",

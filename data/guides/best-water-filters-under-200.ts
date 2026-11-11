@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415PkFW3nqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CHYLXLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CHYLXLW?tag=rvgearlab-amz-20",
     "description": "Aquasana reduces up to 99 percent of 78 contaminants, including lead, PFOA and PFOS, chlorine and pesticides, and flows about half a gallon of water per minute. The filter lasts 6 months or 600 gallons and costs less than 10 cents per gallon.\n\nAt about $155 it is the only pick above the $150 mark and the fastest, which means no waiting for a glass of water. The CuZn UC-200 lasts 5 years, while this one trades filter life for flow.\n\nFamilies that fill pitchers and pots often will like the half-gallon-per-minute flow. It suits a kitchen with a dedicated drinking tap.",
     "specs": [
       "Reduces up to 99% of 78 contaminants",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JDcOlHF+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000923524?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000923524?tag=rvgearlab-amz-20",
     "description": "The CuZn UC-200 is a 3-stage filter with micro sediment membranes, KDF-55 and coconut shell carbon, rated for 5 years and certified to NSF/ANSI 42 and 372. It reduces PFAS, lead and chlorine and installs inline without drilling.\n\nAt about $150 it costs $5 less than the Aquasana and lasts ten times longer on paper. The Aquasana flows faster.\n\nCabin owners and busy households who dislike filter changes will like the five-year life. It is the lowest-maintenance system here.",
     "specs": [
       "5-year filter life",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CJNtf-W0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BA1DX84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BA1DX84?tag=rvgearlab-amz-20",
     "description": "EcoPure ECOP20 is a 2-stage system certified to reduce 58 contaminants, including chlorine taste and odor, lead and cysts. It includes a dedicated faucet and connects to a 3/8 inch cold line.\n\nAt about $122 it costs $33 less than the Aquasana and has a smaller contaminant list. The faucet is included.\n\nHouseholds that want a separate tap and a mid-priced system will like it. It suits a standard kitchen.",
     "specs": [
       "2-stage, 58 contaminants",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IZ6mcRu4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJ4P99G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJ4P99G?tag=rvgearlab-amz-20",
     "description": "The AO Smith AO-US-200 is a 2-stage Claryum system with a dedicated faucet that reduces up to 99 percent of 78 contaminants, including lead and PFAS, while leaving essential minerals. The full system is certified to NSF/ANSI 42, 43 and 401.\n\nAt about $111 it is the cheapest pick and matches the Aquasana's 78 contaminant list. It has a lower flow claim than the Aquasana.\n\nBuyers who want full-system certification at the lowest price will like it. It suits a family kitchen.",
     "specs": [
       "2-stage Claryum, 78 contaminants",

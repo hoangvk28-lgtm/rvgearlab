@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RKO9iTIfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC6BMKWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC6BMKWF?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS is an 8 foot bed tent with a straight aisle design, a double-layer 210D polyester oxford fly and PU2000mm coating. It has a mesh starry sky roof, four-sided mesh windows, four fiberglass poles and two storage bags.\n\nIt gives the easiest entry among the long-bed picks and a clear sky view. Compared with the BravArrk it needs poles and has a lower coating.\n\nIt suits large groups that split sleepers between the bed and the ground. The straight aisle makes passing gear simpler.",
     "specs": [
       "Straight aisle, mesh roof",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQM6RgQcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HXL4YQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HXL4YQL?tag=rvgearlab-amz-20",
     "description": "The Napier Backroadz is a two-person truck tent with a full rainfly, reinforced taped seams, storm flaps in windows, door and vents and nine adjustable straps. A color-coded pole system sets it up in under 10 minutes.\n\nIt is the best-known brand here and the one Napier link tents attach to. Compared with the inflatables it costs less and relies on poles.\n\nIt suits groups planning to add a Napier ground tent for more room. Napier lists it as a fit with major automakers' trucks.",
     "specs": [
       "Nine adjustable straps",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hEfqJuPmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJTGWP5Z?tag=rvgearlab-amz-20",
     "description": "The BravArrk has a 7.2 foot long, 5.9 foot wide frame sized for bed lengths between 5.5 and 8 feet. It uses 4 inch PVC air beams, PU3000mm, a two-minute inflation and a detachable zippered awning.\n\nIt has a higher coating than the JOYTUTUS and a removable awning for shade. It sets up faster than any of the pole tents.\n\nIt suits larger groups that want a quick base camp. The awning widens the covered space.",
     "specs": [
       "PU3000mm, 4-in air beams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V97myP2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-amz-20",
     "description": "The GARIGLOOME is an air-frame tent with reinforced PVC beams and PU3000mm fabric, sized for beds between 5.5 and 8 feet. Extended side and rear rain flaps, a starlight skylight and dual-layer doors come with it.\n\nIt gives wider rain coverage than the BravArrk and also fits many bed lengths. It lacks the awning that the BravArrk adds.\n\nIt suits groups that camp in changeable weather and want pole-free setup. A manual pump is included.",
     "specs": [
       "Air-beam frame, PU3000mm",

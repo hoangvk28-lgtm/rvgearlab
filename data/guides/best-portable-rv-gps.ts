@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WFcCr+wyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH9KGCFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH9KGCFQ?tag=rvgearlab-amz-20",
     "description": "The Jimwey 7 inch GPS has 2026 North America maps with free lifetime updates and no subscription. You enter your vehicle's length, width, height, weight and max speed for routes that avoid restricted roads.\n\nIt names full dimension entry, which the HINYFVOZ also lists. The high-brightness screen stays clear in direct sunlight with 2D, 3D and day and night modes.\n\nIt is the pick for moving one navigator between a tow vehicle and a camper van. In portable rv gps, moving between vehicles is its lane.",
     "specs": [
       "7 inch high-brightness screen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZP+fck2lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDCGT958?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch GPS accepts vehicle height, weight, length and width for custom routing. It ships with 2026 maps, free lifetime updates and voice guidance in 25 plus languages.\n\nIt costs a bit more than the URFRU and gives up less screen. It matches the Jimwey on routing language.\n\nChoose it for a cheap, portable RV navigator with dimension entry. For portable rv gps, it suits value portable.",
     "specs": [
       "7 inch HD touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BmTfY6zqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-amz-20",
     "description": "The Dizvgoy 7 inch GPS has 2026 North America maps, free lifetime updates and turn-by-turn voice guidance. It adds speed alerts and an FM transmitter for stereo audio.\n\nIt runs on a simple interface. Against the Jimwey, it lacks dimension entry.\n\nChoose it for a basic portable unit in a tow vehicle or rental. For portable rv gps, it suits basic use.",
     "specs": [
       "7 inch, 2026 maps",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d5kBAJfBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXR9RYK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXR9RYK2?tag=rvgearlab-amz-20",
     "description": "The URFRU is a 5 inch GPS that connects to satellites directly with no mobile network needed. It carries preloaded offline maps for the US, Canada and Mexico with free updates.\n\nIt is the smallest car-style navigator here and the cheapest. It supports zip, address, coordinate and POI search with several route modes.\n\nPick it for a tight cab or a van where a larger unit will not fit. Under portable rv gps, expect tight cabs to suit it.",
     "specs": [
       "5 inch touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tfh5oVKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PLL4MJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PLL4MJ3?tag=rvgearlab-amz-20",
     "description": "The Bushnell BackTrack Mini is a pocket GPS that records your trip or waypoints and guides you back to the start. It has Bluetooth to sync trips, a waterproof build and large glove-friendly buttons.\n\nIt is not a road navigator, which makes it a different tool from the other four. It suits cell-free hikes from camp.\n\nChoose it as a backup for hikes from the campsite, not as a road GPS. Under portable rv gps, expect hike back-up to suit it.",
     "specs": [
       "Pocket size, waterproof",

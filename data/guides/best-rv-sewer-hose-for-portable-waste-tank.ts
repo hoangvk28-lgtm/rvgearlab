@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51seUq+QgyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGHDFHFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGHDFHFS?tag=rvgearlab-amz-20",
     "description": "SheeChung 10 ft hose is made for emptying black or gray water into a portable RV waste tank. It has a female to female clear elbow, a 360 degree swivel fitting and a TPE build with a 24 mil vinyl wall.\n\nAgainst SheeChung 5ft, it gives more reach. Against Camco Rhino Ultimate, it is a single hose without a storage box.\n\nIt is the best match for a tote parked a few steps from the RV. Think of it as the pick for mid-distance tote setups.",
     "specs": [
       "10 ft TPE hose",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516o5Zn1FgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3SW8RL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3SW8RL?tag=rvgearlab-amz-20",
     "description": "SheeChung 5 ft kit is a compact TPE hose with 4-prong bayonet fittings and a clear 90 degree adapter. The listing says the adapter fits 3 inch slip, 3 inch straight thread and 3 and a half inch industrial thread connections.\n\nAgainst SheeChung 10ft, it is shorter and easier to store. Against SheeChung 3ft Tote, it gives two more feet.\n\nIt suits tight spaces and close tote placement. Buyers focused on close tote placement will find it a sensible match.",
     "specs": [
       "5 ft TPE hose",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LEZ+2+w-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGR93XB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGR93XB?tag=rvgearlab-amz-20",
     "description": "SheeChung 3 ft hose is the shortest in this line, with a female to female clear elbow and a 360 degree swivel. It is made from TPE with a 24 mil vinyl wall and the listing says it connects an RV sewer valve to a portable tote.\n\nAgainst SheeChung 5ft, it is two feet shorter. Against Camco Rhino Ultimate, it has no extra parts.\n\nIt suits a tote placed right under the RV outlet. It earns its slot for tote under the outlet.",
     "specs": [
       "3 ft TPE hose",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513UqXX+agL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23GX11C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23GX11C?tag=rvgearlab-amz-20",
     "description": "SheeChung 3 ft basic hose is a short camper sewer hose with 4-prong bayonet fittings and a clear 90 degree adapter. The listing says it fits 3 inch slip, 3 inch straight and 3 and a half inch industrial thread pipes.\n\nAgainst SheeChung 3ft Tote, it uses bayonet fittings and lists threaded pipe sizes. Against SheeChung 5ft, it is shorter and cheaper.\n\nIt suits small trailers and quick tote dumps. It is a natural fit for small trailers.",
     "specs": [
       "3 ft TPE hose",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrWia1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-amz-20",
     "description": "Camco Rhino Ultimate is an 11-piece combo kit with a 20 foot sewer hose with a pre-attached clear elbow, a 4-in-1 adapter, two storage caps and five sewer hose support sections. The box has a snap lid and handles and doubles as the hose support start and end.\n\nAgainst the SheeChung hoses, it is a long kit with supports and storage. Against SheeChung 10ft, it is a full-length hose for a dump station.\n\nIt suits owners who want one kit for the tote and the dump station. Think of it as the pick for all-in-one kit.",
     "specs": [
       "20 ft hose, 11-piece kit",

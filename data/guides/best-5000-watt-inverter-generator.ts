@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QTo3OoZkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRDV727?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRDV727?tag=rvgearlab-amz-20",
     "description": "The AMERISUN lists 5000 starting and 4000 running watts from a 223cc OHV engine, THD under 3%, CO protection and RV ready outlets. Its 3.43 gallon (13L) tank is quoted at up to 10 hours at 50% load. It costs $569.99.\n\nIt is the priciest of the four, $80.00 above the Mutaomay, and pays for itself with the largest tank and a stated runtime. Pick this if you want long runtime and CO protection; the caveat is the highest price.",
     "specs": [
       "5000W start, 4000W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411V01Gtb1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5B29WJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5B29WJ9?tag=rvgearlab-amz-20",
     "description": "The Mutaomay lists 5000 peak and 4000 running watts with THD under 2%, the cleanest power of the four, and under 64.5 dB at 23 feet. It sells for $489.99.\n\nIt is $80.00 below the AMERISUN and $130.00 above the cheaper Oxseryn Eco. It offers the best power quality and a stated noise level. Pick this if you power sensitive electronics; the caveat is the lack of a documented tank size or runtime.",
     "specs": [
       "5000W peak, 4000W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZjngYQA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCCRR7DM?tag=rvgearlab-amz-20",
     "description": "The Oxseryn Eco lists 5000 peak and 4000 rated watts, a 30A RV outlet, ECO mode and 6 hours at 50% load from a 2 gallon tank. THD is under 5%, a looser figure than the others. It costs $359.99.\n\nIt is $130.00 below the Mutaomay and $30.00 above the Oxseryn Basic. Pick this if you want ECO mode and a 30A outlet for less; the caveat is the weaker THD and shorter runtime.",
     "specs": [
       "5000W peak, 4000W rated",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iRJsi690L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWMPY6RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWMPY6RT?tag=rvgearlab-amz-20",
     "description": "This Oxseryn lists 4000 rated and 5000 peak watts, clean power for sensitive electronics, and 6 hours at 50% load from a 2 gallon tank with ECO mode. It costs $329.99.\n\nIt is $30.00 below the Oxseryn Eco and its listing looks nearly identical, so the saving is real but the extras are less clear. Pick this if you simply want 4000 running watts at the lowest price; the caveat is that outlet details are thinner.",
     "specs": [
       "5000W peak, 4000W rated",

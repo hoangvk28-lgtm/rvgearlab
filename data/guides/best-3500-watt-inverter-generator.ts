@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Xsjm+woeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PBFVWFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PBFVWFK?tag=rvgearlab-amz-20",
     "description": "This unit lists 3500 peak and 3000 running watts, a 30A RV outlet, two 20A outlets and two USB ports. Its Eco mode is rated at 8.3 hours at 25% load (750W), and it sells for $399.99 with EPA compliance.\n\nIt costs $24.84 more than the AFOERIT and $120.99 more than the All Power America, and the listing documents runtime at a stated load. It is the most fully described of the three. Pick this if you want clear runtime data; the caveat is the highest price.",
     "specs": [
       "3500W peak, 3000W running",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X4X6UtTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRWVMM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRWVMM9?tag=rvgearlab-amz-20",
     "description": "The AFOERIT lists 3500 peak and about 3000 typical running watts, with CO protection and a handle for carrying. It costs $375.15 and is aimed at RV camping.\n\nIt sits $24.84 below the maXpeedingrods, but the listing is thinner on runtime and outlet detail. The saving is real, yet you get less data to verify claims. Pick this if you want CO protection at a lower price; the caveat is that quiet operation is described without a dB figure.",
     "specs": [
       "3500W peak, 3000W running",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUWLm4HAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WTL5BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WTL5BJ?tag=rvgearlab-amz-20",
     "description": "This open frame unit lists 3500 running and 4375 peak watts, a 3 gallon tank, one 20A plug and a 30A RV outlet. At $279 it is the cheapest of the three and has the largest tank.\n\nIt costs $96.15 less than the AFOERIT and $120.99 less than the maXpeedingrods, and its running watts exceed both. The trade is an open frame body that is likely noisier and bulkier. Pick this if you want maximum running watts per dollar; the caveat is that noise and weight are not listed.",
     "specs": [
       "3500W running, 4375W peak",

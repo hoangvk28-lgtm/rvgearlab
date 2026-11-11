@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AO2TXCLuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVBW3KH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVBW3KH?tag=rvgearlab-amz-20",
     "description": "Sized 92 by 63 inches, the BORULL is the biggest bag here and fits sleepers up to 7 feet. Its listing gives a 40 to 65F comfort range with a 30F limit, and two pillows are in the box.\n\nThat 30F limit is the lowest stated of the five, and the extra width beats the 87 by 59 inch Atarashi. It unzips flat as a blanket or splits into two bags, and an adjustable hood and anti-snag zippers are part of the build.\n\nIt suits couples with a tall partner who want a roomy, pillow-ready double. The 3-in-1 design extends its use to picnics and sleepovers.",
     "specs": [
       "92 x 63 inch queen",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OQIvG-abL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F4ST9Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F4ST9Y6?tag=rvgearlab-amz-20",
     "description": "The Atarashi pairs a 290T nylon shell with a DWR finish, a wind collar, a full-length draft tube and 400GSM heavy fill. Its listing prints a comfort rating of 40F and a limit of 32F, in an 87 by 59 inch cut for two adults up to 6 ft.\n\nAgainst the BORULL it is a little smaller, and the heavier fill and wind collar give it a colder-night feel on paper. It also unzips into a queen blanket or splits into two singles.\n\nIt suits couples who want a three-season bag that can handle the odd cold snap. A parent sleeping with a child fits comfortably.",
     "specs": [
       "400GSM fill, DWR nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ulAEBv7lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSX4Z5MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSX4Z5MQ?tag=rvgearlab-amz-20",
     "description": "The FJALLNOK uses a brushed cotton flannel lining over a 3D synthetic fill, with a draft tube along the entire zipper. Its range is stated as 41 to 59F and its size as 59 by 86.6 inches for sleepers up to 6 ft.\n\nIt is the priciest bag here, and the flannel lining feels softer than the nylon inners of the Atarashi and BORULL. It zips into two singles or opens flat as a mat, and a compression sack is included.\n\nIt suits couples who like a home-bed feel and camp in mild weather. Side sleepers get extra room from the 59 inch width.",
     "specs": [
       "Cotton flannel lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411iU5r8l1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DH2WGKD9?tag=rvgearlab-amz-20",
     "description": "The ETGLCOZY has a dual-zipper system that turns it into two separate bags or two blankets, plus a bottom ventilation zipper. It adds a flannel liner, a Thermolock draft tube and a storage bag in a lightweight, waterproof shell.\n\nIt costs less than the FJALLNOK, and it is machine washable, which the BORULL listing does not mention. No temperature range is printed, so rely on its flannel and draft tube as the warmth cues.\n\nIt suits families who want flexible bedding at a moderate price. The ventilation zipper is handy on mixed-weather trips.",
     "specs": [
       "Dual-zipper convertible",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zJoCaU86L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YN6P6PR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YN6P6PR?tag=rvgearlab-amz-20",
     "description": "The Tuphen is a queen XL double filled with microfiber and shelled in water-resistant nylon with a microfiber lining. Two small pillows and a carrying bag come with it, and it separates into two single bags with a zipper.\n\nIt is the least expensive bag here and still includes pillows, which the Atarashi and FJALLNOK do not. Its listing is thin on numbers, with no temperature range or weight, so plan on mild nights.\n\nIt suits budget campers who want a simple double with pillows in the box. The nylon shell sheds light moisture.",
     "specs": [
       "Microfiber fill, nylon shell",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J1dRUvk3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SF4YYQE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SF4YYQE?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Professional Grade Mold and Mildew Stain Remover removes mold, mildew, moss and algae stains on contact without heavy scrubbing. Its triple-action formula uses buffered bleach, chelating agents and surfactants, and the listing says it is safe for marine and outdoor upholstery including Sunbrella.\n\nAgainst the STAR BRITE Plus Cleaner, it adds a long list of surfaces and fabric safety. Against Wet & Forget, it works on contact rather than over weeks.\n\nBest for awnings, fiberglass, vinyl and outdoor fabric with visible green or black stains. Spray, wait for the stain to fade and rinse.",
     "specs": [
       "Buffered-bleach stain remover",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NGVjX4VmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EXIVVTE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EXIVVTE?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Professional-Grade Mildew and Mold Stain Remover plus Cleaner removes mold and mildew stains on contact with buffered bleach, chelating agents and surfactants. The listing names fiberglass, vinyl and plastic surfaces and describes it as marine tested.\n\nAgainst the STAR BRITE Pro Stain Remover, it costs less and is aimed at hard surfaces. Against RMR-86, it names fiberglass and vinyl specifically.\n\nBest for RV fiberglass, vinyl and plastic trim. Use it on the exterior surfaces it names.",
     "specs": [
       "Buffered-bleach stain remover",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JGAOwPLzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MA6BG4U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MA6BG4U?tag=rvgearlab-amz-20",
     "description": "The Wet & Forget Outdoor Cleaner and Stain Remover is a ready-to-use 64 ounce sprayer that is bleach free and non-acidic. The listing says to apply to a dry surface on a cool day, not to rinse, and that each bottle treats 60 to 180 square feet.\n\nAgainst the STAR BRITE products, it works slowly with wind and rain over weeks and months. Against RMR-86, it is bleach free and needs no scrubbing.\n\nBest for large, hard-to-reach surfaces where a fast result is not needed. Green stains fade in 1 to 2 weeks and heavy ones take longer according to the listing.",
     "specs": [
       "64 oz ready-to-use sprayer",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310Pohrq+OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YP5X2YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YP5X2YP?tag=rvgearlab-amz-20",
     "description": "The Dicor Mold and Mildew Remover is a 32 ounce spray that removes mold and spoilage stains on RV exteriors. The listing names RV roof membranes, bathroom tiles, grout and vinyl curtains as compatible surfaces.\n\nAgainst the STAR BRITE products, it names RV roof membranes. Against Wet & Forget, it is a fast-acting spray.\n\nBest for RV roof membranes and nearby surfaces. The strong formula is meant to avoid harsh scrubbing.",
     "specs": [
       "32 oz spray remover",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E63T340WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPGC6G64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPGC6G64?tag=rvgearlab-amz-20",
     "description": "The Walex RV Awning Cleaner is safe for vinyl and fabric awnings and dissolves tough stains including mold, mildew, dirt, tree sap and bird droppings. The listing offers 32 ounce, 64 ounce and gallon sizes.\n\nAgainst the STAR BRITE Pro Stain Remover, it is an awning-specific cleaner at a lower price. Against RMR-86, it is aimed at awning fabric and vinyl.\n\nBest for awnings with mildew and sap stains. The 32 ounce size is the lower-priced version.",
     "specs": [
       "Vinyl and fabric awning cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GPwYFAAiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N3Y22K4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N3Y22K4?tag=rvgearlab-amz-20",
     "description": "RMR-86 Instant Mold and Mildew Stain Remover is a 32 ounce scrub-free spray for black mold and mildew stains on decks, wood, vinyl siding, drywall and concrete. The listing says to use proper ventilation and protective gear.\n\nAgainst the STAR BRITE Plus Cleaner, it costs far less and names household surfaces. Against Wet & Forget, it works on contact instead of over weeks.\n\nBest for RV owners who want a cheap stain spray and will wear protection. Check that your surface is on its list.",
     "specs": [
       "32 oz instant spray",

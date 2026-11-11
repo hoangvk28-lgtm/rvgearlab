@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t2OP6kIZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GTH79JP?tag=rvgearlab-amz-20",
     "description": "The Renogy 50W lists 25 percent N-type cells, EL-tested modules with bypass diodes, a corrosion-resistant aluminum frame and a low-iron tempered glass surface. It carries an IP65 junction box, withstands winds up to 2400 Pa and snow loads up to 5400 Pa and has pre-drilled holes.\n\nIt is the lowest-priced Renogy and costs about the same as the WUZECK. It is more durable and mountable than the flexible panels.\n\nIt suits campers who mount a small panel on a van, trailer or fixed frame. The Z-bracket compatibility simplifies installation.",
     "specs": [
       "25% N-type, tempered glass",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dimgdCAtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7X54JSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7X54JSC?tag=rvgearlab-amz-20",
     "description": "The WUZECK lists 23 to 24 percent Grade A cells, a size of 28.74 x 15.35 x 1.0 inches and a weight of 6.8 lbs. It comes with an integrated 1.68 ft waterproof output cable and plug-and-play compatibility.\n\nIt wins on price and the only one that states both weight and dimensions in a portable size. It is far smaller than a typical roof panel.\n\nIt suits campers who want a carryable rigid panel. The built-in cable plugs straight into compatible devices.",
     "specs": [
       "23 to 24% cells, 6.8 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iE5HOQQ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BMQRNXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BMQRNXZ?tag=rvgearlab-amz-20",
     "description": "The Renogy Flexible lists advanced polymer materials that weigh 70 percent less than conventional panels, a laid-flat height of one tenth of an inch and wind loads up to 2400 Pa and snow loads up to 5400 Pa. Its listed uses include marine, rooftop, RV and boats.\n\nIt bends where the Renogy 50W N-Type cannot, and it is lighter than the WUZECK by design. It costs more than both.\n\nIt suits curved roofs and boats. The super thin lamination stays low-profile.",
     "specs": [
       "Flexible polymer, 70% lighter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21APeKFrJjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNJ31BY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNJ31BY9?tag=rvgearlab-amz-20",
     "description": "The LensunSolar lists back-contact monocrystalline cells, an ETFE film, a fiberglass substrate backboard and 3 mm thickness. It measures 33 x 14 inches and installs with tape and glue on surfaces such as RVs.\n\nIt is about as thin as the Renogy Flexible and the most expensive pick. Compared with the Renogy Flexible, it names back-contact cells and a fiberglass backboard.\n\nIt suits van and RV owners who want a low-profile mount. The fiberglass backing helps with heat dissipation.",
     "specs": [
       "Back-contact mono cells, 3 mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Jg1L3vpiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD6YRP8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD6YRP8L?tag=rvgearlab-amz-20",
     "description": "The SOLPERK is a 50W 24V panel kit with an intelligent waterproof 10A PWM controller, pre-drilled frame holes and a stated 30 percent conversion rate. It is aimed at 24V battery systems including lithium, AGM and gel.\n\nIt is the only pick with a controller, which makes it ready for a battery. It costs more than the rigid Renogy.\n\nIt suits owners with a 24V battery bank. The controller adds protection.",
     "specs": [
       "50W, 24V panel kit",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wfW6jr4jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFB95Y6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFB95Y6Z?tag=rvgearlab-amz-20",
     "description": "The Callsun is sold as a two-pack of 50W N-type 16BB panels at 25 percent efficiency, with low-iron tempered glass and a corrosion-resistant aluminum frame. It works with PWM and MPPT controllers and 12V AGM, gel and lithium batteries.\n\nIt delivers 100W total for roughly the price of one SOLPERK. It is bulkier than the single-panel picks.\n\nIt suits campers who want to expand later. The pre-drilled holes simplify mounting.",
     "specs": [
       "2 x 50W N-type, 25%",

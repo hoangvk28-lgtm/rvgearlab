@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EXv9dMENL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCJ79XY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCJ79XY4?tag=rvgearlab-amz-20",
     "description": "The GuaiGLong is a 12V 120Ah LiFePO4 pack rated at 1536Wh with a 100A BMS and a capacity and voltage display. It weighs 8.8 kg and includes a cigarette lighter port, a waterproof LD20 port, a 50A Anderson plug, 8mm terminals and USB charging.\n\nNext to the GOKWH it offers more built-in ports and a screen, while the GOKWH relies on an app. Against the VMAX AGM it cuts weight by roughly two thirds.\n\nIt suits campers who want to plug small 12V gear straight into the battery and read charge level at a glance. A van or tent camper running lights and a fridge fits well.",
     "specs": [
       "12V 120Ah, 1536Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t2w1cxvYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-amz-20",
     "description": "The GOKWH is a 12.8V 120Ah LiFePO4 battery rated at 1536Wh with a 100A BMS, low-temperature protection and Bluetooth 5.0 monitoring. It is listed as Group 24 with more than 4000 cycles.\n\nIt is the lowest priced battery here and still adds app monitoring, which the GuaiGLong replaces with an onboard screen. Against the PUPVWMHB it covers standard 12V use rather than 24V motors.\n\nIt suits budget campers and anglers who want phone monitoring on a smaller bank. The Group 24 listing helps with fit in many battery trays.",
     "specs": [
       "12.8V 120Ah, 1536Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tCDxD+HgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHDKK6MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHDKK6MC?tag=rvgearlab-amz-20",
     "description": "The PUPVWMHB is a 24V 120Ah mini LiFePO4 battery in Group 31 size, rated at 3072Wh with a 150A BMS, Bluetooth and a listed 15000 cycles. Its listing targets 24V trolling motors from 28 to 90 lb of thrust.\n\nIt holds twice the energy of the 12V picks and uses a higher voltage to cut current for the same power. Against the GuaiGLong it fits a different system entirely, since this one is a 24V pack.\n\nIt suits boaters and campers running a 24V trolling motor or a 24V off-grid system. The impact-resistant ABS case suits rough handling.",
     "specs": [
       "24V 120Ah, 3072Wh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sUJYwAMyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9WOPTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9WOPTM?tag=rvgearlab-amz-20",
     "description": "The VMAX MR137-120 is a 12V 120Ah Group 31 AGM deep cycle battery with a 230 minute reserve capacity and 8mm terminals. It measures 12.9 by 6.8 by 8.7 inches, weighs 75 lb, and uses an electrolyte suspension system with heavy duty lead tin grids.\n\nAgainst the lithium picks it weighs roughly four times as much, while its maintenance-free sealed case can be mounted in any position. Compared with the GOKWH it carries a one year replacement warranty.\n\nIt suits trolling motor and camp bank users who want proven sealed AGM chemistry and a straightforward lead acid charger. The same battery is also sold in a two pack for 24V motors.",
     "specs": [
       "12V 120Ah AGM, Group 31",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dnhqWvsDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QW4NFSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QW4NFSG?tag=rvgearlab-amz-20",
     "description": "The Jetboil 1.5L FluxRing pot is built to fit Jetboil stoves, with a ceramic nonstick coating and a lid that includes a strainer. It works with the Genesis, HalfGen and Luna, and with the pot support on Zip, Flash, MightyMo, MicroMo, MiniMo and SUMO stoves sold separately.\n\nFluxRing technology on the base is meant to improve fuel efficiency and speed up boiling, which the plain aluminum pots in this list do not offer. The nonstick surface makes cleanup a wipe with a cloth.\n\nA natural fit for Jetboil owners who want a bigger cooking pot for group meals or solo trail dinners. It will give you the most efficient boil on that system.",
     "specs": [
       "1.5L FluxRing ceramic pot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FIHmh00lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2KF98MC?tag=rvgearlab-amz-20",
     "description": "THTYBROS packs 17 pieces: a 1.70L pot, a 1.15L kettle, a 7 inch frying pan, two 200ml cups and more. The pieces are hard anodized aluminum with a drawn-wire and oxidized finish for durability.\n\nCompared with the single-purpose Jetboil pot, it gives you a complete camp kitchen for a couple of people. Aluminum heats quickly, so it suits short stove sessions.\n\nA smart start for new backpackers and car campers who want pot, pan and kettle without buying separately. Everything nests together, so it stores neatly in a single bag.",
     "specs": [
       "17 pieces, 1.70L pot",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MxfTCHf+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ24K9C6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ24K9C6?tag=rvgearlab-amz-20",
     "description": "This Firemaple-style set has a stainless steel pot (about 4.8 by 5.9 inches) with a lid that doubles as a bowl. Folding side handles and a reinforced base let it sit on a wood stove or over direct flame.\n\nUnlike the Jetboil pot or aluminum THTYBROS, stainless steel can take the abuse of open fires without warping. The folding handles tuck in for packing.\n\nBest for campers who cook over campfires or wood stoves and want something durable and simple. The bowl lid also cuts down on the number of dishes you pack.",
     "specs": [
       "Stainless pot, lid doubles as bowl",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kMlTZ3zTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3F1X553?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3F1X553?tag=rvgearlab-amz-20",
     "description": "Jieotwice offers a mini pressure cooker with 1200ML capacity, a steaming basket and a 50KPA pressure cap. It is made from food-grade stainless steel with a flat, lightweight profile.\n\nNo other pot here can pressure cook, which shortens the time for beans, rice and tougher meals. It is the most specialized and the most expensive on the list.\n\nA good fit for campers who cook real meals and want to save stove fuel. Basecamp cooks will like how much stove time it saves.",
     "specs": [
       "1200ML pressure cooker",

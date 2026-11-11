@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XlL7-t6oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2D15G6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2D15G6Z?tag=rvgearlab-amz-20",
     "description": "The VETOMIRO 15in is a forged steel hatchet with a 1.1 lb head, a 15.7 inch overall length and a non-slip shock-absorbing handle. It arrives sharpened and comes with a silicone blade cover.\n\nIt costs about $15, around $4 less than the DESHIL 15in, and its head is heavier, which gives each swing more splitting power. The long handle gives you more leverage than the 10 inch models.\n\nIt suits campers who split kindling and small logs every evening and want a ready-to-use edge. It also suits yard work.",
     "specs": [
       "1.1 lb forged steel head",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Tsl8krpNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPX6P2G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPX6P2G6?tag=rvgearlab-amz-20",
     "description": "The DESHIL 15in is a 15 inch chopping hatchet with a heat-treated 45 carbon steel blade, a shock-reducing fiberglass handle with an anti-slip grip and a hammer back. A locking blade cover and a 600 g weight round it out.\n\nIt costs about $19, the highest in this guide, and the locking blade cover is a step up from the loose cover on the VETOMIRO 15in. At 600 g it is lighter than the Hitdudu 14in, which makes it easier to carry.\n\nIt suits backpackers and RV campers who want a safe-to-pack hatchet. The hammer back drives tent stakes.",
     "specs": [
       "45 carbon steel blade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjVm6-ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JP8CGPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JP8CGPB?tag=rvgearlab-amz-20",
     "description": "The Hitdudu 14in is a 14.2 inch hatchet with a 4.1 inch forged carbon steel blade, a fiberglass shock-absorbing handle that resists skidding, and a nylon sheath. It weighs 1.98 lbs and comes with a limited lifetime warranty.\n\nIt costs about $18, between the VETOMIRO 15in and the DESHIL 15in, and the 1.98 lb weight is the heaviest here, which adds chopping power over the DESHIL 15in. The warranty is the only lifetime promise in the guide.\n\nIt suits campers who split enough wood to want weight behind the swing. It is a good pick for a car-camping toolbox.",
     "specs": [
       "14.2 inch, 1.98 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31msu7z-1JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H692FPKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H692FPKC?tag=rvgearlab-amz-20",
     "description": "The Value 14in Hatchet is a 14 inch splitting hatchet with a hammer back for tent stakes, a protective blade cover and a weight distribution that favors power and balance. It comes with a 60-day refund policy and a 1-year warranty.\n\nIt costs about $13, $2 less than the VETOMIRO 15in, and it adds a refund window and warranty that the 10 inch models do not offer. The 14 inch handle sits between the 10 inch and 15 inch models.\n\nNew campers get a safety net here, with a refund window and a warranty behind a basic splitter. Wear gloves and use a chopping block.",
     "specs": [
       "14 inch splitting hatchet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31upSzXIiuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-amz-20",
     "description": "Heat-treated carbon steel 45 forms the head of the DESHIL 10in, paired with a fiberglass shock-absorbing handle, a flat hammer back and a protective blade cover. Head and handle are one inseparable piece, and the whole tool measures only 10 inches.\n\nIt costs about $10, nearly half the DESHIL 15in, and it is the lightest and smallest pick that still has a hammer back. The short handle limits power, so it is for kindling, not for logs.\n\nIt suits backpackers and kayakers who need a pocket-sized tool for feather sticks and tent stakes. Pair it with a knife.",
     "specs": [
       "10 inch, carbon steel 45",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415mIQu33eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG5D7JTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG5D7JTJ?tag=rvgearlab-amz-20",
     "description": "The EMHTiii 10in is a 10.23 inch full tang hatchet forged from 3Cr13Mov steel, with three hex holes in the head that act as 3/8, 1/2 and 5/8 inch wrenches and 140 inches of rope wrapped around the handle. It is built to be easier to control for small tasks.\n\nIt costs under $10, tying the DESHIL 10in, and the rope-wrapped handle and wrench holes add camp-repair uses that the fiberglass models lack. It is a tool with less chopping power than anything else here.\n\nIt suits campers who want a pocket tool for light bushcraft and emergency rope. Use it for feather sticks.",
     "specs": [
       "10.23 inch full tang steel",

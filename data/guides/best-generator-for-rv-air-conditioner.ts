@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qn+udD3YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-amz-20",
     "description": "The WEN 4500 is a 181cc inverter generator rated 3,600 running and 4,500 surge watts with a TT-30R RV receptacle, two 120V outlets, two USB ports and a three-year warranty. At $559.48 it gives the most running watts per dollar among the inverters here.\n\nAgainst the Champion 4000 it costs $80.51 less and adds 600 running watts, though Champion lists 64 dBA and a 49 lb weight that WEN does not. Against the Genkins 4500 it is $269.49 more, buying inverter output and a CO Watchdog shutdown. Pick this if one 13,500 BTU AC is the main load. Caveat: weight and noise are not listed.",
     "specs": [
       "3600W rated, 4500W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i49zsHhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000 is a 4,000 starting and 3,000 running watt inverter at under 49 lb and 64 dBA from 23 feet, with a TT-30R outlet and a 3-year warranty with free technical support. It lists up to 10 hours of runtime and an optional parallel kit.\n\nIt costs $80.51 more than the WEN 4500 and gives up 600 running watts, but is the one with a stated weight and noise figure. It is $45.39 more than the WEN 3600 and adds 100 running watts on gasoline. Pick this if you must lift it into a truck bed. Caveat: 3,000 running watts is tight for a 15,000 BTU AC with other loads.",
     "specs": [
       "3000W running, 4000W starting",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN 3600 runs on gasoline at 2,900 rated and 3,600 surge watts or on propane at 2,600 and 3,500, with a TT-30R, two USB ports, a CO sensor and a tool-free LPG quick connect. Its listing compares noise to a normal conversation without a dBA number.\n\nAt $594.60 it is $45.39 under the Champion 4000 but 700 running watts below the WEN 4500 at higher cost, so the premium is purely for propane. Pick this if you want to start a 13,500 BTU AC on LPG. Caveat: propane output is only 2,600 watts, which suits a single smaller AC, ideally with a soft start.",
     "specs": [
       "2900W gas, 2600W propane",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t+cWrJRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2Z2XC1T?tag=rvgearlab-amz-20",
     "description": "The Genkins 4500 is a 212cc open-frame inverter rated 3,700 running and 4,500 peak watts with THD under 3%, pull start, a 2.11 gallon tank and up to 8 hours of runtime. Its outlets are one L5-30R and one 5-20R household outlet.\n\nAt $289.99 it is $269.49 under the WEN 4500 and offers 100 more running watts. The trade is fewer listed safety extras and a locking L5-30R rather than the TT-30R found on the RV-ready WEN. Pick this if you already own a TT-30R adapter. Caveat: the listing does not state noise, weight or warranty.",
     "specs": [
       "3700W running, 4500W peak",

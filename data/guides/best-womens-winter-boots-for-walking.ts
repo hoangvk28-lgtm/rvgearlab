@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GaV3zH3UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCJ7NC2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCJ7NC2G?tag=rvgearlab-amz-20",
     "description": "The HOBIBEAR Mid-Calf is a women's waterproof snow boot with a seam-sealed membrane bootie construction, a faux fur collar and leather reinforced toe and heel. It adds a moisture-wicking fleece lining, a cushioned footbed and an adjustable lacing system on a pull-on mid-calf shaft.\n\nIt stands alone in the group with a seam-sealed membrane and adjustable lacing, which locks the fit better than the slip-ons from SHIBEVER and Ecetana. A traction-enhanced outsole is described for slippery surfaces.\n\nIt suits a woman who walks daily in real snow and slush and wants a lighter boot with a snug lace-up fit. The cushioned footbed helps with all-day wear.",
     "specs": [
       "Seam-sealed waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GNkEYgcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCLDQDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCLDQDS?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Waterproof Zip is a women's waterproof ankle boot with a plush fur-lined interior, a cushioned footbed and smooth side zippers. A durable upper repels moisture, and the listing offers several colors in a casual style.\n\nIt matches the fur lining of the cheaper SHIBEVER Slip-On and adds a waterproof design plus a zipper closure. Next to the HOBIBEAR Mid-Calf, it uses an ankle height and a zip instead of lacing.\n\nIt suits a woman who walks short distances or runs errands and wants a quick-zip boot. The cushioned footbed gives all-day wear comfort.",
     "specs": [
       "Waterproof upper, fur lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q2wUFXMwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGZL2DJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGZL2DJ3?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Slip-On Walking is a women's lightweight ankle bootie with a soft fur lining, cushioned insoles and a non-slip rubber outsole. It has a water-resistant upper, a true-to-size fit and a roomy toe box described for various foot shapes.\n\nA roomy toe box and a lightweight build make it more comfortable for long walks than the Alicegana Waterproof, and the water-resistant upper keeps it above the Ecetana on features. It is not rated as waterproof.\n\nIt suits a woman who walks on dry or lightly snowy pavements and wants all-day comfort. The listing says it reduces foot fatigue.",
     "specs": [
       "Fur lining, cushioned insoles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bnrwge8oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09CMGF517?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09CMGF517?tag=rvgearlab-amz-20",
     "description": "The Alicegana Waterproof is a women's slip-on ankle bootie with warm faux fur lining, an oxford cloth waterproof upper and a non-slip, wear-resistant polyurethane sole. The listing names outdoor walking and dog walking as uses.\n\nIt states a polyurethane sole for slick, snowy and wet surfaces, which the Ecetana Fur-Lined does not detail. It costs less than the SHIBEVER pair.\n\nDog walkers and winter commuters on a budget will appreciate a waterproof bootie like this. The slip-on design is quick to wear.",
     "specs": [
       "Oxford cloth waterproof upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vRl1DaRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGVMK8WB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGVMK8WB?tag=rvgearlab-amz-20",
     "description": "The Ecetana Fur-Lined is a women's slip-on ankle boot with a soft faux fur lining, a waterproof cloth upper and a wear-resistant textured sole. The sole is described as soft and flexible for walking and jumping.\n\nIt has the lowest price tag of the five and the most flexible-feeling sole, which suits easy walking more than the stiffer Alicegana Waterproof. It states waterproofing only to some extent.\n\nA cheap, warm boot for short dry-cold walks is what this one delivers. The listing names hiking and leisure as suitable activities.",
     "specs": [
       "Faux fur lining, cloth upper",

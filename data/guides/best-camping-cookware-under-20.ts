@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41++PpANu5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9DZ6QNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9DZ6QNS?tag=rvgearlab-amz-20",
     "description": "The DINITHRON set is an 8-piece hard-anodized aluminum kit for one or two people. It includes a medium cooking pot, a medium frying pan, plastic bowls and a cleaning sponge, and the pieces nest together.\n\nIt is the cheapest set here at under $16 and the only one made from hard-anodized aluminum, which resists scratches better than plain aluminum. The 12-piece nonstick set adds utensils, and the 4-piece stainless kit adds durability.\n\nIt suits couples and solo campers who want a simple cook set at a low price. It nests into one compact stack.",
     "specs": [
       "8 pieces, hard-anodized aluminum",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SaCHPnvuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLPSM7PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLPSM7PP?tag=rvgearlab-amz-20",
     "description": "The 12-piece set has a nonstick pot, a pan, a lid, bowls, utensils, a sponge and a wooden spatula in a mesh carry bag. It is made from ultralight anodized aluminum that is scratch-resistant and safe for use over a campfire.\n\nIt costs about the same as the DINITHRON and gives four more pieces, including a spatula that the DINITHRON lacks. The BeGrit is stainless steel and nests in a smaller stack.\n\nIt suits campers who want a complete starter kit with utensils. It also suits a first camp kitchen for a couple.",
     "specs": [
       "12 pieces with utensils",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uazUEZIwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5ZWTV86?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5ZWTV86?tag=rvgearlab-amz-20",
     "description": "This 7-piece set is food-grade aluminum alloy with a 0.9 L saucepan of 5.9 by 2.8 inches, a frying pan, two bowls, a soup spoon, a wooden spatula, a cleaning sponge and a nylon drawstring bag. The pieces pack inside the pot.\n\nIt costs about a dollar more than the 12-piece set and is smaller, with a 0.9 L pot suited to one person. The nylon bag keeps pieces together, which helps on a pack-in trip.\n\nA single camper gets everything needed in a tiny bundle. It also works as a day-hike lunch kit.",
     "specs": [
       "0.9 L saucepan, 7 pieces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v6SoJjt8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BM93DSN2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BM93DSN2?tag=rvgearlab-amz-20",
     "description": "The BeGrit mess kit has two pots of 6.3 by 2.5 inches and 5.6 by 2.5 inches, a 6.6 inch frying pan and a 5.9 inch plate, in stainless steel. The whole kit weighs 1.36 lb.\n\nIt costs about $2 more than the 12-piece set and uses stainless steel instead of coated aluminum, which is tougher on a fire and easy to clean. It has no utensils or bowls.\n\nIt suits solo campers who want a hardwearing stainless kit. It is a basic set with no extras.",
     "specs": [
       "4 pieces, stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qFuU+V9bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCSB3M9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCSB3M9B?tag=rvgearlab-amz-20",
     "description": "THTYBROS builds this kit from hard-anodized aluminum and stainless steel. It includes pots of about 0.33 gal and pans of about 0.17 gal, a 0.08 gal stainless cup, utensils and foldable anti-slip handles that fit into a provided bag.\n\nIt is the most expensive set here, at about $20, and gives the largest pot of the five at 0.33 gallons, or about 1.25 liters. It has foldable heat-resistant handles that the others lack.\n\nIt suits campers who want a larger pot with folding handles. It handles two portions of pasta.",
     "specs": [
       "Pots 0.33 gal, pans 0.17 gal",

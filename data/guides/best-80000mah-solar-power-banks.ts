@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UDnkpDr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-amz-20",
     "description": "The Feidyns 7-port bank pairs an 80000mAh cell, 35W fast charging over PD and QC 3.0, a 15W wireless pad and seven ports in total. A 5W solar panel provides emergency input, and a 300 lumen LED with an SOS strobe sits beside an IP66 rated body.\n\nCompared with the 9-port Feidyns, it adds the wireless pad and a brighter light for a slightly higher price. Against the Volessence, it is far cheaper and carries a panel, while the Volessence gives a 130W AC outlet.\n\nIt suits campers who want a rugged hub to charge phones, a tablet and earbuds across a long weekend. A strap rated for a 200 lb pull hangs it from a tent loop.",
     "specs": [
       "80000mAh, 35W PD and QC 3.0",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E6GkrnQ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZW2TZXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZW2TZXC?tag=rvgearlab-amz-20",
     "description": "The Feidyns 9-port bank lists an 80000mAh cell, 35W fast charging, built-in USB-C and Lightning cables and nine ports in all. It has a 5W emergency solar panel, a 200 lumen LED with SOS strobe and an IP66 body.\n\nThe cheapest bank in the trio also stands alone with both cables built in. Against the 7-port Feidyns, it adds two more ports and loses the wireless pad and some LED brightness.\n\nIt suits groups and families who charge many devices at once, such as phones, a drone and earbuds. The built-in cables save loose wires in a bag.",
     "specs": [
       "80000mAh, 35W PD and QC 3.0",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gsvE+KfBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY7Z9N1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY7Z9N1B?tag=rvgearlab-amz-20",
     "description": "The Volessence lists 80000mAh at 296Wh, with a 100W USB-C PD port and a 110V AC outlet rated at 130W. It supports pass-through charging, has an LED display for input and output power and offers four ways to recharge, including a 19V DC input and a 65W USB-C input.\n\nIt is the only bank here with an AC outlet, which lets it run a laptop charger or a small appliance. Against the Feidyns pair, it drops the built-in panel and costs several times more.\n\nIt suits campers who work on a laptop or run a small device and want a bank closer to a mini power station. The display shows real-time watts and charge level.",
     "specs": [
       "80000mAh, 296Wh",

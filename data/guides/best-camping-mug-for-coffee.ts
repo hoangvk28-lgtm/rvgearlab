@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tMiwDitXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096RT5M1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096RT5M1Q?tag=rvgearlab-amz-20",
     "description": "BJPKPK is a pair of 14 oz double-vacuum insulated mugs made of food-grade 18/8 stainless steel. Each has a BPA-free sliding lid with a silicone gasket, a handle and a powder-coated matte grip.\n\nDouble-vacuum walls hold temperature far better than the single-wall enamel Stansport mugs, and the non-sweat finish keeps fingers comfortable. A pair costs less than the Camco ceramic four-pack per mug.\n\nChoose it for slow mornings at the campsite or coffee on the drive. The lid also means it travels in a cup holder.",
     "specs": [
       "14 oz double-vacuum stainless",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CGqzUUF8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SBDVYHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SBDVYHD?tag=rvgearlab-amz-20",
     "description": "GSI's Infinity mug weighs 3.5 oz and holds 17 fl oz. A Sip-It lid with a sealable spout reduces spills, and a graduated inner cup measures water for freeze-dried meals.\n\nIt is the lightest mug here by a wide margin, and a recycled foam sleeve protects your hand. A collapsible webbing handle packs flat.\n\nChoose it if every ounce counts in your pack. It doubles as a measuring cup for backpacking meals.",
     "specs": [
       "Weighs 3.5 oz, holds 17 fl oz",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rBL-BjhlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HWJHWPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HWJHWPS?tag=rvgearlab-amz-20",
     "description": "Stansport's 12 oz enamel mug is steel with a stainless rim and a shatterproof finish. The heavy-duty enamel walls help hold heat and the smooth surface is easy to rinse and wipe dry.\n\nIt is smaller than the 24 oz Stansport and the Roadmap, which is the right size for a standard cup of coffee. Its low price makes spares easy to buy.\n\nChoose it for the classic campfire look and no-fuss durability. It suits families that want a few cheap mugs.",
     "specs": [
       "12 oz enamel steel mug",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ool8mw5gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J4D91ZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J4D91ZY?tag=rvgearlab-amz-20",
     "description": "Roadmap sells two 17 oz enamel mugs, one forest green and one creme white, with a vitreous porcelain enamel coating over carbon steel. A 304 stainless golden rim is listed.\n\nAt 17 oz, it holds more than the 12 oz Stansport and comes as a set of two. The carbon steel body is described as strong and durable.\n\nChoose it for a couple who wants matching, larger mugs. They also work for tea or beer.",
     "specs": [
       "Two 17 oz enamel mugs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R3P4MXlbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HWJIBHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HWJIBHQ?tag=rvgearlab-amz-20",
     "description": "Stansport's 24 oz enamel mug uses the same steel construction with a stainless rim and shatterproof finish as the 12 oz model. Heavy-duty enamel walls retain heat.\n\nIt is the largest and cheapest mug here, and holds twice the 12 oz Stansport. It also works for soup or cereal.\n\nChoose it for big drinkers and one-mug camp kitchens. It is a bargain.",
     "specs": [
       "24 oz enamel steel mug",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lRPO1C1TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RFZ67NM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RFZ67NM?tag=rvgearlab-amz-20",
     "description": "Camco's four-pack has 14 oz ceramic mugs with camping and RV designs. They are labeled microwave and dishwasher safe.\n\nCeramic feels like home and tastes clean, unlike metal. It makes more sense for RV and camper kitchens.\n\nChoose it for a family camper or RV where weight does not matter. It is not for backpacking.",
     "specs": [
       "14 oz ceramic mugs",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Triton is a two-burner propane cooktop with two wind guards, a heavy-duty latch and a removable chrome-plated grate. Improved knob rotation gives precise temperature and simmering control on two independently adjustable burners.\n\nIt is the only stove here that cooks two things at once, which makes it the real campsite kitchen. The wind guards protect both burners, and the latch closes it up for travel.\n\nChoose it for family camping and real cooking, where one burner is never enough. It spends most of the budget ceiling and delivers the most.",
     "specs": [
       "Two independently adjustable burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316vjyh7SnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HMZH8Z6?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic is a single-burner butane stove with a carry case, a removable porcelain-coated grate and a rust-proof aluminum burner. The adjustable burner gives precise temperature control, and a large base keeps pots stable.\n\nIt costs less than half of the Triton and still gives you simmer control. The large base is a step up from the compact folding burners.\n\nChoose it for a couple or solo camper who cooks simple meals. It packs into its case neatly.",
     "specs": [
       "1 adjustable butane burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxHkpL4wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G58KTN9W?tag=rvgearlab-amz-20",
     "description": "Gospowor screws onto a 16 oz propane cylinder and offers up to 10,000 BTU from one adjustable burner. A solid brass regulator, a foldable bottle base and a free USB lighter are included.\n\nIt delivers the highest stated heat per dollar in this guide, at a small fraction of the Triton's price. The foldable base keeps the cylinder upright.\n\nChoose it if you want strong, cheap propane heat for boiling and frying. It suits tailgates and quick camp breakfasts.",
     "specs": [
       "10,000 BTU single burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bBewNPWKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4716RS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4716RS?tag=rvgearlab-amz-20",
     "description": "BIG HORN folds into a small bucket-shaped butane burner rated 2200W (7500 BTU). The listing says it boils 1 liter of water in 3 to 5 minutes, and the burner mixes cast iron, copper and aluminum.\n\nIt is the cheapest and smallest stove here, with SGS certification for North America and non-slip pads on the cast iron trivet. One-touch ignition and flame control are included.\n\nChoose it as a backup or a trunk stove for quick coffee and soup. It tucks away in a small bag.",
     "specs": [
       "2200W (7500 BTU) butane",

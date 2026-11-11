@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310vZovK6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKLL5H1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKLL5H1V?tag=rvgearlab-amz-20",
     "description": "The ALTRA Lone Peak 8 is a men's trail runner with a MaxTrac outsole and TrailClaw lugs, a ripstop mesh upper and a lightweight EGO midsole. It is zero-drop with a wide toe box and a 25mm stack height.\n\nAgainst the Saucony Excursion TR15, it adds a wide toe box and zero-drop geometry. Compared with the ASICS Gel-Venture 11, it uses a ripstop upper for abrasion resistance.\n\nIt suits runners who like natural foot shape and long, rough days. The EGO midsole gives high rebound energy return.",
     "specs": [
       "MaxTrac outsole, TrailClaw lugs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mKhBC5IRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF2Y49QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF2Y49QY?tag=rvgearlab-amz-20",
     "description": "The ASICS Gel-Venture 11 is a men's trail runner with rearfoot GEL cushioning, AMPLIFOAM PLUS midsole foam and an OrthoLite Hybrid Max Lite sockliner. It has a mesh upper and a molded rubber outsole.\n\nAgainst the ALTRA Lone Peak 8, it uses a conventional heel drop and a gel pad. Compared with the Saucony, it adds a heel gel insert.\n\nIt suits runners who land on their heels and want shock absorption. The listing notes it runs small.",
     "specs": [
       "Rearfoot GEL cushioning",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pPxyxeA5S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PDSRRSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PDSRRSG?tag=rvgearlab-amz-20",
     "description": "The Saucony Excursion TR15 has carbon rubber lugs for grip, VERSARUN cushioning at a moderate stack and a trail-specific mesh upper with supportive overlays. Parts of the shoe use recycled materials.\n\nAgainst the ASICS Gel-Venture 11, it leans on a carbon rubber outsole for durability. Compared with the NORTIV 8 Men's, it has a more protective upper.\n\nIt suits runners who want a durable, versatile trail shoe at a moderate price. The overlays lock the foot in place.",
     "specs": [
       "Carbon rubber lugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EX+1jlQ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BNZM4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BNZM4D?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's is a trail running and walking shoe with a flexible EVA midsole, a full rubber outsole with 4mm lugs and a TPU toe. The mesh upper is breathable.\n\nAgainst the Saucony, it adds a TPU toe at a lower price. Compared with the ALTRA, it has a conventional heel.\n\nIt suits men who want trail running, trekking and camping from one affordable shoe. The listing says it works as everyday footwear.",
     "specs": [
       "EVA midsole, 4mm lugs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317vfb2EpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7BXRCM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7BXRCM2?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's has a flexible EVA midsole, a full rubber outsole with 4mm lugs and a reinforced TPU toe cap. The listing describes a breathable mesh upper that suits runs, hikes and everyday wear.\n\nAgainst the ASICS Gel-Venture 11, it adds a toe cap at a lower price. Compared with the NORTIV 8 Men's, it is cut for women.\n\nIt suits women who want trail running and hiking in one shoe. It pairs easily with casual clothes.",
     "specs": [
       "EVA midsole, 4mm lugs",

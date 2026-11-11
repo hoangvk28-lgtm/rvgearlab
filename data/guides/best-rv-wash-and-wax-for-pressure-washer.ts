@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QLiBja+cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073PNNVPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073PNNVPX?tag=rvgearlab-amz-20",
     "description": "The Chemical Guys Extreme Bodywash and Wax is a 64 ounce soap that builds thick clinging foam in a pressure washer cannon or a garden hose gun. Carnauba wax adds gloss, and the pH-balanced formula is listed as safe on paint, glass and wheels without stripping wax or sealant.\n\nIt costs more than the Karcher and Camco bottles and is the pick that names foam cannon use directly. The foam clings longer than a plain detergent, which gives it time to loosen grime.\n\nBest for owners with a foam cannon and a pressure washer. A strong choice for a big rig.",
     "specs": [
       "64 ounce wash and wax",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arhEW1ZaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00X04JRMU?tag=rvgearlab-amz-20",
     "description": "The Aero Cosmetics kit is a waterless wash and wax used with a spray, damp towel and dry towel method. It cleans and leaves a wax coating in one job, is water based and is listed as meeting Boeing and Airbus cleaning specifications.\n\nIt is not a pressure washer product and costs about the same as the Chemical Guys bottle. It is the pick for spot cleaning when you cannot run a washer.\n\nBest for quick touch-ups between full washes. A handy option for dry campsites.",
     "specs": [
       "Waterless wash and wax kit",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41toeFxGwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG5K?tag=rvgearlab-amz-20",
     "description": "The Camco Wash and Wax cleaner for RVs, trailers and vehicles contains 100 percent carnauba wax and creates a waterproof beading action. It is listed as safe on all finishes and needs no buffing.\n\nIt costs less than the Chemical Guys bottle and is the pick from an RV-focused brand. The no-buffing label saves time compared with the Aero kit.\n\nBest for RV owners who want a Camco label and a carnauba shine. A reliable mid-priced pick.",
     "specs": [
       "100% carnauba wax",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419zLq3zJmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BMB4CUY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BMB4CUY?tag=rvgearlab-amz-20",
     "description": "The Karcher Vehicle Wash and Wax is a pressure washer detergent compatible with most consumer gas and electric machines. It is highly concentrated, making up to 40 gallons from a single gallon, and suits a pressure washer, foam cannon or manual use.\n\nIt costs about a third of the Chemical Guys bottle and is the pick built for pressure washer detergent systems. The 40 gallon dilution is the highest stated.\n\nBest for pressure washer owners who want a low cost per wash. A strong value for frequent washing.",
     "specs": [
       "Pressure washer detergent",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41759L9CsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NG0K?tag=rvgearlab-amz-20",
     "description": "The Camco 40493 Pro-Strength Wash and Wax is a 32 ounce bottle that provides a clean shiny finish with 100 percent carnauba wax. It creates a waterproof beading action and needs no buffing.\n\nIt is the lowest priced pick and a smaller version of the other Camco. Compared with the Karcher, it names carnauba and leaves out any pressure washer wording.\n\nBest for a small RV or a first try. A cheap wax-containing wash.",
     "specs": [
       "32 ounce wash and wax",

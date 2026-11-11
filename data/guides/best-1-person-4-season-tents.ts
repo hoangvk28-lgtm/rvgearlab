@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wcJnn9ueL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F53FRPNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F53FRPNC?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella 1P is a 4 season solo tent weighing 4.2 lb, with 20D nylon walls, a 40D nylon floor and a 3000mm waterproof rating. It includes 10 stakes and four guy lines and sets up on a 6.9 ft long footprint.\n\nIt is the second lightest here, behind the Naturehike by 0.2 lb, and it adds a removable blackout outer tent. Compared with the Clostnature it is lighter and uses silicone-coated nylon, while the Clostnature lists a higher PU rating.\n\nIt suits solo backpackers who want a light 4 season pitch with a mesh inner for airflow. Poles cross at the top of the dome and anchor at the corners.",
     "specs": [
       "4.2 lb solo, 3000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-0gAI9xHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBSY4NT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBSY4NT8?tag=rvgearlab-amz-20",
     "description": "The Naturehike Giling Pro weighs 4 lb with a 5.1 by 15.4 inch packed size, and inside it measures 86.6 by 37.4 by 39.4 inches with 22.5 sq ft of floor and a 6.1 sq ft vestibule. Its 20D double-ripstop silicone nylon fly and floor carry a 3000mm+ rating, and a 210T footprint is included.\n\nIt is the lightest here and lists the most floor area, ahead of the Stella on length and vestibule space. Compared with the camppal it uses a two-pole X-cross structure rather than a single pole.\n\nIt suits tall solo hikers who want space for a pack under cover. The listing describes a level 8 wind-tested X-cross frame with 8.5 mm aluminum poles.",
     "specs": [
       "4 lb, 86.6 in long, 22.5 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmdz++XFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR132RHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR132RHQ?tag=rvgearlab-amz-20",
     "description": "The Clostnature has a polyester fly, groundsheet and bathtub floor with a PU 5000 coating and factory-sealed seams. It is freestanding on two aluminum poles, with snow flaps, two D-shaped doors, two vestibules and 14 aluminum stakes.\n\nIt lists a higher PU rating than the Stella and a snow flap for spindrift, which the Stella lacks. Compared with the Underwood it adds a pole repair kit and a one-year guarantee.\n\nIt suits budget winter campers who want a freestanding tent with two doors. Mesh and fabric double-layer doors allow ventilation when needed.",
     "specs": [
       "PU 5000, bathtub floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mVtDwh7uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP91W1FG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP91W1FG?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator solo tent is sold as an every-season tent with a snow skirt, aircraft grade aluminum poles and a full-cover rain fly. It has a 35.8 inch center height, a two-way zipper, a lantern hook and a mesh pocket.\n\nIt is lower priced than the Stella and Naturehike and adds a snow skirt and lantern hook. Compared with the camppal it has a more traditional pitch and a smaller listed floor.\n\nIt suits solo campers who want a simple winter-capable tent at a low price. The hook lets you hang a light overhead.",
     "specs": [
       "35.8 in center height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LnrN9TvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-amz-20",
     "description": "The camppal solo tent has an inner tent of 8.2 ft by 2.95 ft by 2.95 ft, with a 3500 to 4000mm outer waterproof rating and seam-taped zippers and corners. A single aluminum pole holds it up and the listing claims a 3 minute pitch with CPAI-84 fire retardant fabric.\n\nIt has the longest floor of the five and a 3500 to 4000mm outer rating. Compared with the Clostnature it is single-pole and not freestanding, and it lacks vestibule detail.\n\nIt suits tall solo campers who value stability in wind. Seam taping on zippers and corners limits leaks.",
     "specs": [
       "8.2 ft inner length",

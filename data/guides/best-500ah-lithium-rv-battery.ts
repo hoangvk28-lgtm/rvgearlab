@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sXWrk-5GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW3PJ634?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW3PJ634?tag=rvgearlab-amz-20",
     "description": "This is one 12.8V 460Ah battery, 8 percent under 500Ah, or about 5,888Wh by arithmetic. The listing gives a 300A continuous BMS, an automatic self-heating function that starts when a charger is connected between minus 4°F and 41°F and stops at 41°F, an app, a main on/off switch, and a 5-year limited warranty. It measures 18.9 by 10.82 by 9.84 inches and is described as the energy of five 100Ah batteries in about 1.1 cubic feet. It can be expanded to 4P4S for 51.2V and 1,840Ah.\n\nIt ranks first because it gets close to 500Ah in one case with heating, a 300A BMS and a five-year warranty at $997.99. It costs $353.48 less than the Litime 460Ah and $236.99 less than the VATRER 560Ah, and it costs $98 more than the ECO-WORTHY 2x280Ah kit, which gives more capacity but two batteries to wire.\n\nPick it if you want one battery that gets you roughly 460Ah with winter charging. The caveat is it falls 40Ah short of a true 500Ah, which is about 512Wh less than the nominal 6,400Wh, and the listing does not state the weight.",
     "specs": [
       "Single 12.8V 460Ah battery",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412uRVGpK1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKT2J3M9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKT2J3M9?tag=rvgearlab-amz-20",
     "description": "This is a kit of two 12V 280Ah batteries which in parallel give 560Ah, 12 percent over 500Ah, or about 7,168Wh by arithmetic. Each has a metal enclosure with four mounting feet, a weak-current switch, a 200A BMS, Grade A cells and Bluetooth 5.1 monitoring with a range of about 15 meters. The listing recommends 14.6V absorption with float disabled, and warns the order may arrive in multiple packages.\n\nIt ranks second at $899.99, or about $126 per nominal kilowatt-hour, which is $98 less than the VATRER 460Ah while delivering 100Ah more. It matches the Paoweric 660Ah on price with less capacity, and costs $334.99 less than the VATRER 560Ah. Two 200A BMS units pass up to about 5,120W combined.\n\nChoose it if you want a metal-case, app-monitored bank with a bit more than 500Ah and are comfortable wiring two batteries in parallel. The caveat is that the listing gives no weight or exact cold-charge limit, only a temperature protection, so keep it in a heated bay.",
     "specs": [
       "Kit: 2 x 280Ah, 560Ah",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XHbTnh71L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D127QJJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D127QJJ2?tag=rvgearlab-amz-20",
     "description": "This is a single large battery listed as both 600Ah and 660Ah, with 7,680Wh stated, which matches 600Ah at 12.8V. It measures 25.25 by 9.75 by 8.77 inches, weighs about 144 pounds, has a 250A BMS with a 3,200W load rating and an IP65 case, charges from 0°C to 45°C and discharges from minus 20°C to 60°C, and carries a five-year warranty. The listing says not to exceed six in parallel or series.\n\nIt ranks third because it is far above 500Ah, which adds cost and weight if you do not need the capacity, but at $899.99 it is the lowest at about $117 per nominal kilowatt-hour. It equals the ECO-WORTHY kit on price while giving one battery and a stated weight, and costs $334.99 less than the VATRER 560Ah. It has no heater and no app is mentioned.\n\nPick it if you want the most energy for the money in one case and have room for a 144-pound block. The caveat is the conflicting 600Ah and 660Ah numbers, and that the case needs two people and a strong mount.",
     "specs": [
       "Single 12V 600Ah (660Ah listed)",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uPkgwqFLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDKXXKY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDKXXKY9?tag=rvgearlab-amz-20",
     "description": "This is a single 12.8V 560Ah battery, 12 percent over 500Ah, or about 7,168Wh by arithmetic. The listing gives the same self-heating function as the VATRER 460Ah (starting when a charger is connected between minus 4°F and 41°F), a 300A continuous BMS, a Bluetooth app, a main switch and 4P4S expansion to 51.2V and 2,240Ah. It measures 16.69 by 14.80 by 11.14 inches and is described as the energy of six 100Ah batteries.\n\nIt ranks fourth at $1,234.98, which is $236.99 more than the VATRER 460Ah and $334.99 more than the ECO-WORTHY 2x280Ah kit with the same 560Ah. The extra money buys one case with a heater and a 300A BMS instead of two batteries. At about $172 per nominal kilowatt-hour it costs more than the kit and the Paoweric.\n\nChoose it for a heated-case 560Ah battery with no parallel wiring. The caveat is that it is a larger footprint than the 460Ah, and the listing does not give the weight.",
     "specs": [
       "Single 12.8V 560Ah battery",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410M2bVvurL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4D6XL21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4D6XL21?tag=rvgearlab-amz-20",
     "description": "This is one 12V 460Ah battery with EV-grade cells, a 250A BMS and an external Bluetooth smart shunt with a 500A rating included for monitoring. The listing states a 100 percent depth of discharge, 4P4S expansion, CE and RoHS compliance and AIG product liability insurance. One bullet describes an 80A charger, but the title does not say a charger is included, so confirm that before buying.\n\nIt ranks fifth because $1,351.47 is $353.48 more than the VATRER 460Ah, which has the same capacity, a larger 300A BMS and a heater. The listing mentions no heater, so plan on a heated space, and the premium is for the included shunt and the brand's documentation. Per nominal kilowatt-hour it is about $229.50.\n\nPick it if you want accurate shunt-based monitoring bundled in and the battery will sit in a heated space. The caveat is the price against the VATRER 460Ah, and that the listing gives no weight, size or cold-charge limit.",
     "specs": [
       "Single 12V 460Ah, 250A BMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qdwgMFSYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F62Q5Y7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62Q5Y7F?tag=rvgearlab-amz-20",
     "description": "This is the only exact 500Ah option: a kit of five Group 31 12V 100Ah batteries, which wired in parallel give 500Ah and 6,400Wh. Each has a 100A BMS, IP67 case, low-temperature cutoff and an operating range of minus 4°F to 140°F, a 10-year warranty, and a stated 350A peak current. The kit also includes a 73V 13A charger for a 60V golf cart, which is not a 12V RV charger.\n\nIt ranks last because it is built for 60V golf carts and the listing says the batteries can be connected in series and parallel for up to 400Ah, which conflicts with a 500Ah parallel bank. At $1,496 it costs $144.53 more than the Litime 460Ah and $498.01 more than the VATRER 460Ah, and each battery's 100A BMS limits it to about 1,280W, so the bank's total depends on even current sharing.\n\nChoose it only if you specifically want five small batteries wired in parallel and will verify the parallel limit with the seller first. The caveat is that the 73V charger does not charge a 12V bank, so you also need a 12V lithium charger or converter.",
     "specs": [
       "Kit: 5 x 12V 100Ah",

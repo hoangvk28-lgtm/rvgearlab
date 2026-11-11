@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419KkXH3iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005EPRM4I?tag=rvgearlab-amz-20",
     "description": "TETON sells the Celsius Regular as a 0 degree class bag with innovative fiber fill, double-layer construction and draft tubes. A soft poly-flannel lining, a half-circle mummy-style hood and a stuff sack with heavy-duty straps complete the kit.\n\nOf the two, it carries the colder label, and double-layer construction keeps the fill from shifting. The flannel lining feels warmer to the touch than the BISINNA's pongee liner.\n\nIt suits adults and kids who camp in cold weather and sleep on an insulated pad. TETON advises fluffing the bag and wearing a stocking cap to hold heat.",
     "specs": [
       "0 degree class, fiber fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ihNiFP0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-amz-20",
     "description": "The BISINNA is a 7 ft mummy with a 40D nylon shell that carries a durable water-repellent coating, a 210T pongee lining and an adjustable drawstring hood. Total weight is listed at 1.8 kg, and the compression sack squeezes it into a 15.7 by 11 inch bundle with a mesh storage bag on top.\n\nIt prints a weight and a packed size, which the TETON Celsius does not, and a full-length insulated draft tube blocks breezes along the zipper. It costs less than the TETON.\n\nIt suits campers up to 6 ft 1 who want a documented, machine-washable bag. The fill type is not named.",
     "specs": [
       "1.8 kg, packs to 15.7 by 11 in",

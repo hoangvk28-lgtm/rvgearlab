@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41irzFKUhoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A8O8WMQ?tag=rvgearlab-amz-20",
     "description": "STAR BRITE RV Wash and Wax is a concentrated cleaner with polymers that add shine and UV protection and remove road grime, debris and exhaust stains. The listing says it is safe on fiberglass, glass, trim and decals and that a few capfuls clean a full-size RV.\n\nAgainst Gel Gloss, it is a wash rather than a one-step cleaner wax and it costs less. Against the Meguiar's waxes, it maintains rather than protects for a season.\n\nBest for routine fiberglass washing with a light protective layer. It is not a polish for dull gelcoat.",
     "specs": [
       "Concentrated wash and wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMzy6rQwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0023URE2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0023URE2M?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Professional Grade is a 32 oz one-step carnauba cleaner wax for fiberglass and painted surfaces. The listing says it removes scuff marks, oxidation, black streaks and haze and contains UV inhibitors.\n\nAgainst STAR BRITE Wash and Wax, it corrects light oxidation as well as protecting, but it takes hand or buffer work. Against Meguiar's M45, it combines cleaning and wax in one.\n\nBest for faded walls that need cleaning and protection in one pass. Deep oxidation may still need a stronger step.",
     "specs": [
       "32 oz one-step carnauba",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uhaFU8VsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VK3C6HG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VK3C6HG?tag=rvgearlab-amz-20",
     "description": "STAR BRITE RV Premium Polish uses a polymer formula that bonds to fiberglass, painted surfaces and polished metal for season-long UV protection. The listing says it leaves a no-residue finish, goes on over old wax and makes water bead and sheet off.\n\nAgainst Gel Gloss, it is polymer protection rather than carnauba cleaning. Against Meguiar's M56, it claims season-long durability but costs more.\n\nBest for protecting a clean wall for a full season. It does not clean heavy oxidation.",
     "specs": [
       "Polymer polish and protector",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JMI+lKQYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AXNLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AXNLT?tag=rvgearlab-amz-20",
     "description": "Meguiar's M56 Marine/RV Pure Wax blends Brazilian carnauba, polymers and resins in a 16 oz tub. The listing says it suits all fiberglass, gel coat and painted marine or RV surfaces and enhances depth on dark colors.\n\nAgainst STAR BRITE Premium Polish, it is a traditional wax with deep gloss but no season-long claim. Against Meguiar's M45, it protects rather than polishes.\n\nBest as the last step after cleaning and polishing. It does not clean.",
     "specs": [
       "16 oz carnauba wax blend",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvOu9ONnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AXMDP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AXMDP?tag=rvgearlab-amz-20",
     "description": "Meguiar's M45 Marine/RV Polish and Gloss Enhancer is a 16 oz polish with polishing oils for gel coat and fiberglass on RVs and boats. The listing positions it as a step after washing, rinsing and removing defects, and says it suits dark gel coat.\n\nAgainst Meguiar's M56, it restores gloss but leaves less protection. Against Better Boat Polish, it is a gloss step rather than an oxidation restorer.\n\nBest for adding depth to a clean, sound finish. It is not a wash or a heavy oxidation cure.",
     "specs": [
       "16 oz gloss polish",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EO6c-hmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCBPSJ4P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCBPSJ4P?tag=rvgearlab-amz-20",
     "description": "Better Boat Marine Polish is a gel coat restorer that the listing says restores color on dull, faded or oxidized surfaces and seals against UV, salt and fuel. It polishes fiberglass, gel coat, plastic, metal and paint, and suggests a boat wax first for heavy oxidation.\n\nAgainst Gel Gloss, it targets oxidized gelcoat but is a marine product. Against Meguiar's M45, it restores color as well as shine.\n\nBest for dull, oxidized fiberglass that needs color restoration. For heavy oxidation, plan a stronger first step as the listing itself suggests.",
     "specs": [
       "Gel coat restorer polish",

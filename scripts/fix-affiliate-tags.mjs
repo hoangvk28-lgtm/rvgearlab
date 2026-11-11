@@ -20,8 +20,8 @@ console.log(`  ${guides.length} guides`);
 let reverted = 0;
 for (const g of guides) {
   const img = g.hero_image;
-  if (!img || !img.includes("&tag=theofficejournal-20")) continue;
-  const fixed = img.replace(/&tag=theofficejournal-20/g, "");
+  if (!img || !img.includes("&tag=rvgearlab-amz-20")) continue;
+  const fixed = img.replace(/&tag=rvgearlab-amz-20/g, "");
   const patch = await fetch(
     `${SUPABASE_URL}/rest/v1/guides?id=eq.${g.id}`,
     { method: "PATCH", headers: { ...headers, "Prefer": "return=minimal" }, body: JSON.stringify({ hero_image: fixed }) }
@@ -38,12 +38,12 @@ const pr = await fetch(
   { headers: { ...headers, "Prefer": "return=representation" } }
 );
 const prods = await pr.json();
-const badProds = prods.filter(p => p.amazon_url && !p.amazon_url.includes("theofficejournal-20"));
+const badProds = prods.filter(p => p.amazon_url && !p.amazon_url.includes("rvgearlab-amz-20"));
 console.log(`  ${prods.length} products total, ${badProds.length} still need fixing.`);
 for (const p of badProds) {
   const newUrl = p.amazon_url.includes("tag=")
-    ? p.amazon_url.replace(/tag=[^&\s]+/g, "tag=theofficejournal-20")
-    : p.amazon_url + (p.amazon_url.includes("?") ? "&" : "?") + "tag=theofficejournal-20";
+    ? p.amazon_url.replace(/tag=[^&\s]+/g, "tag=rvgearlab-amz-20")
+    : p.amazon_url + (p.amazon_url.includes("?") ? "&" : "?") + "tag=rvgearlab-amz-20";
   const patch = await fetch(
     `${SUPABASE_URL}/rest/v1/products?id=eq.${p.id}`,
     { method: "PATCH", headers: { ...headers, "Prefer": "return=minimal" }, body: JSON.stringify({ amazon_url: newUrl }) }

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5150+ft6MQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LTMFX5?tag=rvgearlab-amz-20",
     "description": "The BEEST RV Roof Coating is a 5 gallon white elastomeric coating that the listing says covers up to 250 square feet in two coats and can cover RVs up to 30 feet long. It says to apply a minimum of 1 gallon per 50 square feet, in two to three heavy coats, with 4 hours between the first coats.\n\nAgainst Liquid Rubber 5gal, it is cheaper and quotes coverage plus a recoat interval. Against the kits, it is only the coating, so you buy cleaner and primer separately.\n\nBest for owners covering a whole rubber roof on a budget. It is ultra-low VOC and solvent-free per the listing.",
     "specs": [
       "5 gallon, up to 250 sq ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TkOeySV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EV4EXG2?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant in the 5 gallon pail is a white elastomeric coating that lists EPDM, TPO, fiberglass and aluminum roofs. It uses a 3-step system with RV Smart Cleaner and an EPDM and TPO primer, and a coverage of 1 gallon per 50 square feet.\n\nAgainst BEEST 5gal, it costs more but ties into a named cleaner and primer system. Against the kits, it is the coating alone.\n\nBest for owners who want the brand's system and are buying a pail separately. Confirm roof type and primer needs.",
     "specs": [
       "5 gallon pail",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3hay2szL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01EM9GAA8?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Roof Sealant in a single gallon is the same white elastomeric coating, enough for roughly 50 square feet at final thickness. It is the smallest buy in this group.\n\nAgainst the 5 gallon pails, it fits only a repair area or a pop-up. Against the kits, it is the coating without cleaner or primer.\n\nBest for patching a small section. A full roof will need a pail or kit.",
     "specs": [
       "1 gallon, about 50 sq ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipdKAjnrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSHW2ZH4?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 30 Ft Leak Repair Kit uses the same elastomeric coating and 3-step system: RV Smart Cleaner, an EPDM and TPO primer and the coating. The listing says a 1 to 5 gallon pail can cover a 30 foot RV.\n\nAgainst Liquid Rubber 35ft Kit, it is sized for a slightly shorter rig. Against BEEST 5gal, it bundles cleaner and primer at a much higher price.\n\nBest for a 30 foot rig where you want the full system in one order. Measure the roof before choosing a kit.",
     "specs": [
       "30 ft RV leak repair kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQXB9MwVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQCS273S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQCS273S?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber 35 Ft Leak Repair Kit is the larger kit using the same coating, cleaner and primer system. The listing text matches the 30 foot kit, so confirm the gallons included.\n\nAgainst Liquid Rubber 30ft Kit, it is the bigger kit at a higher price. Against Ziollo Silicone, it uses an elastomeric liquid rubber rather than silicone.\n\nBest for rigs near 35 feet. The most expensive pick here, so price against a pail and separate cleaner.",
     "specs": [
       "35 ft RV leak repair kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WMCQ1ZV5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a self-leveling, 100 percent silicone liquid rubber coating in white that claims to cut interior temperature by up to 15°F. The listing mentions a full Ziollo system with cleaner and paintable seam tape.\n\nAgainst the elastomeric picks, it is silicone, which flows flat and resists later coatings. The size is not visible in the listing title, so confirm gallons.\n\nBest for flat, level rubber roofs where silicone is your choice. Not for sloped surfaces.",
     "specs": [
       "100% silicone liquid rubber",

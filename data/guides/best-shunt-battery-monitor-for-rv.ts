@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7gevyKGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNJWZCCY?tag=rvgearlab-amz-20",
     "description": "The Renogy Battery Shunt 300 monitors starter and house batteries from a phone through the Renogy ONE app, records historical data and issues alerts for abnormal conditions. The 300 in the name points to the shunt rating, which you should confirm on the listing.\n\nAt $118.65 it is $45.01 above the Hamwesh and $76.65 above the AILI TR16. The money buys remote monitoring with history. Pick this if you want trends and alerts from your phone; the caveat is that it costs the most of the group.",
     "specs": [
       "App monitoring via Renogy ONE",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418TLHU0OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMJJJQLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMJJJQLM?tag=rvgearlab-amz-20",
     "description": "The Hamwesh WiFi monitor pairs a shunt with a 2.4 inch HD display that stays readable in bright sun, plus WiFi tracking and Bluetooth data sync. It sends smart alerts for deep discharge, with custom limits you set.\n\nAt $73.64 it is $45.01 below the Renogy and $31.64 above the AILI TR16. Pick this for remote tracking without paying Renogy prices; the caveat is that the system voltage range and shunt amp rating are not.",
     "specs": [
       "2.4 inch HD display",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414zn2t8BkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGFFHC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGFFHC6?tag=rvgearlab-amz-20",
     "description": "The AILI TR16 reads state of charge in percent plus voltage and current, supports 8 to 120V and up to 500A, and tracks capacity up to 999Ah. A backlit LCD and DIY install are listed.\n\nAt $42 it is $31.64 below the Hamwesh and $24.01 above the bayite. It handles 12V, 24V, 36V and 48V systems, which is its main edge. Pick this for the best price for a real SOC percentage; the caveat is that it has no app.",
     "specs": [
       "8-120V, up to 500A",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412M5i4DtcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B013PKYILS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B013PKYILS?tag=rvgearlab-amz-20",
     "description": "The bayite is a DC 8 to 100V amp meter with a 100A shunt that measures voltage, current, power up to 10kW and energy up to 9999kWh. It stores energy data when power is off and has an overload alarm.\n\nAt $17.99 it is $24.01 below the AILI TR16. It does not list a state of charge percentage, so it measures flow rather than fuel level. Pick this to see what your loads draw; the caveat is that you must do the SOC math yourself.",
     "specs": [
       "8-100V, 0-100A",

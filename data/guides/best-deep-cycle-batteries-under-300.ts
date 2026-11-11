@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iUcLqUNOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H334QPRF?tag=rvgearlab-amz-20",
     "description": "ECOBOSS packs 200Ah of lithium iron phosphate into a 12V case, with a 200A BMS inside and an IP65 enclosure rating. Charging pauses at 32F and resumes as the cells warm, and a 4S4P layout allows expansion.\n\nAt about $270 it stores about 2560Wh, twice the GOKWH 120Ah, and it costs less than the GSIKE 300Ah by $30. The BMS handles 200A, which is enough for a 2000W inverter.\n\nIt suits an RV or van that needs a full-size house battery. It shrugs off dust and splashes thanks to the IP65 rating.",
     "specs": [
       "12V 200Ah, 200A BMS",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IuZxo+q+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8RCWCJX?tag=rvgearlab-amz-20",
     "description": "GSIKE is a 12.8V 300Ah LiFePO4 battery that stores 4019Wh and claims 6000 cycles at 80 percent depth of discharge. A 100A smart BMS protects it, and it expands in a 4P4S layout.\n\nAt about $300 it stores 50 percent more than the ECOBOSS 200Ah and costs $30 more. The 100A BMS limit caps output near 1280W, below the ECOBOSS rating.\n\nIt suits boondockers who want days of energy and moderate loads. It leaves no room under the cap.",
     "specs": [
       "12.8V 300Ah, 4019Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410B4ygtH9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT9Z1PGK?tag=rvgearlab-amz-20",
     "description": "This 12V 100Ah Group 31 LiFePO4 battery weighs 24 lb and has a 100A smart BMS. It fully charges in about 5 hours on a 14.6V charger and carries a 15,000-cycle claim at 60 percent discharge.\n\nAt about $139 it costs half as much as the ECOBOSS and stores half as much. It is the only pick here that fits a standard Group 31 tray.\n\nIt suits a small camper or a second battery. Stack two to match the ECOBOSS.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fqXu0oO2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "Mighty Max MM-G27M is a Group 27M marine AGM at 12V and 100Ah, with 800 CCA and 850 MCA. It is rated for 700 cycles at half discharge and works as a dual-purpose battery.\n\nAt about $230 it costs less than the ECOBOSS and stores less than half as much while also starting an engine. The Mighty Max MM-G24M holds 90Ah for $30 less.\n\nIt suits a boat where a single battery both starts the motor and cycles. The sealed AGM needs no maintenance.",
     "specs": [
       "12V 100Ah, Group 27M",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418st-JvIXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G83YHSRK?tag=rvgearlab-amz-20",
     "description": "Mighty Max MM-G24M is a 12V 90Ah Group 24M marine AGM that delivers 550 CCA, 700 CA and 700 marine cranking amps. It combines deep-cycle capacity with engine starting.\n\nAt about $200 it costs $30 less than the MM-G27M and stores 10Ah less. The Group 24M case is also smaller.\n\nIt suits a smaller boat or a camper where space is tight. It handles moderate cycling.",
     "specs": [
       "12V 90Ah AGM, 550 CCA",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t2w1cxvYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRGPF7QX?tag=rvgearlab-amz-20",
     "description": "GOKWH is a 12.8V 120Ah LiFePO4 marine battery that stores 1536Wh. It has a Bluetooth 5.0 app, a 100A BMS and low-temperature protection.\n\nAt about $171 it costs $100 less than the ECOBOSS and is the only pick with an app. It stores 80Ah less than the ECOBOSS.\n\nIt suits a boat or van that needs monitoring. The app tracks charge, voltage and current.",
     "specs": [
       "12.8V 120Ah, 1536Wh",

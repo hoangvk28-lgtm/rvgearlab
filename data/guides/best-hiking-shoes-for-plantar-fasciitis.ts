@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k0gvI-kXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKH3WJCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKH3WJCY?tag=rvgearlab-amz-20",
     "description": "The R CORD Wide Shoes are a women's wide-width mid-cut hiking shoe with a waterproof membrane, cushioned midsole and padded collar. The listing names plantar fasciitis arch support and describes deep rubber lugs for dirt, gravel and rock.\n\nAgainst the OrthoComfoot Women's Wide, it adds a waterproof membrane and a mid-cut ankle design for root-covered ground. It also has a more traditional trail outsole than the Men's Orthopedic, which is built closer to a sneaker.\n\nIt suits women who need wide room and arch support on real trails in damp weather. The lace-up closure lets you tune volume around a sore heel.",
     "specs": [
       "Waterproof membrane, wide width",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kiWFwH99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK271B7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK271B7T?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Wide Boots are a men's extra-wide mid hiking boot with a waterproof upper and waterproof sock liner. The listing describes built-in orthotic arch support, cushioned insoles and a wide toe box with room for bunions and hammertoes.\n\nCompared with the R CORD Wide Shoes, it gives men the same waterproof protection in a taller mid-ankle cut with an adjustable lacing system. Next to the OrthoComfoot Men's Orthopedic, it trades a sneaker feel for more ankle structure.\n\nIt suits men with foot pain who want boot-level support for rough ground. The listing claims static water resistance for up to 4 hours.",
     "specs": [
       "Orthotic arch support, waterproof",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LEiHkcIdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCF76JNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCF76JNY?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Men's Orthopedic is a low trail sneaker with a contoured orthotic insole, a high-density EVA midsole and a breathable mesh and PU upper. The outsole has deep multi-directional treads for wet and rocky ground.\n\nIt is lighter and cooler than the OrthoComfoot Wide Boots and has no waterproof liner. Against the R CORD Wide Shoes, it gives a sportier everyday look that moves from trail to errands.\n\nIt suits men who walk or hike on dry, moderate trails and want arch support in a low shoe. The listing also mentions composite toe construction for some versions.",
     "specs": [
       "Orthotic insole, EVA midsole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TGRGgcrFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2635MWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2635MWS?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Women's Wide is a lightweight trekking shoe with a roomy wide construction and a contoured orthopedic arch support. The listing describes a soft breathable mesh lining, a thick cushioned midsole and a textured rubber outsole.\n\nAgainst the R CORD Wide Shoes, it is lighter and cooler with no waterproof membrane or mid-cut collar. Compared with the OrthoComfoot Men's Orthopedic, it adds a wider forefoot and a diabetic-friendly lining claim.\n\nIt suits women who want a low, easy shoe for dry trails and workdays on their feet. The lining is described as smooth to limit friction points.",
     "specs": [
       "Wide fit, orthopedic arch support",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eQf-dFFaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007S8XYAA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007S8XYAA?tag=rvgearlab-amz-20",
     "description": "The PROFOOT Insoles are a gel heel and arch insert for women's sizes 6 to 10. The listing says the gel cushions the heel, supports the width of the plantar fascia and suits high arches and flat feet.\n\nUnlike the other four picks, it does not replace your shoes, so it pairs with boots you already trust. It costs a fraction of any full shoe here and comes with a free exercise guide.\n\nIt suits anyone who wants to try heel cushioning before buying new footwear. Trim it to fit and drop it in.",
     "specs": [
       "Gel heel insert, arch support",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ralfidr3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBGC18J8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBGC18J8?tag=rvgearlab-amz-20",
     "description": "The ODSD is a two-burner propane stove with 20,000 BTU spread over two independently adjustable burners, plus a windproof shield and a magnetic closure. A briefcase-sized fold, 3.98 lb of weight, a carry bag and a coffee stand come with it, and the body is 304 stainless steel with rust-resistant burners.\n\nIt is the only two-burner on the list and the most expensive, at about $73. The single-burner stoves cost less and pack smaller, while the ODSD lets you boil water and fry at once.\n\nIt suits families and groups who cook full meals at a campsite. It is a car-camping stove.",
     "specs": [
       "20,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mLu5ekUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HUOEGM6?tag=rvgearlab-amz-20",
     "description": "This Chef Master butane stove is rated at 15,000 BTU and ringed by a double wind guard. If line pressure climbs, an inline regulator and a pressure-sensing shutoff cut the gas, and a hard-shell case ships in the box.\n\nIt costs about $64, the second highest price here, and it matches the GasOne at 15,000 BTU. The GasOne offers dual fuel for less, and the ODSD offers two burners.\n\nIt suits campers who want a strong single burner with safety features in a case. It suits a tailgate or a camp table.",
     "specs": [
       "15,000 BTU butane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "Rated at 15,000 BTU, the GasOne feeds from a propane cylinder through the adapter that ships with it, or from a butane cartridge. Four corner windblockers surround the burner head, and it has piezo ignition and a safety cartridge ejection.\n\nIt costs about $4 less than the Chef Master and adds propane compatibility that the Chef Master lacks. It has one burner only, so the ODSD is the choice for multiple pots.\n\nIt suits campers who want to switch between propane and butane. It works at home and on the road.",
     "specs": [
       "15,000 BTU, dual fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JKJc+qzWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCSVKJ94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCSVKJ94?tag=rvgearlab-amz-20",
     "description": "This foldable stove has 3800W, weighs 1.2 lb and comes with three gas converters, a windproof shield, a pot stand, a 100 cm hose and an EVA hard case. It folds to 5.1 by 5.1 by 2.36 inches and supports a 60 kg static load.\n\nIt costs about $40, which is much less than the 15,000 BTU stoves, and it packs smaller than any of them. It works with butane, propane and EN 417 canisters through the converters.\n\nIt suits campers who want one stove for several fuels in a small case. It also suits a backpacking kitchen.",
     "specs": [
       "3800W, 1.2 lb, 3 converters",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HDt5Q-MSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR44HJ4S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR44HJ4S?tag=rvgearlab-amz-20",
     "description": "The Odoland is a collapsible bucket-style butane stove with electronic ignition, adjustable flame, an anti-leak design and magnetic over-pressure protection. Its alloy windproof hob has up to 1400W, and the trivet supports pots from 3.9 to 10.2 inches.\n\nIt costs about $36 and is the lowest price in the group. It has the lowest output and a one-touch setup, with a 90 degree turn locking it in place.\n\nIt suits campers who cook small meals and want a stove that collapses flat. It comes with a carrying bag.",
     "specs": [
       "1400W alloy windproof hob",

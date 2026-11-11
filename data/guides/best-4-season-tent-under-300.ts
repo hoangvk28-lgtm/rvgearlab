@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dDl4UtKjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHZ53MCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHZ53MCX?tag=rvgearlab-amz-20",
     "description": "The CANTUO is a 20D ripstop nylon backpacking tent that weighs 4.12 pounds, with a PU 4000mm rating on the fly and floor. It measures 82.7 by 55.1 by 43.3 inches, with 31.64 square feet inside, a footprint included, and 8 vents with B3 mesh.\n\nCompared with the GEERTOP, it is lighter and carries a higher waterproof number. Against the BISINNA, it weighs about 2 pounds less and includes the footprint.\n\nIt suits two backpackers who need a light, genuinely weatherproof shelter. The listing says it fits two 25 inch oversized pads.",
     "specs": [
       "4.12 lb, 20D ripstop nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UyFh5K4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRZB7JT?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is a free-standing two-person tent with blackout fabric, a full-coverage snow skirt and two aluminum poles. It measures 82.6 by 55 by 45 inches.\n\nCompared with the CANTUO, it has a blackout fabric that blocks daylight, which helps with daytime sleep. Against the BISINNA, it is similar in size with a taller 45 inch peak.\n\nIt suits shift workers, hunters and anyone who wants rest in daylight. The two aluminum poles make for a simple setup.",
     "specs": [
       "Blackout fabric, snow skirt",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YcorK-OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWB9NCWB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWB9NCWB?tag=rvgearlab-amz-20",
     "description": "The BISINNA is a skirted two-person tent at 82.6 by 59 by 43.3 inches with a double layer, two doors and two windows. It weighs 6.4 pounds and packs to 18 by 7 by 7 inches.\n\nCompared with the CANTUO, it is the more affordable choice and offers a wider 59 inch floor. Against the GEERTOP, it is a classic doubled-door design with a snow skirt.\n\nIt suits budget campers who want room for two and a skirt at a lower price. The extra 4 inches of width helps with gear.",
     "specs": [
       "82.6 x 59 x 43.3 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N-b2tUpFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-amz-20",
     "description": "The HUDEX inflatable tent measures 9.8 by 6.9 by 6.6 feet with 68 square feet of floor and a stainless steel stove jack with a mesh filter. It uses TPU air beams instead of poles and Oxford fabric with PU 3000mm and UPF 30+.\n\nCompared with the backpacking tents, it is for car camping and brings standing room and a heating option. Against the generic four-person tent, it carries clear numbers and a stove jack that fits most 3 to 4 inch stovepipes.\n\nIt suits groups who want to heat the tent with a wood stove. A hand pump comes with it.",
     "specs": [
       "9.8 x 6.9 x 6.6 ft, 68 sq ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21HYQBxP-lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TJPGQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TJPGQS?tag=rvgearlab-amz-20",
     "description": "The generic four-person tent lists waterproof seams, a coated fabric and an ultralight, compact design. The listing promises a simple setup and a spacious interior with ventilation.\n\nIt is the lowest cost on the list and the only one that sleeps four people on a small budget. Compared with the HUDEX, it is far lighter and easier to carry.\n\nIt suits campers who need a low-cost group shelter for mild winter use. It makes a decent backup tent.",
     "specs": [
       "Four-person capacity",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416amFSCoiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQX75WG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQX75WG6?tag=rvgearlab-amz-20",
     "description": "The EighteenTek is an adjustable pop-up tent for 6 to 8.8 foot beds with a 4 person title. Its bullets describe room for up to two adults and over 6 feet of sleeping length, and it can stand on the ground without a truck.\n\nIt is the only stand-alone truck tent here and the lowest priced. The Napier links need a truck tent from the same maker, while this one works alone.\n\nIt suits buyers wanting a single shelter for the bed and the ground. A PU2000mm coating and a large double-sided zipper door come with it.",
     "specs": [
       "Adjusts to 6 to 8.8 ft beds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31O4IbVwmWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ4FKNDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ4FKNDV?tag=rvgearlab-amz-20",
     "description": "The Napier Backroadz Link is an 8 by 8 foot ground tent with an attachment sleeve that connects to a Napier truck tent. It adds room for up to four more people, uses a rainfly, taped seams and storm flaps in windows and doors, and gives over 6.5 feet of headroom.\n\nIt gives the most real four-person space in this group when paired with a Napier truck tent. Compared with the Sportz Link it lists storm flaps on doors as well as windows.\n\nIt suits families who already own a Napier truck tent and want to expand sleeping room. A two-pole design sets up in under 10 minutes.",
     "specs": [
       "8x8 ft, sleeps four more",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SexQhJHXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CTFS7BQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CTFS7BQ?tag=rvgearlab-amz-20",
     "description": "The Napier Sportz Link is the Model 51000 version of the 8 by 8 foot link tent for Napier pickup truck tents. It has a two-pole design, a rainfly, taped seams, storm flaps in the windows and more than 6.5 feet of headroom.\n\nIt matches the Backroadz Link in size and setup and differs in its blue and gray styling and fabric details. It is a few cents cheaper and a good fit with Napier Sportz-series truck tents.\n\nIt suits campers who own a Sportz truck tent and want a matched color and fit. A large entry door opens the front.",
     "specs": [
       "8x8 ft, up to 4 people",

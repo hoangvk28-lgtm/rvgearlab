@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NAmYPdZ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT2DW37M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT2DW37M?tag=rvgearlab-amz-20",
     "description": "The ATEPA bag is filled with 300 g of 650-fill recycled down and has 3D baffle stitching to prevent cold spots. A pad attachment system keeps it from sliding, and it can unzip into a quilt.\n\nCompared with the TETON Trailhead, it weighs 2.5 lb and compresses to a football-sized bundle, which is far smaller. Against the Coleman North Rim, it trades extreme cold for much lower pack weight.\n\nIt is the best fit for 3-season backpackers who want down at a fair price. The 3-in-1 design adds versatility.",
     "specs": [
       "650FP recycled down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead is a 20F mummy with a hood that eliminates gaps and zipper draft tubes. It uses microfiber insulation for loft, a compression sack and hang loops for storage.\n\nNext to the ATEPA, it is warmer on paper and works when wet. Against the Coleman North Rim, it is lighter in intent and priced lower.\n\nIt suits backpackers who want a dependable 20F bag without paying for down. Hang loops help it keep loft.",
     "specs": [
       "20F mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "The Coleman North Rim is a 0F mummy for campers up to 6 foot 2. It has a Thermolock draft tube and Coletherm hollow polyester insulation.\n\nCompared with the TETON Trailhead, it adds another 20 degrees of cold rating and a taller cut. Against the ATEPA, it covers deeper cold at a lower price.\n\nIt is the pick for winter backpackers and cold sleepers. The draft tube holds heat at the zipper.",
     "specs": [
       "Rated to 0F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jn5YA2Y3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFWDT9D9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFWDT9D9?tag=rvgearlab-amz-20",
     "description": "The XplrKamp is an XXL cotton flannel bag with a 230T water-resistant, tear-resistant shell. It weighs 5.3 lb and packs to 13 by 15 inches.\n\nCompared with the ATEPA, it is far wider and made for big and tall sleepers. Against the TETON, it is for spring, summer and fall comfort rather than cold.\n\nIt fits car campers who want space and a cozy flannel lining. It is not a lightweight option.",
     "specs": [
       "XXL cotton flannel",

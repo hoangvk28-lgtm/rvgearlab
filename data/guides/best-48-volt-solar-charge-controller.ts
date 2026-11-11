@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319NCqGy8WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7G331TQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7G331TQ?tag=rvgearlab-amz-20",
     "description": "Temank's 140A MPPT is built for 48V storage banks with 500V open-circuit input and 6500W of panels. Temank's 48V 140A MPPT controller handles up to 500V open-circuit PV voltage and 6500W of panels, with a settable maximum charging current. The listing describes it as made for energy storage batteries, lead-acid and lithium, with a large LCD for PV data.\n\nIt has far more capacity than LiTime 60A and POWLAND 100A and a settable charge current. It is also the largest and costliest unit here.\n\nBest for a big 48V storage system with long strings. It is for a large off-grid 48V build, not a standard RV.",
     "specs": [
       "140A MPPT, 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y3eDRS2QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP2GTG29?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP2GTG29?tag=rvgearlab-amz-20",
     "description": "LiTime's 60A MPPT covers 12V, 24V and 48V with 200V PV input and a LiFePO4 mode. LiTime's 60A MPPT controller covers 12V, 24V and 48V batteries and accepts up to 200V of PV input. It adds a LiFePO4 charging mode, an LCD with LEDs and a sheet metal shell with dual forced cooling.\n\nIt has less capacity than Temank 140A but a documented 200V window and dual forced cooling. It costs more than the 100A budget units.\n\nBest for a 48V LiFePO4 bank with a mid-size array. It is the balanced 48V pick: a real 60A rating, 200V headroom and a LiFePO4 mode.",
     "specs": [
       "60A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MRfOYvLrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDC9M1HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDC9M1HJ?tag=rvgearlab-amz-20",
     "description": "POWLAND's 100A MPPT auto-identifies 12V to 48V and takes 150V PV. POWLAND's 100A MPPT controller auto-identifies 12V to 48V systems and takes up to 150V PV input. It uses a four-level charging algorithm and lists short, open-circuit and reverse protection.\n\nIt sits between the 100V budget units and LiTime 60A in PV headroom. Its four-level charge includes equalizing.\n\nBest for a 48V system with 150V string voltage. It sits between the budget 100V units and the premium 200V models.",
     "specs": [
       "100A MPPT, 12V to 48V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tzeLo9c9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXRX2YLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXRX2YLG?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 120A MPPT covers 12V to 48V with timed load control and a panel voltage display. Qigreesol's 120A MPPT controller adapts to 12V, 24V, 36V and 48V systems and adds timed load on and off control. The listing says the SA model adds visualization of solar panel voltage.\n\nIt has more amps than POWLAND 100A at a lower price. Confirm its PV limit with the seller.\n\nBest for a budget 48V array where you accept less detail. It is a high-capacity budget option, so verify the PV input limit with the seller.",
     "specs": [
       "120A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Lm03GnuAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6F7ML23?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6F7ML23?tag=rvgearlab-amz-20",
     "description": "SOGTICPS's 100A MPPT covers 12V to 48V with a 100V PV input and an LCD with clock. SOGTICPS's 100A MPPT controller handles 12V, 24V, 36V and 48V systems with a 100V maximum PV input. A backlit LCD with a clock and seven operating modes are listed.\n\nIt costs less than POWLAND 100A but has a lower PV limit. Seven operating modes add timers.\n\nBest for a small 48V string under 100V. It is the lowest-cost 100A option here, so it suits a modest 48V build.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wA43AHnxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ41D59Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ41D59Q?tag=rvgearlab-amz-20",
     "description": "PowMr's 30A PWM auto-detects 12V to 48V with a 100V maximum PV input. PowMr's 30A controller uses three-stage PWM charging on 12V, 24V, 36V and 48V systems with a 100V maximum PV input. It lists AGM, gel, flooded, LiFePO4 and lithium support and adds an LCD and dual USB output.\n\nIt is the only PWM here and has by far the lowest capacity. At 48V it wastes extra panel voltage.\n\nBest for a small 48V trickle or maintenance array. A 30A PWM controller on a 48V bank is only for a small array.",
     "specs": [
       "30A PWM, 12V to 48V",

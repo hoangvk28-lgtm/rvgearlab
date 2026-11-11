@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I6U9UfsIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHVMFBN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHVMFBN3?tag=rvgearlab-amz-20",
     "description": "The WanderRest 12 inch Cool Hybrid is a 72 by 80 RV king with five layers of cooling gel memory foam, HD comfort foam and pocketed coils. Its plush medium feel has HD edge reinforcement and a 10 year warranty, and it is made in the USA.\n\nAgainst the WanderRest 10 inch, it is two inches thicker with extra comfort foam for a plush feel. It suits couples who want a plush hybrid that sleeps like a home bed in an RV king platform.",
     "specs": [
       "12 inch hybrid, RV king 72x80",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419hJMmjZ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHVN3Q3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHVN3Q3N?tag=rvgearlab-amz-20",
     "description": "The WanderRest 10 inch Cool Hybrid is a 72 by 80 RV king with a medium feel, cooling gel memory foam, HD comfort foam and a pocketed coil core. It has an HD edge system and a 10 year warranty, and it is made in the USA.\n\nIt keeps the construction of the 12 inch WanderRest in a thinner body at a lower price. It fits owners who want coil support and a medium feel in a mid thickness mattress.",
     "specs": [
       "10 inch hybrid, medium feel",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AY9p42B9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH65RQG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH65RQG8?tag=rvgearlab-amz-20",
     "description": "The Foam Global Journey-8 is an 8 inch gel memory foam mattress measuring 72 by 80 inches, with a medium firm feel. It is made in California, uses CertiPUR-US certified foam and has a fiberglass free rayon inner cover.\n\nIt is thinner and lighter than the WanderRest hybrids, which helps on low platforms. It suits budget buyers who want a US made foam bed with certified materials.",
     "specs": [
       "8 inch gel memory foam",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410o8p8tOqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPLFBHGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPLFBHGQ?tag=rvgearlab-amz-20",
     "description": "The Excel Sleep 8 inch Green Tea mattress is a medium firm RV king in 72 by 80 inches with zoned pressure relief. It is infused with green tea for freshness, uses CertiPUR-US certified foam and arrives compressed.\n\nIt is the lowest priced option here and works with most bed frames, foundations and adjustable bases. It suits owners of older rigs who want a simple replacement at a low cost.",
     "specs": [
       "8 inch memory foam",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZzNsrHexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRS2QN25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRS2QN25?tag=rvgearlab-amz-20",
     "description": "The EGOHOME RV King is a 10 inch memory foam mattress infused with green tea gel for a cooler feel. It has a fiberglass free flame barrier, certified safe foams and arrives rolled in a box.\n\nIt sits between the 8 inch foam beds and the WanderRest hybrids on thickness and price. It fits owners who want an all foam bed with a cooler feel and extra thickness.",
     "specs": [
       "10 inch memory foam",

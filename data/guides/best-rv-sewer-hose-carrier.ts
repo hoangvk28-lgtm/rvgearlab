@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31K5e6j+7tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4L9YNNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4L9YNNV?tag=rvgearlab-amz-20",
     "description": "The Safoner is a corrosion-resistant aluminum carrier that mounts on compatible exposed I-beam frames with stainless bolts and lock nuts. Hinged vented aluminum end caps stay attached for quick access.\n\nIt costs more than twice the plastic carriers and uses metal that resists sun and rain. The opening can sit closer to the RV side, which makes loading easier than on the Valterra.\n\nBest for owners with an exposed I-beam frame who want a long-lasting carrier. A sturdy pick for full-timers.",
     "specs": [
       "Aluminum, I-beam mount",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4117gEvWrTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBNNS9Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBNNS9Q4?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 20 ft kit includes two 10 foot hoses with pre-attached fittings, a clear 4-in-1 elbow, four caps and a flexible Sidewinder support. Steel wire runs inside the 23 mil polyolefin wall.\n\nIt is not a tube carrier, and it costs more than every tube here. It bundles the hose and the Sidewinder support so you buy hose and cradle at once.\n\nBest for owners who need a hose as well as a support. A complete kit for a first RV.",
     "specs": [
       "2 x 10 ft, 23 mil polyolefin",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-xK2A0jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD1FRGR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD1FRGR8?tag=rvgearlab-amz-20",
     "description": "The Mysora is a UV-resistant plastic carrier with a reinforced metal frame and a stainless steel lockable door cap. It telescopes from 43 to 85 inches and ships with 6 self-tapping screws and washers.\n\nIt costs about the same as the Touri and adds a lockable cap that the Valterra only handles with a padlock loop. The metal bracket is stronger than a plastic-only mount.\n\nBest for owners who want to lock the hose against theft. A solid middle-priced choice.",
     "specs": [
       "Telescopes 43 to 85 inches",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3111MR5MiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW3LRNGF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW3LRNGF?tag=rvgearlab-amz-20",
     "description": "The Touri tube extends from 50 to 94 inches and has a 4.5 inch inner diameter. Mounting hardware is included.\n\nIt adjusts longer than the Mysora and costs slightly less. The wide inner diameter gives room for hoses and accessories.\n\nBest for owners with longer hoses who want room for extra parts. A good pick for large rigs.",
     "specs": [
       "Extends 50 to 94 inches",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311pyfZtqxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NAU762Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NAU762Z?tag=rvgearlab-amz-20",
     "description": "The Valterra A04-3460BK fits most 3 inch drain hoses and fittings. Its end caps come with pre-glued mounting brackets, vented design and a loop for a padlock.\n\nIt costs about half the Mysora and Touri. The vented caps stop moisture buildup, and the padlock loop adds optional security.\n\nBest for buyers who want a simple adjustable tube. A well-known brand at a low price.",
     "specs": [
       "Adjustable, fits 3 inch hoses",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T6MPCFI9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGPG1DD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGPG1DD9?tag=rvgearlab-amz-20",
     "description": "The PR1ME set has four waterproof-lined bags in four colors, with a black bag for sewer hoses. Each bag is 18 by 18 inches with breathable mesh and organizer straps.\n\nIt is the lowest priced option and is not a mounted tube. It keeps the sewer hose out of other gear without drilling.\n\nBest for owners who do not want to mount a tube. A cheap way to separate hoses.",
     "specs": [
       "Four waterproof-lined bags",

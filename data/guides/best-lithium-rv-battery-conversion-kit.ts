@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HI1F3yhmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQBF22FN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQBF22FN?tag=rvgearlab-amz-20",
     "description": "The Redodo 320Ah Kit bundles a 12.8V 320Ah LiFePO4 battery (4096Wh), a 2000W pure sine inverter, a 14.6V 40A shore charger, a 12/24V 40A MPPT solar controller and a 12V 40A DC-DC charger. It adds a 200A BMS, Bluetooth 5.0 and an IP65 housing.\n\nAt $1369.99 it costs $1100.11 more than the Redodo 100Ah, but it replaces the converter, inverter and solar controller too. Pick this if you are rebuilding the whole power system. The caveat is that the package may ship in several boxes, and the 4096Wh size needs space to mount.",
     "specs": [
       "12.8V 320Ah, 4096Wh",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IUOomm-0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D945FGV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D945FGV9?tag=rvgearlab-amz-20",
     "description": "The Redodo 100Ah is a single Group 31 12V LiFePO4 battery at 22.58 lb with Bluetooth 5.0 monitoring and 20+ protections. It stops charging below 32F, and the listing cites 4000+ cycles at 100% depth of discharge and a 10 year lifespan.\n\nAt $269.88 it is $1100.11 under the Redodo 320Ah Kit but needs a lithium capable converter, such as the CARMTEK 55A at $169.90. Pick this if your RV converter is already lithium ready or you will add one. The caveat is that on its own it does not change how the RV charges.",
     "specs": [
       "12V 100Ah, Group 31",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OXWFFPDFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9PFQK9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9PFQK9M?tag=rvgearlab-amz-20",
     "description": "The CARMTEK 55A converts 120VAC to 12VDC with a 13V to 16.5V adjustable operating range and charges both lead acid and LiFePO4. It lists multi-stage charging with short circuit, overload, over-temperature, under-voltage, over-voltage and reverse polarity protection.\n\nAt $169.90 it costs $89.91 more than the suplife WF-9855 and $24.90 more than the PowerMax 60A. Pick this if you want a stated adjustable voltage window to set a lithium charge profile. The caveat is that the bullets do not state the exact lithium voltage preset or warranty, so set and verify it yourself.",
     "specs": [
       "55A, 120VAC to 12VDC",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lr0YmJEUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ER3LGYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ER3LGYY?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM4-60A is a deck mount converter charger delivering up to 60 amps of regulated 12V. It lists smart multi-stage charging, adjustable output for properly configured lithium charging, and current limiting, reverse polarity and thermal protection.\n\nAt $145 it is $24.90 under the CARMTEK 55A and $65.01 above the suplife WF-9855, with 5 more amps than the CARMTEK. Pick this if you have a bigger battery bank or a lot of 12V load. The caveat is that the lithium wording says adjustable and properly configured, so you must set the voltage yourself.",
     "specs": [
       "Up to 60A DC output",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nl7lWjebL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPKTFC5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPKTFC5F?tag=rvgearlab-amz-20",
     "description": "The suplife WF-9855 is a 55 amp, 950 watt RV power converter outputting 14.6VDC with three-stage charging, listed as a replacement for WF-9855, WF-9855-AD and other WF-9800 series units. It lists a pure copper silent fan, overcharge, overvoltage, high temperature and short circuit protection, and a 5 year warranty.\n\nAt $79.99 it is $89.91 under the CARMTEK 55A and $65.01 under the PowerMax 60A. Pick this if you have a WFCO WF-9800 series box and want a direct lithium capable swap. The caveat is that the 14.6VDC output is fixed, so it will not suit lead acid batteries.",
     "specs": [
       "55A, 950W, 14.6VDC",

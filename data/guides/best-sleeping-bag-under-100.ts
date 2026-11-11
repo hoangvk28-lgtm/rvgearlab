@@ -34,7 +34,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big and Tall is rated to 10 degrees Fahrenheit, measures 40 by 84 inches and uses about 5 pounds of Holofill 808 insulation, with a flannel lining and a fit that accommodates sleepers up to 6 feet 7 inches. It costs $67.58.\n\nIt is the only bag in this guide with a cold weather rating, and the 40 inch width gives larger adults room to turn that narrower bags cannot match. FiberLock construction keeps the fill from shifting, and the bag is machine washable, which makes upkeep easy. Compared with the $39.99 flannel bag, it adds a real 10 degree rating and a roomier cut for under $28 more.\n\nBig and tall campers, cold weather car campers and anyone who wants one bag that handles chilly nights will find it the best overall pick.",
     "specs": [
       "10F rated, 40 x 84 inches",
@@ -64,7 +64,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HRqoidMZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G491T759?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G491T759?tag=rvgearlab-amz-20",
     "description": "The 100 percent cotton flannel XXL bag measures 36 by 87 inches, with a cotton flannel lining, a three season design and a stated 50 to 68 degree range at $39.99. It has a two way zipper and zipper fastening straps for neat storage.\n\nThe brushed flannel lining feels soft against the skin, and the wide 36 inch cut gives side sleepers room to bend knees and shift position. Compared with the MalloMe at $24.69, it adds the cozy lining and extra length of 87 inches, and next to the Coleman it costs about $28 less for milder weather use.\n\nSide sleepers, guests in an RV and families who camp in mild weather and want a comfortable, roomy bag will enjoy it.",
     "specs": [
       "36 x 87 inch size",
@@ -94,7 +94,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "The MalloMe weighs about 3 pounds, carries a 50 to 77 degree rating and has a wipe clean waterproof shell, at $24.69. It is machine washable and fits adults up to about 6 feet tall.\n\nIts light 3 pound weight is the lowest of the larger bags in this guide, and the wipe clean shell makes it a good match for kids and muddy campsites. Compared with the $17.99 budget bag, it adds a washable build and a wider warm weather range for about $7, and compared with the Coleman it weighs roughly 2 pounds less.\n\nSummer campers, scout troops and Rig owners wanting a bag that cleans up fast for warm nights get the best return here.",
     "specs": [
       "About 3 lb",
@@ -124,7 +124,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZcOYqq3fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVJ3Z8Y?tag=rvgearlab-amz-20",
     "description": "The Lightweight Sleeping Bag for Adults has a comfort range of 50 to 68 degrees Fahrenheit, a 190T polyester shell, a two way zipper and a compression sack, at $17.99, the lowest price in the guide.\n\nIt comes with a compression sack that makes it easy to store in a small bay, and it undercuts every other bag by at least $6. Compared with the MalloMe at $24.69, it saves about $7 and keeps a stated comfort range, so you can plan with a real number.\n\nBudget campers, guest bed backups and anyone who needs a basic bag for summer nights or a sleepover will find it the cheapest way to get a bag that works.",
     "specs": [
       "Comfort 50F to 68F",

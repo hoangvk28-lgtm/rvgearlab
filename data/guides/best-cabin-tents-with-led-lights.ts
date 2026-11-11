@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V9rm2p8wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GYS7SR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GYS7SR1?tag=rvgearlab-amz-20",
     "description": "The CORE 9-person tent has a 14 by 9 foot floor and a 78 inch peak, and it fits two queen air beds. The listing says it comfortably fits 4 people with gear or up to 9 without, and it sets up in 2 minutes with pre-attached poles.\n\nIts LEDs sit in the ceiling poles, with high, low and night light levels controlled by a wall switch. It matches the CORE 10 on price, and it lists H2O Block fabric of 1200mm.\n\nIt suits a family of four to six who want light and quick setup. Storage pockets keep small items off the floor.",
     "specs": [
       "14 x 9 ft, 78 inch center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Esv+vXIaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXFL4451?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXFL4451?tag=rvgearlab-amz-20",
     "description": "The CORE 10-person tent has LED lights built into its ceiling poles with three levels of glare-free lighting, controlled by a wall switch. An included room divider creates two rooms, and the pre-attached poles set it up in as little as 2 minutes.\n\nIt adds a room divider at the same price as the 9-person tent, and lower vents bring in air while a mesh ceiling releases heat. The fabric is water-repellent and pairs with a taped rainfly and sealed seams.\n\nIt suits a family that wants two sleeping zones. Light after dark comes from the same ceiling poles.",
     "specs": [
       "LED lights, 3 levels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KbbvhpIvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-amz-20",
     "description": "The CORE 12-person tent measures 18 by 10 feet with an 80 inch center height, fits four queen air beds and is rated for 6 people with gear or up to 12 without. Ceiling pole LEDs give three levels from a wall switch.\n\nIt is the largest and the priciest, and it has two room dividers that create up to three spaces. It keeps the 2-minute setup of the other CORE tents.\n\nIt suits a large family or a group. The same water-repellent fabric and taped rainfly come with it.",
     "specs": [
       "18 x 10 ft, 80 inch center",

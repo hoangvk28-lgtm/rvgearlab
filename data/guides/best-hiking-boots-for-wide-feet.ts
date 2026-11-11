@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t8ZIInkdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNFH24G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNFH24G2?tag=rvgearlab-amz-20",
     "description": "The MENYBAN Wide Toe Box is the one boot here that builds its sales pitch on toe room. The listing describes a thoughtfully widened toe box for natural toe splay, along with waterproof protection for rain, snow and puddles.\n\nWhere the NORTIV 8 Women's relies on a W size to widen the fit, the MENYBAN builds the extra volume into the design itself. It also costs less than the NORTIV 8 Women's.\n\nIt suits women whose toes ache on long walks in standard boots and who want a boot that looks casual enough for town. All-day wear is the stated aim.",
     "specs": [
       "Widened toe box design",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FzLeyJHSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT2TSPK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT2TSPK8?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Women's Waterproof Hiking Boot in the linked 8.5W size pairs a lightweight durable midsole with advanced traction rubber soles. Suede leather and a durable mesh tongue give it breathability, and the listing notes that the contrasting color blocks are meant to be feminine and bright.\n\nCompared with the MENYBAN, it comes from a more established outdoor brand and uses leather and suede in the upper. Against the ANJOUFEMME, it is a proper hiking boot rather than a snow-and-town ankle boot.\n\nIt suits women who need a W size and want a trail-ready waterproof boot with a real traction sole. The mesh tongue helps ventilate on warm days.",
     "specs": [
       "Lightweight durable midsole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVGmhQDwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5DMBTM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5DMBTM5?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Men's Ankle High in the 10.5W size has removable shock-absorbent insoles, lightweight flexible EVA midsoles and a slip-resistant rubber sole. It is described as comfortable for hiking, hunting, camping and daily work.\n\nNext to the Columbia Newton Ridge Plus II, it costs roughly half as much and gives away the leather build. Compared with the NORTIV 8 Women's W, it is the men's sibling, with a flexible ankle-high cut.\n\nIt suits men with wide feet who want a flexible, low-cost boot for everyday outdoor use. The removable insole accepts orthotics.",
     "specs": [
       "Available in W sizes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315X4JsHrJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWB79ZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWB79ZH?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Plus II uses waterproof full-grain leather over a mesh bootie, with a lightweight durable midsole and Omni-Grip multi-terrain traction. The lace-up closure gives you control over instep volume.\n\nIt is the most durable boot in this list, and it costs more than the NORTIV 8 Men's W. It suits feet that run broad without being extremely wide.\n\nIt suits men with slightly wide feet who value leather life and a famous name. Lacing lets you leave extra room across the forefoot.",
     "specs": [
       "Waterproof full-grain leather",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31En9iHQR6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWFHJT5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWFHJT5?tag=rvgearlab-amz-20",
     "description": "The Columbia Transverse offers Omni-Tech seam-sealed waterproofing for moderate rain and snow, Techlite cushioning and Omni-Grip traction. The leather and mesh upper finishes with a cushioned collar.\n\nCompared with the Columbia Newton Ridge Plus II, it uses more mesh and feels lighter. It fits slightly wide feet more by lacing than by shape.\n\nIt suits men with a standard-to-wide forefoot who hike in rain and want brand-backed waterproofing. The cushioned collar reduces rubbing at the ankle.",
     "specs": [
       "Omni-Tech seam-sealed waterproofing",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rWa8E-r3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0928P8R7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0928P8R7C?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME Ankle Boot has a waterproof PU outer, a breathable plaid fabric lining and a flexible wear-resistant TPE outsole. A removable insole and reinforced eyelets add adaptable comfort.\n\nIt is the most casual pick in this list, closer to a town and light-trail boot than a hiking boot. Against the MENYBAN, it focuses on warmth and daily wear rather than toe room.\n\nIt suits women who need a roomy-feeling, warm boot for cold dog walks and city days. Light snow and wet pavement are its natural ground.",
     "specs": [
       "Waterproof PU outer",

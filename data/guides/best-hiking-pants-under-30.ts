@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DEyV-6sDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMT284XD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMT284XD?tag=rvgearlab-amz-20",
     "description": "The keihTrail Stretch is a men's hiking pant in a 90% nylon and 10% spandex blend with UPF 50+ protection and water-resistant, quick-dry fabric. It has six pockets including zip thigh pockets, articulated knees and an elastic waist.\n\nIt costs about $22, which is less than the BLWINYUT Ripstop and more than the Libin Straight-Leg. It is the only pair here that states both UPF 50+ and a 90 percent nylon content, which means a lighter, quicker-drying feel than the cotton-blend ripstop.\n\nIt suits day hikers and campers who want a sun-blocking, fast-drying pant for summer and shoulder seasons. Zip thigh pockets hold a phone securely.",
     "specs": [
       "90% nylon, 10% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XpFUuIjIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQTP7GBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQTP7GBQ?tag=rvgearlab-amz-20",
     "description": "The Libin 8-Pocket is a nylon and spandex hiking pant with eight pockets, a 4-way stretch fabric and 3D tailoring through the hips and legs. It sells in 30, 32 and 34 inch inseams and has an elastic waist with belt loops.\n\nIt costs about $20, $2 less than the keihTrail Stretch. Two zippered side pockets, two big side cargo pockets and two back pockets give more storage than any other pair here.\n\nIt suits hikers and fishing campers who carry a lot and need secure pockets. The three inseam lengths help taller and shorter buyers avoid hemming.",
     "specs": [
       "Eight pockets including zip",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hU9-PrBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NJJRD5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NJJRD5S?tag=rvgearlab-amz-20",
     "description": "The BASUDAM Cargo is a men's quick-dry nylon pant with 4-way stretch, six pockets and an adjustable elastic waist. It is lightweight and breathable and built for hiking, camping, fishing and travel.\n\nIt costs about $20, the same as the Libin 8-Pocket, and it is a simpler pant with fewer pockets and no stated UPF rating. The nylon feels cooler in hot weather than the cotton-blend BLWINYUT Ripstop.\n\nIt suits summer hikers and travelers who want a cool, light cargo pant with less bulk. Roll it up for a quick stream crossing.",
     "specs": [
       "4-way stretch quick-dry nylon",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gGMe+Z1ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4FJGDR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4FJGDR?tag=rvgearlab-amz-20",
     "description": "The Libin Straight-Leg is a water-resistant nylon pant with UPF 50+ protection, 3D knee tailoring and six pockets including two back pockets. An elastic waist with belt loops and a straight-leg cut come in 30, 32 and 34 inch inseams.\n\nIt costs about $18, which is $4 less than the keihTrail Stretch and carries the same UPF 50+ claim. It gives up the zip thigh pockets and the 90 percent nylon blend for a plainer cut.\n\nIt suits budget hikers who still want sun protection and the right inseam. The straight leg works with boots or trail shoes.",
     "specs": [
       "UPF 50+ water-resistant nylon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lPEWqAZ+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNCPB47K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNCPB47K?tag=rvgearlab-amz-20",
     "description": "The Boonlight Ripstop is a lightweight tactical pant in a Teflon-coated ripstop fabric that repels light rain and spills. A gusseted crotch, 4-way stretch and an adjustable elastic waistband give it a flexible fit, and it has flap and zip cargo pockets.\n\nIt costs about $16, the lowest price here and about $14 less than the BLWINYUT Ripstop. The Teflon coating makes it more weather resistant than the BASUDAM Cargo, and the gusset lets you step high without seam strain.\n\nIt suits hikers who want a ripstop pant for brush and rock at the lowest cost. Wear it for scrambling or bushwhacking.",
     "specs": [
       "Teflon-coated ripstop",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411sweL+7zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ67TTMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ67TTMK?tag=rvgearlab-amz-20",
     "description": "The BLWINYUT Ripstop is a men's tactical pant in a 62% polyester, 35% cotton and 3% spandex ripstop blend. It has ten pockets, an adjustable side waist with D-ring and articulated knees with 3D tailoring.\n\nIt costs about $30, the most here, and it is the heaviest and most durable-feeling pair. The cotton content makes it warmer and tougher than the nylon pants, at the cost of slower drying.\n\nIt suits hikers and campers who work around camp, haul firewood or hunt, and want a durable pant. Wear it for cool days and rough use.",
     "specs": [
       "62% polyester, 35% cotton",

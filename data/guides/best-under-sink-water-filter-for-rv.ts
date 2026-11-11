@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410j8qTKJpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGPZN8Y?tag=rvgearlab-amz-20",
     "description": "Waterdrop UL12A is a no-drill, freestanding under-sink filter with twist-and-lock setup and push-to-connect fittings. The listing says it is IAPMO certified and reduces PFAS, PFOA and PFOS, rust, lead, chlorine and heavy metals, with a time reminder on the unit.\n\nAgainst Waterdrop 10UA below, it adds the freestanding body and wider claims. Compared with ICEPURE 22K below, it costs more and has a shorter stated life.\n\nIt suits RVers who do not want to drill into a cabinet. It is for cold-water sources only, and the listing recommends reading which contaminants each certification covers.",
     "specs": [
       "No-drill freestanding",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51poV+pwHBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NDWW4DH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NDWW4DH?tag=rvgearlab-amz-20",
     "description": "ICEPURE's system lists NSF/ANSI 42 and 372 certifications and a 22,000 gallon capacity or three years under municipal water test conditions. It uses coconut shell carbon, BPA-free materials and a plug-and-play design.\n\nAgainst Amazon Basics Under-Sink below, it has about twice the stated gallon life. Compared with Waterdrop UL12A above, it lists fewer contaminant claims.\n\nIt is good for full-timers who hate changing cartridges. Its capacity is based on municipal-water testing, so hard use in poor water may shorten it.",
     "specs": [
       "22,000 gallon capacity",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UoKJukCIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPYTFBWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPYTFBWL?tag=rvgearlab-amz-20",
     "description": "Amazon Basics lists NSF/ANSI 42 and 372 certification, reducing chlorine, taste and odor, with a 12 month or 11,000 gallon life. It installs with a twist-and-lock design and push-to-connect fittings in about three minutes.\n\nAgainst ICEPURE 22K above, it has half the stated life but a lower price. Compared with Waterdrop 10UA below, the claims are similar and the listings share the same cold-water-only note.\n\nIt works for a basic taste upgrade. Claims beyond taste and chlorine are not listed.",
     "specs": [
       "NSF/ANSI 42 and 372",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ei5RLPynL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NPW1DN?tag=rvgearlab-amz-20",
     "description": "Waterdrop 10UA lists NSF/ANSI 42 certification, a one-year cartridge and push-to-connect fittings with twist-and-lock install. It describes a larger filtration area for resisting clogs and a prorated service policy.\n\nAgainst Waterdrop UL12A above, it has a simpler body and fewer claims. Compared with Amazon Basics Under-Sink, it is similar but adds the larger dirt-holding area.\n\nIt suits a plain, serviceable setup. Check the warranty terms for the prorated service.",
     "specs": [
       "NSF/ANSI 42",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H1GhYLdJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXDG6CGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXDG6CGW?tag=rvgearlab-amz-20",
     "description": "ICEPURE WFS6310A lists up to 12,000 gallons per cartridge and a 1.75 GPM flow rate with an eight-stage design for municipal cold tap water. It uses BPA-free, lead-free food-grade parts.\n\nCompared with ICEPURE 22K above, it has a faster stated flow but a shorter life. Against Waterdrop UL12A, it does not have the freestanding design.\n\nIt suits families filling pots and bottles quickly. Eight stages can cost extra pressure at low RV pump settings.",
     "specs": [
       "1.75 GPM flow",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y4J+VpbFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJQ7RKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJQ7RKC?tag=rvgearlab-amz-20",
     "description": "PURENAT is a kit with a brass valve for home bar or drinking use, with a coconut shell activated carbon block compatible with NSF 42. It comes with a feed water adapter to connect to the existing angle stop valve and fittings and tubing.\n\nAgainst Amazon Basics Under-Sink above, it is the lowest cost but with fewer named certifications. Compared with ICEPURE 22K, cartridge life is shorter or unstated.\n\nChoose it for tight budgets and an ice maker or coffee maker. The listing's NSF wording is looser, so verify before relying on it.",
     "specs": [
       "Coconut shell carbon block",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EdB4tjmlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TLP86T6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TLP86T6?tag=rvgearlab-amz-20",
     "description": "The Oileus XL measures 92 by 45 by 45 inches for two adults and two kids, weighs 5.5 lb and sets up in about 30 seconds. It has a 3000mm PU coating on 210T polyester, 8.5 mm fiberglass poles, an awning, two windows and 6 sand pockets with 10 steel stakes.\n\nIts 3000mm coating and 8.5 mm poles match the OutdoorMaster, and it adds an awning for extra shade. Compared with the WhiteFang, it offers a stronger waterproof claim and more stakes.\n\nIt suits families who want a full-featured pop-up with an awning and a big anchoring kit. The internal pocket keeps phones and keys together.",
     "specs": [
       "92 x 45 x 45 in, 5.5 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hWSHg9aIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WP621H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WP621H?tag=rvgearlab-amz-20",
     "description": "The WhiteFang Deluxe XL opens to 99 by 55 by 55 inches, which the listing says fits two adults and two kids. It uses 210T sun-proof polyester with a silver coating, three roll-up openings, five attached sandbags, six steel stakes and six sand stakes.\n\nIt is the longest pop-up in this comparison, and its 55 inch height beats the Oileus. The extended front floor can close with Velcro for privacy, which the Gorich handles with curtains.\n\nIt suits families who want a roomy pop-up with a flexible floor extension. Five sandbags help on loose sand.",
     "specs": [
       "99 x 55 x 55 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EHLoYVpYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XNVVKYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XNVVKYG?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster pop-up uses 210T polyester with a 3000mm PU coating and UPF 50+, five built-in sandbags and 8.5 mm fiberglass poles. It has a zippered door, overhead mesh pockets and is described as roomy for two adults and two kids.\n\nIts 3000mm coating matches the Oileus, and it includes a zippered door for changing that the WhiteFang omits. It costs less than the Oileus and the same as the WhiteFang.\n\nIt suits families who want a stated waterproof rating and a door in a pop-up. The overhead pockets keep valuables up and out of sand.",
     "specs": [
       "UPF 50+, 3000mm PU",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GFYZD24hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6SP6QYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6SP6QYN?tag=rvgearlab-amz-20",
     "description": "The Glymnis is a 4-person tent measuring 260 cm long, 165 cm wide plus a 90 cm extension pad and 150 cm high, made of 190T polyester with UPF 50+. It packs to 44 by 12.5 by 14 cm, weighs 2.5 kg and has two zippered door curtains and two windows.\n\nIts two-door, two-window layout gives airflow on all sides, and the two-pole frame threads through the body in under five minutes. It is the tallest tent here, at 150 cm, with a small packed volume for its size.\n\nIt suits families who want a tall, low-cost shelter with doors that close fully. It packs into a backpack or car trunk.",
     "specs": [
       "260 x 165 x 150 cm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R5fmGZUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MFSX6Z?tag=rvgearlab-amz-20",
     "description": "The Gorich measures 86.6 by 59 by 48 inches and fits three to four people, folding to 17 by 4 by 4 inches and weighing 3.9 lb. It has silver-coated fabric with UPF 50+, 8 mm imported fiberglass poles and a front floor that extends 40 inches, with three big mesh windows.\n\nIt undercuts every other tent here on price, and its 3.9 lb weight is easy to carry. Compared with the pop-ups it folds more easily, and threading the poles takes longer than the Oileus.\n\nIt suits budget families who want a simple, light shelter. The listing covers several sizes, so pick the 3-4 person option.",
     "specs": [
       "86.6 x 59 x 48 in, 3.9 lb",

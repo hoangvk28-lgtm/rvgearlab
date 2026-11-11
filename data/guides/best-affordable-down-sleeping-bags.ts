@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319X7igU8bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY1TS8Y?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW-EXT is filled with 90% goose down at 750 fill power, RDS certified, with a 10D PFAS-free nylon shell. In the medium, the bag and its stuff sack come to 0.94 lb, and the large comes to 1.09 lb, and the large packs to 5.9 x 11 inches.\n\nIt is the lightest bag on the list and the one with the highest stated fill power, ahead of the HLITMOUT and SYWSKW at 680. It can open into a down blanket or layer inside a larger bag as a liner.\n\nA smart pick for ultralight hikers who want a cheap down layer for warm to mild nights. It also works as a travel blanket.",
     "specs": [
       "750 fill power goose down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zqqRbeRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCY58RRV?tag=rvgearlab-amz-20",
     "description": "HLITMOUT stuffs this mummy with traceable white duck down rated 680FP and certified under RDS, in 0.88 lb and 1.1 lb fills for 32 to 45F use and a 1.76 lb version for 5 to 23F. The listing gives 2.16 lb with the pillow for the lightest version and a pack size of 11.8 x 6.29 inches.\n\nCompared with the Naturehike CW-EXT, it adds an integrated removable pillow, a chest collar and zippered side pockets that join to make a double. It costs more than the Naturehike and less than the SYWSKW.\n\nA good fit for backpackers who want a mummy shape with a pillow and a choice of warmth levels. The shell is 400T 40D water-repellent nylon.",
     "specs": [
       "680FP RDS duck down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "SYWSKW sells a 680FP RDS duck down bag with a 33.5 inch shoulder width and an 86.6 inch length, with comfort ratings of 45F and 0F depending on the fill. The listing gives weights of 2.38 and 2.99 lb with the pillow and packed sizes near 7 x 12 inches.\n\nIt is the roomiest bag of the three, ahead of the HLITMOUT and Naturehike. A detachable 80 g pillow, baffle box construction and a YKK zipper round out the features, and two different-color bags zip together.\n\nBest for backpackers and campers who find narrow mummies pinch their shoulders. It is the most expensive of the three.",
     "specs": [
       "680FP duck down, 33.5 in shoulders",

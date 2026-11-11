@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nvr7TOM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-amz-20",
     "description": "The Bokkee is a 12V pump rated 5.0 GPM at 45 PSI with a copper motor and genuine NSK double ball bearings. It self-primes up to 10 feet vertically and has a smart pressure switch.\n\nAgainst the Kitvance, it runs at a lower 45 PSI that suits more RV plumbing. Against the DICMIC and chddorn, it delivers 5.0 GPM against 3.0 GPM.\n\nBest for RVs that want shower-level flow at an RV-friendly 45 PSI. A balanced upgrade for a loud factory pump.",
     "specs": [
       "5.0 GPM, 45 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iT5zPvYaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52HN2MS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52HN2MS?tag=rvgearlab-amz-20",
     "description": "The Kitvance is a 12V pump rated 6.0 GPM at up to 70 PSI with NSK double ball bearings and a one-piece 4-chamber diaphragm. It self-primes up to 10 feet vertically and 155 feet horizontally, with smart bypass control and an adjustable pressure switch.\n\nAgainst the Bokkee, it adds a fourth chamber and an adjustable switch at the cost of a higher factory setting. Against the 3 GPM pumps, it doubles the flow for tankless heaters.\n\nBest for RVs with a tankless water heater or several fixtures running at once. A good fit when strong flow matters.",
     "specs": [
       "6.0 GPM at up to 70 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DT5fUfSZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-amz-20",
     "description": "The chddorn is a 3.0 GPM, 55 PSI diaphragm pump with an internal bypass, thermal protection and dry-run capability. Its listing says the one-piece diaphragm design is 40 percent quieter than standard RV pumps and that it includes a twist-on strainer and quick fittings.\n\nAgainst the DICMIC, it lists the same flow and pressure and adds the quiet claim and fittings. Against the Bokkee, it gives less flow for less money.\n\nBest for buyers who want a quiet replacement for a 4008 series pump with fittings included. A solid mid-range pick.",
     "specs": [
       "3.0 GPM, 55 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o8iutVW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8M8TJNM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8M8TJNM?tag=rvgearlab-amz-20",
     "description": "The DICMIC is a 12V, 3.0 GPM, 55 PSI pump that lists 7.5 amps and replacement part numbers 4008-101-A65 and 4008-101-E65. Its listing describes a one-piece diaphragm, thermal protection, dry-run capability and a built-in check valve.\n\nAgainst the chddorn, it states amp draw and lists the same flow and pressure at a slightly lower price. Against the DC HOUSE, it runs at a higher 55 PSI.\n\nBest for owners replacing a 4008-101-A65 or E65 pump who want matching specs. A direct swap candidate.",
     "specs": [
       "3.0 GPM, 55 PSI, 7.5 amps",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c6tMSHUBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ2TYB21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ2TYB21?tag=rvgearlab-amz-20",
     "description": "The DC HOUSE 33 Series is a 3.5 GPM pump with 45 PSI shut-off and a 3-chamber diaphragm. It includes a noise-dampening rubber mounting base, an adjustable pressure switch, a copper-wound motor, overload protection and dry-run capability.\n\nAgainst the Bokkee, it gives less flow at a lower price. Against the 55 PSI pumps, it runs at a gentler 45 PSI with more flow.\n\nBest for buyers who care about mounting vibration and want a gentle 45 PSI shut-off. A well-priced choice.",
     "specs": [
       "3.5 GPM, 45 PSI, 3 chambers",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rBpuKFV3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9Y6GZTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9Y6GZTW?tag=rvgearlab-amz-20",
     "description": "The Ebusin is a 12V pump rated 3.3 GPM at 45 PSI, listed as a replacement for 2088-422-144 with a 1/2 inch MNPT connection. It is thermally protected, can run dry, self-primes up to 8 feet and includes connectors for the pump, hose and filter.\n\nAgainst the DC HOUSE, it states a part-number replacement and a 1/2 inch port. Against the 55 PSI pumps, it holds to 45 PSI.\n\nBest for owners swapping out a 2088 style pump who want connectors in the box. A fit for older rigs.",
     "specs": [
       "3.3 GPM, 45 PSI, 12V",

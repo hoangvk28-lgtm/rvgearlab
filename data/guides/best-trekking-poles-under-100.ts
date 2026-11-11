@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SHDi2rQHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01C60REBO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01C60REBO?tag=rvgearlab-amz-20",
     "description": "The Hiker Hunger Outfitters carbon poles are made of 3K 100% carbon fiber and weigh 7.6 ounces each. They extend from 24 to 55 inches with quick flip locks, a moisture-wicking cork grip and a nonslip EVA foam extension for steep climbs.\n\nAt 7.6 ounces each they are the lightest pair here, ahead of the KINGGEAR at 8.2 ounces. The flip locks are described as more secure than twist locks or folding poles that can slide.\n\nIt suits backpackers who want to cut ounces and keep the grip choice of cork and foam. The listing adds a 1-year warranty.",
     "specs": [
       "7.6 oz each, 3K carbon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414T8uMoxVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFV1LPG9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFV1LPG9?tag=rvgearlab-amz-20",
     "description": "The KINGGEAR carbon poles weigh 8.2 ounces each and adjust from 90 to 135 centimeters with metal flip locks. They come with snow plates, mud plates, Nordic walking buffer tips, rubber tips and a carry bag.\n\nCompared with the Hiker Hunger Carbon, they include more accessories and cost less. The ergonomic cork grips have a nonslip EVA foam extension under them.\n\nThey suit hikers who walk in mud and snow and want baskets in the box. The metal locks resist wear.",
     "specs": [
       "8.2 oz each, carbon fiber",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dHa76t3aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D88HWNWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D88HWNWZ?tag=rvgearlab-amz-20",
     "description": "The Hiker Hunger Foldable poles use aircraft-grade aluminum and collapse to 15 inches. They weigh 9.95 ounces in the short version and 10.7 ounces in the long, with metal flip locks, reinforced joints and cork or EVA foam grips.\n\nThey pack smaller than any carbon pair here, and the two size ranges (100 to 120 cm and 115 to 135 cm) fit most heights. Compared with the Trekology, they are slightly lighter.\n\nThey suit travelers who fly with poles or tuck them into a daypack. The cork and foam grip options suit different hand preferences.",
     "specs": [
       "Folds to 15 in, aluminum",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Peu8SebvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q7G8CT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q7G8CT7?tag=rvgearlab-amz-20",
     "description": "The Trekology Trek-Z poles use aircraft-grade aluminum at 10.4 ounces each for the 100 to 120 cm size and 10.8 ounces for 115 to 135 cm. They fold to 15 inches in a tri-fold system, with a 20 cm adjustment range and metal lock caps on reinforced joints.\n\nThey cost a little less than the Hiker Hunger Foldable and carry the same 15 inch pack size. Against the Trekology cork version, they have a lighter listed weight.\n\nThey suit beginners who want a folding pair at a low price. The tri-fold design fits checked luggage.",
     "specs": [
       "10.4 or 10.8 oz each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51An5El62sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH3VHB81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH3VHB81?tag=rvgearlab-amz-20",
     "description": "The Trekology Cork poles have a natural cork grip that absorbs hand moisture and a note that the grip has a slight rotational flex. They adjust from 110 to 130 centimeters with metal flip locks, fold to 15 inches and weigh 11.5 ounces each.\n\nThey carry a natural cork grip that stays dry on long days, which makes it the pure cork option here. Against the Hiker Hunger Foldable, they cover one height span in a single model.\n\nThey suit hikers with sweaty hands who prefer cork. The retractable tri-fold system packs easily.",
     "specs": [
       "11.5 oz each, aluminum",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S0DhkhCvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G429L5B4?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 300 kit pairs a 292Wh LiFePO4 station weighing 7.5 pounds with a 40W Air solar panel. Output is 300W with a 600W surge, delivered through a pair of AC sockets plus 100W PD USB-C, USB-A and a 120W car jack, and the cells keep over 70% after 4,000 cycles.\n\nIt has the biggest battery of the four and the longest cycle life, and it pairs with Jackery panels for 80% in about 2.8 hours with 100W. The panel here is small, so the kit refills slowly.\n\nA trusted brand and a battery that can run a laptop, lights and a fan through a night are the draw here. The AC adapter and car charger cable are included.",
     "specs": [
       "292Wh LiFePO4, 300W / 600W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rdx5r-ukL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJV238G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJV238G?tag=rvgearlab-amz-20",
     "description": "The MARBERO kit packs a 155Wh, 42,000mAh station with a 30W solar panel and a power converter. Two 100W AC outlets, a QC3.0 USB-A port, two USB-A ports, a USB-C, three DC outputs and a car port are listed, along with a 3-mode LED flashlight.\n\nIts 6.5 foot integrated panel cable lets the panel sit in sun while the station stays in the tent. It holds about half the Jackery's energy for a much lower price.\n\nIt suits solo campers who want a complete low-cost kit for phones and lights. Everything needed arrives out of the box.",
     "specs": [
       "155Wh, 42,000mAh, 100W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-iEbY4HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHK5HYTJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHK5HYTJ?tag=rvgearlab-amz-20",
     "description": "The Takki kit weighs 2.29 pounds and holds 88.8Wh in a 5.7 by 4.13 by 3 inch body, with a 21W solar panel. Two 110V AC outlets give 80W with a 120W max, joined by two 18W QC3.0 USB ports, two 5V 2.4A ports, an 18W PD USB-C and a 12V DC port.\n\nIt is the lightest kit and reaches 80% from the included AC charger in about 2 hours. The small 21W panel is the weakest of the three kits.\n\nIt suits backpackers who only charge phones, a headlamp and a camera. Its LED flashlight includes an SOS mode.",
     "specs": [
       "88.8Wh, 2.29 lb, 120W max",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41InHhvkgJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYXB6CF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYXB6CF5?tag=rvgearlab-amz-20",
     "description": "The MARBERO 88.8Wh station has a 24,000mAh lithium-ion pack in a 6.12 by 3.69 by 4.19 inch body weighing 2.27 pounds. Two 100W AC outlets (150W max), two QC3.0 USB-A ports and 18W and 30W PD3.0 USB-C ports are listed, with 80% in 3 hours from the wall.\n\nWith no panel in the kit, it is the one that needs a separate purchase for solar. The BMS lists a lifecycle of over 500 charges, below the Jackery's 4,000.\n\nIt suits campers who already own a foldable panel and want a pocket-size station. The 30W USB-C port charges small laptops.",
     "specs": [
       "88.8Wh lithium-ion, 150W max",

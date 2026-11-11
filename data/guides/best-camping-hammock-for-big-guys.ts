@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+FKCapb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMZM2CC?tag=rvgearlab-amz-20",
     "description": "The Covacure hammock is rated for 772 pounds and measures 9.5 feet by 4.6 feet (114.2 by 55 inches). It uses 210T parachute nylon that is tear-resistant and quick-drying, weighs 1.93 pounds and includes a net.\n\nCompared with the Kootek Double, it states a higher capacity and includes a net. Against the SUNCREAT, it is a lighter parachute nylon rather than a heavy poly-cotton fabric.\n\nIt suits heavier campers who want the highest listed capacity at a light weight. It is a good fit for car camping and hiking.",
     "specs": [
       "772 lb capacity, 210T nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vO3t01PjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT6BZ68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT6BZ68?tag=rvgearlab-amz-20",
     "description": "The SUNCREAT extra-large two-person hammock uses a thicker poly-cotton fabric. The bed measures 98 by 59 inches and the loop-to-loop length is 144 inches, with handcrafted ropes and metal rope thimbles that cut friction against the tree strap.\n\nCompared with the Covacure, it uses a thicker fabric and a wider 59 inch bed. Against the Kootek Double, it has metal thimbles that protect the rope.\n\nIt suits big guys who want a sturdy, thick hammock. The loop-to-loop length gives plenty of hang room.",
     "specs": [
       "98 x 59 inch bed, 144 in total",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411zazsiCqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082X3P3FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082X3P3FD?tag=rvgearlab-amz-20",
     "description": "The Kootek double hammock unfolds to 120 by 78 inches, supports 500 pounds and bundles to 8.3 by 4.7 by 4.7 inches. The listing gives its weight as 1.8 pounds and includes tree-friendly straps and carabiners.\n\nCompared with the Covacure, it is wider at 78 inches and lighter at 1.8 pounds. Against the CROSSHIP, it has no net and a larger bed.\n\nIt suits heavier campers who want a large, light hammock. It packs small for backpacking.",
     "specs": [
       "120 x 78 inch, 500 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BAXAeQ+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNHC2K3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNHC2K3?tag=rvgearlab-amz-20",
     "description": "The CROSSHIP hammock fits two adults up to 500 pounds and is made of parachute nylon. It includes a built-in mosquito net and everything needed for setup.\n\nCompared with the Kootek Double, it adds a mosquito net. Against the Covacure, it lists a lower capacity and adds a built-in net.\n\nIt suits heavier campers who need bug protection. It works for camping and beach trips.",
     "specs": [
       "500 lb capacity, parachute nylon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DGj1DCmGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B785WHZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B785WHZP?tag=rvgearlab-amz-20",
     "description": "The SEWANTA hammock is sold in single and double sizes, with the single rated for 400 pounds. It comes with tree straps and folds into an attached carrying pouch that doubles as a pillow.\n\nCompared with the Covacure, it has the lowest capacity. Against the Kootek Double, it is cheaper and designed as a chair as well.\n\nIt suits lighter big guys or casual use. The pouch stores the hammock in seconds.",
     "specs": [
       "400 lb single, double option",

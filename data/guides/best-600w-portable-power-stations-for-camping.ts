@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS C600 stores 640Wh in automotive-grade LiFePO4 cells and offers four AC outlets, eight outputs in total, a 600W rating and 1,200W surge. A 10ms UPS, pure sine wave output and a fast recharge of about 1.5 hours are named.\n\nIt holds more than twice the energy of the 288Wh units and has the most AC outlets of the six. Against the CYBPULTE it gives up some USB-C speed for far more runtime.\n\nIt suits families and groups that run several devices overnight. The listing quotes more than 4,000 cycles to 80% capacity and lets a gas generator feed it.",
     "specs": [
       "640Wh LiFePO4, 600W / 1200W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 30 V2 is a 288Wh LFP station at 9.4 pounds with 600W continuous output and a 1,500W surge in Power Lifting Mode. It recharges 0 to 80% in 45 minutes and fully in 70 through a 380W wall input.\n\nIt refills far faster than any other unit here and its surge mode runs bigger loads. Capacity sits well below the LIBRIDS C600 at 640Wh.\n\nIt suits campers who top up quickly and want a UPS with a 10ms switch. The listing says it covers CPAP machines, laptops and routers.",
     "specs": [
       "288Wh LFP, 600W / 1500W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ov0eEi0gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSZ83QQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSZ83QQG?tag=rvgearlab-amz-20",
     "description": "The CYBPULTE delivers 600W with a 1,200W peak from 299Wh at 6.8 pounds. A 140W USB-C PD port charges a MacBook Pro or gaming laptop at full speed, alongside two 110V outlets, two QC3.0 ports and a 12V car port.\n\nIt is the lightest unit in the group, 2.6 pounds under the BLUETTI Elite 30 V2, and carries the strongest USB-C port. It carries less energy than the LIBRIDS C600.\n\nIt suits laptop users and backpackers who value weight and fast USB-C charging. The listing names pure sine wave output.",
     "specs": [
       "299Wh, 600W / 1200W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cFJ7+6p3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247MPFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247MPFL?tag=rvgearlab-amz-20",
     "description": "The Daran 600W holds 288Wh in LiFePO4 cells with 600W and 1,200W surge, weighing 8.3 pounds. The listing names 12 safety protections, 3,500 or more cycles, a digital display and a 60W PD USB-C port.\n\nIt recharges to 80% in about 2 hours, slower than the BLUETTI Elite 30 V2, and weighs 0.56 pounds less than the other Daran listing. The listing mentions a 60W car refrigerator and CPAP machines as loads.\n\nIt suits campers who want a mid-priced LiFePO4 unit with lots of named protections. Six ports include two AC outlets.",
     "specs": [
       "288Wh LiFePO4, 600W / 1200W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-sQqgwTZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D72Z7FNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D72Z7FNV?tag=rvgearlab-amz-20",
     "description": "The DaranEner 600W stores 288Wh in LiFePO4 cells at 8.86 pounds, measuring 10 by 6.6 by 8.2 inches. Its two AC outputs share 600W with a 1,200W peak, joined by a 100W PD USB-C port, two 18W USB-A ports and a cigarette lighter output.\n\nIt reaches 80% in about 2 hours and 100% in 2.2 hours, and takes a 100W solar input. Compared with the other Daran listing it has a stronger USB-C port and weighs more.\n\nIt suits laptop users who want 100W USB-C at the lowest price here. The pack is rated at over 3,500 cycles.",
     "specs": [
       "288Wh LiFePO4, 600W / 1200W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fzYZ1djHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXHVGD6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXHVGD6B?tag=rvgearlab-amz-20",
     "description": "The Bailibatt DW601S holds 293Wh and offers a 600W pure sine wave AC output, a 100W PD USB-C port, a 24W PD USB-C port, two fast charge ports, a car port and a DC port. It weighs 7.7 pounds and shows status on an LCD.\n\nIts 100W USB-C matches the DaranEner at a lighter weight, while it has only one AC outlet. The listing asks you to recharge it at least once every 1 to 2 months.\n\nIt suits solo campers who want a sensible weight and a laptop-friendly port. A BMS monitors voltage, current and temperature.",
     "specs": [
       "293Wh, 600W pure sine AC",

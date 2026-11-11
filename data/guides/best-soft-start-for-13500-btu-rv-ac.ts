@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QqDCVi0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV unit is 40 percent smaller to fit low-profile RV A/C units, waterproof and listed to run a 15,000 BTU A/C on a 2200W generator. The SoftStartRV unit is described as 40 percent smaller to fit low-profile RV A/C units and 100 percent waterproof.\n\nIt costs about 60 dollars less than the SoftStart Home and is built for RV rooftops rather than home systems. It also starts two A/Cs on 30 amp.\n\nIts listing says it starts two A/Cs on 30-amp, one on a small generator or 15-amp, and runs a 15,000 BTU A/C on a 2200W generator. It suits RV owners who want an RV-fit kit with a strong waterproof rating.",
     "specs": [
       "40% smaller, fits low-profile",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q8DDzNcmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WHDXDYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WHDXDYG?tag=rvgearlab-amz-20",
     "description": "The Spartan Power SpartanStart is listed for RV air conditioners up to 20,000 BTU on a 120V circuit, started from a 2200 watt inverter or generator. The Spartan Power SpartanStart is listed for RV air conditioners up to 20,000 BTU on a 120V circuit, started from a 2200 watt inverter or generator.\n\nIt leaves more headroom above 13,500 BTU than the SEEMINE and BELZAR and adds a generator anti-stall feature. It costs about 105 dollars less than the SoftStartRV.\n\nA Generator Anti-Stall and Preload feature tempers compressor startup, and the kit includes splice connectors, a cleaning wipe and mounting tape. It suits owners who may upgrade to a larger AC later.",
     "specs": [
       "Up to 20,000 BTU, 120V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4191hBD33QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8NPZTFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8NPZTFT?tag=rvgearlab-amz-20",
     "description": "The SEEMINE kit cuts startup amps by 65 to 70 percent and handles rooftop RV ACs up to 3 tons, with capacitors preinstalled. The SEEMINE kit cuts startup amps by 65 to 70 percent and works with 115 to 240V, 50 or 60Hz rooftop RV ACs up to 3 tons (36,000 BTU).\n\nIt costs about 23 dollars more than the BELZAR and adds a stated tonnage range. No external contactor is required.\n\nStart and run capacitors are preinstalled inside, so no external contactor is required. It suits budget buyers who want a stated capacity and fewer parts.",
     "specs": [
       "65 to 70% startup cut",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqV6LYbBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY8MD5C6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY8MD5C6?tag=rvgearlab-amz-20",
     "description": "BELZAR undercuts the rest of this lineup on price while powering a 15,000 BTU AC from a 2200W generator. Starting current falls by 65 to 70 percent, so a 13,500 BTU unit gets an even easier start than the rating it is listed for.\n\nIt has overload protection and a flame-retardant enclosure, and undercuts every other add-on kit. It gives fewer capacity details than the SEEMINE.\n\nIt uses a flame-retardant, dust-proof ABS enclosure with built-in over-voltage, over-current and short-circuit protection. It suits owners who want the cheapest working kit.",
     "specs": [
       "65 to 70% startup cut",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ECAmJ6AlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZQ44M4F?tag=rvgearlab-amz-20",
     "description": "The SoftStart Home from NetworkRV reduces startup power by up to 70 percent and covers units up to 6 tons on 110 to 240V. The SoftStart Home from NetworkRV reduces startup power by up to 70 percent and covers units up to 6 tons (72,000 BTU) on 110 to 240V.\n\nIt includes a full install kit and is a home-and-RV model, so it covers far more than 13,500 BTU. It costs more than most add-on kits.\n\nIt runs on generators, RVs and solar, and ships with crimp connectors, zip ties, adhesive backing and a 15-minute DIY install guide. It suits owners with several units or a home plus RV use.",
     "specs": [
       "Up to 70% startup reduction",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21+Ct5UlGcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SQ9WDMY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SQ9WDMY?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach Mach 10 Soft Start Series is a 13,500 BTU/h low-profile, non-ducted air conditioner with a quiet-start design. The Coleman-Mach Mach 10 Soft Start Series is a 13,500 BTU/h low-profile, non-ducted air conditioner with a quiet-start design.\n\nIt replaces the whole rooftop unit instead of adding a kit, so no extra wiring is needed. It costs far more than any add-on.\n\nIt replaces the whole rooftop unit instead of adding a kit, so the soft start is built into the AC. It suits owners already replacing a failed 13,500 BTU AC.",
     "specs": [
       "13,500 BTU/h non-ducted",

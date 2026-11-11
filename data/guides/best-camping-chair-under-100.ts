@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LUCc3ymkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4QT9TXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4QT9TXD?tag=rvgearlab-amz-20",
     "description": "The Naturehike YL08 weighs 2.12 pounds on its own and 2.43 pounds with detachable anti-sink feet. It uses a 7075 aluminum alloy frame, breathable 600D Oxford fabric with side mesh panels and a 15-second setup with an internal bungee cord.\n\nCompared with the MARCHWAY, it saves about half a pound and adds sand-and-mud feet. Against the HULKFIT, it is 5 pounds lighter and packs far smaller.\n\nIt suits campers who want one chair for the trail, the beach and the campsite. The carry bag doubles as a frame-mounted pouch for phones and keys.",
     "specs": [
       "2.12 lb, 7075 aluminum frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q4dTZ8c+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5LDN665?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5LDN665?tag=rvgearlab-amz-20",
     "description": "The MARCHWAY weighs 2.7 pounds with its bag and holds 330 pounds, according to its title. A triangular frame with 15mm aircraft-grade aluminum legs limits wobble front to back and side to side, and the shock-corded frame sets up in under a minute.\n\nNext to the Naturehike YL08, it is a little heavier and offers a clear stability story and an angled seat. Against the Overmont, it focuses on a wider triangular base rather than cup holders.\n\nIt suits campers and motorcyclists who value steady seating. Breathable ripstop polyester keeps it cool.",
     "specs": [
       "2.7 lb with bag, 330 lb capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XijWgUqYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP4JFBMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP4JFBMF?tag=rvgearlab-amz-20",
     "description": "The Overmont Ultralight packs to 14.9 by 4.7 inches and holds up to 330 pounds. It adds oversized cup holders and a phone pocket on both sides, pre-attached elastic cords for a 30-second setup, and non-slip feet on all four legs.\n\nCompared with the Naturehike YL08, it brings cup holders and side pockets to an ultralight chair. Against the Weather Station, it is far lighter and packs into a backpack.\n\nIt suits campers who want a drink holder and phone pocket without a heavy chair. The 600D Oxford fabric adds durability.",
     "specs": [
       "14.9 x 4.7 inch packed size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rzsZSEmcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69NW4Y7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69NW4Y7?tag=rvgearlab-amz-20",
     "description": "The HULKFIT measures 22.4 by 21.7 by 38.6 inches with a breathable mesh backrest on thick 600D Oxford fabric. A rust-proof powder-coated steel frame, two integrated cup holders, a large side pocket and a matching carry bag come with it.\n\nCompared with the ultralight chairs, it gives a taller back and a deeper seat at 7.5 pounds. Against the Weather Station, it adds a mesh back and a side storage pocket.\n\nIt suits car campers, tailgaters and beach days where weight does not matter. It is a comfortable, casual seat.",
     "specs": [
       "22.4 x 21.7 x 38.6 inch size",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317qV+3rhJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHXR4DLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHXR4DLT?tag=rvgearlab-amz-20",
     "description": "The Weather Station is a one-position quad chair with a powder-coated steel tube frame, polyester cover, armrests and a mesh cup holder sewn into the armrest. It is backed by a lifetime warranty.\n\nIt is the lowest-cost chair here and the most traditional. Compared with the HULKFIT, it is smaller and simpler, and next to the Overmont it offers armrests.\n\nIt suits tailgates, sports events and beach days where a plain, sturdy chair is enough. It folds small for the trunk.",
     "specs": [
       "Steel tube frame, armrests",

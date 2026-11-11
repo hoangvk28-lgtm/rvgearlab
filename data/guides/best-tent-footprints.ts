@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21cN00HsmPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003HLI48Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003HLI48Y?tag=rvgearlab-amz-20",
     "description": "The ALPS Mountaineering footprint is cut for the brand's 4-person tent, at 8 feet 2 inches by 7 feet 2 inches and 17 oz. Durable polyester with webbing loop corners lets it attach to the tent instead of drifting underneath it.\n\nAgainst the Clostnature 118-inch cloth it is a precise fit rather than an oversized sheet, and it covers less ground than a 6-person cloth. The abrasion-resistant face also gives a moisture and dirt barrier that wipes clean.\n\nIt suits an owner of the matching ALPS Mountaineering 4-person tent. The corner loops line up with the tent's own attachment points.",
     "specs": [
       "8'2 x 7'2, 17 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41up0Qv+ItL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QCRSC3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QCRSC3X?tag=rvgearlab-amz-20",
     "description": "The Clostnature 118 by 118 inch footprint is a ripstop 210T poly cloth with a waterproof coating, weighing 22 oz and folding into a drawstring bag. The listing ties it to Clostnature's 6-person tent.\n\nIt is the biggest sheet in the group, well beyond the 87 by 59 inch Clostnature and Opvixi sheets. That size covers a large cabin-style floor and doubles as a sunshade or beach mat.\n\nIt suits family campers with a large tent. One heavy-duty cloth then does double duty as a picnic mat.",
     "specs": [
       "118 x 118 in, 22 oz",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21sKrhpaDTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MC4QFPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MC4QFPG?tag=rvgearlab-amz-20",
     "description": "The OneTigris footprint is 81 by 65 inches (6.7 by 5.4 ft) in 75D nylon with a 1500mm waterproof rating. It weighs 10.9 oz (310g) and packs into a 11.8 by 7.5 inch stuff sack.\n\nCompared with the 87 by 59 inch Clostnature, it uses a stronger nylon and adds bungee tie-out loops with reinforced stitching. It is built for 1 to 2 person tents such as the Backwoods Bungalow and Outback Retreat.\n\nIt suits solo or two-person campers who want a stout, light footprint. It can also pitch as a small rain cover or sun canopy.",
     "specs": [
       "81 x 65 in, 10.9 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GhpWvIYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MZ3CL2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MZ3CL2N?tag=rvgearlab-amz-20",
     "description": "The Clostnature 87 by 59 inch footprint is a ripstop 210T poly sheet that weighs 9.8 oz. It folds to the size of a cellphone in its drawstring bag and is listed as a fit for Clostnature's 2-person tent.\n\nNext to the OneTigris it is lighter and a little cheaper, while the 210T poly sits at a lighter weave than 75D nylon. It also shares its size with the Opvixi, which makes the pair easy to compare.\n\nIt suits a two-person tent camper who wants a light, compact footprint. A one-year guarantee comes with it.",
     "specs": [
       "87 x 59 in, 9.8 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31caaCTzB7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKWZ1T6L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKWZ1T6L?tag=rvgearlab-amz-20",
     "description": "The Frelaxy footprint comes in five sizes, from 33 by 80 inches to 116.5 by 104 inches, in 190T PU3000mm polyester with grommets and thick straps. The 33 by 80 inch size weighs 0.36 lb.\n\nThe wide size range is its edge over single-size sheets such as the Opvixi, and the PU3000mm coating is a higher listed rating than the OneTigris's 1500mm. It doubles as a hammock ground tarp or beach mat.\n\nIt suits campers who want to buy the exact size for their tent floor. The same sheet also works under a hammock.",
     "specs": [
       "Five sizes, 33 to 116.5 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WiQMt6uyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX23V8QB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX23V8QB?tag=rvgearlab-amz-20",
     "description": "The Opvixi is an 87 by 59 inch (220 by 150 cm) footprint in 210T polyester with a silver waterproof coating, with a storage bag and reinforced rope holes. The listing calls it tear-resistant and ready for picnic, beach and hammock use.\n\nIt is the lowest-priced footprint on the list and matches the Clostnature 87-inch size for less. It gives up a named tent fit. The sheet also folds into its own storage bag.\n\nIt suits a casual two-person tent camper. It is the cheapest floor saver that still comes with a bag.",
     "specs": [
       "87 x 59 in, 210T polyester",

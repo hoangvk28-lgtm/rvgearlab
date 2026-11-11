@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uqBeFjFEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000AR7970?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000AR7970?tag=rvgearlab-amz-20",
     "description": "The Trangia Spirit Burner is a classic alcohol burner that weighs 0.24 lb and lists a boil time of 8 minutes for 1 liter. It includes a simmer ring and a twist-on cap with an o-ring that seals unused fuel in the burner.\n\nThat cap lets you leave fuel in the burner between meals, which the open-cup Keweis style burners do not describe. The simmer ring also lets you step down from full flame to a low simmer, then close it to put the flame out.\n\nIt suits hikers who want a proven design with a decades-long track record. A pot stand or windscreen is needed to cook on it.",
     "specs": [
       "0.24 lb, 8 min per liter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ch1R+vk-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBQZHL81?tag=rvgearlab-amz-20",
     "description": "The Gexdes Mini weighs 3.51 oz (about 100 g) and lists a boil of 550 ml in 8 minutes. The aluminum-magnesium alloy body is a one-piece design, and a pouring bottle, rubber ring and bag are included.\n\nIt is the lightest complete kit in this list, and the pouring bottle makes measuring fuel easy. Against the REDCAMP Mini it gives a boil time and a ready-to-go bundle.\n\nIt suits trail runners and ultralight hikers who want to weigh every gram. Its leak-proof brass screw seal keeps fuel from escaping in the pack.",
     "specs": [
       "3.51 oz, one-piece body",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412dUgfzw6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0794NZXZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0794NZXZG?tag=rvgearlab-amz-20",
     "description": "The REDCAMP Mini is a brass burner on an aluminum alloy stand that weighs 5 oz (145 g). A base with windscreen supports pots, and a velvet bag and a 365-day warranty are listed.\n\nIt includes its own stand and windscreen base, which the Trangia lacks. It also lists about 50 minutes of fire on 100 ml of alcohol, a useful fuel planning figure.\n\nIt suits hikers who want a bundled burner and stand at a low price. The foldable handle on the regulator controls and puts out the flame.",
     "specs": [
       "5 oz, brass burner",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4173KUIJwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6W93DW6?tag=rvgearlab-amz-20",
     "description": "The ALOCS is a 304 stainless alcohol stove with a stated 2250W output, a 4 minute boil time and a 5 second preheat. It holds 200 ml of fuel and weighs 13.6 oz, with a foldable stand and cookware range of 3.1 to 10.2 inches.\n\nIt boils faster than the lighter burners here, and its large tank burns up to 45 minutes on high. That speed costs weight, since it is more than three times the Gexdes Mini.\n\nIt suits trekkers who value fast boiling over saving ounces. Group trips and cold mornings are where it pays off.",
     "specs": [
       "2250W, 4 minute boil",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lagNCe2kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7QTBJWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7QTBJWT?tag=rvgearlab-amz-20",
     "description": "The Kuuleyn is a one-piece stainless steel alcohol stove with a drawer structure, non-slip silicone foot pads and sliding adjustment. It burns both liquid and solid alcohol.\n\nIt is the only stainless one-piece design with a sliding drawer in this group, and it takes solid fuel as well. No weight or boil time is given, which is the gap compared with the Trangia.\n\nIt suits backpackers who prefer stainless steel and a stable base. It also works for fishing, beach and picnic use.",
     "specs": [
       "Stainless steel, one-piece",

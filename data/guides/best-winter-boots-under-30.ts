@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HS3DWByxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BC4Z1DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BC4Z1DW?tag=rvgearlab-amz-20",
     "description": "The WFL Mid-Calf is a women's snow boot with dense faux fur lining, a memory foam insole and a soft suede upper that wipes clean. A rubber tire-pattern outsole and a round toe complete the mid-calf design.\n\nIt costs about $30, the priciest of the five, and no other pair adds a memory foam insole and a taller mid-calf shaft over the ankle styles. That extra height keeps snow out of the top, which the Reimferce Plush Bootie and the SHIBEVER ankle pairs cannot do.\n\nIt suits campers and commuters who want warm calves and a cushioned footbed. Keep it out of deep slush, since suede soaks up water.",
     "specs": [
       "Dense faux fur lining",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NlHrNQuHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P57KR2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P57KR2F?tag=rvgearlab-amz-20",
     "description": "The Reimferce Plush Bootie is a women's snow bootie with a thick plush fur lining, a waterproof upper and a slip-resistant polyurethane outsole with deep multidirectional treads. It is light enough for all-day wear.\n\nIt costs about $26, about $4 less than the WFL Mid-Calf, and it sits lower on the leg with the same dense lining. The deeper multidirectional treads give it more bite on snow and ice than the SHIBEVER Zip Ankle.\n\nIt suits dog walkers and commuters who face snowy streets and want a light, plush boot. Lace it loosely over thick socks.",
     "specs": [
       "Thick plush fur lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QHXJ4FASL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFRKD5R3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFRKD5R3?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Zip Ankle is a women's flat platform ankle boot with thick plush faux fur lining, a water-resistant upper and a zipper closure. The polyurethane non-slip sole has deep tread and multiple grooves.\n\nIt costs about $22, under the Reimferce Plush Bootie, and the zipper gets it on quickly with cold hands. It has a smoother upper than the SHIBEVER Slip-On, which gives it a cleaner wipe-down after a muddy day.\n\nIt suits campers who want a boot they can step into at the tent door. Sizes run from 5 to 12 in five colors.",
     "specs": [
       "Plush faux fur lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hLUL38oEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHB9V9YZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHB9V9YZ?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Drawstring is a women's warm slip-on ankle bootie with faux fur lining, a water-resistant faux leather upper and an elastic PU outsole with deep treads. An adjustable drawstring snugs the fit and the bootie is lightweight.\n\nIt costs about $28, just under the WFL Mid-Calf, and it is the only ankle boot here with an adjustable cord at the top. That cord keeps snow out and fits over thick socks better than the elastic-topped SHIBEVER Slip-On.\n\nIt suits women who want a slip-on that still seals around the ankle. The elastic sole adds a flexible, cushioned step.",
     "specs": [
       "Faux fur lining, drawstring",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aH6NsTzrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ1RDTL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ1RDTL6?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Slip-On is a women's short ankle boot with faux fur lining, a water-resistant faux leather upper and a slip-resistant PU outsole with deep tread. An adjustable string and lightweight build make it easy to slip on.\n\nIt costs about $21, the lowest in this group and about $7 less than the SHIBEVER Drawstring. It has similar lining and sole details, so the saving comes from a plainer closure and a thinner feel.\n\nIt suits budget buyers who want warm feet on short cold trips. Wear it for dog walks and quick errands rather than snow hikes.",
     "specs": [
       "Faux fur lining",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312sQGCcUnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17V4WJ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50W is a 50A smart RV surge protector with WiFi and Bluetooth, IP65 water resistant construction and wireless fault alerts. The listing highlights a replaceable surge module, so after a spike you swap the module instead of the whole unit.\n\nAt $249.99 it costs $150 less than the Watchdog PWD50EPOW and $110 more than the GEARit 50A WiFi. Pick this if you want WiFi plus Bluetooth fallback and a replaceable module. The caveat is that the bullets give no joule rating or cutoff voltages, so those numbers are unconfirmed.",
     "specs": [
       "50A, WiFi and Bluetooth",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n9qtD9vVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC16QZP1?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30W is the 30A version, with WiFi and Bluetooth, IP65 water resistance and a replaceable surge module. It lists wireless fault alerts and compatibility with dogbone adapters.\n\nAt $169.99 it is $80 under the Watchdog PWD50W and $50 above the GEARGO 30A WiFi. Pick this if you have a 30A travel trailer and want the same module design. The caveat is that it caps you at 30A, and cutoff thresholds and joules are not listed.",
     "specs": [
       "30A, WiFi and Bluetooth",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OJukA1iCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC17VXTL?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOW is a 50A smart surge protector with WiFi and IP65 construction, and its bullets repeat the PWD50W text, including the replaceable surge module and wireless fault alerts. The listing title drops Bluetooth, naming WiFi only.\n\nAt $399.99 it costs $150 more than the Watchdog PWD50W and $260 more than the GEARit 50A WiFi. Pick this if you specifically want the EPOW model line. The caveat is that the bullets do not explain what the extra $150 buys, so ask before paying it.",
     "specs": [
       "50A, WiFi, IP65",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NaqlJf1dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXGBN5VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXGBN5VS?tag=rvgearlab-amz-20",
     "description": "The GEARit 50A is a NEMA 14-50 smart surge protector with 2.4GHz WiFi, 7200 joules of MOV surge suppression and a weatherproof housing. The app shows live volts, amps, watts and kWh, and both ends use 14-50 connectors.\n\nAt $139.99 it is $110 under the Watchdog PWD50W and $260 under the Watchdog PWD50EPOW. Pick this if you want 50A WiFi monitoring on a budget and your campground WiFi is 2.4GHz capable. The caveat is that it is 2.4GHz only and no replaceable module is listed.",
     "specs": [
       "50A NEMA 14-50, 7200J",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lh4IoWZYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY8G6WT?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30A lists WiFi and an app in its title, a 15,000 joule rating, a circuit analyzer with a large LED screen and an IP68 waterproof cover. One bullet says built-in Bluetooth syncs to your phone, so the connection type needs confirming.\n\nAt $119.99 it is $50 under the Watchdog PWD30W and $20 under the GEARit 50A WiFi. Pick this if you want the cheapest 30A with an on-unit display. The caveat is that the title says WiFi while a bullet says Bluetooth, so ask which one works before buying.",
     "specs": [
       "30A, 15000J",

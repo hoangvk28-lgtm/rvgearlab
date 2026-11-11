@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YnxGHTZyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6MDDY9C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6MDDY9C?tag=rvgearlab-amz-20",
     "description": "The GOLUMU 30W has three USB ports: a QC3.0 USB-A rated to 24W, a 15W USB-A and a PD3.0 USB-C rated to 20W, plus a DC port. It uses an MPPT chip, monocrystalline cells with ETFE film up to 24 percent efficiency and an IP67 rating.\n\nAt 30 ounces it is the lightest in the group, and it costs the least. Compared with the MARBERO and SOLUPUP, it charges three devices at once with higher stated port wattage.\n\nIt suits backpackers and day hikers who charge a phone, earbuds and a power bank together. It unfolds to 27.1 by 13.7 inches and folds to 13.6 by 7.5 by 1 inches.",
     "specs": [
       "3 USB ports, PD3.0 USB-C 20W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MicNx9-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092872NYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092872NYT?tag=rvgearlab-amz-20",
     "description": "The MARBERO 30W folds to 8.9 by 12 by 1.8 inches, weighs 2.4 lbs and ships in a carry bag. It offers a USB-C port with 5V, 9V and 12V profiles, a QC3.0 USB port and a DC output with three adapter plugs for portable power stations.\n\nAgainst the GOLUMU, it adds clearer voltage profiles on its ports. Compared with the SOLUPUP, it adds DC output and QC3.0 for small stations and faster phone charging.\n\nIt suits campers who want to feed a small power station as well as phones. The listing gives 25 to 30W under full sun at 45 to 65 degrees.",
     "specs": [
       "30W, 2.4 lbs, 8.9 x 12 x 1.8 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AipqdKbIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7FCG5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7FCG5D?tag=rvgearlab-amz-20",
     "description": "The ENOFLO YT30 is a three-fold 30W panel that weighs 2.09 lbs and folds to 13 by 8.5 by 0.3 inches, about the size of a thin laptop. It has USB-A and Type-C ports plus a DC output with a 10-in-1 adapter set, IP65 protection and up to 24 percent efficiency.\n\nIt is the thinnest fold in the group and lighter than the MARBERO and SOLUPUP. The ten DC adapters cover more small devices than the three plugs in the MARBERO.\n\nIt suits campers who slip a panel behind a laptop sleeve and want a DC port for small gear. A 12-month warranty and four hooks are in the box.",
     "specs": [
       "30W, 2.09 lbs, 0.3 in fold",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-DQbi4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP 30W has USB-A and Type-C output ports at 5V and 3A, which means 15W max per port. It weighs 2.4 lbs and folds to 10.63 inches, with a smart chip, IPX5 splash resistance and two carabiners in the box.\n\nCompared with the GOLUMU, its ports top out lower and it has no DC output. Against the ENOFLO, it is the simpler panel that skips adapters and carries a USB-to-Type-C cable in the package.\n\nIt suits casual hikers and campers who want a basic phone charger. Overcurrent and overvoltage protections are named on the listing.",
     "specs": [
       "30W, 5V/3A 15W max ports",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dlV5ggY1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079YF1HF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079YF1HF6?tag=rvgearlab-amz-20",
     "description": "The Honda EU2200i remains the quiet-generator benchmark. It runs at 48 to 57 dB(A), which Honda describes as quieter than normal conversation, and adds the My Generator Bluetooth app for remote stop and service reminders, CO-MINDER automatic carbon monoxide shutdown, and a three-year residential warranty.\n\nAgainst the Yamaha EF2200iS ranked just below, the two are close in output and noise. Honda wins on the app and CO-MINDER, while Yamaha builds in a standard RV outlet. Compared with the bigger Honda EU3200i, the EU2200i is lighter and much cheaper but cannot run most rooftop AC units alone.\n\nChoose it if quiet hours and resale value matter most. The caveats are price, roughly three times budget rivals, and that this model is not sold in California.",
     "specs": [
       "2,200W, 48 to 57 dB(A)",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411xfCVFWIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MY4G5QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MY4G5QJ?tag=rvgearlab-amz-20",
     "description": "Yamaha's EF2200iS is the closest rival to the Honda. Its 79cc engine uses Yamaha Quiet Technology with a dedicated muffler, Smart Throttle automatic load sensing, an illuminated multi-function LED display, a Smart Dial start knob, and a standard RV outlet.\n\nIt ranks second because Yamaha does not publish a decibel range in this listing and lacks Honda's CO shutdown system. Its advantage over the Honda is the built-in RV outlet, so you can plug a 30 amp cord straight in without an adapter. Against the Westinghouse 5000 Peak Watt below, it is far lighter but makes much less power.\n\nPick it if you want brand-tier quiet with direct RV hookup. The caveat is that its rated noise is not stated here, so compare against Yamaha's spec sheet before buying for strict campgrounds.",
     "specs": [
       "2,200W, 79cc Yamaha engine",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UoRcRk+XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH4L9HTF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH4L9HTF?tag=rvgearlab-amz-20",
     "description": "The EU3200i is Honda's answer for owners who need quiet and a rooftop AC. It runs at 54 to 58 dB(A), handles most 13,500 BTU RV AC units according to Honda, weighs under 60 pounds, runs 3.3 to 8.6 hours on 1.2 gallons with Eco Throttle, and includes CO-MINDER and the Bluetooth app.\n\nCompared with the EU2200i at the top, it adds the output to start an AC for a small rise in noise. Against the Pulsar 4000 lower down, which also claims 13,500 BTU AC support, Honda costs over five times more but brings proven reliability and CO protection.\n\nThis suits owners who must run AC in quiet campgrounds and want a single unit. The caveats are the very high price and the small 1.2 gallon tank.",
     "specs": [
       "3,200W, 54 to 58 dB(A)",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-m5Zc9kjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-amz-20",
     "description": "This Westinghouse makes 3,900 rated and 5,000 peak watts while running as low as 52 dBA, and its 3.4 gallon tank stretches to 18 hours with Economy Mode. It has remote start with a key fob, electric and recoil start, a TT-30R outlet, and an LED data center showing fuel, output, and remaining runtime.\n\nIt offers more running power than the Honda EU3200i for less than a third of the price, with a much longer runtime. It ranks below the Honda because it is heavier and lacks a CO shutdown system on this listing. Against the WEN DF451i below, it skips propane but quotes a lower noise figure.\n\nPick it if you want to run AC overnight without refueling. The caveat is weight, which makes it a wheel-around unit rather than one you lift.",
     "specs": [
       "3,900 rated / 5,000 peak W",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4155kmiafFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNP5C4ZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNP5C4ZJ?tag=rvgearlab-amz-20",
     "description": "WEN's DF451i is the quiet pick for propane users. It rates 58 dBA at quarter load from 22 feet, makes 3,500 rated watts on gas and 3,150 on propane, and its Auto Fuel Selection switches from propane to gas automatically for longer runs. It is EPA III and CARB compliant with keyless electric start and a TT-30R outlet.\n\nAgainst the Westinghouse above it, the WEN adds propane and automatic fuel switching while making a bit less power, and its noise figure is quoted at a specific distance, which is more transparent. Against the Pulsar below, it is pricier but adds CARB compliance and dual fuel.\n\nChoose it if you boondock on propane but want to stay quiet. The caveat is that noise rises above the quarter load rating when running AC.",
     "specs": [
       "58 dBA at 1/4 load, 22 ft",
@@ -164,7 +164,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41217Z50LIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS7B3YMG?tag=rvgearlab-amz-20",
     "description": "The Pulsar PGD40ISCO is the cheapest quiet unit here that claims rooftop AC support. It provides 3,200 rated and 4,000 peak watts, is rated at 59 dB, is parallel ready, and Pulsar lists it for AC units up to 13,500 BTU.\n\nIt ranks below the WEN DF451i because its 1 gallon tank only gives about 4 hours at half load, and Pulsar does not state the measuring distance for its 59 dB figure. It does match the Honda EU3200i's AC claim at a fraction of the price, which makes it compelling for occasional use.\n\nPick it for weekend trips where you need AC but not overnight runtime. The caveat is frequent refueling.",
     "specs": [
       "3,200 rated / 4,000 peak W",
@@ -191,7 +191,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-amz-20",
     "description": "The WEN 56235i is the lightest and least expensive quiet generator here. It weighs 39 pounds, makes 1,900 rated and 2,350 surge watts of clean power, and WEN describes its noise as comparable to normal conversation. A fuel shutoff empties the carburetor before storage.\n\nIt is a budget alternative to the Honda EU2200i with similar running output at roughly a third of the price. The tradeoffs are no RV outlet (two 120V household receptacles only), a two-year warranty, and no CO shutdown. Against the Pulsar above, it is lighter but cannot start an AC.\n\nThis suits van owners and small trailers charging batteries. The caveat is that you need a 15 to 30 amp adapter to plug in an RV cord.",
     "specs": [
       "1,900 rated / 2,350 surge W",

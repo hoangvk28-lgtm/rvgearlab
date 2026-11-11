@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Npb2z32JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHTB9SL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHTB9SL?tag=rvgearlab-amz-20",
     "description": "The Somokg is a 12V unit with 11,000 BTU of cooling, 4,500 BTU of heating and an integrated soft start that cuts startup surge by 70 percent. The Somokg is a 12V unit with 11,000 BTU of cooling and 4,500 BTU of supplemental heating in a 43 pound package.\n\nIt is a light 43 pounds at 35 dB and undercuts every other pick on price. It needs a large battery bank.\n\nIt includes an integrated soft start that cuts startup surge by 70 percent and runs at 35 dB. It suits solar owners who want a light unit.",
     "specs": [
       "12V, 11,000 BTU cooling",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-amz-20",
     "description": "The Outequip 12V is a 10,000 BTU unit that runs 8 hours from a 480Ah source and 10 hours from 600Ah. The Outequip is a 12V, 10,000 BTU rooftop unit that runs 8 hours from a 480Ah source and 10 hours from 600Ah.\n\nIt lists runtime numbers that help size a bank. It costs about 195 dollars more than the Somokg.\n\nIt uses UV-stabilized ABS, an EPDM gasket and a zinc-coated condenser. It suits owners sizing a battery bank.",
     "specs": [
       "12V, 10,000 BTU rooftop",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315QFvY-wAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW3TYSNR?tag=rvgearlab-amz-20",
     "description": "The Countrymod is a 12V, 10,000 BTU unit with a variable-frequency design, a 300 to 900W range and about 0.3 kWh per hour. The Countrymod is a 12V DC, 10,000 BTU rooftop unit with a variable-frequency design and a 300 to 900W power range.\n\nIt states the clearest energy figure here. It costs about 45 dollars more than the Outequip.\n\nIt lists about 0.3 kWh per hour and 45 to 55 dB operation. It suits owners who want published energy figures.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGQLYPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGQLYPB?tag=rvgearlab-amz-20",
     "description": "The Gidrox 12,000 BTU 12V unit has 9,000 BTU of heat pump heating and about 350W average draw at night. The Gidrox 12000 BTU 12V DC unit has a heat pump with 9,000 BTU of heating and about 350W average draw at night.\n\nIt adds heating with a 40 dB sleep mode. It costs the most of the six.\n\nA 40 dB sleep mode and no inverter requirement make it battery-friendly. It suits owners who want heat too.",
     "specs": [
       "12V DC, 12,000 BTU",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rPWe3kW9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F923V9QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F923V9QJ?tag=rvgearlab-amz-20",
     "description": "The NEKPOKKA is a hidden underbody 12V unit rated at about 9,000 BTU with a 70A current requirement. The NEKPOKKA is a hidden underbody 12V unit rated at about 9,000 BTU (2,200 to 2,400W) with a 70A current requirement.\n\nIt is an alternate install that keeps the roof clear. It costs about 180 dollars more than the other NEKPOKKA.\n\nThe metal outdoor unit and 760 m3/h evaporator airflow suit trailers and vans. It suits trailers where roof space is limited.",
     "specs": [
       "12V, about 9,000 BTU",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZlLS93NmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F924BV4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F924BV4K?tag=rvgearlab-amz-20",
     "description": "The second NEKPOKKA unit is about 9,000 BTU with a 15cm evaporator that mounts on a ceiling and a separate control panel. The second NEKPOKKA 12V unit is also about 9,000 BTU, with a 15cm thick evaporator that can mount on a ceiling.\n\nIt costs less than the first NEKPOKKA. It also needs 70A.\n\nIt comes with a separate control panel for air volume and temperature. It suits owners who want a split layout.",
     "specs": [
       "12V, about 9,000 BTU",

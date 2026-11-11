@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-m5Zc9kjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XC47ZX4?tag=rvgearlab-amz-20",
     "description": "This Westinghouse is a 5000 peak watt, 3900 rated watt inverter generator with remote electric start, a TT-30R RV outlet and a rotating digital display. It claims as low as 52 dBA and up to 18 hours on 3.4 gallons, priced at $849.\n\nIt costs $209.01 more than the Champion 4000 and $51.00 more than the WEN 6800, and you get a TT-30R outlet plus the quietest claimed floor. Pick this if you want one generator for an RV air conditioner and quiet campgrounds. Caveat: 52 dBA is an as low as figure with no stated distance.",
     "specs": [
       "5000 peak, 3900 rated watts",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i49zsHhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6PM5XN1?tag=rvgearlab-amz-20",
     "description": "The Champion 4000-watt inverter weighs under 49 pounds and states 64 dBA from 23 feet, a distance you can actually compare. It has a TT-30R 25A outlet, a 5-20R household outlet and a parallel kit option, at $639.99.\n\nThat is $209.01 below the Westinghouse iGen5000 and only $5.00 above WEN 4800, with a stated noise distance that WEN does not list. Pick this if you want a light 4000W unit with a checkable noise claim. Caveat: 64 dBA is louder than Oxseryn 2800 at the same distance.",
     "specs": [
       "4000W, under 49 lb",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5152RZuvf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-amz-20",
     "description": "The WEN 56477i makes 4800 surge and 4000 rated watts from a 224cc engine, with a Watchdog CO shutdown sensor and a fuel shutoff that empties the carburetor before storage. It sells for $634.99.\n\nIt is $5.00 cheaper than the Champion 4000 and gives 800 more surge watts, but the listing excerpt gives no noise figure. Against Oxseryn 2800 it costs $347.89 more for twice the rated watts. Pick this if CO shutdown matters in a camp full of kids. Caveat: noise is not stated, so verify before buying.",
     "specs": [
       "4800 surge, 4000 rated watts",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M4vhJsBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPWBVY58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPWBVY58?tag=rvgearlab-amz-20",
     "description": "The Oxseryn is a 2800 peak watt, 2000 running watt inverter generator at 40 pounds, with THD under 3% and a stated 58 decibels at 23 feet. It runs 10 hours at 25% load for $287.10.\n\nIt is $347.89 below WEN 4800 and quieter at a stated distance than Champion 4000, yet it gives half the rated watts. Against Westinghouse iGen1500 it costs $61.90 less. Pick this if you want a quiet small generator for fans, lights and a fridge. Caveat: 2000 running watts will not start a roof AC.",
     "specs": [
       "2800 peak, 2000 running watts",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WOidyzwaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-amz-20",
     "description": "The Westinghouse iGen1500 produces 1500 peak and 1000 rated watts at under 3% THD, weighs only 32 pounds and claims as low as 52 dBA with a 12 hour run time on 0.79 gallons. It includes a CO sensor and parallel capability at $349.\n\nIt costs $61.90 more than Oxseryn 2800 for 1000 fewer rated watts, but it is lighter by 8 pounds and carries a CO sensor. Against WEN 6800 it saves $449.00. Pick this if you want to pair two units later. Caveat: 1000 rated watts runs a fridge, not a microwave.",
     "specs": [
       "1500 peak, 1000 rated watts",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20",
     "description": "The WEN 6800 is a 224cc dual-fuel inverter generator rated 6800 surge and 5100 rated watts on gasoline, 6000 surge on propane, with CO Watchdog and a bonded-neutral 240V configuration. It costs $798.\n\nIt is $51.00 below the Westinghouse iGen5000 and gives 1200 more rated watts, but the excerpt gives no noise figure, which is why it ranks last in a quiet roundup. Pick this if propane convenience and power outweigh noise. Caveat: do not buy it for quiet campgrounds without verifying decibels.",
     "specs": [
       "5100 rated watts gas",

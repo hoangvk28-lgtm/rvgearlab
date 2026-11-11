@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efRlqaVNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJYRZ591?tag=rvgearlab-amz-20",
     "description": "The CAMPINGMOON XT-2F weighs 2.4 ounces (68 grams) for the stove body and adds a built-in pressure regulator that keeps flow steadier as the canister empties. It has a recessed bowl-style burner with a raised rim and a built-in piezo igniter.\n\nFour folding supports create a wider platform than the tiny BRS-3000T, and a storage bag comes with it. It threads onto EN417 isobutane-propane canisters.\n\nA great fit for backpackers who simmer and want a steadier flame with an igniter, without much more weight. A backup lighter is still wise.",
     "specs": [
       "68 g titanium body",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a 25 gram titanium burner rated at 2,700 W with a stated boil of 2 minutes 58 seconds for a liter. Rated gas use is around 140 grams per hour, and the burner and a 110 gram canister nest in a 750 ml pot.\n\nBeside the CAMPINGMOON XT-2F it is a bare burner with no regulator or igniter, and it costs less than half as much. Flip the pot legs out and twist it onto the canister.\n\nPerfect for thru-hikers who boil water for dehydrated meals and nothing more. The O-ring and pouch come in the box.",
     "specs": [
       "25 g titanium, 2700 W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lWy3ULTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007VLFI6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007VLFI6W?tag=rvgearlab-amz-20",
     "description": "The Snow Peak LiteMax weighs 2 ounces and has foldable arms that hold pots while blocking some wind. A flame adjuster runs from simmer to boil, and a carry bag comes with it.\n\nUnlike the BRS-3000T it adds wind arms and flame control, and it is lighter than the CAMPINGMOON XT-2F by a fraction. Pot size tops out near 5.5 inches and 2 pounds.\n\nA refined choice for solo trips with a small pot. It packs flat and fast.",
     "specs": [
       "2 ounces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21KHp8H5h4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS7QWCGT?tag=rvgearlab-amz-20",
     "description": "The Fire-Maple Petrel weighs 95.5 grams (3.4 ounces) and collapses to a slim, flat pack. It delivers 2.7 kW (9,213 BTU an hour) and boils 0.5 liter in 1 minute 48 seconds, with the canister on a hose away from the flame.\n\nIt has a lower center of gravity than the screw-on stoves, a titanium body and an aluminum foldable windscreen. It costs the most of the four.\n\nRight for ultralight and fast-packing trips that use larger pots on a stable stove. The remote design keeps the canister cooler.",
     "specs": [
       "95.5 g (3.4 oz), titanium",

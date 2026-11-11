@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZFVA5v-iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX3ZS1MZ?tag=rvgearlab-amz-20",
     "description": "The Purebox is a 2 to 3 person dome tent with a bathtub-style sealed floor, reinforced welded corners and a fully taped rainfly. It pitches with flexible cross poles and clips, and has dual zippers and two mesh side panels.\n\nIt is the only tent here whose listing names a fully taped rainfly together with a bathtub floor, and it is also the lowest priced after the Wakeman. Against the UNP and CAMPROS, it covers fewer people.\n\nIt suits a couple or a small group who want a quick-pitching dome that handles rain at a very low price. The listing also names festivals and backyard overnights.",
     "specs": [
       "Fully taped rainfly",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3187egCwHfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08G4R7SG5?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP is an 8-person straight-wall tent with a 72 inch center height, sealed seams and a waterproof strip. It has a rainfly, mesh top and doors, color-coded poles and a curtain that works as a room divider.\n\nAgainst the Amazon Basics it adds two inches of center height and a stated waterproof strip along the seams. It costs more than the UNP and covers two more people.\n\nIt suits families who want a room divider and standing height without going to a premium tent. The curtain doubles as a projector screen for movie nights.",
     "specs": [
       "72 in height, straight walls",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zAMEkXi+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3VBB1XW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3VBB1XW?tag=rvgearlab-amz-20",
     "description": "The UNP is a 6-person cabin tent measuring 10 by 9 feet with a 78 inch center height. A polyurethane hydrostatic coating, four steel leg poles and a rectangular roof give it a windproof stance.\n\nIt stands taller than the CAMPROS at the center and is lighter on the wallet. It weighs 18 pounds with a 24.6 by 8.26 by 8.26 inch carry bag, and offers one large mesh door, five windows and a mesh top.\n\nIt suits families of four to six who want a taller tent that two people can pitch in about five minutes. The listing says one person can manage it in about ten.",
     "specs": [
       "10 x 9 ft, 78 in center height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31V1z9b-ULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0785MRPH6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics tent holds 8 adults on a 15 by 9 foot floor with a 70 inch center height. It has welded seams, a removable rainfly, shock-corded poles and snag-free sleeves, and sets up in under 8 minutes.\n\nCompared with the CAMPROS it is a lower price and has welded seams in place of sealed strips. It is listed as 3-season, which sets the weather ceiling for this pick.\n\nIt suits budget family camping in fair-to-wet 3-season conditions. The cool-air port and back window add airflow under the fly.",
     "specs": [
       "15 x 9 ft, 70 in center",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kW3X8r0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 2-person camping tent made of nylon, made in the USA per its listing, with a rain fly, a carrying bag, fiberglass poles and a ventilation window. It is listed for backpacking, hiking and beach use.\n\nIt is the lowest priced tent in the group, built for one or two people. Where the Purebox adds a taped fly and a bathtub floor, the Wakeman keeps to a simple nylon body and fly.\n\nIt suits solo campers and couples who need a cheap tent for dry-ish trips or a backup shelter. The listing also names beach use.",
     "specs": [
       "2 person, nylon, rain fly",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5137dzgLG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg 30-Pack cites EPA registration plus NSF/ANSI standard 60 certification, with removal claims for both bacteria and viruses. Treated water avoids an unpleasant taste, color or odor.\n\nIt is the smallest and lightest pack here, so it slips into a carry-on or day bag without notice. Next to the larger counts it costs the least.\n\nIt suits travelers who want a documented, low-weight backup. Thirty tablets cover a trip.",
     "specs": [
       "30 tablets, 49mg",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4128rJjvBHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSXK2144?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSXK2144?tag=rvgearlab-amz-20",
     "description": "This kit has 100 Aquatabs tablets and two chlorine test strips, aimed at boat and RV water tanks. The page says to drop one tablet in per four gallons and wait 30 minutes, and it describes a time-release effect that continues for weeks.\n\nThe test strips and color chart check free chlorine, which no other pick here includes. It also targets the rotten-egg odor that grows in plumbing.\n\nIt suits RV and boat travelers who treat a tank rather than a bottle. The strips show whether the dose worked.",
     "specs": [
       "100 tablets plus 2 test strips",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jwQuu6VHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFB2JSXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFB2JSXH?tag=rvgearlab-amz-20",
     "description": "The ROZJOVU bottle holds 100 sodium dichloroisocyanurate tablets and claims to purify up to 4 gallons in 30 minutes to 1 hour. The page says the tablets keep for as long as five years and notes a point about cryptosporidium in its timing line.\n\nIt is the only tablet here that states a shelf life, and it costs less than the Aquatabs tank kit. It suits camping, boating, hiking and emergencies.\n\nIt suits travelers stocking a long-term kit that needs to last. Read the full timing note.",
     "specs": [
       "100 count NaDCC tablets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 397mg tablet comes by the hundred, with a stated four gallons treated in half an hour. The page describes no unpleasant taste, color or odor.\n\nA single tablet treats four gallons, which suits tanks and big containers. Compared with the 49mg pack, it is bulkier to dose.\n\nIt suits group trips, camper-van tanks and large containers abroad. A hundred tablets last long.",
     "specs": [
       "397mg tablet, 100 count",

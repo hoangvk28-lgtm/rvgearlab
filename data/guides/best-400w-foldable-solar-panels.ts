@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jeVOI5H1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W lists 30.2 lbs, a folded size of 33.7 x 27.95 inches and a carry case. It is fiberglass reinforced with hail-resistant ETFE, IP67, corner protection and an aluminum backsheet, with parallel wiring for partial shade.\n\nIt is the priciest pick and the only one that names a long list of stations, including the Jackery Explorer 1000 v2, EcoFlow DELTA 3 and Anker SOLIX models. It weighs about 8 lbs more than the Twelseavan.\n\nIt suits RV and overland owners who want a rugged, known panel. The parallel wiring helps under tree shade.",
     "specs": [
       "30.2 lbs, 33.7 x 27.95 in folded",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519hIfpanHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCC39XY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCC39XY7?tag=rvgearlab-amz-20",
     "description": "The Twelseavan 400W lists 24 percent A+ monocrystalline cells, a fiberglass build at 22.7 lbs and a back made from high-density polyester canvas. It ships with a 5-in-1 MC4 cable and 3 DC adapters.\n\nIt is lighter than the Renogy 400W by about 7 lbs and costs about $20 less. It weighs a little more than the 20.3 lb 40V panel.\n\nIt suits campers who want one of the lighter 400W panels. The adapter set covers most stations.",
     "specs": [
       "24% A+ cells, 22.7 lbs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DqS5qgWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3R9VY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3R9VY4?tag=rvgearlab-amz-20",
     "description": "This 400W panel lists 20.3 lbs, a 6-fold design to 26 x 22 x 3 inches and a 40V output. It is semi-flexible with Oxford fabric and CPC lamination for minus 4 to 158 degrees Fahrenheit, a 3 m MC4 cable, a 0.5 m adapter set, Auto-Restart tech and a 12-month warranty.\n\nIt is the lightest 400W panel here and costs about $120 less than the Renogy. It is also thicker at 3 inches when folded.\n\nIt suits campers who carry the panel often and own a station that accepts 40V. The auto-restart resumes charging after interruptions.",
     "specs": [
       "400W, 40V, 20.3 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eNmx9kprL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H976FJD9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H976FJD9?tag=rvgearlab-amz-20",
     "description": "The TPDEFZQ lists 25 percent A+ monocrystalline cells, 31.3 lbs, a folded size of 22.99 x 35.43 x 1.77 inches and a 36V output. It has IP67 ETFE and a 10 ft 4-in-1 extension cable.\n\nIt has a long 10 ft cable and a thinner fold than the 40V panel. It weighs a little more than the Renogy.\n\nIt suits campers who park the station far from the panel. The IP67 rating handles heavy rain.",
     "specs": [
       "25% cells, 31.3 lbs, 36V",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u63l-vsKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDZLZYVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDZLZYVZ?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 400W lists 23 percent P-PERC monocrystalline cells, a 36V output, an IP64 rating and a centripetal inward fold to about 19.5 x 23.6 inches. It offers tool-free setup.\n\nIt has the most compact folded footprint of the six and costs about $110 less than the Renogy. The IP64 rating is the lowest here.\n\nIt suits campers who want a compact fold on a budget. The listing urges checking compatibility before ordering.",
     "specs": [
       "400W, 23% P-PERC, 36V",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x1YNv6SFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2HYSQG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2HYSQG1?tag=rvgearlab-amz-20",
     "description": "The CTOLITY 400W lists 23.4 percent monocrystalline cells, a 36V output, ETFE lamination and adjustable kickstands. It includes DC, XT60 and Anderson cables and protects against reverse charging and overload.\n\nIt costs the least of the group and costs about $160 less than the Renogy. It lists fewer specs than the others.\n\nIt suits budget campers with a 36V-compatible station. The kickstands help with angle.",
     "specs": [
       "23.4% cells, 36V",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ks1pIDlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJVBMLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJVBMLS?tag=rvgearlab-amz-20",
     "description": "The QEZER XL is the largest bag here at 90.55 by 38.58 inches, with 2.86 lb (1300 g) of 600 fill power down. It packs to 17.32 by 8.66 inches, and the nylon shell is water-resistant with an internal anti-theft pocket.\n\nIt carries more down than the other QEZER XL here, which holds 800 g, and a wider cut than the ATEPA. The extra fill and 38.58 inch width are what make it the roomiest and warmest pick.\n\nIt suits big and tall campers, cold sleepers and family car campers who want the most room and the most down. The compact storage size helps for a bag with this much fill.",
     "specs": [
       "90.55 x 38.58 in XL cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M6fNGuJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWN99ZJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWN99ZJX?tag=rvgearlab-amz-20",
     "description": "The QEZER XL 800g is filled with 800 g of 600 fill power down in a 40D high-density nylon shell, with a hat drawstring and a two-way zipper. It also has inside pockets for small valuables.\n\nIt holds less down than the QEZER XL 1300g Down and costs the least of the four. It is spliceable, so two bags can join into a double, which the ATEPA does not describe.\n\nIt suits campers who want an XL down bag on a budget, and couples who want to join two bags for car camping. The hat drawstring seals the head opening.",
     "specs": [
       "800 g of 600FP down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FXCzJ8b6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4NZGN3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4NZGN3Q?tag=rvgearlab-amz-20",
     "description": "The ATEPA XL Hybrid is 88.6 by 35.4 inches and filled with 600 g of 650 fill power COLDMASTER down blended with synthetic fibers. The shell is 20D 400T ripstop with a down-proof, water-repellent treatment and 3D baffle construction.\n\nAdjustable side straps lock the bag to most backpacking pads so you do not slide off at night. Compared with the QEZER XL 1300g Down it has a higher fill power and a smaller footprint.\n\nIt suits tall backpackers and side sleepers who want a pad-attached XL bag that compresses into its sack. The 3D baffle construction keeps the fill from shifting.",
     "specs": [
       "88.6 x 35.4 in XL wide",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31--XBo42aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCYZ6FSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCYZ6FSV?tag=rvgearlab-amz-20",
     "description": "The HLITMOUT uses RDS certified white duck down at 680 fill power in a 400T 40D water-repellent nylon shell, and weighs 3.20 lb including the pillow. The two-way zipper has an inner loop, and zippered pockets on both sides can join to make a double.\n\nIt has the highest fill power of the four and comes with a pillow, which none of the others do. It sits between the two QEZER bags on price.\n\nIt suits campers who want a higher-grade down fill and a pillow in one purchase. The inner zipper loop makes the zipper easy to work in the dark.",
     "specs": [
       "680FP RDS duck down",

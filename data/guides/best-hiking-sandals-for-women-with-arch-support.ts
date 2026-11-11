@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IuSmZbfzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ66MDPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ66MDPK?tag=rvgearlab-amz-20",
     "description": "The Chaco Women's LUVSEAT is built around the signature LUVSEAT footbed for all-day support, with non-marking ChacoGrip rubber and a wave fin traction design at 3.0mm lug depth. A polyester jacquard webbing upper wraps through the midsole for a customized fit, and an injection-molded ladder lock buckle holds it.\n\nAgainst the UBFEN, it gives a longer-lasting construction and a measured lug depth. Compared with the Skechers On-the-go, it is built for the trail instead of the boardwalk.\n\nIt suits women who hike seriously in sandals and want a footbed that holds its shape. The webbing wraps the foot for an exact fit.",
     "specs": [
       "LUVSEAT arch-support footbed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-uwB2IQ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072T5DWHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072T5DWHF?tag=rvgearlab-amz-20",
     "description": "The Skechers On-the-go 600 offers a lightweight cushioning midsole, a contoured comfort footbed and a soft woven mesh upper. A hook-and-loop strap closure and multi-directional traction outsole add fit and grip, and the sandal is machine washable.\n\nCompared with the Chaco, it costs about half as much and suits paved paths and town better than rough trail. Next to the UBFEN, it has a contoured footbed and an easy-care build.\n\nIt suits women who want an easy-wearing sandal for vacations, walks and light trails. Machine washing keeps it fresh.",
     "specs": [
       "Contoured comfort footbed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B2Exwa41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ83NKWH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ83NKWH?tag=rvgearlab-amz-20",
     "description": "The UBFEN Light weighs about 175 grams per shoe, with arch support, a rubber outsole for all-terrain grip and lint-free hook-and-loop closures. The breathable design is pitched for hiking, walking, beach and travel.\n\nIt is lighter than the Chaco and Skechers, and carries less structural detail. Compared with the WHITIN, it is more cushioned and lighter on the foot.\n\nIt suits women who want a feather-light sandal for long days on varied ground. The adjustable closures fit different foot shapes.",
     "specs": [
       "About 175g per shoe",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Z21ySILFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NBVYTJY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NBVYTJY?tag=rvgearlab-amz-20",
     "description": "The WHITIN Hiker has an EVA midsole for arch support and shock absorption, three adjustable hook-and-loop straps and a deep heel cup. Quick-dry webbing and a durable anti-skid rubber outsole make it usable as a river sandal.\n\nAgainst the UBFEN Light, it has a deeper heel cup and a more protective design. It costs less than the Skechers On-the-go.\n\nIt suits women who want a secure, quick-drying sandal for streams and trails. The rugged wrap protects against abrasions.",
     "specs": [
       "EVA midsole, arch support",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xQDm+-5xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PYJKZHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PYJKZHW?tag=rvgearlab-amz-20",
     "description": "The YOCCI Sport has a cushiony EVA yoga mat insole, built-in arch support the listing describes as helping control pronation, and padded heel straps. The rubber outsole is textured for extra grip, and hook-and-loop closures adjust the fit.\n\nIt is the lowest-priced pair in the group and adds padded heel straps that none of the others list. Compared with the WHITIN Hiker, it is softer and less rugged.\n\nIt suits women who want a cheap, comfortable sandal for beach, pool and easy trails. The padded heel straps reduce rubbing.",
     "specs": [
       "EVA yoga mat insole",

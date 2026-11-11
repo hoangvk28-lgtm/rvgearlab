@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CLXsxMhvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSK3XP5R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSK3XP5R?tag=rvgearlab-amz-20",
     "description": "The ADUST is a 3-in-1 camping fan with a light, a power bank and a 20000mAh battery. It offers 45 or 90 degree auto oscillation, 270 degree manual pivoting and four wind speeds listed for 12 to 58 hours.\n\nIt has a sleep mode that turns off beeps and indicator lights, which none of the other four list. That feature and the oscillation put it ahead of the Coolice on night use.\n\nIt suits a camper who wants dark nights in the tent without a blinking indicator. The remote and the base buttons both work.",
     "specs": [
       "20000mAh with power bank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RY0AaHd7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F37WHCCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F37WHCCJ?tag=rvgearlab-amz-20",
     "description": "The geonfi is an 11-inch hanging fan with a 360 degree LED ring light, a 10040mAh battery and a USB-C charge port. It lists up to 38 hours of runtime and a remote with 2, 4, 6 and 8 hour timers.\n\nWhere the ADUST and Coolice use a lantern, the geonfi surrounds the fan with a ring that lights the whole tent evenly. Its brushless motor and auto blade stop add a layer of safety.\n\nIt suits a family tent where an even light matters as much as the breeze. FCC and CE marks are named on the listing.",
     "specs": [
       "360 degree LED ring light",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ha9f+oyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS6P2M1N?tag=rvgearlab-amz-20",
     "description": "The Coolice has a 12000mAh battery, three wind speeds and a lantern with nine lamp beads rated at 600 lux. It charges through a USB-C port rated 5V/2A and includes a foldable hook and a remote with timers.\n\nIt trades the oscillation of the ADUST for a brighter, simpler lantern. The head rotates 360 degrees both ways, so you aim the air instead of sweeping it.\n\nIt suits a solo or couple tent where a quick remote and a bright light are what you use at night. The hook folds flat for packing.",
     "specs": [
       "12000mAh, 600 lux lantern",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WiiNQqhBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J7K569?tag=rvgearlab-amz-20",
     "description": "The XTAUTO puts 54 high-intensity LED chips at 500 lumens around a fan with three speeds and a 4000mAh battery. Four indicators show the charge, and the runtime is listed as six to eight hours.\n\nNext to the Coolice it gives a 360 degree light spread in a much smaller body. Magnets and a foldable hook let it mount to a metal pole or hang from a loop.\n\nIt suits a short trip where the light is the main need. The fan is a bonus.",
     "specs": [
       "54 LED chips, 500 lumens",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f83bRsK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWQF31DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWQF31DW?tag=rvgearlab-amz-20",
     "description": "The Yorflowe is a 9.25 by 3.53 inch ceiling fan that weighs 0.86 lbs (390g) with four speeds, three light brightness levels and 2, 4, 6 or 8 hour timers. A 7200mAh battery gives up to 12 hours of cooling or 20 hours of light after a four to six hour charge.\n\nIt is the least expensive of the five. The detachable blade design packs flatter than the geonfi's ring.\n\nIt suits a backpacker or a budget camper who wants a night light and a small fan. The compact body slips into a pocket of a pack.",
     "specs": [
       "7200mAh, 4-6 hour charge",

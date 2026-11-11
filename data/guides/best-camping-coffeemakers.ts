@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-eyhWUo6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00005NCWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00005NCWQ?tag=rvgearlab-amz-20",
     "description": "Farberware is an 8-cup stainless steel percolator polished to a mirror finish. It uses a permanent filter basket, so paper filters stay off your packing list.\n\nNext to the Stansport it is a heavier, more durable build, and it is the only stovetop pot here that is fully immersible and dishwasher safe. That makes washing it at a campground spigot or at home simple.\n\nIt suits campers who want one dependable pot for a small group. Pour a round for four people and you are done.",
     "specs": [
       "8-cup stainless percolator",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEN+VJNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8R799MR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8R799MR?tag=rvgearlab-amz-20",
     "description": "Stansport is a stovetop percolator made for any non-electrical heat source, from gas flames to charcoal grills and open fires. An aluminum base heats quickly and it suits most 1-burner and 2-burner camp stoves.\n\nThat range of heat sources gives it more flexibility than the plug-in Keurig and BLACK+DECKER, which are tied to an outlet. It is lighter than the stainless Farberware.\n\nPick it if your trips swing between a camp stove one weekend and a campfire grate the next. It handles both without fuss.",
     "specs": [
       "Any non-electric heat source",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gc89crJgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-amz-20",
     "description": "Odoland bundles a 1.2L hard anodized aluminum kettle with a nonstick coating, a foldable camping mug and a coffee filter. It runs on a gas stove or over firewood, with a heat-resistant folding handle.\n\nIt is smaller than any percolator here, so it fits a small pack or a kayak hatch. The included mug means your first cup needs no extra gear.\n\nSolo hikers and bikepackers will like that it handles hot water for oatmeal as well as coffee. It stows in a mug-sized space.",
     "specs": [
       "1.2L hard anodized kettle",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BfY6bl1BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001J1L59E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001J1L59E?tag=rvgearlab-amz-20",
     "description": "Primula is a cast aluminum stovetop moka pot that yields six demitasse servings. You fill the lower chamber with water, add ground coffee to the filter and set it on a burner.\n\nIt is the least expensive brewer in this list and the only one that makes a concentrated, espresso-style cup. The cast body spreads heat evenly.\n\nChoose it if you like short, strong coffee or want to add milk for a camp latte. It stays small enough to live in a camp box.",
     "specs": [
       "Cast aluminum moka pot",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T1RLj54KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMSTSYL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMSTSYL7?tag=rvgearlab-amz-20",
     "description": "Keurig K-Mini Mate is about 4 inches wide, brews a single cup up to 12 oz and fits travel mugs up to 7.25 inches tall. It is a pod machine, so there are no grounds or filters to deal with.\n\nAmong the plug-in brewers it uses the least counter space, which matters in a camper van or an RV galley. Cleanup comes down to tossing the used pod.\n\nRV owners and powered-site campers who want a quick single cup before packing up will enjoy it. Pair it with your own travel mug and you are out the door.",
     "specs": [
       "4 inch wide single-serve brewer",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJ9JAUWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8B9V7HR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8B9V7HR?tag=rvgearlab-amz-20",
     "description": "BLACK+DECKER is a 12-cup drip brewer with a Vortex showerhead that saturates the grounds evenly. A Sneak-A-Cup feature pauses the flow so you can pour early, and a no-drip spout keeps the table dry.\n\nIt brews more than any other pick here, stovetop or plug-in. The removable basket takes basket-style paper filters and is dishwasher safe.\n\nA good fit for group campgrounds, cabins and big RV sites where power is part of the deal. Set it up once and it brews while you cook.",
     "specs": [
       "12-cup drip brewer",

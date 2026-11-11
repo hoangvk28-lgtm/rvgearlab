@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrhdI6ExL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGDH65W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGDH65W?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 3000W provides 3000W continuous pure sine power with 6000W surge on startup, aimed at heavy loads such as a window air conditioner. The listing describes ultra-low no-load loss, eight-fold protection covering low and high voltage, over and under temperature and overload, an LCD for input and output voltage, battery level and output power, and auto fans in an aluminum alloy housing. It notes that power readings can deviate slightly.\n\nIt ranks first because at $199.99 it is $20 more than the DEECHI 3000W and $122.99 less than the Renogy P2. In exchange for the lower price it lacks the Renogy's explicit UL 458 and CSA certification text, though the ALLWEI 1000W sibling states an ETL listing. It is also $90 less than the ZETAWALE 3000W.\n\nPick it if you want a clean 3000W inverter at the lowest price that still has real protections. The caveat is that the 6000W surge duration is not given and the certification is not stated for this model.",
     "specs": [
       "3000W, 6000W surge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410qSJHDO5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096MKPQ1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096MKPQ1M?tag=rvgearlab-amz-20",
     "description": "The Renogy P2 3000W is a pure sine inverter with 6000W peak surge, a stated conversion efficiency above 90 percent, three AC outlets and an AC terminal block, a built-in 5V/2.1A USB port and a 16.4ft wired remote. It is listed as UL 458 and CSA C22.2 No. 107.1 certified, has a metal housing and high-speed ventilation fans, and shows LED indicators for under and over voltage, over-temperature, overload and short circuit.\n\nIt ranks second because certification is the only thing it clearly does better than the ALLWEI 3000W, and it costs $122.99 more. Against the DEECHI it costs $142.99 more. You are paying for the standard names in the listing and for a brand that publishes manuals, not for extra features. The terminal block is useful for hardwiring.\n\nChoose it if a named standard matters to you or to an installer. The caveat is the price and the 5V/2.1A USB port, which is slow.",
     "specs": [
       "3000W, 6000W surge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5178pCjRStL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJSF1B5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJSF1B5?tag=rvgearlab-amz-20",
     "description": "The DEECHI 3000W is a pure sine inverter with 3000W continuous and 6000W peak in a sturdy aircraft aluminum shell. It has four standard North American AC outlets, two USB ports, an 18W Type-C port and a hardwire kit, dual intelligent temperature-controlled fans, and a 16.5ft wired remote with a color display. It works with 12V or 12.8V batteries and is described as designed for 24/7 uninterrupted use.\n\nIt ranks third because it is the cheapest pick here at $179.99, which is $20 less than the ALLWEI 3000W, and it has more outlets and a hardwire kit. It does not state the certification or the surge duration, and it is $109.99 less than the ZETAWALE 3000W for similar output.\n\nPick it if you want the lowest price and a hardwire option. The caveat is the thin documentation and the 24/7 claim, which depends on your battery and cable.",
     "specs": [
       "3000W, 6000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41suSTCOQ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDX5ZG51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDX5ZG51?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE 3000W is a pure sine inverter with 3000W continuous and 6000W peak output and four AC outlets, USB and Type-C ports, and heavy-duty AC terminal blocks. A 14.76ft wired remote displays battery voltage, AC output voltage and load wattage, and the listing names overload, over-voltage, low voltage, over-temperature and short circuit protection. It is intended for power outages, RV travel and off-grid solar.\n\nIt ranks fourth because at $289.99 it is $90 above the ALLWEI 3000W and $109.99 above the DEECHI, with similar features and no named certification. Its edge is the terminal blocks together with four outlets, yet the DEECHI offers a hardwire kit for less.\n\nChoose it if you like its remote layout and already own the sibling ZETAWALE 1500W. The caveat is the price premium for no stated advantage.",
     "specs": [
       "3000W, 6000W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51p1criAAYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMNMN3LK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMNMN3LK?tag=rvgearlab-amz-20",
     "description": "The Femotic 3000W is a pure sine inverter charger with an automatic transfer switch, 3000W continuous and a 6000W capacity for surge. The listing says it can drive appliances such as air conditioners, works with gel, AGM, SLA and other battery types, has a full set of protections, and an LCD with real-time input and output voltage, battery status and charging information.\n\nIt ranks fifth because it brings charging at $399.99, which is $398.01 less than the ACOPOWER 3000W and $77.01 more than the Renogy P2. Versus the ZETAWALE it costs $110 more, and that buys the charger and transfer switch. The excerpt does not list lithium compatibility or charge amps.\n\nPick it if you need one box to invert, charge and switch on a lead-acid or AGM bank. The caveat is that charge current is not given, so ask before you rely on it.",
     "specs": [
       "3000W inverter charger",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HSKwTnq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNHG15J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNHG15J?tag=rvgearlab-amz-20",
     "description": "The ACOPOWER 3000W is a three-in-one pure sine inverter, adjustable battery charger and automatic transfer switch. The listing names lithium, gel, AGM and flooded charging plus programmable settings, and says it transfers between AC input and inverter power automatically for RVs, cabins and boats. Its title says 120A, but a bullet says a built-in 50A battery charger, so the actual charge current needs checking.\n\nIt ranks last because it costs $798, $398.01 above the Femotic and $598.01 above the ALLWEI 3000W. What you pay for is lithium charging, programmable profiles and a bidirectional design. The conflicting 120A and 50A figures are a flag.\n\nChoose it for a permanent lithium system with shore power. The caveat is the price and the charging figure, so confirm the amps from the manual.",
     "specs": [
       "3000W inverter charger",

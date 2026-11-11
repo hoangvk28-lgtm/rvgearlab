@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JgKNWHzeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44PMCZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44PMCZD?tag=rvgearlab-amz-20",
     "description": "The Fadoub is a self-adhesive nylon patch roll in black, 4 by 63 inches. The listing says it bonds to nylon, polyester, canvas, cotton, denim and blends, with no sewing, ironing or heat gun.\n\nAgainst the Cahomo and KING MOUNTAIN nylon rolls it matches the 4-inch width and costs a little less than either. Its range of fabrics is stated more broadly than the nylon-only Cahomo.\n\nIt suits a camper who wants one cheap roll that handles tent, jacket and pack repairs. The roll fits in a drawer or a gear bag.",
     "specs": [
       "4 x 63 inch nylon roll",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeRt7nqlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8PNQJ8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8PNQJ8L?tag=rvgearlab-amz-20",
     "description": "The Cahomo tape is a ripstop nylon self-adhesive roll sold in two specifications, about 3 by 79 inches or 3.9 by 7.9 inches. It is aimed at tents, umbrellas, down jackets and sleeping bags.\n\nIt runs 3 inches wide against the Fadoub and KING MOUNTAIN rolls at 4, and its 79 inches makes it the longest of the nylon rolls. Ripstop weave matches the look of a ripstop tent wall.\n\nIt suits a camper who wants a long, narrow strip for a seam or a long tear. The color is black.",
     "specs": [
       "3 x 79 inch ripstop nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D9p3XBQnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGC26D4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGC26D4D?tag=rvgearlab-amz-20",
     "description": "The KING MOUNTAIN is a 4 by 63 inch nylon repair tape with a waterproof face and a fabric-specific adhesive. The listing calls it wear- and scratch-resistant and offers a full exchange or refund.\n\nIt matches the Fadoub's 4 by 63 inch size and adds a stated customer-service promise. The adhesive is said to be 20 percent stronger than other repair tapes.\n\nIt suits a camper who wants a refund policy behind the roll. The name is easy to find again for a refill.",
     "specs": [
       "4 x 63 inch nylon tape",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fGbsyT4VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFLQDLTF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFLQDLTF?tag=rvgearlab-amz-20",
     "description": "The OAZ set holds eight nylon repair patches, each about 7.87 by 5.9 inches, with a self-adhesive back. The listing says the glue volume is up 20 percent and the patches are waterproof and lightweight.\n\nUnlike the Fadoub, Cahomo and KING MOUNTAIN rolls, it comes as sheets, so you cut from a flat patch rather than a long roll. The instructions list four steps, from cleaning to pressing.\n\nIt suits a camper who prefers flat patches to roll tape. Each patch can be cut into shapes.",
     "specs": [
       "8 pieces, 7.87 x 5.9 inch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-leSlZOiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBM5K5SH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBM5K5SH?tag=rvgearlab-amz-20",
     "description": "The Tarpware tape is a 3 inch by 30 ft black fabric tape made for RV awnings, sails, tarps, tents and boat covers. The listing says it forms a waterproof seal, resists yellowing and is nearly invisible against awning fabric.\n\nIt is the longest roll in the group at 30 feet and the cheapest, and it is built for larger awnings and tarps rather than jackets. The listing says it withstands rain, snow and extreme temperatures.\n\nIt suits an RV or canopy owner who needs a long, heavy-duty tape. No sewing or heat is needed.",
     "specs": [
       "3 in x 30 ft black tape",

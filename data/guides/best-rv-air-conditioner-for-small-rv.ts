@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CL-L4q20L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXHZ72?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 Series is a 13,500 BTU rooftop unit that the listing says is 14 percent lighter than Brisk II models and backwards-compatible with existing Dometic and competitor air distribution boxes. It lists higher cooling capacity and airflow than competing rooftop units.\n\nAgainst the Dometic FreshJet 5, it costs about half and has a stated capacity of 13,500 BTU. Against the VEVOR 13.5K, it offers an established brand and a clear compatibility path.\n\nBest for small trailers and Class C rigs that want a trusted swap. The lighter build helps on a small roof.",
     "specs": [
       "13,500 BTU rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LdKJ+FnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYJFMQBH?tag=rvgearlab-amz-20",
     "description": "The VEVOR RV Air Conditioner is a 13,500 BTU non-ducted rooftop unit with 3,956W power output and R32 refrigerant. It includes an air distribution box, operation panel and installation parts, and it fits a standard 14.25 by 14.25 inch vent.\n\nAgainst the Dometic FreshJet 3 13.5K, it costs less and includes the ADB and panel in the kit. Against the Dometic FreshJet 5, it is far cheaper and louder at 65 dB.\n\nBest for small RV owners who want a low-cost kit. Auto, Cooling and 3-speed fan modes are included.",
     "specs": [
       "13,500 BTU non-ducted",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PgwkwN6TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GNTGJQNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GNTGJQNS?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 5 Series is a 15,000 BTU mechanical low-profile unit with a heat pump. It has a built-in hard start for smoother startups, an optimized blower that cuts noise by up to 9 dB, a 10.5 inch low profile and a steel-reinforced base.\n\nAgainst the Dometic FreshJet 3 13.5K, it adds a heat pump and a hard start at about double the price. Against the VEVOR 13.5K, it is much quieter and lower in profile.\n\nBest for small RV owners who want the quietest, most refined rooftop unit. The hard start eases generator loads.",
     "specs": [
       "15,000 BTU heat pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMpSH5tFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4VWSK2M?tag=rvgearlab-amz-20",
     "description": "The COSTWAY RV Window Air Conditioner is an ETL-certified 6,500 BTU unit with 118 CFM airflow. It offers WiFi app control, Alexa and Google Home voice control, a 24 hour timer and about 50 dB noise.\n\nAgainst the GETUHAND 5200, it offers more BTU and smart control but needs a window. Against the rooftop units, it needs no roof cutout.\n\nBest for small campers or vans with a window that can host a unit. The smart features add convenience.",
     "specs": [
       "6,500 BTU window unit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41useishziL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY6FGVF2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY6FGVF2?tag=rvgearlab-amz-20",
     "description": "The GETUHAND Portable Tent Air Conditioner is a 5,200 BTU unit with a GMCC compressor that the listing says can drop the temperature by 18 degrees F in 5 minutes. It uses 400W, weighs 33 pounds at 22.4 by 11.2 by 13.8 inches and cools up to 108 square feet.\n\nAgainst the COSTWAY Window 6500, it needs no window and costs less. Against the rooftop units, it weighs 33 pounds and installs in minutes.\n\nBest for small campers, vans and truck cabs where a rooftop unit is too much. Four modes include cool, dry, sleep and fan.",
     "specs": [
       "5,200 BTU portable, 33 lbs",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mi6gP8uoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH56LSVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH56LSVN?tag=rvgearlab-amz-20",
     "description": "The Zynovate RV Air Conditioner Motor is a 1/3 HP dual-speed condenser fan motor at 115V and 4.5 amps. It replaces the Fasco D1092 and Coleman Mach 1468-306, and fits Coleman-Mach 3, 3 Plus, 15, 6000 and 8000 series units.\n\nAgainst the full air conditioners here, it is a repair part, not a unit. Against the other picks, it keeps an existing Coleman Mach running.\n\nBest for small RV owners whose Coleman Mach condenser fan has failed. It spares you a full replacement.",
     "specs": [
       "1/3 HP dual-speed fan motor",

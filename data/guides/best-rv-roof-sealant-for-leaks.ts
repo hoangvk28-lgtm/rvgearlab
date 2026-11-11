@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vWMHmxcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DCTBPCK?tag=rvgearlab-amz-20",
     "description": "PAULINN Self Leveling Lap Sealant sets within 30 minutes and cures fully within 24 hours, which are the clearest timing figures in this group. The listing calls it truly self-leveling for flat surfaces, UV and waterproof, and made for EPDM rubber roofs.\n\nAgainst Erigathe, it quotes a faster set but a less detailed tack-free time. Against Dicor 501LSW, it gives cure timing on the listing.\n\nBest for flat lap leaks where you need a quick set. Keep it to horizontal joints.",
     "specs": [
       "Sets in 30 minutes",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517mWhq6oNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MTTDRR?tag=rvgearlab-amz-20",
     "description": "Erigathe is a 2-pack of 10.5 oz tubes with a precision nozzle, described as tack-free in 2 hours and set in about 15 minutes. It lists a -40°F to 200°F range and is meant for roof edges, vents, skylights and exterior trim, and the white sealant is paintable.\n\nAgainst PAULINN Lap, it lists tack-free timing and a nozzle but a slightly slower set. Against Kohree 2 Pack, it adds trim use and paintability.\n\nBest for a repair kit with two tubes and a nozzle. Confirm membrane compatibility.",
     "specs": [
       "2 x 10.5 oz with nozzle",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KuM52fCCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LSW-1 is a 10.3 oz self-leveling lap sealant that works with EPDM, TPO and PVC membranes and adheres to aluminum, mortar, wood, vinyl, galvanized metal, fiberglass and concrete. It is sun-ray stabilized and will not stain.\n\nAgainst PAULINN Lap, it lists more roof types but no set or cure time. Against Kohree 2 Pack, it is a single branded tube.\n\nBest for flat lap leaks where compatibility with named membranes matters. Buy two tubes for a typical roof.",
     "specs": [
       "10.3 oz self-leveling",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQcSeg4CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZP3PHQ3?tag=rvgearlab-amz-20",
     "description": "The Kohree 2 Pack is a self-leveling white sealant said to level within 30 seconds, bonding to EPDM, TPO, PVC, aluminum, steel, glass, mortar and wood. The listing calls it low odor and waterproof.\n\nAgainst Erigathe, it names more bonded surfaces but no tack-free time. Against Dicor 501LSW, it gives two tubes for a similar price.\n\nBest for a budget two-tube leak repair on flat seams. Keep to horizontal joints.",
     "specs": [
       "2-pack, levels in 30 seconds",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uf2nZlOtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7SZQ9MY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7SZQ9MY?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a self-leveling, 100 percent silicone liquid rubber in white. It is sold as a coating-type repair with an optional Ziollo system of cleaner and seam tape.\n\nAgainst the lap-sealant tubes, it is a liquid-rubber product that flows over an area, so it suits flat patch zones. Silicone may resist later coatings and sealants.\n\nBest for flat patch areas where silicone is chosen on purpose. Size is not visible in the listing title, so confirm it.",
     "specs": [
       "100% silicone liquid rubber",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DNuJKNcxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001FCB11O?tag=rvgearlab-amz-20",
     "description": "Dicor Roof Guard is a 1 gallon white roof protectant spray that helps protect roofs from sun, water and grime and avoid oxidation. The listing says it keeps surfaces cleaner with no residue or oily build-up.\n\nIt protects the surface and does not seal a leak, which is why it ranks last. Compared with PAULINN Lap, it fills no cracks or laps.\n\nBest used after a leak is repaired to protect the roof. It will not stop a leak.",
     "specs": [
       "1 gallon roof protectant",

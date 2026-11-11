@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31svk0Ex9pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZTC6V7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZTC6V7M?tag=rvgearlab-amz-20",
     "description": "Fiskars A-Series is a 28 inch chopping axe described for felling small trees and splitting logs. It uses a precision-balanced design with a low-friction coating that reduces drag and keeps the axe from wedging in wood.\n\nIt sits between the 14 inch X7 hatchet and the 33.5 inch THANKSFINE felling axe, which makes it the best size for car campers. The low-friction coating helps it bite and release cleanly.\n\nCampers who process their own firewood will like how it balances. It earns its trunk space every trip.",
     "specs": [
       "28 inch chopping axe",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrCRz6jSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-amz-20",
     "description": "Fiskars X7 is a 14 inch hatchet for chopping small to medium kindling and prepping firewood. Its blade is ground to stay sharper longer, and the head is insert-molded to the handle for durability.\n\nIt is shorter and lighter than the A-Series 28 inch, so you can carry it in a pack. The balanced weight gives power with each swing.\n\nBackpackers and car campers who split kindling will like it. Slide it in a pack and it barely adds weight.",
     "specs": [
       "14 inch hatchet",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IUX+F0w2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR541K78?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR541K78?tag=rvgearlab-amz-20",
     "description": "THANKSFINE is a 4.5 pound felling and splitting axe with a carbon steel head and a 33.5 inch shock-absorbing fiberglass handle. The long handle gives reach and swing control.\n\nIt brings the most weight and reach in the group, and it costs less than the Fiskars A-Series. The fiberglass handle absorbs vibration.\n\nCabin owners and base campers who split lots of logs will like the power. It makes quick work of seasoned rounds.",
     "specs": [
       "4.5 lb carbon steel head",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hH0QEmbkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088FHZ8BG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088FHZ8BG?tag=rvgearlab-amz-20",
     "description": "KSEIBI 274150 is a camping hatchet for splitting wood and kindling. It has a fiberglass shock-reduction handle with an anti-slip grip and works as a hand maul.\n\nIt costs less than the Fiskars X7 and offers its own shock-reducing handle. It is a straightforward tool for light duty.\n\nWeekend campers who need a basic hatchet will like it. Keep it in a camp box for kindling duty.",
     "specs": [
       "Camping hatchet",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r1IUvyuhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKBSM45G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKBSM45G?tag=rvgearlab-amz-20",
     "description": "Freelander is a multi-functional tactical hatchet with a reinforced handle and a sheath. A precision-sharp blade handles cutting and chopping, and it fits in a side pocket of a pack.\n\nIt is the most pack-friendly of the hatchets here and includes the sheath. The tomahawk shape is lighter than the X7.\n\nHikers and bushcrafters who carry a small tool will like it. It stays covered and safe in the pack.",
     "specs": [
       "Tactical hatchet with sheath",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31upSzXIiuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6QJ16RN?tag=rvgearlab-amz-20",
     "description": "DESHIL is a 10 inch mini hatchet with a carbon steel 45 head that has been heat treated with a six-step process. It has a fiberglass shock reduction handle and a flat back for use as a hammer.\n\nIt is the smallest and cheapest axe in the group, and the hammer back drives tent stakes. It comes with a sheath.\n\nBackpackers and light campers will like how small it is. It tucks into a day pack easily.",
     "specs": [
       "10 inch mini hatchet",

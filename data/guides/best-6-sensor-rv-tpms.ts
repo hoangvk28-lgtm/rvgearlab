@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+7T-HYBiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK1CMD71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK1CMD71?tag=rvgearlab-amz-20",
     "description": "B-Qtech's six-sensor kit uses flow-through sensors, a 3.2 inch LCD, solar and USB charging and a repeater. B-Qtech's six-sensor TPMS uses flow-through transmitters, a 3.2 inch HD LCD, solar and USB charging and a repeater to enhance the signal. The listing says the flow-through design lets you inflate without removing the sensors.\n\nIt lets you add air without removal, unlike the Tymate kits, and costs more. It needs sturdy valve stems.\n\nBest for a six-wheel rig that wants flow-through and a repeater. Check valve stem type, since flow-through sensors need sturdy stems.",
     "specs": [
       "6 flow-thru sensors, repeater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X7WLNOsfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1GRXVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1GRXVM?tag=rvgearlab-amz-20",
     "description": "Tymate's TM12 six-sensor booster kit has IP67 external sensors and a display that supports up to 12 tires. Tymate's TM12 six-sensor booster kit includes IP67 external sensors with six alarm modes, a color display that supports up to 12 tires and a booster for range. It charges by USB-C or solar.\n\nIt costs more than Tymate TM12 6-Sensor without a booster and a little more than Tymate TM3 6-Sensor Booster. It has a newer display.\n\nBest for a longer rig with six tires. It is the repeater-equipped TM12 for a long rig.",
     "specs": [
       "6 external sensors plus booster",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ynT45McL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-amz-20",
     "description": "Tymate's TM3 six-sensor booster kit has five alarm modes and solar plus USB charging. Tymate's TM3 six-sensor booster kit offers five alarm modes, solar and USB charging, an auto-adjusting color LCD and sensors with repeater-based range extension.\n\nIt costs less than Tymate TM12 6-Sensor Booster and lists fewer alarm modes. Its sensor type is not stated.\n\nBest for a six-tire rig on a mid budget. It is a booster kit with a solar display for a longer rig.",
     "specs": [
       "6 sensors plus booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411sKonF-OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDNYKWN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDNYKWN7?tag=rvgearlab-amz-20",
     "description": "Flydew's six-wheel kit has a 4 inch LCD, six sensors and dual charging. Flydew's six-wheel TPMS has a 4 inch LCD, six dedicated sensors with a stated 0.3 second response and five monitoring modes with dual charging.\n\nIt costs far less than the Tymate booster kits and lists no repeater. It states a 0.3 second response.\n\nBest for a budget six-tire rig that needs a bigger screen. It is a six-wheel kit with a larger screen than the other Flydew.",
     "specs": [
       "6 sensors, 4 inch LCD",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vg7yqG05L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ7L4RXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ7L4RXN?tag=rvgearlab-amz-20",
     "description": "Marcala's V2.0 six-sensor kit uses a hub rated for 26 ft and lists a 0 to 144 psi range. Marcala's V2.0 six-sensor kit includes a hub rated for 26 ft range and a 0 to 144 psi range, and the listing says an extender sold separately boosts the signal up to 80 ft. Sensors update every second while driving.\n\nIt costs less than Flydew 6-Wheel 4 in but needs a separate extender to reach 80 ft. It updates every second while driving.\n\nBest for a short rig with six tires. Plan for the range extender if the rig is long.",
     "specs": [
       "6 sensors and hub, 0 to 144 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lH2A6ijQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY74168Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY74168Q?tag=rvgearlab-amz-20",
     "description": "LETOURWM's six-sensor kit lists a 0 to 144 psi range, six alarm modes and voice alerts at the lowest price. LETOURWM's six-sensor TPMS lists a 0 to 144 psi range, six alarm modes, a high-definition display with auto brightness and voice alerts, and solar plus USB charging. The sensors screw onto the valve per the listing.\n\nIt is the cheapest here and its listing is thin on warranty and repeater details.\n\nBest for a very low budget six-wheel rig. It covers six wheels at a very low price, so confirm warranty and support.",
     "specs": [
       "6 sensors, 0 to 144 psi",

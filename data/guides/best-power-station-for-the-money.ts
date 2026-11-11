@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41njOPSiAVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYF47VK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYF47VK2?tag=rvgearlab-amz-20",
     "description": "The DYNESS 2048Wh station gives you 2,048Wh of LiFePO4 storage and 2400W of output for $539.99, which works out to roughly 26 cents per watt-hour, the best ratio in the group. Charging is quick: 0 to 80 percent in 1.8 hours and a full charge in 2.3 hours from AC, and combining 1100W of AC input with 500W of MPPT solar speeds that up. Thirteen output ports include six AC outlets and a 100W USB-C port, and a built-in UPS switches over during an outage.\n\nCompared with the DABBSSON 2000L, which sits one step below it, the Dyness costs $109 less for the same 2,048Wh capacity and a larger 2400W continuous rating, while the DABBSSON answers with a lighter 41 pound body and a faster full recharge. Compared with the BLUETTI AC180, the Dyness costs about $90 more and delivers nearly double the energy, which is the better trade for overnight use.\n\nIt suits a camper, a van owner or a household that wants a fridge, a coffee maker and a CPAP covered overnight. A 4,000-plus cycle rating gives the battery a life of ten years or more of regular use.",
     "specs": [
       "2,048Wh LiFePO4, 2400W output",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC180 packs 1,152Wh of LiFePO4 storage and an 1800W inverter, with a Power Lifting mode that boosts output to 2700W, into a $449 package. It can fill in about one hour from the wall at 1440W, or in 2.8 to 3.3 hours from a 500W solar input, and the UPS function switches in 20 milliseconds. The kit includes AC, car and solar charging cables and a five-year warranty with customer support.\n\nAgainst the CTOLITY AP1000 below it, the AC180 adds 128Wh of capacity and a 2700W boost mode for $49 more, plus a longer warranty and a mature app. Against the DYNESS 2048Wh above, it offers a stronger brand and a faster one-hour fill and gives up about 900Wh of storage.\n\nIt works well for weekend camping, an RV fridge for a day and emergency backup, where a recognized brand and a long warranty matter more than the last watt-hour. Eight outlets, with a boost mode when you tap the Bluetti app, handle most small appliances.",
     "specs": [
       "1,152Wh LiFePO4, 1800W, 2700W boost",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415pBoECNsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTVWHBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTVWHBG?tag=rvgearlab-amz-20",
     "description": "The DABBSSON 2000L offers 2,048Wh of semi-solid LiFePO4 storage and a 2200W rated output with a 3300W power boost for $649. At 41 pounds it is compact for its capacity, and the maker claims 1.3 times longer runtime than comparable 2,048Wh stations. An AC-only charge reaches full in about one hour, solar input goes up to 800W MPPT, and a UPS-type EPS switch responds in under 15 milliseconds.\n\nCompared with the DYNESS 2048Wh, it costs $109 more and brings a lighter body, faster AC charging and an 800W solar ceiling. Compared with the BLUETTI AC180, it gives you almost twice the storage for $200 more.\n\nIt suits an owner who moves the unit often, such as a camper who loads it in and out of a vehicle, or someone with limited storage space. The Dabbsson app handles remote monitoring, so you can see the charge level from the next room.",
     "specs": [
       "2,048Wh semi-solid LiFePO4, 2200W, 3300W boost",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w6c1Xl83L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-amz-20",
     "description": "The CTOLITY AP1000 stores 1,024Wh in a LiFePO4 pack, delivers 1800W with a 3600W peak and weighs under 25 pounds. For $399.99 you get HyperFlash charging that reaches 80 percent in 45 minutes, plus UPS switching under 20 milliseconds, AC, solar and car charging, and a compact body with a reinforced handle.\n\nCompared with the BLUETTI AC180, the CTOLITY gives about the same output class for $49 less and a lighter body. Compared with the VTOMAN Jump1500X, it adds 196Wh and 300W of output for $50 less, while the VTOMAN adds a jump starter.\n\nIt fits a weekend camper, a tailgater or a van owner who wants to carry the unit with one hand and run a fridge, laptop and lights for an evening. A quiet, compact design also makes it practical to keep in a vehicle.",
     "specs": [
       "1,024Wh LiFePO4, 1800W, 3600W peak",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EtVJ6nsrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDYTJYJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDYTJYJ1?tag=rvgearlab-amz-20",
     "description": "The VTOMAN Jump1500X combines a 828Wh LiFePO4 battery and a 1500W pure sine wave inverter, with a 3000W peak, and a built-in jump start function, for $449.99. Twelve output ports include dual 100W USB-C, and the battery is rated for up to 3,000 cycles to 80 percent. A built-in MPPT supports solar charging, and capacity expands from 828Wh to 2376Wh with a compatible extra battery sold separately.\n\nAgainst the CTOLITY AP1000, the VTOMAN gives up 196Wh and 300W of output and adds a jump starter and an expansion path. Against the ANTPO 500W, it brings 316Wh more capacity and three times the output for $250 more.\n\nIt suits a truck, van or RV owner who wants one box to jump a dead battery and run appliances at camp, and anyone who may later expand to 2376Wh. A 100W USB-C port charges a laptop quickly.",
     "specs": [
       "828Wh LiFePO4, 1500W, 3000W peak",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ngddj4xoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ5ZWHXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ5ZWHXV?tag=rvgearlab-amz-20",
     "description": "The ANTPO 500W is the lowest-priced pick at $199.99, with a 512Wh LiFePO4 battery and a 500W pure sine wave inverter with a 1000W surge. It recharges from 0 to 80 percent in an hour through a 500W wall input, offers three ways to charge, and carries a 24 month warranty with US-based support. Its retro oil-can design stands out at a campsite.\n\nCompared with the VTOMAN Jump1500X, it is $250 less and a clear step down in capacity and output, so it fits a lighter job list. A 512Wh battery runs a laptop, lights and phone chargers for a weekend, and a 500W inverter covers a small fan or a CPAP.\n\nIt works for car camping, a tent weekend or a first purchase for someone who wants to try a power station before investing in a bigger one. A 60W USB-C port charges a laptop directly.",
     "specs": [
       "512Wh LiFePO4, 500W pure sine wave, 1000W surge",

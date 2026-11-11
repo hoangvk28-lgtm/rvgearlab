@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kdo1-9pCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6YF51KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6YF51KY?tag=rvgearlab-amz-20",
     "description": "QEZER fills this bag with 600 fill power duck down and lists a comfort range of 45 to 61F with a limit of 36F. It weighs 1.68 lb, packs to 9.84 x 5.51 inches and has a 400T nylon shell.\n\nIt is the lightest and most affordable down bag here, with the clearest set of printed numbers, ahead of the SYWSKW and HLITMOUT. A double zipper design, chest insulation and a foot zipper add control, and two bags can combine.\n\nA solid pick for hikers who want real down at an honest weight for warm to mild nights. The shape is semi-rectangular.",
     "specs": [
       "600FP duck down, 1.68 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NQz+-szAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TWHJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2TWHJ9?tag=rvgearlab-amz-20",
     "description": "SYWSKW sells a 680FP RDS certified duck down bag with an 86.6 x 33.5 inch cut and a detachable 80 g pillow. The listing gives pack sizes near 7.08 x 11.80 inches and weights of 2.38 and 2.99 lb with the pillow.\n\nIts three fill weights, up to a 0F version, make it the pick for cooler nights among these three. Baffle box construction keeps the down from shifting, and the bag zips to a second one.\n\nBest for backpackers who want a wide cut and a choice of warmth. The reflective drawcords help at dawn and dusk.",
     "specs": [
       "680FP RDS certified down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31--XBo42aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCYZ6FSV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCYZ6FSV?tag=rvgearlab-amz-20",
     "description": "HLITMOUT stuffs its bag with 680 fill power white duck down that is traceable and RDS certified, inside a 400T 40D water-repellent nylon shell. The listing gives 3.20 lb for the 1.76 lb fill version including the pillow, and lighter versions at 0.88 and 1.1 lb of down.\n\nCompared with the QEZER, it covers colder nights with its heavier fills, and compared with the SYWSKW it joins side pockets to make a double. A chest collar and an inner zipper loop add comfort.\n\nRight for trekkers who want a pillow and a choice of fill. The nylon shell sheds light moisture.",
     "specs": [
       "680FP RDS duck down",

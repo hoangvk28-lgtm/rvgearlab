@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fKrlNSdeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NP6R1DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NP6R1DD?tag=rvgearlab-amz-20",
     "description": "The Six Moon Designs Silver Shadow Carbon weighs 6.8 ounces with a carbon fiber shaft and ribs. A silver coating gives UPF 50+ and reflects 99% of UV rays, and the listing says it can cool the air under the canopy by up to 15°F on exposed desert trail.\n\nAgainst the 3F UL Gear, it adds a 37 inch canopy with 360-degree ventilation and a rigid 25 inch length that slides into a side pocket. Compared with the G4Free models, it is built for thru-hiking rather than commuting.\n\nIt suits desert and alpine hikers who spend long days above treeline. It is also designed to work with Six Moon Designs Hands-Free Kits, sold separately.",
     "specs": [
       "6.8 oz carbon fiber frame",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xRdt5wNIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4RK9755?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4RK9755?tag=rvgearlab-amz-20",
     "description": "The 3F UL Gear umbrella has a 37 inch canopy of 20D Dyneema nylon blend and a carbon fiber handle and frame. The Silver model weighs 5.36 ounces, and the listing describes a UV-protective coating and backpack strap clips.\n\nIt is about 1.4 ounces lighter than the Six Moon Silver Shadow and costs less. Against the G4Free carbon model, it adds the strap clips for hands-free use and a thicker, scratch-resistant canopy fabric.\n\nIt suits ultralight hikers who want shade without an extra pack-weight penalty. An EVA handle gives a comfortable grip.",
     "specs": [
       "5.36 oz carbon fiber frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sC9GBdpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSG4D8Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSG4D8Z4?tag=rvgearlab-amz-20",
     "description": "The G4Free Carbon Mini has a 43 inch canopy, carbon fiber ribs, an aluminum shaft and UPF 50+ titanium silver coating. The listing calls out its light weight and a one-year warranty.\n\nNext to the G4Free 42 Inch, it swaps fiberglass ribs for carbon, which saves weight for the pack. Compared with the 3F UL Gear, it is a regular folding umbrella, easier to find in stores and simpler to use in town.\n\nIt fits hikers who also travel and want one compact UPF 50+ umbrella for both. It handles light rain and breeze as a backup.",
     "specs": [
       "43 inch carbon rib canopy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31i5tFb6ZVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V8DG1W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V8DG1W8?tag=rvgearlab-amz-20",
     "description": "The G4Free 42 Inch has a UPF 50+ titanium silver coating and a double-layer vented canopy for airflow. The fully automatic open and close, a three-fold telescopic shaft and fiberglass ribs round out the build.\n\nIt is the easiest of the group to open with one hand, which suits walking with trekking poles. Compared with the Kesheyouxuan, it adds a named UPF 50+ coating and a vented double canopy.\n\nIt suits day hikers and campers who want quick shade at a low cost. The telescopic shaft folds small enough for backpacks and luggage.",
     "specs": [
       "UPF 50+ titanium coating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414+lQb71QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTH5YHY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTH5YHY?tag=rvgearlab-amz-20",
     "description": "The KESHEYOUXUAN Compact is an automatic folding umbrella with a UPF 50+ pongee canopy about 40 inches across and a storage length of roughly 13 inches. The frame mixes aluminum alloy with fiberglass, and the handle includes a hook for hanging.\n\nCompared with the G4Free 42 Inch, it is the cheaper way to get UPF-rated shade. Against the Chinmor Umbrella Hat, it gives a full hand-held canopy that covers the shoulders.\n\nIt suits casual hikers who want sun protection for short trail days at a low cost. The hook handle lets it hang from a strap or tent peg.",
     "specs": [
       "UPF 50+ pongee canopy",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZkXem7ktL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PCND2MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PCND2MQ?tag=rvgearlab-amz-20",
     "description": "The Chinmor Umbrella Hat is a 26 inch Oxford cloth canopy on an elastic headband with an 8-rib metal frame. It blocks UV and sun on a hands-free basis and folds down to fit in a backpack.\n\nUnlike every other pick here, it frees both hands for poles, a camera or a fishing rod. Compared with the Six Moon Silver Shadow, it covers the head and shoulders rather than a full canopy.\n\nIt suits hikers who walk with poles, photographers and anglers. One size fits most adults and older kids.",
     "specs": [
       "26 inch Oxford cloth canopy",

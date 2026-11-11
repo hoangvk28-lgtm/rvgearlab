@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DIlHMU9EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076LRW9LP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076LRW9LP?tag=rvgearlab-amz-20",
     "description": "The Suburban SW12D (5246A) is a 12 gallon porcelain-lined steel tank with direct spark ignition. It has a replaceable anode rod and an optional electric element, plus a flue tube design that slows combustion for better heat transfer.\n\nIt is the lowest-priced model here at about $571 and the simplest version of the SW12 line. Compared with the SW12DE, it leaves out the bundled electric option.\n\nBest for gas-only users who want a familiar Suburban tank at the lowest price. It also suits seasonal campers.",
     "specs": [
       "12 gallon steel tank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GajgK4B8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NCVAEJG?tag=rvgearlab-amz-20",
     "description": "The Suburban SW12DE (5247A) is a 12 gallon heater with DSI and an electric element. It uses a porcelain-lined steel tank with a replaceable anode rod.\n\nNext to the SW12D, it adds electric heating for campsite or generator power at a higher price. It is the standard choice when you want both modes.\n\nA great fit for travelers who camp with full hookups and also boondock. It also suits anyone who wants to save propane.",
     "specs": [
       "DSI and electric element",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513+sasZ9XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06Y1BNKDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06Y1BNKDD?tag=rvgearlab-amz-20",
     "description": "The Suburban SW12DEL (5248A) is a 12 gallon DSI heater with an electric element and a 12VDC relay. It keeps the porcelain-lined tank and replaceable anode of the other models.\n\nCompared with the SW12DE, the relay supports 12V control, which matters in some RV wiring setups. It is priced a little below the SW12DE on this page.\n\nBest for owners whose RV is wired for the relay version. It also suits anyone matching a specific model number.",
     "specs": [
       "DSI and 12VDC relay",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RLwreMwJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N71LBQN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N71LBQN?tag=rvgearlab-amz-20",
     "description": "This Suburban 12 gallon heater with an inside 12V relay is the SW12DEL, model 5248A, sold as a single pack. The listing names the 12 gallon size and the relay directly.\n\nIt is the same model as the NKDD listing and costs slightly less. That makes it a way to buy the same heater from a different seller.\n\nA good option for buyers who have already confirmed they need the 5248A. It also suits those shopping on price.",
     "specs": [
       "12 gallon Suburban",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61QThTqGdBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003ALQC3U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003ALQC3U?tag=rvgearlab-amz-20",
     "description": "The Suburban 1236.2037 is a 12 gallon gas and electric heater with dark spark ignition. The listing describes a porcelain-lined steel tank, an anode rod that protects against electrolysis, and pilot or electronic ignition.\n\nIt carries a three-year limited warranty on the tank and costs the most here. It is the OEM-style part number rather than the SW12 model name.\n\nBest for owners who want to match an OEM part number and the tank warranty. It also suits those who prefer to buy by part.",
     "specs": [
       "Dark spark ignition",

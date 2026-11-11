@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HWijmoc9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPWT4XYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPWT4XYN?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Women's Orthopedic is the most fully built-out of the plantar fasciitis boots here. The listing describes targeted arch support, molded orthotic insoles with thick cushioning, a multi-layer cushioned midsole and a deep-lug rubber outsole on a mid-ankle high top.\n\nCompared with the OrthoComfoot Women's Trekking, it adds a reinforced rubber toe cap and padded ankle lining on top of the same orthotic idea. Next to the OrthoComfoot Men's, it puts more attention on a roomy toe box for swollen feet and bunions.\n\nIt is the pick for women who want arch support, a waterproof treated upper and room for sore, swollen feet in a single boot. Adjustable metal laces let you tune the fit around a tender arch.",
     "specs": [
       "Molded orthotic insoles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412UoY6qFCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV2VSVCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV2VSVCF?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Men's is the only men's boot in this list whose listing names plantar fasciitis directly. It combines a contoured built-in arch support, a cushioned insole for long days and a thickened rugged rubber outsole.\n\nWhere the women's OrthoComfoot boots lean on waterproofing and toe room, this one pitches itself at hikers and people who stand for work. Against the NORTIV 8 Tactical, it carries real arch shaping instead of a lightweight fabric build.\n\nIt suits men with arch and heel soreness who split time between trails and standing jobs. Mid-top construction adds ankle stability on rough, uneven ground.",
     "specs": [
       "Contoured orthopedic arch support",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AMmpZ26wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPVPZZNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPVPZZNB?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Women's Trekking brings plantar fasciitis arch support, waterproof materials and a non-slip rubber outsole at the lowest price of the orthopedic group. The listing also describes a wide fit design meant to reduce pressure across the foot.\n\nNext to the OrthoComfoot Women's Orthopedic, it keeps the arch support and waterproofing and leaves out the extra toe cap and ankle padding. It reads as a casual-trek boot rather than a heavier trail build.\n\nIt suits women who want orthotic-style support for walking, travel and light trekking without paying the top orthopedic price. The mid-ankle cut keeps it comfortable for everyday wear.",
     "specs": [
       "PF arch support insole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41epiZkwnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSB442R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSB442R5?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Tactical is a lightweight men's boot with an oxford fabric upper, an inside zipper for fast on and off, and a non-slip outsole. The listing positions it for standing jobs such as warehouse work, delivery and patrol.\n\nIt sits well below the OrthoComfoot boots on price, and it is the lightest feeling option in this list. Against the OrthoComfoot Men's, it trades dedicated arch shaping for a speedy zipper entry and a flexible build.\n\nIt suits men who want a plain, light boot and plan to add their own aftermarket insole. The zipper helps anyone who finds lacing a tender foot a chore.",
     "specs": [
       "Lightweight oxford fabric upper",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515gDuEBqpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBXYP2VR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBXYP2VR?tag=rvgearlab-amz-20",
     "description": "HEYFUN's Pioneer Pro is a two-to-three person aluminum clamshell, 7 inches tall when closed and 39.57 inches high when open. It has four-sided vent windows, a side awning and a flocked floor, and gas struts raise it in about 5 seconds.\n\nIt is the only pick at the cap with a stated opening time and a full hard-shell build, which gives it a faster pitch than the VEVOR with its inflatable poles. The low 39.57 inch opening catches less wind than a tall tent, and it costs more than the AvaaHazerl shell.\n\nIt suits couples who want a quick open-and-close routine and a low roofline on the drive. The side awning adds shade at camp.",
     "specs": [
       "Aluminum hard shell, 2-3 people",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514DhMGyqjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHDQ6RPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHDQ6RPT?tag=rvgearlab-amz-20",
     "description": "The AvaaHazerl suits SUV, truck, Jeep and van racks, with an aluminum shell, stainless steel gas struts and light overall weight. A marine pad sits under the mattress and a condensation layer keeps the interior dry, and it carries a light-snow rating.\n\nIt costs about 200 dollars less than the HEYFUN Pioneer Pro and names Jeep-style racks in its description. Next to the inflatables it offers a rigid lid and quicker closing.\n\nIt suits Wrangler owners who care about roof weight and price. The stainless struts make the lid easy to raise.",
     "specs": [
       "Aluminum shell, stainless struts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wk8lG8HdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTV6715G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTV6715G?tag=rvgearlab-amz-20",
     "description": "The MC TOMOUNT is an inflatable rooftop tent that inflates in 10 minutes or less. It uses heavy-duty 340g TC cotton, a detachable air mattress, a panoramic mesh skylight and an aluminum telescoping ladder rated to 441 pounds.\n\nPriced under every other tent in the group, it also uses a sturdier cotton fabric than the PlayDo. Compared with the hard shells it is quicker to store and slower to set up, and it can also be pitched on the ground.\n\nIt suits stargazers who want a skylight and a breathable cotton shell without paying hard-shell prices. The mattress detaches for use on its own.",
     "specs": [
       "Inflatable, 340g TC cotton",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JxeS2jg0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJSPL1KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJSPL1KZ?tag=rvgearlab-amz-20",
     "description": "The VEVOR rooftop tent has inflatable poles and sleeps 2 adults plus 1 child. The rainfly is 420D Oxford rated 2000mm and the body is polyester-cotton rated 1500mm, with aluminum support poles, a 7-section telescoping ladder to 7.5 feet and a thick foam mattress.\n\nIt adds a three-point support system from the aluminum base plate, ladder and roof, which gives it more wind resistance than the PlayDo. It costs more than the MC TOMOUNT and delivers the highest stated waterproof figure in the group.\n\nIt suits small families who want a sturdy base with ladder and mattress already in the box. Ventilation comes from a mesh window and multiple vents.",
     "specs": [
       "Inflatable poles, 2 adults + 1 child",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41he05cqFmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWZVXDVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWZVXDVR?tag=rvgearlab-amz-20",
     "description": "The PlayDo is an inflatable rooftop tent that measures 7.22 by 5.91 by 4.76 feet, packs to about 29.9 by 19.7 by 12.6 inches and weighs 66.14 pounds. It has no metal rails, a blackout-coated Oxford shell and a 15 cm thick inflatable mattress.\n\nIt is the lightest tent in the group by a wide margin, which eases the load on a smaller roof than the VEVOR or hard shells require. Its manual pump has a pressure gauge, and one person can set it up.\n\nIt suits sedan and compact SUV owners who need to keep roof weight low. It can also float on calm water as an inflatable platform.",
     "specs": [
       "7.22 x 5.91 x 4.76 ft, 66 lb",

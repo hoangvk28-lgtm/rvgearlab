@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u4sfSB-nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1H29N7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1H29N7G?tag=rvgearlab-amz-20",
     "description": "The H&G calcium inhibitor is a garden hose filter filled with NSF-certified food-grade softening resin. The listing says it helps reduce calcium and magnesium, limits hard-water spots and scale, and uses 3/4 inch GHT threads for RV hoses. It is rated for up to 20,000 gallons or 1 to 3 months depending on water conditions.\n\nIt is the only pick here whose listing speaks to calcium, so it ranks first even though it is not a taste filter. Compared with the WLSINJL 5-Stage, it is aimed at scale rather than particles, and costs far less.\n\nBest for RV owners who see white scale on fixtures and want a hose-end step ahead of a carbon filter. The listing says reduce, not eliminate, so expect partial results on very hard water.",
     "specs": [
       "Softening resin, calcium focus",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414KPraZYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F52QGQD1?tag=rvgearlab-amz-20",
     "description": "The WLSINJL 5-Stage is a canister system listed as 0.01 micron and filtering sediments, chlorine, VOCs, heavy metals and odors. It has 1 inch and 3/4 inch adapters, three cartridges and a built-in handle. The listing quotes up to 3,000 gallons.\n\nIt is far larger and pricier than the H&G Calcium Inhibitor, and its listing does not mention calcium or scale. Compared with the hose filters below, it adds more stages and gallons.\n\nPair it with a softening step if scale is your problem. Alone, it handles sediment, chlorine and taste, but the listing makes no hard-water claim.",
     "specs": [
       "5-stage, 0.01 micron title",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure is a GAC and KDF hose filter with a six-step Hex-Flow design, listed to NSF/ANSI 42 and 53 and CSA lead-free to NSF/ANSI 372. It is made in the USA.\n\nAmong the carbon picks, it is the one with the most named certifications. Compared with the GLACIER FRESH 2-Pack, it is a single filter with named NSF standards rather than a pair with a lab claim.\n\nUse it after the H&G Calcium Inhibitor for taste and chlorine. It does not claim to reduce hardness.",
     "specs": [
       "NSF/ANSI 42 and 53 listed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k-Ktv32XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MG54R6F?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH 2-Pack cites independent lab testing for 97.9 percent chlorine reduction, a 20 micron rating and GAC with KDF. It includes one flexible hose protector for a camping season of about 3 months.\n\nIt gives two filters where the Camco Tastepure gives one, and cites a lab chlorine figure, but it offers only one hose protector. Compared with the Camco Tastepure, no NSF standard is named in the highlights.\n\nA decent carbon filter for chlorine taste. It does nothing for hardness.",
     "specs": [
       "97.9% chlorine claim",

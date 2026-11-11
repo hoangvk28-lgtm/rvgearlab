@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q76DFgCbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTMVH2XL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTMVH2XL?tag=rvgearlab-amz-20",
     "description": "The Ponhog is a 30L rolling backpack measuring 12.59 by 6.1 by 17.9 inches, with a padded sleeve for laptops up to 15.6 inches. It has two inset wheels for a smaller footprint, 1680D polyester with a corner guard and stand feet, a USB charging port and a hideaway telescoping handle.\n\nThe inset two-wheel design leaves more interior space than a four-wheel layout. Compared with the Arcoyard, it is slimmer, and the shoulder straps tuck into the back panel.\n\nIt suits commuters and flyers who want a roller that rides like a laptop bag. The locking handle stores under the top cover.",
     "specs": [
       "30L, 12.59 x 6.1 x 17.9 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JURyNPkhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7KQDWV8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7KQDWV8?tag=rvgearlab-amz-20",
     "description": "The Arcoyard rolling backpack measures 13.4 by 8 by 18 inches with a net weight listed at 6 pounds. It has a dual-opening design with vertical and horizontal storage, three compartments, 18 pockets, a retractable aluminum handle and two wide wheels.\n\nIt is the heaviest listed carry here, and it offers the most pockets. Compared with the Ponhog, it adds top-opening access and a splashproof high-density polyester shell.\n\nIt suits travelers on 2 to 3 day trips who like sorting by pocket. The luggage strap slides over a roller handle.",
     "specs": [
       "13.4 x 8 x 18 in, 6 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H3KgK6glL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKP1ZGGR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKP1ZGGR?tag=rvgearlab-amz-20",
     "description": "The Ytonet rolling backpack measures 13 by 8 by 17.7 inches, which the listing says matches US personal item standards. It has hidden shoulder straps, a dual-opening top, a 30L capacity, a 15.6 inch laptop sleeve and an aluminum telescopic rod with quiet rubber wheels.\n\nIt is the slimmest of the three standard rollers and the one that lists a personal item size. Compared with the Arcoyard, it is a touch smaller and plainer.\n\nIt suits travelers who want to roll in the terminal and wear it in tight spots. The hidden straps convert it in seconds.",
     "specs": [
       "30L, 13 x 8 x 17.7 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+LSEzM0+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F629W5RG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F629W5RG?tag=rvgearlab-amz-20",
     "description": "The AUROTIER rolling tactical backpack measures 13 by 17 by 7.8 inches, and the listing says it fits most carry-on and underseat limits. It has an adjustable dual-pole handle, MOLLE webbing, a front loop panel for patches, a lockable zipper setup and a 16 inch laptop section.\n\nIt is the toughest-looking bag here, with a dual-pole handle that gives a firm feel. Against the Ponhog, it adds MOLLE and patch space and fits a larger laptop.\n\nIt suits frequent travelers who want a rugged look. Three carrying options let you roll, grab or wear it.",
     "specs": [
       "13 x 17 x 7.8 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K26XxrJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWHDKLMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWHDKLMQ?tag=rvgearlab-amz-20",
     "description": "The NiceUU is an 80L heavy-duty wheeled duffel measuring 12.6 by 12 by 31.5 inches, with an 8mm shock-absorbing base, five carrying methods and detachable shoulder straps. It folds to 6 by 10.6 by 14.5 inches and has three side pockets.\n\nIt is by far the largest, and it is a duffel more than a backpack. Compared with the Ponhog, it carries several times the volume and folds flat.\n\nIt suits travelers who need a foldable second bag for a bigger trip. Five carry modes include wheels, handles and shoulder straps.",
     "specs": [
       "80L, folds to 6 x 10.6 x 14.5 in",

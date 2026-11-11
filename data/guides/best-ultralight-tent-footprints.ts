@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hBEcqHnQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R5W38TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R5W38TK?tag=rvgearlab-amz-20",
     "description": "The Onewind is built from 1.1 oz 20D ripstop silnylon with a PU 4000mm coating on the face and silicone on the back. It weighs 9.6 oz (270g) and packs to 7 by 17 cm, with multiple attachment points on the edges.\n\nIts 4000mm rating is double the PU2000 polyester REDCAMP sheets, and silnylon sheds water better than the cheaper polyester. It is heavier than the LANSHAN, yet a good deal tougher than the thinnest sheets.\n\nIt suits a backpacker with a one or two person tent who also wants a rain tarp, sunshade or picnic mat from the same sheet. The attachment points let it pitch as a tarp.",
     "specs": [
       "9.6 oz, packs to 7 by 17 cm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313JPQdDalL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07K9XTRGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07K9XTRGB?tag=rvgearlab-amz-20",
     "description": "The LANSHAN is a silicone-coated 40D nylon footprint that weighs 5.3 oz (150g) and is rated to a PU4000mm equivalent. It comes in two sizes: 1-person at 82.7 by 29.5 inches and 2-person at 82.7 by 43.3 inches.\n\nAt 150g it is the lightest listed weight of the six, well under the Onewind at 270g. Elastic cord and stakes (not included) let it connect to a tent frame.\n\nIt suits a solo hiker with a narrow tent who cares more about grams than coverage. Check the size options, because it is a size family, not a single fit.",
     "specs": [
       "5.3 oz (150g)",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kzQhHolpS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SC246Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SC246Y8?tag=rvgearlab-amz-20",
     "description": "The REDCAMP 4-in-1 is a 95 by 116 inch ripstop 210T polyester sheet rated PU2000mm with double-stitched edges. The size adjusts to fit tents of 8 by 10 or 8 by 8 feet, and it packs to 10 by 6 by 1.6 inches in a drawstring pouch at 1.17 lbs.\n\nIt is the largest sheet of the six, and it doubles as a rain tarp, a picnic mat or a beach sheet. A 365-day limited manufacturer warranty comes with it.\n\nIt suits a two to three person tent or a camper who wants a single sheet that moves between tent, beach and picnic. The adjustable size covers two common footprints.",
     "specs": [
       "95 by 116 inches, 1.17 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-y93lhOcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FMF1Z3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FMF1Z3P?tag=rvgearlab-amz-20",
     "description": "The REDCAMP 9x7 is a 106 by 83 inch footprint in 210T ripstop polyester with PU2000mm, rated for 3 to 4 person tents. It weighs 1.06 lbs (480g) and packs to 4.3 by 10.2 inches in a drawstring bag.\n\nIt is smaller and lighter than the 4-in-1, and it is the middle size of the REDCAMP family. It costs less than the Onewind and covers a bigger tent.\n\nIt suits a car camper or a short-distance hiker with a three or four person tent who wants a light footprint. It also ties up as a sun or rain canopy.",
     "specs": [
       "106 by 83 inches, 480g",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pnR9DB2BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YSHB7F5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YSHB7F5?tag=rvgearlab-amz-20",
     "description": "The REDCAMP 55x87 is a 140 by 220 cm (55 by 87 inch) 210T ripstop polyester sheet with PU2000mm, aimed at 1 to 2 person tents. It weighs 0.56 lbs (258g) and packs to 3.14 by 8.6 inches with a drawstring bag.\n\nAt 258g it is almost level with the Onewind and about 100g more than the LANSHAN, at a lower price. It is also lighter than the 9x7 and 4-in-1 REDCAMP models.\n\nIt suits a solo or two-person backpacker on a budget who wants a light polyester sheet. The size family keeps the pack small.",
     "specs": [
       "55 by 87 inches, 258g",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qpAYiDRPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWFQJ194?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWFQJ194?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a 20D nylon multi-use tarp rated 6000 to 8000mm waterproof, sold in three sizes: 47.2 by 27.6, 57.1 by 39.4 and 78.7 by 57.1 inches. It comes with a carry bag and can also cover a car or shade a picnic.\n\nIt has the highest waterproof figure of the six and the lowest price. The tradeoff against the Onewind is less detail on weight and packed size.\n\nIt suits a hiker who wants a nylon footprint in a very small size for a bivy or a one-person tent. The three sizes make it the most flexible of the family.",
     "specs": [
       "20D nylon, 6000 to 8000mm",

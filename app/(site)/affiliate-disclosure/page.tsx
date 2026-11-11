@@ -37,7 +37,7 @@ export default function AffiliateDisclosurePage() {
             When you click a product link on RV Gear Lab and complete a purchase on Amazon, Amazon may pay us a referral fee. This fee is paid by Amazon and is not added to your order.
           </p>
           <p>
-            Our links include an affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">theofficejournal-20</code>) that allows Amazon to attribute the referral to our account. This tag is the only information passed; we do not receive your name, address, or payment details.
+            Our links include an affiliate tag (<code className="font-mono text-xs bg-bg px-1.5 py-0.5 rounded border border-border text-ink">rvgearlab-amz-20</code>) that allows Amazon to attribute the referral to our account. This tag is the only information passed; we do not receive your name, address, or payment details.
           </p>
         </section>
 

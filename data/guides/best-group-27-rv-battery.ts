@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nFGl70ufL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHDG9FQZ?tag=rvgearlab-amz-20",
     "description": "The Power Queen 150Ah is a Group 27 LiFePO4 battery listed as giving 50 percent more usable energy than a typical 12V 100Ah lithium. It lists up to 1920W output per battery, 3840W from a two battery setup, and Bluetooth monitoring.\n\nAt $399.99 it costs $115.00 more than the Power Queen 125Ah at $284.99 and gives 25Ah more. Pick this if you want maximum energy or run an inverter for a microwave. The caveat is the highest price here, and it cannot crank an engine.",
     "specs": [
       "12V 150Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lx+5ml8QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4R47C17?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4R47C17?tag=rvgearlab-amz-20",
     "description": "The Power Queen 125Ah is a Group 27 lithium battery with Bluetooth 5.0 and a BMS with 20 plus protections. It stops charging below 32F and stops discharging below -4F.\n\nAt $284.99 it costs $115.00 less than the 150Ah and $55.00 more than the Mighty Max 27M at $229.99, but delivers about 1600Wh against roughly 600Wh usable from the AGM. Pick this if you want the best value per usable watt hour. The caveat is that charging stops below freezing.",
     "specs": [
       "12V 125Ah LiFePO4",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UFwbwCKDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7M82Q7K?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G27M is a 12V 100Ah Group 27M deep cycle AGM that also delivers 850 CA but only 80 CCA, which is modest for cold starts. It is sealed and maintenance free.\n\nAt $229.99 it matches the Marxon 27M and costs $40.00 more than the Weize at $189.99. Pick this if you need the largest AGM amp hour number here. The caveat is the low 80 CCA, so it suits house duty more than cold cranking.",
     "specs": [
       "12V 100Ah AGM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n3Oxf2T7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQN5377?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQN5377?tag=rvgearlab-amz-20",
     "description": "The Marxon Group 27M is a 12V 92Ah dual purpose battery rated 800 CCA, 1040 MCA and 175 RC, with listed dimensions of 12.05 x 6.61 x 8.19 inches. The cranking numbers are far stronger than the Mighty Max.\n\nAt $229.99 it costs the same as the Mighty Max 27M and gives 8Ah less but 720 more CCA (800 versus 80). Pick this if the battery also starts a motorhome engine. The caveat is that 92Ah means only about 46Ah is usable.",
     "specs": [
       "12V 92Ah AGM",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbW9RSctL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-amz-20",
     "description": "The Weize BCI Group 27M is a 12V 92Ah AGM with 580 CCA and 175 RC, sold as a dual purpose starter and deep cycle battery. The listing says it supports quick charging.\n\nAt $189.99 it costs $40.00 less than the Marxon 27M and has 220 fewer CCA (580 versus 800). Pick this if you want an AGM on a tight budget. The caveat is the lowest cranking rating of the dual purpose group in cold weather.",
     "specs": [
       "12V 92Ah AGM",

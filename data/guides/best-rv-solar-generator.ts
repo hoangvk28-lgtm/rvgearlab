@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zMCcqZTFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2ZCPTNB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2ZCPTNB?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC180 kit pairs a 1,152Wh, 1,800W power station with a 200W solar panel and 11 outlets. The listing says it refills in 4.8 to 9.6 hours from solar, accepts 1,440W flash charging in one hour and can boost to 2,700W in the app.\n\nAt $729 it costs $30 more than the Jackery 1000 v2 and gives 82Wh and 300W more. Against the Anker C2000 it is $170.99 cheaper but holds 896Wh less. Pick this if you want fast charging and a panel included. Caveat: 1,800W will not start a large rooftop AC.",
     "specs": [
       "1152Wh, 1800W AC",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 1000 v2 includes a 200W panel with a 1,070Wh LFP station rated 1,500W AC and 3,000W surge. Jackery lists 70% capacity after 4,000 cycles, which suggests about a decade.\n\nAt $699 it is $30 under the BLUETTI AC180 and the same price as the EcoFlow Delta 3 Classic, offering 46Wh more capacity than EcoFlow. Pick this if long battery life and a simple app matter. Caveat: its 1,500W output is the lowest AC rating here.",
     "specs": [
       "1070Wh, 1500W AC",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k4M4wngWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRMQPZF6?tag=rvgearlab-amz-20",
     "description": "The EcoFlow Delta 3 Classic kit offers 1,024Wh, 1,800W output with 3,600W surge via X-Boost, and a 220W panel. EcoFlow lists 0 to 80% in 45 minutes on AC and a 5.8 hour solar refill.\n\nAt $699 it matches the Jackery 1000 v2 on price but has 46Wh less capacity and 300W more output. Against the BLUETTI AC180 it is $30 cheaper with a larger 220W panel. Pick this if fast AC charging matters. Caveat: panel and station ship separately.",
     "specs": [
       "1024Wh, 1800W (3600W surge)",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 holds 2,048Wh with 2,400W rated and 4,000W peak output, enough, per the listing, for most window and RV ACs. It expands to 4kWh and charges to 100% in 58 minutes, with 800W alternator charging.\n\nAt $899.99 it is $170.99 over the BLUETTI AC180 for 896Wh more storage. It is $899.01 under the Jackery HomePower 3000. Pick this if an AC is on your list. Caveat: the listing title shows the station alone, so panels are extra.",
     "specs": [
       "2048Wh, 2400W (4000W peak)",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20",
     "description": "The Jackery HomePower 3000 holds 3,072Wh with 3,600W AC output (7,200W surge), two 200W solar panels, a 20ms UPS and a 1.7 hour hybrid recharge. It is the only kit here that could run a rooftop AC for a couple of hours.\n\nAt $1,799 it costs $899.01 more than the Anker C2000 and holds 1,024Wh more. Pick this if you want the biggest battery and have storage for it. Caveat: it is a heavy home-backup style unit and the listing gives no weight.",
     "specs": [
       "3072Wh, 3600W AC",

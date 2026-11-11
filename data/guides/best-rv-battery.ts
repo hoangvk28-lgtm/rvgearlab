@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51z6WGt3HJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3TVVD8?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER 12V 100Ah is a Group 24 LiFePO4 battery measuring 6.49 by 10.24 by 8.98 inches and weighing 21.6 pounds. Its listing is unusually specific about how to charge it: a 14.4 to 14.6 volt constant-current, constant-voltage profile, MPPT or PWM solar controllers set to lithium mode, and a DC-DC charger when charging from a generator or alternator. It also states that charging pauses below 32°F and resumes above 41°F, and that discharge stops at minus 4°F.\n\nAt $179.99 it costs $20.00 more than the HeyFuture 100Ah, which is the same Group 24 footprint with Bluetooth, and $33.01 more than the VEMDIA 100Ah. The extra money buys a published charge recipe and a five-year warranty, where the cheaper Group 31 picks leave the charge voltage and warranty length vaguer. Against the Interstate AGM it is $79.96 cheaper while storing 1,280 watt-hours nominal instead of about 840.\n\nPick this if you want the lithium battery whose spec sheet answers the questions that cause real installation mistakes, namely charger settings and cold limits. The caveat is the same one every lithium battery here shares: there is no heater, so a freezing bay means no charging until it warms.",
     "specs": [
       "1,280Wh nominal, Group 24",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTEgM99JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-amz-20",
     "description": "The VEMDIA 12V 100Ah is a Group 31 LiFePO4 battery listed at 24 pounds and 12.9 by 6.7 by 8.5 inches, with a 100A smart battery management system. The listing quotes a full recharge in about five hours from a 14.6V 20A charger, solar panels or an alternator, and an automatic cutoff that stops charging below 32°F. Discharge is stated as workable from minus 4°F to 140°F.\n\nAt $146.98 it is the cheapest lithium battery in this roundup, $9.01 under the Rvpozwer and $33.01 under the SUPER EMPOWER. That works out to about $115 per nominal kilowatt-hour, the lowest figure here. The trade is a longer case than the Group 24 batteries and a listing that gives the cycle claim in two inconsistent forms, with one bullet saying 6,000 cycles at 100 percent depth of discharge and the opening line citing 15,000 plus at 60 percent.\n\nChoose it when your battery tray is Group 31 sized or you simply want the lowest entry price into LiFePO4. Read the warranty terms on the seller page before buying, since the listing text does not state the length.",
     "specs": [
       "24 lb, Group 31",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51E44QPKMLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1TLL48V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1TLL48V?tag=rvgearlab-amz-20",
     "description": "The Rvpozwer 12V 100Ah is a Group 31 LiFePO4 battery whose listing lays out the cycle curve in full: 4,000 cycles at 100 percent depth of discharge, 6,000 at 80 percent and up to 15,000 at 60 percent. It supports up to four in series for 51.2V or four in parallel for 400Ah and lists an operating range of minus 4°F to 149°F. The title says 100A BMS while one bullet says 120A, so the real limit is worth confirming.\n\nAt $155.99 it sits $9.01 above the VEMDIA and $24.00 under the SUPER EMPOWER. All three are 1,280Wh nominal, so cost per nominal kilowatt-hour runs about $122 here versus $115 and $141. What you gain over the VEMDIA is a cycle table that actually lines up with depth of discharge, which matters if you plan to cycle deep every day.\n\nPick it for a Group 31 tray where you want the discharge-depth trade-off in writing. The caveat is the contradictory BMS current figure and a warranty described only as extensive, so ask the seller for the exact term.",
     "specs": [
       "Group 31, 1,280Wh",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414Z1K0814L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR2SDMKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR2SDMKL?tag=rvgearlab-amz-20",
     "description": "The HeyFuture 12V 100Ah is a Group 24 LiFePO4 battery with Bluetooth in the title and a BMS described as dustproof, waterproof and equipped with a low-temperature cut-off. The listing says it can be wired in series or parallel up to four units, reaching 48V and 400Ah, and offers five years of customer service. It describes shock resistance from its trolling motor design, which also suits a bouncing trailer.\n\nAt $159.99 it is $20.00 cheaper than the SUPER EMPOWER in the same Group 24 size and $3.99 more than the Rvpozwer in Group 31. Cost per nominal kilowatt-hour is about $125. What it does not publish in the listing is weight, cycle count or the exact cold-charging threshold, which is where the SUPER EMPOWER is stronger.\n\nPick this if you want a phone view of battery state and a Group 24 fit without paying the SUPER EMPOWER premium. The caveat is that you should confirm the cold cutoff temperature and weight with the seller, since the excerpted listing leaves both out.",
     "specs": [
       "Group 24, Bluetooth",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V9jWpIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Marine/RV battery is a 12V 70Ah pure-lead AGM in a Group 24 case rated at 750 cold-cranking amps. Interstate says the non-alloy lead gives roughly two to three times the life of an ordinary alloy AGM design and that it recharges faster, and it is built to both crank an engine and run accessories. Nominally that is about 840 watt-hours, and a common planning rule limits lead-acid to roughly half of it, near 420.\n\nAt $259.95 it costs $79.96 more than the SUPER EMPOWER, which stores about three times the usable energy once you allow 80 percent depth of discharge for lithium and 50 percent for lead-acid. Its edge is behavior in the cold, since AGM cells accept charge when lithium cells will not, plus the cranking rating, which none of the lithium picks claim.\n\nChoose it when one battery must do double duty, such as starting a generator or small motor and also running lights and a pump. If you want a house bank for a trailer, the arithmetic favors lithium, and the cost per usable kilowatt-hour here is the highest in the table.",
     "specs": [
       "70Ah AGM, 750CCA",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-lhsIsWsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H55NR3HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H55NR3HW?tag=rvgearlab-amz-20",
     "description": "The Daakmax pack contains two 12V 35Ah sealed AGM batteries in ABS cases with M6 terminal bolts, aimed at campers, UPS backup and small solar setups. Wired in parallel they make 70Ah at 12V, about 840 watt-hours nominal and roughly 420 usable at a 50 percent limit, which is the same energy as the single Interstate. The listing gives a one-year warranty and describes low self-discharge for storage.\n\nAt $124.99 for the pair, which is $62.50 each, it is the cheapest buy here and $134.96 less than the Interstate. It is the weakest on usable energy per dollar, about $298 per usable kilowatt-hour at a 50 percent limit, but it is the only option that splits into two small batteries you can carry separately. It has no cranking rating and no published weight, size or cold limits in the listing.\n\nPick this for a pop-up camper, tent trailer or backup that only needs a few hours of light loads. Skip it for a travel trailer with a fridge and inverter, where the capacity runs out quickly and a one-year warranty is short.",
     "specs": [
       "2 x 35Ah AGM",

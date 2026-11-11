@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HdmVIMi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-amz-20",
     "description": "Browning stuffs the Denali with 122 oz of TechLoft Silver synthetic fibers laid in two offset layers, topped with a 210T nylon diamond ripstop shell. The bag measures 86 x 38 inches, weighs 9 lb 9 oz and includes an integrated chest baffle and full-length zipper baffle.\n\nIts -30F title is the lowest in this group, and the offset layer design is aimed at eliminating cold spots that a single-layer synthetic like the Browning Discover -20 can leave. It is far bigger and heavier than the TETON Celsius Regular.\n\nA good fit for sub-zero campers who sled-haul or park at camp. The internal mesh pocket keeps small items from freezing.",
     "specs": [
       "-30F label, synthetic fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314XJA7pIKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGDVC5MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGDVC5MN?tag=rvgearlab-amz-20",
     "description": "Browning rates the Discover to -20F and fills it with TechLoft Silver synthetic insulation in a tapered mummy. The listing names a draft collar, a chest baffle, a full-length zipper baffle and a water-resistant polyester shell, plus a stuff sack.\n\nIt sells for far less than the Browning Denali -30 and the Big Agnes Echo Park 0, and it still carries a sub-zero label. The listing leaves out weight and size, which the Denali prints.\n\nA smart choice for winter campers who want sub-zero synthetic insulation without the top price. A thick pad is a must.",
     "specs": [
       "-20F rated tapered mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GcKtOHxLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSPG728B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSPG728B?tag=rvgearlab-amz-20",
     "description": "Big Agnes sizes the Echo Park for larger campers who want room, with FireLine Max Eco recycled polyester insulation, a Padlok system and a Cinch Pad Sleeve. An oversized draft collar, a zipper draft tube, double zippers and hand pockets round it out.\n\nIt runs a 0 degree label, a notch milder than the Browning bags, and the Park Series bags mate together. The Padlok sleeve keeps you from sliding off your pad, which the Browning Denali -30 does not offer.\n\nBest for larger campers and couples who want a pad-attached bed for base camp. It costs the most here.",
     "specs": [
       "0 degree, FireLine Max Eco",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bXUQJbSAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N7ZACIW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N7ZACIW?tag=rvgearlab-amz-20",
     "description": "The Celsius Regular from TETON carries a 0 degree class label and layers its fiber fill in two sheets. Draft tubes and a flannel-style polyester lining add comfort, and the hood and stuff sack are included.\n\nIt is the lowest-cost bag with a 0 degree label, and the only one that suits both adults and kids. The listing prints no weight or comfort figure, which the Browning Denali -30 supplies.\n\nA fair pick for campers who want a cold-class label on a tight budget. Fluffing the bag and using a camp pad help it perform.",
     "specs": [
       "0 degree class, fiber fill",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v3btxhdhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLH19MX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLH19MX?tag=rvgearlab-amz-20",
     "description": "This Coleman RoadTrip 285 is a stand-up propane grill with three adjustable burners and 285 square inches of cooking surface. Quick-fold legs and wheels make setup easy, an integrated thermometer tracks heat and Instastart ignition lights it without matches.\n\nIt is the only pick here with wheels, which turns a full-size grill into a one-person haul from the trunk. Its standing height means no table is needed.\n\nChoose it for regular tailgaters who feed a crowd. It is the fastest to set up of the four.",
     "specs": [
       "20,000 BTU, 3 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CIn-3XH8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BLHHP7T?tag=rvgearlab-amz-20",
     "description": "The green Coleman RoadTrip 285 matches the stand-up model on power and size, with three adjustable burners, 285 square inches of grilling area and a stated 20,000 BTUs in all. The listing names quick-fold legs and wheels, an integrated thermometer and push-button ignition.\n\nIt is the same grill in a different color and listing, so choose between them on stock and price. Both beat the Cuisinart grills on size.\n\nChoose it if the green color matches your team or your rig. It performs the same.",
     "specs": [
       "20,000 BTU, 3 burners",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bGmSi09bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z4W18QH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z4W18QH?tag=rvgearlab-amz-20",
     "description": "The Cuisinart portable gas grill has an 8,000 BTU burner that the listing says reaches over 600F, with a 146 square inch enameled steel grate that is dishwasher safe. It weighs 10 lbs and measures 19 x 11.5 x 10 inches, with a locking lid and push-button ignition.\n\nIt sets up in under 5 minutes with no assembly, which is faster than the Coleman. It costs about half as much as the RoadTrip.\n\nChoose it for tailgates with a few friends. The locking lid makes it easy to carry.",
     "specs": [
       "8,000 BTU, over 600F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmG6HQrVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00B58A0QU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00B58A0QU?tag=rvgearlab-amz-20",
     "description": "The Cuisinart 14 inch charcoal grill has a 196 square inch chrome-plated grate and weighs only 4 lbs. Dual adjustable vents manage temperature, three lid locks secure it for transport and an enamel-coated firebox has an ash base for cleaning.\n\nIt has a bigger grate than the Cuisinart gas grill and weighs less than half as much. Charcoal takes longer to light, which is the trade for the smoky flavor.\n\nChoose it for tailgaters who like charcoal flavor. It costs the least here.",
     "specs": [
       "196 sq in chrome-plated grate",

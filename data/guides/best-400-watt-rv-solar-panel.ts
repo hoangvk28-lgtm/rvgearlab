@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouu03inTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK146PX4?tag=rvgearlab-amz-20",
     "description": "The HQST 400W set is two 200W N-type panels with 16-busbar Grade A+ cells, a listed efficiency of up to 25.4 percent, an aluminum frame and IP65 protection. The maker calls each panel 13 percent smaller and 14.5 percent lighter than conventional PERC panels, which suits Class B vans and tight roofs. It is rated for 2,400 Pa wind load and a 30-year service life at 87.4 percent output. The price is $206.99.\n\nIt ranks first because two panels means fewer connections and mounts than the 4x100W sets, yet it costs only $32.43 more than the HQST 4x100W and $43.00 less than the AeternaSol bifacial set. It gives up the bifacial gain of the AeternaSol, but on a flat RV roof that gain is small. The listing does not state exact dimensions, unlike the AeternaSol, so check before buying brackets.\n\nPick this if you want the simplest 400W roof array with N-type cells at a reasonable price. The caveat is that two large panels mean a shaded corner affects a bigger share of the output than with four small ones.",
     "specs": [
       "2 x 200W N-type 16BB",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AtaJaT8QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTVRNM7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTVRNM7?tag=rvgearlab-amz-20",
     "description": "The AeternaSol set is two 200W bifacial N-type panels with 18-busbar cells, a listed 25.6 percent efficiency and an IP68 rating from potting technology. Each panel measures 52.76 by 26.38 by 1.18 inches, about 9.7 square feet, so two cover roughly 19.3 square feet. The listing says the rear side can add up to 15 percent more energy under optimal reflective conditions, and that it fits Class B vans. It costs $249.99.\n\nIt ranks second because it costs $43.00 more than the HQST 2x200W and publishes exact dimensions, an IP68 rating, and bifacial capability. Against the JJN bifacial set it costs $10.00 less and is the better documented. On a dark roof the rear gain will be small, so do not count on 15 percent unless the panels sit above a light surface at a tilt. The listing gives no warranty length.\n\nPick this if you want a bifacial set with clear dimensions for planning a van roof layout, or if you plan a ground mount on pale gravel. The caveat is paying a premium for a rear-side gain you may never see on a flat roof.",
     "specs": [
       "2 x 200W bifacial, 18BB",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zeoWxMANL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF7VWBJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF7VWBJN?tag=rvgearlab-amz-20",
     "description": "The HQST 4x100W set costs $174.56, about 44 cents per watt, the lowest of the six. Each 100W panel measures 31.8 by 27.5 by 1.18 inches, about 6.1 square feet, so the four cover roughly 24.3 square feet. The cells are Grade A+ 166mm monocrystalline with 100 percent EL testing at up to 23 percent, with a 2,400 Pa wind and 5,400 Pa snow rating, and a 5-year product assurance with 80 percent output retained at 25 years.\n\nIt ranks third because it takes about 5 square feet more roof than the 2x200W sets (24.3 versus 19.3 square feet by our arithmetic) and uses older cells at 23 percent. In return it costs $32.43 less than the HQST 2x200W and gives you the flexibility of four small panels: you can place them around vents and wire two strings of two to cut shade loss. Wiring four panels also takes more connectors and cable than two.\n\nPick this if you have a cluttered roof where large panels do not fit, or if cost per watt is the priority. The caveat is that you need to plan the wiring, a combiner or series-parallel layout, and a controller sized for about 30 amps.",
     "specs": [
       "Four 100W, 31.8 x 27.5 in",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TT3HoK+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6FG5H8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6FG5H8N?tag=rvgearlab-amz-20",
     "description": "The Traver Force set is four 100W panels using 182mm cells with a 10-busbar layout and a listed conversion of up to 25 percent. The junction box is IP65, the connectors are IP68, and the aluminum alloy frame has four pre-drilled mounting holes. The maker lists a 5-year product assurance and a 25-year performance guarantee. It costs $229.99.\n\nIt ranks fourth because it costs $55.43 more than the HQST 4x100W for a higher listed efficiency of 25 versus 23 percent, which on four panels recovers little roof space but does raise output per square foot. Compared with the HQST 2x200W it costs $23.00 more and needs four mounting sets. The IP68 connectors are a real plus where cable joints get wet.\n\nPick this if you want a four-panel layout with sealed connectors and are willing to pay for newer cells. The caveat is that the listing gives no panel dimensions, so you cannot plan the roof without checking the product page.",
     "specs": [
       "4 x 100W, 182mm 10BB cells",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lOSLnRwXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF27PWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF27PWF?tag=rvgearlab-amz-20",
     "description": "The JJN set is two 200W bifacial panels with 16-busbar N-type cells at 25 percent or more, each weighing 24.3 pounds. The black aluminum frame is rated for 2,400 Pa wind and 5,400 Pa snow, with an IP67 junction box. The maker lists a 10-year workmanship warranty and over 88.9 percent output at 30 years. Note the listing says it contains the panels only. The price is $259.99.\n\nIt ranks fifth: it costs $53.01 more than the HQST 2x200W for a similar N-type design plus bifacial capability, and $10.00 more than the AeternaSol, which lists exact dimensions and an IP68 rating. Its edge is the longest written warranty in the group, a 10-year workmanship term. At 24.3 pounds per panel, the pair adds about 48.6 pounds to a roof.\n\nPick this if warranty length and a stated weight matter most to you. The caveat is the highest price among the 2x200W sets and the unproven bifacial gain on a dark roof.",
     "specs": [
       "2 x 200W bifacial N-type",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jeVOI5H1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W portable weighs 30.2 pounds, folds to 33.7 by 27.95 inches, and comes with a carry case. It uses EL-tested Grade A+ monocrystalline cells reinforced with fiberglass, an ETFE coating, corner protection and an aluminum backsheet, with IP67 waterproofing. The listing names compatibility with Jackery, EcoFlow, Anker and BLUETTI power stations and notes parallel wiring to reduce shade loss. It costs $399.99.\n\nIt ranks last for value only: it costs $193.00 more than the HQST 2x200W set and $225.43 more than the HQST 4x100W for the same wattage. Those dollars buy a single folding unit you can reposition around the campsite and store out of sight, which no roof set offers. It has no fixed roof mounting, so it does not charge while you drive.\n\nPick this if you camp in shade, want to avoid drilling the roof, or feed a power station. The caveat is the premium price, and a power station input limit may cap how much of the 400W you can actually use.",
     "specs": [
       "400W folding, 30.2 lb",

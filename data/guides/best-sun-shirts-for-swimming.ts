@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31x4EpQUmtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071RYCHPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071RYCHPK?tag=rvgearlab-amz-20",
     "description": "The baleaf Swim Shirt is a long-sleeve UPF 50+ shirt in a quick-dry polyester and spandex blend with 4-way stretch. Flatlock seams and a tag-free collar are named to reduce irritation during surfing, swimming, paddling and extended saltwater activities, and raglan sleeves allow full movement.\n\nCompared with the Boladeci Rash Guard, it adds a stated chafe-free construction and stretch. Against the KPSUN Short Sleeve, it gives long-sleeve coverage for the arms.\n\nIt suits men who swim, snorkel and paddle for long stretches and want the best water-specific details. The relaxed fit lets you layer over a swimsuit.",
     "specs": [
       "UPF 50+, 4-way stretch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AgF5RlcyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQHDH4F6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQHDH4F6?tag=rvgearlab-amz-20",
     "description": "The KPSUN Short Sleeve is a rash guard with UPF 50+ fabric that isolates 98 percent of UVA and UVB. Flatlock stitching and a tag-free design reduce skin irritation, and reflective logos add visibility in low light.\n\nCompared with the Kinglaman 4-Pack, it is a single short-sleeve shirt with reflective logos. Against the baleaf Swim Shirt, it leaves forearms uncovered and runs cooler.\n\nIt suits men who swim in warm water and want less fabric on the arms. The listing names swimming, sailing and other sports.",
     "specs": [
       "UPF 50+, blocks 98% UVA/UVB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oj4AjeQgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRHTBYZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRHTBYZK?tag=rvgearlab-amz-20",
     "description": "The Kinglaman 4-Pack contains four long-sleeve UPF 50+ rash guard shirts in different colors. Each is skin-friendly, quick drying and cut in a loose and fitted style, and the pack is described as versatile for running, hiking and swimming.\n\nCompared with the baleaf Swim Shirt, it gives four shirts per order. Against the G Gradual Swim Shirt, it adds the multi-pack value and a looser fit.\n\nIt suits men who swim often and want a fresh shirt each day. The listing names fishing and sport use.",
     "specs": [
       "Four long sleeve UPF 50+ shirts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TEK3jH5nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQL1P4KY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQL1P4KY?tag=rvgearlab-amz-20",
     "description": "The G Gradual Swim Shirt is a lightweight long-sleeve UPF 50+ shirt in 100 percent polyester. A reflective dot design boosts visibility in dim light, and moisture-wicking fabric keeps you dry and cool.\n\nCompared with the Kinglaman 4-Pack, it is a single shirt with reflective dots. Against the Boladeci Rash Guard, it is softer and lighter.\n\nIt suits men who swim and run, or surf and hike, in one shirt. The listing names running, hiking, camping, fishing and surfing.",
     "specs": [
       "UPF 50+ 100% polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VSiKzfwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087J9WMB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087J9WMB9?tag=rvgearlab-amz-20",
     "description": "The Boladeci Rash Guard is a long-sleeve UPF 50+ polyester shirt that the listing says protects from UV without sunscreen on covered skin. It is lightweight, breathable and slightly elastic, and wrinkle resistant for easy care.\n\nCompared with the baleaf Swim Shirt, it costs less and has no stated flatlock seams. Against the KPSUN Short Sleeve, it covers the arms.\n\nIt suits men who want the cheapest swim shirt that still blocks UV. The listing names swimming, hiking, camping, fishing, boating and golf.",
     "specs": [
       "Long sleeve UPF 50+",

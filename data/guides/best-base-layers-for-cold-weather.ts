@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31o3mPD1b3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DR6GMRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DR6GMRP?tag=rvgearlab-amz-20",
     "description": "The CL convallaria Hunting Set is a men's long johns top and bottom in 90 percent polyester and 10 percent spandex with a fleece interior. The listing describes moisture-wicking fibers, four-way stretch and a tagless design with an elastic waistband.\n\nCompared with the CL convallaria A-Black Set, it adds a crew or turtleneck choice and tagless comfort. Against the TACVASEN tops, it includes pants for full coverage.\n\nIt suits men who want a full warm set for hunting, skiing and camping. The fabric is described as pill and shrink resistant.",
     "specs": [
       "90% polyester, 10% spandex",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aODuapvhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XP74JNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XP74JNY?tag=rvgearlab-amz-20",
     "description": "The CL convallaria A-Black Set is a men's fleece-lined top and bottom with moisture-wicking technology, a tagless design and flatlock seams. The listing mentions four-way stretch and a quick-dry fabric blend of 90 percent polyester.\n\nAgainst the CL convallaria Hunting Set, it is a lower-cost sibling with a fly opening and flatlock seams. Compared with the SIMIYA, it is a men's cut with more traditional long john styling.\n\nIt suits men who want the practical features at a lower price. The flatlock seams reduce rubbing.",
     "specs": [
       "Fleece-lined top and bottom",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aOl1mev+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FKZLFSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FKZLFSB?tag=rvgearlab-amz-20",
     "description": "The SIMIYA Fleece Set is a women's thermal top and bottom with a fleece inner layer and a snug, lightweight fit. The listing says it can be worn under jeans or ski pants and offers four-way stretch.\n\nCompared with the Ekouaer, it states a bulk-free fit for layering. Against the TACVASEN tops, it is a full set cut for women.\n\nIt suits women who need a light layer under pants for hiking and skiing. The listing mentions no balling-up and no shrinkage.",
     "specs": [
       "Fleece-lined thermal set",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uRPLB5oaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKN4J6RC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKN4J6RC?tag=rvgearlab-amz-20",
     "description": "The Ekouaer Thermal Set is a women's fleece-lined top and tights in 87 percent polyester and 13 percent spandex. The listing describes fast sweat wicking, four-way stretch and an ultralight fit for hiking, biking and skiing.\n\nAgainst the SIMIYA, it uses a higher spandex share and costs less. Compared with the TACVASEN picks, it is a full set.\n\nIt suits women on a budget who want to try a thermal set. The listing says it can double as pajamas.",
     "specs": [
       "87% polyester, 13% spandex",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yLhgASMjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQDFW4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQDFW4W?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Mock Neck is a men's long-sleeve thermal top in 92 percent polyester and 8 percent spandex with a fleece lining. The mock collar is described as windproof and warm.\n\nCompared with the TACVASEN Crewneck, it adds a collar for the neck. Against the full sets, it is a top only that can pair with your own bottoms.\n\nIt suits men who want neck warmth under a jacket. The listing names hiking, fishing and work as uses.",
     "specs": [
       "92% polyester, 8% spandex",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319frilEq2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCGFXS59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCGFXS59?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Crewneck is a men's long-sleeve thermal shirt in 92 percent polyester and 8 percent spandex with a micro fleece lining. It has a crew neck and raglan sleeves.\n\nCompared with the TACVASEN Mock Neck, it has a lower neckline for easier layering. Against the CL convallaria sets, it is a top only at a lower cost.\n\nIt suits men who want a layer that can be worn alone or under a jacket. The listing says it pairs with coats and jeans.",
     "specs": [
       "Micro fleece lining",

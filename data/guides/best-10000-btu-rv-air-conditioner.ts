@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-TGHeMeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZVCJ2D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZVCJ2D6?tag=rvgearlab-amz-20",
     "description": "The vlim 12V unit lists about 0.3 kWh per hour and up to 10 hours from a 400Ah battery, with smart inverter cooling. The vlim 12V unit is rated at 10,000 BTU and says it uses about 0.3 kWh per hour, running up to 10 hours from a 400Ah battery.\n\nNext to the outequip it gives more stated efficiency numbers, and it costs about 70 dollars less. Its upgraded dual-rotor compressor is aimed at lower vibration than the Treeligo units.\n\nSmart inverter cooling and an upgraded dual-rotor compressor are meant to cut vibration and adjust power to demand. It suits owners who want published power figures to size a battery bank.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bgQEDaB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVG98GD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVG98GD?tag=rvgearlab-amz-20",
     "description": "The KRYSCAPE runs on 12V or 24V with a GMCC inverter compressor and about 250 CFM airflow, and its title lists 40dB operation. The KRYSCAPE is a 12V/24V, 10,000 BTU non-ducted rooftop unit with a GMCC inverter compressor and about 250 CFM of airflow.\n\nIt works on either system voltage, which the SleYuYir and Treeligo units do not offer. It also costs about 27 dollars less than the vlim.\n\nIt lists 40dB operation and says inverter tech can cut energy use by 50 to 60 percent compared with a traditional RV AC. It suits builders who may change battery voltage later.",
     "specs": [
       "12V/24V, 10,000 BTU",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWF6WXVW?tag=rvgearlab-amz-20",
     "description": "The outequip adds a 4,500 BTU PTC heater to 10,000 BTU of 12V cooling and lists a 15 minute cooldown. The outequip is a 12V, 10,000 BTU rooftop unit with a 4,500 BTU PTC heater and a stated 15 minute cooldown.\n\nIt is the only pick here with a heater, and its zinc-coated condenser and EPDM gasket suit outdoor parking. It costs more than every other unit.\n\nIt is built with UV-stabilized ABS, an EPDM foam gasket and a zinc-coated condenser for outdoor use. It suits owners who want a little shoulder-season warmth from one unit.",
     "specs": [
       "12V, 10,000 BTU rooftop",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319ZD1RwQNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXL2GJP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXL2GJP1?tag=rvgearlab-amz-20",
     "description": "The Treeligo 12V rooftop unit gives 10,000 BTU at 45 dB with pre-drilled brackets, a wireless remote and an LCD display. The Treeligo 12V rooftop unit delivers 10,000 BTU of DC cooling at 45 dB, with aerodynamic fan blades and vibration-dampening mounts.\n\nIt costs roughly 400 dollars less than the vlim and keeps the 12V rooftop format. Its listing gives fewer power figures than the vlim or KRYSCAPE.\n\nPre-drilled mounting brackets, a wireless remote and an LCD display simplify setup. It suits budget builders who want a quiet 12V rooftop unit.",
     "specs": [
       "12V DC, 10,000 BTU",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zkzNG3lsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1BSLPWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1BSLPWF?tag=rvgearlab-amz-20",
     "description": "The SleYuYir is a 24V, 10,000 BTU unit with a remote and an energy-efficient low-noise design. The SleYuYir is a 24V, 10,000 BTU rooftop air conditioner with a remote control and a low-noise cooling system.\n\nIt is the pick for 24V systems, which the 12V Treeligo and outequip do not serve. It costs about 60 dollars more than the Treeligo rooftop unit.\n\nIt runs on a 24V system, which suits off-grid and mobile setups that prioritize power efficiency. It suits owners with a 24V battery setup.",
     "specs": [
       "24V, 10,000 BTU",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GqBLCAanL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQDB6V3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQDB6V3C?tag=rvgearlab-amz-20",
     "description": "The Treeligo 12V truck air conditioner is a 10,000 BTU mini split with inverter technology and Energy Saving, Sleep and Power modes. The Treeligo 12V truck air conditioner is a 10,000 BTU mini split sold for semi trucks, campers and similar vehicles.\n\nIt is the least expensive option here and runs with the engine off. A split layout suits semi trucks and campers where a rooftop cut-out is awkward.\n\nInverter technology adjusts compressor speed, and three modes cover energy saving, sleep and power cooling. It suits owners who want a split system for a truck or camper.",
     "specs": [
       "12V mini split, 10,000 BTU",

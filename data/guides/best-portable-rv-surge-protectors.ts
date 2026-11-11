@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT30X is a full electrical management system in portable form, rated for 30 amps and 120 volts at 3,600 watts. It absorbs surges up to 1,790 joules and guards against over and under voltage, open ground and neutral, reverse polarity, a miswired pedestal, accidental 240 volts, surge failure and AC frequency problems. An integrated display makes the readings visible in low light, and it is made in the USA.\n\nCompared with the EMS-PT50X just below it, the PT30X protects a single 120V leg at a lower price and in a smaller body, while the PT50X handles both legs of a 50 amp service. Compared with the SKYFISH RVShield, the Progressive offers a longer fault list at a similar price and the RVShield adds thermal shutoff and a tunable delay.\n\nIt is the sensible choice for a travel trailer or a small motorhome on a 30 amp pedestal, where pedestal faults and low voltage are the realistic threats. An all-weather shield assembly and a tough Lexan housing mean it can sit outdoors through rain and winter nights.",
     "specs": [
       "30A, 120V, 3,600W, 1,790 joules",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X brings the same approach to a 50 amp rig: rated for 50 amps and 120 to 240 volts at 12,000 watts, with surge absorption up to 3,580 joules. It protects against over and under voltage, reverse polarity and surge failure, and its integrated display and LED indicators show what is happening at the pedestal. A portable power strip and fault detection are built in, along with thermal protection and an all-weather shield assembly.\n\nCompared with the EMS-PT30X, the PT50X doubles the amperage and joule rating to cover both legs of a 50 amp service, at about $40 more. Compared with the GEARGO 50 amp unit, the Progressive costs about $90 more and adds a full EMS fault suite, thermal protection and US manufacturing, while the GEARGO leads on its joule rating and price.\n\nChoose it for a fifth wheel or a large motorhome, where a single failure can damage two air conditioners, a residential fridge and a lot of electronics. A 12,000 watt rating leaves plenty of headroom for the loads those rigs run.",
     "specs": [
       "50A, 120-240V, 12,000W, 3,580 joules",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ye-lXezKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-amz-20",
     "description": "The SKYFISH RVShield 30 Amp is built around a problem that surge protectors usually ignore: a plug or cord that overheats quietly for hours. It carries a 200 degree Fahrenheit thermal auto-shutoff, ground fault protection that cuts power on leakage current or wiring errors, and an adjustable air conditioner delay of 0, 30 or 180 seconds. Bright LED codes explain faults without an electrician, and a NEMA 3R weatherproof body is rated from -40 to 140 degrees Fahrenheit.\n\nAgainst the Progressive EMS-PT30X, the RVShield costs about $12 less and offers a tunable compressor delay, thermal shutoff and a lock slot, while the Progressive has a longer-established fault list and US manufacturing. Against the TOWTAMER, it adds ground-fault monitoring and a thermal cutoff for about $100 more.\n\nIt suits campers who keep a trailer plugged in for weeks at a time, or who park at older sites where worn pedestal outlets are common. A lock slot lets you secure the unit at a busy site, and the one-year warranty covers the first season of use.",
     "specs": [
       "30A, 200 degree F thermal auto-shutoff",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lbYbg7nML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07BNVKS9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07BNVKS9F?tag=rvgearlab-amz-20",
     "description": "The Surge Guard Southwire 34930 is a 30 amp full-protection portable unit with an LCD that continuously shows voltage and amp draw. A 10 second start-up sequence checks the pedestal before it lets power pass, and a 128 second reset delay protects the air conditioner compressor after an outage. The body measures about 4.7 inches wide, 21.5 inches long and 3.9 inches deep.\n\nCompared with the Progressive EMS-PT30X, the Surge Guard roughly doubles the price and in return gives continuous RMS voltage and amp readouts on an LCD, plus the long reset delay. Compared with the SKYFISH RVShield, it pairs a fixed delay with a clearer numeric display.\n\nIt is a good fit for an owner who likes to watch the numbers, such as a camper who runs multiple appliances on a 30 amp service and wants to see the amp draw before a breaker trips. The English-language LCD makes it easy to read at a glance, and the start-up sequence means every new pedestal gets checked.",
     "specs": [
       "30A full protection with LCD display",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UA1M4q01L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGLT3GPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGLT3GPQ?tag=rvgearlab-amz-20",
     "description": "The GEARGO 50 Amp surge protector costs $89.99 and puts an 18,000 joule claim, an automatic fault cut-off with manual reset, and a digital LED screen into a waterproof housing. It shuts off power on low voltage, overheating or hazardous wiring, and shows voltage, current and power readings on the display. An enlarged waterproof cover protects the connection terminals from dust, rain and sand.\n\nAgainst the Progressive EMS-PT50X, the GEARGO is about half the price and puts the emphasis on surge capacity and clear readouts rather than a full EMS fault list. Against the TOWTAMER, it offers 50 amp service with a manual reset design for the extra $60.\n\nIt works for a 50 amp rig on a budget, a second protector kept for a spare site, or a seasonal camper who wants basic cut-off protection. A manual reset keeps power off after a fault until you press the button, which some owners prefer because it forces a look at the pedestal before reconnecting.",
     "specs": [
       "50A with 18,000 joule claim",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+leiR3dpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT3STQ68?tag=rvgearlab-amz-20",
     "description": "The TOWTAMER 30 Amp surge protector sells for $29.99, the lowest price in the comparison, and claims 15,000 joules of surge absorption. It detects open ground and reverse polarity, reads voltage and temperature, and shows error codes on a bright LED display. An IP68 waterproof cover protects the plug from rain, wind and dust.\n\nStepping up from it to the GEARGO 50 Amp makes sense only for a 50 amp rig. Stepping up to the SKYFISH RVShield adds ground fault protection, a thermal cutoff and a tunable compressor delay for about $100 more, and stepping up to the Progressive EMS-PT30X adds the full EMS fault list.\n\nIt suits a weekend camper, a second rig, or a first-time buyer who wants a basic safeguard against wiring faults and spikes. The error codes are readable on the display, and a waterproof cover helps protect the plug between trips.",
     "specs": [
       "30A, 15,000 joule claim",

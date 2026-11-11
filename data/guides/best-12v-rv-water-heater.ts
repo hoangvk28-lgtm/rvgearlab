@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RLwreMwJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N71LBQN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N71LBQN?tag=rvgearlab-amz-20",
     "description": "Suburban SW12DEL is a 12 gallon RV tank water heater with an inside 12 volt relay, according to its title. The listing otherwise gives very few details.\n\nAgainst the propane tankless heaters, it is a traditional tank. Against FVSTR, it is a built-in RV tank heater.\n\nIt is the best match for owners who want a known-brand 12 gallon tank for an existing cutout. It earns its slot for large tank cutouts.",
     "specs": [
       "12 gallon Suburban tank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+lGA3EytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFXW63MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFXW63MQ?tag=rvgearlab-amz-20",
     "description": "FVSTR 10L runs from 12 volt DC at 200 watts or 120 volt AC at 1500 watts and has a built-in 10 liter tank. The listing says it suits caravans, campsites and solar systems and has a pressure-resistant shell.\n\nAgainst the propane tankless units, it is an electric tank at a different scale. Against Suburban SW12DEL, it is portable and has two power modes.\n\nIt suits camper vans and solar setups that need a small hot water tank. It is a natural fit for vans and solar rigs.",
     "specs": [
       "10 liter tank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HhW5iNu2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091F7HGPK?tag=rvgearlab-amz-20",
     "description": "FOGATTI InstaShower 8 Plus is a propane tankless heater with 12 volt DC power and a high-altitude mode stated to 9,800 feet. The listing says it makes up to 2.9 GPM at 55,000 BTU, fits a 13 by 13 inch opening and includes a pressure relief valve and 2 meter remote.\n\nAgainst Orbek, it adds a remote and a built-in relief valve. Against Poukaran, it states altitude and flow, though not the temperature rise for that flow.\n\nIt suits owners at altitude who want a propane tankless. Think of it as the pick for altitude camping.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l0bDLT7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8NDM36?tag=rvgearlab-amz-20",
     "description": "ORBEK RV Tankless is a propane heater with a 60,000 BTU burner and 12 volt DC power. The listing says it has oxygen-free copper heat exchangers, brushless DC fans, a high-altitude mode and a built-in 150 PSI pressure reducing valve.\n\nAgainst Poukaran, it has a higher BTU burner. Against FOGATTI InstaShower 8 Plus, it lists a pressure reducing valve.\n\nIt suits larger families that want more burner power. Buyers focused on larger households will find it a sensible match.",
     "specs": [
       "60,000 BTU propane tankless",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Tq1ilg1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY34DLPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY34DLPY?tag=rvgearlab-amz-20",
     "description": "Poukaran RV Tankless is a 55,000 BTU propane heater with 12 volt DC power, an adjustable 95 to 123 degree F range and error codes. The listing says it fits a 13 by 13 inch opening with a 15.94 inch door.\n\nAgainst Banrterd, it is nearly identical with a high-altitude option. Against ORBEK 60K, it has a lower burner.\n\nIt suits owners who want a lower-cost tankless. It earns its slot for budget tankless.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YdduEdRpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H71HL69T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H71HL69T?tag=rvgearlab-amz-20",
     "description": "Banrterd RV Tankless is a 55,000 BTU propane heater with 12 volt DC power, a front water outlet and a microcomputer control with a 95 to 123 degree F range. It fits a 13 by 13 inch opening.\n\nAgainst Poukaran, it adds a front outlet. Against ORBEK 60K, it is lower in output.\n\nIt suits owners who want an outdoor shower outlet. It is a natural fit for outdoor shower use.",
     "specs": [
       "55,000 BTU propane tankless",

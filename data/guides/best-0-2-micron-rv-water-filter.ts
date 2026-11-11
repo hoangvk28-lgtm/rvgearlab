@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wc4lHD6PS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074CNXQXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074CNXQXQ?tag=rvgearlab-amz-20",
     "description": "The Clearsource Premier is a two-stage standalone system whose listing describes a 0.2 micron filter with an absolute rating, paired with a coconut shell carbon block first stage. A powder-coated standalone chassis is built for the RV hookup rather than a flimsy hose-end canister. It is the reference point for the tightest practical rating on this list.\n\nCompared with the Purevua PHB10, it spreads the work over two cartridges, so the fine element sees pre-filtered water. That staging is the main reason it sits above the single-housing options on this list, because the carbon block takes the early load and the 0.2 micron element stays clean longer. The coconut shell carbon also handles taste and smell before the fine stage.\n\nIt is the pick for full-timers and long-stay campers who want the tightest rating on the page and are happy to invest in a permanent-style setup. The absolute rating and staged build make it the reference point for the other picks, and cartridge kits are sold separately for replacement. A full-time rig gets a long-term filter that can be renewed cartridge by cartridge.",
     "specs": [
       "Described absolute 0.2 micron filter stage",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zcqa2dFeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9XF7XVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9XF7XVD?tag=rvgearlab-amz-20",
     "description": "The Purevua PHB10 puts a 0.2-micron pleated polyester outer layer around a 5-micron activated carbon core inside one 10 by 4.5 inch polypropylene housing. It screws straight onto standard 3/4 inch garden hose fittings, so the install matches any backyard hose. That combination makes it the simplest way here to get a 0.2 micron layer into an RV supply line.\n\nAgainst the Clearsource Premier it trades the second housing for a composite cartridge, which keeps the setup simple and the cost far lower. It also has a detachable handle, so it travels easily between sites, and the carbon core inside the 0.2 micron layer handles taste in the same cartridge. One element does the work of two stages for a weekend traveler.\n\nA good fit for weekend campers who want a documented 0.2 micron layer without a mounted two-stage rig. The detachable handle makes moving between hookups quick, and the straight hose connection means setup takes seconds with a hose and a spigot and nothing else to mount. It suits a campsite where speed matters more than a permanent install.",
     "specs": [
       "0.2-micron pleated polyester outer layer",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-amz-20",
     "description": "The OKBA Dual is an external two-canister system with a 0.5 micron carbon block and a 5 micron element, thick plastic housings, a brass fixture and a mounting bracket. A wrench for loosening the housings ships in the box. It is the staged, budget way into fine filtration on this list, and the dual layout is the draw.\n\nIt sits one step coarser than the Purevua PHB10 and the Clearsource Premier, and it gives you separate sediment and carbon stages for a price well below either. Mounting it on the RV frame keeps the hose side uncluttered, and the 5 micron element takes the silt before the carbon block. Thick plastic housings keep the assembly sturdy at the hookup.\n\nSuited to RVers who want staged filtration at 0.5 micron and care more about budget than the 0.2 figure. The included wrench and bracket make the first install straightforward, and a coarser final stage keeps flow healthier on a low-pressure spigot than a finer one would. That is the practical reason to pick 0.5 over 0.2 for many campers.",
     "specs": [
       "0.5 micron carbon block with a 5 micron element",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oVLgBb5RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-amz-20",
     "description": "The SpiroPure SP-RV100-2PK is a pair of multi-stage inline filters with 1 micron media and a salt-free descaler stage. Each one connects with a standard 3/4 inch garden hose fitting. The descaler stage is the unique feature here, aimed at mineral buildup rather than particles, a different problem from the one a micron rating solves.\n\nWhere the OKBA Dual asks you to mount canisters, these are disposable hose-end units, so swapping one mid-season takes seconds, without a wrench or a drained housing. The two-pack means a spare is already in the drawer, and the 1 micron media is a step coarser than the 0.5 micron OKBA carbon block, which keeps flow easier on a modest hookup.\n\nBest for travel-trailer owners in hard-water areas who want a simple swap-and-go filter with a 1 micron stage. Keeping the second filter as a spare removes the need to restock mid-trip, and the season-long life per filter on the listing suits a calendar replacement habit. Mineral-heavy hookups are where the descaler stage earns its place.",
     "specs": [
       "1 micron two-stage media in a two-pack",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure two-pack uses GAC and KDF media in a 6-step filtration design, listed to NSF/ANSI 42 and 53 and made in the USA. It attaches to any standard garden or drinking water hose. It is the pick on this list that puts paperwork ahead of a micron figure, and it uses media aimed at everyday camp taste.\n\nIt is the one pick here that names the NSF standards it is listed to, which gives it a clearer paper trail than most hose filters. Its media is built around taste and chlorine, which makes it a different job from the 0.2 micron picks, and it keeps flow easy because it skips a fine rating.\n\nA solid choice for campers who want a familiar, certified taste filter as the everyday option. The two-pack gives a spare for the next trip, and it pairs well as a first stage ahead of a finer element when you want both documentation and fine filtration. Weekenders get a documented filter with nothing to mount.",
     "specs": [
       "NSF/ANSI 42 and 53 listing wording",

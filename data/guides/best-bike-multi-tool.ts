@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fKYwsg2mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ZDUGHCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ZDUGHCW?tag=rvgearlab-amz-20",
     "description": "Crankbrothers M19 lists hex wrenches in sizes 2 to 8, open wrenches at 8mm and 10mm, spoke wrenches in sizes 0 to 3 and screwdrivers. A chain tool works with 8, 9, 10, 11 and 12 speed chains, and side grips give a secure hold even with gloves on.\n\nThe 8 to 12 speed chain tool suits riders with modern drivetrains. The ergonomic side grips make it easier to use than slim tools like the KIEVODE.\n\nMountain bikers and tourers who ride far from help will like the full set and sturdy feel. It handles a wheel true, a chain fix and a seat adjustment in one stop.",
     "specs": [
       "Hex 2 to 8mm, spoke wrenches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MFx7Mu6DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002VG40AM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002VG40AM?tag=rvgearlab-amz-20",
     "description": "Crankbrothers M17 lists hex wrenches 2 to 8, open wrenches at 8mm and 10mm, and spoke wrenches in sizes 0 to 3. A chain tool covers 8, 9, 10, 11 and 12 speed chains, with ergonomic side grips.\n\nIt lists the same hex range, spoke wrenches and chain tool range as the M19 and costs less. The ergonomic grips make it usable with gloves.\n\nRiders who want Crankbrothers quality at a lower price will like it. It rides well in a saddle bag or a frame pack.",
     "specs": [
       "Hex 2 to 8mm, spoke wrenches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BPTlSLA9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XGWMGB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XGWMGB9?tag=rvgearlab-amz-20",
     "description": "Vibrelli V19 packs 19 precision tools, including hex sizes 2 to 8, a universal chain breaker and spoke wrenches in M7, M9 and other sizes. It measures 3 by 2 inches, weighs 6.5 oz and comes with a carry case.\n\nIt meets the MIL-STD 810G durability standard, a claim the other tools here do not make, and the carry case keeps it tidy. It costs less than either Crankbrothers tool.\n\nRiders who toss a tool in a pack and forget it will like the durability. The slim 3 by 2 inch size fits any pocket.",
     "specs": [
       "19 tools, 6.5 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XJ2wPeNDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTKN8SQR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTKN8SQR?tag=rvgearlab-amz-20",
     "description": "ROCKBROS 16-in-1 includes Allen wrenches in 2, 2.5, 3, 4, 5 and 6 sizes, plus other repair tools. It is built from high-strength galvanized steel, weighs about 205 g and measures 90 by 44 by 25 mm.\n\nIt is compact enough for a saddle bag and costs far less than the Crankbrothers or Vibrelli. It resists rust.\n\nCommuters and casual mountain bikers will like the price and size. It stays tucked away until you need it.",
     "specs": [
       "16 tools, galvanized steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z45tKBvFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6G3KSFH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6G3KSFH?tag=rvgearlab-amz-20",
     "description": "KIEVODE is a compact multi-tool with six tools made of premium carbon steel and aluminum alloy. It handles on-the-ride adjustments of brakes, handlebars, saddles and derailleurs.\n\nIt is the smallest and cheapest tool here and it covers the common adjustments. It slips into a jersey pocket.\n\nRoad cyclists and commuters who want a tiny emergency tool will like it. It weighs almost nothing in a jersey.",
     "specs": [
       "6 tools, carbon steel",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rusGK3xIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNHTWP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNHTWP6?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic 20F is a women's mummy filled with Cirroloft synthetic, 30.5 oz of it, and it prints a total weight of 2 lb 13 oz. The Regular size stuffs to 16 by 9 inches and suits sleepers around 6 ft, with longer sizes offered.\n\nCompared with the 40 degree Cosmic, it adds about 7 oz of weight and 6.5 oz of fill, and that buys a much colder label. The integrated compression sack and the roomy footbox are shared across the line.\n\nIt suits women and smaller hikers who want one synthetic bag for spring through fall. The stash pocket keeps a headlamp or phone near your head.",
     "specs": [
       "Cirroloft synthetic, 30.5 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic 40 prints its total weight at 2 lb 6 oz and its fill at 24 oz, as well as a 15 by 8 inch stuff size when uncompressed. Cirroloft synthetic fill, a compression sack with straps and a roomy footbox are included.\n\nIt is the lighter and smaller of the pair and the lower-priced one. Next to the 20 degree version it gives up cold-night headroom and gains a smaller pack footprint.\n\nIt suits summer hikers and first-time backpackers who want a bag with all its numbers printed. The stash pocket holds small items overnight.",
     "specs": [
       "2 lb 6 oz, 24 oz fill",

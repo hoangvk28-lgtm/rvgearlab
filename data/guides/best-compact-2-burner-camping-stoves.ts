@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YNqhne5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-amz-20",
     "description": "The ODSD packs 20,000 BTU into a propane body that folds to 10.63 by 9.06 by 5.12 inches and weighs 3.98 lb. A magnetic closure holds it shut, and the listing describes a windproof shield and a 304 stainless coffee stand.\n\nIt is the lightest stove here by listed weight, and it states twice the heat of the TENGIZUOHZ Folding. Against the nowcamp it gives up some output for a lower carried weight.\n\nIt suits couples, solo campers and roadside cooks who want real two-burner power in a small package. The magnetic closure makes packing quick.",
     "specs": [
       "20,000 BTU, 3.98 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411vkJcDkwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG2NP1CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG2NP1CJ?tag=rvgearlab-amz-20",
     "description": "The CFRERO is a foldable two-burner propane stove rated at 16,000 BTU that weighs 5.7 lb. It fits two 10 inch pans at once, has piezo ignition and comes with a carry bag, with gas tank and griddle sold separately.\n\nIt sits between the ODSD and the TENGIZUOHZ Folding on output, and it states pan fit, which several folders skip. The slim profile makes it practical for hiking trips and picnics.\n\nIt suits campers who want piezo ignition and a known 10 inch pan fit. It does the job for two-person meals.",
     "specs": [
       "16,000 BTU, 5.7 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vfyc7J-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFJMMFV?tag=rvgearlab-amz-20",
     "description": "The TENGIZUOHZ is a two-burner propane stove with 10,000 BTU total, folding to 10.2 by 9 by 3.5 inches. It uses 304 stainless steel and includes push-button igniters on both sides plus a carry bag.\n\nIt is the thinnest stove here when folded and the lowest in listed output, which is the opposite trade from the nowcamp. Wind-resistant steel barriers surround the flames.\n\nIt suits solo campers and emergency kits where pack size comes first. It heats small pots at a patient pace.",
     "specs": [
       "10,000 BTU total, 3.5 inch thick",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PuJZiouFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCT9JNV?tag=rvgearlab-amz-20",
     "description": "The nowcamp is a foldable two-burner stove with 30,000 BTU from two brass burners. A magnetic closure and windshield are listed, and it comes with a storage bag and a 304 stainless coffee stand.\n\nIt has the highest stated output here, which the ODSD and CFRERO cannot match, and the listing does not give a weight. It folds compactly like the others.\n\nIt suits campers who want maximum heat from a stove that still folds away. Boiling, frying and grilling are all listed uses.",
     "specs": [
       "30,000 BTU, brass burners",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rbKhLjh4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-amz-20",
     "description": "The Flame King VT-101 lists 20,000 BTU across two burners and a 15 by 9 inch cooking surface. It runs on a 1 pound propane cylinder and has three-sided wind panels, with a lid that converts to a windshield.\n\nIt states the same output as the ODSD and a larger cooking surface than the folders. It is also the lowest priced stove in the group and carries a CSA approval.\n\nIt suits campers who already own 1 pound cylinders and want a basic, low-cost stove. An adapter hose can connect it to a larger tank.",
     "specs": [
       "20,000 BTU, 15x9 inch surface",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Z296XAhkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPWNYF91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPWNYF91?tag=rvgearlab-amz-20",
     "description": "The TREKOLOGY UL R7 is a 4 inch thick inflatable pad with a listed R-value of 7.2, which is the figure its all-season claim rests on. It weighs 2 lb, packs to water bottle size and inflates to 70.8 by 24 inches.\n\nNext to the poimerk pad, it adds far more thickness and insulation. Against the Therm-a-Rest Z Lite, it replaces a stiff foam fold with a pad that cushions much more.\n\nIt suits backpackers who camp in all seasons and want a single pad for the year. The 40D ripstop nylon with a TPU coating handles rough ground.",
     "specs": [
       "4 inch thick, 7.2 R-value",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KD4laDyKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00453NA1E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00453NA1E?tag=rvgearlab-amz-20",
     "description": "The Therm-a-Rest Z Lite Original is a closed-cell foam pad with accordion folds, softer on top and denser on the bottom. Dimples in the foam capture and trap heat.\n\nCompared with the TREKOLOGY UL R7, it never leaks and needs no inflating. Against the Wakeman, it has better insulation structure and a well-known fold design.\n\nIt fits hikers who want a rugged, no-fail pad. It also works as a seat and a backup for an air pad.",
     "specs": [
       "Closed-cell accordion foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EuPg84LCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVXXHB4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVXXHB4J?tag=rvgearlab-amz-20",
     "description": "The poimerk pad is 2.3 inches thick with an air-cell design and a built-in foot pump. It weighs 1.42 lb and folds to 11 by 4.7 inches in 40D ripstop nylon with TPU coating.\n\nAgainst the TREKOLOGY UL R7, it is lighter and cheaper, with less thickness. Compared with the FUN PAC, it is thinner and lighter with no pillow.\n\nIt suits hikers who want an air pad for the lowest cost. The foot pump saves effort.",
     "specs": [
       "2.3 inch air pad, 1.42 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RR1LC20ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XDNQWXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XDNQWXP?tag=rvgearlab-amz-20",
     "description": "The FUN PAC pad is up to 78 by 27 inches with a 3 inch thickness and a built-in pillow. It uses a built-in foot pump with a 30 to 60 second inflation and 40D nylon with TPU.\n\nCompared with the poimerk, it adds width and a pillow. Next to the TREKOLOGY UL R7, it is wider by a couple of inches.\n\nIt suits hikers who want a pad with a pillow in one piece. It sizes like a water bottle packed.",
     "specs": [
       "78 x 27 inch, 3 inch thick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mf7mELUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KGQ38D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KGQ38D6?tag=rvgearlab-amz-20",
     "description": "The FOCHIER foam pad is made of IXPE closed-cell foam with a peanut shape and an accordion design. It is moisture-proof and is sold for hiking, seating and hammock use.\n\nAgainst the Therm-a-Rest Z Lite, it costs less and has a shaped peanut cut. Compared with the Wakeman, it is thicker and more structured.\n\nIt fits hikers who want a cheap foam pad that doubles as a seat. Peaks and valleys trap warmth.",
     "specs": [
       "IXPE closed-cell foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313JmPXYHkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-amz-20",
     "description": "The Wakeman foam pad is 72 inches long, 0.5 inch thick and weighs 0.6 lb, rolling to 7 inches tall. It has a non-slip texture and a waterproof surface.\n\nCompared with the FOCHIER, it is lighter and thinner. Against the poimerk, it costs the least and has no valve to fail.\n\nIt suits hikers who want a barely-there pad or a topper for a cot. It is also useful as a sit pad.",
     "specs": [
       "72 inch long, 0.5 inch thick",

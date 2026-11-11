@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517d9nX2JbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-amz-20",
     "description": "The RVShield is a 30 amp surge protector and power manager that cuts power if the plug passes 200 degrees Fahrenheit, adds ground fault protection and lets you pick a 0, 30 or 180 second air conditioner restart delay. Its freeze-proof LED screen shows live voltage, amps and energy use, and it is rated NEMA 3R from -40 to 140 degrees Fahrenheit.\n\nIt costs about $145, around $5 less than the GEARGO New Smart 50A, and it is the only protector here that watches the plug temperature and delays the air conditioner restart. The restart delay protects a compressor from a hard restart after a flicker.\n\nIt suits 30 amp RVers who camp in hot weather or run an air conditioner on campground power. A lock slot discourages theft at the pedestal.",
     "specs": [
       "30A, 200F thermal shutoff",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a5ZhTV1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVG5473P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVG5473P?tag=rvgearlab-amz-20",
     "description": "The GEARGO New Smart is a 50 amp protector with 15,000 joules of surge absorption and a LED display of line voltage, current and power. It analyzes the circuit, monitors temperature and cuts power when voltage falls below 103V or rises above 132V, then resets.\n\nPriced at about $150, which uses the full budget and sits $5 above the RVShield 30A, it is the 50 amp choice with automatic shutoff and reset. It has far more joules than the CARMTEK 50A's 4,200.\n\nIt suits 50 amp RVs that need low-voltage protection as well as spike protection. A 3-year warranty backs it.",
     "specs": [
       "50A, 15,000J, LED display",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNi4HMcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5PMHZ1Y?tag=rvgearlab-amz-20",
     "description": "The CARMTEK 50A absorbs up to 4,200 joules, includes a circuit analyzer and is UL tested and built from flame-retardant material. It has power-grip handles and a right-angle plug.\n\nIt costs about $110, around $40 less than the GEARGO New Smart 50A, and it tells you whether the pedestal is wired correctly. It has a lower joule rating and no display or shutoff.\n\nIt suits 50 amp campers who want a tested analyzer and basic surge protection. The right-angle plug fits tight pedestals.",
     "specs": [
       "50A, 4,200J",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jmWa4A68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08K8T5F5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08K8T5F5Z?tag=rvgearlab-amz-20",
     "description": "The CARMTEK 30A is rated 30A, 125V and 3,750W with 2,100 joules of surge absorption and a circuit analyzer that tests wiring before you connect. It is flame-retardant, weather resistant and rated to -35 to 110 degrees Celsius.\n\nIt costs about $73, half the RVShield 30A, and it checks the pedestal wiring for faults. It does not offer thermal or voltage shutoff.\n\nIt suits 30 amp campers who want to test wiring and absorb spikes at a low cost. It has grip handles and a right-angle plug.",
     "specs": [
       "30A, 3,750W, 2,100J",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T7u17wX+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9MX38?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries SSP-30XL is a 30 amp portable smart protector rated 3,600W and 825 joules with fault warnings and frequency protection. It comes from an established RV-power brand.\n\nIt costs about $52, the lowest in the group and a third of the RVShield 30A, and it adds broad fault warnings. It has the lowest joule rating here.\n\nIt suits 30 amp campers who want a known brand and fault warnings at a low price. It is a good backup unit.",
     "specs": [
       "30A, 3,600W, 825J",

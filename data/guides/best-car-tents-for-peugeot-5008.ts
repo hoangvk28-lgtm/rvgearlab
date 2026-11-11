@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p0SqnEexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HKMWBT96?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HKMWBT96?tag=rvgearlab-amz-20",
     "description": "The IYBHUCX lists fitment for the Peugeot 5008 from 2017 to the present and attaches to the open rear hatch. It adds a spacious screen room, flexible support poles, guy lines and ground stakes for a freestanding structure with generous headroom.\n\nIt alone pairs the newer 2017 onward range with a screen room, which sets it apart from the older-range SUNQIQI. Against the arch-style tent it adds a defined bug-free room rather than an open extension.\n\nIt suits owners of a current 5008 who want a sheltered place to change, store gear and relax out of the sun. It folds to a compact size for the boot.",
     "specs": [
       "Fits 5008 2017 to present",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516ta8O4CRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKS2YW7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKS2YW7V?tag=rvgearlab-amz-20",
     "description": "The SUNQIQI lists the 5008 for 2009 to 2016 and gives a PU4000 waterproof rating on 210D Oxford fabric with tight stitching. An extended flap works as an awning or sun shelter, or closes for privacy, and side windows and doors have mesh screens.\n\nIt states the highest rain rating of the five, which none of the other listings put a number on. Compared with the IYBHUCX it covers the earlier years, and compared with the RQIGHNC it adds the flap that opens or closes.\n\nIt suits owners of an earlier 5008 who camp in wet climates and want a number to compare. The awning flap gives a shaded place to cook and sit.",
     "specs": [
       "Fits 5008 2009 to 2016",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAC3DJRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDSDKCF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDSDKCF5?tag=rvgearlab-amz-20",
     "description": "The RQIGHNC lists the 5008 from 2009 onward and uses Oxford fabric to shade the area behind the hatch. It packs into a compact carry bag and creates extra room for relaxing, changing clothes and resting.\n\nNext to the GFHFDTSGH it carries the same year range and similar Oxford cloth, with a slightly lower price. Compared with the SUNQIQI it drops the stated PU rating and the flap while covering more model years.\n\nIt suits a driver who wants a no-frills shelter that stows in the garage or boot. It covers a wide span of 5008 years.",
     "specs": [
       "Fits 5008 2009 onward",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KAC3DJRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFBY61TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFBY61TH?tag=rvgearlab-amz-20",
     "description": "The GFHFDTSGH lists the 5008 from 2009 onward and describes an expanded outdoor space for camping, relaxing and beach trips. Its Oxford fabric reduces sun and light rain, and a lightweight foldable structure comes with a storage bag.\n\nIt is priced a little above the RQIGHNC with near-identical specs, so the choice comes down to supplier and look. Compared with the arch-style tent it has no removable rainfly listed.\n\nIt suits day trips and beach stops where the tent is set up and stowed repeatedly. The storage bag keeps it ready in the garage.",
     "specs": [
       "Fits 5008 2009 onward",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eP6NG28mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXFNCR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXFNCR4?tag=rvgearlab-amz-20",
     "description": "This arch-style tailgate tent lists fitment for the 5008 from 2009 to 2026 and uses water-resistant fabric with a removable rainfly and sturdy frame. It connects to the hatch for road trips or stands on its own when the rear door does not need to open.\n\nIt has the widest stated year span and the lowest price of the five, and it is the only pick that can be used freestanding. Against the IYBHUCX it trades the screen room for a simple arch.\n\nIt suits owners who want one tent that also works away from the car. The removable rainfly adds coverage when a shower is likely.",
     "specs": [
       "Fits 5008 2009 to 2026",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OOl2cdKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9988CJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9988CJQ?tag=rvgearlab-amz-20",
     "description": "The Jack Boss is a 12V pump at 5.5 GPM and 70 PSI with a pressure switch and 6.5 foot vertical self-priming. The box includes a filter, two 1/2 inch barbed adaptors, two male thread adaptors, two clamps and tape.\n\nIt carries the strongest kit of the group, which separates it from the bare Heuyrao pumps, and its overload protection is stated. The flow sits between the Heuyrao 5.5 and the 7 GPM units.\n\nBest for owners who want a complete, ready-to-connect 70 PSI pump. Another reason it earns a slot: quiet-mount design noted.",
     "specs": [
       "5.5 GPM at 70 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tYmF0t42L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFGN8ZGV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFGN8ZGV?tag=rvgearlab-amz-20",
     "description": "The Magam pump delivers 7 GPM and up to 70 PSI with a five-chamber self-priming diaphragm, a smart pressure switch and a heavy-duty switch. ABS plastic and stainless steel parts are listed for a build aimed at off-grid living.\n\nIt carries more flow than the Jack Boss at a higher price, and it mentions a strainer with the pump. The Heuyrao 7 GPM is cheaper with a plainer listing.\n\nA fit for large rigs that need a documented 7 GPM on 12V. Worth noting on the listing: strainer mentioned with pump.",
     "specs": [
       "7 GPM at 70 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N5aPPXgfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T9FKB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T9FKB5?tag=rvgearlab-amz-20",
     "description": "The Heuyrao 7 GPM is a five-chamber 12V pump at a steady 70 PSI, started by demand, plus a pure copper motor and overload cutoff. The listing says it can run dry for a short time.\n\nIt undercuts the Magam while matching its flow and chamber count. The listing is thinner on kit contents than the Jack Boss.\n\nGood for budget buyers who still want high flow. On the plus side, short run-dry capability.",
     "specs": [
       "7.0 GPM at 70 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZCGy8FgPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6TLBL3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6TLBL3J?tag=rvgearlab-amz-20",
     "description": "The Heuyrao 5.5 GPM pump is a four-chamber 12V unit at 70 PSI with an on-demand switch and copper windings. Quiet operation and overload protection are listed.\n\nIt matches the Jack Boss on flow and costs less and ships without the parts bundle. It is the cheapest 70 PSI pump in the group.\n\nA good fit for owners who already have fittings and want 5.5 GPM at 70 PSI. Worth noting on the listing: overload protection.",
     "specs": [
       "5.5 GPM at 70 PSI, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510If-TYgBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMDV9C8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMDV9C8?tag=rvgearlab-amz-20",
     "description": "The TWERE washdown kit is a 12V pump rated 3.0 GPM at 70 PSI with a strainer, a pressure switch and an enclosed anti-corrosion motor. The kit includes a 25 foot UV resistant hose, quick connect fittings and a high-pressure nozzle.\n\nIt trades flow for a hose and nozzle, which none of the bare pumps include. That makes it handy for exterior washing as well as plumbing.\n\nBest for owners who want a 70 PSI pump that also washes the rig. Another reason it earns a slot: pressure switch built in.",
     "specs": [
       "3.0 GPM at 70 PSI, 12V",

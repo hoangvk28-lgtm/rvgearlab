@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hjf5DCopL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT87D3MV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT87D3MV?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE SUV tent measures 13 x 10 ft with an 87 inch center height, and includes a 6 x 8 ft screened porch and awning. Its listing fits two air mattresses or five sleeping bags, with double doors, windows and PU2000 polyester.\n\nIt has the tallest stated center height here and the only screened porch with stated dimensions. The WildFinder 5-9 offers more footprint, while this one gives better headroom and a bug-free lounge.\n\nIt suits families of four to five who want a bug-free porch next to the car. It fits SUVs, CUVs, minivans and pickups, and also stands alone.",
     "specs": [
       "13 x 10 ft, 87 in center height",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDKnEHY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-amz-20",
     "description": "The WildFinder 5-9 person SUV tent measures 14.1 x 9.2 x 6.9 ft and includes a screen porch and an awning. The multi-layered fabric has a PU3000 coating with UPF 50+ protection, large mesh windows and drainage mesh, and the vehicle connection is described as fully sealed.\n\nIt has the largest footprint and the highest PU3000 rating among the large tents, ahead of the TIMBER RIDGE. It costs about the same as the TIMBER RIDGE.\n\nIt suits large families or two-family trips that want one big shelter beside the car. It fits SUVs, Jeeps and standard trucks and can be set up independently.",
     "specs": [
       "14.1 x 9.2 x 6.9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fxHnkP6fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-amz-20",
     "description": "The Fanttik Beta C6 Apex is a 6 person instant cabin tent with pre-attached poles that the listing says set up in 60 seconds. It attaches to the tailgate of CUVs and SUVs, adds dual ground vents, and includes a detachable canopy, strong stakes and adjustable guy lines.\n\nIt is the quickest to pitch of the six and it undercuts both big tents on price. The listing notes that setup takes two people.\n\nIt suits families who arrive late and want a quick pitch with a detachable canopy. The fabric is described as water-resistant.",
     "specs": [
       "60-second setup",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B+qJweJfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPWY22KR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPWY22KR?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS SUV tent measures 7.7 x 7.7 x 6.9 ft and fits a double SUV air mattress plus four sleeping bags. It uses aluminum poles, 210D Oxford with PU2000, a full rainfly, seam tape and a door runoff system, with two opposite doors and three panoramic windows.\n\nIt is smaller than the TIMBER RIDGE and WildFinder, and it adds aluminum poles and a full rainfly. Four tailgate straps and elastic edging fit SUVs, CUVs and minivans.\n\nIt suits small families who want a lighter pole structure and good rain coverage. Four guylines and nine stakes steady it.",
     "specs": [
       "7.7 x 7.7 x 6.9 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jHmCIHUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7RRVCN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7RRVCN4?tag=rvgearlab-amz-20",
     "description": "The WildFinder universal tailgate tent is 10 x 9 ft, stands 78 inches at the center and is listed for 5 to 6 adults. It uses 190T polyester taffeta with PU3000, an adjustable elastic sleeve for SUVs, CUVs, minivans and wagons, and a removable rainfly for a mesh roof view.\n\nIt costs less than the large tents and the Fanttik, while still offering standing height and a PU3000 coating. Compared with the UNP it offers a higher waterproof rating and a similar footprint.\n\nIt suits budget-minded families who want standing room and a flexible sleeve. The listing positions it for light rain and everyday moisture.",
     "specs": [
       "10 x 9 ft, 78 in center",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O6z8jy0zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-amz-20",
     "description": "The UNP SUV dome tent measures 10 x 10 ft with an 84 inch center height and sleeps 4 to 6 adults, with room for two air mattresses. It has four mesh windows, a mesh top, adjustable vehicle straps and a rainfly with taped seams.\n\nPrice is the lowest of the six, and the stated floor is the biggest of the three budget tents. The WildFinder Universal states a waterproof rating, and this one leans on mesh for airflow.\n\nIt suits budget campers who want a dome with a mesh roof and a one-year assurance. The sleeve fits CUVs, SUVs and minivans.",
     "specs": [
       "10 x 10 ft, 84 in center",

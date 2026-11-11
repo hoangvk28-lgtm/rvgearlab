@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ABGrp5+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRNG4B1W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRNG4B1W?tag=rvgearlab-amz-20",
     "description": "The Redodo 12V 100Ah Thermal LiFePO4 starts its heater when connected to a charger at -4F to 32F, and stops heating at 41F so normal charging begins. The listing says its upgraded 100W heating pads are 2X faster than others, with a 100A BMS and 4,000 cycle rating.\n\nAt $249.99 it costs $476.70 less than the LiTime 2 pack, though that 2 pack gives two batteries. Against the Renogy AGM it is $85.50 more. Pick this if you winter camp with shore power or solar and need one battery. Caveat: heating draws power, so it needs a charging source to warm up.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4172pAu7ieL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLGG528R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLGG528R?tag=rvgearlab-amz-20",
     "description": "The LiTime listing is a 2 pack of 12V 100Ah self heating LiFePO4 batteries in Group 24, 22.71 lbs each. It offers Regular and Energy Efficient heating modes, with Regular heating below 41F and stopping at 50F, plus Bluetooth 5.0 monitoring.\n\nAt $726.69 the pair works out to $363.35 each, which is $113.36 more per battery than the Redodo Heated 100Ah. In return you get a 200Ah bank in a Group 24 footprint. Pick this if you want a heated 200Ah bank. Caveat: the listing notes it is for energy storage, not as a starting battery.",
     "specs": [
       "2x 12V 100Ah, Group 24",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XkgRchGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B62MF92F?tag=rvgearlab-amz-20",
     "description": "The VATRER 12V 300Ah LiFePO4 offers a 200A BMS and 5,000+ cycles, plus a low temperature cutoff. The listing does not mention a heater, so below freezing it stops charging and waits for warmth.\n\nAt $539.99 it costs $290.00 more than the Redodo Heated 100Ah and offers three times the capacity. Pick this if your battery lives in a heated bay or basement, so the cutoff rarely triggers. Caveat: for a truly unheated space, the cutoff means no charging in a hard freeze, so a heated model suits that better.",
     "specs": [
       "12V 300Ah LiFePO4",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D93HR8ZL?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah AGM lists discharge performance from -4 to 140F and under 3% monthly self discharge. At $164.49 it is the cheapest cold weather pick, and as lead acid it does not need to avoid sub freezing charging in the same way as lithium.\n\nNext to the Redodo Heated 100Ah it is $85.50 cheaper, but only about half the rated 100Ah is practically usable. Pick this if you want zero fuss in the cold at a low price. Caveat: capacity falls as the temperature drops, and the listing gives no weight.",
     "specs": [
       "12V 100Ah AGM",

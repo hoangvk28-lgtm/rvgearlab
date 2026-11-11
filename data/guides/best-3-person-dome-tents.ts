@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yLvb7cHKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QHXVKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QHXVKJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome is sold as a 2/3/4/6 person size family, and this listing is for the 3-person size. The interior fits one queen-size airbed, and WeatherTec welded corners, inverted seams, a ground vent and large windows form the build.\n\nNext to the CORE 3 it lists a concrete 10 minute pitch, thanks to clip-on poles and snag-free sleeves. Compared with the CAMPROS it costs more and adds welded corners that the CAMPROS does not list.\n\nIt is the pick for couples and small families who want a queen bed and a brand backed shell. Polyguard fabric packs into a carry bag.",
     "specs": [
       "3-person size, one queen bed",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWXKEYEZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNDRZVJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNDRZVJ?tag=rvgearlab-amz-20",
     "description": "The CORE 3-Person uses a ball-and-socket system for fast assembly and has a 42 inch center height. H2O Block technology on 1200mm fabric, a fully taped rainfly, sealed seams and zipped windows form the weather shell.\n\nIt has the only stated millimeter rating among the four and adds an overhead gear loft with a lantern hook. Against the Coleman it trades a lower roof for a documented rain rating, and the listing rates it for one person with gear or up to three without.\n\nIt suits campers who face rain and want a fly with taped seams. The gear loft keeps small items off the floor.",
     "specs": [
       "Three person, 42 in center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jbfgKc4TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2C6CRHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2C6CRHZ?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 3-Person is a 7 ft by 7 ft dome with a 47 inch center height that fits one queen mattress. A coated fabric with sealed seams and a waterproof strip handles weather, and mesh covers the top and doors.\n\nIt is the lowest priced pick, and the 7 by 7 ft floor is squarer than the Amazon Basics. Where the Coleman lists welded corners, this tent lists a gear loft with a lantern hook and mesh pockets.\n\nIt suits budget campers who want a queen-bed fit and a loft. Two people can pitch it in about 5 minutes.",
     "specs": [
       "7 x 7 ft, 47 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mxD85jaYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077Y8DLSN?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 4-person dome has a 9 ft by 7 ft floor and a 48 inch center height. Welded seams, a removable rainfly, a back window with a cool-air port and shock-corded poles listed at under 6 minutes make up the build.\n\nIt is a four-person dome, one person above the target, so a three-person group gets more floor than in the CAMPROS. Against the CAMPROS it adds two feet of floor length and a back window with a cool-air port.\n\nIt suits three adults who prefer room over weight, or couples who want space for bags. The compact carry bag holds the tent, poles and stakes.",
     "specs": [
       "9 x 7 ft, 48 in center",

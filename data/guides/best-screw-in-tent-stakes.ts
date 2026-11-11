@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hTdp+bGTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1FXNPHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1FXNPHP?tag=rvgearlab-amz-20",
     "description": "The Keltrion kit has 12 cast aluminum alloy anchors that are 14 inches long with a spiral blade, plus 12 detachable hanging rings and a drill adaptor. The listing describes the alloy as corrosion resistant and covered by a 1-year replacement warranty.\n\nAt 14 inches it goes deeper than the 8 inch Keovoker, YIYAO and ROIKETU stakes, so it holds more soil in loose or muddy ground. Next to the Phopich it swaps powder-coated steel for corrosion-resistant aluminum and a pack of 12 instead of 4.\n\nIt is the pick for large tents, canopies and gazebos that sit on grass or soft soil. The detachable rings give you an attachment point for guylines.",
     "specs": [
       "12 cast aluminum anchors",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ikoCnVMXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDQ3FMCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDQ3FMCX?tag=rvgearlab-amz-20",
     "description": "The Phopich pack gives you 4 powder-coated solid steel anchors, each 15 inches long with a 1.6 inch wide, 0.087 inch thick spiral blade. It comes with a power nut driver bit, a T-handle hex wrench and a carry bag.\n\nIt is the only pick with a full-length spiral blade, which the listing says makes it easier to drive and more stable than the 8 inch threaded stakes. Compared with the Keltrion it is steel instead of aluminum and has only 4 pieces.\n\nIt fits tents, canopies, gazebos and sheds that need a few strong anchor points instead of a long list of pegs. Listed uses also include trampolines and carports.",
     "specs": [
       "4 steel anchors, 15 inch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4141WmElzTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCSSKP2Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCSSKP2Z?tag=rvgearlab-amz-20",
     "description": "The Keovoker set has 12 galvanized alloy steel threaded stakes, 8 inches long, with a glow-in-the-dark top that charges in the sun. The kit includes a hex head driver, a stake puller, 12 protectors and a carrying bag, and a 20 pack version of the same stake is also sold.\n\nIt beats the YIYAO and ROIKETU on extras, since it adds a puller and protectors for the stake heads. Against the Keltrion it is a much shorter stake, in return for a lower price and an easy-to-spot glow top.\n\nIt suits campers who set up late and want stakes they will not lose or trip over. The listing names sand, soil and rocky ground as terrain.",
     "specs": [
       "12 galvanized threaded stakes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vn-fR+v-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN3J7J7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN3J7J7V?tag=rvgearlab-amz-20",
     "description": "The YIYAO pack has 20 carbon steel stakes that are 8 inches long and 0.31 inches in diameter, galvanized for rust resistance. A 13 mm hex bit and a storage box are in the package.\n\nAt 20 stakes it covers more pegs than the 12 packs from Keovoker and ROIKETU, and it also comes with a hard storage box. It lacks the Keovoker's glow top and puller.\n\nIt is a good fit for a big family tent or a group camp that needs lots of tie-down points. The listing names grass, hard soil and gravel as surfaces.",
     "specs": [
       "20 carbon steel stakes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iT-zXY7pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYLV7RSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYLV7RSW?tag=rvgearlab-amz-20",
     "description": "The ROIKETU set includes 12 threaded steel stakes measuring 8 inches by 0.3 inches, plus a magnetic hex drill adapter. The steel carries a corrosion-resistant coating.\n\nIt costs less than the Keovoker 12 pack at the same stake count and length, and it adds a magnetic adapter. Against the YIYAO it has fewer stakes and no storage box.\n\nIt suits tent and canopy owners who want a cheap drill-in upgrade over a hammered stake. The listing names grass, loose soil and uneven conditions.",
     "specs": [
       "12 threaded steel stakes",

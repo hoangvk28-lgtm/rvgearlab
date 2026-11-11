@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rbYcOdzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWH7NHB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWH7NHB8?tag=rvgearlab-amz-20",
     "description": "The LiPower TP300V2 is the only listing here that names CPAP use. It packs 296Wh, 300W rated and 600W peak output, weighs 9.2 lb, and offers 8 ports, 120V AC, dual 100W USB-C PD and a DC output. It also lists pass-through charging and a 1-hour recharge.\n\nAt $249.99 it costs $100.00 more than the EnginStar 300W and $46.24 more than the DaranEner 288Wh. Pick this if you want a pass-through unit built around CPAP. Caveat: the listing does not state the battery chemistry, and 9.2 lb is heavier than the EnginStar 300W.",
     "specs": [
       "296Wh, 300W rated, 600W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 256Wh uses LiFePO4 cells rated for 3,000 cycles, and delivers 300W continuous and 600W peak through one AC outlet, DC5521 ports, a car socket and a 60W USB-C. It weighs 6.4 lb and measures 9.25 by 5 by 6.81 inches.\n\nIt costs $149, only $0.99 less than the EnginStar 300W, and has 40Wh less capacity but longer cycle life. Pick this if you want LiFePO4 at a low price. Caveat: 256Wh gives about one night for an average CPAP, and a heated humidifier would shorten that.",
     "specs": [
       "256Wh LiFePO4, 3000 cycles",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gapbcAKVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJD7LCY4?tag=rvgearlab-amz-20",
     "description": "The EnginStar 300W holds 296Wh, outputs 300W through two 110V pure sine AC outlets, and weighs 6.5 lb in a 9 by 5.5 by 7.5 inch body. It carries ETL certification, a voltage and temperature protecting BMS, and charges from a 12-25V solar panel, a wall plug or a car.\n\nAt $149.99 it is $0.99 above the ALLWEI 256Wh but adds 40Wh of capacity, and it costs $100.00 less than the LiPower TP300. Pick this if the most capacity per dollar is the priority. Caveat: the listing gives a 12 month service term and does not name battery chemistry or a 12V output.",
     "specs": [
       "296Wh, 300W, two AC outlets",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eCL+zTNML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6K5GFS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6K5GFS7?tag=rvgearlab-amz-20",
     "description": "The DaranEner 288Wh outputs 350W (600W surge) through two AC outlets, with a 12V/120W car port, a 60W USB-C PD port and two QC USB-A ports. It recharges from a wall outlet at up to 90W, a car at up to 100W, or solar with MPPT.\n\nAt $203.75 it is $54.75 above the ALLWEI 256Wh and $46.24 below the LiPower TP300. Pick this if your CPAP has a 12V cable, since the 120W car port avoids inverter loss. Caveat: wall charging tops out at 90W, so a full recharge is slow, and the weight is not listed.",
     "specs": [
       "288Wh, 350W (600W surge)",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eg7EkHYHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-amz-20",
     "description": "The Powkey 192Wh uses LiFePO4, weighs 4.7 lb and measures 7.1 by 5.3 by 5.5 inches with a foldable handle. It offers one 120V AC outlet at 200W, USB ports and two 12V 10A DC outputs.\n\nAt $99.99 it is $49.01 below the ALLWEI 256Wh and $50.00 below the EnginStar 300W, but 192Wh is the shortest runtime. Pick this if you need a small unit for short trips or a 12V CPAP cable. Caveat: 192Wh is enough for about 4 hours at 40W, not a full night.",
     "specs": [
       "192Wh LiFePO4, 4.7 lb",

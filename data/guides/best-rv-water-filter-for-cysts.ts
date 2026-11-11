@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LIR9FL4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-amz-20",
     "description": "The Clearsource Ultra RV Water Filter System with VirusGuard is a three-stage system with a 5 micron filter, a carbon stage and VirusGuard media, and the title names protection against viruses, bacteria and cysts. It sits in a powder-coated metal chassis with stainless steel fittings.\n\nIt is the most complete answer on the list, adding a charged-coating filter on top of fine micron media where the dual-canister kits stop at 0.5 micron. Three passes through separate filters is the main separator from the single-housing picks.\n\nBest for full-timers and well-water travelers who want the strongest documented protozoa-focused build. It also fits anyone who wants a permanent rugged mount.",
     "specs": [
       "VirusGuard media stage",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqGGIf09L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKCLMKRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKCLMKRZ?tag=rvgearlab-amz-20",
     "description": "The Clearsource Ultra Mini offers the same three-stage layout, with a 5 micron filter, carbon and VirusGuard media, in a lightweight aluminum chassis with stainless steel fittings. The listing says it offers the same level of protection as the full Ultra system.\n\nCompared with the Clearsource Ultra, it trades the heavier metal chassis for a lighter, more compact aluminum build at a lower price. That makes it easier to fit in a travel trailer bay.\n\nA great pick for travel-trailer owners who want the same filter stack in a smaller frame. It also suits anyone moving the unit often.",
     "specs": [
       "Three-stage filtering",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xV+PKDxJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XR21F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XR21F8?tag=rvgearlab-amz-20",
     "description": "The GoBluTech AR3 XLT is a 3-stage system with a 0.2 micron high-flow filter, a coconut shell carbon filter and a sediment stage in compact 10-inch cartridges. Stainless steel garden hose quick connects thread into city or well water.\n\nIt sits at the same price as the Clearsource Ultra Mini and swaps VirusGuard media for 0.2 micron filtering. The quick connects make setup fast between sites.\n\nBest for travelers who prefer a 0.2 micron physical filter with fast hookups. It also suits van and camper owners with limited space.",
     "specs": [
       "0.2 micron high-flow filter",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hrQxoprdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZ8ZJ2J?tag=rvgearlab-amz-20",
     "description": "The RV Water Filter Store Virus Hero is a 3-stage RV system with a 1 micron sediment filter, a 0.2 micron Virus Hero filter and a 0.5 micron carbon block. The listing says the 0.2 micron filter is NSF certified for pathogens and the metal trap lists iron, sulfur and lead reduction.\n\nIt costs roughly half of the Clearsource Ultra Mini while still using three stages. The metal trap adds a heavy-metals angle the other picks lack.\n\nA strong value for buyers who want a triple-stage system without the highest price. It also suits well-water campers with metal concerns.",
     "specs": [
       "1 micron sediment stage",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIax7ZYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBZ83HH?tag=rvgearlab-amz-20",
     "description": "The Beech Lane External RV Dual Water Filter System has lead-free 3/4 inch brass fixtures, a mounting bracket and two filters, a 5 micron sediment and 0.5 micron carbon block. It carries a lifetime manufacturer warranty on housing, fixtures and bracket.\n\nWhere the Virus Hero uses a 0.2 micron stage, this kit uses 0.5 micron media and keeps cost low while adding the strongest warranty. Brass fittings reduce leak points.\n\nA sensible pick for RVers on a budget who want dual-canister protection and a lifetime warranty. It also suits owners who plan to reuse the housings.",
     "specs": [
       "5 micron and 0.5 micron filters",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-amz-20",
     "description": "The OKBA External RV Dual Water Filter System uses thick plastic housings with a brass fixture and a mounting bracket. It includes a 0.5 micron carbon block, a 5 micron filter and a wrench.\n\nIt is the lowest-cost kit on this list and mirrors the Beech Lane layout. A mounted dual housing lets you change filters without disconnecting the hose.\n\nBest for first-time system buyers who want a staged setup without a big spend. It also suits seasonal campers.",
     "specs": [
       "0.5 micron carbon block",

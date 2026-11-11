@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21+-4z1ZxSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVV3JR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVV3JR1?tag=rvgearlab-amz-20",
     "description": "The Therm-a-Rest Compressible Cinch is a 14 x 18 inch pillow filled with upcycled urethane foam, with a stretch-knit cover and an integrated cinch cord that adjusts loft and firmness. It compresses for packing and expands quickly.\n\nIt is the only pick with an adjustable loft, which lets a side sleeper dial in height. It costs the most of the six.\n\nIt suits side sleepers who want a pillow that feels like home. The cinch cord fine-tunes support.",
     "specs": [
       "14 x 18 inch urethane foam",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Soc1nNy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXWYC51B?tag=rvgearlab-amz-20",
     "description": "The IWVE pillow is high-density memory foam, 10 cm (4 inches) thick, weighing 400 g and compressing to about 25 x 12.5 x 12.5 cm. A removable dual-season cover and ergonomic neck and lumbar support complete it.\n\nIt has a stated 4 inch thickness that suits side sleepers and a compressed size smaller than the Therm-a-Rest. It weighs more than the inflatables.\n\nIt suits side sleepers who want a foam pillow with real height. The cover is removable.",
     "specs": [
       "10 cm (4 inch) memory foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t5i+K4SRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KHRLR8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KHRLR8Q?tag=rvgearlab-amz-20",
     "description": "The InstantCamp is an inflatable pillow that weighs 2.4 oz with the stuff sack and packs to the size of a deck of cards. The listing says it stands higher than most pillows, with two center baffles to cradle the head.\n\nIt is the lightest pick and the cheapest, and the listing names side sleepers. It offers less support than the foam pillows.\n\nIt suits ultralight backpackers who sleep on their side. The baffles keep the head centered.",
     "specs": [
       "2.4 oz with stuff sack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ljc76cSjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07M7TBGJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07M7TBGJB?tag=rvgearlab-amz-20",
     "description": "The TREKOLOGY Aluft 2.0 folds to 5 x 2 inches and is made from elastic TPU fabric that resists water. A proprietary dot and latch design keeps it from slipping off the pillow area.\n\nIt is the most compact inflatable listed and adds a slip-resistant design that keeps your head from sliding. It offers less loft information than the InstantCamp.\n\nIt suits backpackers who want the smallest pack size. The latch holds it on a pad.",
     "specs": [
       "Folds to 5 x 2 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lngJzXHzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPNMT5DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPNMT5DM?tag=rvgearlab-amz-20",
     "description": "The Vaverto is a gel-infused, ventilated cooling memory foam pillow with a removable cover and hypoallergenic materials. The listing says it is easy to clean and durable.\n\nIt adds cooling foam that the IWVE lacks. It costs less than the IWVE.\n\nIt suits warm sleepers who want foam. The removable cover makes cleaning easy.",
     "specs": [
       "Gel-infused ventilated memory foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410WML9OwGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896WCB5D?tag=rvgearlab-amz-20",
     "description": "The Hikenture is an ultralight inflatable camping pillow with an upgraded design that the listing says resists air leaks. It has a removable, washable cover for comfort.\n\nIt adds a soft removable cover, which feels better against the face than bare fabric. It does not list a weight or loft.\n\nIt suits side sleepers who want an inflatable with a soft cover. The cover can be washed.",
     "specs": [
       "Ultralight inflatable pillow",

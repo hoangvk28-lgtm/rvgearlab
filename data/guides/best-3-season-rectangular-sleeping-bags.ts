@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z05C975jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7DL4ML7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7DL4ML7?tag=rvgearlab-amz-20",
     "description": "The Naturehike Big and Tall is an 86.6 by 39.4 inch bag filled with SUNDOUCE Thermal Fiber (polyester), lined in 100% cotton flannel and shelled in 210T water-repellent pongee. Two-way zippers run on the sides and bottom, and an independent bottom zipper opens the foot.\n\nIt gives the most room of the five and is machine washable on a gentle cycle. It is the highest priced of the five.\n\nIt suits big and tall campers who want a soft, roomy bag for cool nights. Pair it with a pad for warmth.",
     "specs": [
       "86.6 x 39.4 inch big and tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416uiYdBf-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGHD64PJ?tag=rvgearlab-amz-20",
     "description": "The KANYAK is an 86.6 by 32.48 inch rectangle weighing 4 lb, with stated ratings of 41 degrees F comfort and 32 degrees F limit. It has three zippers, including a separate foot zipper, and a 210T polyester shell.\n\nIt prints both figures, which no other pick here does, and its splicable design lets two bags join. It is slimmer than the Naturehike.\n\nIt suits campers who want honest numbers and the option to zip a pair together. Plan around 41 degrees as the comfortable end.",
     "specs": [
       "Comfort 41F, limit 32F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sNUwTMLQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-amz-20",
     "description": "The VENTURE 4TH is a 90 by 39 inch XXL bag stated for 30 to 70 degrees F with a water-resistant shell, a compression sack and a lifetime replacement guarantee. The listing does not use the word rectangular.\n\nIt offers the largest listed size and the widest printed range, at a price below the Naturehike. It is machine washable.\n\nIt suits tall campers who want an XXL bag on a budget. Choose it for spring to fall.",
     "specs": [
       "30 to 70F range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DE5PUsWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP1M5392?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP1M5392?tag=rvgearlab-amz-20",
     "description": "The Xelaro is an 86.6 by 31.5 inch rectangle in ripstop polyester with polyester-cotton fill and a design comfort temperature of 59 degrees F, with a 50 to 68 degrees F rating. It has a two-way anti-pinch zipper and a draw cord closure.\n\nIt is the cheapest bag here and prints both a comfort figure and a range. It is narrower than the Naturehike and prints a higher comfort figure than the KANYAK.\n\nIt suits warm-night campers and house guests. It is a cool-to-warm weather bag.",
     "specs": [
       "86.6 x 31.5 inch rectangle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410v6zvQUWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBMG1CHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBMG1CHF?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA lists a single occupancy, 3 seasons and a 50 to 68 degrees F range, with a 190T nylon shell, a polyester pongee lining and polycotton fill. The listing describes stitching and material as neat and comfortable.\n\nIt matches the Xelaro's range at a similar price and prints fewer details. The shape is not described.\n\nIt suits guests, sleepovers and backups. Treat it as a mild-weather bag.",
     "specs": [
       "50 to 68F range",

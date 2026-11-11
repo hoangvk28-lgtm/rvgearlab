@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418vK-Jr1AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCZBKQ16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCZBKQ16?tag=rvgearlab-amz-20",
     "description": "The Senninger PRLG is a 3/4 inch female by 3/4 inch male hose-thread pressure regulator set to 30 PSI. Its listing says every unit is 100 percent pressure tested and describes very low hysteresis and friction losses.\n\nIt is the clearest 30 psi fixed regulator here and carries a patented tamper-proof design. Compared with the Senninger OCWG, it lists the pressure-test claim and the installation flexibility above or below ground.\n\nBest for buyers who need a fixed 30 psi hose regulator from an established irrigation maker. It also suits permanent outdoor setups.",
     "specs": [
       "30 PSI fixed output",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P4aYGTq+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01997OCWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01997OCWG?tag=rvgearlab-amz-20",
     "description": "The Senninger 3/4 inch Hose Thread Pressure Reducer is also a 30 PSI fixed unit on garden hose thread. The listing notes it connects to standard garden hoses.\n\nIt costs a little less than the PRLG and reads like the same family of product. It is the straightforward choice when you only need the thread and the 30 psi number.\n\nA good fit for hose-end use at a campsite spigot. It also suits buyers who want to save a few dollars.",
     "specs": [
       "30 PSI fixed output",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YQJXSsMvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BBRQNMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BBRQNMH?tag=rvgearlab-amz-20",
     "description": "The Vibrant Yard Co 20-30 psi Pressure Reducer holds pressure between 20 and 30 psi with a 25 psi nominal output. It lists a 0 to 7 GPM flow, 140 psi maximum inlet and lead-free brass construction.\n\nIt is the first pick that states both a flow range and an inlet limit, and it uses 3/4 inch female and male hose threads. It costs less than the Senninger PRLG.\n\nBest for buyers who want brass and a stated flow range. It also suits timers, filters and backflow preventers.",
     "specs": [
       "20 to 30 psi output",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YQJXSsMvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1M42TVG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1M42TVG?tag=rvgearlab-amz-20",
     "description": "The Vibrant Yard Co 25 psi Water Pressure Regulator holds 20 to 30 psi with a flow of 0 to 6.8 GPM. It has 3/4 inch FHT inlet and MHT outlet connections and solid lead-free brass.\n\nIt is the lowest-priced pick and is near-identical to the 20-30 psi model. The listing says it upgrades from plastic regulators.\n\nA good pick for budget buyers who accept a 25 psi nominal output. It also suits drip and mist lines.",
     "specs": [
       "20 to 30 psi range",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NH97afS3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO RV Water Pressure Regulator is lead-free brass and the listing says it complies with NSF/ANSI/CAN 372:2024. It comes pre-set to 45 PSI and can be adjusted, and it includes two extra inlet cartridges and a roll of water tape.\n\nIt is the only RV-specific and adjustable pick here, so it can be dialed toward a lower pressure after install. The spare cartridges add a filter-style benefit.\n\nBest for RV owners who want to tune pressure instead of buying a fixed 30 psi unit. It also suits those who want spare cartridges.",
     "specs": [
       "Adjustable, preset 45 PSI",

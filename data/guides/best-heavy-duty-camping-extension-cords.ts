@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41woXrTpnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMTJLMCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTJLMCK?tag=rvgearlab-amz-20",
     "description": "The POWGRN is a 50 ft, 12 gauge, 15 amp cord rated 125V and 1875W with an SJTW jacket, ETL and cETL listing and a lighted end. The IP65 jacket is heat-resistant to 158F and corrosion-resistant, and its bright color helps prevent trips.\n\nIt combines a long 50 ft run with a lighted end and an IP65 jacket. The PlugSaf and HUANCHAIN offer shorter 25 ft runs.\n\nIt suits a camper who needs a long outdoor run for a heater or a kitchen setup. The LED confirms the far end has power.",
     "specs": [
       "12/3 gauge, 50 ft, 15A",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XCLL4+j2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7RN9T4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7RN9T4G?tag=rvgearlab-amz-20",
     "description": "The Deeklify is a 50 ft, 12 gauge, 15 amp cord rated 1875W with pure copper conductors, strain relief and a hook design, ETL and cETL certified. It tolerates -58F to +158F, passes more than 2000 bending tests and has a polyethylene sheath.\n\nIt lists the widest temperature range of the group. It is cheaper than the POWGRN at the same length.\n\nIt suits a cold-weather camper who needs a long heavy cord. A 10 ft version of the line is also sold.",
     "specs": [
       "12 gauge, 50 ft, 15A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AmC34UokL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDYR195?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDYR195?tag=rvgearlab-amz-20",
     "description": "The PlugSaf is a 25 ft, 12/3 cord rated 15A, 125V and 1875W with an SJTW jacket, ETL and cETL listing and a bright yellow sheath. The IP65 jacket handles -40F to 140F and a lighted end shows when it is powered.\n\nIt is shorter than the 50 ft pair and lighter to coil. The 25 ft length fits most tent sites.\n\nIt suits a camper who wants a heavy cord for a space heater or a slow cooker without hauling a 50 ft coil. The bright yellow sheath is easy to spot in grass.",
     "specs": [
       "12/3, 25 ft, 15A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z05LlPUQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WQNRN9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WQNRN9P?tag=rvgearlab-amz-20",
     "description": "The HUANCHAIN is a 25 ft, 12 AWG cord with an extra-size NEMA 5-15 plug and socket, a lighted end and a flame-resistant vinyl jacket rated to -50C. The jacket is described as flexible, abrasion-resistant and corrosion-resistant.\n\nIt is the least expensive of the 12 gauge cords and shares a 25 ft length with the PlugSaf. The oversized plug is easier to grip with gloves.\n\nA shopper after a flexible 12 gauge cord at a modest price will like it. Gloves grip the oversized plug well.",
     "specs": [
       "12 AWG, 25 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mh2sb-a3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08CV4GDVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08CV4GDVQ?tag=rvgearlab-amz-20",
     "description": "The DEWENWILS combines a 15 ft SJTW 14/3 cord with a five-outlet hub rated 125V, 15A and 1875W, and a built-in 15A circuit breaker that cuts power on overload. The outlets sit in a circle with wide spacing.\n\nNo other pick has multiple outlets and a breaker, while the cords above have one socket. The listing places it for indoor and outdoor use, away from wet conditions.\n\nIt suits a camper with a canopy or shelter who wants several outlets at the end of the cord. The breaker adds a safety layer.",
     "specs": [
       "14/3 cord, 15 ft",

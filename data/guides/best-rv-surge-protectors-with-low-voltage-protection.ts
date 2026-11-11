@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ee8JfWN0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-amz-20",
     "description": "The TGJOR is a 50 amp protector with 20,000 joules of surge absorption, automatic power disconnect and 110 degree C overheat protection. An LCD shows live voltage with 103V to 132V marked as the normal range, plus fault codes when something is wrong.\n\nAgainst the EyGde 50A, which relies on indicator lights, the TGJOR adds a numeric voltage display and a stated disconnect. Compared with the 30 amp CARMTEK and Kohree, it is the one built for a 50 amp pedestal with both legs.\n\nIt suits 50 amp rigs that run air conditioning in busy parks where voltage drops are common. Watching the number before and after switching on a big load becomes a habit quickly.",
     "specs": [
       "20,000J with auto disconnect",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jmWa4A68L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08K8T5F5Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08K8T5F5Z?tag=rvgearlab-amz-20",
     "description": "The CARMTEK is a 30 amp protector rated 30A, 125V and 3750W with 2100 joules of surge absorption. Its listing says it helps protect against dangerous high or low voltage and electrical disturbances, and the circuit analyzer checks wiring before the rig is connected.\n\nNext to the Kohree it carries a much lower joule number, yet it names an operating range of minus 35 to plus 110 degrees C. Compared with the TGJOR it is a simpler indicator-style unit for the smaller 30 amp plug.\n\nIt fits travel trailers with a 30 amp inlet that want a basic check of the pedestal each stop. The grip handles and right-angle plug keep it easy to pull out of a tight outlet.",
     "specs": [
       "2100J, 30A, 125V, 3750W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415WN3SelZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC2FGZ1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC2FGZ1N?tag=rvgearlab-amz-20",
     "description": "The EyGde 50A offers 5000 joules in a nine-mode design rated 50A, 125V and 6000W. Its LED indicators follow a diagnostic chart for faulty wiring, and a clear IP67 cover guards the plug connection.\n\nIt costs well under the TGJOR and shares the 50 amp plug, which makes it the budget route into a 50 amp analyzer. Compared with the 30 amp units, it handles a full 50 amp service at a noticeably lower price.\n\nIt suits 50 amp owners who want wiring faults flagged and a resettable protector without paying for an LCD. The listing names a wide operating temperature range for hot or cold sites.",
     "specs": [
       "5000J, nine-mode protection",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipT8WqgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-amz-20",
     "description": "The Kohree lists 12,000 joules absorbed within 1 nanosecond, diagnostic LEDs and an IP67 waterproof cover. Its housing is flame retardant with pure copper conductors and grip handles on a right-angle plug.\n\nIt has about six times the joule rating of the CARMTEK and costs the least here. Against the 50 amp picks it shares the diagnostic idea and serves 30 amp inlets.\n\nIt is the pick for budget buyers who mainly need strong surge absorption and a wiring check. The grip handles make pulling it from a crowded pedestal easy.",
     "specs": [
       "12,000J within 1 nanosecond",

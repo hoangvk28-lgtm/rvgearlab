@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KPaX8UwTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HMWDNVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HMWDNVX?tag=rvgearlab-amz-20",
     "description": "The Eventek is a 12W lantern with 40 LEDs, listed as infinitely dimmable across four light modes. A 20000mAh battery is rated for up to 144 hours and the body is IPX5 with a 90 degree rotatable metal stand.\n\nIt has the largest battery and the biggest light output of the group, which the ZMNT and PopoIron cannot match. Dual USB-A outputs also let it charge phones.\n\nIt suits campers who want one strong dimmable light for a tent, a picnic table and a phone top-up. A storage bag, hook and carabiner come with it.",
     "specs": [
       "12W, 40 LEDs, infinite dimming",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LK3sZEb3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GY73946?tag=rvgearlab-amz-20",
     "description": "The ZMNT lists four modes (cold, natural, warm white and SOS), infinite dimming and a 6700mAh battery. Up to 300 hours is claimed at the lowest setting, and a magnetic base and hook handle hanging or sticking to metal.\n\nIt is smaller than the Eventek yet keeps infinite dimming and an IPX5 rating. A 2-year warranty appears in the listing.\n\nIt suits tent campers who want a pocketable light with a long low-setting runtime. A phone top-up is possible from the same pack.",
     "specs": [
       "1000 lumens, 6700mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PdS-Vy+yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWCYW93X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWCYW93X?tag=rvgearlab-amz-20",
     "description": "Stepless dimming runs across five modes on the Sinvitron, backed by 1000 lumens and a 5200mAh cell. Its remote works at up to 10 meters and the IPX5 shell copes with rain.\n\nIt is the only pick that dims from a remote, which saves reaching up to a hanging light. It carries a smaller battery than the ZMNT and Eventek.\n\nIt suits people who dim a tent light from bed. The emergency use named in the listing makes it useful at home too.",
     "specs": [
       "1000 lumens, 5200mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ThCgUhYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR8L4JLP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR8L4JLP?tag=rvgearlab-amz-20",
     "description": "The PopoIron is a three-pack of 300 lumen lanterns with a 4000mAh battery in each. Stepless dimming runs across three color modes, a 360 degree rotating stand holds the light, and a side LED works as a flashlight.\n\nThree lanterns arrive in the pack, one for each tent, table or room. Each light is dimmer than the Sinvitron, ZMNT or Eventek, and also smaller.\n\nIt suits families and groups who want soft, dimmable lights in several places. The folding design stores flat.",
     "specs": [
       "Three lanterns, 300 lumens each",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KBQqfO08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX4NLQWC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX4NLQWC?tag=rvgearlab-amz-20",
     "description": "The Lepro lists dimming up to 1000 lumens, four modes (daylight white, warm white, full brightness and flashing) and an IPX4 rating. Three D alkaline batteries power it for up to 12 hours at 1000 lumens.\n\nIt is the only non-rechargeable pick, which suits trips where you cannot plug in. A hook and metal handle make it easy to hang or carry.\n\nIt suits campers who prefer D cells they can replace anywhere. The removable cover keeps the base tidy.",
     "specs": [
       "Dims up to 1000 lumens",

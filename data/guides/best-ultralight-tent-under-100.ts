@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VmjAIuWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNPVH7DB?tag=rvgearlab-amz-20",
     "description": "The TGpao Bivy is a one person freestanding tent that the listing puts at 2.2 lb (1 kg), built on 7001 aluminum poles. The outer fly carries a 2000 to 3000 mm waterproof rating over a PU2000 base, with a zippered mosquito net and a reflective guy line.\n\nIt is the only tent in this guide to give a true ultralight number, which puts it a clear step below the 5.29 lb Clostnature 2P. Compared with the camppal Solo, it trades a lower stated waterproof rating for far less weight.\n\nIt suits solo hikers and bikepackers who put pack weight first and are not tall. The listing sizes it at 80 by 230 cm for people under 6 ft 4 in.",
     "specs": [
       "2.2 lb, 7001 aluminum poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XRADb0X+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0813NHSZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0813NHSZ1?tag=rvgearlab-amz-20",
     "description": "The camppal Solo is a one person single-pole tent with a 3500 to 4000 mm waterproof rating and seam-taped zippers, corners and velcro wraps. The inner tent measures 8.2 by 2.95 by 2.95 feet, the listing cites CPAI-84 fire retardant fabric, and an aluminum pole holds it up.\n\nAgainst the TGpao Bivy, it carries a higher stated rain rating and a longer 8.2 ft footprint, so tall campers get room to stretch and stash gear at the foot. The single pole keeps the pole bundle small.\n\nIt fits solo campers who face real rain and need length more than ultralight weight. The listing says setup takes about three minutes.",
     "specs": [
       "3500 to 4000 mm outer rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XP3ccIaiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D4J3J2R?tag=rvgearlab-amz-20",
     "description": "The Clostnature 2P is a freestanding two person tent that measures 7 ft 3 in by 4 ft 11 in by 3 ft 10 in, with a PU5000 rain fly and bathtub floor. The listing gives 5.29 lb total and 4.52 lb at minimum trail weight, and it includes 14 aluminum stakes and a pole repair kit.\n\nCompared with the TGpao Bivy, it gives you a full second sleeper's worth of space and a higher stated waterproof rating for about double the weight. Against the Night Cat 2P, it lists weights and ratings, and brings twin D-shaped doors and twin vestibules.\n\nIt suits couples or a solo camper who wants room for gear, who will accept a heavier carry. The mesh walls give plenty of airflow.",
     "specs": [
       "5.29 lb total, 4.52 lb minimum",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat 2P is a two person tent that pitches with two aluminum poles and has a floor roughly 6.8 feet long and 4.6 feet wide. It carries a welded waterproof floor, a full-coverage rainfly, seam tape, two D-shaped doors and dual vestibules.\n\nIt is the most affordable entry to a two person shelter on this list. Next to the Clostnature 2P, it has a slightly smaller footprint, and the rain fly claims a rating up to 3000 mm.\n\nIt suits budget campers who want a roomy two person tent for warm-weather hikes. Full mesh walls and ceiling vents handle humid nights.",
     "specs": [
       "Roughly 6.8 ft long floor",

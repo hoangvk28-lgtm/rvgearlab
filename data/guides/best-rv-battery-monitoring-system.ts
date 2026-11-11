@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JMJoWZwTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKKN2JP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKKN2JP?tag=rvgearlab-amz-20",
     "description": "The AILITRON monitor pairs a shunt, listed as available in 50, 100 and 350 amp models, with a backlit LCD and a free iOS and Android app for voltage, current and remaining capacity. Its listing claims plus or minus 1 percent capacity accuracy, a battery capacity preset up to 9,999 amp-hours, an 8 to 120 volt range, programmable high and low voltage alarms and a one-year warranty. It shows a battery icon, remaining time and percentage on the LCD.\n\nIt ranks first at $59.50, $23.78 below the Renogy kit with its Bluetooth module and $14.14 below the Hamwesh WiFi unit. It gives you the display and the app in one box without a wireless-only design. The title says 500A while the body lists 50, 100 and 350 amp shunt models, so confirm which shunt you are ordering.\n\nPick this if you want an app and a display at a moderate price for a 12 volt system. The caveat is the conflicting shunt rating in the listing, and Bluetooth range keeps the app near the rig.",
     "specs": [
       "Shunt plus LCD and app",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QM0l8I9AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXC9J835?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXC9J835?tag=rvgearlab-amz-20",
     "description": "This Renogy kit bundles the 500A shunt monitor, listed with 1 percent accuracy, high and low capacity alarms and a 20 foot shielded cable, with a Renogy Bluetooth module. The module is described as an IP54 Bluetooth 4.2 device powered through an RJ12 port with a signal range up to 82 feet, working with the Renogy DC Home app and compatible Rover, Wanderer and Adventurer charge controllers.\n\nIt ranks second at $83.28, $23.78 above the AILITRON and $4.68 below the Zunate. The kit makes the most sense if your solar charge controller is already Renogy, because the module is described for those controllers. The listing does not clearly say that the module relays the shunt monitor's readings, so confirm before counting on it for battery data.\n\nChoose it if you run Renogy charge controllers and want one app for them. The caveat is that unclear listing wording about whether the Bluetooth module reports the shunt data.",
     "specs": [
       "500A shunt, 1% accuracy",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418TLHU0OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMJJJQLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMJJJQLM?tag=rvgearlab-amz-20",
     "description": "The Hamwesh monitor connects over WiFi through an app so you can check voltage and current from anywhere, adds Bluetooth sync within about 10 meters, and uses a 2.4 inch color LCD with dark and light modes. Its listing describes bidirectional current measurement from 0 to 50 amps and 10 to 100 volts, custom overvoltage, undervoltage and overcurrent limits with automatic shutdowns, a buzzer, and a package with a shunt, a 1 meter red wire and a 5 meter communication cable.\n\nIt ranks third at $73.64, $14.14 above the AILITRON and $14.32 below the Zunate that offers a 100 amp range. The WiFi path is what the money buys: global remote checks that Bluetooth cannot do. The 50 amp limit is the major constraint, since a trailer with a microwave or inverter can exceed it.\n\nPick this if your loads are modest, such as a small van or lights and a fridge, and you want to check your battery from home. The caveat is the 50 amp ceiling and a 5 meter cable.",
     "specs": [
       "WiFi and Bluetooth, 0 to 50A",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uIlROd47L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1VGGFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1VGGFR?tag=rvgearlab-amz-20",
     "description": "The Zunate monitor measures 0 to 100 amps across 10 to 100 volts, with WiFi and Bluetooth remote monitoring through an app, a 2.4 inch color LCD with dark and light modes and displays for voltage, current, power, amp-hours and watt-hours. Its listing describes over and under voltage, overcurrent, overpower, over-temperature and time-limited protections, a buzzer with pop-up alerts, power-off memory and an included shunt, sampler and cables.\n\nIt ranks fourth at $87.96, the highest here, $14.32 above the Hamwesh with double the current range, and $4.68 above the Renogy kit. It costs $51.46 more than the AiLi Hall effect unit. The 100 amp range suits a mid-size system but is well below the 350 and 500 amp shunts in wired monitors, so check your inverter before buying.\n\nChoose it for the longest current range among the WiFi units. The caveat is that 100 amps still limits any inverter over about 1,000 watts at 12 volts.",
     "specs": [
       "WiFi and Bluetooth, 100A",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EfKmWj6BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D2X2JSH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D2X2JSH?tag=rvgearlab-amz-20",
     "description": "The AiLi monitor reads 400 amps in either direction using a Hall effect current sensor with a 20 millimeter through-hole: you thread an existing cable through it, with no shunt, no cutting and no re-terminating. Its listing describes a 0 to 300 volt range, an STN LCD showing state of charge, amp-hours, current, voltage, power and energy, electrical isolation of the sensor, reverse polarity protection and a display powered from the measured system at 5 to 90 volts.\n\nIt ranks last at $36.50, the lowest price here, $23.00 below the AILITRON and $51.46 below the Zunate. It has no app or remote access at all, so it is a local display, but it is the easiest to install and has the widest current range of any unit here at 400 amps. Hall effect sensors can drift with temperature and offset, so a listed resolution of 0.1 amp is not the same as shunt-level low-current accuracy.\n\nPick this if you cannot or do not want to cut cables and want a high-current display without wireless. The caveat is no remote data and a sensor type that is less precise at small currents.",
     "specs": [
       "400A Hall effect sensor",

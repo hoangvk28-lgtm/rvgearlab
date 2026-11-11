@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oZ9W-SBkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3JL5H9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3JL5H9S?tag=rvgearlab-amz-20",
     "description": "GUTA's GT60 has a 7 inch color display charged by a large solar panel or fast USB-C, with a 0 to 188 psi range. GUTA's GT60 is a 10-sensor RV TPMS with a 7 inch color LCD, a listed range of 0 to 188 psi and a signal distance of 90 to 100 m. The display charges from a large solar panel or fast USB-C and shows time with six alarm modes.\n\nIt states a longer signal distance than most and costs more. The listing does not state the sensor type.\n\nBest for a large rig that wants a big solar screen. It is the premium solar display here, so confirm the sensor mounting type.",
     "specs": [
       "10 sensors, 7 inch color display",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+7T-HYBiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK1CMD71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK1CMD71?tag=rvgearlab-amz-20",
     "description": "B-Qtech's six-sensor kit uses flow-through sensors with solar and USB charging and a repeater. B-Qtech's six-sensor TPMS uses flow-through transmitters, a 3.2 inch HD LCD, solar and USB charging and a repeater to enhance the signal. The listing says the flow-through design lets you inflate without removing the sensors.\n\nIt lets you add air without removing the sensors, unlike Avutrel 12-Sensor, and covers six tires. It needs sturdy valve stems.\n\nBest for a mid-size rig that wants flow-through and a repeater. Check valve stem type, since flow-through sensors need sturdy stems.",
     "specs": [
       "6 flow-thru sensors, repeater",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Xb7gg6fwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HXC69Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HXC69Z?tag=rvgearlab-amz-20",
     "description": "Avutrel's 12-sensor kit has a 7 inch solar display with interior temperature and time. Avutrel's 12-sensor TPMS has a 7 inch color screen, a 12-wheel repeater system and all-copper sensors with six alarm modes. The monitor can switch between 4, 6 and 12 wheel modes and shows interior temperature and time while charging by solar.\n\nIt covers more wheels than any other here and costs less than GUTA GT60. Its sensor type is not stated.\n\nBest for a long rig with many tires. It suits a long rig with many wheels, though the mounting style is not stated.",
     "specs": [
       "12 copper sensors, 7 inch solar display",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51omZYiveJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7S1RLBZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7S1RLBZ?tag=rvgearlab-amz-20",
     "description": "SYNJAUPO's 10-sensor kit has a 7 inch screen and a booster, but its listing does not mention solar charging. SYNJAUPO's TPMS has a seven inch digital screen with manual brightness, four-, six- and eight-wheel modes and a dedicated signal booster. The listing cites pressure up to 188 psi and copper-core sensors.\n\nIt costs less than Avutrel 12-Sensor and lists pressure up to 188 psi. Confirm the power source with the seller.\n\nBest only after charging is confirmed. It is a high-range ten-sensor kit at a modest price.",
     "specs": [
       "10 sensors, 7 inch display",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41d8GfFpChL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRB4TGX5?tag=rvgearlab-amz-20",
     "description": "Masoll's four-sensor kit supports solar and USB charging with six alarm modes. Masoll's four-sensor TPMS supports solar and USB charging with six alarm modes and automatic alarm value setup. The monitor shows pressure and temperature for four tires.\n\nIt costs far less than the larger kits and covers four wheels. Its pressure range is not in the headline.\n\nBest for a four-wheel trailer on a budget. It is a low-cost four-wheel option.",
     "specs": [
       "4 sensors, solar and USB charging",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MvQZ30D7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-amz-20",
     "description": "Masoll's M13 four-sensor kit uses solar charging with auto wake and sleep and a 0 to 87 psi range. Masoll's M13 is a four-sensor TPMS with solar charging, auto wake and sleep, automatic alarm value setting and a 0 to 87 psi detection range. It is described for vehicles with four tires.\n\nIt is the cheapest here and its 87 psi ceiling limits heavy tires. It covers four wheels.\n\nBest only for lower-pressure tires. The 87 psi ceiling limits it to lower-pressure tires.",
     "specs": [
       "4 sensors, 0 to 87 psi",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RygeapsYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree Gravity 3L attaches an EZ-Clean hollow fiber element (0.1 micron) to a collapsible bag of 3 liters. It filters at up to 2 liters per minute with a stated capacity of up to 1,000 liters.\n\nIt is the lightest and flattest system here, and it cleans by shaking or swishing. Compared with the Platypus GravityWorks, it holds half the water and weighs far less.\n\nIt suits duos and small groups of up to three who hike. Hang it from a branch and let gravity work.",
     "specs": [
       "0.1 micron EZ-Clean filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-zos+CmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV9ZRYCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV9ZRYCM?tag=rvgearlab-amz-20",
     "description": "The Platypus GravityWorks 6L has a dirty bag and a clean bag of 6 liters each, with a hollow fiber microfilter, hoses and a shutoff clamp. The listing says it meets EPA and NSF guidelines, with 99.9 percent protozoa and 99.9999 percent bacteria removal.\n\nIt claims six liters in under four minutes, a fill time that no other page here prints. Compared with the Katadyn BeFree Gravity, it handles a whole camp and costs the most of the six.\n\nIt suits families and groups who cook and drink from one supply. A PFAS-free DWR storage sack comes with it.",
     "specs": [
       "6 liter dirty and clean bags",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dke1WZd2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 1 Gallon system filters with four stages: 0.1 micron hollow fibers, activated carbon and two PP fiber layers. The page cites NSF/ANSI 42, 372 and 401, a flow up to 500 ml per minute and a filter life up to 1,320 gallons (5,000 L).\n\nIt backflushes through a standard water bottle without a syringe and also works as a straw or a bottle filter. That flexibility is what sets it apart from the Katadyn BeFree Gravity.\n\nA fit for solo hikers and pairs wanting a standards-listed gravity set that doubles as a straw. The multiple modes help on varied trips.",
     "specs": [
       "NSF/ANSI 42, 372, 401 named",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zASVVW96L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y4XX65M?tag=rvgearlab-amz-20",
     "description": "The SimPure stacks a 0.1 micron hollow fiber membrane, a 5 micron coconut shell GAC filter and a 0.2 micron PP fiber filter under a 3 liter TPU bag. The page lists a 5,000 liter lifespan, 27 liters per hour and a 2.8 oz filter.\n\nIts lifespan is five times the BeFree Gravity's, and it works hands-free once hung. The filter can also be used as a personal filter or with a 29.5 inch extension tube.\n\nIt suits campers who want filtered water for cooking and bottle filling with little effort. The carbon stage helps taste.",
     "specs": [
       "5,000 liter lifespan listed",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bUntigrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086QNLBB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086QNLBB4?tag=rvgearlab-amz-20",
     "description": "The Waterdrop set includes an ultrafiltration straw (0.1 micron) plus a gravity bag that holds 1.5 gallons. Per the page, the straw handles up to 1,400 gallons (5,300 liters), moves 700 ml a minute at best, and can be backwashed with either end detached.\n\nThe straw works on bottles too, which gives the bag set more uses than the Platypus. Compared with the SimPure, it lists a longer lifespan and a faster flow.\n\nIt suits camp cooks and pairs who want a straw for the trail and a bag for camp. Backwash keeps the filter clean.",
     "specs": [
       "0.1 micron ultrafiltration straw",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fc7j6CZ9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZYMXLMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZYMXLMH?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 6L is a four-stage system built around a hollow fiber membrane of 0.1 micron, coconut shell carbon and dual PP pre-filters. The page says it is tested to NSF/ANSI 42, 372 and 401 and serves three to six people.\n\nIt holds 6 liters like the Platypus at a much lower price, and it doubles the reservoir of the BeFree Gravity. Its flow is slower at 0.5 liters per minute.\n\nIt suits car campers and budget groups who want a big reservoir. A reinforced strap hangs it from a tree.",
     "specs": [
       "6 liter four-stage system",

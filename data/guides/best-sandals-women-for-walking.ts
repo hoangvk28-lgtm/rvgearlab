@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-uwB2IQ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072T48FJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072T48FJ7?tag=rvgearlab-amz-20",
     "description": "The Skechers On-the-GO 600 Brilliancy is a sport sandal with a lightweight cushioning midsole and a contoured comfort footbed. The upper is soft woven mesh with a strappy design and an adjustable hook-and-loop closure, and the outsole is multi-directional for traction on different surfaces.\n\nCompared with the UBFEN Hiking Sandals, it leans on a branded walking-shoe midsole and a breathable mesh upper. Against the MEGNYA Walking Sandals, it adds a machine-washable build and a softer woven feel.\n\nIt is the one for women who want a sandal that behaves like a walking shoe in summer. Machine-washable care makes it easy to keep fresh after sweaty days.",
     "specs": [
       "Lightweight cushioned midsole",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B2Exwa41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ7YQ2MD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ7YQ2MD?tag=rvgearlab-amz-20",
     "description": "The UBFEN Hiking Sandals weigh about 175 grams per shoe according to the listing, with arch support and a rubber outsole made for walking and hiking. Upgraded hook-and-loop closures are described as lint-free and scratch-proof for a custom fit.\n\nNext to the Skechers On-the-GO 600, it is lighter on the foot and more trail-minded with all-terrain grip. Against the SUITSER Water Sandals, it trades the padded heel cuff for a lower, simpler strap layout.\n\nIt suits walkers who want a hiking-style sandal for beach, vacation and city trips. The style is meant to pair with casual outfits too.",
     "specs": [
       "About 175 grams per shoe",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uXpnFcQCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BRSKY9T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BRSKY9T?tag=rvgearlab-amz-20",
     "description": "The MEGNYA Walking Sandals use a rebound footbed and a rubber outsole for shock absorption. Quick-drying hook-and-loop straps made from soft webbing adjust the fit, and the listing says the pair works as river or water sandals too.\n\nCompared with the Skechers On-the-GO 600, it costs much less and swaps the branded midsole for a rebound footbed. Against the KuaiLu Bow Flip-Flops, it brings real straps and a more athletic outsole.\n\nIt suits women who want an affordable sporty pair for walks, camp and the water. Rugged rubber at the bottom makes it easy to carry along.",
     "specs": [
       "Rebound footbed, rubber outsole",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CArUskt0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVMPL4WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVMPL4WK?tag=rvgearlab-amz-20",
     "description": "The SUITSER Water Sandals have a padded heel cuff that cushions the heel and a soft EVA yoga-mat insole, along with arch support and a textured non-slip outsole. Adjustable hook-and-loop closures sit on back straps placed for comfort.\n\nCompared with the MEGNYA Walking Sandals, it adds a padded heel cuff and a softer insole. Against the UBFEN Hiking Sandals, it trades some lightness for more heel padding.\n\nIt suits women prone to heel rub on long walks and on days with water crossings. The quick-drying build covers beach, walking and light hiking.",
     "specs": [
       "Padded soft heel cuff",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lu+DdMpGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59TG5KZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59TG5KZ?tag=rvgearlab-amz-20",
     "description": "The Aomigoct Strappy Flats combine layered woven leather straps with a padded, skin-friendly insole and non-slip TPR soles. An adjustable buckle and elastic ankle strap make them easy to get on and adjust.\n\nCompared with the Skechers On-the-GO 600, it is the dressier option for office, dinner and beach weddings. Against the KuaiLu Bow Flip-Flops, it adds an ankle strap so the foot stays put.\n\nIt suits women who want to walk around a city or office in a polished flat. The listing names shopping, office and casual outings.",
     "specs": [
       "Woven leather-look straps",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vKr51k9OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5ZRQS2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5ZRQS2X?tag=rvgearlab-amz-20",
     "description": "The KuaiLu Bow Flip-Flops have a soft cloth bow strap, a memory foam EVA yoga-mat footbed and arch support. A deep-textured rubber sole offers grip, and the listing names resort, cruise and travel use.\n\nCompared with the MEGNYA Walking Sandals, it is a dressy thong with no closure. Against the Aomigoct Strappy Flats, it is cheaper and simpler.\n\nIt is a good choice for short strolls, resort days and as a spare pair at the lowest price here. The cushioned footbed keeps shorter walks comfortable.",
     "specs": [
       "Memory foam EVA footbed",

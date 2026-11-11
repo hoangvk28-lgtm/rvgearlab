@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tcbVOapKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F82XP35J?tag=rvgearlab-amz-20",
     "description": "NewDoar lists 1.5 lb for this bag and a compressed size near 11.8 by 6.5 inches in its sack. Ripstop nylon forms the shell over a breathable lining, and two-way zippers join two bags into a double at a 50 to 70F rating.\n\nAt 1.5 lb each, a pair weighs less than any true double on this list, and the Velcro neckline stops zipper creep. The 50 to 70F range keeps the pair to warm nights.\n\nIt suits couples who hike in summer and want to carry the weight in two packs. Buy two bags to make a double.",
     "specs": [
       "1.5 lb each",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f4QRpwjUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-amz-20",
     "description": "The Friendly Swede double liner weighs 12 ounces, folds to 6 by 8 inches and measures 59 by 79 inches. It opens down one side with a long double zipper and carries a lifetime warranty.\n\nIt is the lightest way for two to share one sleep layer, a fraction of the NewDoar pair, and it adds protection for a heavier bag. It gives no listed warmth by itself.\n\nIt suits hot-night trips and hostel hopping where a sheet is enough. It also keeps a rental or shared bag clean.",
     "specs": [
       "12 oz polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413R0v1JomL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5QRK55Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5QRK55Y?tag=rvgearlab-amz-20",
     "description": "QEZER fills this mummy with 2.2 lb of 600+ fill power duck down, and lists dimensions of 84.65 by 31.89 inches, a storage size of 14.96 by 7.48 inches and a weight of 3.64 lb. A wide trapezoidal foot box and left and right zipper versions are listed so two bags can attach.\n\nIt is warmer than the NewDoar and heavier, so a pair weighs about 7.3 lb. The down gives more warmth per pound for spring and fall trips.\n\nIt suits couples who want a down pair for cooler weather and can carry the weight. Buy matching left and right zipper versions.",
     "specs": [
       "3.64 lb, 600+FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FWd4s1M3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-amz-20",
     "description": "Kelty built the Tru.Comfort Doublewide as a 20F two-person bag with Cloud Loft synthetic insulation, independent ventilation, a removable top layer, two built-in blankets and foot vents. It measures 64 inches of shared shoulder space and 84 inches long.\n\nNothing else here is a single full-size double with real insulation for two. Independent vents and two built-in blankets let each sleeper set their own warmth.\n\nIt suits couples who want a single full double and accept the bulk. The independent vents let each sleeper adjust.",
     "specs": [
       "20F synthetic double",

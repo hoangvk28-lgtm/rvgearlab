@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rUe8+DK0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1JBR813?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1JBR813?tag=rvgearlab-amz-20",
     "description": "BougeRV's Li 30A is the only pick here whose listing states it can take around 450W on a 12V bank, which is a typical RV roof. BougeRV's Li 30A is a PWM controller for 12V or 24V banks that accepts 450W on 12V (900W on 24V) at a maximum 55V PV input. Its backlit LCD cycles PV current and battery voltage and shows dedicated icons for LFP and other lithium types.\n\nIt has far more capacity than Renogy Wanderer 10A or the 10A units that follow, and adds lithium icons on the LCD that HilapriSol 30A does not mention. The tradeoff is PWM regulation and a 55V PV limit.\n\nBest for a travel trailer or camper with two to four 100W panels. It is the strongest PWM option for a mid-size RV roof, as long as your panels are 12V-class rather than high-voltage.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410p3KHdviL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NPDWZJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NPDWZJ7?tag=rvgearlab-amz-20",
     "description": "Renogy's Wanderer 10A is a small four-stage PWM for 12V and 24V that fits a van or pop-up with one or two panels. Renogy's Wanderer 10A is a four-stage PWM controller for 12V or 24V systems that lists self-consumption under 10mA. It has a backlit LCD, USB charging and a lithium setting with manual activation.\n\nIt sits below BougeRV Li 30A in capacity but lists a self-consumption under 10mA that matters in storage. Compared with SUNAPEX MPPT 10A it is PWM and supports 24V.\n\nBest for a small van install with 100 to 150W of panels. It is a small, simple unit for a van or pop-up camper with one or two panels.",
     "specs": [
       "10A PWM, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m2bZI2ecL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGP8YMGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGP8YMGD?tag=rvgearlab-amz-20",
     "description": "SUNAPEX's 10A model is the only MPPT-labeled option here, aimed at 12V panels without built-in controllers. SUNAPEX's 12V 10A controller is described as MPPT and is designed for panels that do not have an integrated controller. It uses SAE connectors, an LCD and LED indicators, and offers Type-C and USB output ports.\n\nIt brings tracking to a very small array, which Voltset 10A and SOLPERK 10A PWM do not offer, but it cannot grow with a larger roof. The listing says it is not for panels with built-in controllers.\n\nBest for portable panels feeding a small 12V battery. It fits a small portable-panel setup, and the listing says it is not compatible with panels that have built-in controllers.",
     "specs": [
       "10A MPPT, 12V only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X1thV01cS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0946MWYPK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0946MWYPK?tag=rvgearlab-amz-20",
     "description": "SOLPERK's 10A PWM controller is IP67 waterproof and lists 150W at 12V and 300W at 24V. SOLPERK's 10A PWM controller is rated IP67 and identifies 12V or 24V automatically, with 150W maximum at 12V and 300W at 24V. It has an SAE port, two pre-drilled mounting holes and a listed 12-month extended warranty.\n\nIt has a 12-month extended warranty listed, which Voltset 10A does not, and is more capable on 24V than the 12V-only picks. It cannot match BougeRV Li 30A on capacity.\n\nBest for bumper-mounted or exposed installs on a small array. It is a tidy small-array controller, not for a full roof.",
     "specs": [
       "10A PWM, IP67 waterproof",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xx0ZmHRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDYKXJ1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDYKXJ1Q?tag=rvgearlab-amz-20",
     "description": "Voltset's 10A model is a 12V-only IP67 controller for LiFePO4, AGM and gel batteries. Voltset's 10A controller is built for 12V solar panels and works with 12V LiFePO4, AGM and gel batteries. It carries an IP67 rating, tri-color LEDs for solar input, charging and full battery, and a list of protections.\n\nIt is similar in rating to SOLPERK 10A PWM but lacks 24V and a warranty listing. Compared with SUNAPEX MPPT 10A it uses PWM and simple LEDs.\n\nBest for a small sealed 12V battery setup. It suits a small sealed 12V system or a portable panel on a pop-up camper.",
     "specs": [
       "10A, 12V only",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OgBZl5JzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9QMQCS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9QMQCS9?tag=rvgearlab-amz-20",
     "description": "HilapriSol's 30A PWM gives 30A capacity at a low price, with limited detail on battery chemistry. HilapriSol's 30A controller uses pulse width modulation on 12V or 24V systems, with a blue housing and clearly labeled terminals. The listing mentions safeguards against overcharging, over-discharging and short circuits.\n\nIt matches BougeRV Li 30A on amps but gives up the lithium LCD icons and the stated 450W figure. Against Renogy Wanderer 10A it offers triple the current.\n\nBest for a budget 30A step-up for lead-acid users. It is a basic low-cost 30A unit, so confirm battery compatibility before wiring.",
     "specs": [
       "30A PWM, 12V/24V",

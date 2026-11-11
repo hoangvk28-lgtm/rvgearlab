@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XP5pP34sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-amz-20",
     "description": "The Portal is a roomy 10 by 8 foot SUV tent with a 7.2 foot ceiling, a wide porch and a PU 2000mm coating. Two large windows and a full mesh ceiling give airflow, and it fits SUVs, MPVs, vans, crossovers and pickups with bed covers.\n\nStanding height and a covered entry make it the roomiest tent for the money, well ahead of the 8 by 8 foot Hatchback awning. The $150 Waterproof SUV Tent has a better rain rating and costs about $50 more.\n\nBudget families who want a covered entry and room to stand get the most from it. It also pitches alone when the car leaves.",
     "specs": [
       "10 x 8 x 7.2 ft with porch",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31c5BpWBheL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS9KF52L?tag=rvgearlab-amz-20",
     "description": "This SUV tent is 8 by 8 by 7.2 feet and fits 4 to 6 adults, with a PU3000mm coating, precision-sealed seams and a double-layer design. It attaches to the rear hatch of SUVs, crossovers, minivans and pickup trucks, and also stands alone.\n\nIt has a higher waterproof rating than the Portal and the Hatchback awning, and its sealed seams back it up. A two-person crew gets it standing in roughly five minutes, and the carry bag measures 23.6 by 11 by 11 inches.\n\nIt suits wet-climate campers who want the best rain protection near the cap. It fits an SUV air mattress inside.",
     "specs": [
       "8 x 8 x 7.2 ft, 4-6 adults",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dv4mhh+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRZ68W3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRZ68W3P?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS tailgate tent is cut from 150D Oxford polyester coated to PU2000 and adds a waterproof canopy that covers the car roof from the rear toward the windshield. An expandable awning, mesh panels, adjustable straps and two steel poles complete the kit.\n\nIt wraps the vehicle itself, which the Portal and the Waterproof SUV Tent do not, and it installs in about 8 minutes. It costs the least here after the Hatchback awning.\n\nIt suits drivers who sleep in the back of the SUV and want privacy. It packs down to 17.3 by 7.8 inches.",
     "specs": [
       "150D Oxford, PU2000",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g5-SutBgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2QMD8Z8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2QMD8Z8?tag=rvgearlab-amz-20",
     "description": "This 2-in-1 shelter works as a connected tailgate tent, a standalone car awning or a sun shade. It has a 3000MM water rating, UPF 40+, an extended side wall, two poles, eight reflective stakes and six guy ropes.\n\nIt is the cheapest pick and the most flexible, since it switches between tent, awning and sun shade. It offers less enclosed sleeping space than the Portal or the Waterproof SUV Tent.\n\nIt suits beach days and road trips where you need shade and privacy. It requires an upward-swinging hatchback or liftgate.",
     "specs": [
       "3000MM water rating, UPF 40+",

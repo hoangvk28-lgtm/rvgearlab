@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21gdL2Ha5iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBMH7N77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBMH7N77?tag=rvgearlab-amz-20",
     "description": "The 2026 Router Mini is a compact dual-band router that the listing says works with the Starlink Mini Kit, Gen 2 and Gen 3 routers. It extends coverage by up to 1,250 to 1,300 square feet and runs in a wireless mesh or wired Ethernet configuration.\n\nIt names the most Starlink models of any pick. Its phone-sized body suits RV storage.\n\nBest for owners extending a Starlink network. On the plus side, extends coverage.",
     "specs": [
       "Dual-band compact router",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LM8Y4mp5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSCW9RTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSCW9RTK?tag=rvgearlab-amz-20",
     "description": "The WiFi Router Mini lists dual-band Wi-Fi, mesh network readiness and a travel-friendly size, and works with both Starlink systems and standard internet providers. Buyers also get this: mesh expansion.\n\nIt is slightly pricier than the 2026 Router Mini and names fewer Starlink models. It suits owners who switch sources.\n\nA fit for owners who use Starlink and campground internet. It also stands out because dual-band radios.",
     "specs": [
       "Dual-band compact router",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rosFMi6QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1QBKKRY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1QBKKRY?tag=rvgearlab-amz-20",
     "description": "The Hugener Ethernet adapter hub is designed for the Starlink Router Mini (UTR-251), Standard 4 and V5, replacing an external switch. It has four gigabit ports, an integrated base and two DC power interfaces.\n\nIt is an Ethernet hub, not a router, so it adds wired ports to a Starlink setup. It costs less than the routers.\n\nBest for owners who want wired ports on a Router Mini. Worth noting on the listing: cuts cable clutter.",
     "specs": [
       "4 gigabit Ethernet ports",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21HjiV0LhVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V2R7W11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V2R7W11?tag=rvgearlab-amz-20",
     "description": "The TP-Link AC750 Wireless Portable Nano Travel Router has bridge, extender, access point and client modes and dual-band AC750 Wi-Fi. It runs from micro USB power and is travel-sized.\n\nThe listing does not name Starlink, and it can sit behind any Ethernet source. It is the cheapest option.\n\nA fit for owners who want a small private network behind any source. Among its strengths, small travel size.",
     "specs": [
       "AC750 dual band",

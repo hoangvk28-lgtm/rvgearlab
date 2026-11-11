@@ -1,6 +1,6 @@
 const SUPABASE_URL = "https://xlipolezpdkfmneqkncd.supabase.co";
 const SUPABASE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY;
-const TAG = "theofficejournal-20";
+const TAG = "rvgearlab-amz-20";
 const BASE = `https://www.amazon.com/dp`;
 
 const h = {

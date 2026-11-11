@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415zICKwZbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0098P71UK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0098P71UK?tag=rvgearlab-amz-20",
     "description": "The Optimus Vega is a single-burner remote canister stove that weighs 6.3 oz and accepts pots up to 22 cm (8.7 in) wide. The listing says flipping the cartridge upside down switches it to liquid fuel feed for steady output in the cold.\n\nThat inverted feed is the feature the MSR PocketRocket 2 and Coleman Classic do not describe, and it works with propane, butane or isobutane EN417 cartridges. Next to the Polaris Optifuel it is far lighter and uses simple canisters.\n\nIt suits winter campers, climbers and backpackers who want a dependable cold-weather canister stove without a liquid-fuel pump. Wide folding pot supports add stability.",
     "specs": [
       "Remote canister, 6.3 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xrIih5n2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0166Z8WCA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0166Z8WCA?tag=rvgearlab-amz-20",
     "description": "The GSI Pinnacle 4 Season is a remote canister stove with a micro control valve and a 9,820 BTU/h burner. Serrated pot support arms span 138 mm (5.4 in), and the folding design nests inside nFORM cookware.\n\nIt undercuts the Optimus Vega on price and keeps the remote canister mount that suits cold use. Next to the Polaris Optifuel it is simpler and cheaper, with canister fuel only.\n\nIt suits GSI cookware owners and budget-minded winter campers. The adjustable flame gives good simmer control.",
     "specs": [
       "Remote canister mount",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MkppCFt-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SVD6368?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SVD6368?tag=rvgearlab-amz-20",
     "description": "The Optimus Polaris Optifuel is a single-burner multifuel stove that runs on butane, isobutane, propane, white gas, kerosene, diesel and jet fuel through one jet. A 4-season mode boosts output in the cold, and a self-cleaning magnetic jet handles dirty fuel.\n\nIt ships with a FLIPSTOP pump, multitool, windscreen, heat reflector and stuff sack, which no other stove here includes. That fuel range is what sets it above the Vega on long expeditions.\n\nIt suits mountaineers and expedition travelers who may need to buy whatever fuel a country sells. The field kit is complete out of the box.",
     "specs": [
       "Multifuel, one jet",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 is a folding canister stove that weighs 2.6 oz and collapses to 2 by 2 by 3 inches. It boils 1 liter of water in 3.5 minutes and needs no priming or preheating.\n\nIt is the lightest pick here and the best choice for 3-season trips with mild nights. The serrated pot supports fit a wide range of pots, and a protective case is included.\n\nIt suits three-season backpackers who occasionally push into cool shoulder-season nights. It runs on isobutane-propane canisters.",
     "specs": [
       "2.6 oz, folds to 2x2x3 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OIPlQUk1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01B3NO4NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01B3NO4NQ?tag=rvgearlab-amz-20",
     "description": "The Coleman Classic 1-Burner weighs 6.7 oz and is rated at up to 10,000 BTU. The listing says it boils 1 liter in 3.25 minutes and uses PerfectFlow technology for consistent performance even in extreme conditions.\n\nIt is the lowest priced stove here and states a boil time faster than the PocketRocket 2. It fits a 6 inch pan.\n\nIt suits cost-conscious campers who want a name-brand folding stove for cool weather. It is not a dedicated winter stove.",
     "specs": [
       "10,000 BTU, 6.7 oz",

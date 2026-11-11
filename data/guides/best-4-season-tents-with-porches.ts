@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318A26eDiCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4T2B7X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4T2B7X4?tag=rvgearlab-amz-20",
     "description": "The Naturehike Massif is a 4-season hot tent with a stove jack and a snow skirt, designed with a room and a hall in front, so the porch is a real enclosed space with its own vestibule. It weighs about 10.47 lb, packs to 20.5 by 9 by 6.7 inches, and uses a 70D nylon fly rated at 3000 mm or more over a 7001 aluminum alloy cross frame. It costs about $299.\n\nCompared with the Naturehike Dune just below it, the Massif is more than six pounds lighter and packs far smaller, which makes it practical for cycling, motorcycle and backpacking trips, where the 16.5 lb Dune stays a car-camping tent. Against the GEERTOP below, it adds a stove jack for cold-weather heating and a hall that serves as a boot and cooking zone, plus two ventilation windows and breathable mesh to reduce condensation.\n\nIt suits winter campers who want a heated shelter without a heavy load, couples who value a private hall for gear, and anyone who wants porch space that is part of the tent rather than an add-on.",
     "specs": [
       "Room, hall and vestibule layout",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315pbQi7y5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLXVVP8K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Dune is a double-layer 4-season hot tent with a stove jack, a snow skirt and a removable inner tent measuring 86.6 by 59 by 63 inches, tall enough for two people to sit up comfortably. The fly is 75D polyester with a silver coating rated at 3000 mm, the floor is 150D oxford cloth rated at 4000 mm with taped corners, and the set weighs about 16.5 lb with three poles and 14 stakes. It costs about $359.\n\nCompared with the Naturehike Massif above it, the Dune carries more interior height at 63 inches and a thicker floor, at the cost of weight and pack size, which is why it is a base-camp tent. Against the Clostnature below it, it adds a stove jack, four double-layered doors with mesh for ventilation, and a vestibule that gives extra gear space without opening the main compartment.\n\nIt makes sense for snow camping, ice-fishing trips, hunting camps and cold-weather car camping where comfort inside the tent matters more than the pack weight. A pair of sleepers can live in it comfortably for several days.",
     "specs": [
       "86.6 x 59 x 63 inch removable inner",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmdz++XFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-amz-20",
     "description": "The Clostnature 2-person winter tent weighs 6.28 lb, or 5.33 lb at minimum trail weight with only the fly, inner and poles, and has an interior of 7 ft 3 in by 4 ft 11 in by 3 ft 10 in. It uses a polyester fly, groundsheet and bathtub floor with a PU 5000 coating, two aluminum poles and two D-shaped doors, each with its own side vestibule. It costs about $85.\n\nCompared with the Naturehike Massif above it, the Clostnature trades the hall and stove jack for a drastic cut in weight and price, about four pounds lighter and roughly $215 cheaper. Compared with the GEERTOP 4-person tent below it, it is a true two-person backpacking tent with a lower per-person price, and its snow flaps seal out spindrift. The kit includes a pole emergency repair kit, which is unusual at this price.\n\nIt works for winter hikers, cold-season bikepackers and anyone who wants two separate vestibules, one per sleeper, on a tent they can carry. A one-year guarantee is listed with the product.",
     "specs": [
       "6.28 lb, 5.33 lb minimum trail weight",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Jxv1YisZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZMRNKL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZMRNKL?tag=rvgearlab-amz-20",
     "description": "The GEERTOP 4-person dome weighs 9.1 lb and uses a 210T polyester inner, a 210D PU 5000 mm oxford floor, and a rain fly with a PU coating on two aluminum poles. It has two entrances, two ventilation windows and a vestibule, along with a snow skirt that suits colder seasons, for about $200.\n\nCompared with the Clostnature above it, the GEERTOP provides room for four people and costs more than twice as much, with a heavier weight of 9.1 lb. Against the Chihee below it, the GEERTOP uses aluminum poles instead of fiberglass and a floor rated at 5000 mm instead of the 2000 mm coating on the Chihee's fabric, so it has a more credible claim to four-season use. It needs only two poles, so setup takes a few minutes, even for one person.\n\nIt suits a family on a cold-weather trip, a group of friends sharing a larger shelter, or two campers who want room for gear inside and a covered vestibule. It is more of a camp tent than a backpacking tent.",
     "specs": [
       "9.1 lb, 4-person dome",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p8zoMf6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRJ3NZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRJ3NZF?tag=rvgearlab-amz-20",
     "description": "The Chihee is a tunnel tent for four people with two doors and a screened porch room, built from polyester with a PU 2000 mm coating and B3 mesh in the inner tent. The curved poles pre-attach to the tent, so setup is quick, and the listing describes extra-large interior space with a high center. It costs about $50, the lowest price here by a wide margin.\n\nCompared with the GEERTOP 4-person dome above it, the Chihee gives you a bigger covered porch, a screened room that works as a bug-free lounge, and a price about $150 lower. Its two entrances let you keep luggage in one and cook in the other, and the mesh in the inner tent helps ventilation and reduces condensation. Tunnel tents are also relatively quick to pitch when the curved poles are pre-attached.\n\nIt makes sense for family campers, three-season car camping, rainy-weekend shelters and anyone who values a roomy screened porch over winter performance. For cold and snow, treat it as a mild-weather shelter and check the pole and fabric details first.",
     "specs": [
       "4-person tunnel tent, two doors",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b1oVj7E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M5WTZVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M5WTZVD?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Winter Parka has a windproof, snow-resistant shell lined with plush fleece, a detachable hood, a full zip with concealed buttons and ribbed windproof cuffs. An adjustable hem and a drawstring hood help seal out the cold, and five pockets include a chest zip pocket.\n\nCompared with the 33,000ft softshell, it trades waterproofing for a heavier fleece lining and a parka cut. Against the SCODI hoodie, it brings a windproof shell and a detachable hood.\n\nIt suits men who hike, ski or camp in real winter cold. The detachable hood lets you adapt to the weather.",
     "specs": [
       "Windproof snow-resistant shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kcdQgp3kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YRDNXJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YRDNXJK?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Softshell is a three-layer jacket with a soft shell outside, a TPU membrane in the middle and a brushed fleece lining. Adjustable drawcord hood and hem, ribbed cuffs, stretch fabric and five pockets including a left-arm zip pocket finish the build.\n\nIt is the only waterproof and breathable hooded jacket in the list. Compared with the TACVASEN Winter Parka, it is lighter and more flexible, with less insulation.\n\nIt suits men who hike in cold rain and wet snow and want fleece warmth under a shell. The stretch fabric eases arm movement.",
     "specs": [
       "Three-layer shell, TPU membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417TvJIBZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01AZB9M8Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01AZB9M8Y?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Tactical Fleece has a stand-up collar with a hood, a two-way zip, a drawstring hem and six pockets, including sleeve pockets with patch panels. Thumb holes on the cuffs add warmth without restricting movement.\n\nCompared with the TACVASEN Winter Parka, it is a lighter plain fleece with more storage. It also costs less.\n\nIt suits men who want a hooded fleece with plenty of pockets for hiking, hunting and travel. The two-way zip vents at the waist.",
     "specs": [
       "Polyester fleece with hood",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UppvgydSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J4DK4BM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J4DK4BM?tag=rvgearlab-amz-20",
     "description": "The SCODI Heavyweight Hoodie is a zip-up hoodie with a shell of 55 percent cotton and 45 percent polyester and a 95 percent polyester wool-style lining. Cuffs and bottom edges with elastic bands help block cold air, and two side pockets sit on the front.\n\nIt is the lowest-priced pick and has a slimmer cut. Compared with the TACVASEN Tactical Fleece, it is more casual and less technical.\n\nIt suits men who want a thick zip hoodie for daily wear, walks and casual hikes. The listing notes 2.1 pounds in size XL.",
     "specs": [
       "55% cotton, 45% polyester shell",

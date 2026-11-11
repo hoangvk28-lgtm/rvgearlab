@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat two-person tent has an interior of 6.8 by 4.6 by 3.6 feet, two lightweight aluminum poles and dual vestibules. A full-coverage rainfly, a welded waterproof floor and seam-taped construction handle rain.\n\nCompared with the Amazon Basics Dome, it adds a second vestibule, aluminum poles and a floor listed as welded. Against the Night Cat 1-2P, it gives real two-person room and a rainfly that covers the whole tent.\n\nIt suits two hikers who want a rain-tight shelter at a budget price. Two D-shaped doors and interior pockets make camp life easier.",
     "specs": [
       "6.8 x 4.6 x 3.6 ft interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31U+A9gSG-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSZML1C?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Dome is a three-season, free-standing two-person tent made from coated polyester with welded seams. It has shock-corded poles that the listing says set up in under 4 minutes, plus a rainfly with a back window and cool-air port.\n\nCompared with the Night Cat 2P, it is the simpler tent with a quicker pitch, a trade that leaves out the second vestibule. Against the Stansport Scout, it is free-standing and does not need stakes to stand.\n\nIt suits first-time backpackers and weekend campers who value fast setup. The removable rainfly lets you stargaze on clear nights.",
     "specs": [
       "3 season, free-standing dome",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "The Night Cat 1 to 2 person tent measures 7.0 by 3.8 by 3.6 feet and weighs 2 kg (4.4 pounds), packing to 16.5 by 4.7 by 4.7 inches. It uses PU 3000mm polyester with taped seams and fiberglass poles covered by protective cases.\n\nNext to the Night Cat 2P, it is lighter and narrower, so it suits one hiker with gear. Against the Stansport Scout, its fly has a stated 3000mm rating.\n\nIt suits solo hikers who want a light and compact shelter. The pole cases protect hands when you pitch.",
     "specs": [
       "4.4 lb, packs 16.5 x 4.7 x 4.7",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310mSmnsU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006V2B2I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006V2B2I?tag=rvgearlab-amz-20",
     "description": "The Stansport Scout is a classic scout troop A-frame with a 1,000mm polyurethane-coated polyester upper body, a No-See-Um mesh inner door screen and fully taped seams. The floor is polyester oxford.\n\nCompared with the Night Cat tents, it is a simpler design and a lower waterproof rating. Against the Amazon Basics Dome, it is a traditional A-frame that needs stakes to hold its shape.\n\nIt suits youth groups, scouts and car campers who want a low-cost shelter. It is easy to assemble and compact.",
     "specs": [
       "Classic A-frame, 1,000mm coating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kW3X8r0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IVRSGT0?tag=rvgearlab-amz-20",
     "description": "The Wakeman 2-person tent comes with a rain fly and carrying bag, and the listing notes it is made in the USA. The fabric is nylon, and the listing describes it as built to keep you and your gear dry.\n\nCompared with the Stansport Scout, it adds a rain fly and a carry bag at a similar price. Against the Amazon Basics Dome, it leaves out the free-standing frame and stated pitch time.\n\nIt suits budget campers who care about where a tent is made. It is a no-frills pick for summer trips.",
     "specs": [
       "Nylon, rain fly included",

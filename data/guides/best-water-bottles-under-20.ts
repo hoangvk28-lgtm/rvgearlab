@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21G7mO60XbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8J2ZB8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8J2ZB8P?tag=rvgearlab-amz-20",
     "description": "The POWCAN is a 26 oz double-wall vacuum insulated bottle in 18/8 stainless steel. It keeps drinks cold for 24 hours and warm for 12, and its 2-in-1 lid gives you a straw and a spout.\n\nIt costs about $13, around $6 less than the Watersy 64 oz and $2 more than the Fanhaw, and it holds more than the 20 oz Fanhaw. It fits most car cup holders, which the Watersy does not.\n\nIt suits day hikers, campers and commuters who want one bottle for ice water and hot coffee. The wide mouth makes it easy to add ice and clean.",
     "specs": [
       "26 oz, 18/8 stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a86nR+CLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2FJRPN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2FJRPN5?tag=rvgearlab-amz-20",
     "description": "The Watersy is a 64 oz insulated jug in 18/8 stainless steel with three-layer copper-plated vacuum insulation. It keeps drinks cold for up to 48 hours and hot for 24, and its leak-proof spout lid includes a silicone loop, with a straw lid in the box.\n\nIt costs about $20, the top of the budget and $7 more than the POWCAN, and it holds 38 oz more. That capacity covers a day of hiking water for one person, which no smaller bottle matches.\n\nIt suits car campers, gym users and long hikers who want one large reservoir. It also fills the cooler in the tent.",
     "specs": [
       "64 oz, three-layer vacuum",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bK6EVQ2JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RVRLKNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RVRLKNT?tag=rvgearlab-amz-20",
     "description": "The Fanhaw is a 20 oz double-wall vacuum bottle in food-grade 18/8 stainless steel with a powder-coated exterior. It keeps beverages cold for up to 24 hours, and a one-hand chug lid has a dust cover over the spout.\n\nIt costs about $12, nearly $2 less than the POWCAN, and the bottle is dishwasher safe, which the POWCAN cup is not. It is smaller than the POWCAN, and it fits snugly into any cup holder.\n\nIt suits commuters, students and day hikers who want a smaller bottle. The one-hand lid helps while driving or on the trail.",
     "specs": [
       "20 oz, 18/8 stainless",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21SoBRBP0NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-amz-20",
     "description": "The Brita Hard-Sided Filtering Bottle is a 26 oz BPA-free bottle whose carbon filter trims chlorine taste and odor as you sip. It adds an easy-sip straw, a carry loop and a leakproof push-button lid, and it is top-rack dishwasher safe.\n\nIt costs about $18, $5 above the POWCAN, and it filters as you drink, which the other bottles do not. It is not a water purifier bottle, so it suits treated tap water only.\n\nIt suits campers on developed sites, travelers and anyone who dislikes chlorine taste. Replace the filter about every 2 months.",
     "specs": [
       "26 oz BPA-free bottle",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NWJaIXPUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RPKTV14?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RPKTV14?tag=rvgearlab-amz-20",
     "description": "The Opard Zip is a 20 oz Tritan bottle that is BPA free, shatter resistant and top-rack dishwasher safe in every part. A sliding button lock replaced the old ring lock, and a coating keeps the surface from feeling sticky.\n\nIt costs about $12, matching the Fanhaw, and it weighs far less than any steel bottle. It has no insulation, which is the trade for the light weight.\n\nIt suits kids, school bags and hikers who count ounces and drink water at air temperature. It is easy to carry.",
     "specs": [
       "20 oz Tritan, BPA free",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tdU2X1uZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD15RRHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD15RRHD?tag=rvgearlab-amz-20",
     "description": "The Fijinhom is an 18 oz double-wall bottle in 304 stainless that keeps water cold for 24 hours. A 2-in-1 lid combines a wide spout and a hidden straw, with two straws and a soft silicone handle in the box.\n\nIt costs about $10, the lowest in the group and $3 less than the POWCAN. It is the smallest bottle here, which is how the price stays so low.\n\nIt suits kids, short walks and anyone who needs a cheap insulated bottle. It fits most car cup holders.",
     "specs": [
       "18 oz, 304 stainless",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417+GZd8LKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8T1FD7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8T1FD7M?tag=rvgearlab-amz-20",
     "description": "The LiTime is a 12V 100Ah LiFePO4 battery in the Group 31 footprint, rated for 4000+ cycles at 100% depth of discharge and meeting the ABYC E-13 standard. Its low temperature protection stops charging below 32F and stops discharging below -4F, a limit worth knowing before winter trips.\n\nAt $285.59 it costs $45.60 more than the Weize 110Ah AGM, but 100Ah of lithium gives you close to all 1,280Wh usable, while an AGM bank is normally cycled to about half. Pick this if the battery is a house bank, not an engine starter. It has no cranking rating, so it will not replace a starting battery.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y5-nzWEhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-amz-20",
     "description": "The Weize is a BCI Group 31M dual purpose AGM rated 110Ah, 825 cold cranking amps and 240 minutes of reserve capacity. It asks for a constant 14.4V charge, which most RV converters and generator chargers can deliver, and it is sealed and leak proof.\n\nIt is $10.00 cheaper than the Marxon 105Ah and lists more capacity (110Ah against 105Ah) with the same 825CCA. Pick this if one battery must both start a motorhome engine or generator and run a few lights and a fan. Dual purpose plates tolerate fewer deep cycles than a true deep cycle, and the listing gives no cycle count.",
     "specs": [
       "110Ah, 825CCA",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D4lAfRAjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQQCMGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQQCMGQ?tag=rvgearlab-amz-20",
     "description": "The Marxon is a Group 31M dual purpose battery rated 12V 105Ah, 825CCA, 1072MCA and 200 minutes of reserve capacity. The listing gives exact case dimensions of 12.99 x 6.61 x 8.35 inches and terminal layout (positive left, negative right), which is the detail that decides whether it fits a tray.\n\nIt costs $10.00 more than the Weize and lists 5Ah less capacity and 40 fewer reserve minutes, so it only wins on published fit data and a marine style build. Pick this if you have already measured a tight battery box and need the posted dimensions. The listing sells the battery and screws only.",
     "specs": [
       "105Ah, 825CCA, 1072MCA",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4166CEJFTtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHX4F6LX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHX4F6LX?tag=rvgearlab-amz-20",
     "description": "The Interstate 31-AGM7 is a pure lead AGM rated 12V 100Ah, 925CCA and 1155CA. Interstate says it delivers 400 extreme deep cycles and lasts 2X longer than alloyed AGM, and it lists refrigeration, APU and uninterruptible power use.\n\nAt $424.95 it costs $174.96 more than the Marxon, which is a steep premium for 100Ah of capacity. Pick this if you want the strongest published AGM cycle claim plus 925CCA in one battery. It still costs $139.36 more than the LiTime, which lists 4000+ cycles, so the value case rests on cranking power and brand support.",
     "specs": [
       "100Ah, 925CCA, 1155CA",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X2sSecGkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWXSY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWXSY8?tag=rvgearlab-amz-20",
     "description": "The Interstate 31M is a marine and RV dual purpose pure lead AGM rated 12V 100Ah and 925CCA, sold as Group 31M. Interstate lists the same pure lead construction and the same 2X to 3X longer life claim as the 31-AGM7.\n\nAt $459.95 it costs $35.00 more than the 31-AGM7 for the same Ah and cold cranking amps, and the listings show no spec that justifies the gap. Pick this only if you specifically need the 31M terminal and case style. For everyone else, the 31-AGM7 is the cheaper way to get the same published numbers.",
     "specs": [
       "100Ah, 925CCA",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yheMeOvTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPRKYWBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPRKYWBF?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G31 is a 12V 100Ah AGM rated 900CCA with 140 minutes of reserve capacity, and the listing calls it a start and stop car battery. It is sealed, spill proof and built to resist shock and vibration.\n\nAt $229.99 it is the cheapest pick, $10.00 under the Weize, but it has the shortest reserve capacity (140 minutes against 240) and is described as a starting battery. Pick this if you need a Group 31 cranking battery for a tow vehicle or generator. Do not buy it as a deep cycle house bank, because the listing gives no deep cycle rating.",
     "specs": [
       "100Ah, 900CCA",

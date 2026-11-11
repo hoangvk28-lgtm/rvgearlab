@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UJgs4vekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000H3DNF4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000H3DNF4?tag=rvgearlab-amz-20",
     "description": "The Katadyn Micropur MP1 is a pack of 20 chlorine dioxide tablets, each individually sealed. The listing notes chlorine dioxide is the same chemical used in municipal water plants, with no iodine off-taste, at a 4 ppm in-use concentration. One tablet treats 1 liter of water, with a wait of 15 minutes in clear water and up to 4 hours in cold or cloudy water.\n\nCompared with the Aquatabs 49mg below, the Micropur MP1 costs about 73 cents more per tablet and gives a named chlorine dioxide chemistry and a published wait window, while the Aquatabs offers a lower cost per tablet. Compared with the Potable Aqua two-bottle pack, it is a more compact pack with sealed single doses for roughly $8 more.\n\nIt suits a backpacker who wants a light backup to a filter, a traveler who needs a fast chemical purifier and a thru-hiker rotating a few tablets at a time. Twenty individually sealed tablets cover about 20 liters, which is a week of backup for most trips.",
     "specs": [
       "20 chlorine dioxide tablets, one per liter",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hmcr5QMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B2TVKGB?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 49mg tablets come in a 100 pack and list removal of 99.9999 percent of bacteria and 99.99 percent of viruses. Each tablet treats a range of about 0.75 to 2 liters, according to the listing, which fits a water bottle or a hydration bladder. They are individually sealed in foil strips designed for longevity, and the treated water has no bad taste, color or odor compared with iodine products.\n\nCompared with the Katadyn Micropur MP1, the Aquatabs 49mg costs about 73 cents less per tablet and offers five times the count, while the Katadyn publishes a clear wait window. Compared with the Aquatabs 397mg, it is a smaller dose for bottle-size volumes at $13 less.\n\nIt suits an international traveler, a family camping kit or a stock for a car emergency bin. Foil strips keep each tablet dry until you use it, and a bottle-sized dose is easy to portion.",
     "specs": [
       "100 tablets, 49mg each",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lfUdR5pNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-amz-20",
     "description": "The Potable Aqua pack includes two bottles of 50 tablets, for 100 tablets at $11.47, which works out to about 11 cents per tablet. The listing says the tablets make water bacteriologically suitable to drink and are effective against Giardia lamblia when used as directed, and it positions them for camping, hiking, international travel and disaster preparedness.\n\nCompared with the Coghlan's, it gives double the count for $1 less. Compared with the single bottle of Potable Aqua at $23.95, it gives twice the tablets for half the price, so the two-bottle pack is the better buy of the pair.\n\nIt suits a stock-up for a go-bag, a glove box, a boat or a basement shelf where you want many tablets cheaply. Two bottles let you split the kit between two places.",
     "specs": [
       "Two bottles of 50 tablets each",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 397mg tablets come in a 100 pack, each dosed to treat about 4 gallons in 30 minutes according to the listing. They are sold for boating, camping and emergency use, and the listing says the water has no iodine taste. A larger dose per tablet makes them suited to jugs, carboys and storage tanks rather than a single bottle.\n\nCompared with the Aquatabs 49mg, the 397mg tablet treats far more water per tablet and costs $13 more per pack. Compared with the Katadyn Micropur MP1, it provides 100 tablets for about $20 more and treats a container instead of a liter.\n\nIt suits a home water-storage plan, a boat, a campsite with a large jug or an emergency shelter. One tablet per 4 gallons stretches 100 tablets to hundreds of gallons.",
     "specs": [
       "100 tablets, 397mg each",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314wKtgSyfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000ESB8WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000ESB8WW?tag=rvgearlab-amz-20",
     "description": "The Coghlan's Drinking Water Germicidal Tablets come in a 50 count bottle at $12.49. The listing describes them as making most water bacteriologically suitable for drinking, handy to have while hiking or camping, and intended for short term or limited emergency use. They are a simple, no-frills backup.\n\nCompared with the Potable Aqua two-bottle pack, the Coghlan's gives half the tablets for about $1 more. Compared with the Aquatabs 49mg, it costs about 25 cents per tablet and offers fewer named claims.\n\nIt suits a small kit tucked into a daypack, a glove box emergency bag or a first-time buyer who wants a basic backup. The 50 count covers a short trip.",
     "specs": [
       "50 germicidal tablets per bottle",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4143T43Jt4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001949TKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001949TKS?tag=rvgearlab-amz-20",
     "description": "The Potable Aqua single bottle holds 50 tablets and is priced at $23.95, or about 48 cents per tablet. The listing says the tablets provide travel and emergency water purification, are effective against Giardia lamblia when used as directed and make questionable water bacteriologically suitable to drink.\n\nCompared with the two-bottle pack of the same brand at $11.47, this bottle costs more than twice as much for half the tablets, so the larger pack is the better value. Compared with the Coghlan's, it costs $11.46 more per bottle for the same count.\n\nIt suits a buyer who wants exactly one bottle for a camping accessories box, or a replacement for a kit that already has a different brand. A single bottle is easy to store in a small pocket.",
     "specs": [
       "One bottle of 50 tablets",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Va5Ip3WnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL8H85Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL8H85Z9?tag=rvgearlab-amz-20",
     "description": "The DURATECH 20-in-1 has a straight-edge blade, a saw, a bottle opener, a can opener and a rope cutter. It adds six screwdriver bits, a liner lock that locks every accessory when fully open and black-coated 420 stainless steel. It measures 5 inches closed and weighs 9 oz.\n\nIt costs about $16, the top of this guide, and no other tool here pairs a liner lock on every accessory with named steel. That locking design is a step up from the unlocked tools on the Grand Way 24-in-1.\n\nCamp cooks get can opening, rope cutting and screw turning in one body, with a lock that keeps fingers safe. It also fits a glovebox.",
     "specs": [
       "20-in-1, liner lock",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DDsOcJKcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NR3WN3P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NR3WN3P?tag=rvgearlab-amz-20",
     "description": "The fangfo 14-in-1 Locking carries long nose, round nose and cutting pliers heads, a sharp knife, Phillips and slotted screwdrivers and more. A side lock holds every tool except the pliers heads when fully open, and a nylon pouch is included.\n\nIt costs about $10, $6 less than the DURATECH 20-in-1, and it is the only pick that gives three pliers types. It locks its tools, which the Grand Way 24-in-1 does not describe.\n\nIt suits campers who need pliers for pots, wire and tent repairs. It rides in a pocket or a camp box.",
     "specs": [
       "14-in-1, three pliers heads",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nDLEm525L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0881TVT9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0881TVT9Y?tag=rvgearlab-amz-20",
     "description": "The Grand Way 24-in-1 includes pliers, an electrician wire cutter and stripper, a folding knife, can and bottle openers, a metal file and a screwdriver with 11 bits. A nylon sheath comes with it.\n\nIt costs about $15, a dollar under the DURATECH 20-in-1, and it carries the most driver bits in the guide. It has pliers, which the DURATECH 20-in-1 lacks.\n\nIt suits campers and drivers who want screwdriver bits and pliers in one kit. The wire stripper helps with 12-volt repairs.",
     "specs": [
       "24-in-1, 11 screwdriver bits",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Pn9ZyxrGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLVHPKPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLVHPKPW?tag=rvgearlab-amz-20",
     "description": "The fangfo 17-in-1 Self-Lock is a stainless steel multi-tool with needle nose pliers, a pocket knife, a bottle opener and a screwdriver. Each tool locks with a self-locking design that keeps fingers safe.\n\nIt costs about $15, near the Grand Way 24-in-1, and its self-locking design gives it a safety edge over the Grand Way 24-in-1. It has fewer bits than that tool.\n\nIt suits campers who want a safe spare tool for a bag. It handles cutting and light repairs.",
     "specs": [
       "17-in-1 stainless steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415yNAgA6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00XOUK8J6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00XOUK8J6?tag=rvgearlab-amz-20",
     "description": "The 18-in-1 Axe Tool packs a hammer, a hatchet, two-model pliers, a screwdriver, a wire cutter, a mini knife, a bottle opener, a file and hex wrenches. It measures 7.09 by 3.54 by 0.98 inches, weighs 13.9 oz and carries a nylon sheath.\n\nIt costs about $14, a bit under the fangfo 17-in-1 Self-Lock, and its hatchet and hammer set it apart from every pocket tool on the page. That makes it bulkier than the others.\n\nIt suits campers who need a hammer for tent stakes and a hatchet for kindling in one tool. It also doubles as an emergency escape tool.",
     "specs": [
       "18-in-1 with hammer, hatchet",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bWmGmwgtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWL5JJNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWL5JJNS?tag=rvgearlab-amz-20",
     "description": "The 9-in-1 Carabiner has needle nose pliers, regular pliers, a wire cutter, a knife, a saw, a bottle opener, a Phillips screwdriver, a carabiner clip and a file. It uses 440 stainless steel hardened to 55 HRC with an aluminum handle and measures 3.4 inches folded.\n\nIt costs under $10, the lowest here, and a built-in carabiner clip sets it apart from the rest. It is the smallest tool here and it names its steel hardness.\n\nIt suits hikers who want a keychain-sized tool that clips to a pack. Use it for light jobs.",
     "specs": [
       "440 steel, 55 HRC",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512HvRFtq1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX25J31F?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 100W lists 4.1 lbs, a 0.59 inch profile and three outputs: USB-C PD 3.0 at 45W, USB-A at 18W and a 100W DC port. It carries an IP67 rating with E-film lamination and monocrystalline cells.\n\nIt is the best fit for most campers, sitting between the 40W and the large 450W panels. It weighs far less than the ZOUPW panels and costs a fraction of them.\n\nIt suits weekend campers who want to charge a laptop, phone and small station from one panel. The slim fold stores flat.",
     "specs": [
       "100W, 4.1 lbs, 0.59 in thin",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WNDLOe3dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGT547L7?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 450W lists N-type 16BB cells, a 45.9V open-circuit voltage for 40 to 60V station inputs and a fiberglass build at 29.5 lbs. It carries an IP68 rating with ETFE and ships with a 4-in-1 adapter cable.\n\nIt is the heavy-duty choice for high-capacity stations and weighs 7 lbs more than the bifacial 480W. It costs about $130 less than the 480W.\n\nIt suits RV owners with a large station that accepts high voltage. The fiberglass build is lighter than glass.",
     "specs": [
       "450W N-type, 45.9V Voc",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W lists bifacial N-type 16BB cells with up to 30 percent extra gain, a 42.5V high-voltage design and composite materials weighing 22.5 lbs. It is rated IP68.\n\nIt is the most powerful and priciest pick here, and it weighs 7 lbs less than the 450W. The extra gain depends on reflective ground.\n\nIt suits off-grid setups that want maximum wattage from a folding panel. The composite build avoids heavy glass.",
     "specs": [
       "480W bifacial N-type",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdwoRNOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08S7B46CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08S7B46CB?tag=rvgearlab-amz-20",
     "description": "The SinKeu lists 22 percent monocrystalline cells, 3.3 lbs and a folded size of 12.6 x 9.1 x 2 inches. It has a DC output at 18V/2.27A max, USB-C and QC3.0 USB, 10 DC adapters and a TIR-C device-detection chip.\n\nIt brings the widest adapter set among the small panels. It costs less than the FlexSolar 100W and weighs a little less.\n\nIt suits campers who need to feed a station and charge phones. The adapters cover many station inputs.",
     "specs": [
       "40W, 22%, 3.3 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P3tJfJAKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists a 10W panel at 5V/2A max, 24 percent efficiency, 0.81 lbs and a folded size of 7.4 x 7.5 x 1 inches. It has 2 USB outputs and oxford cloth construction.\n\nIt is the pricier 10W pick and the only one with two USB ports. It includes a USB A-USB C cable and two carabiners.\n\nIt suits hikers who charge two small devices. The oxford cloth is wear-resistant.",
     "specs": [
       "10W, 5V/2A, 24%",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2nJ5vYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4DVT32Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4DVT32Z?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 10W lists 5V/2A max, 24 percent monocrystalline cells with an IP67 rating, a folded size of 8.8 x 7.6 x 0.7 inches and 0.66 lbs. It has one USB port and includes 2 carabiners.\n\nIt is the cheapest listing here and has a stated IP67 rating the BLAVOR does not. It has one USB port against the BLAVOR's two.\n\nIt suits budget hikers who just need to charge a phone or small fan. The thin fold slips into a pack.",
     "specs": [
       "10W, 24%, IP67",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318TnSnWXJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RZV1SJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RZV1SJ6?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1600 states 16,000 lb and 1,600 lb tongue weight with four-point sway control and a standard shank included. The Equal-i-zer 90-00-1600 is a four-point sway control weight distribution hitch rated 16,000 lb trailer weight and 1,600 lb tongue weight, and the title states it includes a standard hitch shank.\n\nIt states the highest tongue weight here and includes a shank, unlike the other Equal-i-zer kits. It costs more than CURT 17500 but less than the Andersen kit.\n\nBest for a heavy dump trailer with a loaded tongue weight up to about 1,600 lb. It is a heavy-duty option for large trailers.",
     "specs": [
       "16,000 lb, 1,600 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HmXAfp5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-amz-20",
     "description": "Andersen's 2.5 inch hitch has a 6 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. Andersen's 2.5 inch shank hitch has a 6 inch drop and a 2-5/16 inch ball and is rated 16,000 lb GTWR. It is built for the heaviest bumper-pull trailers per the listing.\n\nIt uses tension chains and states a 2.5 inch shank, while Equal-i-zer 90-00-1600 uses four-point friction. It states no tongue weight.\n\nBest for a heavy dump trailer with a 2.5 inch receiver. It suits a 2.5 inch receiver with a heavy trailer.",
     "specs": [
       "2.5 inch shank, 6 inch drop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3FB8YT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3FB8YT?tag=rvgearlab-amz-20",
     "description": "Weigh Safe's True Tow Middleweight has a 6 inch drop, a 2 inch shank and a 12,500 lb towing capacity. Weigh Safe's True Tow Middleweight is a weight distribution ball mount hitch with a 6 inch drop, 2 inch shank and 12,500 lb towing capacity. It has a live adjustment head with an internal pivot and anti-sway technology.\n\nIt has a live-adjust head and anti-sway technology, but states no tongue weight rating. It costs more than CURT 17500.\n\nBest for a dump trailer owner who wants head adjustment and measures the receiver first. Measure your receiver and ball height before choosing the drop.",
     "specs": [
       "6 inch drop, 2 inch shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KfEUriqML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-amz-20",
     "description": "CURT's 17500 TruTrack 4P is a 10K trunnion hitch with four points of integrated sway control. CURT's 17500 TruTrack 4P is a weight distribution hitch with four points of integrated sway control, a welded head with cast pieces and trunnion-style forged steel spring bars, in the 10K class.\n\nIt has a lower rating than Equal-i-zer 90-00-1600 and costs less. It states no tongue weight.\n\nBest for a dump trailer up to 10,000 lb that needs integrated sway control. Ask for the tongue weight rating before ordering.",
     "specs": [
       "TruTrack 4P, 10K",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dofVaFKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T36G600?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T36G600?tag=rvgearlab-amz-20",
     "description": "Camco's ReCurve R3 is a 1,000 lb kit with bolt-turn sway control and an on and off feature. Camco's ReCurve R3 is a 1,000 lb weight distribution hitch kit with sway control set by a quick bolt turn and an on and off feature for reversing. It is built from high-carbon steel.\n\nIt is the lightest-rated kit here and costs less than the Equal-i-zer. It fits only lighter dump trailers.\n\nBest for a light dump trailer with a tongue weight under 1,000 lb. It suits owners who want switchable sway control.",
     "specs": [
       "1,000 lb R3 kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317BfR5KYuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QCNGFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QCNGFG?tag=rvgearlab-amz-20",
     "description": "Giokyi sells two sway bracket jackets for Equal-i-zer and Fastway e2 hitches. Giokyi sells two sway bracket jackets for Equal-i-zer and Fastway e2 hitches that reduce metal-to-metal noise. The listing says they slide over the bottom of the L-bracket.\n\nIt is a part, not a hitch, and reduces metal-to-metal noise on the e2 family. It does not fit the 4K model.\n\nBest for an existing Equal-i-zer owner. They are accessory parts, not a hitch.",
     "specs": [
       "Two sway bracket jackets",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cN3rreUwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076KKTQP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076KKTQP7?tag=rvgearlab-amz-20",
     "description": "The C. Crane CC Vector Long Range WiFi Repeater has an omni-directional outdoor antenna that receives a distant WiFi signal at about 400 feet, with a stated maximum of about a mile. It repeats the signal on 2.4 GHz to devices inside the RV and mounts on a pole or ladder.\n\nAgainst the TP-Link extenders, it is built to catch a distant campground signal rather than extend a home network. Against the TravlFi JourneyGo, it needs an existing WiFi source but no data plan.\n\nBest for campers who rely on park or campground WiFi. The listing says it supports two SD Netflix users, so expect modest speeds.",
     "specs": [
       "2.4 GHz long range repeater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KR7Xn06fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-amz-20",
     "description": "The TravlFi JourneyGo 4G is a pocket hotspot that uses eSIM technology and prepaid data plans from 2GB upward with no contract. It claims multi-carrier access for nationwide RV coverage and gives you a private network.\n\nCompared with the C.Crane Vector, it does not need a campground signal but needs a data plan. Compared with the TravlFi External Antenna, it is the hotspot itself.\n\nBest for travelers who want their own network without a contract. Data plans cost extra and speeds depend on local coverage.",
     "specs": [
       "4G eSIM hotspot",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKK57IlVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-amz-20",
     "description": "The TravlFi External Wi-Fi and LTE Antenna mounts outdoors to capture a stronger signal and is built with weather-resistant materials. It extends the range of a TravlFi or other 4G LTE router.\n\nCompared with the TravlFi JourneyGo, it is an accessory that does nothing alone. Compared with the HiBoost, it feeds a router rather than boosting phone signal.\n\nBest for owners who already have a compatible 4G LTE router. Confirm the connector matches your router.",
     "specs": [
       "External WiFi and LTE antenna",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51blLN4gcUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7SYLWS?tag=rvgearlab-amz-20",
     "description": "The HiBoost Travel 2.0 RV Booster Kit boosts 4G and 5G LTE signal for all major U.S. carriers, with up to 50 dB gain and a flexible indoor antenna on a 13 foot cable. The listing notes FCC compliance with an FCC ID.\n\nVersus the C.Crane Vector, it improves cellular signal for phones and hotspots, not WiFi. It costs much more and needs some outside signal to boost.\n\nBest for owners with weak cell coverage who use cellular data. It does not create WiFi.",
     "specs": [
       "Boosts 4G and 5G cell signal",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iowLkOPaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TLT65WM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TLT65WM?tag=rvgearlab-amz-20",
     "description": "The TP-Link AC1900 RE550 is a dual-band extender with up to 1.9 Gbps total bandwidth and three adjustable external antennas, covering up to 2100 square feet. It is EasyMesh compatible and TP-Link is a signatory of the CISA Secure by Design pledge.\n\nCompared with the TP-Link RE315, it offers more speed and coverage for a higher price. Compared with the C.Crane Vector, it only extends a nearby WiFi network.\n\nBest for extending a router inside a larger RV or a nearby building. It cannot reach a distant campground signal.",
     "specs": [
       "AC1900 dual-band extender",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W2DiQa8OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RHD97QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RHD97QY?tag=rvgearlab-amz-20",
     "description": "The TP-Link AC1200 RE315 is a dual-band extender with up to 867 Mbps on 5 GHz and 300 Mbps on 2.4 GHz, covering up to 1500 square feet with two adjustable antennas. It uses Adaptive Path Selection.\n\nVersus the TP-Link RE550, it is slower and cheaper. Versus the C.Crane Vector, it is a home product with no outdoor antenna.\n\nBest for a small RV with a router nearby. It will not extend a signal from far away.",
     "specs": [
       "AC1200 dual-band extender",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ouwA+5sBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2DXVBW?tag=rvgearlab-amz-20",
     "description": "The VEVOR 100A converts 120V AC to 12V DC and offers dedicated lead-acid and LiFePO4 modes, plus a fixed voltage mode with selectable 13.0V, 14.6V and 16.5V outputs. It has multi-stage charging, a temperature-triggered fan and six protections: short circuit, over temperature, overload, low voltage, overvoltage and reverse polarity.\n\nAt $103.90 it costs $13.91 more than the WAVLINK 55A and $46.05 less than the RecPro 65A, while delivering nearly double the amps of the WAVLINK. Pick this if you run a large lithium bank or lots of 12V loads. The caveat is that 100A needs proper wiring and breaker sizing.",
     "specs": [
       "100A, 120V AC to 12V DC",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jyujD7ALL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B092W886Y6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B092W886Y6?tag=rvgearlab-amz-20",
     "description": "The RecPro 65 Amp converter uses 4-stage charging, powers low voltage lights and appliances, and works with both lead and lithium batteries. RecPro sells the line in 35, 45, 55, 60, 75 and 100 amp versions, so you can match your existing size.\n\nAt $149.95 it costs $46.05 more than the VEVOR 100A and $59.96 more than the WAVLINK 55A. You pay for a name and a size range, not more amps. Pick this if you want a mainstream brand with matching sizes. The caveat is that the listing does not state its lithium voltage or protection details.",
     "specs": [
       "65A, 4-stage charging",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xA8rEBJlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G488M9FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G488M9FM?tag=rvgearlab-amz-20",
     "description": "The WAVLINK WF-8955-MBA outputs up to 55A from 120V AC and offers charging modes tailored to different battery types. A temperature-controlled fan switches on when needed, and the listing mentions short circuit, software over voltage and thermal protection.\n\nAt $89.99 it costs $22.00 more than the VUFUMSY 55A, which has the same 55A rating. The WAVLINK targets drop-in WF-8955 style replacement. Pick this if you want 55A and a recognizable replacement design. The caveat is that specific lithium voltages are not stated.",
     "specs": [
       "55A, 120V AC to 12V DC",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HC-PiUUYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1S5J49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1S5J49?tag=rvgearlab-amz-20",
     "description": "The VUFUMSY 55A converts 120V AC to 12V DC and lets you press Switch A to select lead-acid or LiFePO4 output modes. The listing describes three charging modes, multi-stage charging and protections against short circuit and overvoltage, with a heat-dissipating casing.\n\nAt $67.99 it is the cheapest full size pick, $22.00 under the WAVLINK 55A and $37.01 under the PowerMax 15A. Pick this if you want 55A with a lithium switch for the least money. The caveat is limited brand and warranty details.",
     "specs": [
       "55A, 120V AC to 12V DC",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mAHWqVE7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A6XFG50?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A6XFG50?tag=rvgearlab-amz-20",
     "description": "The PowerMax PM3-15LK is a 15A deck mount converter charger with regulated 12V output, multi-stage charging and adjustable output for lithium. It includes current limiting, reverse polarity and thermal protection, and mounts near the battery bank as a standalone box.\n\nAt $105 it costs $37.01 more than the VUFUMSY 55A for about a quarter of the amps. Pick this if you have a small van or a secondary battery bank. The caveat is that 15A is slow for large banks, and you pay extra for the deck mount design.",
     "specs": [
       "15A deck mount",

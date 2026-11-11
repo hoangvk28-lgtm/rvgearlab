@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v-SB66U2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYX1ZL7?tag=rvgearlab-amz-20",
     "description": "The Londtren 4 Person tent is a spring pop-up with a 9.2 ft by 6.6 ft floor and 190T polyester sides, described on the listing as waterproof and tear resistant. Its 110G PE groundsheet and a vestibule keep wet shoes and jackets outside the sleeping area.\n\nIt is the only pick here that you can sleep in, since the Aoxun Canopy, Garvee Canopy and Hverflvsh Canopy are open-sided shade shelters. Mesh front and back doors keep the air moving when the rain stops.\n\nIt suits campers who want a pop-up that actually has a floor and a door for wet weather. The green color also blends into a campsite.",
     "specs": [
       "9.2 x 6.6 ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iXzOtYg3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5R6HH26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5R6HH26?tag=rvgearlab-amz-20",
     "description": "The Hverflvsh 10x10 canopy has 210D waterproof fabric with UPF 50+ protection and dual roof vents. It comes with four weight bags that the listing says stabilize it in winds up to 30 mph.\n\nCompared with the Garvee Canopy it names a vented roof and weight bags, while the Aoxun Canopy offers a bigger footprint. The steel frame is powder-coated, and it folds to 45 by 8.3 by 8.3 inches at 36 pounds.\n\nIt suits markets, tailgates and backyards where wind and rain arrive together. The roof vents also cut heat buildup.",
     "specs": [
       "210D waterproof, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YMXhdFyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWK6TMJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWK6TMJ1?tag=rvgearlab-amz-20",
     "description": "The Garvee 10x10 canopy gives 100 square feet of shade with 210D silver-coated fabric and UPF 50+ protection. It includes four detachable window sidewalls, guy lines and a carry bag, with no-pinch height adjusters on the legs.\n\nAgainst the Hverflvsh Canopy it adds window sidewalls for wind and sun, and it calls its fabric light rain resistant instead of waterproof. The Aoxun Canopy costs far more for a bigger layout.\n\nIt suits campers and parties that need shade with side coverage on a modest budget. The included guy lines help in breezes.",
     "specs": [
       "10 x 10 ft, 100 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41toAEpqrjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCMSTKJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCMSTKJ1?tag=rvgearlab-amz-20",
     "description": "The Aoxun 10x20 canopy has a one-touch central button, 210D polyester with a PU coating, and rust-resistant powder-coated alloy steel frames. It comes with six removable sidewalls, four with clear windows and two with zippered doors.\n\nIt covers twice the area of a 10x10 pop-up and adds full sidewalls and three adjustable height settings. Against the Garvee Canopy it costs much more for the extra footprint.\n\nIt suits groups, vendors and families who want an enclosed rainy-day room. The three height settings suit different crowds.",
     "specs": [
       "10 x 20 ft footprint",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z+XJp65TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNMJDC1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNMJDC1V?tag=rvgearlab-amz-20",
     "description": "The VEVOR pop-up sports tent is a 50 by 50 by 66.9 inch clear dome for two, with TPU plastic panels, 210D Oxford fabric and a steel wire frame. It pops up in under a minute, with a removable floor mat and top cover, and offers a 540 degree view.\n\nUnlike the Londtren Tent, it is built for watching events rather than camping, and it is the cheapest pick here. The clear panels give a view that none of the canopies offer.\n\nIt suits sports parents and anglers who want a dry seat and a view. The removable floor mat is a handy extra.",
     "specs": [
       "50 x 50 x 66.9 in dome",

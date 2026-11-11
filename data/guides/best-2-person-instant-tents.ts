@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IyBLi19ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D76YC1GY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D76YC1GY?tag=rvgearlab-amz-20",
     "description": "The Hewolf is a hexagonal dome from a 2, 3 and 4 person family, with a 4500mm waterproof grade, an SBS zipper and a 210T floor. It has two doors, a mesh screen and a design that the listing calls detachable and 3-season.\n\nAgainst the Night Cat Tent it carries a stronger stated waterproof number, while the CAMEL CROWN Tent lists a thinner 150 Oxford fabric. Two doors let a couple get in and out without climbing over each other.\n\nIt suits couples who camp in wet weather and want the sturdiest build in this group. Pick the 2 person option on the page.",
     "specs": [
       "4500mm waterproof grade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416LrrCGQEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQJ1NDXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQJ1NDXQ?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a throw-and-open pop-up with a 9.5 by 6.6 by 4 ft interior that the listing says fits king and queen mattresses. It weighs 3 kg and folds into a 28 by 28 by 2.8 inch disc that Night Cat says is 40 percent smaller than a traditional pop-up.\n\nWhere the Hewolf Tent pitches with a frame, this one opens by throwing it down and spreading the pole, which takes about three seconds by the listing. Two large doors and two wide windows keep the air moving.\n\nIt is the pick for a couple who wants a roomy tent with a flat, easy-to-store pack. The listing also mentions beach use.",
     "specs": [
       "9.5 x 6.6 x 4 ft interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41axYJXwHmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHG8HXMC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHG8HXMC?tag=rvgearlab-amz-20",
     "description": "The CAMEL CROWN listing is a 2 to 4 person tent measuring 94 by 83 by 77 inches, with a 19.31 pound weight and a 47 by 8 by 8 inch packed size. Fabric is 150 Oxford inside and out with one door, three mesh windows and two small top windows.\n\nIts 77 inch height is more headroom than the Night Cat Tent or Golabs Tent offer, and it costs less than the Hewolf Tent. It is also heavier than the ADSMART Tent.\n\nIt suits taller adults who want a standing-height pitch for two with some room left over. The 2 to 4 person label means extra space for bags.",
     "specs": [
       "94 x 83 x 77 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419JNLG6cnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJS9XF91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJS9XF91?tag=rvgearlab-amz-20",
     "description": "The ADSMART 2/3 person tent is 8 by 7 ft with a 52 inch height, folds to 7.8 by 7.8 by 35.4 inches and weighs 10.4 pounds. It uses a pre-attached pole structure, six steel leg poles and three large mesh windows.\n\nAt 10.4 pounds it is far lighter than the CAMEL CROWN Tent and costs less than the Hewolf Tent. The low 52 inch roof means sitting up is easier than standing.\n\nIt is the pick for two people who care about weight and carry distance more than headroom. The small 35 inch fold fits easily in a trunk.",
     "specs": [
       "8 x 7 ft, 52 in high",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KnuUQHtrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLGQFKFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLGQFKFF?tag=rvgearlab-amz-20",
     "description": "The Golabs CT3 is a plain two-person pop-up with exterior dimensions of 81.8 by 61.8 by 51.1 inches and an interior of 76.7 by 55.1 by 43.7 inches. It pitches in about sixty seconds by lifting a center pole and staking the corners.\n\nIt is the cheapest tent here by a wide margin, trading the heavier fabrics and waterproof numbers of the Hewolf Tent for a taffeta body and a PE woven floor. Four side mesh panels keep airflow generous.\n\nIt suits a casual two-person trip, a backyard sleepover or a festival where price matters most. Built-in pockets and lantern hooks add some tidiness.",
     "specs": [
       "76.7 x 55.1 in interior",

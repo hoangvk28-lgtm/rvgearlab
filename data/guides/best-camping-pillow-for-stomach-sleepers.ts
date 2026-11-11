@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aRmR7m-vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VQ896NC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VQ896NC?tag=rvgearlab-amz-20",
     "description": "The BLISSBURY is a thin, flat memory foam pillow that stands 2.6 inches high. It uses CertiPUR-US foam with gel infusion and ventilation holes, and comes with a moisture-wicking pillowcase.\n\nAgainst the CushyOasis, it is flatter and built entirely for stomach sleepers. Compared with the other foam picks, it is the only one that stays truly low.\n\nIt suits car campers who sleep face down and want a pillow that will not bend the neck. The pillowcase washes easily.",
     "specs": [
       "2.6 inch profile",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yqVADnq7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4R9L7GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4R9L7GZ?tag=rvgearlab-amz-20",
     "description": "CushyOasis makes a high-density memory foam pillow in a Camping size of 18.7 by 12 by 3.5 inches. It has a removable breathable cover, and the 3.5 inch profile is described for side, back and stomach sleeping.\n\nNext to the BLISSBURY, it is a smaller overall pillow that fits a duffel more easily. Compared with the Wise Owl, it is a firmer, thinner foam block.\n\nIt fits stomach sleepers who want something in between a flat pillow and a travel pillow. The cover unzips for washing.",
     "specs": [
       "18.7 x 12 x 3.5 inch camping size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Oi42QllCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07C85S2PV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07C85S2PV?tag=rvgearlab-amz-20",
     "description": "Wise Owl makes a memory foam pillow with a micro-suede cover that weighs less than 12 oz and packs into an included waterproof stuff sack. It comes in small at 12 by 16 inches and medium at 14 by 18 inches.\n\nAgainst the PEUJEW, it adds the waterproof sack and a choice of two sizes. Compared with the CushyOasis, it is softer and made to compress.\n\nIt suits stomach sleepers who hike and want a foam pillow that packs small. The small size sits lower.",
     "specs": [
       "Under 12 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ruAKpHpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-amz-20",
     "description": "PEUJEW uses shredded memory foam in a medium-firm 12 by 16 inch pillow with a removable microfiber cover. It is compressible and portable.\n\nShredded foam can be shifted, so you can push fill to the ends to flatten the middle. Against the BLISSBURY, it packs smaller. Against the Wise Owl, it is a plainer, lower-cost option.\n\nIt is the right fit for stomach sleepers who want to tune loft by hand. The cover washes with the rest of your laundry.",
     "specs": [
       "12 x 16 inch shredded foam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rYO6T8vcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQSRXBY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQSRXBY8?tag=rvgearlab-amz-20",
     "description": "The Safotad cervical pillow has a hollow butterfly shape, two height bolsters and side wings for the arms. It uses slow-rebound OEKO-TEX memory foam and includes a hand-roll vacuum bag and a cooling ice-silk pillowcase.\n\nAgainst the BLISSBURY, it adds a contour and two height options, so a stomach sleeper can use the lower bolster. Compared with the PEUJEW, it carries more shaping and a vacuum bag.\n\nIt suits stomach sleepers who want shaped support at a low price. The vacuum bag helps with packing.",
     "specs": [
       "Hollow butterfly cervical shape",

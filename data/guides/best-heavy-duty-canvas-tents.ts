@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iCmC9bdAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G56CBJHF?tag=rvgearlab-amz-20",
     "description": "The Kodiak Cabin Lodge is a 12x12 ft canvas tent with vertical walls and a 7.5 ft peak, rated for up to 8 people or 4 with a stove. It uses Hydra-Shield 100 percent cotton duck canvas and a 13.5 oz vinyl sewn-in floor with welded seams.\n\nA galvanized 1 inch steel tubing frame is listed for strong winds and snow loads, and it comes with 12 inch steel rod stakes and stainless wire stake loops. Next to the DANCHEL it gives a stiffer frame and heavier anchors, while the DANCHEL gives more floor and an included stove.\n\nCampers who want a tent that outlasts several seasons of base camp use will like it. A 5 inch stove jack and six no-see-um windows add year-round use.",
     "specs": [
       "12x12 ft, 7.5 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41soPGgHvfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8SHJF8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8SHJF8J?tag=rvgearlab-amz-20",
     "description": "The DANCHEL 5 m yurt covers 211 sq ft with a 9.8 ft center height and 31.5 inch sidewalls, fitting 2 queen beds or eight sleeping bags. Its 300GSM cotton has a 3000mm PU coating, set on a galvanized steel frame with double-stitched seams.\n\nIt is the biggest by floor area and the only tent here that includes a wood stove, with a precut 5.9 inch stove jack and rain flap. Against the Kodiak it has a heavier-feeling 83 lb pack weight and a bigger footprint, and the Kodiak gives a vinyl floor and sturdier stakes.\n\nGroups of six who want winter comfort in one purchase get the most from it. Four mesh windows and a 6 inch side vent cover warm weather.",
     "specs": [
       "211 sq ft, 9.8 ft center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 16.5 ft yurt-style bell with a 210G TC cotton roof, Oxford fabric on the walls and double-stitched, reinforced seams. Walls stand 55 inches high under a 9.2 ft peak, with a pre-installed stove jack.\n\nIt beats the DANCHEL on wall height and costs far less than either larger-priced tent. Compared with the TOMOUNT it is bigger and fitted with eight mesh openings, while the Kodiak adds a steel frame.\n\nLarge groups who want heavy-ish fabric and room to stand at the edges will get the best value here. A removable floor and roll-up sidewalls help ventilation.",
     "specs": [
       "16.5 ft, 55 inch walls",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FpKhgXR8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBV68FHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBV68FHK?tag=rvgearlab-amz-20",
     "description": "The MC TOMOUNT is a 13 ft poly-cotton bell tent with an 8.2 ft top and 1.9 ft sidewalls. It has a polygonal base, a removable groundsheet, roll-up walls and mesh on the entrance, with four windows and four roof vents.\n\nA 5.1 inch stove jack is installed on the roof, and it sells for the lowest price of the four. Against the WildFinder it is smaller and states water resistance for light to medium rain, while the WildFinder gives more height.\n\nCampers who want a stove-ready poly-cotton bell at a moderate price will like it. It carries a 12-month manufacturer warranty.",
     "specs": [
       "13 ft, 8.2 ft top",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MDMEUJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MDMEUJM?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1065 has built-in two-point sway control, a 10,000 lb trailer rating and a 1,000 lb tongue weight rating. The Fastway e2 92-00-1065 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight in its title.\n\nIt states both ratings, unlike the CURT TruTrack listings, and it stays attached when backing. It is the complete-kit version, unlike the 92-00-1033.\n\nBest for a trailer up to 10,000 lb with a tongue weight near 1,000 lb. Match your trailer's loaded tongue weight to the 1,000 lb rating, and measure your receiver before ordering.",
     "specs": [
       "10,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21KS6ik9t7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HESTEBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HESTEBM?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1033 has the same ratings and sway control but the title says no shank is included. The Fastway e2 92-00-1033 is a trunnion-style weight distribution kit with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight.\n\nIt costs less than Fastway e2 92-00-1065 and requires a compatible shank bought separately, which can erase the savings.\n\nBest for an owner who already has a compatible shank. Buy a compatible shank at the same time, since it will not work without one.",
     "specs": [
       "10,000 lb trailer rating",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N59duTiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RCSKPO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RCSKPO?tag=rvgearlab-amz-20",
     "description": "Husky's 30849 is a round bar hitch rated 800 to 1,200 lb tongue weight and 12,000 lb gross trailer weight with a dual sway control platform. Husky's 30849 is a round bar weight distribution hitch rated 800 to 1,200 lb tongue weight and 12,000 lb gross trailer weight, with a 10 inch shank and 2-5/16 inch ball.\n\nIt states a tongue weight range that the Fastway kits do not and includes a 10 inch shank and ball. Its shank has a small drop.\n\nBest for a 12,000 lb trailer with a tongue weight between 800 and 1,200 lb. Check the stated drop and rise against your measured ball height, since the shank leans toward rise.",
     "specs": [
       "12,000 lb GTW, 800 to 1,200 lb TW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QA18EAKpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009P38MY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009P38MY4?tag=rvgearlab-amz-20",
     "description": "Husky's 31986 is a 600 lb round bar package with a dual friction sway control brake pad system. Husky's 31986 is a round bar weight distribution package with a 600 lb tongue weight capacity, a dual friction sway control brake pad system and 8 inches of total height adjustment. It includes a 2-5/16 inch ball and a 10 inch shank.\n\nIt is lighter-duty than Husky 30849 and has a modest drop and rise. It costs less than the CURT TruTrack kits.\n\nBest for a trailer with a tongue weight up to 600 lb. Check the shank rise and drop against your ball height.",
     "specs": [
       "600 lb round bar kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLDlcOtFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZW5BZNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZW5BZNY?tag=rvgearlab-amz-20",
     "description": "CURT's 17510 TruTrack 2P is trailer-mounted with a quick-connect single-pin coupling and a 10,000 lb rating. CURT's 17510 is a trailer-mounted TruTrack 2P weight distribution hitch rated at 10,000 lb in its title.\n\nIt leaves the spring bars on the trailer between trips, which no other pick does, but it states no tongue weight and costs far more than the Fastway kits.\n\nBest for owners who hitch and unhitch often and accept the premium. The listing does not state a tongue weight rating, so confirm it against your loaded tongue weight before ordering.",
     "specs": [
       "10,000 lb TruTrack 2P",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YYxsgCc5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZW95FBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZW95FBC?tag=rvgearlab-amz-20",
     "description": "CURT's 17520 TruTrack 4P is the four-point trailer-mounted version rated 10,000 lb. CURT's 17520 is a trailer-mounted TruTrack 4P weight distribution hitch rated 10,000 lb. Its quick-connect coupling locks with a single pin and the spring bars stay on the trailer.\n\nIt costs more than CURT 17510 and adds two more sway points. It also states no tongue weight rating.\n\nBest for the maximum sway resistance in a trailer-mounted design. Ask for the tongue weight rating.",
     "specs": [
       "10,000 lb TruTrack 4P trailer-mounted",

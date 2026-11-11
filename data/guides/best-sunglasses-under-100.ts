@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zacBpEkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C13T4WVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C13T4WVL?tag=rvgearlab-amz-20",
     "description": "The Ofwin Sports Polarized is a wrap-around sports pair with TAC polarized lenses and a 99 percent UV400 coating that the listing says blocks UVA, UVB, UVC and blue light. Metal 3+2 hinges flex to fit the face, and the lens is 64 mm wide with a 141 mm frame.\n\nCompared with the MEETSUN Sport Polarized, it adds metal hinges and a zipper box, plus a sports lanyard and a polarizing test card. Against the multi-packs, it gives one better-equipped pair instead of three or four basic ones.\n\nIt is the best fit for hikers, anglers and cyclists who want a single dependable pair with a lanyard. The hardware details lift it above the other picks.",
     "specs": [
       "TAC polarized, 99% UV400 coating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HviLGzKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFG311CH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFG311CH?tag=rvgearlab-amz-20",
     "description": "The KALIYADI Sports 4-Pack gives four pairs of polarized sport sunglasses with UV400 lenses and integrated nose pads. Each pair comes with a pouch, cleaning cloth and glasses strap, and the set arrives in a gift box.\n\nCompared with the Ofwin Sports Polarized, it provides four pairs and four straps, with plainer hinges. Against the FURISHQI 4-Pack, it leans toward sport use, with running, cycling, fishing and hiking named.\n\nIt suits families, scout groups and anyone who keeps spares in the car, tent and pack. Every pair comes with its own strap.",
     "specs": [
       "Four polarized UV400 pairs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wFK3BjcPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBRPMWZF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBRPMWZF?tag=rvgearlab-amz-20",
     "description": "The MEETSUN Sport Polarized has TAC polarized lenses with UV400 protection and a lightweight wrap-around frame in high-grade plastic. The listing gives exact numbers: a 143 mm frame width, 42 mm lens height, 56 mm lens width and 129 mm temples.\n\nThose dimensions let you compare the fit with your own pair, which the Ofwin and KALIYADI listings do less clearly. A paper box, storage pouch, cleaning cloth and polarized test card are included.\n\nIt is a good match for runners, cyclists and drivers with an average to smaller face. The numbers make sizing easy.",
     "specs": [
       "TAC polarized, UV400",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ybjgzKPkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF9KSD31?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF9KSD31?tag=rvgearlab-amz-20",
     "description": "The MEETSUN Retro 3-Pack has TAC HD polarized lenses that reduce glare from roads, water and snow, with a UV400 coating the listing calls 99.99 percent protective. The vintage 80s design comes in several color combinations, and a replacement offer covers defects.\n\nNext to the MEETSUN Sport Polarized, it swaps the wrap-around sports cut for a classic mirror-lens look. Compared with the FURISHQI 4-Pack, it gives three pairs instead of four and adds a defect replacement offer.\n\nIt suits travelers and anglers who want an everyday style for driving, golf and water sports. Sailing, kayaking and canoeing are named.",
     "specs": [
       "TAC HD polarized, UV400",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nxcA83R+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MH858K9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MH858K9?tag=rvgearlab-amz-20",
     "description": "The KALIYADI Matte 3-Pack has HD polarized lenses with a color mirror finish and a matte frame. The neutral lens coating is said to keep colors true, and polarization cuts glare reflected from shiny surfaces.\n\nIt pairs a 100 percent UV blocking claim with three pairs, each with a pouch and cloth. Next to the KALIYADI Sports 4-Pack, it uses a style-led matte frame instead of a sport-led one.\n\nIt works for beachgoers and drivers who want a bit of color and a set to share. A gift box makes it easy to hand off.",
     "specs": [
       "HD polarized color mirror lenses",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tO6KAa4xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7MYYX44?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7MYYX44?tag=rvgearlab-amz-20",
     "description": "The FURISHQI Retro 4-Pack is a set of four polarized semi-rimless retro sunglasses with 100 percent UV protection. The title names classic men's and women's styles.\n\nThe listing carries the least detail in the group, so the pick is about cost per pair and style rather than a long spec sheet. Compared with the MEETSUN Retro 3-Pack, it gives an extra pair and a semi-rimless frame.\n\nIt suits anyone who wants spare pairs for the car, desk and day pack. Four pairs go a long way.",
     "specs": [
       "4 polarized pairs",

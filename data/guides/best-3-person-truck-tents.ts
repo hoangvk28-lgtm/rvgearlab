@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eAjWVIKFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT97YHP4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT97YHP4?tag=rvgearlab-amz-20",
     "description": "The VEVOR is sized for 5.0 to 5.2 foot beds and says it holds two adults and one child, which is a straight account of what fits. It measures 84.6 by 63 by 63 inches, uses 210D Oxford with PU2000mm and adds thicker fiberglass poles, window mesh and storage pockets.\n\nAmong the five it is the only one that spells out who the third sleeper is, and it is among the lowest priced. The Tecoom and VEVOR long-bed tents give more floor, while this one suits the shortest beds.\n\nIt suits a couple with a small child camping from a compact pickup. You can sit upright inside without bending.",
     "specs": [
       "Two adults and one child",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mNymRWSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C1RLVY?tag=rvgearlab-amz-20",
     "description": "The VEVOR long-bed tent is rated for 2 to 3 people and sized for 6.4 to 6.7 foot beds. It has 9mm fiberglass poles, a PU2000mm double layer, a 5.58 foot peak, a skylight and a carry bag.\n\nIt costs about the same as the short-bed VEVOR and gives more floor length. Compared with the Tecoom 6.4ft it has thicker poles and a lower coating rating.\n\nIt suits a small group with a long box that wants standing height. The mesh window adds airflow.",
     "specs": [
       "2 to 3 person, 6.4 to 6.7 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tO28p5avL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LFFXZH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LFFXZH?tag=rvgearlab-amz-20",
     "description": "The Tecoom is a long-bed tent for 2 to 3 adults, sized 104 by 65 by 65 inches. It uses 150D polyester oxford with PU3000mm, an extra tent cover, windproof elastic ties and a one-year warranty.\n\nIt lists a higher coating number than either VEVOR and the longest floor of the five. The Everfire and ziziella inflatables fit more bed lengths and sit at a much higher price.\n\nIt suits groups of two to three adults who want a dependable pole tent in rain. Lifetime technical support comes with it.",
     "specs": [
       "104x65x65 in, PU3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PGM1FfMUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXNZHG1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXNZHG1?tag=rvgearlab-amz-20",
     "description": "The Everfire is an inflatable tent that adjusts across 5.5 to 8 foot beds and measures 7.2 by 5.4 by 5.9 feet and sleeps 2 to 3. It fills in about two minutes with the manual pump, uses 4 inch PVC air frames and PU3000mm, and has a detachable zippered awning.\n\nIt fits the widest range of beds, so one tent covers short and long boxes. Against the Tecoom it trades floor length for faster setup and ground-tent use.\n\nIt suits campers who swap trucks or borrow a bed and want a pole-free tent. The detachable awning handles shade.",
     "specs": [
       "Inflates in about 2 minutes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hj5IqbEiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KQ2299?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KQ2299?tag=rvgearlab-amz-20",
     "description": "The ziziella is an inflatable tent spanning 5.5 to 8 foot beds that sleeps 2 to 3 and inflates in about two minutes. It adds a skylight, two ventilation side windows, an air conditioner vent and a data cable channel.\n\nIt matches the Everfire on bed range and adds a dedicated air conditioner vent and cable port. The Everfire has a detachable awning that this one lacks.\n\nIt suits campers who want to run a small air conditioner or cord into the bed. Deflated, it folds into the bag for the trunk.",
     "specs": [
       "Inflates in about 2 minutes",

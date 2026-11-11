@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310MbzOQLkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC27TC5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC27TC5V?tag=rvgearlab-amz-20",
     "description": "Kaichenyt's kit states 8,000 lb GTW and 800 lb tongue weight with an integrated anti-sway system. Kaichenyt's weight distribution hitch is listed at 8,000 lb GTW and 800 lb tongue weight with an integrated anti-sway control system and a reinforced steel plate.\n\nIt states both numbers, unlike CURT 17051 and XUFOPLY 8000, and costs less than CURT. The listing gives little on bar style.\n\nBest for an 8,000 lb trailer with a tongue weight under about 800 lb. Confirm the spring bar style and shank details before ordering.",
     "specs": [
       "8,000 lb GTW, 800 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WUFDloboL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB0T994?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB0T994?tag=rvgearlab-amz-20",
     "description": "CURT's 17051 is an MV round bar hitch rated up to 8,000 lb with a 2-inch shank and grease zerk. CURT's 17051 is an MV round bar weight distribution hitch rated up to 8,000 lb with a 2-inch shank and grease zerk fitting.\n\nIt states the gross rating but no tongue weight, and it has no sway control. It costs more than Kaichenyt 8000 and XUFOPLY 8000.\n\nBest for an 8,000 lb trailer owner who prefers a known brand and will grease it. It suits mid-size trailers and needs periodic greasing.",
     "specs": [
       "8,000 lb MV round bar",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jVKVn1bRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ9CJDMZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ9CJDMZ?tag=rvgearlab-amz-20",
     "description": "XUFOPLY's 8,000 lb kit fits trailer frames up to 7 inches with a chain connection bar. XUFOPLY lists an 8,000 lb weight distribution hitch kit with a connection bar for 7 inch trailer frames. It uses a chain connection to handle higher tension and #45 steel with a spray finish.\n\nIt costs less than CURT 17051 and states the gross rating, but no tongue weight. Its brand history is limited.\n\nBest for a budget 8,000 lb setup where you verify details. Ask the seller for the tongue weight rating before ordering.",
     "specs": [
       "8,000 lb steel kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315vyI2ducL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0085IJ6E0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0085IJ6E0?tag=rvgearlab-amz-20",
     "description": "Husky's 31997 is an 800 lb weight distribution hitch with sway control and a sparse listing. Husky's 31997 is an 800 lb weight distribution hitch with sway control and a ball listed as 2.32 inch.\n\nIt states an 800 lb class but no gross rating, unlike the three kits above. Ask the seller.\n\nBest only after the seller confirms the gross rating. Confirm the ball size and gross trailer weight with the seller before ordering.",
     "specs": [
       "800 lb weight distribution hitch",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312I3XcGAbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F45W9G5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F45W9G5X?tag=rvgearlab-amz-20",
     "description": "CURT's 17599 TruTrack 2P is a round bar hitch with integrated sway control and no stated rating. CURT's 17599 TruTrack 2P is a round bar weight distribution hitch with integrated sway control and a tilting head for adjustment.\n\nIt cannot be checked against an 8,000 lb load. Ask for the numbers.\n\nBest only after ratings are confirmed. Ask for the ratings before ordering for a specific trailer.",
     "specs": [
       "TruTrack 2P round bar",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nNYOYDnQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00FLXTNFY?tag=rvgearlab-amz-20",
     "description": "CURT's 17422 is rated up to 15,000 lb and includes sway control kit 17200. CURT's 17422 is a short trunnion bar weight distribution hitch rated up to 15,000 lb with a 2-inch shank and 2-5/16 inch ball.\n\nIt has far more rating than an 8,000 lb trailer needs and states no tongue weight. Its bars may be stiff.\n\nBest for an owner planning a bigger trailer. It is a heavy-rated trunnion kit with a bolt-on friction sway bar, so expect to loosen the sway bar when backing sharply.",
     "specs": [
       "15,000 lb, 2-inch shank",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TCrWia1-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ3YYH57?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino Ultimate 20 foot combo kit has 11 pieces: a storage box with a secure lid, a 20 foot hose with a pre-attached clear elbow, a 4-in-1 adapter, two storage caps and hose supports. The storage box works as the start and end hose supports and has built-in handles.\n\nAgainst the RhinoEXTREME 20, it adds the box and supports in one package at a lower price. Against the 15 foot kits, it adds length and storage.\n\nBest for owners who want a complete setup and a place to store it. A clean, organized pick.",
     "specs": [
       "20 ft hose, 11-piece combo",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JhNvtlPcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPJN2N9?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 20 foot kit comes pre-assembled with two 10 foot hoses, bayonet and transparent elbow swivel fittings, a 4-in-1 adapter and four storage caps. The hose is a 24-mil thermoplastic elastomer with a reinforced polymer core and a made-in-USA design.\n\nAgainst the Rhino Ultimate, it uses two 10 foot sections and offers no storage box. Against the RhinoEXTREME 15, it adds 5 feet and a second hose.\n\nBest for long runs and rough ground where abrasion matters. A durable choice for frequent campers.",
     "specs": [
       "20 ft in two 10 ft hoses",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I7H97O0SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004804NWE?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 15 foot kit uses TPE technology for abrasion resistance and crush protection. It includes pre-attached swivel fittings, a transparent elbow with a 4-in-1 dump station fitting, snap-glue fittings and storage caps, and the adapter allows storage in 4 inch square bumpers.\n\nAgainst the RhinoFLEX 15, it adds crush resistance and the bumper-friendly adapter. Against the RhinoEXTREME 20, it is shorter and cheaper.\n\nBest for owners who want premium durability at a moderate length. A good everyday dump kit.",
     "specs": [
       "15 ft TPE hose",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f4hZumoNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR2M4?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 15 foot kit has a 23-mil polyolefin hose reinforced with steel wire that bends and holds its shape. It includes pre-attached fittings that swivel 360 degrees, a clear elbow with a 4-in-1 adapter and two storage caps.\n\nAgainst the RhinoEXTREME 15, it uses polyolefin with steel wire and costs less. Against DUMPMAN, it is a Camco kit with a 4-in-1 that fits 3 inch slip and 3, 3-1/2 and 4 inch threaded pipes.\n\nBest for buyers who want a flexible hose at a modest price. A solid value kit.",
     "specs": [
       "15 ft, 23-mil polyolefin",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y+l3BX3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 15 foot kit includes a hose with rotating fittings, a removable transparent elbow with a 4-in-1 adapter and two end caps. The hose is 24-mil TPE with 4-prong bayonets, a built-in rubber seal and a clear 90-degree adapter that fits four pipe sizes.\n\nAgainst the RhinoFLEX 15, it lists TPE at 24 mil for a lower price. Against Camco kits, it has no storage box.\n\nBest for buyers who want a complete kit at the lowest price. A budget pick with a clear elbow.",
     "specs": [
       "15 ft, 24-mil TPE hose",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Hv64M39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-amz-20",
     "description": "The Camco Deluxe 10 foot extension has pre-attached REVO swivel fittings and a heavy-duty vinyl hose made of 18 mils of HTS. It compresses for storage in 4 inch square bumpers and includes caps that fit the hose ends.\n\nAgainst the kits, it is an extension and costs a fraction. Against the DUMPMAN, it adds length to an existing setup.\n\nBest for extending the reach of a hose you already own. A compact addition.",
     "specs": [
       "10 ft extension hose",

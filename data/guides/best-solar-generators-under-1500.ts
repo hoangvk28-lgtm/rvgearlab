@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41quCRDeXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYD6V3JW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYD6V3JW?tag=rvgearlab-amz-20",
     "description": "DYNESS stores 1536Wh in a LiFePO4 battery rated for over 4000 cycles and outputs 1800W AC with a 3600W surge. It recharges to 80 percent in 50 minutes on AC, or in about 1.2 hours with up to 1200W of solar input, and has 12 ports, a built-in UPS and app control.\n\nAt about $500 it holds 50 percent more energy than the 1024Wh class for the same money as their cheapest members. The EBL has more capacity and output for $180 more, and the Jackery kit adds a panel for $220 more.\n\nBuy it if you want 1.5 kWh of storage without paying for a panel, and you will add one later. It suits RV boondocking, a home backup shelf or a van.",
     "specs": [
       "1536Wh LiFePO4, 4000+ cycles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417SXWOtkmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5Z19WRY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5Z19WRY?tag=rvgearlab-amz-20",
     "description": "EBL holds 1843.2Wh in a LiFePO4 battery and outputs 2400W from four AC ports, with 12 devices charging at once. A bidirectional inverter handles both charging and discharging, and the unit is offered with an optional 200W panel that ships separately.\n\nIt stores about 20 percent more than the DYNESS and puts out 600W more, for roughly $180 extra. The Goal Zero Yeti 1500 outputs less and costs more than twice as much.\n\nPick it for an RV or cabin that runs a toaster, a small heater or a coffee maker. It suits heavier AC loads than the other picks handle.",
     "specs": [
       "1843.2Wh LiFePO4, 2400W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-7M6qa6uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P2Q83BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P2Q83BY?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 1000 v2 kit pairs a 1070Wh station and a 200W panel. It outputs 1500W AC with a 3000W surge across three pure sine wave outlets, plus USB-C, USB-A and a car port, and an emergency mode charges it in one hour.\n\nIt stores less than the DYNESS and EBL, yet it alone ships with a panel at a middle price, about $719. The Anker kit costs $80 more and outputs 2000W.\n\nChoose it if you want panel and station together from a brand with good service. It suits first-time buyers and short RV trips.",
     "specs": [
       "1070Wh LFP, 1500W, 3000W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WCwJSqWbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGSKN54?tag=rvgearlab-amz-20",
     "description": "Anker's SOLIX C1000 Gen 2 kit includes a 200W panel and a 1024Wh station that outputs 2000W (3000W peak) over nine ports. The battery is rated for 4000 cycles to 80 percent, and 600W of solar input refills it in about 1.8 hours.\n\nAt about $800 it costs $80 more than the Jackery kit and adds 500W of output and a faster solar refill. The DYNESS holds 500Wh more for $300 less, with no panel.\n\nChoose it if you want a premium brand and a heavy inverter in a compact body. It suits RVers who add panels over time.",
     "specs": [
       "1024Wh, 2000W / 3000W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ANAjfl3eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMKKGQCY?tag=rvgearlab-amz-20",
     "description": "Goal Zero's Yeti 1500 puts out 2000W with a 3600W surge from four AC outlets and six USB ports, including a 140W USB-C. It uses LiFePO4 cells rated for 4000 cycles, charges 0 to 80 percent in under an hour from a wall outlet and carries an IPX4 rating in an aluminum case.\n\nIt lands exactly at the cap, about $1500, which is three times the price of the DYNESS. You pay for the aluminum body, the IPX4 resistance and the Yeti accessory ecosystem more than for stored energy.\n\nChoose it if you camp in rough conditions and want a rugged, brand-supported station. It suits job sites and overlanding.",
     "specs": [
       "2000W inverter, 3600W surge",

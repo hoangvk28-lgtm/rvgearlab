@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GCLcEZz1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWL361NJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWL361NJ?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS SP039 is a 600W panel with a 44V output, six foldable panels and a folded size of 23.6 by 35.7 by 1.9 inches. It weighs 27.5 lbs, uses monocrystalline cells up to 23 percent efficiency, and carries an IP67 rating.\n\nAgainst the EYONGPV and Generic 600W, it costs far less and weighs about 3 lbs less than the Generic. It ships with an XT60 cable and a 1.5 m extension and targets ALLPOWERS S2000 Pro, R2500 and R4000 generators.\n\nIt suits owners of large ALLPOWERS generators and any station with a 44V-friendly input. It balances 600W, weight and price better than the other full 600W panels.",
     "specs": [
       "600W, 44V output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41guV+M7-tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1GHFWKF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1GHFWKF?tag=rvgearlab-amz-20",
     "description": "The EYONGPV 600W uses HPBC monocrystalline cells with up to 26 percent efficiency in a book-style fold. It has ETFE with EVA dual-layer lamination, an IP65 rating, a 30A Anderson output and a 4.5 m extension cable.\n\nAgainst the ALLPOWERS, it adds a longer cable and higher stated efficiency, while the Generic 600W costs more. The 4.5 m cable lets the station sit in shade.\n\nIt suits campers who place the station away from the panel or work with 12V systems and RV batteries. A built-in handle makes carrying easier.",
     "specs": [
       "600W HPBC, up to 26%",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p5-q8RGlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZM3Z4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZM3Z4G?tag=rvgearlab-amz-20",
     "description": "The Generic 600W lists HPBC cells at 26 percent efficiency and 36V operation with a 10-fold design. It measures 24.2 by 23.6 by 3.2 inches, weighs 30.8 lbs and tops out at 17A.\n\nIt folds to a smaller footprint than the ALLPOWERS and costs the most of the full 600W panels. It ships with 30A Anderson, XT60 and MC4 adapters.\n\nIt suits campers who need a compact folded square and 36V operation. The ETFE surface self-cleans and resists cracking.",
     "specs": [
       "600W HPBC, 26%, 36V",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W is a bifacial panel that adds up to 30 percent rear gain, with a 42.5V design and IP68 protection. It weighs 22.5 lbs on a composite build.\n\nIt is 120 watts below the 600W panels and about 5 lbs lighter than the ALLPOWERS. The rear gain adds output over bright ground.\n\nIt suits campers who want a lighter high-voltage panel and can accept 480W. The composite top layer replaces heavy glass.",
     "specs": [
       "480W bifacial N-type",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jeVOI5H1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4LMVKYD?tag=rvgearlab-amz-20",
     "description": "The Renogy 400W weighs 30.2 lbs, folds to 33.7 by 27.95 inches and ships with a carry case. It uses fiberglass reinforcement, ETFE coating and parallel wiring that limits shade loss, with IP67 protection.\n\nIt is 200 watts below the 600W panels and the listing names several Jackery, EcoFlow, Anker and Bluetti models as matches. Compared with the ALLPOWERS, it adds a hail-resistant ETFE coating and a carry case.\n\nIt fits buyers who put a proven brand and a station match ahead of maximum watts. The carry case helps with storage.",
     "specs": [
       "400W, 30.2 lbs",

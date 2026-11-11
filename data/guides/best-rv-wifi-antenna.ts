@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31luUnqlcaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076HFLRXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076HFLRXY?tag=rvgearlab-amz-20",
     "description": "C. Crane CC Vector Long Range WiFi Receiver System has an omni-directional indoor and outdoor antenna that the listing says receives a distant signal at about 300 feet depending on obstructions. It repeats to all devices and has two Ethernet jacks.\n\nAgainst INSEETECH, it is a complete receiver system. Against eifagur, it includes electronics.\n\nIt is the best match for owners who want a complete WiFi receiver rather than just an antenna. It earns its slot for complete receivers.",
     "specs": [
       "Long range WiFi receiver system",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KoosZ04RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY474GJZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY474GJZ?tag=rvgearlab-amz-20",
     "description": "eifagur 9 dBi Antenna is a long range dual band outdoor antenna for 2.4 GHz and 5 GHz and 5.8 GHz. The listing says it works with WiFi routers, access points, IP cameras and RV cameras and is built for outdoor use.\n\nAgainst INSEETECH, it covers both bands and has more gain. Against Rydocyee, it is outdoor rated.\n\nIt suits owners who need an outdoor dual band antenna for a router or camera. It is a natural fit for outdoor dual band.",
     "specs": [
       "9 dBi dual band antenna",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414oeJ7j63L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFV4W9GS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFV4W9GS?tag=rvgearlab-amz-20",
     "description": "INSEETECH Foldable 5 dBi Antenna is a 2.4 GHz magnetic mount with an RP-SMA male connector, a 9.8 foot RG178 cable and a UV-resistant foldable housing. The listing says it improves weak signals in metal truck cabs and RVs and for wireless backup cameras.\n\nAgainst eifagur, it mounts in seconds with a magnet. Against Rydocyee, it is rated for outdoor use.\n\nIt suits owners who want a no-drill roof or door mount. Think of it as the pick for no-drill installs.",
     "specs": [
       "5 dBi 2.4 GHz magnetic antenna",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OyGOv2zlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFHKPLJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFHKPLJ4?tag=rvgearlab-amz-20",
     "description": "Rydocyee 3 dBi Antenna is a dual band 2.4 and 5 GHz antenna with an RP-SMA male connector that screws onto an RP-SMA female port. The listing calls it a WiFi 6 dual band antenna and says it suits PCs and several devices.\n\nAgainst eifagur, it is a small desktop-style antenna. Against INSEETECH, it has no cable.\n\nIt suits replacing a stock antenna on a USB adapter or router. Buyers focused on stock antenna swaps will find it a sensible match.",
     "specs": [
       "3 dBi dual band antenna",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKK57IlVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8YBMXM?tag=rvgearlab-amz-20",
     "description": "TravlFi External Wi-Fi and LTE Antenna mounts on the outside of an RV and extends the range of a TravlFi or other 4G LTE router. The listing says it uses weather-resistant materials and includes a mounting kit.\n\nAgainst the WiFi antennas, it serves cellular gear and needs a hotspot. Against TravlFi JourneyGo, it is the accessory and not a hotspot.\n\nIt suits owners with a TravlFi or other LTE router who need more signal. It earns its slot for lte router owners.",
     "specs": [
       "External WiFi and LTE antenna",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KR7Xn06fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TS9JG4?tag=rvgearlab-amz-20",
     "description": "TravlFi JourneyGo 4G is a pocket hotspot using eSIM with prepaid plans from 2 GB to unlimited and no contract. The listing says it gives a private WiFi network for laptops, phones, tablets and smart TVs.\n\nAgainst the WiFi antennas, it makes its own network from cellular data. Against TravlFi External Antenna, it is the device the antenna extends.\n\nIt is included for owners who want an LTE option, and it needs a paid data plan. It is a natural fit for cellular hotspot.",
     "specs": [
       "4G LTE hotspot with eSIM",

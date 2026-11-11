@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318A26eDiCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4T2B7X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4T2B7X4?tag=rvgearlab-amz-20",
     "description": "The Naturehike Massif is the one tent here whose listing gives a full carry profile, about 10.47 lb total and a packed size of 20.5 x 9 x 6.7 inches. It pairs a stove jack and snow skirt with 70D nylon rated at 3000mm and a 7001 aluminum alloy frame.\n\nAgainst the Raven NEST it is the tent with a stated weight and a smaller pack, and against the Dandelion Shell tents it uses a thicker 70D fabric. The inner tent has mesh and two vent windows, which helps with condensation when the stove is out.\n\nIt suits two winter campers who want a hot tent they can bike, motorcycle or hike in with. The room and hall layout gives a dry place for gear and a stove.",
     "specs": [
       "About 10.47 lb total",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SQpD3LrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM8NLP2L?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 4 m wide tipi that weighs 6.83 lb on its listing and comes with a flame-retardant stove jack, 16 stakes and 8 guy ropes. It uses 210T polyester with a PU2500mm rating and sets up in about 10 minutes.\n\nIt is the lightest tent on this page by a clear margin and the lowest price, a single-wall shell sold without a floor or inner mesh. The OneTigris Smokey HUT is the nearest match, adding a detachable half floor and nylon fabric for more money.\n\nIt fits budget-minded hikers or bushcrafters who already own a groundsheet and want a stove shelter that stays under 7 lb. Group trips benefit from the 13 ft diameter.",
     "specs": [
       "6.83 lb listed weight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3127JPq9jmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCFNDMS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCFNDMS6?tag=rvgearlab-amz-20",
     "description": "The Smokey HUT is an 11 ft by 5.9 ft teepee in 20D nylon with heat-taped seams, a flue pipe opening and snow skirts. It ships with a 5.9 ft pole, 10 ultralight aluminum stakes, six guy lines and a stuff sack.\n\nCompared with the VEVOR it trades a little price for finer nylon and a detachable half floor mat in 75D polyester. Against the Dandelion Shell Cabin it gives a taller central space and a single-pole pitch.\n\nIt suits solo or two-person winter campers who want a quick pitch around one pole. The two doors help with airflow and with moving a stove in and out.",
     "specs": [
       "20D nylon, heat-taped seams",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F75u8IaPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS71N8FC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS71N8FC?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell Cabin measures 82 x 59 x 47 inches and uses 20D silicone-coated nylon with a heat-resistant stove jack. The kit includes a fireproof ground tarp, six poles, eighteen stakes, nine guy ropes and a carry bag.\n\nIt is a boxier shape than the Smokey HUT, giving more upright sleeping space, and it sits close in price to that tent. The Dandelion Tunnel next to it is longer and narrower, so the Cabin is the pick for sitting room.\n\nIt suits one or two campers who want a cabin-style shelter with a fireproof groundsheet in the box. Mesh panels provide ventilation when the stove is cold.",
     "specs": [
       "82 x 59 x 47 in interior",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31slh-VQ15L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFLXG244?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFLXG244?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell Tunnel is a long, narrow two-person hot tent in 20D single-sided silicone nylon. Its listing highlights front and back openings, reinforced stress points, a double zipper design and a 10 minute setup.\n\nNext to the Dandelion Cabin it trades sitting room for a longer, lower profile, and it lands close to the Smokey HUT on price. The Raven NEST is the roomy option in this list, so the Tunnel is the slimmer choice.\n\nIt fits two campers who want a low-profile winter shelter and are comfortable with a narrow interior. The twin ends make it easy to vent.",
     "specs": [
       "20D silicone-coated nylon",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3106up4pxLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRMRFG1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRMRFG1B?tag=rvgearlab-amz-20",
     "description": "The Raven NEST uses 70D sil-coated and PU-coated nylon at 3000mm with heat-taped seams and YKK zippers. An arched frame with extra tie-out points aims at better wind resistance, and an integrated stove jack is listed for wood-burning stoves.\n\nIt is the roomiest tent here, with separate sleeping zones and a central living area that fits two folding cots. Next to the Massif it offers more floor space, while the Massif is the one with a stated weight.\n\nIt suits short carry-ins or basecamp winter trips where comfort beats ounces. Two poles and eight stakes keep the pitch quick.",
     "specs": [
       "70D nylon, 3000mm rating",

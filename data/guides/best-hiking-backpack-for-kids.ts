@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qsc79hubL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVH4ZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVH4ZW4?tag=rvgearlab-amz-20",
     "description": "The Water Buffalo Mini Sherpa is a kid hydration pack with a 1.5L bladder and bite valve, padded straps and a ventilated back panel. Reflective straps and a built-in whistle add visibility, and side pockets hold snacks and sunscreen.\n\nAgainst the Shinylin set, it comes as a single pack with a whistle. Compared with the Bseash, it adds a drink system, so a child can sip without stopping.\n\nIt suits kids who hike often and need water close at hand. Side pockets and compartments fit snacks, sunscreen and small toys.",
     "specs": [
       "1.5L bladder with bite valve",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bGdHsSWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNGW1CW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNGW1CW3?tag=rvgearlab-amz-20",
     "description": "The Shinylin set includes two hydration backpacks and two 1.5L bladders. Each pack measures about 14.9 by 8.2 by 3.8 inches in nylon, with adjustable chest and shoulder straps.\n\nNext to the Water Buffalo Mini, it gives you two packs for a similar spend, which suits siblings or friends. Against the IVYGREEN, it adds hydration and a slimmer profile.\n\nIt fits families with two kids who each want their own pack. Adjustable straps size down for small torsos.",
     "specs": [
       "2 packs, 2 x 1.5L bladders",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pDufNyMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKQW7R6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKQW7R6F?tag=rvgearlab-amz-20",
     "description": "The IVYGREEN pack is made from water-resistant polyester for kids age 3 and up, with padded shoulder straps and a chest strap. It adds a toy whistle on the chest strap, a reflective front strip and two reflective shoulder strips.\n\nCompared with the Bseash, it adds a whistle and chest strap, so the load stays closer to the body. Against the Shinylin set, it skips the bladder and gains room for a change of clothes, hat and snacks.\n\nIt suits kids who walk to school and hike on weekends. The interior pocket keeps small items from sliding around.",
     "specs": [
       "Water-resistant polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hS9eIcYXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PZ1S2SN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PZ1S2SN?tag=rvgearlab-amz-20",
     "description": "The Bseash is a 10L pack measuring 12.6 by 8.3 by 5.9 inches, listed for kids ages 3 to 6 and under four feet tall. It has reflective strips on the front, a breathable sponge back and wide, ultra-light shoulder straps.\n\nCompared with the IVYGREEN, it has a stated height range. Against the Water Buffalo Mini, it has more storage space and no drinking tube.\n\nIt fits kids under four feet tall who need a true mini pack. Mesh straps keep the child's shoulders cool.",
     "specs": [
       "10L, for kids under 4 ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51goFv5xK0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5LVTBPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5LVTBPY?tag=rvgearlab-amz-20",
     "description": "The SunForMorning pack is built from 600D oxford with double stitching at stress points. It measures 10.6 by 3.9 by 15.7 inches, about 20L, with MOLLE webbing, three exterior zip pockets and breathable adjustable shoulder straps.\n\nIt is the biggest pack here, aimed at older kids. Compared with the Bseash 10L, it holds roughly twice as much and handles a day of school books or an overnight.\n\nIt suits older boys who want a rugged pack with MOLLE webbing to add pouches. A double-zipper main compartment keeps contents secure.",
     "specs": [
       "About 20L, 600D oxford",

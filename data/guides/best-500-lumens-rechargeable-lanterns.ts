@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WqCFaMYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6GYLVVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6GYLVVZ?tag=rvgearlab-amz-20",
     "description": "The LUXPRO retro lantern lists 500 lumens with a rotary dial that dims from 5 to 500 lumens and switches between warm and white light. It runs on a built-in 2000mAh battery that charges over USB-C, with four AA batteries as backup.\n\nIt is the only pick here that states 500 lumens, and the dial gives a far wider low-end range than the five fixed modes on the Westinghouse 1000 Lumen. The AA backup also keeps it running when no charger is near.\n\nIt suits campers and storm-prep households who want a warm, dimmable lantern for a tent, patio or nightstand. A built-in handle and a 6.5 inch height make it easy to hang or stash, and it is sold as a 2-pack, with single lanterns in white and black.",
     "specs": [
       "500 lumens, 5 lumen minimum",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+EfiRa4IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTYWCJHX?tag=rvgearlab-amz-20",
     "description": "The Westinghouse lists 1000 lumens of 5000K daylight white with high, medium and low steps plus an SOS flash. It charges by solar panel or fast USB-C and carries an IPX4 rating.\n\nIt states twice the output of the LUXPRO 500 Lumen Retro, which makes it the pick for lighting a bigger campsite. Its solar top-up and named IPX4 rating add features the LUXPRO does not list.\n\nIt suits campers who want one stronger lantern with a solar backup for multi-day trips. An integrated handle makes it easy to carry or hang from a tent.",
     "specs": [
       "1000 lumens, 5000K white",

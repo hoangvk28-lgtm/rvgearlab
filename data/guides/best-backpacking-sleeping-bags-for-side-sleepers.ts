@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xf2sK2rnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3WKFX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3WKFX8?tag=rvgearlab-amz-20",
     "description": "The NEMO Forte 35F uses a spoon shape that adds room at the elbows and knees. A multistage zipper system with Thermo Gill vents extends the comfort range, and a Blanket Fold draft collar blocks cold air or releases extra heat.\n\nCompared with the Tempo bags, it adds the vent system for warm-night flexibility. Against the TETON, it trades a tight mummy cut for a shape that suits curling up.\n\nIt fits side sleepers who want a premium bag with real ventilation control. It is the top choice for three-season trips.",
     "specs": [
       "Spoon shape, 35F rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+rfVr9nUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3TTGNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3TTGNT?tag=rvgearlab-amz-20",
     "description": "The NEMO Tempo 20F offers a spoon shape with a Blanket Fold draft collar and Zerofiber 650 synthetic insulation. The insulation is made from post-consumer recycled content and keeps warmth when wet.\n\nNext to the Forte 35F, it is warmer at 20F and keeps the draft collar, without the Thermo Gill vents. Compared with the Tempo 35F, it adds 15 degrees of cold rating.\n\nIt suits side sleepers who camp into colder shoulder seasons. The recycled polyester ripstop and taffeta fabric feels soft.",
     "specs": [
       "Spoon shape, 20F rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312gkg-bZOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3XV73G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3XV73G?tag=rvgearlab-amz-20",
     "description": "The NEMO Tempo 35F is the milder Tempo, with the same spoon shape and Blanket Fold collar. It uses Zerofiber 650 synthetic fill and a 50D recycled polyester ripstop and taffeta shell.\n\nAgainst the Tempo 20F, it is lighter in insulation and fits warm trips. Compared with the Forte 35F, it keeps the same 35F rating without the vent zippers.\n\nIt is the right choice for side sleepers who camp from late spring to early fall. It costs a little less than the Tempo 20F.",
     "specs": [
       "Spoon shape, 35F rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "The TETON Trailhead 20F is a mummy with a hood that closes gaps and zipper draft tubes that block leaks. Microfiber insulation adds loft, and a compression sack and hang loops are included.\n\nAgainst the NEMO bags, it costs a fraction and offers the same 20F class. Compared with the Venture 4th, it is a tapered mummy for warmth instead of room.\n\nIt suits side sleepers who accept a tighter cut to save money. Fluff it before bed to restore loft.",
     "specs": [
       "20F mummy",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PJsmQApJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0897D54RX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0897D54RX?tag=rvgearlab-amz-20",
     "description": "The VENTURE 4TH measures 90 by 39 inches, a wide rectangle for sleepers who want to roll and bend freely. It is rated 30F to 70F, uses polyester that resists water and wear, and has a lifetime replacement guarantee.\n\nCompared with the TETON, it gives far more room, and against the NEMO bags it is a car-camp rectangle rather than a shaped pack bag. The water-resistant shell is easy to wipe.\n\nIt fits side sleepers who walk short distances from the car and want space. It handles three-season weather.",
     "specs": [
       "90 x 39 inch XXL size",

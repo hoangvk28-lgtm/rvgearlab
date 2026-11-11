@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KK54E3WPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMZV6HWL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMZV6HWL?tag=rvgearlab-amz-20",
     "description": "The Panovue is a 22 by 22 by 22 inch wood-burning pit made of thick steel with a high-temperature powder coat, weighing only 12.5 lb. It comes with a spark screen, a heavy-duty fire poker, a wood grate and elevated legs that keep heat off the lawn.\n\nAt about $46 it costs $2 more than the Quilushey 19.8 and adds a wood grate and a larger bowl. Compared with the 32 inch square pit, it is lighter and far easier to carry from car to campsite.\n\nIt suits RV owners who want a single pit for the campsite and the backyard. One person can assemble it.",
     "specs": [
       "22 inch steel pit, 12.5 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w7kyJ14jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8TX6N13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8TX6N13?tag=rvgearlab-amz-20",
     "description": "The Quilushey is a 19 by 19 by 15 inch square pit weighing 10 lb, with a removable ash pan, a fire poker and a high-density diamond-mesh spark screen. The powder-coated steel body moves easily with one hand.\n\nAt about $44 it is the lightest pit here and the only one with a removable ash pan. That tray makes cleanup faster than the Panovue, which has no pan.\n\nIt suits campers who pack out ash and want a quick cleanup. The mesh lid concentrates heat for warming.",
     "specs": [
       "19 inch square, 10 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d2WP31bEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015W1B0N2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015W1B0N2?tag=rvgearlab-amz-20",
     "description": "This 32 inch square pit uses powder-coated iron with a heat-resistant basin, faux-stone border panels and sturdy legs. It includes a mesh spark screen lid with 360 degree view and a rain cover, and its ledge holds food or tools.\n\nAt about $48 it costs the most and is the largest pit here at 32 by 32 by 14 inches. The rain cover helps it live outdoors, and it doubles as a grill or ice bucket.\n\nIt suits patio and backyard users who want a big bowl. It is heavy for camping.",
     "specs": [
       "32 by 32 by 14 inch pit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mk8-cBqwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZM51SW5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZM51SW5?tag=rvgearlab-amz-20",
     "description": "The Gas One is a 23 inch wood-burning pit made of durable alloy steel with simple construction. It is a small pit designed to create a welcoming atmosphere with minimal fuss.\n\nAt about $40 it is the cheapest pit here and a hair larger than the 22 inch Panovue. It is simpler than the Panovue, with no listed grate or screen.\n\nIt suits budget campers and backyard users who want a basic fire. It stores easily.",
     "specs": [
       "23 inch alloy steel pit",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ci7OU4FrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGWRLGSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGWRLGSQ?tag=rvgearlab-amz-20",
     "description": "The ICokin is a 17 by 17 by 11 inch pit of heavy-duty powder-coated steel that assembles and disassembles for storage. It comes with a carry bag and a 2 inch base height.\n\nAt about $42 it is the smallest pit and the easiest to pack, with a carry bag the others lack. The bowl suits small logs.\n\nIt suits tailgaters and beach campers who value size over bowl volume. It travels well.",
     "specs": [
       "17 by 17 by 11 inch steel pit",

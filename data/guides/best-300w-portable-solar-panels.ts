@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NImyBko6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRJ928BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRJ928BY?tag=rvgearlab-amz-20",
     "description": "The ATEM POWER lists an HPBC chip, a 20A MPPT charger controller, an anti-crack flexible film and a weight of 7.8 kg (about 17.2 lbs). It folds into a 500 x 610 x 75 mm carry bag and ships with an MC4 to multi-connector cable.\n\nIt is the only pick with an MPPT controller, which lets it charge batteries and 12V accessories directly. It folds into a carry bag that is only 75 mm thick.\n\nIt suits van and RV campers who want to charge a battery. The flexible film resists cracking.",
     "specs": [
       "300W HPBC blanket, 20A MPPT",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cgInanTsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKJRXB12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKJRXB12?tag=rvgearlab-amz-20",
     "description": "The PECRON lists up to 23.5 percent efficiency, a super-thin foldable design and pairing with Pecron E600LFP, E1500LFP, E2000LFP and E3600LFP stations. It comes with a 1+1 year warranty and 24-hour support.\n\nIt is aimed at Pecron stations and states a 1+1 year warranty. It costs about the same as the ATEM.\n\nIt suits Pecron owners who want a matched panel. The warranty adds support.",
     "specs": [
       "300W, 23.5%, thin fold",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fyd2Ai2vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY6RH1Q7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY6RH1Q7?tag=rvgearlab-amz-20",
     "description": "This 300W suitcase panel lists 23.5 percent monocrystalline cells, a 40V output and IP65 Oxford fabric with CPC lamination. It is 18 percent lighter than standard designs and includes a 3 m 3-in-1 MC4 to Anderson, XT60 and DC8020 cable.\n\nIt has a long 3 m cable and a smart chip that guards against overcurrent, overvoltage and short circuits. It costs about $60 less than the ATEM.\n\nIt suits campers with a high-voltage station. The 1-minute deployment keeps setup fast.",
     "specs": [
       "300W, 23.5%, 40V",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i7SbGskiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6VTCYCW?tag=rvgearlab-amz-20",
     "description": "The LVYUAN lists 23.5 percent cells, an inward fold to 26.77 x 26.38 x 1.57 inches and two wiring modes: parallel at 23.6V and series at 47.2V. It has IP65, tool-free setup and a 24-month warranty.\n\nIt lists the voltage in both modes, which suits stations with different input windows. It costs about $100 less than the ATEM and Pecron.\n\nIt suits campers who may change stations later. The 24-month warranty adds support.",
     "specs": [
       "23.5%, 26.77 x 26.38 x 1.57 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BthXlG7jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VL4LVF1?tag=rvgearlab-amz-20",
     "description": "The DOKIO lists 15.2 lbs and a fold to 19.3 x 37.4 x 1.1 inches, with a PWM controller for 12V systems, a 9.85 ft cable and dual USB ports. It warns that many stations limit solar input to 100 to 200W.\n\nIt carries the lowest price here and includes a controller like the ATEM with a simpler PWM type. It is also lighter than the ATEM.\n\nIt suits van owners with a 12V battery who want the lowest price. The slim fold stores flat.",
     "specs": [
       "15.2 lbs, 1.1 in thick",

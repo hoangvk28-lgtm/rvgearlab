@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xXtcQqVJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PYPJYJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PYPJYJ?tag=rvgearlab-amz-20",
     "description": "The ABORON is a 2 to 4 person four-season tent with 68 sq ft of interior and a stove jack described as compatible with most camping stoves. The fabric is PU3000mm waterproof with reinforced seams, and large mesh windows help control condensation.\n\nIt states a floor area and a waterproof number, where the REDCAMP states weight and the Naturehike Dune states modes. It sits well below the Dune on price and a little above the REDCAMP.\n\nIt suits a couple or small group that wants a first hot tent with a real stove jack and a quick setup. It also works for road trips and weekend camps.",
     "specs": [
       "68 sq ft interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D0O9UeYQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMN3RS51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMN3RS51?tag=rvgearlab-amz-20",
     "description": "The REDCAMP measures 11.8 x 6.6 x 6.2 ft and weighs 7.9 lb, with 210T polyester grid fabric and two stove jack openings for compatible wood or pellet stoves. Both doors use a three-zipper design, and six stainless triangular attachment points help it hold in wind.\n\nIt is the lightest tent here with a stated weight and the lowest price of the three. Compared with the ABORON it gives a longer, narrower footprint, and against the Dune it gives a fraction of the price.\n\nIt suits hammock campers and lightweight hot-tent users who want a long shelter with two jacks. The dual jacks allow a stove on either end.",
     "specs": [
       "7.9 lb listed weight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D7h6NN-NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPXBNJB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPXBNJB6?tag=rvgearlab-amz-20",
     "description": "The Naturehike Dune measures 14.5 x 9.1 x 6.8 ft and offers four camping modes, from fully enclosed to full mesh. It adds three more setups with a canopy, six mesh doors and a fiberglass stove jack that the listing says resists yellowing.\n\nIt is by far the roomiest tent in the list and the only one with convertible modes. The ABORON undercuts it on price by a wide margin, while the REDCAMP undercuts it on weight.\n\nIt fits families and groups who want a shelter that shifts from winter hot tent to summer screen house. The canopy extends shade and rain cover.",
     "specs": [
       "14.5 x 9.1 x 6.8 ft living space",

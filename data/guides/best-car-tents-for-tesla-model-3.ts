@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313fKX80QsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ7WNXYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ7WNXYR?tag=rvgearlab-amz-20",
     "description": "The Yoclacr is an awning tent titled for the Tesla Model 3 that connects to the tailgate with support poles and ropes. It carries a waterproof coating and is described as a shade area for camping, beach trips and road trips.\n\nIt costs nearly the same as the LZBCIXA and keeps the kit simple. The listing does not list suction cups or stake counts, so it reads as the plainer option.\n\nIt suits a Model 3 owner who wants shade and light shelter at the back of the car. Assembly takes minutes with the included support poles and ropes.",
     "specs": [
       "Names Tesla Model 3",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Mf+3rqlSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5FPRBNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5FPRBNC?tag=rvgearlab-amz-20",
     "description": "The LZBCIXA is a car awning for the Tesla Model 3 measuring 280 by 380 cm, with coverage described for 4 to 6 people. The kit contains 6 aluminum alloy stakes, 6 ropes, 2 suction cups and 2 meter poles.\n\nIt lists far more detail than the Yoclacr and its larger cover gives the stronger shelter. The price is nearly identical, so the kit decides.\n\nIt suits campers who want a ready-to-pitch set with spare stakes and ropes. The suction cups grip a cleaned panel for installation in minutes.",
     "specs": [
       "280x380 cm cover",

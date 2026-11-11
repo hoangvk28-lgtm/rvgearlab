@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b6YDnnQDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D63ZTMH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D63ZTMH1?tag=rvgearlab-amz-20",
     "description": "The Coleman Biscayne is a 40F bag for campers up to 6 feet 4 inches. A Thermolock draft tube runs along the zipper, locking fasteners hold it rolled for packing, and no-tie cords keep the roll cinched.\n\nAgainst the Coleman Sun Ridge 40F, it adds the big and tall fit, which makes it the better choice for anyone near six feet or over. The same draft tube and roll fasteners appear on the other Colemans, and this is the one that prints the 6 foot 4 inch fit.\n\nA reliable pick for tall car campers who want a plain 40F rating. A stuff sack is included and the bag is machine washable.",
     "specs": [
       "Rated to 40F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbVvrz3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D64228P2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D64228P2?tag=rvgearlab-amz-20",
     "description": "The Sun Ridge is a Coleman 40F cool-weather bag with Fiberlock construction that stops insulation from shifting. Soft ComfortCuff trim runs along the opening, and Roll Control fasteners with a QuickCord make packing quick.\n\nCompared with the Biscayne, it is the standard-size version, so it trades the big and tall fit for a slightly lower price. The ComfortCuff face trim is the feature the Biscayne and Flatlands do not list.\n\nGood for average-height campers who want a Coleman 40F bag with a soft face edge. It is machine washable.",
     "specs": [
       "40F cool-weather rating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3156mmDWHLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D646PGLL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D646PGLL?tag=rvgearlab-amz-20",
     "description": "The Flatlands is a Coleman bag with a shell, liner and Ecotherm fill described as 100% post-consumer recycled. The title shows a 30/40/50F label, and the bullets give warmth to 40F, with a ZipPlow zipper design against snags.\n\nIt costs less than both the Biscayne and Sun Ridge while keeping the Thermolock draft tube and Roll Control packing. The listing also carries a big and tall label in its title.\n\nA good fit for campers who like the recycled-materials angle and want the lowest-cost Coleman. It rolls up with a QuickCord.",
     "specs": [
       "Recycled shell, liner and fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51sNUwTMLQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0896VSBVL?tag=rvgearlab-amz-20",
     "description": "VENTURE 4TH's XXL bag prints a 30 to 70F range and a 90 x 39 inch body. A compression sack is included, and a lifetime replacement guarantee backs it.\n\nIt is the pick that states both ends of its range, where the Colemans give only the 40F limit. At 90 inches it gives more length than the Colemans, which print no body length.\n\nA strong match for taller campers who want one bag from cool nights to warm ones. It suits three-season car camping.",
     "specs": [
       "30 to 70F range",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FTZKac+sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDF71992?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDF71992?tag=rvgearlab-amz-20",
     "description": "TANSTRIDER's XXL bag measures 90.5 x 39.4 inches and weighs 5.3 lb. The listing gives a 40 to 50F comfort range, a water-resistant polyester shell, and a two-way zipper that opens the foot section for airflow.\n\nNext to the REDCAMP, it is wider and gives a comfort range rather than a fit range. It also unzips fully to a flat picnic blanket or tent mat, a trick the Colemans do not list.\n\nBest for side sleepers and tall campers who like a soft flannel lining and a very roomy cut. It suits mild fall camping.",
     "specs": [
       "90.5 x 39.4 in XXL",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51s2Z1boayL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N33DYXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N33DYXD?tag=rvgearlab-amz-20",
     "description": "REDCAMP's XL flannel bag measures 91 x 35 inches and fits campers up to 6 feet 6 inches. The 2 lb fill is comfortable at 50F and fits 41 to 59F, with a 3 lb version reaching down to 41F comfort.\n\nIt is the lowest-priced bag on the list and the longest by fit height. Two-way zippers let you join two bags into a double, and a 365-day limited warranty backs it.\n\nA good pick for budget campers who need length and a soft lining. The listing includes an internal stuff pocket and an outer carry sack.",
     "specs": [
       "91 x 35 in, fits 6 ft 6 in",

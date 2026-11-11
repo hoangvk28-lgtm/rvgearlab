@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41J42iP7mSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRSCP2VS?tag=rvgearlab-amz-20",
     "description": "ABOK Ark2000 offers 2000W continuous with a 2400W A-Boost mode from 1536Wh of LiFePO4. It expands to 4608Wh with extra battery packs, takes 1200W of solar input and charges to 80 percent in 55 minutes on AC.\n\nIt has more capacity than the 1024Wh EcoFlow and BLUETTI units and a stronger inverter than the Jackery 1000 v2, for about $100 less than the two panel bundles. The Lipower holds more energy, and the ABOK adds expansion.\n\nChoose it if you want a station that grows with your needs, for a camper van or a growing home backup. Add a 400W panel set for full solar recharge in a day.",
     "specs": [
       "1536Wh LiFePO4, 2000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ft8DZeyvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BL8YRJ?tag=rvgearlab-amz-20",
     "description": "Lipower holds 2150Wh and delivers 2400W of pure sine wave AC with a 4000W surge. It has a 10ms UPS mode, a four-way recharge system with a full wall charge in about 1.5 hours and a body the maker calls 20 percent lighter than same-capacity packs.\n\nIt stores about 40 percent more than the ABOK and twice as much as the EcoFlow, for about $50 more than the ABOK. It does not ship with a panel and does not expand, so the capacity is fixed.\n\nPick it for the longest fridge, CPAP and fan run per dollar, or as a home outage backup for essentials. It suits households that plan outages more than camping.",
     "specs": [
       "2150Wh, 2400W AC, 4000W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ts7U2lIHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD3V9LF9?tag=rvgearlab-amz-20",
     "description": "BLUETTI's Elite 100 V2 kit combines a 1024Wh station with a 200W solar panel. It gives 1800W AC (2700W Power Lifting), charges in about 70 minutes with 1200W TurboBoost AC or 1000W solar input, and has a 10ms UPS and app control over Wi-Fi and Bluetooth.\n\nIt adds a 200W panel and a quiet mode to the EcoFlow's raw specs, and its 1000W solar input refills a day faster than a 200W-limited rival. It stores less than the ABOK and Lipower, so it wins on charging flexibility, not stored energy.\n\nChoose it if you want to refill quickly from the wall or a big panel array and manage the system from a phone. It suits RV weekends and outage backup.",
     "specs": [
       "1024Wh, 1800W AC, 2700W lifting",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Li2jDBgqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2L1G66J?tag=rvgearlab-amz-20",
     "description": "Jackery's Solar Generator 1000 v2 bundles a 1070Wh LiFePO4 station with a 200W panel, delivering 1500W AC with a 3000W surge. It has three pure sine wave outlets, USB-C, USB-A and car ports, and cells that keep over 70 percent of capacity after 4000 cycles.\n\nIt offers a one-hour emergency charge and the best-known service network in the category, in return for lower AC output than the BLUETTI. Its panel connector is made for Jackery gear, which locks you into one ecosystem.\n\nChoose it if you want an established brand with a strong warranty and a simple plug-in kit. It suits first-time buyers and RV weekenders.",
     "specs": [
       "1070Wh LFP, 1500W AC, 3000W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20",
     "description": "EcoFlow Delta 3 Classic stores 1024Wh in LiFePO4 and outputs 1800W with a 3600W surge, with a 100W USB-C port and a 0 to 80 percent recharge in 45 minutes. A UPS under 10ms and X-Boost for higher-wattage loads round out the feature list.\n\nAt about $499 it costs $200 less than the two panel bundles, because it ships without a panel. If you already own panels, it is the cheapest way to get 1800W of AC power in this guide.\n\nPick it if you already own 12 to 48V panels or plan to buy a bigger array. It suits apartment backup and van builds.",
     "specs": [
       "1024Wh LiFePO4, 1800W AC",

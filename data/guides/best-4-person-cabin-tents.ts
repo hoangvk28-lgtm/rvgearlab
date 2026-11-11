@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EsFcnpn-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG31XXC3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG31XXC3?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village is a double-wall instant cabin whose pre-attached poles go up in about 60 seconds. The 150D blackout fabric blocks light, the listing names a snow skirt for winter, and a vestibule and canopy cover the entry.\n\nAgainst the Fanttik Alpha C4 it adds a separate inner tent, a snow skirt and the blackout fabric, at a higher price. Compared with the CORE, it gives up nothing on setup speed and gains four-season detail.\n\nIt suits campers who sleep in, camp in shoulder season or want one tent for cool nights and bright mornings. The extra layers justify the top price.",
     "specs": [
       "Instant poles, 60 seconds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtFPpYBlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-amz-20",
     "description": "The Fanttik Alpha C4 Ultra is a 94 inch by 94 inch boxy tent with four vertical walls and a pop-up X-frame that sets up in about 60 seconds. Each side has three double-paned windows with rollable eaves, and the 300D bottom fabric is called wear-resistant.\n\nCompared with the CORE, it is a squarer floor and packs 9.8 inches shorter than typical tents. Against the Happy Travel, it adds the instant frame and costs more.\n\nIt fits campers who pitch often and carry their tent in a small trunk. The short pack length makes loading easier.",
     "specs": [
       "94 x 94 in floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YLYvWCB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBFTJTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBFTJTR?tag=rvgearlab-amz-20",
     "description": "The CORE 4-person cabin measures 8 ft by 7 ft with a 72 inch center height and fits one queen air bed. H2O Block fabric rated at 1200mm, a fully taped rainfly and sealed seams make up the weather shell, and a gear loft keeps small items off the floor.\n\nNext to the UNP and Happy Travel, it has the stated rain rating and the gear loft. It costs more than both for a floor of the same size.\n\nIt suits campers who want a named weather system and an honest capacity figure. The listing itself says two people with gear and four without.",
     "specs": [
       "8 x 7 ft, 72 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n9awsyL-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQ7XTT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQ7XTT6?tag=rvgearlab-amz-20",
     "description": "The Happy Travel 4-person tent measures 8 ft by 7 ft with a 75 inch center height, taller than the 72 inch peak on the CORE and UNP. Its 190T polyester taffeta carries a 3000mm waterproof rating, and a removable rainfly and electrical access port are listed.\n\nIt beats the UNP on both height and rain rating while costing about a third more. Compared with the CORE it offers a higher water rating at a lower price.\n\nIt suits campers who are tall or who dislike stooping. Three minutes with two people is the stated setup time.",
     "specs": [
       "8 x 7 ft, 75 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m2tTcf+qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQWXKD1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQWXKD1X?tag=rvgearlab-amz-20",
     "description": "The UNP 4-person tent is 8 ft by 7 ft with a 72 inch center height and nearly straight walls. It weighs about 13 lb, uses 4 steel leg poles and has one mesh door, two mesh windows and a mesh top.\n\nIt is the cheapest tent here and weighs far less than the larger cabins on this list. A 1-year warranty is listed, which the CORE does not mention.\n\nIt fits first-time campers who want an inexpensive cabin that still stands tall inside. Setup is about 3 minutes with two people.",
     "specs": [
       "8 x 7 x 72 in cabin",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjFHVB+eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2B16BXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2B16BXD?tag=rvgearlab-amz-20",
     "description": "The Rhino USA set is a 2-pack of heavy-duty rubber chocks with a non-slip tri-point design, integrated reflective stripping and a high-visibility neon green rope on each. They are made to hold RVs, trucks and trailers.\n\nNext to the Vacallity pair, the rope on every chock makes placement and pulling easier in the dark, and the tri-point base is the grip feature it names. It suits van owners who want one dependable pair they trust on sloped campsites.",
     "specs": [
       "Rubber, tri-point base",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r9iSuHC3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9XSQ5MH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9XSQ5MH?tag=rvgearlab-amz-20",
     "description": "The Vacallity pair weighs 5.6 lb and each chock measures 4.3 by 4.7 by 6.2 inches. They are rubber with three reflective yellow strips, oil and weather resistance, and a three-lobe shape with high-grip edges.\n\nCompared with the OULEME below, it is a little more compact at 4.3 inches wide and gives a published weight, which helps judge cargo space. It suits van owners who want rubber grip without a bulky block.",
     "specs": [
       "5.6 lb per pair",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVgLf2fvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6LGWSRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6LGWSRP?tag=rvgearlab-amz-20",
     "description": "The OULEME chocks measure 6.3 by 4.34 by 4.01 inches in dense rubber and are joined by a 52-inch yellow and black braided nylon rope. Three-sided reflective strips, a textured grid surface and an angled stepped slope add grip.\n\nAgainst the Rhino it gives a single connecting rope, so you can pull both chocks together from the driver's side. It suits owners who park on soft or sloped surfaces and want both chocks retrieved at once.",
     "specs": [
       "6.3 x 4.34 x 4.01 inches",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-h8Z35siL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D923JX9G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D923JX9G?tag=rvgearlab-amz-20",
     "description": "The Komokeru set is four hard plastic chocks with UV inhibitors, a triangular shape built to fit tire curves, a bottom designed to resist slipping, and a handle strap. It lists vans among compatible vehicles and stacks for compact storage.\n\nCompared with the rubber sets, a four-pack covers both wheels on two axles for a van with a trailer, and it costs less than the Rhino pair. It suits owners who need more chocks without carrying heavy blocks.",
     "specs": [
       "4 hard plastic chocks",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xLxz8iJaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94MMWGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94MMWGM?tag=rvgearlab-amz-20",
     "description": "The LEIDGG set is four polypropylene chocks with UV inhibitors and handles for removal, in bright red. The listing says it suits tires up to 26 inches in diameter.\n\nIt is the cheapest per chock on this list and ships in the same four-count as the Komokeru, adding a stated tire-diameter limit that makes the fit easy to judge. It suits small camper vans and part-time campers.",
     "specs": [
       "4 polypropylene chocks",

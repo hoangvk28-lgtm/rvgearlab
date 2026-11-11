@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312977Dd-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZMK2MXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZMK2MXX?tag=rvgearlab-amz-20",
     "description": "Reese's 66091 is a Dual Cam II weight distribution kit with active sway control, rated 6,000 lb capacity. Reese's 66091 is a weight distribution kit with Dual Cam II active sway control, rated 6,000 lb capacity. The listing says it mounts without drilling and leaves the A-frame clear of U-bolts.\n\nIt has the lowest rating here and costs less than Reese 66092. The listing gives no tongue weight.\n\nBest for a lighter trailer after the truck's ratings are checked. Ask for the tongue weight rating before ordering.",
     "specs": [
       "6,000 lb Dual Cam II",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312977Dd-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZMM7W9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZMM7W9P?tag=rvgearlab-amz-20",
     "description": "Reese's 66092 is the 8,000 lb Dual Cam II kit with replacement brackets and ball mount. Reese's 66092 is a weight distribution kit with Dual Cam II active sway control, rated 8,000 lb capacity and including replacement brackets and ball mount. The listing says it installs without drilling or moving propane tanks or batteries.\n\nIt has more capacity than Reese 66091 and costs more. It states no tongue weight.\n\nBest for a midsize trailer after the truck's ratings are checked. Ask for the tongue weight rating before ordering.",
     "specs": [
       "8,000 lb Dual Cam II",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NK1kto7mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVC2BH4B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVC2BH4B?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1508 is a SwayPro hitch with a 9-hole 2.5 inch shank. Blue Ox's BXW1508 SwayPro is a weight distributing hitch with a 9-hole 2.5 inch shank. The listing says a caster in the hitch head constantly centers the trailer.\n\nIt uses a caster to center the trailer and states no ratings in the headline. It needs a 2.5 inch receiver.\n\nBest only if the truck has a 2.5 inch receiver and ratings are confirmed. Ask for the tongue weight and gross towing ratings before ordering.",
     "specs": [
       "SwayPro with 9-hole 2.5 inch shank",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EKJQ1LO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EKJQ1LO?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW2000 states 20,000 lb and 2,000 lb tongue weight with a 2.5 inch receiver. Blue Ox's BXW2000 SwayPro is a weight distributing hitch rated 2,000 lb tongue weight and 20,000 lb towing with a 9-hole shank and a 2-1/2 inch receiver. Rotating brackets mean no more snapping up highly tensioned spring bars.\n\nIt has far more rating than any other pick here and is too heavy for most half-ton setups. It costs less than Blue Ox BXW1508.\n\nBest only for a heavy-duty truck and trailer. It is a very heavy-duty option for large trailers.",
     "specs": [
       "20,000 lb, 2,000 lb tongue weight",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ISaUYtH7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005JQNPG6?tag=rvgearlab-amz-20",
     "description": "Camco's Eaz-Lift sway control is a screw-on accessory for the left side of Eaz-Lift hitches with adjustable sway control. Camco's Eaz-Lift sway control is a screw-on lifting hitch accessory for the left driver side of Eaz-Lift weight distribution hitches with adjustable sway control. It has double friction pads and on and off control.\n\nIt is not a hitch and fits only Eaz-Lift systems. It costs a fraction of the kits.\n\nBest for an Eaz-Lift owner adding sway control. It is a sway add-on, not a hitch.",
     "specs": [
       "Adjustable sway control, left side",

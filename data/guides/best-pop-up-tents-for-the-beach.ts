@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hWSHg9aIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WP621H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WP621H?tag=rvgearlab-amz-20",
     "description": "The WhiteFang Deluxe XL measures 99 x 55 x 55 inches, which the listing says fits 2 adults and 2 kids. A quick popping mechanism sets it up in seconds.\n\nIt includes 5 attached sandbags and 6 steel stakes, and an extended front floor can be closed with Velcro straps for privacy. It is bigger than the Wolfwise and TOBTOS, with 210T sun-proof fabric and a silver-coated layer for UV protection.\n\nIt suits families with young kids who want a big shade space and a privacy option for changing. The extended floor gives it a bigger footprint than the others.",
     "specs": [
       "99 x 55 x 55 in interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EHLoYVpYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XNVVKYG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XNVVKYG?tag=rvgearlab-amz-20",
     "description": "The OutdoorMaster is a 3 to 4 person beach tent with UPF 50+ protection from 210T polyester with a 3000mm PU coating. It has 5 built-in sandbags and reinforced 8.5mm fiberglass poles.\n\nA stated 3000mm coating and 8.5mm poles set it apart, since the G4Free and Wolfwise list neither. A zippered door gives a private spot for changing, and overhead mesh pockets hold valuables.\n\nIt suits beachgoers who face strong sea breezes and want a sturdy frame. It fits 2 adults and 2 kids.",
     "specs": [
       "3 to 4 person, UPF 50+",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F06yfn1FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLDC2BM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLDC2BM9?tag=rvgearlab-amz-20",
     "description": "The Wolfwise is a 3 person tent that measures 86 x 57 x 47 inches and fits 3 people. It has UPF 50+ protection with water-repellent polyester and taped seams.\n\nIt adds 360 degree mesh ventilation and rear double pull sliders that make entry easier, plus a reinforced fiberglass frame. It costs less than the WhiteFang and OutdoorMaster.\n\nA couple or small family wanting a straightforward beach tent will find it an easy fit. The storage pockets under each window are handy.",
     "specs": [
       "86 x 57 x 47 in interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qO0SeGSFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09S8WQGT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09S8WQGT7?tag=rvgearlab-amz-20",
     "description": "The TOBTOS is a 2 to 3 person tent that opens to 63 x 49.6 x 50 inches with a 38.2 inch front porch. Its 190T silver rubber polyester blocks up to 98% of UV, according to the listing.\n\nIt opens in 1 second and includes 2 sandbags on each side plus wind ropes and ground pegs. It is smaller than the G4Free and WhiteFang, with a door and three mesh windows for ventilation.\n\nOne adult with a child, or a couple, can use the compact shelter comfortably. The front porch gives space for shoes.",
     "specs": [
       "63 x 49.6 x 50 in interior",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41r0DLVpesL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MJB48X7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MJB48X7?tag=rvgearlab-amz-20",
     "description": "The G4Free is a large pop-up beach tent that measures 78.7 x 47.2 x 51.2 inches for 3 to 4 people. It is made from 190T silver-coated fabric with UPF 50+.\n\nIt combines 4 built-in sand pockets, 4 detachable sandbags and 6 fixed tent pegs, so it can be weighted down two ways. It also has three widened mesh windows, and the listing says it is 20% bigger than competitors.\n\nBudget buyers who want a roomy tent with flexible anchoring will like it, and its price is the lowest here. Thin fabric is the price of that low cost.",
     "specs": [
       "78.7 x 47.2 x 51.2 in interior",

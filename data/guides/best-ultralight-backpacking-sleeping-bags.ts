@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fBoVWzp0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GDGS6K0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GDGS6K0?tag=rvgearlab-amz-20",
     "description": "The WERTYCITY prints about 1.54 lb and a compressed height of 6.9 inches, a pair of numbers that few cheap bags offer. It pairs a nylon outer with a polyester pongee lining, and the filling is described as imitation silk cotton.\n\nNext to the TETON LEEF it is the only one with a real weight, and against the JEAOUIA it is less than half the carried load. Two of these bags zip together into a double, which suits couples.\n\nIt suits hot-weather hikers, scouts and travelers who value a tiny roll over warmth. The breathable lining helps on muggy nights.",
     "specs": [
       "About 1.54 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy that comes with a compression sack and a design aimed at hiking and backpacking. Buyers choose from three sizes and from 0, 20 and 30 degree versions.\n\nIt is the only pick here sold with a cold-weather option, and size choices let a shorter or taller hiker dial in the fit. The listing prints no weight or fill, so the lightness is a claim rather than a number.\n\nIt suits hikers who want a mummy that packs small at a friendly price. Choose the 0, 20 or 30 degree version by your coldest night.",
     "specs": [
       "Mummy shape, three sizes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rMizl3PjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PTT92SN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PTT92SN?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA is sold as an ultralight bag, with a listed pack weight of 3.3 lb and a compressed size from 7.9 to 14.2 inches. It measures 31.5 by 86.6 inches, uses a 190T nylon shell with a pongee lining and offers a foot zipper and a drawstring hood.\n\nIt is the roomiest of the three and the heaviest by far, so it fits the ultralight label loosely. Its design range of 50 to 68F places it among the warm-weather bags.\n\nIt suits budget hikers on short trips who want room, vents and a hood at a very low price. The shell wipes clean.",
     "specs": [
       "3.3 lb, 7.9 to 14.2 in packed",

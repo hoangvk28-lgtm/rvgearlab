@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+kGuAsSsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9P5261G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9P5261G?tag=rvgearlab-amz-20",
     "description": "The CYCLENBATT low-temp version is a 12V 100Ah LiFePO4 battery listed at 12.09 by 6.65 by 8.19 inches so it slides into a Group 27 box. Its smart BMS stops charging when the cells fall below 32F, and the listing describes it as 66% lighter than lead acid.\n\nNext to the Bluetooth CYCLENBATT it keeps the same capacity and size for the same listed price, trading the app for a simpler plug-and-play install. Against the Banshee AGM it gives a full 100Ah of lithium capacity instead of 90Ah of lead acid.\n\nIt suits car campers and van builders replacing a lead acid Group 27 with a lighter, maintenance-free battery. It is a good fit for shoulder-season trips where charging may happen near freezing.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+xKq-jT8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F62HTNLN?tag=rvgearlab-amz-20",
     "description": "This CYCLENBATT variant adds Bluetooth 5.0 to the same 12V 100Ah LiFePO4 pack, with an app showing live battery data. It meets the BCI Group 27 size, weighs 21.49 lb, and its listing claims more than 5000 cycles.\n\nCompared with the low-temp model above it, the app is the main addition, and it can be expanded to a 4S4P bank of up to 20.48kWh. Against the lead acid picks below, the weight saving is the headline difference on a long carry from the car.\n\nIt fits campers who want to watch state of charge on their phone while off grid. A solar camper checking the bank from inside the tent will use the app daily.",
     "specs": [
       "Bluetooth 5.0 monitoring",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4157Oc7vVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJTCZ7K1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJTCZ7K1?tag=rvgearlab-amz-20",
     "description": "Crown sells the 27HDC as a two-battery set, each 12V and 115Ah with 875 MCA in a standard Group 27 case. The flooded design uses stud terminals and is aimed at repeated deep discharge in marine, RV and backup power work.\n\nCompared with the US Battery set it offers more listed capacity per battery, and the pair price is lower. Next to the lithium options it is much heavier, while its cost per amp hour stays far below.\n\nIt suits a camp or cabin bank where weight does not matter and you are happy to top up water. Two batteries wired in parallel give a 230Ah house bank.",
     "specs": [
       "115Ah per battery",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iPmD870iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLKXHTJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLKXHTJ3?tag=rvgearlab-amz-20",
     "description": "The US 27DC XC2 is a flooded Group 27 deep cycle rated 105Ah at the 20 hour rate, with SAE and bolt terminals and a heat-sealed polypropylene case. Its listing gives runtime ratings of 54 minutes at 75 amps and 205 minutes at 25 amps.\n\nCompared with Crown it lists a little less capacity, while the published runtime figures give clearer expectations at set loads. Against the Banshee AGM, it is a serviceable flooded design that can be recharged to full rated capacity.\n\nIt suits campers building a long-lived bank who want a commercial-service battery with dual terminal options. This listing is a two pack, and the same product also appears as a six pack.",
     "specs": [
       "105Ah at 20 hour rate",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410vqB+4loL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B088X5SHK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B088X5SHK7?tag=rvgearlab-amz-20",
     "description": "The Banshee is a Group 27M sealed AGM battery listed at 12V, 185 minute reserve capacity and dual SAE terminals. It measures 13.5 by 6.69 by 8.42 inches and has a built-in carrying handle.\n\nIt is the lowest priced battery here and the only sealed lead acid one, so unlike the Crown and US Battery flooded sets it needs no watering. It also sits well below the lithium picks in price, with less usable capacity.\n\nIt suits a weekend car camper powering an inverter, lights and a small cooler who wants a single sealed battery. The handle helps with moving it between the car and the site.",
     "specs": [
       "AGM sealed lead acid",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cIas4OpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWMD68K?tag=rvgearlab-amz-20",
     "description": "The Naturehike Snowbird is a 650 fill power RDS and IDS certified down mummy with a YKK two-way zipper and a U-shaped hood. It comes in SP400, SP700 and SP1000 models, and the listing prints an ISO comfort rating of 29 degrees F with an 18 degree F limit for the one it quotes.\n\nIts three-dimensional wind barrier and C-shaped wrap add cold-spot protection that the Teton and QEZER bags do not describe. The 6:4 split of top and bottom down puts more fill above the sleeper, which suits a bag used on a pad.\n\nIt is the pick for backpackers who want a traceable-down mummy with a draft collar system and a range of warmth models. Choose the model that matches your coldest night rather than the 0 degree name.",
     "specs": [
       "650 fill RDS down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VKYwWFcNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW series is a 650 fill power RDS down bag in 400T 20D ripstop nylon with YKK zippers. The medium weighs 2.37 lb at 82.68 by 29.53 inches, and the large weighs 2.9 lb at 86.61 by 33.46 inches.\n\nIt prints more temperature detail than any other pick here, with the CW700 at a 29 degree F comfort rating and the CW1000 at 12 degrees F with a -2 degree F extreme rating. Against the Snowbird it is priced higher and names two clear weight and size options.\n\nIt suits ultralight-minded backpackers who want ISO-style figures printed on the listing and a bag under 3 lb. Pick the CW1000 for real sub-freezing nights.",
     "specs": [
       "2.37 lb medium, 2.9 lb large",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cYxWdU2bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7BD9WB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7BD9WB5?tag=rvgearlab-amz-20",
     "description": "The QEZER 650FP bag carries 2.2 lb of white duck down at 650 fill power, with vertical baffles and a mesh storage bag. The listing gives a 10 to 27 degree F range and a 15.35 by 7.8 inch package.\n\nIt holds twice the down of the 1.1 lb QEZER 600FP bag and costs less than the Naturehike CW series. The vertical baffles and enlarged neck area aim to cut drafts around the shoulders.\n\nIt suits cold-weather backpackers who want a heavy down load for the money. Expect a bulkier carry than the Naturehike CW series.",
     "specs": [
       "2.2 lb of 650FP duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311MLWC3MPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-amz-20",
     "description": "The TETON Altos-S is a mummy rated by the brand as 0 degree, with a built-out footbox and more shoulder and leg room than a trim backpacking cut. The listing mentions water-resistant insulation and a compression sack with heavy-duty straps.\n\nIts listing leans on a water-resistant, breathable build instead of a down claim. It gives up the weight advantage of the Naturehike CW series for a roomier fit.\n\nIt suits backpackers who sleep restlessly, are broad through the shoulders, or camp in wet weather. Pack it in the supplied compression sack.",
     "specs": [
       "Built-out footbox, roomy cut",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r1A1K2zeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMNHNZQ?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy sold in 0, 20 and 30 degree ratings and three sizes, with a compression sack included. The listing describes a roomier mummy shape that still packs small.\n\nIt undercuts the Altos-S on price and focuses on packability. Several sizes make it easier to fit than the single-cut QEZER bags.\n\nIt suits backpackers who want a modest-priced mummy with a 0 degree option and size choices. Check that you are ordering the 0 degree variant.",
     "specs": [
       "0, 20 or 30 degree options",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OEc8HljJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQC9JCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQC9JCV?tag=rvgearlab-amz-20",
     "description": "The QEZER 600FP is described as a 3 season bag despite the 0 degree name, with 1.1 lb of 600 fill power duck down. It weighs 1.9 lb and packs to 10.63 by 6.69 inches, with 400T ripstop shells and a trapezoidal footbox.\n\nIt is the lightest and smallest option here, and its left and right zippers let two bags join. It carries half the down of the other QEZER, so it trades warmth for weight.\n\nIt suits bikepackers and warm-season hikers who want an emergency or shoulder-season bag. Treat it as a 3 season bag.",
     "specs": [
       "1.9 lb, 10.63 x 6.69 in pack",

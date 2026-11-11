@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41erQ1zdOFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-amz-20",
     "description": "The VAVOFO is a 500 lumen rechargeable headlamp with a 100 meter reach and a zoom that stretches from a 5 degree spotlight to a 120 degree floodlight. Five modes and stepless dimming are listed, plus a red light and IPX4 rating.\n\nThe zoomable lens gives both spot and flood, which the Energizer and GearLight fixed beams cannot. A built-in 500mAh battery lasts up to 3 to 7 hours depending on mode.\n\nIt fits campers who want one lamp for trail navigation and tent chores. The red light helps preserve night vision.",
     "specs": [
       "500 lumens, 100 meter reach",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512S1rQoalL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-amz-20",
     "description": "The GearLight S500 comes as a pack of two headlamps weighing 1.8 oz each (3 oz with batteries), with seven modes and a head that pivots 45 degrees. They are USB rechargeable with a USB-C cable included, water resistant and drop tested.\n\nA pair lets two campers share the same lamp type, which beats single lamps for families. The removable lamp and light weight make them suitable for running too.\n\nIt fits families and campers who want a spare lamp for a partner or a kid. The USB-C cable keeps charging simple on the road.",
     "specs": [
       "Two lamps, 1.8 oz each",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51g49iIPQAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCVD27XL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCVD27XL?tag=rvgearlab-amz-20",
     "description": "The LHKNL package includes two headlamps weighing 1.87 oz each with eight modes, an IPX4 rating and a long-press function. A 60 degree tilt and a motion sensor let you control the lamp with a wave.\n\nThe motion sensor suits messy hands at a camp kitchen, which a button cannot do. Two lamps come in the box like the GearLight.\n\nIt fits cooks, fishers and anyone who wants hands-free control. The long-press function adds a quick way to lock the lamp.",
     "specs": [
       "Two lamps, 1.87 oz each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvXVMkIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-amz-20",
     "description": "The Energizer pack gives two 260 lumen headlamps with an 80 meter beam, three modes (high, spot and wide) and dimming from 10% to 100%. They are IPX4 water resistant and suit emergency, outdoor and work use.\n\nIt is among the lowest priced picks here and a brand most campers trust. The listing does not mention a built-in battery, so it suits kits that already stock batteries.\n\nIt fits glove boxes, tents and storm kits where a brand name matters. The dimming control stretches runtime on a long night.",
     "specs": [
       "260 lumens, 80 meter beam",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41za2rSGhSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XRF146C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XRF146C?tag=rvgearlab-amz-20",
     "description": "The ODEAR is a rechargeable headlamp with a long-range beam listed at up to 2,600 feet (800 meters), a beam angle that adjusts 0 to 90 degrees and two modes (high and low). It lists 8 hours of continuous illumination on a built-in battery.\n\nIt has the longest throw of the group, and it can also sit on the ground as a lantern. That long beam helps with navigation and signaling.\n\nIt fits hunters, anglers and anyone who needs to spot something far away. The elastic band keeps it steady on a hat.",
     "specs": [
       "2,600 foot beam, 8 hour runtime",

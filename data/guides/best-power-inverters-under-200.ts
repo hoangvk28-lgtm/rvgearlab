@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vWnqM2vNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJHY3TH?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1000Watt is a pure sine unit rated at 1000W with a 2000W surge, offering two AC sockets, a USB port and a live status LCD. Thicker 3 ft cables and a fitting tool come in the box. At about $120 it is the entry point for headroom in this guide, a 2-to-1 ratio between surge and running watts that covers the startup kick of small motors.\n\nIt sits about $35 under the TVNIKD 2500W and about $50 under the LVYUAN 4000W, and it takes the clean waveform that neither of those larger units lists. The mechanism is the 2000W surge on top of 1000W continuous: a fan or a small compressor draws a brief spike at startup, and this inverter absorbs it without tripping.\n\nIt is best for campers who run laptops, a CPAP-class device and a small appliance from a deep-cycle battery. Pure sine keeps motors and chargers cool, and the cables in the box mean a direct connection is ready on day one. Buyers who want a first battery-wired inverter will find it the most forgiving of the six.",
     "specs": [
       "1000W pure sine, 2000W surge rating",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51clmwjfdpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09JGHKFXD?tag=rvgearlab-amz-20",
     "description": "The TVNIKD 2500W supplies 2500W through three AC outlets and a smart 2A USB port. It protects the load with ten 30A built-in fuses and an LCD that reports live battery status with an alarm. Three cooling fans keep the unit steady under load. At about $155 it is the step up into microwave and coffee maker territory without paying for a 4000W frame.\n\nIt costs about $35 more than the BELTTT 1000Watt and brings 1500W of additional capacity plus an extra outlet. Against the LVYUAN 4000W, it saves roughly $15 and sits in the sweet spot between a laptop inverter and a whole-van system. The fans are the mechanism here, because a unit running near its rating sheds heat steadily instead of throttling.\n\nIt is best for an RV or truck that runs a microwave or coffee maker off a battery bank. The LCD alarm warns you before a sagging battery shuts the unit down, which matters on a cold morning with the heater on. Wire it with heavy cable and a fuse near the battery, and it delivers.",
     "specs": [
       "2500W output with three AC outlets",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2HBLhliL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBX4RF7?tag=rvgearlab-amz-20",
     "description": "The LVYUAN 4000W provides 4000W continuous and 8000W peak with four AC outlets, a USB port and a hardwire terminal. A 16.4 ft wired remote switches it on and off, and an LCD shows battery, output and load. At about $170 it is the most powerful unit in the guide and the one meant to be mounted, not carried.\n\nIt gives 1500W more than the TVNIKD 2500W for about $15 more, and the remote is the feature the compact units do not offer. The 8000W peak rating is the headroom story at its extreme: a compressor or a pump that kicks hard at startup finds room, and the terminal block lets a permanent cable run replace the clamps.\n\nIt is best for an RV or van conversion with a lithium bank and a planned installation. Mount it where the cable run to the battery is short, put the remote beside the bed or the galley, and leave the unit alone. Pair it with the thick cable and the fusing the maker calls for, and it becomes a permanent part of the rig.",
     "specs": [
       "4000W continuous, 8000W peak output",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zhqURspTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW83F6QJ?tag=rvgearlab-amz-20",
     "description": "The EGO POWER+ inverter is a pure sine unit that holds 400W with an 800W surge and offers a USB-C PD 100W port, a second USB-C and a USB-A. It also charges EGO 56V ARC batteries through the PD port. At about $123 it sits close to the BELTTT 1000Watt on price and carries a place in this guide for one reason: it works with the engine off.\n\nNext to the BELTTT 1000Watt, it delivers 600W less and swaps a wired connection for a tool-battery input. The mechanism is the pack: power comes from an EGO 56V battery you can recharge, so there is no cable to run, no fuse to size and no vehicle battery to protect. That simplicity is the headroom this unit trades for.\n\nIt is best for owners of EGO 56V batteries who want clean AC power at the campsite or in the yard. The 100W PD port charges a laptop quickly in either direction, which turns the inverter into a pass-through charger for the battery pack. The battery and charger are sold separately, so it suits someone who already owns them.",
     "specs": [
       "400W pure sine, 800W surge output",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519I1cTYXWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082PN7C6J?tag=rvgearlab-amz-20",
     "description": "The BESTEK 300W produces pure sine wave with 4.8A of dual USB charging and two ways to connect, plug or clamp. It has a smart cooling fan, isolated voltage protection and defenses against overload, overheating and reverse polarity. At about $58 it is the lowest-priced pure sine unit in the guide and a clean way to start.\n\nIt costs less than half the BELTTT 1000Watt and delivers less than a third of the capacity, so it suits a modest bank and a short device list. Against the POTEK 750W at about $50, it swaps raw watts for the clean waveform, and the reverse polarity protection is a quiet advantage for a first installation where the clamps might be swapped.\n\nIt is best for a sensitive-electronics setup in a car or a van, where the laptop, the camera battery charger and a phone are the whole load. Clean power at a budget price keeps expensive chargers running cool. A buyer comparing headroom might pass over it, and a buyer comparing waveform will not, so read your own device list before deciding.",
     "specs": [
       "300W pure sine wave output",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gBELlyaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-amz-20",
     "description": "The POTEK 750W delivers 750W continuous and 1500W peak through two AC outlets and a USB port. It includes battery clamps, a cigarette lighter adapter and two fuses, along with six protection systems. At about $50 it is the cheapest route to a 2-to-1 surge ratio in this guide, and the box holds everything needed to start.\n\nIt costs less than half the BELTTT 1000Watt and offers three quarters of the continuous watts. Next to the BESTEK 300W at about $58, it brings 450W more capacity for $8 less, and the mechanism is the waveform trade: modified sine output is what makes the extra watts affordable. The clamps and spare fuses mean the first connection needs no extra parts.\n\nIt is best for a tight budget that still needs a power tool or a blender in the car or at camp. Clip it to the battery with the engine running for real loads, and use the lighter adapter for chargers. Anyone assembling a low-cost kit with room for the odd tool will find the value hard to match.",
     "specs": [
       "750W continuous, 1500W peak output",

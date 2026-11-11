@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jITpw7gXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVG4G9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVG4G9F?tag=rvgearlab-amz-20",
     "description": "The Toogh is an 8 by 8 ft tent that the listing says fits a queen-size mattress with room for gear, with a 67 inch peak. It uses telescopic poles, one large mesh door, five mesh windows and a full-mesh top.\n\nIt has the most headroom here, and it has PU-taped seams on both the rainfly and the inner tent, which the ADSMART Tent does not list. Its mesh roof gives better stargazing than the Reactive Tent.\n\nIt suits a small family that wants to stand, pitch fast and still stay dry. The page is titled 3 to 4 person, so extra room is a plus.",
     "specs": [
       "8 x 8 ft, 67 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jJGFqDRwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-amz-20",
     "description": "The Reactive Outdoor 3 Second Tent is a double-layer pop-up in a large 2 to 3 person size. A self-locking mechanism lets one person set it up by pulling the frame up and locking it, and the HH rating is 3000mm with taped seams.\n\nCompared with the ADSMART Tent it needs no pole extension, and its bag has an extra wide opening that makes repacking simpler. It costs more than the Generic Tent and DHBREK Tent.\n\nIt suits solo setup, where one adult pitches alone while others unload the car. Its taped seams add confidence in drizzle.",
     "specs": [
       "Self-locking, one-person setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DIBSor4BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRWWLXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRWWLXZ?tag=rvgearlab-amz-20",
     "description": "The ADSMART 3 person tent is 8 by 7 ft, 52 inches high and weighs 10.4 pounds. It uses pre-attached poles with six steel legs, three mesh windows and a 7.8 by 7.8 by 35.4 inch pack.\n\nIt is lighter and more compact than the Toogh Tent and costs much less than the Reactive Tent. The 52 inch roof means you will not stand, which the Toogh Tent lets you do.\n\nIt suits budget-minded trios who want a stable frame and a small bag. Several colors share the same specs.",
     "specs": [
       "8 x 7 ft, 52 in high",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DjDdmn0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KMDQLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KMDQLT?tag=rvgearlab-amz-20",
     "description": "The Generic 3-4 person pop-up measures 210 by 190 by 135 cm, which is about 83 by 75 by 53 inches. It opens automatically and has waterproof fabric with sealed seams and large mesh panels.\n\nIt is bigger than the ADSMART Tent on paper and costs far less than the Toogh Tent. The brand is unnamed, which is the trade for a low price.\n\nIt suits families who want a bigger floor on a tight budget for light-rain trips. The automatic opening suits beginners.",
     "specs": [
       "210 x 190 x 135 cm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UfkZ-Re7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9Y9D1L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9Y9D1L9?tag=rvgearlab-amz-20",
     "description": "The DHBREK is a 2 to 3 person pop-up with a built-in spring structure, dual roll-up mesh windows and mesh doors. Its fabric is 210D and 150D Oxford with PU1500 to 2000 treatment and UPF 50+ sun protection.\n\nIt is the lowest-priced tent here and uses glass fiber rods with ground nails and ropes for stability. The Generic Tent costs more and offers a larger floor.\n\nIt suits a quick overnight or a festival, when you want shade and a cover for your gear more than room. The spring frame keeps pitching effortless.",
     "specs": [
       "Spring-built pop-up frame",

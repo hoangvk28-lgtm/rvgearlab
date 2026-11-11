@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HdmVIMi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-amz-20",
     "description": "The Browning Denali wraps 122 oz of TechLoft Silver synthetic fill in a two-layer offset construction, with an integrated chest baffle, full-length zipper baffle and 210T nylon diamond ripstop shell. It measures 86 x 38 inches and weighs 9 lb 9 oz.\n\nA -30F title is the lowest label here, and the offset layers are designed to limit cold spots in a way the Browning Discover -20 does not describe. Synthetic fill keeps working through frost and damp, which down cannot promise.\n\nBest for winter campers who haul gear by sled or park beside camp. The internal mesh pocket keeps small items warm overnight.",
     "specs": [
       "-30F title, TechLoft Silver",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314XJA7pIKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGDVC5MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGDVC5MN?tag=rvgearlab-amz-20",
     "description": "The Browning Discover is rated to -20F and uses TechLoft Silver synthetic insulation in a tapered mummy shape. A draft collar, chest baffle and full-length zipper baffle seal out cold air, and the shell is water-resistant polyester with a stuff sack.\n\nIt costs less than the Browning Denali -30 and any other sub-zero pick here, with a 10 degree warmer label. The listing prints no weight or dimensions, so it is the leaner-spec option.\n\nA fit for winter campers who want a sub-zero synthetic at the lowest price. Pair it with a high R-value pad.",
     "specs": [
       "-20F rated mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518UdHykkUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095BVFTJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095BVFTJ9?tag=rvgearlab-amz-20",
     "description": "AKMAX prints a -13 to 23F range for this goose down mummy and describes a water-resistant nylon shell and a snug cut. The weight is listed at 2.37 kg, or 5.2 lb.\n\nAt 5.2 lb it is far lighter than the Browning Denali -30 or the military ECW, which makes it the practical sub-zero pick for hikers. The 23F upper end of the range is a reminder that the label is a limit.\n\nGreat for winter backpackers who want a light bag for mountaineering trips. Goose down packs smaller than synthetic.",
     "specs": [
       "-13 to 23F range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ez9BeGLdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B018TAEWDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B018TAEWDS?tag=rvgearlab-amz-20",
     "description": "This listing sells a military-issue extreme cold weather bag with a water-repellent poplin cotton shell and 80% down, 20% polyester fill. It runs 84 inches long, 30 inches wide at the top and 14 inches at the bottom, and weighs 8 lb.\n\nIt is the most expensive option here, and the listing stresses that bags are stored uncompressed to keep full loft. A drawcord hood and mummy shape keep warmth in, and the weight sits between the AKMAX Down Mummy -13F and the Browning Denali -30.\n\nSuited to collectors, hunters and cold-weather campers who value issue-grade construction. Check condition before buying.",
     "specs": [
       "Military ECW mummy, 80% down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fRflPpdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHJPJ9RX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHJPJ9RX?tag=rvgearlab-amz-20",
     "description": "MT sells a four-piece sleep system with a patrol bag, an intermediate cold weather bag, a waterproof bivy cover and a compression sack. The bags use a front zip and the system layers together for sub-zero use.\n\nUnlike the single bags here, it lets you add or remove layers as temperatures change, and the vacuum compression sack with an air-release valve is a 70D TPU build that the listing says saves 66% of the space. The system fits USGI pouches and rucksacks.\n\nBest for campers who want flexibility, from a light patrol bag in fall to all three pieces in a deep freeze. It suits the user who wants one purchase to cover a whole year.",
     "specs": [
       "Patrol, intermediate, bivy, sack",

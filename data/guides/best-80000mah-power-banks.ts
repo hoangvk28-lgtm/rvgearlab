@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UDnkpDr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-amz-20",
     "description": "The Feidyns lists 80000mAh, 35W PD and QC 3.0 output, a 15W wireless charging pad and 7 ports including USB-C PD 3.1. It adds a 5W solar panel for emergencies, a 300 lumen LED with SOS strobe, IP66 water and dust protection and a strap that withstands a 200 lb pull.\n\nIt has the strongest output of the three at 35W, and the only wireless pad and weather rating. It costs less than the other two.\n\nIt suits campers who want a rugged base-camp bank with a light. Up to 8 devices can charge at once from a wall outlet or the bank.",
     "specs": [
       "80000mAh, 35W PD, 7 ports",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ut8UKOeSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFLY9B7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFLY9B7C?tag=rvgearlab-amz-20",
     "description": "The KONFULON lists 80000mAh (296Wh) with PD 30W and 22.5W USB output, five outputs and two inputs, and a bright LED light with SOS. It claims more than 14 full iPhone 16 charges and 11 for an iPhone 16 Pro Max.\n\nIt is 5W below the Feidyns and has no wireless pad or weather rating. It sells for more than the Relliphent and Feidyns, and it adds a light that doubles as a desk lamp.\n\nIt suits households and campers who want a bank that doubles as a lantern during outages. Five devices charge together.",
     "specs": [
       "80000mAh, 296Wh, PD 30W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E+yTJJLmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVM5V4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVM5V4Y?tag=rvgearlab-amz-20",
     "description": "The Relliphent lists 80000mAh with 15 to 20 phone charges, 2 USB ports at 30W and a 20W USB-C port. It has 5 outputs and 2 inputs including a micro USB input, an LED display and a built-in lanyard.\n\nIt prices below the KONFULON and above the Feidyns, and it offers two 30W USB ports. The lanyard makes it easy to hang.\n\nIt suits groups who want two fast USB ports and a clear display. Phones charge to 60 percent in 30 minutes.",
     "specs": [
       "80000mAh, two 30W USB ports",

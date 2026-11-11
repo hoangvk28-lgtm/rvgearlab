@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412X7BbRSbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TYGJ9TV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TYGJ9TV?tag=rvgearlab-amz-20",
     "description": "The weBoost Drive X RV boosts 5G and 4G LTE for US and Canadian carriers, with multi-user support so every passenger gets a signal. Its rugged outside antenna can be installed in several mounting configurations, and it reaches towers up to 33% farther than the Drive Sleek. It carries FCC approval under ID PWO460021.\n\nAgainst the other three boosters in this guide, the Drive X RV is the one designed around a recreational vehicle rather than a car or a house. The modular antenna mounts in more than one way, which helps when your roof is crowded with vents and solar panels. Compared with the weBoost Drive Reach Overland it saves about $100, and compared with the generic kits it brings brand-level approvals and a proven antenna design.\n\nIt is the best fit for full-time and frequent RV travelers who want one dependable kit for calls, navigation and remote work across the United States and Canada. Families sharing one coach also benefit from the multi-user support, since several phones and hotspots can use the boosted signal at once.",
     "specs": [
       "5G and 4G LTE",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31C2PAUzhaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJY35SQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJY35SQ2?tag=rvgearlab-amz-20",
     "description": "The weBoost Drive Reach Overland combines a powerful booster, a tough outdoor antenna and versatile mounts for off-road vehicles. It supports 5G, works with all US carriers and has a 50 dB maximum gain, which is the figure that decides how far a weak tower can be amplified into a usable signal. It is FCC approved under ID PWO460061.\n\nThis is the toughest kit in the comparison. Next to the Drive X RV, it trades a higher price for a rougher-duty antenna and mounts designed for vehicles that leave the pavement, so washboard roads, branches and heavy vibration are less of a concern. Compared with the low-cost generic boosters, it adds branded support and a named gain figure that carriers expect from approved equipment.\n\nIt is the right match for owners who tow or drive into remote country: forest service roads, desert boondocking, and long stretches where the nearest tower is far away. If your rig spends more time off the interstate than on it, the stronger gain and sturdier antenna are worth the extra money.",
     "specs": [
       "50 dB max gain",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bTZLFXEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF8N51DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF8N51DM?tag=rvgearlab-amz-20",
     "description": "The GAGBK Car Booster is sold for RV and car use, with a whip antenna that captures signal from all directions. It offers automatic gain control up to 65 dB, and the kit includes accessories with no drilling required, so you can set it up in an afternoon without cutting into the roof.\n\nIt costs a fraction of the weBoost kits, roughly one quarter of the Drive X RV. The whip antenna means you never aim it at a tower, which is convenient when you move camp often, and the automatic gain control adjusts power to reduce the chance of overloading the amplifier near a strong tower. Compared with the Bdujhit booster, it is built around a vehicle install rather than a home setup.\n\nIt suits budget RV owners who want a noticeable improvement in weak areas without a big investment. Weekend campers, vacationers on a tight budget and owners adding a second booster to a tow vehicle will find the simple, drill-free install and low price appealing.",
     "specs": [
       "Up to 65 dB gain",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VY5-ikW1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XY9N4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XY9N4D?tag=rvgearlab-amz-20",
     "description": "The Bdujhit booster is listed for home and RV use, with an aluminum alloy housing and a 360 degree cannon barrel antenna. It lists 70 dB gain and coverage up to about 2,150 sq. ft., a large figure for an entry-level kit that makes it a flexible choice for a parked coach.\n\nIt is the cheapest booster in this guide, at less than half the price of the GAGBK Car Booster and about one tenth of the weBoost Drive X RV. The aluminum housing helps dissipate heat, and the cannon barrel antenna covers all directions, so there is nothing to aim. Compared with the vehicle-focused kits, it makes the most sense for a coach that sits in one place for weeks.\n\nIt suits cost-conscious owners who park at a seasonal site, want to test whether a booster helps at all, or need an inexpensive backup. If you stay put and want the lowest price of entry into signal boosting, this kit gets you started for about the cost of a nice dinner.",
     "specs": [
       "70 dB gain",

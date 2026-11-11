@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dofVaFKaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T36G600?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T36G600?tag=rvgearlab-amz-20",
     "description": "The Camco Eaz-Lift ReCurve R3 is a 1000 lb weight distribution hitch with built-in sway control that tightens with a quick bolt turn and has an on/off feature for reversing. It is made from high-carbon steel, uses top-loading spring bars that need no grease, and adds no-noise features meant to remove clunks and creaks.\n\nIt is the most expensive pick here, and the premium sits in the refinement: quiet operation and easier bar loading compared with the CURT 17063 Round Bar. The CURT trades those comforts for grease-fitting maintenance and a higher stated range.\n\nBest for RV owners with a mid-size to large travel trailer who tow often and value quiet, simple hookups. If your rig is a lighter trailer, the price is hard to justify.",
     "specs": [
       "1000 lb weight distribution class",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjOXXzYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-amz-20",
     "description": "The CURT 17063 lists 10,000 to 14,000 lb gross trailer weight and 1,000 to 1,400 lb tongue weight ranges, limited by the head setup chosen. It includes a sway control kit, an adjustable 2 inch shank that can flip for drop or rise, and a pre-torqued 2-5/16 inch ball.\n\nIt carries a higher stated ceiling than the CURT 17062 Round Bar, which is the matching 10,000 lb model. Against the Camco ReCurve R3, it costs far less but needs the grease zerk fittings greased regularly.\n\nA strong pick for owners of bigger trailers who want wide rating headroom. Read the listing's limits carefully, since the ranges depend on how the hitch is configured.",
     "specs": [
       "10,000 to 14,000 lb GTW",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pMOVrDcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-amz-20",
     "description": "This CURT 17062 is the 10,000 lb model of the same round-bar line. It levels the tow vehicle and trailer by redistributing tongue weight, includes the #17200 sway control kit, and has a grease zerk fitting plus forged steel round spring bars.\n\nCompared with the CURT 17063 Round Bar, it is the lower-rated version, so it fits lighter rigs without paying for the 14,000 lb range. It does not list tongue weight figures, so confirm that number before purchase.\n\nA fit for travel trailers in the 10,000 lb class that are well under the limit. Skip it for larger fifth-wheel-class trailers, because it does not state higher ratings.",
     "specs": [
       "10,000 lb class rating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tAwUj3GcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016P98RVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016P98RVS?tag=rvgearlab-amz-20",
     "description": "The Husky Towing friction sway control kit is a powder-coated steel add-on that attaches to the trailer frame ball plate and a weight distribution head unit or weld-on ball plate. The listing says it installs and removes with two spring locking pins and includes two sway control balls, two frame-mounted ball plates and a weld-on adapter.\n\nIt is far cheaper than the CURT 17062 Round Bar because it does not distribute weight at all. That makes it a pairing item for a hitch you own, not a substitute.\n\nBest for owners who already have weight distribution and want to add friction sway control. The listing says to avoid sway controls with surge brakes, so check your trailer's brake type.",
     "specs": [
       "Two spring locking pins",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Zdw83ogL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F43YK21H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F43YK21H?tag=rvgearlab-amz-20",
     "description": "The Shimeyao part is a replacement 26003-style friction sway control adapter for Class III and IV 2 inch square ball mounts. The listing says it needs no welding and bolts on by sliding over the ball stud and tightening the ball.\n\nIt costs a fraction of the Husky Friction Kit but supplies only the mounting adapter, with no friction bar. It works with any hitch that accepts an anti-roll bar, per the listing.\n\nA budget adapter for owners who already have a compatible bar and ball mount. It is not a sway control system on its own.",
     "specs": [
       "Class III and IV 2\" mounts",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SvCinha7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVS14F1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVS14F1G?tag=rvgearlab-amz-20",
     "description": "This BZNJJPLS 48388-style ball plate is listed as a replacement for Eaz-Lift Camco parts 48380 and 48381. It is heavy-duty steel with an anti-rust coating, and ships with mounting hardware.\n\nIt is the cheapest item here, and its use is narrower than the Shimeyao 26003-Style, since it is a spare for Eaz-Lift sway hardware. It pairs naturally with the Camco ReCurve R3 for owners who need a replacement piece.\n\nA useful spare if you run Eaz-Lift sway hardware and need a plate. Verify the exact part number match first, because a wrong plate will not mount.",
     "specs": [
       "Replaces Camco 48380 and 48381",

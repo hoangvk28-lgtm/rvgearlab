@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-v9PPjVUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZNZ5B1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZNZ5B1L?tag=rvgearlab-amz-20",
     "description": "The CrestWave 110V pump has a five-chamber design with a 10 foot self-priming lift, 35 percent thicker copper motor, NSK bearings and a reinforced diaphragm. It runs at 65 dB or less with thermal, overpressure and dry-run protection.\n\nIt lists the longest priming lift and the most protections in the group. The SEAFLO 33 states 6 feet with named standards.\n\nA fit for hookup owners with a low tank. Among its strengths, strainer and barbs included.",
     "specs": [
       "7 GPM at 70 PSI, 110V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jasym+bgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076TGWYDK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076TGWYDK?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 33 Series is a 115V pump rated 3.3 GPM at 45 PSI with a smart switch, self-priming to 6 feet and run-dry capability. It names NSF/ANSI/CAN 61 and 372, NSF 24 and UL 778 and a 4-year warranty.\n\nIt states fewer feet of lift than the CrestWave 7GPM and adds the paperwork. The gentle 45 PSI is easy on plumbing.\n\nBest for full-timers who want documented standards. Buyers also get this: gentle 45 PSI.",
     "specs": [
       "3.3 GPM at 45 PSI, 115V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NNpXk-VPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BB9M2TS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BB9M2TS8?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 33-Series is a 110V pump at 4.0 GPM and 50 PSI with a smart switch, self-priming to 9.8 vertical feet and a 131 foot lift. Thermal overload protection is built in.\n\nIt states both priming height and total lift, which the SEAFLO 33 does not. It costs less than the CrestWave 7GPM.\n\nRight for buyers who want a mid-flow primer on shore power. Among its strengths, mid-range price.",
     "specs": [
       "4.0 GPM at 50 PSI, 110V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411zpfRoPoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C16J1FS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C16J1FS1?tag=rvgearlab-amz-20",
     "description": "The TDR Venus is a 110V pump at 5.5 GPM and 75 PSI with an automatic pressure switch and a self-priming design. A pure copper motor, corrosion-resistant valves and an anti-vibration mount are listed.\n\nIt trades a stated lift number for strong flow at a low price. The listing does not give priming feet.\n\nBest for owners who want flow and a copper motor. Worth noting on the listing: strong 5.5 GPM flow.",
     "specs": [
       "5.5 GPM at 75 PSI, 110V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P17RcgtRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00DLKT4OO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00DLKT4OO?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 21 Series is a 12V pump at 1.2 GPM and 35 PSI with an adjustable switch and self-priming. It draws only 4.0 amps and names NSF and UL standards with a 4-year warranty.\n\nIt is the gentlest and lowest-draw pump here, suited to vans and solar systems. Its flow is far under the others.\n\nA good fit for battery-limited vans. Worth noting on the listing: 4-year warranty.",
     "specs": [
       "1.2 GPM at 35 PSI, 12V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ugcqPl5FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2YC5TW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2YC5TW7?tag=rvgearlab-amz-20",
     "description": "The HUILING is a 12V diaphragm pump at 1.2 GPM with a 6.6 foot self-priming lift, a filter and a quick connection terminal. Its load current is 1.7 amps and its pure copper motor is listed.\n\nIt sits near the SEAFLO 21 on size at a lower price, and the quick connection speeds the wiring. It cannot run continuously for long.\n\nBest for small, intermittent setups. Buyers also get this: pure copper motor.",
     "specs": [
       "1.2 GPM, 12V, 1.7A load",

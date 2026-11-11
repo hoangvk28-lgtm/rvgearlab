@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a titanium alloy canister stove that weighs just 25 g and generates 2700 W. The listing says it boils 1 L of water in about 2 minutes 58 seconds and uses roughly 140 g of gas per hour.\n\nIt is the lightest stove here and states a boil time faster than the MSR PocketRocket 2. The stove and a 110 g canister nest inside a 750 ml pot.\n\nIt suits ultralight hikers who want the least weight at a very low price. Pot support legs flip out, and it twists onto the canister.",
     "specs": [
       "25 g titanium, 2700 W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412+dzwvEQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N5O7551?tag=rvgearlab-amz-20",
     "description": "MSR lists the PocketRocket 2 at 2.6 oz, or 4.2 oz with its protective case, and it packs down to a 2 by 2 by 3 inch bundle. Setup skips priming and preheating, and the stove runs on self-sealing isobutane-propane canisters.\n\nPrice sits well above the BRS-3000T, and what you get for it is an established outdoor brand and serrated pot supports that fit a wide range of pots. The case keeps the burner clean in a pack.\n\nIt suits hikers who want a dependable, widely sold stove with simple controls. Flame control runs from simmer to rolling boil.",
     "specs": [
       "2.6 oz, folds to 2x2x3 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "The AOTU is a 3000 W canister stove with piezo ignition, an adjustable control valve and an aluminum alloy honeycomb windproof net. It packs to 4 by 5 by 8 cm in a plastic box and fits 7/16 thread butane or butane-propane canisters.\n\nIt is the only stove here with a built-in igniter and a rated output of 3000 W. The listing says it does not fit propane-only canisters.\n\nIt suits hikers who want a built-in igniter at a low price. The support suits pots around 20 cm across.",
     "specs": [
       "3000 W, piezo ignition",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vqdkIRi9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFQ4JQT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFQ4JQT8?tag=rvgearlab-amz-20",
     "description": "The YCDMLJC is an aluminum alloy canister stove with piezoelectric ignition and an expandable cooking surface. The listing describes high-temperature resistance and a small pocket-rocket style body.\n\nIt is priced alongside the AOTU and is the simplest stove here. It connects to the gas tank and sits horizontally, per the listing.\n\nIt suits budget hikers who want a spare stove in a pack. Lifetime after-sales service is listed.",
     "specs": [
       "Aluminum alloy, piezo ignition",

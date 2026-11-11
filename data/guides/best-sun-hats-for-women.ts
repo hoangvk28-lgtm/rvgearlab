@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ISL5rnfYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVFTW99?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVFTW99?tag=rvgearlab-amz-20",
     "description": "The FURTALK Ponytail UPF Hat is a nylon, UPF 50+ hiking hat with a 3.5 inch extra-wide brim and a ponytail hole. Snap-up sides convert it between a cowboy silhouette and full coverage, and a waterproof nano-coating plus quick-dry technology handle showers and spray.\n\nCompared with the FURTALK Straw Packable, it is a technical hiking hat instead of a paper straw style. Against the INOGIH Foldable Hat, it adds the snap-up brim and nano-coating.\n\nIt suits women who hike, garden and travel and want sun protection in one packable shape. It folds down to about 7 inches in diameter for a bag.",
     "specs": [
       "UPF 50+ nylon, 3.5 inch brim",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4169tzlU0JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPMF63V5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPMF63V5?tag=rvgearlab-amz-20",
     "description": "The FURTALK Straw Packable is a hand-woven paper straw bucket-style hat with a 3.35 inch brim and a linen lining. The adjustable inner strap suits head circumferences of about 22.2 to 23.2 inches, and a chin strap and sweatband add hold and comfort.\n\nCompared with the Trifabricy Floppy Hat, it has a narrower brim and a more structured bucket shape. Against the FURTALK Ponytail UPF Hat, it is a fashion straw hat with no ponytail hole.\n\nIt suits women who want a cool, breathable straw hat for the beach, picnics and gardens. It folds for a suitcase or tote.",
     "specs": [
       "Hand-woven paper straw",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bwGm5pR7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7GFQVB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7GFQVB2?tag=rvgearlab-amz-20",
     "description": "The AlturaGo 2-in-1 is a UPF 50+ wide-brim hat that lists blocking 98 percent of UVA and UVB, and a zipper detaches the top so it converts into a visor. A 4.5 inch brim, a ponytail hole with a bow and an adjustable hook-and-loop strap come standard.\n\nNext to the NPQQUAN Sun Visor, it adds quick-dry polyester and a zip-off crown. Against the FURTALK Ponytail UPF Hat, it offers a wider brim and a spandex sweatband.\n\nIt suits women who want a hat that switches to a visor when it gets warm. The listing says it is machine washable and foldable for travel.",
     "specs": [
       "UPF 50+, blocks 98% UVA/UVB",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tnhG3CGAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPHRWT66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPHRWT66?tag=rvgearlab-amz-20",
     "description": "The Trifabricy Floppy Hat is a paper straw hat with UPF 50+ and a 5.25 inch brim for full coverage of face, neck and shoulders. An elastic headband fits head circumferences of about 21.2 to 22 inches, and an inner anti-sweat band reduces moisture.\n\nCompared with the FURTALK Straw Packable, it has a much wider brim and a softer floppy shape. Against the AlturaGo 2-in-1 Hat, it is a simpler one-piece hat.\n\nIt suits women who want maximum shade at the beach or on vacation. It is foldable and rolls up to fit in a bag.",
     "specs": [
       "Paper straw, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IGYFJOJPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK1DSGS4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK1DSGS4?tag=rvgearlab-amz-20",
     "description": "The NPQQUAN Sun Visor has an open-top design that blocks 98 percent of UV rays and lets you pull a ponytail or bun through. A wide, stable brim shields the face and neck, and a hook-and-loop strap adjusts the fit at the back.\n\nCompared with the AlturaGo 2-in-1 Hat, it is a fixed visor and costs less. Against the Trifabricy Floppy Hat, it leaves the scalp open for cooling while the brim shades the face.\n\nIt suits women who run hot and wear their hair up, including for pickleball, gardening and park walks. The paper straw brim folds without losing shape.",
     "specs": [
       "Open-top visor design",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TJUyDsgCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZP45DHS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZP45DHS?tag=rvgearlab-amz-20",
     "description": "The INOGIH Foldable Hat is a quick-drying polyester bucket-style hat with a 3.35 inch brim and a mesh layer inside for cooling. A ponytail hole, an adjustable chin drawstring and a back drawstring adjust the fit for a 21 to 23 inch head.\n\nCompared with the FURTALK Ponytail UPF Hat, it is simpler and costs less. Against the NPQQUAN Sun Visor, it covers the whole head and rolls up for storage.\n\nIt suits women who want a cheap fishing-style hat for the beach, pool or hike. The listing names fishing, hiking, camping and travel.",
     "specs": [
       "Quick-dry polyester, mesh layer",

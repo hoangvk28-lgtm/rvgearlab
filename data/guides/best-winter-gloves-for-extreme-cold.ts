@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aYhD5tmBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JCP1BDB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JCP1BDB?tag=rvgearlab-amz-20",
     "description": "The MOREOK Thinsulate glove packs 200 grams of 3M Thinsulate insulation under a windproof outer fabric laminated with a TPU membrane. Its title quotes protection down to -30 degrees Fahrenheit, and the listing adds touchscreen thumb and finger tips and an adjustable buckle wrist strap.\n\nAgainst the UMEWARM -20F, it states a grams figure for the insulation and a colder rating. Next to the HANDLANDY Thinsulate, it adds a buckle strap that pulls the cuff tight over a jacket sleeve.\n\nIt suits skiers, snow shovelers and winter commuters who want the coldest rating in this group at a budget price. The snug fit follows the brand size chart.",
     "specs": [
       "200 g 3M Thinsulate",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L2rgztmLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJ6JW2V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJ6JW2V?tag=rvgearlab-amz-20",
     "description": "The TRENDOUX Seven-Layer glove is built for extreme cold with a seven-layer system that includes swan velvet and imported 3M insulation. Windproof fabric covers the back of the hand, and a thumb scraper wipes snow and rain from goggles.\n\nIt carries more layers than any other pair here, and the waterproof zipper pocket on the back of the glove holds a card or key. Next to the MOREOK Thinsulate, it trades the stated -30F rating for a thicker multi-layer build and extras.\n\nIt suits a man or woman who stands still in the cold, such as a lift-line skier or a winter spectator, and wants every layer the listing offers. Adjustable cuffs and an anti-loss buckle keep the pair together.",
     "specs": [
       "Seven-layer insulation system",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ysf8H8k-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKFZN74L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKFZN74L?tag=rvgearlab-amz-20",
     "description": "The UMEWARM GEANI-TEX glove uses a five-layer thermal build with 3M insulation and a -20F rating in its title. A GEANI-TEX waterproof layer repels rain and snow, and all ten fingertips are touchscreen compatible with PU conductive material.\n\nIt beats the MOREOK Thinsulate and Tough Outdoors Patrol on screen use because every fingertip works, not just the thumb and index. Smooth zippers and elastic cuffs make it faster to pull on than the strap-closure pairs.\n\nIt suits commuters and skiers who check a phone often in the cold and want a rating near -20F. The listing includes a hassle-free replacement offer.",
     "specs": [
       "Five-layer 3M thermal build",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dUcDJMWtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073XNXMM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073XNXMM1?tag=rvgearlab-amz-20",
     "description": "The Tough Outdoors Patrol glove uses SummitLoft insulation under a nylon shell with a breathable TPU membrane. A drawstring closure cinches over a jacket cuff, an adjustable wrist buckle snugs it, and built-in wrist leashes keep the gloves tethered when you go bare-handed.\n\nIt has the most ski-specific features here, including a soft nose-wipe thumb and synthetic leather palms with dual seams. Next to the TRENDOUX Seven-Layer, it uses a plainer build at roughly half the price.\n\nIt suits skiers and snowboarders who take gloves on and off at the lift and want a leash and a drawstring. The wrist leash and nose-wipe thumb are rare at this price.",
     "specs": [
       "SummitLoft insulation, TPU membrane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bwlXXqSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XTC6DWM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XTC6DWM?tag=rvgearlab-amz-20",
     "description": "The HANDLANDY Thinsulate glove has a full waterproof bag insert between the liner and the shell, plus 3M Thinsulate warmplush insulation. The palm and fingertips carry reinforced anti-slip material, and pull tabs let you tug the glove on with one hand.\n\nA full waterproof insert covers the whole hand, where the TRENDOUX Seven-Layer relies on windproof fabric on the back only. It lists no degree rating, so it sits below the MOREOK Thinsulate for the coldest days.\n\nIt suits snow removal, ice fishing and outdoor work in wet cold. The listing says the pink women's style is cut for women, and men should choose one size up.",
     "specs": [
       "Waterproof insert, 3M Thinsulate",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GbHJq7zcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDLV5GFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDLV5GFG?tag=rvgearlab-amz-20",
     "description": "The ihuan Fleece Ski glove has a skin-friendly waterproof outer fabric over a soft, dense fleece lining. A microfiber leather palm adds grip and abrasion resistance, and the listing says the touchscreen fingertips were tuned for sensitivity.\n\nIt is the lightest and least bulky pair here, which keeps it useful for driving and cycling. Compared with the MOREOK Thinsulate, it gives up a named insulation for a thinner fleece layer.\n\nIt suits a buyer who wants one pair for snowy commutes and mild winter days rather than a deep-cold specialist. Care instructions say to hand wash it inside out with mild detergent.",
     "specs": [
       "Waterproof outer, fleece lining",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DXVul+maL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5C89QKZ?tag=rvgearlab-amz-20",
     "description": "Anker's SOLIX C1000 holds 1,056Wh in a LiFePO4 battery rated for 3,000 cycles with 1,800W AC output (2,400W with SurgePad) across 11 ports. It charges to 80 percent in 43 minutes and takes up to 600W of solar input to refill in about 1.8 hours.\n\nAt about $500 it is the most expensive pick and the one that handles a fridge, a coffee maker and a laptop together. The EcoFlow Delta 3 Classic costs $1 less with a similar capacity, and this one adds a faster solar input.\n\nCampers with an RV or a large tent who want a full night of fridge power will like it. It also suits short home outages.",
     "specs": [
       "1,056Wh LiFePO4, 3,000 cycles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20",
     "description": "EcoFlow's Delta 3 Classic is a 1,024Wh LiFePO4 station with 1800W AC output (3600W surge), a 100W USB-C port and a charge from 0 to 80 percent in 45 minutes. Its UPS switchover is under 10ms and it can expand to 2600W with X-Boost.\n\nAt about $499 it sits at the cap with the Anker SOLIX C1000 and offers a UPS function the Anker does not list. The two are close in capacity and AC output.\n\nCampers who also want a backup for a router, a PC or a medical device will like the UPS. It suits home backup as well.",
     "specs": [
       "1,024Wh LiFePO4, 1,800W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fGKfidOAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVLPGS79?tag=rvgearlab-amz-20",
     "description": "EcoFlow's River 2 Pro holds 768Wh with 800W output and X-Boost to 1600W, 11 outlets and a LiFePO4 battery rated for more than 3,000 cycles. It recharges from an AC outlet in 70 minutes and up to 220W of solar fills it in about 3.5 hours.\n\nAt about $369 it costs $130 less than the Delta 3 Classic and holds 256Wh less. It is the lighter and cheaper way to a brand-name 768Wh station.\n\nCampers who want a mid-size station for a fridge and lights will like it. It is easier to carry than the 1,000Wh units.",
     "specs": [
       "768Wh LiFePO4, 800W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W9wae+RPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBGB594W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBGB594W?tag=rvgearlab-amz-20",
     "description": "GRECELL offers a 999Wh battery with 1,000W pure sine wave AC output (2,000W surge), two AC sockets, three USB QC ports, a USB-C PD 60W port, two DC ports, a car port and a wireless charging pad, 10 outputs in all. A built-in MPPT controller supports solar recharge.\n\nAt about $320 it costs about $180 less than the Anker and delivers 1,000W instead of 1,800W. The brand is less established, and the price per watt-hour is the lowest.\n\nCampers who want 1,000Wh for a fridge and lights and have a tight budget will like it. It also suits a home backup.",
     "specs": [
       "999Wh, 1,000W (2,000W surge)",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P2dHAe-SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPFL1CH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPFL1CH3?tag=rvgearlab-amz-20",
     "description": "EBL packs 519Wh (140,400mAh) into a 14.1 lb station with two 120V pure sine wave AC outlets rated 500W (1,000W peak), three USB-A QC ports and a 10-port layout. It recharges in 6 to 9 hours from a 100W solar panel and 7 to 8 hours from a car outlet.\n\nAt about $200 it costs $30 more than the ANTPO and uses standard lithium. The ANTPO uses LiFePO4 and charges faster.\n\nCampers who want a 500W station with plenty of ports will like it. It suits car camping and small appliances.",
     "specs": [
       "519Wh, 500W (1,000W peak)",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413JL-PoS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBVJFZBW?tag=rvgearlab-amz-20",
     "description": "ANTPO is a 512Wh LiFePO4 station with a 500W (1,000W surge) pure sine wave inverter, PD 60W USB-C, QC3.0 and car outlets. The cells are rated for 3,500 or more cycles, and an AC charge from 0 to 80 percent takes about an hour from a 500W wall input.\n\nNear $170, the ANTPO costs less than any other pick and is the only 500Wh class unit with LiFePO4 at this price. A retro oil-can design makes it stand out at camp.\n\nWeekend campers and van owners who want a long-life 500W station will like it. It powers a laptop, lights and a mini fridge.",
     "specs": [
       "512Wh LiFePO4, 3,500+ cycles",

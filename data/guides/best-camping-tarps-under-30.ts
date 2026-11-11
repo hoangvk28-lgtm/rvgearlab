@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-amz-20",
     "description": "The CAODITU Waterproof Camping Tarp kit is a 9.8 by 9.8 foot awning in 210D ripstop polyester with a PU waterproof coating and fully taped seams. Two adjustable poles, eight aluminum stakes, eight guy lines with tensioners, a mallet and a carry bag complete the kit, so a roof goes up the day it arrives. At up to $30 it is the one fabric tarp at this ceiling.\n\nThis is where the extra ten dollars beyond a plain poly sheet goes: into coated polyester that draws taut and stays quiet, plus the hardware that lets it stand on a bare site. Next to the CARTMAN 14x20Ft it covers about a third of the area and delivers a true pitched shelter in return for a tighter footprint.\n\nIt suits campers who want a ready-made picnic-table roof or a rain fly for a hammock without buying poles and cord separately. The taped seams and PU coating also make it a sensible overhead tarp for a small tent. Setup comes down to standing the poles, staking the guy lines and tightening the tensioners, and the carry bag swallows everything for the drive home.",
     "specs": [
       "9.8 x 9.8 ft 210D ripstop polyester",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515YYJ52PoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 14x20Ft is a 5 mil polyethylene sheet with heat-sealed hems, rope-reinforced edges and metal grommets every 36 inches, spreading over roughly 280 square feet. At about $20 it is the biggest area you can buy in this guide, enough to roof a group kitchen, a vehicle and a stack of wood in one pass.\n\nAgainst the Vandham Tarp 10x12FT it adds 160 square feet for a few more dollars, giving up the thicker 8 mil body and the rubber corners to get there. Next to the CAODITU kit it provides far more cover and none of the pitching hardware, which makes it the pick when you already own poles and cord.\n\nIt suits campers who roof a big communal area at drive-in sites, where one wide sheet over several tables beats three small ones. Pair it with your own trekking poles or branches and the large span becomes a free awning. A row of picnic tables, a pair of chairs and a cooler fit under it with room left over for a group.",
     "specs": [
       "14 x 20 ft, 5 mil polyethylene",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-amz-20",
     "description": "The Vandham Tarp 10x12FT is a 10 by 12 foot sheet of 8 mil HDPE with rubber triangular corners and two-layer edges, grommets sitting about every meter along the hems. Around $17 it is the sturdiest plastic in the guide, and the corner reinforcement is the detail that matters when a tie-down yanks on the weakest point of the tarp.\n\nCompared with the Amazon Basics 7.5x9.5 it supplies about 49 more square feet of cover and a thicker body, and the Amazon Basics sheet counters with a rip-stop weave. Next to the CARTMAN 14x20Ft it is the better choice when the sheet will lie on gravel or when you want more thickness per square foot.\n\nIt fits a car camper who wants a tough tent footprint or a woodpile cover and would rather have 8 mil than raw size. Airing it out in the sun before first use takes care of the new-plastic smell, and from then on the sheet gets on with its work. It also folds neatly enough for a trunk shelf.",
     "specs": [
       "10 x 12 ft sheet of 8 mil HDPE",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-amz-20",
     "description": "Measuring about 7.5 by 9.5 feet, the Amazon Basics sheet has a rip-stop weave coated in polyethylene on both faces, with reinforced edges and grommets for tie-downs. At about $14 it is the second cheapest pick and the sole plastic tarp here with a woven grid, which tells you the reinforcement is built into the cloth and not added at the hem.\n\nWhere the Vandham Tarp 10x12FT and the Kotap 8 x 20 ft rely on thickness and edge patches, this one leans on the weave to stop a puncture from spreading. It also costs the least of the compact sheets and packs down tighter than anything else at this budget, an advantage when a trunk is full.\n\nBest for a solo camper or a couple who needs a light ground cloth under a small tent, a windbreak at a campsite or a cover that gets folded and tossed in a pack. Its modest size makes a neat footprint that stays in the tent's shadow, and the reinforced grommets give the wind-block job four dependable anchors.",
     "specs": [
       "Roughly 7.5 x 9.5 ft woven sheet",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ab-hu1sTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-amz-20",
     "description": "Built from 5 mil coated polyethylene weave, the Kotap 8 x 20 ft has finished dimensions that finished dimensions run 7'4\" by 19'6\", ringed with rustproof aluminum eyelets at three foot spacing and in each corner. Sitting in the $10 to $20 band, it stretches a long strip of cover across a budget that would barely roof a tent floor in 8 mil.\n\nAmong the poly sheets here it is the sole long, narrow shape, and next to the CARTMAN 14x20Ft it covers about half the area while reaching nearly the same length. The aluminum grommets set it apart from the metal rings on other sheets, since rust never stains the fabric. That matters on trips where the tarp sits wet for days.\n\nIt suits campers who need a long, narrow cover for a woodpile, a canoe or a line of gear along a fence. Threading cord through every eyelet keeps the whole run taut and stops it flapping. Used low along a fence line or a log pile, one sheet shelters a lot of dry space for the price of a sandwich lunch.",
     "specs": [
       "5 mil poly, 7'4\" x 19'6\" finished",

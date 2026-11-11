@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The Progressive EMS-PT30X is a portable 30 amp, 120 volt, 3,600 watt unit that absorbs surges up to 1,790 joules and includes an electrical management system. It guards against over and under voltage, open ground and neutral, reverse polarity, a miswired pedestal, accidental 240 volts, surge failure and frequency problems.\n\nIts joule number is far lower than the budget models, yet it names the longest fault-detection list here. It has an all weather shield, thermal protection, a Lexan housing and a display for low light, and it is made in the USA.\n\nIt suits full-time and frequent RVers who want faults caught before the rig is connected. The unit is a known brand with an established track record.",
     "specs": [
       "30A, 3,600W, 1,790 joules",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ycC0+gKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30 offers 3,000 joules of surge protection, patented Bluetooth connectivity and a free app that shows live voltage, amperage and wattage. It adds LED park-power diagnostics, wireless fault alerts and customizable alert thresholds.\n\nIt is the pick for monitoring from the couch, which the Progressive does not offer, and it costs a little less than the Progressive. Against the budget models, it has a much smaller joule number.\n\nIt suits campers who want to watch park power while they sleep. The heavy-duty construction is described as ready for everyday campsite use.",
     "specs": [
       "30A, 3,000 joules, Bluetooth",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-YMtdqfLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLG75XBY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLG75XBY?tag=rvgearlab-amz-20",
     "description": "The GEARGO 15000J lists 15,000 joules, an IP68 waterproof cover, a 30 amp circuit analyzer and automatic shutoff and reconnection when voltage drops below 103V or exceeds 132V. It has a right-angle plug, a non-slip handle and a 5-year warranty.\n\nIt offers a longer warranty and a higher joule number than the orange GEARGO and Kohree, and it costs more than either. It also adds temperature control.\n\nIt suits budget campers who want shutoff behavior and a long warranty. The IP68 cover fits a wide range of plugs.",
     "specs": [
       "15,000J, IP68, circuit analyzer",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M8cIk2-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDDF2VVD?tag=rvgearlab-amz-20",
     "description": "The POWGRN lists 26,000 joules, automatic shutoff for faults such as low voltage or overheating, and a manual restart before power returns. It has an LED screen for voltage, current and power, an oversized waterproof cover and an anti-theft ring.\n\nIt has the highest joule number here and the only anti-theft ring. Its price is the lowest in the group, under the GEARGO 15000J.\n\nIt suits campers who want the unit to stay off until they restart it. The display shows voltage, current and wattage in real time.",
     "specs": [
       "26,000J, auto shutoff, manual reset",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipT8WqgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-amz-20",
     "description": "The Kohree 12000J lists 12,000 joules absorbed within 1 nanosecond, a circuit analyzer with diagnostic LEDs, an IP67 waterproof design and an ergonomic right-angle plug. The housing is flame retardant with a copper core.\n\nIt is among the lowest priced picks, and it keeps to the basics, with no auto shutoff named. Against the GEARGO and POWGRN, it offers a cheaper entry.\n\nIt suits campers who want a simple, tested-at-the-pedestal unit on a tight budget. The LEDs show common wiring faults.",
     "specs": [
       "12,000J, IP67, circuit analyzer",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "The GEARGO Gen2 lists 12,000 joules, a circuit analyzer for wiring faults, V-1 flame-retardant material, an IP68 design and a waterproof cover. Its plugs have ergonomic grip handles and a right-angle connector, and it carries a 3-year warranty.\n\nIt sells in orange so it stands out, and it costs a little more than the Kohree. It has a shorter warranty than the 15000J model.\n\nIt suits campers who want an easy-to-spot protector at a low price. The analyzer shows whether the pedestal is wired correctly.",
     "specs": [
       "12,000J, IP68, circuit analyzer",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wBL-gr+NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVPFBQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVPFBQP?tag=rvgearlab-amz-20",
     "description": "The ComJoy lists 5500 peak and 5000 running watts from a 223cc four-stroke engine. It offers a rare L14-30R 120V/240V outlet, two 120V 20A outlets and a 120V 30A RV outlet, with a 3.8 gallon tank for up to 8 hours at 50 percent load.\n\nIt adds a telescopic handle and wheels for moving a heavy unit, and its pure sine wave stays under 3 percent THD. It runs at a lower price than the GENMAX GM5500i with a similar rated output.\n\nIt suits RV and home-backup campers who need real running watts and a full outlet set. Eco mode trims fuel use at light loads.",
     "specs": [
       "5500 peak, 5000 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lwNappzBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVFWF1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVFWF1F?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM5500i lists 5000 rated and 5500 peak watts under 3 percent THD, a 3.9 gallon tank with a fuel gauge and manual or electric start. It states up to 10 hours of runtime, a 60 decibel running sound and a CO detect shutdown.\n\nIt states electric start and a noise figure, which the ComJoy does not. Its fuel tank is slightly bigger.\n\nIt suits campers who want a quiet-running, push-button generator and are happy to pay more. A fault alarm, low-oil alarm and overload alarm round out the panel.",
     "specs": [
       "5000 rated, 5500 peak watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f0oNDWzAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT8WW8XP?tag=rvgearlab-amz-20",
     "description": "The GENMAX Hybrid is rated 3800W with a 5500W peak, helped by a detachable 144Wh battery. It can run 300W from the battery alone with the engine off, and charges the battery automatically in about 1.5 hours.\n\nIt runs engine-off for light loads, which none of the other three can do. Its rated 3800W is below the 5000W of the ComJoy and GM5500i.\n\nIt suits campers who want quiet periods for phones and laptops without starting the engine. The detachable battery also works as a power bank.",
     "specs": [
       "3800 rated, 5500 peak watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ucAFBoKIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGR2586Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGR2586Z?tag=rvgearlab-amz-20",
     "description": "The BILT HARD runs on gasoline at 5500 starting and 4000 running watts, or on LPG at 5000 starting and 3600 running. A 160cc engine, a digital display, a TT-30R RV outlet and CO auto-shutoff are named.\n\nPriced below the other three, it is also the only dual-fuel model here, so propane can replace gasoline. Parallel connectors let two identical units pair.\n\nIt suits RV and home-backup campers who want propane flexibility on a budget. The display tracks runtime and watts.",
     "specs": [
       "5500 starting, 4000 running",

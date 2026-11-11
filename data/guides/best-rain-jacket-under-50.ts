@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vUZOaw2IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CKD1LMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CKD1LMG?tag=rvgearlab-amz-20",
     "description": "The FROGG TOGGS Ultra-lite2 uses a breathable non-woven polypropylene fabric that the listing calls waterproof, wind resistant and extremely lightweight. It has an adjustable hood with cord locks, a full front zipper with storm flap and elastic cuffs.\n\nCompared with the COOFANDY Raincoat, it adds a storm flap and a relaxed fit made to go over existing clothes. Against the salamra Poncho Jacket, it uses a true jacket cut with cuffs.\n\nIt suits backpackers, sideline watchers and emergency kits that need a cheap, reliable layer. The listing says it compresses easily.",
     "specs": [
       "Non-woven polypropylene fabric",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C6aUuTldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CD12MMCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD12MMCX?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Raincoat is a men's hooded shell that lists waterproof and windproof fabric with a breathable feel. It has a relaxed-fit zip front, an adjustable drawstring hood and a carrying pouch.\n\nAgainst the FROGG TOGGS Ultra-lite2, it adds a drawstring hood and carry pouch in a more conventional shell cut. Compared with the COOFANDY Golf Shell, it is marketed for cycling and outdoor wear.\n\nIt suits commuters and travelers who want a basic cover for drizzle. The listing names theme parks, hiking and camping.",
     "specs": [
       "Waterproof and windproof fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h+e6JRXkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KW6STT8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KW6STT8?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Golf Shell shares the same waterproof, windproof, breathable fabric and carry pouch as its sibling, sold as a golf rain jacket. A relaxed fit and an adjustable drawstring hood let you wear it over a sweater.\n\nCompared with the COOFANDY Raincoat, it is marketed for golf and relaxed swings. Against the FPMLUXLL Packable, it is a men's cut with a plain solid color.\n\nIt suits golfers and spectators who want a cover that packs away between showers. The listing says it works in nearly any weather.",
     "specs": [
       "Waterproof, windproof fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R-69XzETL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081CJNDKH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081CJNDKH?tag=rvgearlab-amz-20",
     "description": "The salamra Poncho Jacket is a unisex hooded design with a full front zipper and a waterproof coating with sealed seams. It folds into its own pocket and has a roomy side pocket.\n\nCompared with the FROGG TOGGS Ultra-lite2, it is a looser poncho-style cut that zips on quickly. Against the FPMLUXLL Packable, it is unisex and aimed at commuters.\n\nIt suits commuters and festival-goers who want a fast-on cover. The listing names daily commute, hiking and camping.",
     "specs": [
       "Waterproof coating, sealed seams",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yg+kDxt-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2J3JTK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2J3JTK8?tag=rvgearlab-amz-20",
     "description": "The FPMLUXLL Striped Lined is a women's jacket crafted from 100% polyester that the listing calls waterproof and windproof with a soft touch. An adjustable hood and hem drawstring set the fit and the listing includes machine-wash instructions.\n\nCompared with the FPMLUXLL Packable, it adds a striped lining for a softer feel. Against the COOFANDY Raincoat, it is a women's cut with more styling.\n\nIt suits women who want a casual rain jacket for walking and travel. The listing mentions camping, hiking and gym use.",
     "specs": [
       "100% polyester, waterproof",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fEjQUQNpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H83GN2MK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H83GN2MK?tag=rvgearlab-amz-20",
     "description": "The FPMLUXLL Packable is a women's lightweight jacket in 100% polyester that the listing calls waterproof and windproof. It has an adjustable hood and hem drawstring, and the listing recommends checking the size chart.\n\nAgainst the FPMLUXLL Striped Lined, it drops the lining for a lighter feel and a much lower price. Compared with the salamra Poncho Jacket, it is a fitted jacket cut.\n\nIt suits women who want the cheapest possible rain cover. It also works as a windbreaker.",
     "specs": [
       "100% polyester, waterproof",

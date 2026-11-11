@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xksZgV8sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFN4HDHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFN4HDHV?tag=rvgearlab-amz-20",
     "description": "The ZHXWMF88 is titled as a car side tent for the Vauxhall Zafira with an outdoor privacy wall. It adds a roof cover from the front roof to the windshield, an expandable awning and breathable mesh, in 210D Oxford with a PU8000+ coating.\n\nNo other pick here names the Vauxhall Zafira, and none lists a numeric coating rating. Compared with the OYZUOAU it works from the side of the van rather than the rear gate.\n\nIt suits owners who want shade and privacy next to the sliding door. The carry bag measures 22 by 6 inches.",
     "specs": [
       "Names Vauxhall Zafira",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OGwc0mJML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHWXZV7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHWXZV7N?tag=rvgearlab-amz-20",
     "description": "The OYZUOAU is an arch-style rear tent titled for the Opel Zafira Life 2019 through 2026. It uses a fabric described as water-resistant, plus a removable rainfly, and can be used attached to the vehicle or standalone.\n\nIt encloses the space behind the rear hatch, which the ZHXWMF88 does not do. The listing names the Opel badge, so owners of the Vauxhall-badged version should compare dimensions.\n\nIt suits Zafira Life owners who want a rear shelter for changing, gear or sleeping pads. A sturdy structure is described for weather-ready use.",
     "specs": [
       "Names Opel Zafira Life 2019 to 2026",

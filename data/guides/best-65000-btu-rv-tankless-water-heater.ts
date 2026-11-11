@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dJM34ViCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKR44VPW?tag=rvgearlab-amz-20",
     "description": "The Hillhub RV Tankless Water Heater is a 65,000 BTU unit designed for retrofitting a standard 12.8 by 12.8 inch mounting opening. The listing claims up to 3.9 gallons per minute and hot water within 3 seconds.\n\nStaged combustion holds a set temperature from 95 to 124 F. Compared with the Banrterd 65,000, it is built for the smaller 12.8 inch opening instead of an 18 by 15 inch door.\n\nBest for owners swapping out a standard tank heater cutout. It also suits those who want stable temperature.",
     "specs": [
       "65,000 BTU, up to 3.9 GPM",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41koLnydXVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBNNJ6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBNNJ6W?tag=rvgearlab-amz-20",
     "description": "The Baococo 65,000 BTU RV Tankless Propane Water Heater ships with a remote controller for adjusting water temperature. Its listing describes high-altitude adaptability, staged combustion control and a safety system including accidental flameout protection.\n\nIt adds the convenience of a remote that the Garvee 65,000 lacks. It costs about $20 more than the Garvee.\n\nA good fit for owners who want remote adjustment and high-altitude readiness. It also suits families who change settings often.",
     "specs": [
       "65,000 BTU propane",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NpW+YHeIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFWSSKG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFWSSKG7?tag=rvgearlab-amz-20",
     "description": "Garvee's 65,000 BTU model lights the burner at a minimum flow of 0.74 GPM and a pressure range of 14.5 to 100 psi. It lists six safety features including overheat protection, flame failure protection and an ignition failure alarm.\n\nIt has the lowest price here at about $260 and still adds an anti-freeze function. Temperature adjusts from 95 to 123 F.\n\nBest for budget-minded owners who want the full safety list. It also suits low-flow faucets.",
     "specs": [
       "65,000 BTU, 0.74 GPM ignition",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QXmIV6UHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9CN5CFJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9CN5CFJ?tag=rvgearlab-amz-20",
     "description": "The Banrterd 65,000 BTU RV Tankless Water Heater is a 12V DC unit with an oxygen-free copper heat exchanger and a brushless DC fan. Its listing gives an 18 by 15 inch door and a 13 by 13 inch opening, and it is powered by propane.\n\nIt has a microcomputer control panel and a front water outlet. Compared with the Hillhub 65,000, it costs about $40 more and uses a larger door.\n\nA good pick for RVs with an 18 inch door cutout. It also suits those who want copper and a brushless fan.",
     "specs": [
       "65,000 BTU copper exchanger",

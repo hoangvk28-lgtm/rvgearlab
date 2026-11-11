@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RvAls5IIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HF226B4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HF226B4?tag=rvgearlab-amz-20",
     "description": "The Coleman 1000L lists up to 1000 lumens with a beam distance of up to 16 meters. It has four light modes, water resistance and BatteryGuard technology that is meant to prevent battery corrosion and drain.\n\nIt is the brightest single lantern here and the only one with a long-reach beam rating. Against the collapsible Lepro and MalloMe lanterns, it trades packed size for much more light output.\n\nIt suits families who want one strong lantern to light a table or a picnic shelter. BatteryGuard suits a lantern that lives in a gear bin between trips.",
     "specs": [
       "Up to 1000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w1AkpevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-amz-20",
     "description": "The Lichamp 4-Pack gives you four pop-up lanterns, each with USB, solar or AA battery power. The listing names military-grade ABS, overcharge protection and three light modes, with a rechargeable battery that also acts as a power bank.\n\nThree charging routes beat the Lepro and MalloMe, which run only on cells. The four-pack also covers a family without splitting a single lantern.\n\nIt suits families who want redundancy: if the sun is out, solar works, and if not, AA cells still do the job. The smartphone-sized collapsed form fits a glove box.",
     "specs": [
       "USB, solar or AA power",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYZRqBVzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BFC87D2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BFC87D2?tag=rvgearlab-amz-20",
     "description": "The Lepro 4-Pack delivers 190 lumens per lantern in 360 degree light, with IPX4 splash resistance. Pulling the lantern up turns it on and expands it, while pushing down dims it or switches it off.\n\nIt costs less than the Lichamp pack and gives a stated lumen figure, which the Lichamp lacks. The pull-up switch is simpler than the MalloMe multicolor's design.\n\nIt fits budget-minded families who want one lantern per tent. The collapsible body slips into a pocket.",
     "specs": [
       "190 lumens, 360 degree",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41En3T3t4uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N496FND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N496FND?tag=rvgearlab-amz-20",
     "description": "The MalloMe 350 uses COB LED technology for up to 350 lumens in an even 360 degree glow. It collapses to just 4.9 inches tall and turns on by pulling the lantern up, with no buttons.\n\nIt is brighter than the Lepro's 190 lumens in a smaller package. Against the Coleman, it offers less output and a body that stores in a drawer or emergency kit.\n\nIt suits campers who want a compact light for a tent and an emergency kit. Foldaway handles make it easy to hang.",
     "specs": [
       "Up to 350 lumens, COB LED",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O9ZztdR5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01D8WEH14?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01D8WEH14?tag=rvgearlab-amz-20",
     "description": "The MalloMe Multicolor 4-Pack comes in four finishes, with each battery-powered lantern folding down to about the size of a smartphone. The listing names weather-resistant, rugged build and an ultra bright output.\n\nIt is the least expensive set here and the only one with colour options. Compared with the Lepro 4-Pack, it focuses on style where the Lepro states 190 lumens and IPX4.\n\nIt fits families with children who want to pick their own lantern. Each fits in a backpack or vehicle kit.",
     "specs": [
       "Four colour finishes",

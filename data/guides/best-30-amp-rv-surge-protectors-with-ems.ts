@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dpu+Z9E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PRS5NPB?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPO lists 3,000 joules, a smart circuit analyzer that shuts off power in a dangerous event, Bluetooth app monitoring and an IP65 build. It adds a 90-second power-on delay after a fault to protect the air conditioner, a replaceable surge module and a power monitor that reads kilowatt hours.\n\nIt has the air conditioner delay that most others do not name, and it costs less than the Wi-Fi version. It has a smaller joule number than the Kohree and GEARGO units.\n\nIt suits RVers who run an air conditioner and want alerts on a phone. The replaceable module avoids buying a whole new unit after a spike.",
     "specs": [
       "30A, 3,000J, Bluetooth, IP65",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319aC-3RXcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DC15X5GK?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30EPOW adds Wi-Fi to Bluetooth monitoring, wireless fault alerts, a replaceable surge module and IP65 weather resistance. It works with dogbone adapters and sends voltage data from anywhere with a connection.\n\nIt matches the PWD30EPO's design and adds remote Wi-Fi monitoring for a higher price. It is the most expensive EMS here.\n\nIt suits RVers who leave the rig and still want to watch power remotely. The wireless alerts report abnormal conditions.",
     "specs": [
       "30A, Wi-Fi and Bluetooth, IP65",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4132XaZ5qTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC6RSA?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-HW30C is rated 30 amp, 120 volt and 3,600 watt, absorbing surges up to 1,790 joules, with an electrical management system and a long fault list. It protects against over and under voltage, open ground and neutral, reverse polarity, a miswired pedestal, accidental 120 volts and frequency problems.\n\nIt costs less than the Power Watchdog units and has no app. It has the same joule rating as its EMS-PT30X sibling.\n\nIt suits RVers who want a proven, no-app EMS. It has thermal protection, a display and LED indicators for use in low visibility.",
     "specs": [
       "30A, 3,600W, 1,790 joules",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zq5+JZeaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-amz-20",
     "description": "The GEARGO Smart lists 16,000 joules, a real-time LED display, IP68 protection and automatic power cut-off that resets when the problem clears. It carries a 3-year warranty.\n\nIt sits between the Power Watchdog units and the Kohree models on price, and it adds a display of voltage. It has no phone app.\n\nIt suits RVers who want automatic shutoff and a big joule number without paying for Bluetooth. The display shows voltage live.",
     "specs": [
       "16,000J, auto cut-off, IP68",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ou7g1qtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP936JK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP936JK?tag=rvgearlab-amz-20",
     "description": "The Kohree 18000J lists 18,000 joules absorbed within 1 nanosecond, a circuit analyzer with a large LED display that shows voltage and current, and automatic power-off when voltage drops below 104V or exceeds 132V. It has an IP67 waterproof cover and a flame-retardant housing.\n\nIt names its shutoff thresholds and costs less than the GEARGO Smart. It beats the Kohree 14000J on joules and display size.\n\nIt suits RVers who want named shutoff thresholds at a middle price. The large screen shows current as well as voltage.",
     "specs": [
       "18,000J, shutoff at 104V and 132V",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJkMQEQvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5PLS31Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5PLS31Q?tag=rvgearlab-amz-20",
     "description": "The Kohree 14000J lists an upgrade from 10,000 to 14,000 joules, a circuit analyzer with an LED display showing line voltage and wiring, and automatic power-off below 104V or above 132V. It has an IP67 plug cover and the same flame-retardant housing.\n\nIt is the lowest priced EMS here and has the same shutoff thresholds as the 18000J model. It gives up joules and display size.\n\nIt suits budget RVers who want named shutoffs without paying for extras. The display reads line voltage and wiring state.",
     "specs": [
       "14,000J, shutoff at 104V and 132V",

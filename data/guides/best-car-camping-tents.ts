@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KpRpgEsNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXT6ZFD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXT6ZFD7?tag=rvgearlab-amz-20",
     "description": "The Happy Travel SUV tent has pre-attached poles that pitch it in about a minute, helped by a hydraulic device at the top. It is 10 ft by 10 ft with an 83 inch height, fits a king-size air mattress and attaches to the tailgate of most SUVs, MPVs and trucks, including the Tesla Model Y and Jeep.\n\nAgainst the TIMBER RIDGE tents it pitches faster and offers a larger square floor. Compared with the WildFinder it has a stated 3000mm rating and a hydraulic top.\n\nIt suits families who want the fastest way to a sleeping room attached to the car. Mesh covers the top for stargazing.",
     "specs": [
       "10 x 10 ft, 83 in tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hjf5DCopL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT87D3MV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT87D3MV?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE SUV tent is 13 ft by 10 ft with an 87 inch center height and a 6 ft by 8 ft screened porch with an awning. It fits up to five campers with two air mattresses, connects to the car trunk and stands alone if needed.\n\nIt has the tallest ceiling here and the only screened porch. Against the smaller TIMBER RIDGE it is bigger and costs more.\n\nIt suits families who want a bug-free area for shoes, coolers and chairs. The PU2000 fabric and double doors cover rain and airflow.",
     "specs": [
       "13 x 10 ft, 87 in tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DwI+jnWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGX2XLXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGX2XLXW?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE 5-person SUV tent is 10 ft by 8 ft with over 7.1 ft of height and a seamless trunk connection. It uses PU2000 waterproof coating on wear-proof polyester taffeta, has 2 mesh storage pockets and can be removed from the vehicle for standalone use.\n\nIt is smaller than the 5-9 model and costs less. Against the Portal it has a stated stand-up height and a gapless connection.\n\nIt suits couples or small families who want a standard SUV tent. It fits CUVs, SUVs, minivans and pickups with bed lids.",
     "specs": [
       "10 x 8 ft, 7.1+ ft height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jHmCIHUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7RRVCN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7RRVCN4?tag=rvgearlab-amz-20",
     "description": "The WildFinder SUV tent has a 10 by 9 ft floor under a 78 inch peak and fits 5 to 6 adults. An adjustable elastic sleeve connects it to SUVs, CUVs, minivans and wagons, and a PU3000 coating on 190T taffeta gives rain protection.\n\nIts price is well under half of the Happy Travel, with the same stated 3000 water rating. Against the Portal it has a larger floor and a universal sleeve.\n\nIt suits campers who want one tent for several vehicles. It works connected or as a standalone ground tent.",
     "specs": [
       "10 x 9 ft, 78 in center",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XP5pP34sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG1MS8H8?tag=rvgearlab-amz-20",
     "description": "The Portal SUV tent measures 10 ft by 8 ft by 7.2 ft and has a wide porch and a PU 2000mm water-resistant coating. Two large windows and a full mesh ceiling ventilate it, and it fits SUVs, MPVs, vans, pickups with bed covers and crossovers.\n\nIt is the cheapest tent here with a porch. Against the TIMBER RIDGE 5-person it adds a porch, and against the VEVOR it adds a standing height of 7.2 ft.\n\nIt suits budget campers who want a vehicle tent with a covered entry. It also works as a standalone tent.",
     "specs": [
       "10 x 8 x 7.2 ft",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VVVPqg99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5JGHMQY?tag=rvgearlab-amz-20",
     "description": "The VEVOR SUV tent attachment is 8 ft by 8 ft with a PU2000 coating, a double-layer design and thickened 9 mm fiberglass poles. It installs on hatchbacks or stands alone, with high-density mesh windows and a skylight.\n\nPriced lowest in the group, it is also the smallest. Against the Portal it has a smaller floor and no porch.\n\nIt suits hatchback owners and solo campers who want a basic attachment. The streamlined shape reduces wind resistance.",
     "specs": [
       "8 x 8 ft attachment",

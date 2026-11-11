@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419YlNRsZDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GN2Z76JJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GN2Z76JJ?tag=rvgearlab-amz-20",
     "description": "The VEVOR 1200W is the only pick here that is described plainly as a pure sine wave inverter charger with selectable behavior. It has five working modes named Unattended, AC Priority, Battery Priority, ECO and Generator, works with 12V LiFePO4, lithium-ion, gel, AGM, SLA and flooded batteries, and is listed at under 60dB of noise. It includes a detachable controller with a 32.8ft remote cable and protections for overload, short circuit, over-temperature and AC and battery voltage.\n\nIt ranks first because it matches the product category and costs $53.54 less than the Renogy PUH and $63.54 less than the OLTEANP, both of which describe transfer switching but not battery charging. It is $50.46 more than the WOUDY, which charges only lead-acid chemistry. The listing excerpt does not give the charge current in amps, which makes the charger side harder to size than the WOUDY's stated 60A.\n\nPick it if you want one box that inverts and charges a lithium or AGM battery from shore power or a generator. The caveat is that charge amps, transfer time and warranty are missing from the listing, so find them in the manual before you buy for a large lithium bank.",
     "specs": [
       "1200W pure sine inverter charger",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nnunNO9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZR27R4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZR27R4J?tag=rvgearlab-amz-20",
     "description": "The Renogy PUH is a 1000W pure sine inverter with 2000W surge, a built-in UPS-style automatic transfer switch, Bluetooth with an app for voltage, load and error codes, and a wired remote. The listing shows UL, CE and FCC certification, LED indicators, three AC outlets plus an AC terminal, a DC port and a 5V/2.1A USB port. It describes shifting instantly between grid and battery so refrigerators or servers keep running.\n\nIt ranks second because the switchover and app are the most polished features here, but note what is missing: the listing describes transfer between grid and battery and does not describe charging your batteries from that grid. At $219.99 it costs $53.54 more than the VEVOR 1200W and $10 less than the OLTEANP 2500W. If you need a charger you would add one, such as the WOUDY at $115.99, making the pair $335.98.\n\nChoose it if you want a documented, app-managed inverter for a shore power system you already charge with a separate converter. The caveat is the 1000W ceiling and the absence of a stated charger.",
     "specs": [
       "1000W, 2000W surge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YnjfEt7yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7BTYKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7BTYKP?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 2500W is a pure sine inverter with 2500W continuous and 5000W peak, and a built-in 12ms automatic transfer switch. When 120V shore power is present it supplies the connected appliances from that input, and if it is interrupted it switches to battery. A 15ft wired LCD remote shows DC input voltage, AC output, power use and fault alerts, and the listing includes guidance on battery cabling.\n\nIt ranks third because it brings the most output of any pick here that includes a transfer switch, yet the listing does not mention a battery charger. At $229.99 it is $10 above the Renogy PUH and $63.54 above the VEVOR 1200W, but it offers 1300W more than the VEVOR and 1500W more than the Renogy PUH. That extra output at 12V means roughly 210A at full load, so cable and battery size become the real cost.\n\nPick it for an RV that needs a bigger inverter with a stated 12ms switchover, and plan a separate charger. The caveat is the missing charger, certification and warranty information.",
     "specs": [
       "2500W, 5000W peak",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y4JhG4v0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHCCVX3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHCCVX3H?tag=rvgearlab-amz-20",
     "description": "The WOUDY PD9260C is a 60A charger that bulk charges at 14.4V when the battery needs it and drops to a 13.6V float, and it powers loads in float mode. It works with lead-acid, AGL and GEM batteries and lists over-voltage, under-voltage, short-circuit and reverse polarity protection. Its listing also mentions a 1000W power inverter in a muddled paragraph, so treat the charging side as the reliable claim and the inverter statement as unconfirmed.\n\nIt ranks fourth because it only suits lead-acid chemistry, while the VEVOR 1200W lists LiFePO4, AGM and gel. At $115.99 it is $50.46 cheaper than the VEVOR and about half the price of the $219.99 Renogy PUH, so it is the lowest-cost way to add a defined 60A charger. Paired with an inverter, it keeps a flooded or AGM bank topped up.\n\nChoose it if you have a lead-acid or AGM bank and want a 60A charger with a standard float profile. The caveat is lithium: the listing does not list LiFePO4, and charging one at an AGM profile can undercharge it.",
     "specs": [
       "60A charger, 14.4V bulk",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YS2n1TERL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1SR9L9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1SR9L9W?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW 3000W is not an inverter charger; it is a 3000W pure sine inverter with 6000W surge and a listed efficiency above 91 percent. It has three AC outlets, a hardwired AC terminal, a USB port, a 30W PD port, two 1AWG pure copper cables about 2 feet long, and a 15ft wired remote. It is included to show what the charger-less route costs.\n\nIt ranks last because it does no charging and the listing describes no transfer switch. At $219.99 it equals the Renogy PUH, but it offers 2000W more continuous output. Add the WOUDY 60A charger at $115.99 and the pair costs $335.98 for a 3000W inverter plus a lead-acid charger, which is $105.99 more than the OLTEANP 2500W at $229.99 and buys more power but less switching convenience.\n\nPick it if you want a high-output inverter wired to the RV and plan to handle shore charging with the converter you already have. The caveat is wiring: a 3000W load at 12V is roughly 250A, so the cable, fuse and bank must be sized first.",
     "specs": [
       "3000W, 6000W surge",

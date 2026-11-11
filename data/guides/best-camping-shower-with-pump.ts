@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416YJBOfdBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQB8Q4Q3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQB8Q4Q3?tag=rvgearlab-amz-20",
     "description": "LIBERRWAY runs on an 8000mAh battery rated for up to 180 minutes. An LED panel shows temperature and charge, and flow adjusts through 5 levels up to 6 liters a minute.\n\nSoft, General and Power spray modes are set by a 3-position switch, and the head can be removed for hands-free mounting. Its battery is larger than the Zappyway and ELZONYX 6000mAh packs, which gives a longer rated runtime.\n\nIt is the pick for campers who want a long runtime and flow control. The ambient light is handy at dusk.",
     "specs": [
       "8000mAh, up to 180 minutes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nfKZDeWSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9Y7VNGR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9Y7VNGR?tag=rvgearlab-amz-20",
     "description": "Tipkook carries a 10,000mAh lithium battery rated for 80 to 180 minutes, with an IPX8 waterproof pump. The LED display shows water temperature and remaining battery.\n\nIt has the biggest battery here, and the IPX8 rating means the pump keeps running if it is fully submerged, which the LIBERRWAY does not state. Five speeds are quiet in use.\n\nChoose it if you want a rugged, submersible pump for beach days and long trips. The listing states there is no heating function.",
     "specs": [
       "10,000mAh lithium battery",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uk4r7pdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRTLFSHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRTLFSHK?tag=rvgearlab-amz-20",
     "description": "ELZONYX is a complete set with a 5 gallon collapsible shower bag and a 6000mAh pump. The 4-mode head includes a spray gun mode and a three-level shower mode.\n\nUnlike the LIBERRWAY and Tipkook pumps, it includes a bag, which means no extra purchase. A digital display tracks battery and water temperature.\n\nIt suits campers who want one box that includes everything for a quick rinse. It is a handy first shower.",
     "specs": [
       "5 gallon collapsible bag included",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MHu79eqmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYWRV6MF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYWRV6MF?tag=rvgearlab-amz-20",
     "description": "Onirap has an 8000mAh battery for 80 to 180 minutes per charge, 5 adjustable pressure levels and an IPX8 pump. Its head has multi-stage filtration and a silicone brush.\n\nThe filtered head targets chlorine and heavy metals, which gives it a different job than the LIBERRWAY. It is the cheapest pump in this group.\n\nIt is a good pick for campers who rinse from a hose or tap supply and want a filtered head. The low price makes it an easy second shower.",
     "specs": [
       "8000mAh, 80 to 180 minutes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wOkNZfdoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F242GYSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F242GYSD?tag=rvgearlab-amz-20",
     "description": "This Zappyway kit includes a 5.3 gallon foldable bucket, a 6000mAh Type-C pump and a filtered shower head with three modes. A digital display shows battery and water temperature.\n\nIt stands out from the ELZONYX with a firm foldable bucket instead of a bag, which makes filling simpler. It also sits close in price to the cheaper pump-only models.\n\nPick it for families who want a bucket and pump from one seller. The firm bucket is easier to fill than a bag.",
     "specs": [
       "5.3 gallon foldable bucket",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514+heKES4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8BCY87D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8BCY87D?tag=rvgearlab-amz-20",
     "description": "Ann Katy has a stated charge time of 4 to 5 hours and a runtime of 60 to 70 minutes, aimed at 2 or 3 people. It comes with a showerhead, a rinsing nozzle, suction cups, hooks and a 2 meter hose.\n\nIt is the simplest pump on the list, with the shortest rated runtime. That is enough for quick rinses.\n\nChoose it if you want a no-frills pump for a few quick rinses on a short trip. It suits two or three people.",
     "specs": [
       "60 to 70 minutes runtime",

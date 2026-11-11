@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GOaeOapYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3W3JF56?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3W3JF56?tag=rvgearlab-amz-20",
     "description": "The Glonerle is a 12-person inflatable with two divider rooms in a 221 by 118 inch footprint and 83 inches of headroom. It uses 420D Oxford with PU3000mm and UPF50+, heavy-duty PVC air beams and an integrated stove jack.\n\nIt is a 3-in-1 design that converts to a tent with an awning, and it has a 360 degree skylight and four larger mesh windows. Against the VEVOR it costs less and lists a higher waterproof rating.\n\nIt is the pick for large families that want two rooms and an awning. Mesh windows give bug-free breezes.",
     "specs": [
       "12 person, 221 x 118 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MBjrtxKnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FW4ZWB13?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FW4ZWB13?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is an 8 to 12 person inflatable with 186 sq ft of floor. It uses 210D oxford with 300D oxford on the bottom, rated at 2000mm, an inflatable frame with a hand pump and a stove jack.\n\nIt has the same floor as the VEVOR at about half the price. Against the Glonerle it has no divider rooms, and the listing cautions against long use in heavy rain.\n\nIt suits groups who want a big floor at a mid price. Top rings hang lights, and a 5 minute inflatable frame helps.",
     "specs": [
       "8-12 person, 186 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41L6ZUhfiwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ68RZFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ68RZFX?tag=rvgearlab-amz-20",
     "description": "The VEVOR is an 8 to 12 person inflatable with 186 sq ft, listed as 15.75 by 11.81 by 7.22 ft. Two large skylights, four side windows and a full-opening main door provide airflow, and a PU2000 canopy blocks sunlight.\n\nIt is the priciest of the four and takes 10 to 15 minutes to set up. Against the WaldZimmer it adds skylights and removable curtains and a canopy, at about twice the price.\n\nIt suits groups who want light and shade. The canopy handles light rain.",
     "specs": [
       "8-12 person, 186 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51eEHeVjIRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48NRXTS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48NRXTS?tag=rvgearlab-amz-20",
     "description": "The ABORON is titled 10 to 12 person with a removable divider curtain for one open space or two rooms. It has PU3000mm tear-resistant Oxford, an air-beam structure that inflates with an included pump and 360 degree mesh ventilation.\n\nPriced lowest of the four, it lists 136 sq ft of usable space for 6 to 8 people. Against the Glonerle it offers fewer details.\n\nIt suits groups that want the lowest price and a divider. The mesh and large windows give airflow.",
     "specs": [
       "10-12 title, 136 sq ft",

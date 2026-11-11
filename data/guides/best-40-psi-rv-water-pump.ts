@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D+GMkCQmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ615G3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ615G3G?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3.5 GPM is a 12V diaphragm pump with an adjustable pressure switch from 40 to 80 PSI. It lists 3.5 GPM open flow, self-priming, overload protection, sealing tape and a smooth low-noise motor, which gives it the most complete feature set among the pumps that can actually reach the 40 PSI mark. The motor is described as smooth and low-noise.\n\nIts 40 PSI floor is the lowest stated setting on the list, which lets you run at 40 PSI a mark the fixed 45 PSI pumps never reach. It carries more flow than the VEVOR 3GPM at a similar price; the 3GPM stretches its adjustment range up to 100 PSI instead. The 40 to 80 range covers the whole zone most RV plumbing was designed around.\n\nA good fit for owners who want to dial pressure down to 40 PSI and leave it there, whether the coach has aging PEX joints or a fresh install that deserves gentle treatment. The adjustable switch also leaves room to raise pressure later if a new fixture needs more, so one pump covers both situations without a swap. It is the most flexible pick for an owner who plans to experiment.",
     "specs": [
       "3.5 GPM open flow on 12V DC",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lNfM74obL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8RHVHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8RHVHF?tag=rvgearlab-amz-20",
     "description": "The VEVOR 3GPM is a four-chamber 12V pump delivering 3.0 GPM at a steady 55 PSI, with a switch that adjusts between 40 and 100 PSI. Certification marks CE and ROHS appear next to a copper motor and heat cutoffs, which adds up to a well-protected pump at the bottom of the price range. Its feature list reads like a larger pump's.\n\nIt offers the widest adjustment on the list, from 40 up to 100 PSI, with a factory default above the 40 target. That default means the switch must be turned down at install. It costs less than the 3.5 GPM VEVOR and swaps a half gallon of open flow for a four-chamber diaphragm that pulses less than the three-chamber designs from WASSERMANN and Heuyrao.\n\nA fit for owners who like control over pressure and want a four-chamber pump to keep the stream steady at a low setting. It rewards a buyer comfortable with a screwdriver and a pressure gauge, and its low price makes it an easy experiment for anyone who has never tuned a pump before. It makes a clear first pump for a tuning project.",
     "specs": [
       "3.0 GPM, four-chamber diaphragm, 12V",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EEynALAcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN RV Pump 4.0 GPM is a 12V self-priming pump rated 4.0 GPM at 45 PSI with a pressure switch. The kit holds a pair of barbed fittings, a threaded adaptor and a debris filter, so the pump arrives ready to plumb at a mild cut-out pressure. That kit saves a trip for parts.\n\nIt is the highest-flow 12V pump here that shuts off at 45 PSI, five PSI above the 40 target, and the kit contents give it a fittings advantage over the DICMIC. Compared with the adjustable VEVOR pumps, it offers a set-and-forget cut-out that no screwdriver can disturb, which is a quiet advantage when more than one person works on the coach. Few variables means little to revisit after the install.\n\nRight for buyers who want a ready-to-plumb pump at a mild 45 PSI, particularly if the plumbing is older and nobody wants to manage a dial. The pressure switch keeps the pump on demand, and the debris filter protects the valves from grit during the first weeks after a new tank fill. It is a dependable default for a gentle setup.",
     "specs": [
       "4.0 GPM at 45 PSI on 12V DC",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WaUd4BOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59ZG947?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59ZG947?tag=rvgearlab-amz-20",
     "description": "The DICMIC RV Water Pump is a 12V pump with a self-priming diaphragm, rated at 4.0 GPM and 45 PSI, with a one-piece diaphragm and built-in design. Thermal protection and dry-run capability are listed, giving a straightforward spec set for a buyer who wants a mild cut-out and nothing extra to configure. That keeps the page simple to read.\n\nIt matches the WASSERMANN 4.0 on flow and pressure and costs a bit less, with a thinner fittings list as the visible difference. The one-piece diaphragm aims at long service life, and next to the Heuyrao it runs from 12V instead of an outlet, so it works away from hookups as well. It sits between the plain budget picks and the kitted ones. Both approach the same pressure from different price points.\n\nRight for buyers who want a no-frills 12V pump close to the 40 PSI target and are happy to source their own fittings. The thermal protection suits hot installs under a bench or inside an engine-side compartment, and the low price makes it a sensible first step into a lower-pressure setup. It suits an owner who wants simplicity above all.",
     "specs": [
       "4.0 GPM at 45 PSI on 12V DC",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vzl2aQZPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6T6HK7M?tag=rvgearlab-amz-20",
     "description": "The Heuyrao is a 110V AC three-chamber pump rated 4.0 GPM at a steady 45 PSI, starting when a tap opens. A pure copper motor, CE certification and short run-dry capability are listed, and the unit plugs into a standard outlet so no 12V wiring is needed. That keeps the install simple. That keeps wiring out of the picture.\n\nIt is the lone AC pump in the group, which suits hookup use where the 12V picks would draw battery. It runs at the same mild 45 PSI as the WASSERMANN 4.0 and DICMIC, and its three-chamber diaphragm gives a smoother pulse than the two-chamber pumps found in older coaches. The switch runs the motor when water is called for.\n\nA fit for owners who stay on shore power and want gentle pressure without wiring a 12V circuit. It plugs in and works, which appeals to anyone running a house-style water system in a park model, a long-term site or a trailer parked on hookups for the season. The mild 45 PSI cut-out is a welcome bonus.",
     "specs": [
       "110V AC, 4.0 GPM at 45 PSI",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iH4zVTaOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2KXGXJS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2KXGXJS?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO 2088 pump is a 12V, 45 PSI unit rated at 3.5 GPM and sold to replace the 2088-554-144 and 2088-403-144. It has a smart pressure switch, ABS plastic and stainless steel components and 12V battery compatibility, an unusually clear fit for owners holding a dead 2088. That precision is rare. The page makes matching simple.\n\nIt names two OEM numbers, a rare feature, and sits at the lowest flow among the 45 PSI pumps. It costs less than the WASSERMANN 4.0, and the 3.5 GPM rating matches the flow of the VEVOR 3.5 GPM without the dial. A fixed 45 PSI cut-out makes it a sealed answer for coaches that were designed around that number. Its price makes the swap an easy decision.\n\nA good fit for owners swapping a 2088 series pump who want to keep the original gentle pressure. The stated part numbers make matching straightforward, and the stainless hardware and smart switch give a solid footing for a long-lived install in a coach that has never needed a pressure adjustment. It is the lowest-risk way to match a 2088 pump.",
     "specs": [
       "3.5 GPM at 45 PSI on 12V DC",

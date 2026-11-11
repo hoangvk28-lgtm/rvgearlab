@@ -870,7 +870,7 @@ function q(s) {
 }
 
 function serializeProduct(p) {
-  const amazonUrl = "https://www.amazon.com/dp/" + p.asin + "?tag=theofficejournal-20";
+  const amazonUrl = "https://www.amazon.com/dp/" + p.asin + "?tag=rvgearlab-amz-20";
   return `  {
     id: ${q(p.id)},
     rank: ${p.rank},

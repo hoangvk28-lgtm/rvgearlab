@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31b-Z8N5EdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HN1BXRG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HN1BXRG?tag=rvgearlab-amz-20",
     "description": "The Coleman Rechargeable 800L has a built-in 4800mAh lithium-ion battery with level indicators and up to 800 lumens. It steps through 100, 300 and 800 lumens and carries an IPX4 rating with 1 meter impact resistance.\n\nIts build is the sturdiest of the six, and it alone states a drop rating. Next to the AYL, it gives up peak lumens for clearly defined output steps.\n\nIt suits families who want a well-built lantern for repeat trips. The level indicators show charge at a glance.",
     "specs": [
       "4800mAh, up to 800 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413XCSzVJTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YT5D357?tag=rvgearlab-amz-20",
     "description": "The AYL lists 1800 lumens from 46 LED bulbs, a 4400mAh battery that serves as a power bank and IP44 water resistance. Four light modes cover daylight, warm light, both and flash, with dimming.\n\nIt out-shines every other pick on stated lumens. Compared with the Coleman, it adds the power bank feature and warm light.\n\nIt fits campers who need a lot of light for a site or shelter. A full charge is stated to last up to 12 hours.",
     "specs": [
       "1800 lumens, 46 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kU5QZFwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCJHCBKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCJHCBKC?tag=rvgearlab-amz-20",
     "description": "The Consciot 1000LM gives up to 1000 lumens in 360 degrees with four modes: cool white, warm white, combined white and strobe. It has a 4400mAh rechargeable battery, anti-slip rubber and shockproof materials with IPX4.\n\nNext to the Xynover it offers the same 1000 lumens in a rubberised, shockproof build. Compared with the Glocusent, it has a smaller battery and fewer modes.\n\nIt suits campers who want a mid-priced lantern with warm and cool light. The translucent diffuser spreads light evenly.",
     "specs": [
       "1000 lumens, 360 degrees",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LobXiMDWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28WGHLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28WGHLJ?tag=rvgearlab-amz-20",
     "description": "The Xynover lists 1000 lumens, five light modes, IP44 and a 4400mAh battery with a built-in indicator. It charges by USB or solar.\n\nIt adds a solar panel that the Consciot lacks. Against the Glocusent, it offers a lower lumen count.\n\nIt suits campers who want a backup charging route on a longer trip. Dimmable modes let it serve as a reading lamp.",
     "specs": [
       "1000 lumens, five modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KOKSWPTzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3R3SPHP?tag=rvgearlab-amz-20",
     "description": "The Consciot 2-Pack combines a front flashlight at 350 lumens high and 120 lumens low with a side lantern that has a red light. It charges over USB-C with the cable included and doubles as a power bank, at 0.76 pounds.\n\nIt is the only pick that works as a flashlight as well, and the red light preserves night vision. Compared with the Coleman, it has a much lower lumen output.\n\nIt fits families who want two handy lights, one per adult. IPX4 protection handles splashes.",
     "specs": [
       "Flashlight 350 lm, lantern modes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4124EStkA2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGRC4B9L?tag=rvgearlab-amz-20",
     "description": "The Glocusent has a 5000mAh battery, 1200 lumens and seven lighting modes spanning 1800K warm to 6000K cool. A night mode drops to 1 lumen, and it has an anti-slip handle and hidden hook.\n\nIt carries the largest battery of the six and costs the least. Against the Consciot 1000LM, it adds a night light mode.\n\nIt suits tent campers who want a bedside light and a main light. A reflective optical design spreads light 360 degrees.",
     "specs": [
       "5000mAh, 1200 lumens",

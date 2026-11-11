@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DYLsuxYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H358V99K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H358V99K?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 13 ft by 8.7 ft air-beam tent with a 6.6 ft peak, built from 420D Oxford rated PU3000mm with UPF30+ sun protection. It has a stove jack and an AC port, and the pump that inflates it ships in the box.\n\nCompared with the GRALIFCARE it is longer and adds a convertible door awning with a pole set, so you get shade without buying a separate canopy. Against the NANJEEN it costs far less while still covering both heat and cold. The awning also gives it a living area outside the sleeping space.\n\nIt is the all-rounder for a couple or small family that wants a glamping-style camp with shade and climate options in one bag. Few picks here cover so many seasons.",
     "specs": [
       "13 x 8.7 ft, 6.6 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GAyWn6hjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4F7HL8R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4F7HL8R?tag=rvgearlab-amz-20",
     "description": "The GRALIFCARE measures 9.8 by 8.7 ft and uses air-beam construction that the listing says sets up in under five minutes. Heightened side walls, a panoramic skylight and 360 degree dual-layer windows are all named.\n\nIt is the cheapest sealed-beam tent here and still carries a fire-retardant stove jack and a sealable AC port, which the WildFinder also has. The trade for the lower price is a smaller footprint than the WildFinder and NANJEEN.\n\nIt suits two campers who want stargazing and a heating option at the lowest sealed-beam price on this list. The sealed beams keep setup simple.",
     "specs": [
       "9.8 x 8.7 ft footprint",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nf+T+MdNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG8BHPYK?tag=rvgearlab-amz-20",
     "description": "The NANJEEN is rated for 2 to 10 people with a 12 square meter interior and sets up with a hand pump in under eight minutes. Its waterproof tech cotton body, sealed seams and dual doors are named, and the listing puts the weight at 35 kg.\n\nNext to the WildFinder it trades the awning for a heavier cotton-blend fabric that the listing says outperforms Oxford on tearing. Compared with the GRALIFCARE it offers far more floor at more than twice the cost.\n\nPick it for a group that values fabric durability and wants one big shared room. It rewards buyers who drive right to the pitch.",
     "specs": [
       "12 sq m interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WGY26r3TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7DLCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7DLCJ?tag=rvgearlab-amz-20",
     "description": "The Easyair inflates to 167 by 152 by 93 inches, about 176 square feet inside, and ships with a 470W ETL-certified blower. The kit includes stakes, repair patches, a hand pump and a carry bag.\n\nUnlike the WildFinder, GRALIFCARE and NANJEEN, it is not a sealed-beam tent, because the listing says the blower must run continuously. That makes it a backyard, movie-night or birthday tent rather than a remote campsite shelter.\n\nIt fits families who want a fun inflatable play tent and plan to camp where power is available. It also works as a yard hangout.",
     "specs": [
       "About 176 sq ft interior",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aDJdcuUgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC2CB7KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC2CB7KM?tag=rvgearlab-amz-20",
     "description": "The OneBlis is a 20 by 40 ft inflatable gazebo sold with an integrated blower, repair kit and removable transparent PVC windows. The listing names weddings, BBQs and camping as uses.\n\nIt is far larger than any other pick here and is a shelter, not a sleeping tent. The Easyair is the nearest relative, also blower-fed, and the OneBlis covers an event-sized footprint.\n\nIt suits clubs, families or vendors who need a big covered gathering space more than a bedroom. A shared canopy for hobby groups is a fair use.",
     "specs": [
       "20 x 40 ft footprint",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519J5qNxhdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CP7Z8L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CP7Z8L?tag=rvgearlab-amz-20",
     "description": "The WUHUWOO is a 20 by 16.8 by 12 ft inflatable nightclub cube made from 210D Oxford with two zip doors and a 950W blower. A velcro sign area and ceiling rope loops are included for decorating.\n\nIt is the most event-specific model on the list, with a logo panel and DJ-style interior features. Next to the OneBlis it is smaller and enclosed, which suits a themed party. The Easyair is the cozier choice for children.\n\nChoose it for birthdays, photo booths or rentals, not for camping. Its closed walls give the room a club feel.",
     "specs": [
       "20 x 16.8 x 12 ft",

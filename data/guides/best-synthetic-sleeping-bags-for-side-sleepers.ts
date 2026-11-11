@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FrN32XZ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3XKT1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3XKT1X?tag=rvgearlab-amz-20",
     "description": "The NEMO Forte is a synthetic bag rated 20 degrees F with the Classic Spoon shape, which adds room at the elbows and knees. It uses Zerofiber 800 insulation made from 100 percent post-consumer recycled content, and a Blanket Fold oversized draft collar.\n\nIt adds Thermo Gill zipper vents with a multistage zipper that the NEMO Tempo 35F does not describe, which lets you dump heat without leaving the bag. Compared with the Sea to Summit Boab, it is the warmer-rated pick and uses a spoon cut rather than a rectangle.\n\nIt suits side sleepers who want a bag that shapes around bent knees and handles cold nights. The draft collar can fold open when you run warm.",
     "specs": [
       "Classic Spoon shape",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312gkg-bZOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3XV73G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3XV73G?tag=rvgearlab-amz-20",
     "description": "The NEMO Tempo 35F uses the same Classic Spoon shape in Zerofiber 650 recycled synthetic that is built to pack down small and keep its loft when wet. The shell is 50D recycled polyester ripstop and taffeta, and the Blanket Fold collar blocks cold air.\n\nIt costs less than the NEMO Forte 20F and drops the Thermo Gill vent system, while keeping the knee and elbow room. Compared with the Sea to Summit Boab, it is rated for milder 35 degree F nights and uses a spoon cut, not a rectangle.\n\nIt suits side sleepers on summer and shoulder-season trips who want a spoon cut at a lower price. The soft recycled fabric feels comfortable against the skin.",
     "specs": [
       "Classic Spoon shape",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ExpHUSEgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVH2GND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVH2GND?tag=rvgearlab-amz-20",
     "description": "The Sea to Summit Boab is a roomy, tapered rectangular synthetic bag rated 30 degrees F that measures 85 by 29.9 inches and weighs 3.07 lb in the Regular size. A full side zipper runs through the footbox to turn it into a blanket, and double sliders and a shoulder snap let you adjust venting.\n\nIt is the only pick with a printed weight, and a Short size at 2.71 lb also exists. The 50 denier bluesign polyester shell has a non-PFAS DWR finish and the zipper has a draft tube.\n\nIt suits side sleepers who prefer a rectangular cut with room to shift, plus campers who want a blanket for warmer nights. The shoulder snap holds it closed when you shift.",
     "specs": [
       "30 degrees F, 3.07 lb Regular",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rzYLqIVDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDVNXWXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDVNXWXY?tag=rvgearlab-amz-20",
     "description": "The Zzuvjoy pad is a 3.1 inch self-inflating memory foam pad with a foot pump and a 19D high-density foam core. The title lists a 9.5 R-value, and the air-to-foam ratio can be adjusted for a softer or firmer feel.\n\nNext to the CYMULA, it adds a foot pump and insulation claims. Against the MalloMe, it is a foam and air hybrid in place of a pure air pad.\n\nIt suits campers who want mattress comfort with real insulation. The surface is soft and quiet.",
     "specs": [
       "3.1 inch memory foam hybrid",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hZPPWBJoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ87ZQ7W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ87ZQ7W?tag=rvgearlab-amz-20",
     "description": "The CYMULA mattress pad is high-density memory foam with OEKO-TEX certified materials and a fleece cover with buckles. It includes a storage bag and packing straps, and has a waterproof non-slip bottom.\n\nCompared with the SCHNAUZER futon, it is built for camping with a waterproof base. Against the Zzuvjoy, it needs no pump and has no valve to fail.\n\nIt suits campers who want a plush foam bed that doubles as a guest floor bed. The cover is removable.",
     "specs": [
       "High-density memory foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wUJiBNdQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T4913BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T4913BJ?tag=rvgearlab-amz-20",
     "description": "The MalloMe pad uses a Chevron V-shape air-cell design to spread weight and reduce pressure. A built-in foot pump fills it in 60 to 90 seconds, and the 50D fabric is described as 25 percent tougher.\n\nCompared with the Intex air beds, it packs far smaller and carries its own pump. Against the Zzuvjoy, it costs much less.\n\nIt suits tent campers who want a pad that packs small and stays low. The waterproof fabric protects against damp ground.",
     "specs": [
       "Chevron V-shape air cells",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h4sqfJO6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-amz-20",
     "description": "The Intex Dura-Beam Queen is a 10 inch single-high air mattress rated for 600 lb. Fiber-Tech beam construction uses thousands of polyester fibers, with a velvety top and a 2-in-1 valve with an extra wide opening.\n\nNext to the twin Intex, it covers two people. Compared with the foam picks, it is the tallest bed in the group at the lowest cost.\n\nA good match for two-person tents where bed height matters. The 2-in-1 valve inflates and deflates quickly.",
     "specs": [
       "Queen size, 10 inch height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KIEc6s0iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768LRN6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768LRN6T?tag=rvgearlab-amz-20",
     "description": "The Intex Dura-Beam Twin has the same 10 inch Fiber-Tech beam build in twin size, rated for 300 lb. A velvety top and 2-in-1 valve come standard.\n\nCompared with the queen, it fits solo sleepers and smaller tents. Against the MalloMe, it sits much taller off the ground.\n\nIt suits solo campers who want a tall air bed at the lowest price. It is easy to wipe clean.",
     "specs": [
       "Twin size, 10 inch height",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hKXbaj4FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WHB74Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WHB74Q?tag=rvgearlab-amz-20",
     "description": "The SCHNAUZER Home futon is a 3.5 inch thick twin floor mattress with a skin-friendly polyester outer layer. It is CertiPUR-US and Oeko-Tex certified and rolls or folds for storage.\n\nNext to the CYMULA, it is a household-style mattress rather than a dedicated camping pad. Compared with the Intex beds, it needs no pump.\n\nIt suits campers who also use the mattress as a guest bed at home. It can serve as a tent mat.",
     "specs": [
       "3.5 inch thick twin",

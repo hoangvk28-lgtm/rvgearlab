@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PqLRXdIOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L5VXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L5VXW?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 94-00-0800 states 8,000 lb and 800 lb tongue weight with built-in two-point sway control on round bars. The Fastway e2 94-00-0800 is a round bar weight distribution hitch with built-in two-point sway control, rated 8,000 lb trailer weight and 800 lb tongue weight.\n\nIt states both ratings, unlike Camco Elite Round Bar 800, and adds integrated sway. It costs about the same as CURT 17063.\n\nBest for an 800 lb tongue weight with integrated sway. It is the round bar version of the 8,000 lb e2.",
     "specs": [
       "8,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP87DWGJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP87DWGJ?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 800 lb lists 800 lb maximum tongue weight in its text, with adjustable sway control and a pre-installed ball. Camco's TR3 600 lb weight distribution hitch kit lists an 800 lb maximum tongue weight, a pre-installed 2-5/16 inch ball and adjustable sway control. The listing says the sway control can be turned off for reversing.\n\nIt adds a sway control that turns off for backing. Its title says 600 lb, which differs from the text.\n\nBest for a trailer that backs up often. Confirm the rating that applies to your trailer.",
     "specs": [
       "600 lb title, 800 lb max TW",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k-IhbqHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005SB6RUI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005SB6RUI?tag=rvgearlab-amz-20",
     "description": "Camco's Elite Round Bar is an 800 lb kit with sway control, a ball and pre-installed U-bolts and chains. Camco's Eaz-Lift Elite Round Bar is an 800 lb weight distribution hitch kit that includes sway control and a hitch ball.\n\nIt costs less than Fastway e2 94-00-0800 and has a ready-to-tow setup. Its sway control is a separate friction bar.\n\nBest for a budget 800 lb round bar kit. It is a ready-to-tow choice for lighter trailers.",
     "specs": [
       "800 lb round bar kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjOXXzYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-amz-20",
     "description": "CURT's 17063 is a round bar hitch rated for 10,000 to 14,000 lb GTW and 1,000 to 1,400 lb tongue weight with sway control. CURT's 17063 is a round bar weight distribution hitch with sway control, rated for 10,000 to 14,000 lb GTW and 1,000 to 1,400 lb tongue weight per the listing. Grease zerk fittings give access to the spring bar mounts.\n\nIts range starts above 800 lb, so it is oversized. It costs about the same as Fastway e2 94-00-0800.\n\nBest only if a heavier trailer is planned. It is a heavy-rated round bar kit that includes sway control.",
     "specs": [
       "14,000 lb round bar with sway",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X78Y9ZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X78Y9ZP?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P for a 2 inch receiver is listed for 1,000 to 1,400 lb of weight distribution. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 2 inch receiver and the 1000 model. The listing gives no other specs.\n\nIt costs far more than the others and its range starts above 800 lb. The listing is brief.\n\nBest for a committed ProPride buyer. Confirm the exact ratings with the seller.",
     "specs": [
       "2 inch receiver, 3P model",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X7BXWLJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X7BXWLJ?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P for a 3 inch receiver is listed for the same 1,000 to 1,400 lb range. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 3 inch receiver and the 1000 model. The listing gives no other specs.\n\nIt is the 3 inch version for large receivers and costs more than ProPride 3P 2 in 1000. It is oversized for 800 lb.\n\nBest only for a 3 inch receiver and a premium budget. Confirm the exact ratings with the seller.",
     "specs": [
       "3 inch receiver, 3P model",

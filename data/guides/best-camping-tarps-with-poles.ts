@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u2qfYshBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2PXSTFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2PXSTFN?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA is a 10 ft by 15 ft tarp in PU 2000mm 210T ripstop polyester with a 99.99 percent UV block claim. It ships with two heavy-duty 1-inch poles that adjust from 16 to 81 inches, eight aluminum stakes, eight guylines and metal grommets.\n\nAgainst the HOEYITO it has thicker poles and costs less. Next to the caoditu it covers much more area.\n\nIt suits groups of six to eight that want a complete kit. The accessory bag and pouch keep everything together.",
     "specs": [
       "10 x 15 ft, PU 2000mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e-96VsvHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG9HVLRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG9HVLRT?tag=rvgearlab-amz-20",
     "description": "The HOEYITO tarp is 14.5 ft by 11 ft in 210D Oxford with a PU9000mm rating and a 99.99 percent UV block claim. A dual retainer locks onto sand, gravel and lawn, the package comes with two thick poles, and the tarp weighs 8.9 lbs.\n\nIt has the highest waterproof rating in this guide and a retainer system the others lack. Against the AYAMAYA it costs more and has a smaller area.\n\nIt suits beach and gravel campers who need grip on loose ground. It fits 6 to 8 campers.",
     "specs": [
       "14.5 x 11 ft, PU9000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-amz-20",
     "description": "The caoditu tarp is 9.8 ft by 9.8 ft in 210D ripstop polyester with a PU coating and fully taped seams. The kit adds 2 adjustable poles, 8 aluminum stakes, 8 guy lines, 8 tensioners and a mallet.\n\nIt is the least expensive complete kit here and includes a mallet and tensioners. Against the AYAMAYA it is smaller and has taped seams.\n\nIt suits solo campers or couples who want a complete small kit. It packs down small into its carry bag.",
     "specs": [
       "9.8 x 9.8 ft, 210D ripstop",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UVT8Ax0DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072K1B91Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072K1B91Q?tag=rvgearlab-amz-20",
     "description": "The Green Elephant set of 2 is a telescoping aluminum pole kit with a 4-section design and a twist-and-lock mechanism. Stainless steel tips with a silicone tip cover protect the tarp, and a 2-year guarantee is listed.\n\nIt is for tarps you already own, and pairs with any tarp that has grommets. Compared with the XINCAMPING four pack, it is a two-pole set that matches a standard ridgeline pitch.\n\nIt suits campers who want strong poles to add to a tarp with no pole kit. The tip cover prevents punctures.",
     "specs": [
       "Set of 2 aluminum poles",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D7Kqee79L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT97B8NK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT97B8NK?tag=rvgearlab-amz-20",
     "description": "The XINCAMPING pack has four aluminum poles that extend from 2.6 ft to 7.6 ft, each weighing 1.3 lb. A 4-section adjustable design and reinforced joints are rated for 8-grade wind resistance.\n\nAgainst Green Elephant it gives four poles for a bigger pitch. Compared with the tarp kits it provides only poles.\n\nIt suits campers who build awnings with four support points. They collapse to 2.6 ft for backpacks.",
     "specs": [
       "Four poles, 2.6 to 7.6 ft",

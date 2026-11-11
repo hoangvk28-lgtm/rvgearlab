@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tR6q4fXNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHN5QHK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHN5QHK?tag=rvgearlab-amz-20",
     "description": "The Camco FasTen set has ten gray blocks that measure 17 by 8.5 inches and about 1.5 inches tall, each with an integrated T handle. They are made in the USA and designed to interlock into stacks of the height you need.\n\nCompared with the Camco FasTen 8.5 inch, the longer footprint spreads load across more tire contact. It suits heavy trailers and duallys where a wider base matters.",
     "specs": [
       "17 x 8.5 inch blocks",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uMe91WHaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG7QSDSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG7QSDSF?tag=rvgearlab-amz-20",
     "description": "The OULEME set has 24 pieces, made up of 20 interlocking blocks and 4 top blocks. Each block measures 8.5 by 8.5 inches and 1.5 inches tall, with a UV treated polypropylene build.\n\nAgainst the Camco FasTen 17 inch, it gives more pieces per dollar, which helps when you level several wheels at once. It suits triple axle owners who want enough blocks to build multiple ramps.",
     "specs": [
       "24 pieces, 20 plus 4 tops",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41muPh1r99L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZHP8XFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZHP8XFD?tag=rvgearlab-amz-20",
     "description": "The Camco FasTen 8.5 by 8.5 inch set has ten yellow blocks that stack and interlock, with the same T handle and quad grid design. They suit single wheels, double wheels and tandem axles.\n\nCompared with the OULEME 24 Pack, there are fewer blocks but a branded, USA made design. It suits owners who value a known brand.",
     "specs": [
       "10 yellow 8.5 inch blocks",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PJebpctGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGQMKS1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGQMKS1V?tag=rvgearlab-amz-20",
     "description": "The OULEME 12 pack has ten interlocking blocks and two top blocks in gray, each 8.5 inches square and 1.5 inches tall. It uses the same UV treated polypropylene as the 24 pack.\n\nNext to the OULEME 24 Pack, it gives half the pieces at a lower price, which suits a second set. It suits owners who already own blocks and need a small top up.",
     "specs": [
       "12 pieces, 10 plus 2 tops",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X4QaYSKoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F59SD3LK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F59SD3LK?tag=rvgearlab-amz-20",
     "description": "The Keltrion 12 pack has twelve interlocking blocks measuring 8.5 by 8.5 by 1.3 inches, with a non slip texture and solid bottom. It supports stacking in 6 plus 6 or 3 plus 3 plus 3 plus 3 patterns and comes with a carry bag.\n\nCompared with OULEME 12 Pack, the carry bag keeps the blocks together in a compartment. It suits owners who want tidy storage.",
     "specs": [
       "12 blocks, 1.3 inch tall",

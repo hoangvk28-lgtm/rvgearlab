@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HdmVIMi0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QDQGHDM?tag=rvgearlab-amz-20",
     "description": "The Browning Denali is titled -30 degrees and uses TechLoft Silver synthetic insulation in a two-layer offset design, with an integrated chest baffle. The shell is 210T nylon diamond ripstop, and the mummy cut measures 86 by 38 inches.\n\nIt carries 122 oz of fill and weighs 9 lb 9 oz in total, far more than any other bag here, which is how it reaches the lowest rating in the list. Compared with the AKMAX Goose Down Mummy it uses synthetic fill that keeps insulating when damp, where the AKMAX uses goose down.\n\nIt suits winter campers who pull a sled or camp near the car and want the coldest rating on the page. An internal mesh pocket holds small items overnight.",
     "specs": [
       "-30 degree titled mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wmJXfhg+S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-amz-20",
     "description": "The AKMAX Down Mummy lists a -13 to 23 degree F range, goose down fill and a water-resistant nylon shell. The listing gives a weight of 2.37 kg (5.2 lb) and describes a snug mummy cut for heat retention.\n\nIt weighs roughly half as much as the Browning Denali, which makes it the only sub-zero bag in this list that most hikers can actually carry. Against the Kodiak it offers a lower printed range at a lower weight, with down in place of hollow fiber.\n\nIt suits backpackers who need a bag that handles below-freezing nights and still fits in a pack. The mummy cut and hood keep the heat close.",
     "specs": [
       "-13 to 23 degrees F range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jvwnQuzDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B3D464D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B3D464D?tag=rvgearlab-amz-20",
     "description": "The High Peak Kodiak is a 0 degree F rectangular bag measuring 39 by 94 inches, with premium hollow fiber insulation and a ripstop polyester shell. It has a sewn-in draft tube, a chest collar and a hooded drawstring with a barrel lock.\n\nIt lists a 6 lb carry weight and costs less than the Browning Denali. It sits between the AKMAX and Browning in weight and gives the most elbow room of any pick.\n\nIt suits car campers and cold-weather hunters who want a rectangular bag that zips to a second bag for two. The chest collar and drawstring hood close up around the neck.",
     "specs": [
       "0 degree F rated rectangular",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fgiouCdIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZC8VZXW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZC8VZXW?tag=rvgearlab-amz-20",
     "description": "The MEREZA is sold as a 0 degree winter bag with a 32.3 by 90.5 inch rectangular cut that fits campers up to 7 feet. The shell is waterproof, windproof 210T polyester taffeta over a 240T polyester lining, and the net weight is 5.73 lb.\n\nIt is the lowest-priced bag here and includes a camping pillow and a compression sack, which none of the others do. Beside the Kodiak it offers more length and a pillow, with a lower price.\n\nIt suits shoppers who need a long, roomy winter bag with a pillow included. The hood has drawstrings to cinch it tight.",
     "specs": [
       "Fits campers up to 7 feet",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qOS0RLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-amz-20",
     "description": "The CURT Echo 51180 installs between the vehicle and trailer 7-way RV blade connectors and moves between vehicles without under-dash wiring. The listing says the vehicle 7-way must provide active +12V power and ground, and that it supports 1-2 axles and 2-4 brakes with a triple-axis accelerometer.\n\nCompared with the Synhalt below it, it is the original design, costs more, and covers fewer axles. The listing tells you to pair inside the OneControl Auto app and warns that an existing controller will not function while Echo is installed.\n\nBest for a tandem trailer owner who wants a branded plug-in controller. Confirm the socket is powered before buying.",
     "specs": [
       "Plugs between 7-way connectors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IPfqOqOkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6W1ZGNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6W1ZGNH?tag=rvgearlab-amz-20",
     "description": "The Synhalt is sold as compatible with the 51180, making it a third-party product, and it plugs between 7-way RV blade connectors. The listing describes Bluetooth app control, proportional braking with triple-axis motion sensing and auto calibration, and support for 1 to 4 axles with up to 8 electric brakes.\n\nCompared with the CURT Echo above it, it lists more axle capacity at a lower price. Against the WOOFIXING below, it covers more axles but states less about weather protection.\n\nBest for a triple-axle trailer owner who still wants plug-in convenience. Confirm the 7-way pin is powered, and treat support as coming from the seller.",
     "specs": [
       "Plugs between 7-way connectors",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311b4YZCcWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB621XMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB621XMW?tag=rvgearlab-amz-20",
     "description": "The WOOFIXING is a 1-2 axle (2-4 brake) 7-way plug-in unit with a triple-axis accelerometer and a Smart Control app. The listing says it is built for rain, snow, dirt and mud, includes a locking tab and an adjustable strap stored inside the cap, and keeps working when your phone is busy.\n\nCompared with the Synhalt above, it covers fewer axles but speaks more about weather and phone behavior. It costs less than both units above it.\n\nBest for a tandem trailer owner towing in rough weather who wants a lower price. Confirm the socket supplies power before buying.",
     "specs": [
       "Triple-axis accelerometer",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gSXDiTOAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MHSQ8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MHSQ8Q?tag=rvgearlab-amz-20",
     "description": "The Quctaki set is a 7-way trailer brake control hitch bar and wiring connector harness with park aid, listed for 2009-2014 F150 and replacing part numbers 9L3Z15A416B. It is not a controller on its own: the listing says it enables trailer braking control and a towing wiring connection.\n\nCompared with the plug-in controllers above, it is vehicle-specific hardware rather than a self-contained brake unit. It costs less than any of them and is placed here because it is a real 7-pin harness for one truck.\n\nBest for an owner of a listed 2009-2014 F-150 replacing worn parts. The listing is brief, so confirm what the set contains with the seller.",
     "specs": [
       "2009-2014 F150 fit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WllYnR6oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK9X6KMN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK9X6KMN?tag=rvgearlab-amz-20",
     "description": "The HiFind 10-foot cord is a 7-way plug inline trailer cord with a 7-gang waterproof junction box, not a controller. The listing describes 12AWG, 14AWG and 16AWG copper cores, a copper-molded plug, rubber grommets and a 2-year warranty.\n\nIt is the longer sibling of the 8-foot HiFind below, for trailers or setups that need more reach. It costs slightly more than the 8-foot version.\n\nBest for a setup where the trailer-end cord needs more length. It carries signals but does not control brakes by itself.",
     "specs": [
       "10 ft 7-way cord",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WllYnR6oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK9Y9QYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK9Y9QYQ?tag=rvgearlab-amz-20",
     "description": "The HiFind 8-foot cord is the same product family at a shorter length, with a 7-gang waterproof junction box, copper cores and a copper-molded 7-circuit plug. The listing states a 2-year warranty.\n\nCompared with the 10-foot version above, it saves a little money and trims excess cord on shorter tow setups. It does nothing to control brakes.\n\nBest when 8 feet is enough and you want a tidy install. Pair it with a real controller.",
     "specs": [
       "8 ft 7-way cord",

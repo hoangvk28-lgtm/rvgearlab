@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qJJwoHuUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V74ZXNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V74ZXNC?tag=rvgearlab-amz-20",
     "description": "The RAINS Waterproof jacket uses a PU-coated fabric with ultrasonically welded seams rated to a 5000 mm water column, with windproof construction. The hood has a built-in cap and drawstring, with a snap front placket, adjustable cuffs and ventilation at the armholes and back yoke.\n\nCompared with the COOFANDY Pouch, it has welded seams and a clearly stated waterproof rating. Against the UIQUR Wide-Brim, it has a more refined cut and a casual city look.\n\nIt suits commuters and day hikers who want a stylish, genuinely waterproof shell that layers over knitwear. The unisex cut works over a hoodie or suit.",
     "specs": [
       "PU-coated, 5000 mm water column",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Tf9gWkbdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B59N3GL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B59N3GL6?tag=rvgearlab-amz-20",
     "description": "The COOFANDY Pouch is a lightweight waterproof and windproof men's jacket with a relaxed fit, a full zipper and an adjustable drawstring hood. It comes with a carrying pouch and is described as breathable for all seasons.\n\nNext to the RAINS Waterproof, it costs far less and has no stated rating. Compared with the UIQUR Wide-Brim, it has a simpler hood and a carrying pouch.\n\nIt suits travelers and hikers who want a cheap shell they can stuff in a bag. The listing lists theme parks, hiking and cycling.",
     "specs": [
       "Waterproof and windproof fabric",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31etd7Wm0kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1F8PKWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1F8PKWK?tag=rvgearlab-amz-20",
     "description": "The UIQUR Wide-Brim is a waterproof and windproof men's jacket with an extended, deepened hood adjustable for fit. It comes with a foldable storage bag and is described as lightweight and portable.\n\nCompared with the COOFANDY Pouch, it has a deeper hood for rain on the face. Against the RAINS Waterproof, it is much cheaper and less refined.\n\nIt suits cyclists, commuters and hikers who want a deep hood and a compact fold. The listing covers cycling and hiking.",
     "specs": [
       "Waterproof, windproof, wide-brim hood",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VpXSH9H4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4HL3WBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4HL3WBG?tag=rvgearlab-amz-20",
     "description": "The Rizzon Rain Jacket is part of a rain suit made of 80% polyester and 20% PVC, called 100% waterproof on the listing. It has a full-length zipper with snap closure and storm flap, double-entry front pockets, a back cape for ventilation and a stowable hood.\n\nIt is a heavier, more rubbery shell than the RAINS Waterproof, with underarm and back vents for cooling. Compared with the COOFANDY Pouch, it folds into a small package and is more weatherproof for work.\n\nIt suits fishing, farm and work use as well as occasional hiking. The listing also covers road construction and forestry.",
     "specs": [
       "80% polyester, 20% PVC, waterproof",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YdjTam5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y9YN5G8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y9YN5G8?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Softshell is a midweight men's jacket with a brushed fleece lining, windproof mid layer and water-repellent breathable fabric. It has an adjustable drawcord hood, adjustable cuffs and drawcord, two inside pockets and three outside zippered pockets with reflective pullers.\n\nIt is heavier and warmer than the other shells and suits cooler days. Compared with the RAINS Waterproof, it has a fleece lining and more pockets.\n\nIt suits hikers who want a fleece-lined shell for cool, damp days. Reflective zip pullers help in low light.",
     "specs": [
       "Water-repellent, fleece-lined softshell",

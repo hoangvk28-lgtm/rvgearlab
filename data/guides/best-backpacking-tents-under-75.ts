@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QhQdeJlfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLLTDPG?tag=rvgearlab-amz-20",
     "description": "The Night Cat two-person tent sleeps two in about 6.8 ft of length and 4.6 ft of width, with two aluminum poles and a door with a vestibule on each side. A full-coverage rainfly, a welded floor and taped seams handle rain.\n\nTwo doors and two vestibules put it ahead of the Clostnature 2P on shared comfort, and its welded floor matches the Forceatt 2P at a lower price. It pitches in around three minutes.\n\nBackpacking couples who want separate exits and dry gear storage will find it hard to beat. Interior pockets keep small items organized.",
     "specs": [
       "Two aluminum poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ehXDJpryL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0893QB42Z?tag=rvgearlab-amz-20",
     "description": "The Clostnature one-person tent weighs 4 lb in full and 2.97 lb at minimum trail weight. It stands on two aluminum poles with a PU5000 polyester fly and bathtub floor, and it includes a pole repair kit.\n\nIt is the lightest tent here at minimum weight and the most freestanding of the solo options. Compared with the Underwood Aggregator it gives up pole-free packing in return for a pitch that works anywhere.\n\nSolo hikers who count ounces will like the weight, the aluminum frame and the full mesh walls for ventilation. Adjustable guy lines add wind resistance.",
     "specs": [
       "2.97 lb minimum trail weight",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-amz-20",
     "description": "The Forceatt weighs 5.5 lb and gives a floor about 7.4 ft long and 4.4 ft wide. Its 7001-series aluminum poles, 3000mm waterproof index, welded floor, two D doors, two vestibules and ceiling vents make it the sturdiest build here.\n\nIt is heavier than the Night Cat 2-Person by roughly a pound and gains a higher waterproof index plus ceiling vents. Compared with the Clostnature 2P it offers more storm readiness for a bit more cost.\n\nIt suits hikers who expect wind, rain and temperature swings. Reflective guylines add visibility at night.",
     "specs": [
       "5.5 lb, 3000mm waterproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AhE1GLeWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ81SJHL?tag=rvgearlab-amz-20",
     "description": "The Clostnature two-person tent weighs 5.33 lb in full and 4.38 lb at minimum, with two aluminum poles and a double-layer shell. A PU5000-coated bathtub floor and removable fly give flexibility in warm weather.\n\nIt costs less than the Night Cat 2-Person and Forceatt 2P and still carries aluminum poles. The lack of dual doors is the main difference from the Night Cat 2-Person.\n\nIt fits budget-minded pairs who still want a reliable backpacking shelter. Drop the fly on clear nights for views.",
     "specs": [
       "5.33 lb, 4.38 lb minimum",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wj05iY3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09J8DFDKP?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a one-person trekking pole tent that pitches with your poles or a stick over 46 inches. It has a double-layer door of net and fabric plus a side mesh vent window.\n\nIt saves the weight of dedicated poles, which the Clostnature 1P Ultralight cannot do, so the pack total can drop. It needs good stake placement and cannot stand freely like the Clostnature models.\n\nIt suits hikers who already carry trekking poles and want to cut their shelter weight. Waterproof fabric keeps wet-weather trips manageable.",
     "specs": [
       "Pole-free, uses trekking poles",

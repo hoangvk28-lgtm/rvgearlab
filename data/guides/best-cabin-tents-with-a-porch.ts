@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FpWmMNmlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2KN6RPB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2KN6RPB?tag=rvgearlab-amz-20",
     "description": "The Portal 6-person cabin measures 10 ft by 9 ft with a 76 inch center height and a 71 inch by 78 inch front porch with adjustable height up to 67 inches. Four-sided mesh windows, floor vents and a mesh ceiling ventilate it, and a PU1000mm shell with taped seams covers it.\n\nAgainst the DMH it costs less and the porch is open rather than screened. Compared with the EVER ADVANCED, it adds mesh windows on every side.\n\nIt suits families who want a covered porch at a modest price. Two people can pitch it in about 10 minutes.",
     "specs": [
       "10 x 9 ft, 76 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mC2fshPtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6H5Y3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6H5Y3J?tag=rvgearlab-amz-20",
     "description": "The DMH 6-person cabin has a (9+5) by 10 ft floor area with a 78 inch center height and a screened-in porch. One mesh door, three mesh windows and a mesh top ventilate it, and a rain-resistant E-Port, tent skirt and taped seams are listed.\n\nAgainst the Portal it adds a screen wall that blocks bugs and an overhead mesh loft. Compared with the Castle Unicorn it has a taller peak.\n\nIt suits campers in buggy areas who want an outdoor room. The listing names a tablet pocket and two mesh pockets.",
     "specs": [
       "(9+5) x 10 ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61b4hQvQ8EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWRQ7XCX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWRQ7XCX?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED measures (9 ft + 6 ft) by 9 ft with an 84 inch inner center height and a 66 inch porch. Both the inner room and the porch use blackout material, and four roll-up zippered windows and an overhead net window ventilate it.\n\nIt is the biggest and priciest tent here, rated for 8 (5+3) sleepers. Compared with the DMH, it adds blackout fabric on the porch and the room.\n\nIt suits families with kids who nap and like a dark, cooler interior. The sewn-in door turns it into two spaces.",
     "specs": [
       "(9+6) x 9 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uLlEH3nvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9N9FW3L?tag=rvgearlab-amz-20",
     "description": "The Castle Unicorn measures 10.3 ft by 6.9 ft by 69 inches with 150D Oxford and a 1500mm polyurethane coating. Poles support the front and side doors to form a porch that rolls up when not in use, and it has two rooms with two doors and a mesh roof.\n\nIt is the least expensive tent here and the only one with a higher millimeter rating than the Portal. Compared with the DMH, it has a lower peak and a smaller floor.\n\nIt suits couples or small families who want a pole-up porch for the least money. Two people can pitch it in about 10 minutes.",
     "specs": [
       "10.3 x 6.9 ft, 69 in peak",

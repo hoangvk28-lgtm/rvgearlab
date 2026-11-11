@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cgKn9pIdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H5HWZSJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H5HWZSJ?tag=rvgearlab-amz-20",
     "description": "The A-Premium module is an OE-style replacement for 2015-2020 F-150 models with the 2.7L, 3.5L or 5.0L engines, and for 2018-2020 3.0L and 3.3L trucks with the trailer tow package. It lists several reference numbers including JL3Z-2C006-AA and FL3Z-19H332-AA, a 14-blade terminal and a front-center installation position.\n\nIt sits ahead of the DICMIC and ASTOU modules because its listing explains the engine and tow-package conditions and offers a one-year unlimited-mileage guarantee. The DICMIC GL3Z lists similar part numbers for a lower price, and the ASTOU JL3Z lists fewer details.\n\nBest for a 2015-2020 F-150 with a failed factory controller module. It replaces a module, so it does not add a controller to a truck that never had one.",
     "specs": [
       "2015-2020 F-150 fit",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iyJ4YuLxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFNX6SX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFNX6SX?tag=rvgearlab-amz-20",
     "description": "The DICMIC module is listed for 2015-2020 F-150 and replaces GL3Z-2C006-CA, GL3Z-2C006-CB, FL3Z-19H332-AA, FL3Z-19H332-AB and JL3Z-2C006-AA. It lists 14 pins, a dashboard mounting location and a female connector.\n\nAgainst the A-Premium JL3Z it covers more of the same part numbers at a lower price, but it gives no guarantee length. Against the ASTOU JL3Z it states more about the connector and mounting.\n\nBest for a 2015-2020 F-150 owner who has the old part number in hand and wants to cross-check it. Return terms are only described as contact the seller, so keep your receipt.",
     "specs": [
       "2015-2020 F-150 module",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THmCMQhgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT51XVK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT51XVK?tag=rvgearlab-amz-20",
     "description": "The ASTOU module is a front trailer brake controller module for 2015-2020 F-150, with replacement number JL3Z2C006AA. The listing includes one module and notes that replacing it professionally or under guidance is recommended.\n\nIt is the cheapest of the three 2015-2020 modules here and gives the sparest details. Compared with the A-Premium JL3Z it gives no engine conditions or guarantee, and it lists one part number.\n\nBest for a 2015-2020 F-150 owner who already knows the part number matches and wants the lowest cost. The seller advises professional installation, which is worth following.",
     "specs": [
       "2015-2020 F-150 module",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41skg9fXKyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BD7VKBVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BD7VKBVN?tag=rvgearlab-amz-20",
     "description": "The FANHAY kit is for 2011-2014 F-150 and lists part numbers BL3Z-19H332-AA, BL3Z2C006BA, BL3Z2C006BB and BL3Z2C006BC. It claims a heat-resistant housing, industrial-grade components and plug-and-play installation.\n\nIt is the only module here for the 2011-2014 range, so it stands alone rather than competing with the 2015-2020 modules. The listing tells you to verify your year and part number before ordering.\n\nBest for a 2011-2014 F-150 whose factory module has failed. It is not a fit for 2015 and newer trucks.",
     "specs": [
       "2011-2014 F-150 fit",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A9qsn+KpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG8BXTP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG8BXTP7?tag=rvgearlab-amz-20",
     "description": "The Nilight adapter lists 1994-2008 Ford F-150, 1994-1996 F-250 and F-350, and several other Ford models. It uses a 4-pin standard plug, nylon mesh sleeving and tinned copper terminals, with no cutting or splicing.\n\nUnlike the modules above, it connects an aftermarket controller to an older truck. Against the TeiuFio 3035-P it covers the same era, with a wider model list but similar construction.\n\nBest for a 1994-2008 F-150 where you plan to add a separate controller. You still need that controller, and the plug must match.",
     "specs": [
       "1994-2008 F-150 fit",
@@ -171,7 +171,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416oW+jriXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZ5WZ5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZ5WZ5Y?tag=rvgearlab-amz-20",
     "description": "The TeiuFio 3035-P adapter fits 1994-2008 F-150 and 1994-1996 F-250 and F-350 and offers a 4-pin plug that works with Draw-Tite Activator and Tekonsha controllers. The cable is 31 inches long.\n\nLike the Nilight Ford adapter it connects a separate controller, but it is the lower-priced of the two and its listing mentions fewer vehicles. The Nilight lists more models.\n\nBest for a 1994-2008 F-150 owner on a tight budget. It is only a connector, so budget for a controller too.",
     "specs": [
       "1994-2008 F-150 fit",

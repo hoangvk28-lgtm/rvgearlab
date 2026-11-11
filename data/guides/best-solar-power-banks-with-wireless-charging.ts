@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UDnkpDr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLM4DGS?tag=rvgearlab-amz-20",
     "description": "The Feidyns carries 80000mAh and tops out at 35W on its fastest port, with a 15W wireless pad among seven ports. Its 5W panel is there for emergencies, and the casing adds an IP66 rating plus a 300 lumen light that can flash SOS.\n\nAgainst the Luvknit, it holds four times the capacity and charges faster. The IP66 rating also protects it against rain and dust.\n\nIt suits car campers and groups who want one big bank for several phones and a tablet. Its LED and SOS strobe add safety.",
     "specs": [
       "80000mAh, 35W PD",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513DmxvOuXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXHTW5N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXHTW5N4?tag=rvgearlab-amz-20",
     "description": "Three cables (Lightning, Type-C and USB-A) are fixed into the Luvknit's 20000mAh body, next to two USB-A sockets, a Type-C port and a Qi pad. It carries a solar panel, a three-mode LED flashlight and a shockproof, waterproof, dustproof ABS body.\n\nCompared with the Feidyns, it is far lighter and much cheaper, with cables built in so nothing gets lost. It trades capacity and speed for portability.\n\nIt suits day hikers and weekend campers who want a cheap bank with wireless charging and its own cables. The panel is only an emergency top-up.",
     "specs": [
       "20000mAh, Qi wireless",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FMhExRBKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-amz-20",
     "description": "The Ridge measures 15.76 inches wide and 12.49 inches high and uses Infused Airflow Technology to recirculate air into the burn chamber, which burns hotter and cuts smoke. It burns firewood, pellets or both, can exceed 1,400F and ships with a carry bag, a spark screen and a screen lift.\n\nAt about $72 it costs $26 more than the Panovue 22 inch and is smaller, while the airflow design reduces smoke that wafts across a campsite. The screen lift also helps you add wood without reaching over the flames.\n\nIt suits beach trips, tailgates and camps where space is tight and smoke annoys the neighbors. The powder-coated steel body packs flat.",
     "specs": [
       "15.76 inch wide, 12.49 inch high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZG-dmZBPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8Q363R5?tag=rvgearlab-amz-20",
     "description": "The Quilushey is a 32 inch square table-style pit in black powder-coated iron, 11 inches high with a 27 by 23 inch bowl. A mesh spark cover and a poker come in the box, and the same body serves as a grill or an ice bucket.\n\nAt about $74 it is the largest and priciest pit here and costs $26 more than the 32 inch square pit. The mesh cover and poker come in the box.\n\nIt suits patios and gardens where the pit moves between spots. The 3-in-1 design fits parties.",
     "specs": [
       "32 inch square, heavy iron",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d2WP31bEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015W1B0N2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015W1B0N2?tag=rvgearlab-amz-20",
     "description": "This 32 by 32 by 14 inch pit uses powder-coated iron with faux-stone border panels, a mesh spark screen lid with 360 degree view and a rain cover. A ledge around the rim holds food or tools, and assembly hardware is included.\n\nAt about $48 it costs $26 less than the Quilushey 32 inch and includes a rain cover that the Quilushey lacks. It is just as large.\n\nIt suits backyards where the pit lives outdoors year-round. The cover keeps rain out.",
     "specs": [
       "32 by 32 by 14 inch iron pit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cjw+0nleL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJVFJHTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJVFJHTP?tag=rvgearlab-amz-20",
     "description": "The TBMLC is a 16 inch square steel grating pit with a bottom, air vents for airflow and a black finish. It is compact and portable for camping, beach outings and moving around a backyard.\n\nAt about $37 it is the cheapest full pit that fits in a trunk and costs $35 less than the Ridge Smokeless. The vents promote a controlled burn.\n\nIt suits campers who want a small pit and a low price. It is good for roasting marshmallows.",
     "specs": [
       "16 inch square steel grating",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A7a6mU-nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8VP3YNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8VP3YNX?tag=rvgearlab-amz-20",
     "description": "The HGD is a mini tabletop smokeless pit made of stainless steel with a double-wall design and vent holes for airflow. It burns wood or pellets, has a removable ash grate and includes a carry bag.\n\nAt about $18 it is the smallest and cheapest pit here and aimed at s'mores rather than warmth. It sits on a heat-safe table, unlike the floor pits.\n\nIt suits solo campers, couples and small patios. Place it outdoors on a heat-safe surface.",
     "specs": [
       "Stainless steel mini pit",

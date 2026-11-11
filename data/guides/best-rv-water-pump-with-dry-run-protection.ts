@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SpjQURZJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKL63BQ?tag=rvgearlab-amz-20",
     "description": "The Cleartide is a 12V pump at 3.3 GPM and 50 PSI with a dry-run protection feature that shuts it off automatically when water is absent. A self-diagnosis mode adjusts power in overheating conditions, and a brushless BLDC motor is listed.\n\nIt is the only pick whose protection is electronic and paired with self-diagnosis, rather than a simple thermal cut-out. The chddorn pump relies on thermal and dry-run language.\n\nBest for owners who want the most active protection on 12V. On the plus side, supports three to four outlets.",
     "specs": [
       "3.3 GPM at 50 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DT5fUfSZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6C5GMKB?tag=rvgearlab-amz-20",
     "description": "The chddorn pump is a 12V 4008-101-A65/E65 replacement at 3.0 GPM and 55 PSI. Its thermally protected motor prevents overheating, and a dry-run protection system is named, along with an internal bypass and a one-piece diaphragm.\n\nIt brings dry-run language into a standard 4008 footprint at a modest price. It is less specific about how the protection acts than the Cleartide.\n\nFits a 4008 swap where protection should be named on the box. It also stands out because one-piece quiet diaphragm.",
     "specs": [
       "3.0 GPM at 55 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XYC6GlP1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5PPB44H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5PPB44H?tag=rvgearlab-amz-20",
     "description": "The OBALOGI is a 110V AC pump at 5.5 GPM and 75 PSI with a self-priming diaphragm, a corrosion-resistant motor and thermal protection. The listing says it can handle dry running and ships with a filter, straight and elbow barbed fittings, clamps and a gasket.\n\nIt is the AC option and the most complete kit here. It sits at a higher flow than the 12V picks.\n\nBest for hookup owners who want protection and fittings together. On the plus side, auto start and stop.",
     "specs": [
       "5.5 GPM at 75 PSI, 110V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bMHzT2cEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL7QLZZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL7QLZZC?tag=rvgearlab-amz-20",
     "description": "The Dceefff kit is a 12V washdown pump at 7.5 GPM and 80 PSI with a 9.8 foot self-priming height and a triple protection system. It runs at 65 dB or less and has an IP68 waterproof motor rated for 5 to 60 degrees C.\n\nIt carries the most protection layers and the highest flow in the group, and it doubles as a wash pump. That also makes it far larger than a camper needs.\n\nBest for large rigs that also want exterior washing. Another reason it earns a slot: under 65 dB noise claim.",
     "specs": [
       "7.5 GPM at 80 PSI, 12V",

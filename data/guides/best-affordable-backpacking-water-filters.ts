@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41soU5PB4hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000FAGUKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000FAGUKO?tag=rvgearlab-amz-20",
     "description": "The Sawyer Mini is a 0.1 micron inline filter that weighs 2 ounces and fits in your palm. The listing says it removes 99.99999 percent of bacteria and 99.9999 percent of protozoa, rates the filter up to 100,000 gallons, and includes a cleaning plunger.\n\nIt attaches to a drinking pouch, a standard 28 mm bottle or a hydration pack, or you can drink through it with a straw, which makes it the most flexible pick here. Against the LifeStraw Personal it filters into containers, not just straight from the source.\n\nIt suits backpackers who want the lightest, most adaptable filter for a low price. The cleaning plunger keeps flow up over the long term.",
     "specs": [
       "0.1 micron, 2 oz",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree AC is a 1 liter collapsible bottle that combines 0.1 micron hollow fibers with an activated carbon stage. It is rated at 2 liters per minute with up to 1,000 liters of capacity, and it cleans by shaking or swishing.\n\nIt lists a 2 liter per minute flow and needs no backflushing tools, which makes it the easiest to maintain of the five. The carbon stage in the AC version is aimed at taste.\n\nIt suits backpackers who want a fill-and-squeeze system that rides flat in a pack. The no-tools cleaning is ideal for long trips. The shake-clean routine takes seconds.",
     "specs": [
       "1 L collapsible bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J3BlxeKPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGLNFG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGLNFG6?tag=rvgearlab-amz-20",
     "description": "The SurviMate is a hand pump with a 0.01 micron hollow fibre ultrafiltration membrane in a 5-stage design, and a listed flow of up to 1,500 ml per minute. The listing says it filters up to 793 gallons (3,000 liters) before the cartridge is replaced, and it has a rubberised base that steadies it on the ground.\n\nIt is the only pump here, so it moves much more water than the Bachgold, Sawyer Mini or LifeStraw in the same time. Next to the Katadyn BeFree AC it suits groups, since a pump fills several bottles at once.\n\nIt suits two to four people sharing a campsite who want a cheap pump over a squeeze bottle. The rubberised base keeps it steady while you pump.",
     "specs": [
       "0.01 micron, 5-stage",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31p4o4RSGzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B006QF3TW4?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Personal is a straw filter that removes bacteria and parasites and microplastics down to 1 micron. The listing for the family says it removes 99.999999 percent of bacteria and 99.999 percent of parasites, tested to EPA, NSF and ASTM protocols, with a 4,000 liter life.\n\nIt has no moving parts to break, which suits a backup role. Unlike the Sawyer Mini it only filters as you suck, and unlike the SurviMate Pump it needs no setup.\n\nIt suits solo hikers and emergency kits that want a simple backup straw. It needs no setup, so it is ready to use the moment you open it.",
     "specs": [
       "Bacteria and parasite removal",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qppc016HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJ9FH3N?tag=rvgearlab-amz-20",
     "description": "The Bachgold Squeeze is a folding filter bottle built around two stages, a nanofiber layer that adsorbs particles and a hollow fiber membrane with 0.2 micron pores. Rinsing restores flow, and the listing says no replacement cartridges are needed.\n\nIt is the lowest-priced filter here, with a 0.2 micron membrane that is coarser than the 0.1 micron Sawyer Mini and Katadyn BeFree AC. It is also Swiss-made according to the listing.\n\nIt suits first-time backpackers and day hikers who want the lowest-cost filtered bottle. It folds small enough for a pocket.",
     "specs": [
       "0.2 micron hollow fiber",

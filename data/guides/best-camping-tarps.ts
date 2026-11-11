@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYOrSrWXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DXDQT3D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DXDQT3D?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER is a 118 by 126 inch tarp, roughly 9.8 by 10.5 feet, cut from 210T ripstop polyester with a 2500 PU waterproof rating. A reinforced ridgeline seam crosses the middle and 19 guy points ring the sheet, so its tie-out layout is built around pitching rather than simply covering. Four nylon guy lines with tensioners and a stuff sack ship in the box.\n\nNext to the polyethylene sheets in this guide, it trades stiff plastic for woven polyester, which is why it drapes, folds into a stuff sack and hangs in a taut slope. The seam and the perimeter loops give it A-frame, lean-to and porch layouts that a sheet with a plain grommet row has to improvise with extra cord and luck.\n\nChoose it when one tarp has to be a roof over camp, a fly over a hammock or a groundsheet in a pinch, and you want it to hold a tensioned pitch. It is rated for two people, the 2500 PU coating sheds steady rain, and the camo print blends into woods, which suits campers who prefer a low-profile site.",
     "specs": [
       "118 x 126 in ripstop polyester sheet",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZH4S7b8yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089Q18CCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089Q18CCZ?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 10x12Ft is an 8 mil polyethylene sheet with heat-sealed folded hems, nylon rope running inside the edge and metal grommets every 36 inches. Plastic reinforcements sit at each corner, where the load of a tie-down is greatest. At 120 square feet it is the largest tarp here that still folds to a manageable block, which makes it the default size for a tent floor plus the gear stacked beside it, or a tailgate cover over a cooler and chairs.\n\nAgainst the Amazon Basics tarps it brings a thicker sheet, and against the CARTMAN 8x10Ft it adds 40 square feet of cover for the same hem build. Sealed hems mean no stitch holes to weep water, and the rope-reinforced edge spreads tie-down force along the whole seam instead of at a single point, which keeps the grommets from tearing loose.\n\nIt suits car campers who want a heavy cover for firewood, a truck bed or a picnic table. Think of it as the rugged cover in the lineup, strongest on jobs where the tarp stays put for days. Buyers who camp from a vehicle and never carry the tarp far get the most from its stiff, thick body.",
     "specs": [
       "10 x 12 ft, 8 mil polyethylene",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 9.5 by 11.3 foot sheet is a rip-stop weave with polyethylene laminated to both faces, finished with reinforced corners and edges and grommets for tie-downs, in a pattern the listing describes as lightweight enough for use under tents or over firewood. That is about 107 square feet of coverage, enough for a family tent footprint with a margin of ground cloth poking out on every side for water to run off.\n\nCompared with the CARTMAN 10x12Ft, it swaps raw thickness for a woven core, so a puncture stays a puncture instead of running along the sheet, and a snag on a branch tip never opens into a long rip. Against the Amazon Basics 7.5x9.5 it adds about 36 square feet, which is the step that takes it from a two-person footprint to a four-person one, a difference you notice immediately on setup day.\n\nIt fits campers who want a large, low-cost groundsheet or a vehicle cover with some tear resistance built in. The lamination sheds water on both sides, so either face can point up. That flexibility, plus the large footprint, makes it a smart first tarp for anyone setting up a family camp at a drive-in site, where weight never matters.",
     "specs": [
       "9.5 x 11.3 ft rip-stop weave",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748FG2Z6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 7.5 by 9.5 foot tarp uses the same rip-stop polyethylene lamination as its larger sibling, with reinforced edges and grommets for tie-down points, and the listing calls it tear resistant. At roughly 71 square feet it is sized for a two-person tent footprint, a pair of packs or a small stack of kindling, and it folds into a bundle that fits a trunk corner.\n\nAgainst the Amazon Basics 9.5x11.3 it gives up area and keeps the same woven tear control, and against the CARTMAN 8x10Ft it brings a laminated rip-stop core in place of a thicker plain sheet. That swap suits a tarp you will fold and unfold often rather than one you leave pitched all week.\n\nIt suits solo campers and couples who want a compact ground cloth under a small tent. The reinforced edges give four dependable corner tie-outs when the sheet doubles as a wind break, and its small folded size means it rides along even on trips where space in the trunk is tight or a tent already fills the back seat.",
     "specs": [
       "7.5 x 9.5 ft rip-stop weave tarp",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FIGhZ26zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 8x10Ft is a compact 80 square foot sheet of 8 mil polyethylene with heat-sealed hems, nylon rope along the edges, grommets every 36 inches and plastic corner patches at all four corners. The listing describes it as a bit weightier than the 5 mil version, which tells you the extra thickness is the point of this model.\n\nIt shares its hem construction with the CARTMAN 10x12Ft and costs less, so the choice between them is purely how much ground you want covered. Against the Amazon Basics 7.5x9.5, it offers a thicker sheet and gives up the rip-stop weave, which suits covers that sit still more than tarps that get packed daily, and it makes the lower price easy to understand.\n\nIt works for campers who want a tough, inexpensive cover for firewood, a bike or a cooler, or a spare groundsheet kept in the trunk. At this price a second sheet for overhead rain protection is easy to justify, and a pair makes a floor and a roof for a small camp for less than most single shelters.",
     "specs": [
       "8 x 10 ft, 8 mil polyethylene",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519-mBubu-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C3RWSD8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C3RWSD8Q?tag=rvgearlab-amz-20",
     "description": "The TICONN Heavy Duty is a polyethylene tarp coated on both sides with a silver UV-reflective face, aluminum grommets about every 18 inches and HDPE corners stitched in two passes. It is sold from 8 by 10 feet to 20 by 30 feet in 5.5, 10 and 16 mil thicknesses, so one listing can serve a tent floor or a whole kitchen canopy.\n\nThe tight grommet spacing is the mechanism that sets it apart from the CARTMAN sheets, since an extra pair of tie-out points on every edge means you can run guy lines at the points where wind actually loads the fabric. That helps it approach the flexible layouts a FREE SOLDIER offers, at a plastic sheet price.\n\nIt suits campers who want to choose the exact size and thickness for the job and who value the lowest price in the guide. Rust-resistant grommets suit damp climates and long seasons outdoors, and the silver face reflects sunlight away from whatever sits underneath, a small bonus for a gear cover left out all day.",
     "specs": [
       "8x10 ft up to 20x30 ft sizes",

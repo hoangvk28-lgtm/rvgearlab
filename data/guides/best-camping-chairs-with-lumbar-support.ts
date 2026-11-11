@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZmHBwtE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZXFK2CY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZXFK2CY?tag=rvgearlab-amz-20",
     "description": "The Overmont chair has a patented flexible reclining backrest that does not need locking, and a 27.6 inch high ergonomic backrest for lumbar support. It is rated for 500 pounds on a steel frame with 600D fabric and weighs 13.89 pounds.\n\nCompared with the ALPHA CAMP, it adds a recline that follows your back and a higher stated capacity. It suits campers who sit for hours and shift positions often.",
     "specs": [
       "Flexible recline, no locking",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZlvQqQYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKJ9LP1Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKJ9LP1Z?tag=rvgearlab-amz-20",
     "description": "The ALPHA CAMP oversized chair has lumbar support, padded arms and an open size of 37 by 22 by 40.1 inches. It packs to 38 by 7 by 7 inches, uses water and stain resistant oxford fabric and has two cup holders including one on the armrest.\n\nAgainst the Overmont, it offers padded arms and a lighter carry at a similar price. It suits campers who lean on the armrests and want a spacious padded chair.",
     "specs": [
       "Lumbar support, padded arms",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0YNorCPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVF1HF4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVF1HF4K?tag=rvgearlab-amz-20",
     "description": "The REALEAD deluxe chair has a movable backrest, fully padded back and seat, and a foldable hard alloy steel frame that resists corrosion. It includes two accessory bags, a cup holder and a closing strap.\n\nIt is the only pick besides the Overmont with an adjustable back, and it costs less. It suits campers who want to adjust the angle of the back at a moderate price.",
     "specs": [
       "Movable backrest",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sa1h-qn5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M67J1L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M67J1L5?tag=rvgearlab-amz-20",
     "description": "The FAIR WIND fully padded chair has a 25.2 inch extra wide seat, a 4 layer padded 600D fabric and an integrated lumbar arch with a high back. Upgraded vertical legs and cross braced hubs give a rock solid anti rust frame.\n\nIt adds non drooping armrests, a large in arm zippered insulated cooler and an oversized cup holder. It suits campers who want lumbar support and a cooler built into the armrest.",
     "specs": [
       "25.2 inch extra wide seat",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a-UqW+ukL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSD5SJJD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSD5SJJD?tag=rvgearlab-amz-20",
     "description": "The FAIR WIND padded chair has a 23.6 inch wide seat, 600D tear and water resistant Oxford fabric and diamond quilted stitching with 180 gram padding. A fixed lumbar support is angled for the back, and the frame uses 22 mm thickened steel tubes.\n\nIt is the lowest priced pick here and shares the FAIR WIND family styling, but its rating is 350 pounds, below the other FAIR WIND. It suits lighter sitters who want a quilted chair with fixed lumbar support on a budget.",
     "specs": [
       "23.6 inch wide seat",

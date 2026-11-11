@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pMOVrDcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-amz-20",
     "description": "CURT's 17062 is a round bar hitch rated 10,000 lb with sway control kit 17200 and a grease zerk. CURT's 17062 is a round bar weight distribution hitch rated 10,000 lb that includes sway control kit 17200 and has a grease zerk fitting.\n\nIt has the lowest stated rating here but costs more than MaxxHaul 11,500. It states no tongue weight.\n\nBest for a pop-up owner who wants a round bar with a sway bar. It is a straightforward round bar kit with a bolt-on friction bar.",
     "specs": [
       "10,000 lb round bar with sway",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pQrRly2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-amz-20",
     "description": "MaxxHaul's 51191 is rated 11,500 lb with a sway control kit and an 8.5 inch deep-drop shank. MaxxHaul's 51191 is a weight distribution hitch rated 11,500 lb with a sway control kit, a 2 inch solid steel shank with 8.5 inch drop and a 2-5/16 inch ball. The clamp-on brackets fit trailer frames up to 7 inches wide.\n\nIt has more drop than CURT 17062 and costs less. It states no tongue weight.\n\nBest for a pop-up behind a tall truck. Check the tongue weight rating with the seller.",
     "specs": [
       "11,500 lb capacity",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Vd60aw5SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6T5HZFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6T5HZFG?tag=rvgearlab-amz-20",
     "description": "FAHKNS lists a heavy duty travel trailer kit with a rated towing capacity up to 12,000 lb. FAHKNS lists a heavy duty travel trailer weight distribution hitch kit with a rated towing capacity of up to 12,000 lb.\n\nIt costs less than MaxxHaul 11,500 and gives no tongue weight. Ask the seller.\n\nBest for a budget buyer who verifies ratings. Ask for the tongue weight rating.",
     "specs": [
       "Up to 12,000 lb towing",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315WPNES0CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-amz-20",
     "description": "FAHKNS lists a kit with a sway control bar and a rated towing capacity up to 14,000 lb. FAHKNS lists a weight distribution hitch with sway control bar and a rated towing capacity of up to 14,000 lb.\n\nIt is more rated than FAHKNS 12K Travel and far above a pop-up's needs. Its bars may be stiff.\n\nBest only for a future heavier trailer. Ask for the tongue weight rating.",
     "specs": [
       "Up to 14,000 lb towing",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SssxzrTDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDBPQX65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDBPQX65?tag=rvgearlab-amz-20",
     "description": "Rumngsuy sells replacement hitch brackets for CURT and other brands. Rumngsuy sells replacement brackets for weight distribution hitches.\n\nIt is a part, not a hitch, and costs far less than a kit. Fit depends on the hitch model.\n\nBest for replacing worn brackets. They are replacement parts, so verify the exact fit.",
     "specs": [
       "Replacement hitch brackets",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZgH6meTUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001GMTKPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001GMTKPM?tag=rvgearlab-amz-20",
     "description": "CURT's 17112 is a lift handle for CURT bracket 17008. CURT's 17112 is a lift handle for leveraging CURT weight distribution hookup bracket 17008. It is made of steel.\n\nIt is an accessory, not a hitch, and costs little. It helps with heavy bars.\n\nBest for a CURT owner struggling with bracket lifts. It is an accessory, not a hitch.",
     "specs": [
       "WD hookup bracket lift handle",

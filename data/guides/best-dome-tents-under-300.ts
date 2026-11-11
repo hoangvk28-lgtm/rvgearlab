@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fe1rEMrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C10 Pro covers 168 by 120 inches and goes up in a minute or less because its poles are permanently attached. Mesh windows sit on all four sides, vents run along the floor and the ceiling is mesh, while a drainage channel at the door zipper and a tub-style base fight water.\n\nIt is the only large instant dome here, ahead of the UNP SUV Dome on speed. Fanttik states that the tent fits ten for sleeping only and five with gear, which is honest guidance.\n\nFamilies who want fast pitching and room for two queen air beds will like it. The ventilation suits summer trips.",
     "specs": [
       "168 by 120 in, 60-second setup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31COGJizQ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-amz-20",
     "description": "The TETON Mountain Ultra is the lightweight outlier here, a hiking-style dome with a mesh roof you can see the stars through and a vented fly that wraps the whole shell. It folds down small, and the footprint is a separate purchase.\n\nIt is the lightest and most compact dome here, and the only one that suits backpacking. The Fanttik and UNP offer far more room.\n\nHikers and stargazers will like it. It is a great three-season tent.",
     "specs": [
       "Full mesh top, micro-mesh inner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O6z8jy0zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYF7GKG?tag=rvgearlab-amz-20",
     "description": "The UNP SUV dome is a ten-foot square tent that rises to 84 inches at the center and sleeps four to six adults. A strap-down vehicle sleeve, four mesh windows, a mesh roof and a taped-seam rainfly complete the build.\n\nIt attaches to CUVs, SUVs and minivans, which no other dome here can do. The Fanttik pitches faster, while the UNP adds a covered link to the car.\n\nRoad-trippers will use it well. Two air mattresses fit.",
     "specs": [
       "Ten-foot square, 84 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XG5y8Lw0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5WKZDS6?tag=rvgearlab-amz-20",
     "description": "Sized for a couple or a small family, the Vidalido pairs a 1500mm PU coating with a long rainfly and corrosion-resistant pole joints. Ceiling hooks, roof vents and a skylight sit inside.\n\nIt is the best rain-first tent in the group and the smallest. The UNP gives more space while the Vidalido gives a dry porch.\n\nCouples in rainy regions will like it. Hooks hold a lamp.",
     "specs": [
       "1500mm PU, extended fly",

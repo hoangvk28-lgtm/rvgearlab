@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316nmm3cvtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BGYXRMFM?tag=rvgearlab-amz-20",
     "description": "The Dometic FreshJet 3 15K is a lightweight rooftop unit with e-coated evaporator coils and backwards compatibility with an existing ADB. The Dometic FreshJet 3 15K is a lightweight rooftop unit with e-coated evaporator coils.\n\nIt is the most established pick here and keeps your existing distribution box. It costs about 210 dollars more than the Renogy heat pump.\n\nIt is backwards compatible with an existing ADB, so non-ducted setups can upgrade without changing controls. It suits owners who want a proven, drop-in replacement.",
     "specs": [
       "15,000 BTU rooftop unit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318W06BfE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2YJDSSS?tag=rvgearlab-amz-20",
     "description": "The Renogy 3-in-1 is a 15,000 BTU heat pump with a 43 dB rating and a dual-motor, dual-fan system moving 350 CFM. The Renogy 3-in-1 is a 15,000 BTU heat pump air conditioner with a dual-motor, dual-fan system moving 350 CFM.\n\nIt adds heating and a pull-out filter at about 200 dollars less than the Dometic. It lists the lowest noise of the six.\n\nIt runs at 43 dB and includes a pull-out high-density filter. It suits owners who want quiet cooling and heat.",
     "specs": [
       "15,000 BTU heat pump",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31x0O+533EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8PBYT5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8PBYT5K?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach Mach 15 Plus is a 15,000 nominal BTU unit in black on a wood skid. The Coleman-Mach Mach 15 Plus is a 15,000 nominal BTU rooftop air conditioner in black, shipped on a wood skid.\n\nIt follows the Mach lineup that many RVs already use. It costs about the same as the Dometic.\n\nIt follows the Mach lineup that many RVs already use, so it suits like-for-like replacement. It suits owners replacing a Mach unit.",
     "specs": [
       "15,000 nominal BTU",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y9gjOAL5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXN2DD3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXN2DD3X?tag=rvgearlab-amz-20",
     "description": "The Bailigo is a 115V, 15,000 BTU unit with a 20cc rotary compressor, R-410A refrigerant and inverter cooling and heating. The Bailigo is a 115V, 15,000 BTU rooftop unit with a 20cc rotary compressor and R-410A refrigerant.\n\nIt costs about 15 dollars less than the Renogy and lists frequency adjustment to cut energy use. The rotary compressor is paired with a combined cooling and heating design.\n\nInverter cooling adjusts operating frequency to cut energy use, and the unit also provides heating. It suits owners who want an inverter combo unit.",
     "specs": [
       "115V, 15,000 BTU",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AW57Xno2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ856SYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ856SYR?tag=rvgearlab-amz-20",
     "description": "The Aspligo lists 15,000 BTU cooling, 6,500 BTU heating, about 2,200W power and a 14.5 to 20 amp rated current. The Aspligo is a 115V, 15,000 BTU rooftop unit with a 6,500 BTU heating mode and about 2,200W power consumption.\n\nIt gives the clearest power figures for sizing a generator. It costs about 25 dollars less than the Bailigo.\n\nThe listing gives a rated current of 14.5 to 20 amps and lists the host size. It suits owners who want to plan generator capacity.",
     "specs": [
       "115V, 15,000 BTU cooling",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/213p8iAO8SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1LSHHW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1LSHHW8?tag=rvgearlab-amz-20",
     "description": "The hiberry is a 115V, 15,000 BTU unit with 5,200 BTU of heating, R32 refrigerant and a 15.5A rated current. The hiberry is a 115V, 15,000 BTU unit with 5,200 BTU of heating, 450 m3/h airflow and R32 refrigerant.\n\nIt undercuts every other pick on price and lists 52 dB operation. Its heating is modest.\n\nA brushless DC motor and shock-absorbing ABS housing bring noise to 52 dB at 15.5A rated current. It suits budget buyers who want some heat.",
     "specs": [
       "115V, 15,000 BTU cooling",

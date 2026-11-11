@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4157tndbdiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06XZVBSMX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06XZVBSMX?tag=rvgearlab-amz-20",
     "description": "The Sawyer SP160 combines a palm-sized 0.1 micron absolute MINI filter weighing 2 ounces with a 1 gallon reservoir and gravity hose. The listing says every MINI unit is tested three times to performance standards and includes a cleaning plunger and coupling.\n\nIt is the lightest filter in this guide and the best documented, which gives it an edge over the MultiSavePuls 3L and the Uzima UZ-2. The dual-threaded filter has a cap for on/off use, and the wide-mouth bladder fills quickly.\n\nA natural fit for backpackers who count ounces and want a proven gravity setup. It also fits emergency and disaster kits.",
     "specs": [
       "0.1 micron absolute MINI filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iqcbKxsxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-amz-20",
     "description": "The MultiSavePuls system is a 3 liter bag fitted with a 0.1 micron hollow fiber element, which its listing credits with catching microplastics, sand and sediment alongside other harmful substances. The listing says the materials meet FDA, food-grade and BPA-free wording, and a sediment collector sits at the base.\n\nIts 3 liter bag is a little smaller than the Sawyer SP160's 1 gallon bladder, and the price sits well under both rivals. The sediment collector at the base helps with silty water after the load has settled.\n\nA fit for cooks and groups who want a larger supply at a low price. Use it where a lightweight gravity bag is enough.",
     "specs": [
       "3L bag, 0.1 micron",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419Or2q+TIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1379KG3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1379KG3?tag=rvgearlab-amz-20",
     "description": "The Uzima UZ-2 is a freestanding gravity system that the listing says protects against 99.999% of bacteria with a hollow fiber filter. It is shelf-stable, needs no power and works with water purification tablets.\n\nIt stands on its own, so it needs no tree or hook, which neither the Sawyer SP160 nor the MultiSavePuls 3L offers. The listing prints no weight or flow rate, so it is the least documented option.\n\nA reasonable choice for van life, overlanding and emergency kits where you set it on a table. It suits camp use more than long hikes.",
     "specs": [
       "Free-standing gravity system",

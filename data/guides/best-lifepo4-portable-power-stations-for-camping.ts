@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS C600 is built with automotive-grade LiFePO4 cells that the listing rates for more than 4,000 charge cycles while keeping over 80 percent of capacity. It stores 640Wh and lists 600W rated AC output, 1,200W surge, 4 AC outlets, 8 ports and a 10ms UPS switchover.\n\nIt is the only pick that names LiFePO4 and a cycle count directly, at roughly half the price of the BLUETTI Elite 100 V2. Four recharge routes, including solar and a gas generator, give it the more flexible charging menu.\n\nIt suits first-time buyers and light RV or cabin users who want a long-lasting battery for lights, fans, laptops and a small fridge. The 10ms UPS also covers a router or TV during short outages.",
     "specs": [
       "640Wh automotive-grade LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 stores 1,024Wh and lists 1,800W rated AC output, 2,700W in Power Lifting mode, 11 ports and a 10ms UPS. It reaches 80 percent charge in roughly 45 minutes with 1,200W TurboBoost AC charging, weighs 25 pounds and has Wi-Fi and Bluetooth app control.\n\nIt carries three times the rated output of the LIBRIDS C600 and almost two-thirds more storage. A silent mode at 30dB makes it livable indoors.\n\nIt suits campers and home-backup buyers who need to run a heavier appliance and refill fast. The compact 17L body and hidden handle keep it easy to carry.",
     "specs": [
       "1,024Wh, 1,800W rated",

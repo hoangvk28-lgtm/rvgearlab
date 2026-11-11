@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41InXGLnDfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PCJNPHR?tag=rvgearlab-amz-20",
     "description": "The FRIZZLIFE MV99 is certified by IAPMO R&T against NSF/ANSI 42 and 53, and its title names lead reduction. It uses a composite carbon block rated 0.5 micron with lead-free brass fittings.\n\nIt is the pick whose certification names the health-effects standard 53, which most hose filters skip. A holder keeps it upright for outdoor use.\n\nBest for campers who want certified lead reduction and a rugged build. It also suits long stays.",
     "specs": [
       "NSF/ANSI 42 and 53 certified",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51G14d4LppL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F865G8L2?tag=rvgearlab-amz-20",
     "description": "The iSpring 3-Stage RV Water Filter System uses a 5 micron sediment filter and activated carbon stages, with the title naming lead and chlorine reduction. It has brass hose connectors and a tankless high-flow design.\n\nCompared with FRIZZLIFE, it is a full external system with three stages. It also lists PFAS and other claims on the title.\n\nA strong pick for travelers who want a mounted system. It also suits rigs with several taps.",
     "specs": [
       "3-stage external system",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416lkYJwCJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G42WW12M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G42WW12M?tag=rvgearlab-amz-20",
     "description": "The PUREPLUS RV Dual Stage Water Filter has a 5 micron PP sediment filter and a PFAS carbon stage, certified to NSF/ANSI 42 for materials and aesthetic effects. It uses 3/4 inch stainless steel fittings and a reinforced metal mounting bracket with anti-slip pads.\n\nIt sits between the FRIZZLIFE and iSpring in price and uses stainless fittings instead of brass. The bracket can be placed on the ground or mounted.\n\nBest for campers who want stainless fittings and a dual-stage system. It also suits uneven campsites.",
     "specs": [
       "5 micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ayR4Umd3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Z5D7GTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Z5D7GTL?tag=rvgearlab-amz-20",
     "description": "The Firebelly Outfitters 2-Pack uses ISO Certified KDF and GAC with a five-layer design that names iron, lead, chlorine and mercury. It filters down to 20 microns and fits a standard hose.\n\nIt costs a fraction of the systems and is aimed at iron-heavy water. KDF is the reason lead is on its list.\n\nGreat for campers on a tight budget with rural water. It also works as a seasonal spare.",
     "specs": [
       "KDF and GAC carbon",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JE9-vsW2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTKQHDD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTKQHDD2?tag=rvgearlab-amz-20",
     "description": "The Clean Camper Ultra-Premium RV Carbon Water Filter is certified lead-free by IAPMO R&T against NSF/ANSI 42 and lasts up to 90 days. A wide body supports fast flow with two flexible hose connectors.\n\nUnlike the FRIZZLIFE, its certification speaks to lead-free materials. It installs in under a minute.\n\nA good pick for campers who want safe materials and quick installs. It also pairs well with spares.",
     "specs": [
       "Certified lead-free",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T6OIV-GeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF7WV7B9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF7WV7B9?tag=rvgearlab-amz-20",
     "description": "The Devvicoo RV Water Filter 2-Pack is NSF tested lead-free and uses advanced GAC with an included flexible hose protector. The kit works straight from the package on a standard hose.\n\nIt is the simplest on this list, and its wording refers to lead-free materials, not lead reduction. The two-pack gives a spare.\n\nBest for first-time buyers who want safe materials at a low price. It also suits storage-ready spares.",
     "specs": [
       "NSF tested lead-free",

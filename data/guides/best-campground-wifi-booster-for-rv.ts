@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cN3rreUwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076KKTQP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076KKTQP7?tag=rvgearlab-amz-20",
     "description": "C. Crane CC Vector RV Long Range WiFi Repeater is a 2.4 GHz system with an outdoor omni-directional antenna that the listing says receives a distant WiFi signal at about 400 feet and up to about one mile at maximum range. It repeats the network to devices and has two Ethernet jacks.\n\nAgainst BrosTrend AC1200, it is a receiver and repeater system with an 8 dBi antenna. Against Tupavco, it includes the electronics.\n\nIt is the best match for owners who park far from the campground router and want a mast-mounted receiver. Think of it as the pick for far-from-router sites.",
     "specs": [
       "2.4 GHz long range repeater",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21aODAnh-DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRCNHW8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRCNHW8K?tag=rvgearlab-amz-20",
     "description": "BrosTrend AC1200 Outdoor WiFi Extender is an IP65 dual band unit with PoE power and two 5 dBi omni antennas. The listing says it transmits up to 656 feet and gives 867 Mbps on 5 GHz and 300 Mbps on 2.4 GHz.\n\nAgainst C.Crane CC Vector, it is dual band with a lower price. Against CINAMON, it is an AC1200 unit rather than WiFi 6.\n\nIt suits owners who want a weatherproof extender at a modest price. Buyers focused on budget outdoor extender will find it a sensible match.",
     "specs": [
       "AC1200 dual band, PoE",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51r14WtGFpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB481QB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB481QB5?tag=rvgearlab-amz-20",
     "description": "CINAMON AX1800 Outdoor WiFi Extender is a WiFi 6 unit with six antennas and a stated 574 plus 1201 Mbps. The listing says it offers repeater, router and access point modes and an IP65 weatherproof build.\n\nAgainst BrosTrend AC1200, it states WiFi 6 and three modes. Against C.Crane CC Vector, it is faster on paper and dual band.\n\nIt suits owners who want WiFi 6 and a flexible mode choice. It earns its slot for wifi 6 setups.",
     "specs": [
       "AX1800 WiFi 6, six antennas",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+DbnGebeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YGPDPW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YGPDPW8?tag=rvgearlab-amz-20",
     "description": "Tupavco is a 12 dBi omni-directional outdoor antenna for 2.4 GHz with a 3 foot fiberglass weatherproof radome, a pre-installed N female connector and mounting accessories. It extends an existing wireless network in 360 degrees.\n\nAgainst C.Crane CC Vector, it is just an antenna and needs compatible gear. Against BrosTrend AC1200, it is cheaper but has no electronics.\n\nIt suits owners who already have a compatible router or receiver. It is a natural fit for antenna upgrades.",
     "specs": [
       "12 dBi omni antenna, 2.4 GHz",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21gP2WAnn8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LR9TLY3?tag=rvgearlab-amz-20",
     "description": "TravlFi Journey1 is a 4G LTE pocket hotspot with eSIM technology and flexible prepaid data plans from 2 GB to unlimited. The listing says it needs no SIM card and switches across carriers to find the strongest local signal.\n\nAgainst the WiFi boosters, it creates a private network from cellular data and does not boost campground WiFi. Against Power Watchdog, it provides internet while the Watchdog protects power.\n\nIt is included for owners who want a cellular alternative to park WiFi. Think of it as the pick for cellular backup.",
     "specs": [
       "4G LTE hotspot with eSIM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FJWTNVLwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1WZ7YV7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1WZ7YV7?tag=rvgearlab-amz-20",
     "description": "Power Watchdog WPC30A is a 30 amp power center with surge protection, voltage boosting and built-in WiFi and Bluetooth to monitor current, voltage and park circuit analysis from an app. The listing says it has an emergency power off and auto restore.\n\nAgainst the boosters, it protects your power and does not boost WiFi. Against TravlFi Journey1, it uses WiFi only to talk to your phone.\n\nIt is included because it appears in this search, and it suits owners who want power protection. Buyers focused on power protection will find it a sensible match.",
     "specs": [
       "30A surge protector and booster",

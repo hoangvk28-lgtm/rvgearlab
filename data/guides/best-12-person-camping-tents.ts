@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9Tt32E7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QY3KZPR?tag=rvgearlab-amz-20",
     "description": "The CORE tent is a 16 by 11 foot cabin, 86 inches tall at the center, with room for four queen-size air beds. Its weather shell pairs 1200mm H2O Block fabric with taped fly seams, sealed seams and zip-closing windows.\n\nThe ceiling ties the ALPHA CAMP for tallest, and it is the only listing that says plainly how many people fit with and without gear, which is 6 with gear or up to 12 without. Against the ALPHA CAMP it gives a room divider, steel stakes and guylines, while the ALPHA CAMP adds more rooms.\n\nLarge families that car camp in unsettled weather get a straight-walled cabin from a known brand. Built-in pockets hold small items above the floor.",
     "specs": [
       "16 x 11 ft, 86 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QimiTnabL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H94V3ZWC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H94V3ZWC?tag=rvgearlab-amz-20",
     "description": "The ALPHA CAMP covers 16 x 11 ft (176 sq ft) and lists 12 people or four queen air mattresses under an 86 inch peak. Two removable divider curtains make three private rooms, and a shade canopy extends the entry.\n\nIt matches the CORE floor size and adds a third room, a shade canopy, six large mesh windows and floor vents. Compared with the KTT it is bigger and more weatherproofed, with a bottom shelter and sealed seams.\n\nGroups that want adults, kids and gear in separate rooms will like it. The listing also notes the tent is PFAS-free.",
     "specs": [
       "16 x 11 ft, 176 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jAyZ1OpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FY9X73N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FY9X73N?tag=rvgearlab-amz-20",
     "description": "The KTT is a straight-wall 14 x 10 ft cabin with a 6.58 ft height that fits 4 full air mattresses and is listed for 10 to 12 people. It has 2 rooms, 3 doors and 3 mesh windows, and the door curtains can be propped with 2 poles as an awning.\n\nIt sits just above the CAMPROS on price and carries a repair kit with patches and pole joints. Against the CAMPROS it has a smaller floor, and it is built by hand with fold-out poles instead of color-coded ones.\n\nHands-on campers who want a roomy two-room tent with an entry awning will find it a good buy. The door awning gives shade at the entrance.",
     "specs": [
       "14 x 10 ft, 6.58 ft height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XaTwSba+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPKF1CZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPKF1CZB?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP is 20 x 9 ft (180 sq ft) with a 72 inch center height and fits 3 queen or 5 full air mattresses. Its 185T polyester carries a PU1000mm coating, sealed seams and rain strips, and color-coded poles set it up in under 10 minutes.\n\nIt matches the ALPHA CAMP on three rooms and offers the largest stated floor area of the group. Against the CORE it has lower headroom and a lighter coating, while the CORE gives fewer rooms.\n\nFamilies that want three spaces and quick pitching at the lowest cost here are the target. The divider curtains work as projector screens for camp movie nights.",
     "specs": [
       "20 x 9 ft, 180 sq ft",

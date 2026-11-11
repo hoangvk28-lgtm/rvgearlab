@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The FlexSolar lists 24 percent monocrystalline cells with an 18W QC3.0 USB-A port, an 18W PD2.0 USB-C port, a DC output and an IC chip. It carries an IP67 rating and ships with 2 carabiners.\n\nIt states the clearest per-port wattage of the five and costs a little more than the MHPOWOS. Compared with the Powkey, it adds a higher IP rating and lacks a kickstand.\n\nIt suits campers who charge two devices at once. The smart chip detects each device.",
     "specs": [
       "24% cells, IP67",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jvb4xbDoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G37WGWQM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G37WGWQM?tag=rvgearlab-amz-20",
     "description": "This 2026 upgrade lists 25 percent N-type cells, QC3.0 USB-A up to 27W, PD2.0 USB-C up to 18W and DC 12V output, with an IP67 rating. An MPPT chip detects devices and optimizes output.\n\nIt undercuts every other pick and the only one with N-type cells and MPPT in its description. It lists more USB-A wattage than the FlexSolar 40W.\n\nIt suits budget campers who want modern cells at a low cost. The listing notes that daily use varies with weather.",
     "specs": [
       "25% N-type, IP67",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ro1I5pE1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR2NS5W4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR2NS5W4?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS lists a folded size of 12.5 x 8.8 x 1.5 inches at 3 lbs, 23 percent ETFE monocrystalline cells and an IP65 rating. It has a 5A DC output, USB-C and USB-A, with a 5-in-1 connector, a 2-in-1 USB cable and 2 carabiners.\n\nIt states its folded dimensions and weight, which the FlexSolar leaves out. It costs a little less than the FlexSolar.\n\nIt suits campers who want known dimensions and a 12-month warranty. The included cable and connector reduce extra purchases.",
     "specs": [
       "23% ETFE, 3 lbs, IP65",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412WYZtSJYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJBWF1PT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJBWF1PT?tag=rvgearlab-amz-20",
     "description": "The Powkey lists 4.2 lbs, a folded size of 13.6 x 9.8 x 2.4 inches and a kickstand design for 100W to 200W portable power stations. It has a DC output at 15V/2.6A 40W max, a USB QC3.0 port and a 10-in-1 connect cable.\n\nIt is the only pick aimed at small stations, with a DC output listed in volts and amps. It weighs more than the MHPOWOS and carries an IPX4 rating.\n\nIt suits campers with a small power station. The 10-in-1 cable fits many DC inputs.",
     "specs": [
       "4.2 lbs, kickstand design",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UvVHpG9gL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09G2Z6ST8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09G2Z6ST8?tag=rvgearlab-amz-20",
     "description": "The ZeroKor lists 22 percent monocrystalline cells, a weight of 3.3 lbs, adjustable kickstands and USB output at 5V/3A, 9V/2A and 12V/1.5A. A TIR-C chip recognizes devices and protects against overcharging.\n\nIt costs less than the FlexSolar and adds kickstands that the FlexSolar lacks. It weighs more than the MHPOWOS.\n\nIt suits campers who want to aim the panel without a prop. The multi-voltage USB output supports fast charge protocols.",
     "specs": [
       "22% cells, 3.3 lbs",

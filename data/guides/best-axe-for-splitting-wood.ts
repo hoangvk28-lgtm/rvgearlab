@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ilSn9Mf8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01H0XACRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01H0XACRK?tag=rvgearlab-amz-20",
     "description": "The Helko Saxon Splitter is a hand-forged German heavy splitting axe with a C50 high carbon steel head at 53 to 56 HRC. The head weighs 6-1/4 lbs, total length is 31 inches and total weight is 8-1/2 lbs, with an American hickory handle in linseed oil finish.\n\nIt has a heavy 6-1/4 lb head and ships with a full-grain leather sheath and a bottle of Axe Guard protective oil. That makes it the one to buy if you split big rounds regularly.\n\nIt fits homeowners and campers with large, difficult logs who want a lifetime tool. The included oil keeps the head protected between seasons.",
     "specs": [
       "6-1/4 lb head, 31 inches, 8-1/2 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314KsizgeqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B014M9LQGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B014M9LQGG?tag=rvgearlab-amz-20",
     "description": "The Fiskars Pro IsoCore is an 8 lb, 36 inch splitting maul with an IsoCore shock-absorbing handle, a textured non-slip grip and an inseparable riveted head. A protective sheath and lifetime warranty are included.\n\nIt is an 8 lb maul and uses shock absorption that the plain wood handles lack. The maul shape wedges logs apart rather than slicing.\n\nIt fits homeowners who split firewood by the cord. The long handle gives swing speed.",
     "specs": [
       "8 lb, 36 inch maul",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DnzCHdgGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD5RPVMN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD5RPVMN?tag=rvgearlab-amz-20",
     "description": "This 35.5 inch splitting axe has a 4.5 lb 1065 high-carbon forged steel head and a 6.3 lb total weight. A wedge-shaped blade and an extended wood handle give good shock absorption for medium to large logs.\n\nIt sits between the Fiskars maul and the 27.8 inch axe, with a longer handle than the 27.8 and a lighter head than the maul. It is less costly than the Helko.\n\nIt fits homeowners who split medium logs and want a balanced axe. The long handle also gives good swing speed.",
     "specs": [
       "35.5 inch, 6.3 lbs total",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oVseZ-ANL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8NMVNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8NMVNT?tag=rvgearlab-amz-20",
     "description": "This 27.8 inch splitting axe has a 1065 high-carbon steel head with a fully polished edge and a Lichtenberg pattern wood handle. It includes a leather sheath with a belt hole.\n\nIt is shorter than the 35.5 inch axe, which makes it easier in tight spots and for smaller users. It sharpens easily with a file.\n\nIt fits campers who want a short splitter for kindling and small logs. The leather sheath carries on a belt.",
     "specs": [
       "27.8 inch, 1065 high-carbon steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rrCRz6jSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002YTO7E?tag=rvgearlab-amz-20",
     "description": "The Fiskars X7 is a 14 inch hatchet with a blade ground to stay sharper longer, an insert-molded head, a low-friction coating and a shock-absorbing FiberComp handle. It carries a lifetime warranty.\n\nIt is not a splitter for large rounds, and it is the best companion for the axes above because it handles kindling and branches. It is the lightest pick.\n\nIt fits campers who split small kindling pieces. The low-friction coating helps prevent sticking.",
     "specs": [
       "14 inch hatchet",

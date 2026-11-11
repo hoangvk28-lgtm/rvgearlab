@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GCXgGTw3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6XLMXY4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6XLMXY4?tag=rvgearlab-amz-20",
     "description": "DREO Oil Filled Radiator offers 600, 900 and 1500 watt modes plus an eco mode that holds temperature with a sensor. The listing says it is ETL listed with triple overheat protection, tilt protection and fire-resistant material.\n\nAgainst Pelonis 2025, it adds an eco sensor mode. Against Amazon Basics, it lists triple overheat protection.\n\nIt is the best match for owners who want a quiet, sensor-controlled radiator. It earns its slot for quiet bedrooms.",
     "specs": [
       "600/900/1500W modes",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zsXSaA8TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ5FYNLN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ5FYNLN?tag=rvgearlab-amz-20",
     "description": "Pelonis 2025 Upgraded radiator has seven fins and 600, 900 and 1500 watt modes. The listing says the plug and cord meet ETL standards, with instant tip-over protection and precision overheat protection.\n\nAgainst Pelonis Dual Knob, it is the newer design with stated ETL for cord and plug. Against DREO Radiator, it has no eco sensor.\n\nIt suits owners who want a newer Pelonis with seven fins. It is a natural fit for even room heating.",
     "specs": [
       "7 fins, 600/900/1500W",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zzAAM6pjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HGFB3FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HGFB3FQ?tag=rvgearlab-amz-20",
     "description": "Amazon Basics Portable Oil Radiator has High 1500, Medium 1000 and Low 600 watt settings and seven oil-filled fins. The listing says it keeps radiating after turning off and has ETL certified tip-over and overheat protection.\n\nAgainst DREO Radiator, it is simpler with three steps. Against Sweetcrispy, it is a plain radiator without casters listed.\n\nIt suits owners who want a straightforward three-step radiator. Think of it as the pick for simple radiator heat.",
     "specs": [
       "1500/1000/600W settings",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41havDg9WSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPD4GBHG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPD4GBHG?tag=rvgearlab-amz-20",
     "description": "Sweetcrispy 1500W radiator has 600, 900 and 1500 watt modes, four heavy-duty casters and a carry handle. The listing says it warms 10 to 15 square meters and has a tip-over switch.\n\nAgainst Amazon Basics, it adds casters. Against ROVSUN, it states a coverage range.\n\nIt suits owners who move a heater between rooms. Buyers focused on moving between rooms will find it a sensible match.",
     "specs": [
       "1500W, 600/900/1500 modes",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21-0S+JZGwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZBGJWSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZBGJWSD?tag=rvgearlab-amz-20",
     "description": "ROVSUN radiator has an adjustable thermostat, a fanless quiet design and overheat and tip-over protection. The listing says it heats within 3 seconds of startup.\n\nAgainst Sweetcrispy, it has a thermostat setting. Against Pelonis Dual Knob, it uses a button control.\n\nIt suits owners who want thermostat control at a low price. It earns its slot for budget thermostat heat.",
     "specs": [
       "Adjustable thermostat",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s71NW4YXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TGXDRNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TGXDRNZ?tag=rvgearlab-amz-20",
     "description": "Pelonis Dual Knob radiator is a 1500 watt oil-filled heater with 600, 900 and 1500 watt modes that can be combined. The listing says it has a power light, overheat protection and a tip-over safety switch.\n\nAgainst Pelonis 2025, it is the older, lower-cost design. Against ROVSUN, it has two knobs for wattage and thermostat.\n\nIt suits owners who want a basic radiator at the lowest price. It is a natural fit for basic radiator heat.",
     "specs": [
       "Dual knob, 600/900/1500W",

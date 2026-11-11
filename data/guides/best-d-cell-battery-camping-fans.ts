@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cfe5EEl7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS2G14TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS2G14TY?tag=rvgearlab-amz-20",
     "description": "The Wavmill runs on four D cells for a stated 200 hours maximum, or from USB. It has four speeds at under 30 dB, three timers, two LED levels and a remote control, with an ABS body, a vertically adjustable head and non-slip pads.\n\nAgainst the XZK, it adds a remote and costs less, while the XZK lists a faster 3950 r/min motor. Compared with the Gazeled, it has more speeds, a lantern and a quieter listing.\n\nIt suits campers who want to adjust speed and light without getting out of a sleeping bag. The remote handles timer, speed and light.",
     "specs": [
       "4 D cells, up to 200 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Uv29ArUqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK1M26X2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK1M26X2?tag=rvgearlab-amz-20",
     "description": "The XZK takes four D cells for up to 200 hours, or runs on USB power. It lists a 3950 r/min motor with 5.2 m/s wind speed, four speeds, three timers and two LED modes, with a 365-day service promise and a 90-day replacement guarantee.\n\nIts listed motor is stronger than the Wavmill's 2950 r/min, and the support terms are named. It has no remote.\n\nIt suits campers who want the strongest airflow in a four-cell body. The vertically adjustable head directs air up or down.",
     "specs": [
       "4 D cells or USB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLtlXmXbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZZFQBD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZZFQBD7?tag=rvgearlab-amz-20",
     "description": "The LEMOISTAR is an 8 inch fan on six D cells with 16 LED beads at three brightness levels and an SOS mode. It lists stepless speed control, a velocity of 26 ft/s, a brushless pure copper motor under 25 dB and a 180 degree adjustable angle.\n\nIt is the quietest listed here and the only one with stepless speed control. Compared with the Shinebella, it is a few dollars cheaper with a similar lantern.\n\nIt suits campers who want one device for light and air in a tent. A handle and USB power add flexibility.",
     "specs": [
       "Six D cells, 8 inch fan",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kxK113r3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GRX5PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GRX5PS?tag=rvgearlab-amz-20",
     "description": "The Shinebella is an 8.5 inch fan using six D cells or a plug-in adapter, with four timer modes, an LED lantern with three brightness settings and an SOS light. The listing gives 180 degree rotation, a handle and a one-year warranty.\n\nIt is the largest fan in the group and the priciest. Against the LEMOISTAR, it adds a plug-in adapter option and a stated one-year warranty.\n\nIt suits campers who want the biggest fan and the option to plug in at a powered site. The adapter is sold separately.",
     "specs": [
       "Six D cells, 8.5 inch fan",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516+BwvtSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-amz-20",
     "description": "The Gazeled is a 5 inch fan on four D cells with three speeds, a timer, 180 degree rotation and a handle. Its listing states current draw of 68 mA on low, 280 mA on the middle setting and 700 mA on high, and it can run on USB power from a power bank.\n\nIt is smaller than the Shinebella and costs less, yet lists a noise level of 50 dB that is louder than the others. The current figures let you estimate battery life.\n\nIt suits campers who want a small backup fan for a sleeping bag or a power outage. USB power adds a second option.",
     "specs": [
       "Four D cells, 5 inch fan",

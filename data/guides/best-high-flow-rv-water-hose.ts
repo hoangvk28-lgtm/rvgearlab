@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H7kXlvVZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BGHTKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BGHTKW?tag=rvgearlab-amz-20",
     "description": "The Valterra AquaFresh is a 5/8 inch by 50 ft hose engineered for high-pressure RV hookups with Hi-Flow fittings. It lists NSF-listed materials and a 120 psi working pressure.\n\nIt is the only 5/8 inch hose that lists Hi-Flow fittings and a working pressure. It costs more than the Camco EvoFlex.\n\nIt suits owners who want the wider bore at long reach. The Hi-Flow fittings are made to reduce restriction.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oLvGl4dmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BSQCR6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BSQCR6H?tag=rvgearlab-amz-20",
     "description": "The Camco EvoFlex 35 ft is a 5/8 inch hose that is CSA lead-free certified and 20 percent thicker than premium hoses. It lists diamond-hatch reinforcement and zero memory.\n\nIt keeps the 5/8 inch bore at a shorter length than the Valterra. It costs less than the Valterra 50.\n\nIt suits owners who want a flexible 5/8 inch hose at 35 ft. The kink resistance protects flow.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XpCheiA3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00B2AUX3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00B2AUX3Q?tag=rvgearlab-amz-20",
     "description": "The Valterra AquaFresh 25 ft is a 1/2 inch hose engineered for 160 psi RV hookups with Hi-Flow fittings and an included hose gripper. It lists NSF-listed materials.\n\nIt lists a higher pressure rating than the 5/8 inch Valterra and costs the least of the hoses. It has a narrower bore.\n\nIt suits owners who want a documented pressure figure and a short reach. The hose gripper makes installation easier.",
     "specs": [
       "1/2 inch, 25 ft",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KGjxdz6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-amz-20",
     "description": "The rVandtt Fresh Water Kit includes a drinking hose, an RV water pressure regulator with gauge, a multi-stage filter, connectors, a leak repair kit and a carrying case. It is the all-in-one pick.\n\nIt is the highest priced pick here and bundles the parts that sit on the line. The regulator and filter protect plumbing.\n\nIt suits new owners who want everything in one case. The leak repair kit adds peace of mind.",
     "specs": [
       "Hose, regulator and filter kit",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51127i5vSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07B2LPLBQ?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE XL is a 6-step filter listed to NSF/ANSI 42 and NSF/ANSI 53 with a flexible hose protector. It is CSA lead-free certified and made in the USA.\n\nIt adds filtration to any hose, which the hoses cannot do. It is a flow restriction by design.\n\nIt suits owners who want cleaner water. The hose protector reduces stress on the spigot.",
     "specs": [
       "6-step filter",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oNnHrJ6CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4LLZZX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4LLZZX9?tag=rvgearlab-amz-20",
     "description": "The FOCSPROD is a handheld RV shower head with a hose and 5 spray modes including rain and massage. It lists a power jet mode, a water saving pause button and an adhesive holder.\n\nIt is priced near the filter and sits at the end of the plumbing. It is not a hookup hose.\n\nIt suits owners who want better shower use inside. The pause button saves water.",
     "specs": [
       "5 spray modes",

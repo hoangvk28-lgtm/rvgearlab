@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PIc2XOSmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QFZNS7?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome 6 person tent has a 6 foot center height and fits two queen-size airbeds. It uses the WeatherTec system with welded corners and inverted seams, plus large windows and a ground vent for airflow.\n\nCompared with the PORTAL, it is a simpler dome that pitches in about 10 minutes. Against the Reactive Outdoor, it holds many more people.\n\nIt suits families who want a dependable tent from a known brand. Standing height inside makes changing clothes easy.",
     "specs": [
       "6 person, 6 ft center height",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pFyed24YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGZZJSLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGZZJSLH?tag=rvgearlab-amz-20",
     "description": "The PORTAL 8 person tunnel tent measures 20 feet by 8 feet with a 76 inch center height and a screen room. It uses 66D fabric with a water-resistant coating, a removable rainfly and improved fiberglass poles.\n\nCompared with the Coleman Sundome 6P, it adds a 6 foot screen porch and sleeps more. Against the Reactive Outdoor, it is a large group tent.\n\nIt suits big families who want a bug-free living area as well as sleeping space. It fits two full-size airbeds and extra gear.",
     "specs": [
       "20 x 8 ft with screen room",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPCXq3cOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-amz-20",
     "description": "The Naturehike Star Trail weighs 2.76 pounds for the two-person version and compacts to 17.7 by 5.1 inches. It has a 10D nylon outer tent with PU1500mm+ and a 20D nylon floor and footprint with PU3000mm.\n\nCompared with the Night Cat, it is lighter and packs smaller. Against the Coleman Sundome 6P, it is a backpacking shelter that fits a pack.\n\nIt suits hikers who want a light two-person tent with a full mesh inner. Elevated clearance helps airflow.",
     "specs": [
       "2.76 lb, packs 17.7 x 5.1 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jJGFqDRwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-amz-20",
     "description": "The Reactive Outdoor 3 Second Tent uses a self-locking mechanism to pop up in seconds and has a 3000mm hydrostatic head rating with taped seams. The tent bag has an extra wide opening with buckle straps.\n\nCompared with the Naturehike Star Trail, it pitches far faster. Against the Night Cat, it is a pop-up with taped seams and a clear 3000mm rating.\n\nIt suits solo campers who want instant setup. It also works for beach and festival use.",
     "specs": [
       "Self-locking pop-up frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uxxwrBNWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WR1V29Y?tag=rvgearlab-amz-20",
     "description": "The Night Cat 1 to 2 person tent has inner dimensions of 7.0 by 3.8 by 3.6 feet and weighs 2 kg (4.4 pounds). It uses PU 3000mm polyester with taped seams and fiberglass poles in protective cases.\n\nCompared with the Naturehike Star Trail, it costs far less and weighs more. Against the Reactive Outdoor, it uses a standard pole frame.\n\nIt suits budget solo hikers. The pole cases protect your hands and the package is compact.",
     "specs": [
       "4.4 lb, 7.0 x 3.8 x 3.6 ft",

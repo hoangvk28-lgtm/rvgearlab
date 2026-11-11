@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5145OWkjyFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4ZXMKCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4ZXMKCK?tag=rvgearlab-amz-20",
     "description": "The Canvas Cabin Dome is a 2 to 4 person dome tent with fully taped seams, a wrap-around bathtub floor and a sturdy frame. It has a large D-shaped front door and big ventilation windows.\n\nIt costs about $90, roughly $17 more than the cotton teepee, and it is the only pick with a sewn-in floor and taped seams. That floor and those seams keep out ground dampness and rain in a way an open teepee cannot.\n\nIt suits family campers who want a standard dome layout and a sealed floor for weekend trips in mild weather. Pair it with a footprint to protect the floor.",
     "specs": [
       "2 to 4 person dome",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51anm71tp4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKZQYXFZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKZQYXFZ?tag=rvgearlab-amz-20",
     "description": "The Cotton Canvas Teepee is built on extra-long 86.6 inch solid wood poles that make room for 2 adults and 3 kids. High-density cotton canvas with vine LED lights covers the frame, and a reinforced top connector holds the poles.\n\nIt costs about $73, around $17 less than the Canvas Cabin Dome, and it is the only pick with real cotton canvas, wood poles and built-in lighting. It sets up and packs down quickly, and it has no sewn-in floor.\n\nIt suits backyard campouts, kids' sleepovers and dry-weather glamping where the look and feel of canvas matter. Treat it as a fair-weather shelter and add a ground tarp.",
     "specs": [
       "Cotton canvas, solid wood poles",

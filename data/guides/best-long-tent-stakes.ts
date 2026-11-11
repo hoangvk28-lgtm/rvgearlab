@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NxGZxXTIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNH5ZSPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNH5ZSPY?tag=rvgearlab-amz-20",
     "description": "This HOLANHING pack holds 20 forged S45C steel stakes at 12 inches long and 0.35 inch thick, each weighing 5.4 ounces. Fluorescent rubber rings and a storage pouch come in the box.\n\nIt carries the same material and thickness as the longer 16 inch HOLANHING, with a shorter body that drives faster and weighs less. Compared with the ABuff, it gives you more stakes per set and keeps the bright rings.\n\nIt suits campers who want long, strong stakes for rocky or snowy ground and a quantity that covers tent, tarp and canopy. At 12 inches it hits the sweet spot between grip and carrying weight.",
     "specs": [
       "Forged S45C steel, 0.35 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+CtNYF69L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HKFTVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HKFTVS?tag=rvgearlab-amz-20",
     "description": "The ABuff set gives 12 carbon steel stakes at 16 inches, 0.35 inch thick and about 7.37 ounces each. A round head takes hammer blows squarely, and the side hole accepts a carabiner or rope.\n\nAgainst the HOLANHING 12in Forged it adds four inches of depth, and against the RIY 12in it adds rope-friendly side holes. Its pack of 12 is smaller than the HOLANHING, so it fits a single tent.\n\nIt is for campers who face wind on open meadow, beach or desert and want depth more than quantity. The listing advises a 60 degree driving angle to keep the stakes tight.",
     "specs": [
       "16 in carbon steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bh31WkSmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJ9PCG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJ9PCG6?tag=rvgearlab-amz-20",
     "description": "Auto-plaza ships 18 heavy duty plastic pegs at 13.75 inches (350 mm) with a large non-slip hook, plus a hammer in every package. The listing frames them as extra long awning and sand stakes for beach camping and caravans.\n\nWhere the HOLANHING and RIY sets are steel, these plastic stakes have no sharp edges and cannot rust. They also include a hammer, which the steel sets leave out.\n\nThey fit beach and sand campsites, caravan awnings and families who want safer stakes around kids and pets. The hook head is designed for pulling rope loops.",
     "specs": [
       "13.75 in plastic, 18 pack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qSFwV1iBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2PD96S5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2PD96S5?tag=rvgearlab-amz-20",
     "description": "The RIY 12 inch pack contains eight forged S45C steel stakes at about 0.28 pounds each, with a large head and a sharp end. The listing names rocky ground, desert, snowfield and grassland.\n\nIt is shorter than the ABuff and has no rope hole, and it keeps forged steel at a lower price than the HOLANHING 20-pack. It is also a smaller set than the HOLANHING, which suits a single tent.\n\nIt works for a camper who needs a handful of strong long stakes and not a bulk pack. The orange color helps spot them in grass.",
     "specs": [
       "Forged S45C steel, 12 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51XpQfzgu+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2897453?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2897453?tag=rvgearlab-amz-20",
     "description": "The CEWOR pack has 16 galvanized steel J-hook stakes, 12 inches long with a threaded surface and a black coating. The listing gives a 5/18 inch wire and a 2 inch hook width.\n\nUnlike the straight steel pegs from RIY and HOLANHING, the J-hook shape locks around a strap and the thread surface adds grip. It carries more pieces than the RIY or ABuff packs for a similar price.\n\nIt suits trampoline tents, inflatables and canopy corners where a bent hook gives better retention than a plain peg. The listing also names chain link fence and yard use.",
     "specs": [
       "12 in galvanized J-hook",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31q4Vh+gLpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBLKXFX3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBLKXFX3?tag=rvgearlab-amz-20",
     "description": "The EyGde pairs a NEMA L14-30P plug with an L14-30R receptacle, rated 30A, 125/250V and up to 7500 watts. It adds 5000 joules of surge protection and a circuit analyzer with LED indicators in a bright green cord body.\n\nEvery other pick here uses the standard RV TT-30 or 14-50 plug, so the EyGde alone matches the twist-lock outlet on many portable generators. Compared with the KIRFEIHT, it trades surge energy for a connector that drops straight into a generator panel.\n\nIt suits campers whose generator has an L14-30R outlet and who want a protector and extension in one. The listing names FCC and RoHS certification and a fireproof, high-temperature body.",
     "specs": [
       "NEMA L14-30P to L14-30R",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41alKualxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BVJF8C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BVJF8C?tag=rvgearlab-amz-20",
     "description": "The KIRFEIHT is a 30 amp protector with 18,000 joules, a built-in analyzer and an IP68 waterproof cover. Its listing names UL Listed and RoHS certification, flame-retardant housing and a right-angle plug with a non-slip rubber grip.\n\nIt has 50 percent more joules than the GEARGO and Kohree and also lists a UL mark that those two do not. Against the EyGde, it uses the standard RV 30 amp plug and offers more than three times the surge absorption.\n\nIt fits 30 amp trailers that plug into a generator through a TT-30 outlet or adapter. The right-angle design keeps the cord tidy in a cramped compartment.",
     "specs": [
       "18,000J, 30A circuit analyzer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VzE7mbjTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6K3YCWG?tag=rvgearlab-amz-20",
     "description": "The RVRVHOMM is a 50 amp protector with 30,000 joules and triple-layer protection using MOV, GDT and TVS parts. It carries a three-year warranty, an IP68 waterproof cover and indicators for open neutral, open ground, missing L1 or L2 and reverse polarity.\n\nIt is the only 50 amp unit here and carries the highest joule number on the list. Compared with the 30 amp picks, it suits fifth wheels and motorhomes with a 14-50 plug.\n\nIt is the pick for large rigs that run a 50 amp generator or an inverter generator with a 14-50 outlet. The orange flag-style design is easy to spot on a dark site.",
     "specs": [
       "30,000J, MOV plus GDT plus TVS",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NU4tSRcLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B38DJ5Z9?tag=rvgearlab-amz-20",
     "description": "The GEARGO Gen2 lists 12,000 joules, a circuit analyzer for wiring faults and V-1 flame-retardant material. It has an IP68 waterproof cover, grip-handle plugs with a right-angle design and a three-year warranty.\n\nAgainst the Kohree, it adds a longer warranty at roughly the same price class. Compared with the KIRFEIHT, it gives up some joules and the UL mark for a bright orange body that is easy to find.\n\nIt suits car-and-trailer campers who want a plain 30 amp protector with a clear warranty. FCC testing is also named on the listing.",
     "specs": [
       "12,000J, IP68 cover",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ipT8WqgcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQXWRQFD?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 30 amp protector rated for 12,000 joules, with diagnostic LEDs and an IP67 cover roomy enough for most RV plugs. It uses pure copper conductors and a flame-retardant housing with grip handles.\n\nIt is the least expensive pick and matches the GEARGO on joules. Against the KIRFEIHT, it carries fewer joules and a lower IP rating while costing less.\n\nIt fits occasional generator users who want a simple 30 amp protector at the lowest cost. The cover accommodates most RV power plugs.",
     "specs": [
       "12,000J, IP67 cover",

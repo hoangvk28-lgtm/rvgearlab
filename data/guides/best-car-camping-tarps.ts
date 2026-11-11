@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RlDsdV6AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MHZ17B1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MHZ17B1?tag=rvgearlab-amz-20",
     "description": "The Kelty Waypoint is designed around the vehicle: it mounts to a roof rack, tailgate or trunk and comes with a steel pole, heavy-duty stakes and a strap. The 65D polyester body offers more than 120 square feet of cover, with dual fabric layers placed in the zones that see the most wear.\n\nWhere the AYAMAYA just below it relies on a larger sheet and buckles, the Kelty offers a finished system with a wide entryway that keeps a view open to the landscape. The hardware arrives in the bag, so a pitch from the tailgate takes minutes with no improvised rope work.\n\nIt suits a camper who wants a clean, repeatable awning off the back of an SUV or wagon and values build quality over raw area. A weekend family with a hatchback and a folding table gets a dependable porch.",
     "specs": [
       "120+ sq ft with vehicle mounting",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wIsNLEC9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT2QRKYD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT2QRKYD?tag=rvgearlab-amz-20",
     "description": "The AYAMAYA spreads 14 by 16 feet, about 224 square feet, enough to cover a table with six to eight seats and still leave room to walk. Buckles tie it to tires and racks, and two poles, nine stakes and seven guylines ship with the sheet.\n\nCompared with the Kelty above it, the AYAMAYA delivers far more cover for $85 less, with eight perforations that open up awning, lean-to and flat-shade configurations. Against the GEERTOP below it, the vehicle buckles and the included poles turn the sheet into a pitch that stands on its own.\n\nIt works for a family or a group with a truck or a large SUV, and for anyone who wants the biggest shaded zone in this comparison. A reunion weekend, a tailgate or a sports-field setup all use the size well.",
     "specs": [
       "14 x 16 ft sheet seats 6 to 8",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319+M8Dp2JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4DG87NJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4DG87NJ?tag=rvgearlab-amz-20",
     "description": "The GEERTOP is a 17 by 10 ft sheet, 172 square feet of 210T ripstop with a stated PU3000mm coating, reinforced corners and webbing edges. The long, narrow shape runs the length of a vehicle side and covers a table with chairs on both sides.\n\nCompared with the AYAMAYA above it, the GEERTOP trades some of the width for a lower price of $49.39, and it carries reflective guylines and stakes in the bag. Compared with the 10x10 ft tarp below it, it adds 72 square feet, which is the difference between shading a table and shading a whole kitchen line.\n\nIt fits a camper who ties off to trees, a roof rack or a pair of poles of their own and wants the best shade per dollar. A beach day or a picnic area suits the shape.",
     "specs": [
       "17 x 10 ft, 172 sq ft sheet",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N4DQFQdYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK6G7ZWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK6G7ZWQ?tag=rvgearlab-amz-20",
     "description": "This 10x10 ft tarp weighs about 24 oz, uses 3000mm PU fabric with doubled stitching, and carries 19 tie-downs. Three suction cups give an instant car mount, and six stakes and six ropes ship with it, which turns it into a quick lean-to against a door or hatch.\n\nBeside the GEERTOP above it, the 10x10 ft tarp swaps area for speed: the suction cups let one person stick a corner to the paint and have shade in a minute. Beside the Winpull below it, the fabric is a coated polyester rather than thick poly, and it folds to a small bundle for a glove-box-sized pocket.\n\nIt suits a solo camper or a couple who want fast shade beside a car at a trailhead or beach lot. An overnighter who values speed over square footage will find the 19 anchor points flexible.",
     "specs": [
       "10x10 ft with 19 tie-downs",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514Flk3VldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C33D1YJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C33D1YJR?tag=rvgearlab-amz-20",
     "description": "The Winpull is a 10 by 20 ft sheet of 16 mil polyethylene at 8 oz per square yard, with brass grommets and reinforced edges. That works out to about 200 square feet and roughly 11 lb, a weight that means nothing when the trunk is the packing list.\n\nAgainst the 10x10 ft tarp above it, the Winpull doubles the length and uses thick poly that shrugs off abrasion on gravel and tailgates. At $33.23 it is the lowest price in the group, and the brass grommets resist the tear-out that plagues plain fabric tarps.\n\nIt is the right choice for a base camp, a work site, a woodpile cover or a long shade line across a picnic row, where durability and price matter more than finish. Anyone who already owns poles and rope can put it to work right away.",
     "specs": [
       "10 x 20 ft, 16 mil polyethylene",

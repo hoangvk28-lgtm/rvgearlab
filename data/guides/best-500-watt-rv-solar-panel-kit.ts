@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516DkwnJeFS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09992V4LS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09992V4LS?tag=rvgearlab-amz-20",
     "description": "This kit includes five 100W ETFE flexible monocrystalline panels, so the array adds up to 500W, plus a 40A MPPT controller with an LCD that shows voltage, panel status, battery state of charge and DC load. The listing says each panel is 0.1 inches thick and weighs 4.4 pounds, with an IP68 junction box, a bypass diode and protection against overcharge and reverse current. The controller has adjustable settings for lead acid, AGM, gel and lithium. It costs $579.\n\nIt is the only 500W kit here that pairs five panels with an MPPT controller and a display. The Bump ETFE 5x100 at $399 costs $180 less but uses a PWM controller. A 40A MPPT controller on a 12V battery tops out near 560W at about 14V, which fits a 500W array with a little margin.\n\nPick this if you want MPPT efficiency and a readout, and the roof calls for flexible panels. The caveat is $579 buys panels that are thin and glued down, and the listing gives no warranty term in the feature text.",
     "specs": [
       "5 x 100W ETFE flexible",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517LZZl3owL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2HB1FRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2HB1FRH?tag=rvgearlab-amz-20",
     "description": "This kit holds two 250W flexible monocrystalline panels (500W), each 960 by 1340 millimeters, plus a 50A controller, MC4 connectors and mounting accessories. The listing publishes full electrical data: 20V operating voltage, 23.5V open circuit voltage, 12.5A operating current and 15.6A short circuit current per panel, and says it suits 12V and 24V battery systems with anti-reverse flow and short circuit protection. It costs $599.\n\nIt is the most expensive kit here, $20 above the AUECOOR MPPT 5x100, but it is the only one that publishes panel voltage and current, so you can check them against a controller. Two large panels mean fewer connections than five. Against the Dual 250 40A at $373.94, the extra $225.06 buys a 50A controller, listed accessories and full specs, not more watts.\n\nChoose it if you want to verify voltage and current before wiring. The caveat is the listing does not say whether the 50A controller is PWM or MPPT, which changes how much of the 500W you actually harvest.",
     "specs": [
       "2 x 250W flexible panels",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x84JbIM3S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098JFVB6V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098JFVB6V?tag=rvgearlab-amz-20",
     "description": "The Bump ETFE 5x100 includes five 100W flexible panels with a bump-surface ETFE film that the listing says passes 95% of light and reaches up to 22.5% conversion, plus a 50A PWM controller and connectors. The panels weigh about 30% of a glass-framed panel, can bend to about 30 degrees and have six grommet holes for mounting. It costs $399.\n\nIt is $180 cheaper than the AUECOOR MPPT 5x100 with the same five-panel layout, but the controller is PWM, which pulls the array's voltage down to battery voltage. As an estimate with typical 18V panels, 500W of panels at roughly 27A on a 13.5V battery delivers near 365W, a loss that MPPT would mostly avoid. It is also $25.06 above the Dual 250 40A, which uses two panels instead of five.\n\nPick this if you accept PWM losses for a lower price and want five modular panels you can place around roof obstacles. The caveat is the loss in output, so size the array knowing you will not see 500W.",
     "specs": [
       "5 x 100W ETFE flexible",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PAaG7xT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Z23J16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Z23J16?tag=rvgearlab-amz-20",
     "description": "This kit adds up to 500W from five 100W flexible monocrystalline panels with a 50A controller that includes a USB port. The listing says each panel can bend up to 20 degrees, has six 10mm stainless steel hanging holes, rounded corners, an IP67 junction box with a 0.9 meter PV lead and a bypass diode, and weighs 70% less than a traditional panel. It costs $569.\n\nIt costs $10 less than the AUECOOR MPPT 5x100, but the listing does not state MPPT, so assume PWM and its losses, and it lists the least bending range of the five-panel kits at 20 degrees against the Bump ETFE 5x100's 30. It costs $170 more than the Bump ETFE 5x100 with a USB port as the main visible extra. At $569 for 500W it is hard to justify against the AUECOOR kit.\n\nChoose it if the USB port on the controller matters to you and the roof is only gently curved. The caveat is its controller type is not described, so ask before buying.",
     "specs": [
       "5 x 100W flexible",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51MCeNAVfzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG9FYS69?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG9FYS69?tag=rvgearlab-amz-20",
     "description": "This kit includes two 250W ETFE flexible monocrystalline panels (500W) with six metal grommets each, a 40A controller and a stated use with AGM, gel and lithium batteries. The listing calls it a complete 500W kit and notes the ETFE surface resists heat, moisture and UV. It costs $373.94, or about $0.75 per watt.\n\nIt costs $225.06 less than the Dual 250 50A and $205.06 less than the AUECOOR MPPT 5x100, while giving the same 500W and fewer connections than the five-panel kits. What it gives up is detail: the listing gives no panel dimensions, no voltage or current figures and no controller type, so the 40A rating is the only electrical number. If that 40A unit is MPPT, it passes about 560W on a 12V battery.\n\nPick it if you want 500W in two panels at a low price and will check the controller type with the seller. The caveat is that there is no stated panel size, so confirm it fits your roof.",
     "specs": [
       "2 x 250W ETFE flexible",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41REm0IbdqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC37DSX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC37DSX6?tag=rvgearlab-amz-20",
     "description": "The Budget Dual 250 pairs two 250W flexible monocrystalline panels (500W) with a 40A charge controller named in the title. The feature text covers only the panels: six grommet holes, attachment with fasteners, silicone or adhesive tape, a sealed waterproof junction box and good low-light performance. It costs $249.99, about $0.50 per watt.\n\nIt is $124 cheaper than the Dual 250 40A and well under half the price of the AUECOOR MPPT 5x100, which is the most striking figure here. The listing says nothing about controller type, cables, connectors or panel size, so most of the saving is paid for in unknowns. Expect to verify the controller and probably buy mounting hardware.\n\nChoose it if price is the main constraint and you are willing to confirm details with the seller. The caveat is that the feature text does not say what ships with the controller, so check the product page and Q and A.",
     "specs": [
       "2 x 250W flexible panels",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TYodIldvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWRPPTFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWRPPTFL?tag=rvgearlab-amz-20",
     "description": "The Jlouneo 3000W is a 12V pure sine inverter built for AGM, gel and LiFePO4 batteries, with remote control and LCD monitoring. At $199.99 it has the capacity to start a full-size residential fridge compressor and clean waveform for the electronics.\n\nIt costs $30.00 less than the ZETAWALE 48V and $144.01 more than the YSOLX 1000W. The cleaner output and larger rating are why it ranks first for most coaches. Pick this if you have a 12V bank and a 18 to 25 cubic foot fridge. Caveat: 3000W at 12V can pull about 250 amps, so plan heavy cable.",
     "specs": [
       "3000W pure sine, 12V",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UFYASCvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMVFGJF9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMVFGJF9?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE 48V 2500W is a pure sine inverter with 5000W peak, designed for off-grid solar and residential energy systems, with overload, over-voltage and thermal protection. At $229.99 it is aimed at 48V banks, where the same load needs only a quarter of the current of a 12V system.\n\nIt costs $30.00 more than the Jlouneo 3000W while giving 500W less capacity, so the premium is for the 48V input. Pick this if your coach or tiny home already runs 48V lithium. Caveat: it cannot connect to a 12V battery, so it is the wrong choice for a standard RV.",
     "specs": [
       "2500W, 5000W peak",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dP3v+IQOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0927P7P66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0927P7P66?tag=rvgearlab-amz-20",
     "description": "The YSOLX 1000W is a modified sine inverter with three AC outlets, LED battery display and a silent cooling fan. At $55.98 it is the cheapest way to try powering a small fridge, but modified sine output is the weakest fit for compressors.\n\nIt is $144.01 below the Jlouneo 3000W and gives up pure sine and two thirds of the capacity. Pick this only for a compact or older fridge on short use. Caveat: modified sine can hum or overheat compressor motors, and many residential fridges start above 1000W, so confirm the nameplate first.",
     "specs": [
       "1000W modified sine",

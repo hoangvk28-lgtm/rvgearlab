@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZwssiiweL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HGR3S45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HGR3S45?tag=rvgearlab-amz-20",
     "description": "CamelBak Podium 24 oz is shaped to stay in most bike cages on road, gravel and mountain terrain. A high-flow self-sealing cap delivers more water per sip while helping prevent splatter, and the body squeezes easily with less hand fatigue.\n\nIt is the best everyday size of the group, with a cap that stays clean between sips. It is lighter and smaller than the 30 oz and 33 oz picks.\n\nRoad, gravel and trail riders who want a dependable bottle will like it. It is an easy bottle to grab and drink from without slowing down.",
     "specs": [
       "24 oz squeezable bottle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k0kO7WwfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCYZ8FM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCYZ8FM5?tag=rvgearlab-amz-20",
     "description": "HydraPak Breakaway Surge holds 30 oz in a lightweight, 100% BPA-free design with a minimalist single-wall build. Flexible, ultra-light materials and a grip groove make it easy to squeeze.\n\nIt holds more than the CamelBak Podium and is designed for bike cages across frame sizes. The grip groove helps you hold it without looking down.\n\nLong-ride cyclists and gravel riders will like the bigger volume. Fewer refills mean more riding time.",
     "specs": [
       "30 oz BPA-free bottle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417AA9t5-qL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT8QZWF3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT8QZWF3?tag=rvgearlab-amz-20",
     "description": "GEMFUL provides two 24 oz bottles made from food-grade PP plastic that is 100% BPA free. A self-sealing silicone valve allows one-handed squeeze-to-drink, and the ergonomic notch grip suits bike cages.\n\nTwo bottles at a price close to a single CamelBak give you a spare for the next rider or ride. The valve is leakproof.\n\nRiders who want a spare or a bottle for a partner will like the pair. Keep one in each cage or hand one to a friend.",
     "specs": [
       "Two 24 oz BPA-free bottles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aBlMf6k0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW6KD15C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW6KD15C?tag=rvgearlab-amz-20",
     "description": "ZEFAL Magnum holds 975ml (33 oz) of water and is made from premium polypropylene that is BPA free and odorless. A soft cap with a food-grade silicone nozzle gives a smooth drinking experience.\n\nIt is the biggest bottle in the group and the cheapest, which minimizes refill stops on long rides. The soft nozzle works one-handed.\n\nEndurance and touring riders will like fewer stops. One bottle can carry most of a medium ride.",
     "specs": [
       "975ml (33 oz) bottle",

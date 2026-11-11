@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lr+tkRv6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-amz-20",
     "description": "Maelstrom's 30 can bag has 5 insulated layers, including oxford fabric and a waterproof PEVA lining, and is rated to keep cold for up to 24 hours. It measures 14.43 x 8.97 x 10.14 inches and has multiple pockets and a bottle opener.\n\nIt states the longest hold time of any bag in this guide, and the pockets keep small items separate. It is also collapsible.\n\nChoose it for a day at the beach or a weekend picnic. It is compact and well-pocketed.",
     "specs": [
       "30 cans, 5 insulation layers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jtoQVQcZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F29DD5T4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F29DD5T4?tag=rvgearlab-amz-20",
     "description": "This Maelstrom has a top Velcro flap opening that lets you grab items without opening the zipper. It holds up to 30 cans plus 2 ice packs, and has 2 side mesh pockets and 2 front zip pockets.\n\nThe flap is what sets it apart from the zippered 30 can bag, which makes it faster for a drink run. It costs about the same.\n\nChoose it for a trip where people reach in constantly. Fewer zipper trips keep more cold inside.",
     "specs": [
       "30 cans plus 2 ice packs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mvOa8eN6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08D3FX898?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08D3FX898?tag=rvgearlab-amz-20",
     "description": "Lifewit's cooler bag holds 30 liters (7.9 gallons) and up to 50 cans, with 600D Oxford cloth on the outside. It measures 15.7 x 10.6 x 12.2 inches, and is collapsible and leakproof.\n\nIt is the largest bag in the guide, with space for a whole-family picnic. It costs about the same as the smaller Maelstrom bags.\n\nChoose it for a family day out, camping or shopping. It folds away when empty.",
     "specs": [
       "30L (7.9 gal), 50 cans",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aYUv3+0wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLB5TSXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLB5TSXH?tag=rvgearlab-amz-20",
     "description": "This Lifewit cooler bag is available in 20L, 30L and 40L sizes, holding 30, 48 and 72 cans. It uses tear-resistant Oxford fabric with a waterproof coating, a thickened PEVA lining and an insulating foam layer.\n\nThe size options let you match the bag to your trip, which a single-size bag cannot. It folds when not in use.\n\nChoose it if you want a size that fits exactly. It suits couples up to groups.",
     "specs": [
       "20L, 30L or 40L sizes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51saJxhs3FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNRYXZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNRYXZJ?tag=rvgearlab-amz-20",
     "description": "RealCool's 35 can bag has an insulating PEVA film lining with ultra-thick foam, a padded adjustable shoulder strap and a durable handle. An elastic rope on the outside holds a lunch cloth, and an upper compartment keeps food from being crushed.\n\nThe upper compartment protects soft food, which the plain bags lack. It is cheaper than the Maelstrom bags.\n\nChoose it for sandwiches and drinks on a day trip. It carries by strap or handle.",
     "specs": [
       "35 cans, PEVA and thick foam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IwKh3VBBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNT3B3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNT3B3H?tag=rvgearlab-amz-20",
     "description": "This second RealCool listing is the same 35 can collapsible bag. It has an insulating PEVA film lining, ultra-thick foam, a padded adjustable shoulder strap and a durable handle.\n\nIt is the lowest-priced bag in the guide and matches the other RealCool on described features. The upper compartment is the same.\n\nChoose it if you want the cheapest bag with a shoulder strap. It is a good second cooler for drinks.",
     "specs": [
       "35 cans, PEVA and thick foam",

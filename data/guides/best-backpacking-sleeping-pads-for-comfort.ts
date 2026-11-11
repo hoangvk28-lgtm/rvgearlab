@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318AFAYZnIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK526YPZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK526YPZ?tag=rvgearlab-amz-20",
     "description": "The Naturehike pad has a listed 6.5 R-value, an eight-layer aluminum molded structure and sidewalls. It is made from PFAS-free 20D nylon with TPU and is sold as an ultralight pad.\n\nCompared with the Klymit Static V, it adds sidewalls and much higher insulation. Against the Overmont, it is warmer and lighter.\n\nIt suits backpackers who want comfort in cool weather. The sidewalls keep you from rolling off.",
     "specs": [
       "6.5 R-value",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wJN9HQtAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXX7VX7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXX7VX7N?tag=rvgearlab-amz-20",
     "description": "The OGERY pad is a self-inflating memory foam mattress 3 inches thick. It has a foot pump, abrasion-resistant nylon and a non-slip base.\n\nNext to the Naturehike, it feels more like a bed and is quieter. Compared with the FNARMW, it is foam-filled rather than all air.\n\nIt suits comfort-first campers who do short carries. The foam fill minimizes sound.",
     "specs": [
       "3 inch memory foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gY2dMF+zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSW5VSX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSW5VSX2?tag=rvgearlab-amz-20",
     "description": "The Gear Doctors Ether weighs 17.5 oz and uses an ErgoCushion U-shape that varies thickness to cradle you. It packs to 8.6 by 3.1 inches with an anti-leak valve.\n\nAgainst the Klymit Static V, it shapes the body with U-chambers. Compared with the Overmont, it is lighter and smaller.\n\nIt suits comfort seekers who hike farther. It fills in about 90 seconds with its foot pump.",
     "specs": [
       "17.5 oz",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410mfp+zcHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085D7WXT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085D7WXT2?tag=rvgearlab-amz-20",
     "description": "The Klymit Static V is a V-chamber air pad that limits air movement and heat loss. It weighs 18.6 oz, packs to 3 by 8 inches and inflates to 72 by 23 by 2.5 inches in 10 to 15 breaths.\n\nCompared with the Ether, it is a bit heavier and thinner. Against the Naturehike, it costs less and has no listed R-value.\n\nIt suits comfort seekers who want a trusted shape. The 75D polyester is rugged.",
     "specs": [
       "18.6 oz, 3 x 8 inch pack",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z5pdCpL9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8GTQ9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8GTQ9N?tag=rvgearlab-amz-20",
     "description": "The Overmont pad is 75 by 27.5 by 4.7 inches, weighs 1.98 lb and folds to 9.8 by 4.7 inches. It uses 75D thickened pongee with TPU, a foot pump and a 300 lb capacity.\n\nCompared with the Klymit Static V, it is more than twice as thick. Against the FNARMW, it is lighter and thinner.\n\nIt suits comfort seekers who want thickness and a pillow. The 75D fabric is tough.",
     "specs": [
       "4.7 inch thick, 1.98 lb",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417R10LLAyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D17B74SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D17B74SZ?tag=rvgearlab-amz-20",
     "description": "The FNARMW pad is 5 inches thick with a built-in foot pump that inflates in 60 seconds. It uses 50D nylon with TPU and lists 800 lb capacity.\n\nCompared with the Overmont, it adds another 0.3 inch and a higher stated capacity. Against the OGERY, it is all air and lighter.\n\nIt suits campers who want maximum cushion and can carry it. It also works as a floor bed.",
     "specs": [
       "5 inch thick",

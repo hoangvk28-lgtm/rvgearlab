@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TSgDsDTgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8HZK3RN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8HZK3RN?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Softshell is a three-layer jacket with a TPU film laminated to the shell, a soft fleece lining and an adjustable hood. Two hand zip pockets, a left arm pocket and two fleece-lined pockets make five.\n\nCompared with the Outdoor Ventures Polar Fleece, it adds waterproofing and wind protection at a higher price. Against the Zeagoo hoodie, it is a technical shell rather than a casual layer.\n\nIt suits women who hike in cool rain and wind and want fleece warmth inside a shell. The listing pitches it for spring, autumn and winter.",
     "specs": [
       "TPU film waterproof shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KVlREjQTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXFCYL5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXFCYL5H?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Polar Fleece is made of 100 percent polyester at 320 grams for warmth, with a full zip, an adjustable drawstring hood and contoured side seams. Six pockets include four large exterior zip pockets, and an adjustable drawcord hem helps keep drafts out.\n\nAgainst the Outdoor Ventures Softshell, it is lighter and more breathable, without the waterproof film. Compared with the MoFiz, it has more pockets and a fitted, active cut.\n\nIt suits women who want a trail fleece with lots of zipped storage. The stretchy fabric moves easily.",
     "specs": [
       "320g polyester fleece",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Do2Dt921L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVV8V9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVV8V9V?tag=rvgearlab-amz-20",
     "description": "The MoFiz Long Fleece is 100 percent polyester thermal fleece described for cold days between 40 and 60 degrees Fahrenheit. A 30-inch shoulder-to-hem length in size XS, two side zip pockets, elastic cuffs and a hooded full zip complete the cut.\n\nIt is longer than the other fleeces here, which adds coverage over the hips. Compared with the Outdoor Ventures Polar Fleece, it is simpler with fewer pockets.\n\nIt suits women who want a long, warm layer for cool-weather walking and travel. Machine washing keeps it easy.",
     "specs": [
       "100% thermal polyester fleece",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oEKakBpRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5JVNNL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5JVNNL3?tag=rvgearlab-amz-20",
     "description": "The Zeagoo Sherpa Hoodie is a 52 percent cotton and 48 percent polyester blend with thick sherpa lining, a full zip, adjustable drawstring hood, ribbed cuffs and hem and two front pockets. The listing says to choose one size up for layering or an oversized fit.\n\nCompared with the Outdoor Ventures Polar Fleece, it is thicker and softer, and less technical. It sits near the same price.\n\nIt suits women who want a cozy, casual hoodie for chilly mornings and weekend trips. Machine washable.",
     "specs": [
       "52% cotton, 48% polyester",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41170EIPHwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ8Q53JR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ8Q53JR?tag=rvgearlab-amz-20",
     "description": "The Nantdog Teddy Hoodie is made of thick, plush sherpa fleece with a full-length zipper from hem to hood, a stand-up collar and an attached hood. A relaxed, oversized drop-shoulder fit and two large side pockets are included.\n\nIt is the least expensive jacket in the group and the most relaxed in fit. Compared with the Zeagoo Sherpa Hoodie, it has less detail and a roomier cut.\n\nIt suits women who want a snug, oversized layer for lounging and errands. The stand-up collar blocks wind a little.",
     "specs": [
       "Plush sherpa fleece",

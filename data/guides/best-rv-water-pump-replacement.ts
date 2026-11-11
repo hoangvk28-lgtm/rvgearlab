@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tm1v88bhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK9DKZS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK9DKZS9?tag=rvgearlab-amz-20",
     "description": "The wassermann 4008 replacement is a 3.0 GPM, 55 PSI four-chamber pump built to replace 4008-101-A65 and E65 models. It has a pressure switch and overheating protection and is described as integrating into the existing system.\n\nAgainst the FLUMEXXON, it is the same named-model replacement at a lower price. Against Kohree 4GPM, it matches the original flow rather than raising it.\n\nBest for owners replacing a 4008-101 pump who want the same behavior. Verify the model number on your old pump.",
     "specs": [
       "3.0 GPM, 55 PSI, 4-chamber",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51K4AFhGxdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6D6P2HZ?tag=rvgearlab-amz-20",
     "description": "The FLUMEXXON is a 12V, 3.0 GPM, 55 PSI four-chamber replacement for 4008-101-A65 and E65 pumps with a built-in pressure switch that starts when you open a tap. The listing calls it quiet and leak-tested.\n\nAgainst the wassermann 4008, it matches specs for slightly more money. Against Gidrox, it keeps the original flow instead of adding more.\n\nBest when the wassermann is out of stock. It is the same fit, so confirm the model.",
     "specs": [
       "3.0 GPM, 55 PSI, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WRJWWHaaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09878FQPJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09878FQPJ?tag=rvgearlab-amz-20",
     "description": "The Kohree 12V pump delivers 4 GPM with the pressure switch set to 55 PSI, a four-chamber diaphragm and self-priming up to 3 meters. It lists run-dry capability and thermal overload protection.\n\nAgainst the wassermann 4008, it raises flow to 4 GPM but names no model replacement. Against Gidrox, it runs at higher 55 PSI and costs more.\n\nBest when your old pump is not a named 4008 and you want a stronger flow. Check ports and mounting.",
     "specs": [
       "4 GPM, 55 PSI, 4-chamber",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNUk3lUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-amz-20",
     "description": "The Gidrox is a 12V, 4.0 GPM pump preset at 45 PSI with a 30 to 80 PSI adjustment range, a 10 foot self-prime and 40 dB noise stated. It lists a 158°F overheating cutoff, a run-dry safeguard and a rubber vibration-damping base.\n\nAgainst Kohree 4GPM, it lowers the preset pressure and adds adjustability for a lower price. Against the wassermann 4008, it offers more flow but no named fit.\n\nBest when you want gentler pressure on old plumbing. Do not raise pressure past what your fixtures tolerate.",
     "specs": [
       "4.0 GPM, 45 PSI preset",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EEynALAcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFB1FMKV?tag=rvgearlab-amz-20",
     "description": "The wassermann 4.0 GPM pump runs at 45 PSI with a pressure switch and ships as a kit with two 1/2 inch barbed adaptors, a 1/2 inch male thread adaptor and a debris filter. The listing says it can run from any 12V battery source.\n\nAgainst Gidrox, it includes adaptors and a filter but offers no adjustment. Against the wassermann 4008, it is a different, higher-flow model with no named fit.\n\nBest for a replacement where you need adaptors for a mismatched port. It is not a named-model drop-in.",
     "specs": [
       "4.0 GPM, 45 PSI, 12V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dOKjywiSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6PMVQ49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6PMVQ49?tag=rvgearlab-amz-20",
     "description": "The Kitvance is a 1/2 inch twist-on pipe strainer that mounts to the inlet side of a pump and keeps debris out. Its transparent plastic body lets you see when it needs cleaning.\n\nIt is not a pump, so it ranks last, but it helps protect any replacement from the debris that kills pumps. Compared with the kit that includes a filter, it is a stand-alone part.\n\nBest as an add-on when a new pump lacks an inlet strainer. It does not replace a pump.",
     "specs": [
       "1/2 inch twist-on strainer",

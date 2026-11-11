@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RpJrd7A9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0045CQELI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0045CQELI?tag=rvgearlab-amz-20",
     "description": "The GEAR AID Tenacious Tape is a 3 by 20 inch peel-and-stick roll that you cut to size for tears, holes, worn areas and damaged seams. The listing says the adhesive bonds permanently to nylon, polyester, vinyl, rubber, plastic and technical fabrics, and that it is sealed with a waterproof coating that withstands rain, snow and moisture. It costs about $6.\n\nCompared with the 4 by 63 inch rolls below it, the Tenacious Tape is a smaller roll, at about 60 square inches instead of roughly 250, so it costs more per square inch, yet it is the more compact one to carry in a first-aid pouch. It also becomes machine washable after 24 hours and stays flexible without peeling or cracking, which matters on a rainfly that gets packed tight. Against the GleamGlee glue just below it, the tape handles holes and tears, and the glue handles seams.\n\nIt makes sense for backpackers, tent owners who want one small roll for jackets and tarps as well as the tent, and anyone who prefers a clean cut-to-fit patch. The black roll blends with dark fabric.",
     "specs": [
       "3 x 20 inch peel-and-stick roll",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JgnJ8j2KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2SN6RB9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2SN6RB9?tag=rvgearlab-amz-20",
     "description": "The GleamGlee is a clear, flexible repair glue in a 60 ml, 2.12 fl oz tube that works as both an adhesive and a seam sealer. It cures into a flexible rubber seal that moves with the fabric, so it resists cracking and hardening, and the listing says one tube can seal seams or fabrics up to 60 feet or more. It costs about $7 and comes with an applicator.\n\nCompared with the Tenacious Tape above it, the GleamGlee has a different role: tape covers a visible tear with a patch, while this glue soaks into stitching, fills pinholes and bonds frayed edges, so it is the tool for a weeping seam or a fine leak. Against the Fadoub tape below it, the glue leaves no patch outline and no overlap, which is why it suits repairs in a place where a patch would peel, such as the corner of a seam.\n\nIt suits tent owners with older seams, families with canvas and vinyl gear as well as nylon, and anyone who wants a reliable repair for the edge of a floor or the stitching around a guy-line loop.",
     "specs": [
       "60 ml (2.12 fl oz) tube with applicator",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xR3mT2lhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMK9WH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMK9WH1?tag=rvgearlab-amz-20",
     "description": "The KING MOUNTAIN tape is a self-adhesive nylon fabric roll measuring 4 by 63 inches, enough for many repairs, and it costs about $6, the lowest price on the list. The surface is described as waterproof, wear-resistant and scratch-resistant, and the backing uses a fabric-specific adhesive that peels off without leaving residue when you remove it. The seller offers an exchange or refund if you are unsatisfied.\n\nCompared with the Tenacious Tape above it, this roll gives about four times as much material for about the same price, so it is the better pick for a family with several tents or a gear room full of jackets. Against the Oipiocy below it, it is a single roll rather than a two-roll set, which makes it the leaner purchase if one roll is enough. Instructions are simple: keep the area clean and dry, cut the patch to size, peel the backing paper and apply.\n\nIt works for tent owners, backpackers who want a stock of patches, and anyone mending down jackets, umbrellas and packs as well as tents.",
     "specs": [
       "4 x 63 inch self-adhesive nylon roll",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312GS7g1cgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ34WWPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ34WWPX?tag=rvgearlab-amz-20",
     "description": "The Oipiocy set includes two rolls of black self-adhesive nylon, each measuring 4 by 63 inches, for about $6.50, which makes it the largest total quantity on the list. The nylon is described as wear-resistant and scratch-resistant with a waterproof finish, and the adhesive is said to resist peeling and to remove cleanly without leaving residue. It can be washed by hand or in a machine after a 24 hour wait.\n\nCompared with the KING MOUNTAIN above it, the Oipiocy doubles the quantity for about 60 cents more, at roughly 504 square inches in total. Against the Fadoub rolls below it, the Oipiocy gives you two rolls for less money, which suits a group trip where one roll lives in the car kit and another in the pack. The listing says it is suitable for scratches, holes and other damage on down jackets, tents and similar gear.\n\nIt suits families, Scout leaders and anyone who wants a backup roll in the car kit and one in the backpack. The black color works best on dark fabrics and darker tent floors.",
     "specs": [
       "Two rolls, each 4 x 63 inches",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GAY9bBDnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44RM77T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44RM77T?tag=rvgearlab-amz-20",
     "description": "The Fadoub tape in translucent white is a 4 by 63 inch self-adhesive roll that the listing says bonds firmly to nylon, polyester, canvas, cotton, denim and blends. The instructions are minimal: keep the area clean and dry, cut the patch, peel and stick, with no sewing, no ironing and no heat gun. It costs about $8, the highest price among the tapes.\n\nCompared with the black Oipiocy above it, the Fadoub in translucent white blends into pale rainflies and light floors, so a repair looks less obvious, and the 4 by 63 inch roll is the same size as the KING MOUNTAIN. Against the gray version of the same tape below it, the translucent white is the better match for tents in white, cream and light blue, while gray suits mid-tone and gray fabrics.\n\nIt works for owners of light-colored tents and rainflies, anyone mending translucent gear such as a lightweight tarp, and campers who want one roll that also handles jackets, umbrellas and bags, as the listing describes.",
     "specs": [
       "4 x 63 inch roll, translucent white",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eHs9Xw0TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H448MBC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H448MBC2?tag=rvgearlab-amz-20",
     "description": "The gray Fadoub is the same 4 by 63 inch self-adhesive nylon tape at the same price of about $8, sold in a color that suits gray tents, silver tarps and mid-tone gear. It follows the same method: clean and dry the damage, cut to size, peel and stick, with no sewing or heat. The listing says one roll is enough for multiple repairs, from tiny pinholes to large tears.\n\nCompared with the translucent white above it, the gray version is the better match on darker or neutral fabrics, where a white patch would stand out. Against the Tenacious Tape above it, the Fadoub gives roughly four times the length of tape for a similar price, with the tradeoff of a less documented adhesive. A roll this size is enough for several tents, which is useful for gear shared by a group.\n\nIt makes sense for owners of gray tents, tarps and rain gear, and for shoppers who want a large roll in a neutral color where black would stand out on mid-tone fabric.",
     "specs": [
       "4 x 63 inch roll, gray",

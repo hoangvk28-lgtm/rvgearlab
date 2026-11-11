@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lxYWf+kzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2R5YGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2R5YGP?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 4500 starting watts and 3800 running watts from a 223cc 4-stroke engine with under 3 percent THD. It runs 6.5 hours at 50 percent load (1900W) and has a 120V 30A L5-30R twist-lock outlet, a 20A household outlet, a 12V 8A DC port and Eco mode.\n\nIt states the highest running watts of the four, 300 above the Champion models and 200 above the WEN, at the lowest price. It includes overload, short-circuit and CO sensor protection and low-oil shutoff, and the listing says it meets ANSI/PGMA G300.\n\nIt suits trailer owners who want maximum running watts and a CO sensor on a budget. An RV adapter is required for a TT-30 hookup.",
     "specs": [
       "4500 start, 3800 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qn+udD3YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJYPMWPQ?tag=rvgearlab-amz-20",
     "description": "The WEN 4500 uses a 181cc engine for 4500 surge watts and 3600 rated watts at 53 pounds. It has two 120V receptacles, a TT-30R RV receptacle, a 12V DC receptacle, two 5V USB ports, an intelligent data meter, a fuel shutoff and the WEN Watchdog CO shutdown sensor.\n\nIt adds a TT-30R plug that the PowerSmart 4500 lacks, which hooks directly into a trailer cord. The Watchdog turns the engine off if dangerous CO levels are detected.\n\nIt suits campers who want a direct RV outlet with CO shutdown and USB ports. It has a 3-year warranty.",
     "specs": [
       "4500 surge, 3600 rated watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410ii+zo8lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT8VJJB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT8VJJB?tag=rvgearlab-amz-20",
     "description": "The Champion 4500 RV Ready lists 4500 starting and 3500 running watts at 61 dBA with up to 14 hours of runtime on a tank. A 120V 29.2A RV outlet, a 20A household duplex outlet and CO Shield auto shutoff are included, along with an Intelligauge meter and EZ Start Dial.\n\nIt states 14 hours of runtime along with a decibel rating, details the WEN 4500 and PowerSmart do not give. The parallel kit (sold separately) links it to another Champion inverter of 2800 watts or higher.\n\nIt suits quiet campgrounds and RV owners who want brand support. Warranty is 3 years, backed by lifetime technical support.",
     "specs": [
       "4500 start, 3500 running watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RTwnbwRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-amz-20",
     "description": "The Champion 4500 Dual Fuel runs on gasoline or propane, with electric start, CO Shield auto shutoff and 61 dBA operation. It lists 4500 starting and 3500 running watts and up to 14 hours of runtime on gasoline, and the Intelligauge shows voltage, frequency and hours.\n\nIt adds propane and electric start to the Champion 4500 RV Ready, and the propane option stores longer than gasoline. The parallel kit is sold separately.\n\nIt suits campers who want fuel flexibility and a key-start convenience. It shares the same 3-year warranty as its sibling.",
     "specs": [
       "4500 start, 3500 running watts",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wJ9H8s-lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5WCXSCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5WCXSCQ?tag=rvgearlab-amz-20",
     "description": "The HINSTANT is an eight-person instant tent measuring 13 by 9 feet with an 85 inch height. Pre-attached thickened metal poles let it go up in 60 seconds, and 190T polyester taffeta at PU 2000mm, a rainfly, two doors and five B3 mesh windows with two bottom vents complete it.\n\nIt has a bigger floor and more wall height than the Naturehike, plus five windows and two vents. The Amazon Basics costs less and uses a telescoping frame.\n\nIt suits families who want a roomy cabin for gear and cots. The side vents help prevent condensation.",
     "specs": [
       "13x9 ft, 85 in tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418qs2Ew95L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSP52WX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSP52WX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics is an eight-person instant tent with a pre-attached telescoping frame that sets up in 60 seconds. It has a removable rainfly, sealed seams, an adjustable ground vent, mesh windows and ceiling and pre-attached guy lines.\n\nIt costs less than the HINSTANT and the other eight-person picks, and the listing is detailed on weather build. The HINSTANT gives more headroom.\n\nIt suits groups who want a simple, low-cost instant cabin. Interior pockets give small gear a place to sit.",
     "specs": [
       "60-second telescoping frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XwAXj+lML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVQ7JTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVQ7JTR?tag=rvgearlab-amz-20",
     "description": "The Naturehike Village is a 4 or 8 person instant tent measuring 12.96 by 8.86 by 6 feet. It uses 150D blackout fabric with a UPF50+ rating, a full rainfly, pre-attached poles for 60-second setup and five-sided ventilation.\n\nIt is the only pick with blackout fabric, and it costs well above the others. The listing says it sleeps 4 comfortably on two air mattresses and up to 8 only with ultralight sleep gear.\n\nIt suits groups who want a darker, cooler tent in sun. The ventilation windows give a 360 degree view.",
     "specs": [
       "12.96x8.86x6 ft, 4 or 8 person",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NTt4IYDpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCMT2R8V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCMT2R8V?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS is an SUV tent rated for 5 to 8 people, measuring 9 by 8 by 7.3 feet. An automatic frame sets up in about three minutes and a rainfly, two doors, six windows and a mesh starry-sky top are included.\n\nIt is the only pick that attaches to a vehicle, and its floor is smaller than the HINSTANT or Naturehike. The listing advises closing the car-facing doors in rain.\n\nIt suits car campers who want a connected space for gear and extra sleepers. Standing height is over seven feet.",
     "specs": [
       "5 to 8 person SUV tent",

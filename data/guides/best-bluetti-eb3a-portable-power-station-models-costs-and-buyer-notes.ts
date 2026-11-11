@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
     amazonQuery: "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41YTEqBbTsL._SL500_.jpg",
     specs: ["Capacity: 288Wh","Continuous output: 600W","Surge output: 1,500W","Listed weight: 9.4 lb"],
     specList: [{"label":"Capacity","value":"288Wh"},{"label":"Continuous output","value":"600W"},{"label":"Surge output","value":"1,500W"},{"label":"Listed weight","value":"9.4 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
     amazonQuery: "BLUETTI Portable Power Station AC180, 1152Wh LiFePO4 Battery Backup w/ 2 1800W (2700W peak) AC Outlets, 0",
-    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
     specs: ["Capacity: 1,152Wh","Continuous output: 1,440W","Surge output: 2,700W","Runtime claim: Up to 1 hours"],
     specList: [{"label":"Capacity","value":"1,152Wh"},{"label":"Continuous output","value":"1,440W"},{"label":"Surge output","value":"2,700W"},{"label":"Runtime claim","value":"Up to 1 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
     amazonQuery: "BLUETTI Elite 10 Mini Portable Power Station, 128Wh 200W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FS6429MD?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31VvYAA+NUL._SL500_.jpg",
     specs: ["Capacity: 128Wh","Continuous output: 200W","Listed weight: 4 lb","Runtime claim: Up to 50 hours"],
     specList: [{"label":"Capacity","value":"128Wh"},{"label":"Continuous output","value":"200W"},{"label":"Listed weight","value":"4 lb"},{"label":"Runtime claim","value":"Up to 50 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 100 V2 Portable Power Station",
     amazonQuery: "BLUETTI Elite 100 V2 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,800W","Listed weight: 25 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Listed weight","value":"25 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI Elite 30 V2 Portable Power Station 288Wh 600W LFP Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0F42HLLSC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

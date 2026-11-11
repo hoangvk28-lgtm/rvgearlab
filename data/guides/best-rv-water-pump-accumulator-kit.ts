@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UhThDxsfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYW19H54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYW19H54?tag=rvgearlab-amz-20",
     "description": "The AxleyHub RV Water Pump and Accumulator Tank System is a 12V DC kit with a 7.0 GPM, 70 PSI pump and a 1.0 L pre-pressurized accumulator tank. It includes full fittings and is described as quiet with an anti-vibration structure.\n\nIt pairs the highest flow in the AxleyHub range with the largest tank, a step above the 5.5 GPM kit and well above the GIRAVO. The larger tank gives the pump longer rests.\n\nBest for larger rigs with several fixtures. It also suits owners who want a complete set.",
     "specs": [
       "7.0 GPM, 70 PSI pump",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NZm61PrqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPCY35PB?tag=rvgearlab-amz-20",
     "description": "The GRahckv RV Water Pump is a 12V DC kit with a 4-chamber diaphragm pump at 6 GPM and 70 PSI shut-off, plus a 0.2 gallon 125 PSI pre-pressurized accumulator tank. The listing includes two 1/2 inch hose barbs, two rolls of PTFE tape and three hose clamps.\n\nNSK bearings are described as low vibration, and the pump self-primes up to 9.8 feet vertically. It costs about $100, the most among the kits.\n\nA great pick for a full install with parts included. It also suits owners who want long self-priming lift.",
     "specs": [
       "6 GPM, 70 PSI, 4-chamber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sC5fRcbuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYW65WH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYW65WH3?tag=rvgearlab-amz-20",
     "description": "The AxleyHub RV Water Pump and Accumulator Tank System delivers 5.5 GPM at 55 PSI with a 0.75 L 125 PSI pre-pressurized tank. The all-in-one kit includes the pump, the tank and fittings.\n\nAt 55 PSI it sits below the 70 PSI kits, which matches many RV plumbing ratings better. It costs the same as the 7.0 GPM kit.\n\nBest for owners who prefer a lower shut-off pressure. It also suits standard travel trailers.",
     "specs": [
       "5.5 GPM, 55 PSI pump",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GBLjnVVgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H94H8HQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H94H8HQ6?tag=rvgearlab-amz-20",
     "description": "The GIRAVO RV Water Pump with 0.75L Accumulator Tank is a 12V DC kit with 4.0 GPM, 240 GPH flow and a 45 PSI automatic pressure switch. It has a fixed mounting plate with 10 anti-vibration feet and a 3-chamber self-priming design with a brushless copper motor.\n\nIt self-primes up to 6.5 feet vertically and includes an inlet strainer. The 45 PSI switch is the lowest here.\n\nA good pick for small rigs and van builds. It also suits owners who want a lower shut-off pressure.",
     "specs": [
       "4.0 GPM, 45 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GKRLcti-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MUYL8F8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MUYL8F8?tag=rvgearlab-amz-20",
     "description": "The SEAFLO Accumulator Tank (SFAT-075-125-01) is a 0.75 L, 23.5 oz tank rated to 125 PSI with an internal rubber diaphragm. It reduces pump cycling and smooths flow.\n\nIt is a tank only, for owners who already have a pump. It costs about $36 and is maintenance-free.\n\nBest for adding an accumulator to an existing pump. It also suits replacement.",
     "specs": [
       "0.75L, 125 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416EK3YSW4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1VHD9VP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1VHD9VP?tag=rvgearlab-amz-20",
     "description": "The SYH&AQYE Accumulator Tank (NMAT-075-125-01) is a 0.75 L pressure tank with a 1/2 inch MNPT port for yachts, RVs and boats. Its listing describes a reservoir of air and water downstream from the pump that cushions pressure variations.\n\nIt costs about $34 and is described as compact, detachable and easy to install. Compared with the SEAFLO, it is slightly less expensive.\n\nA good pick for budget add-on installs. It also suits boats.",
     "specs": [
       "0.75L, 125 PSI",

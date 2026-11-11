@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's kit states 10,000 lb GTW and 1,000 lb tongue weight with a 2 inch shank and 2-5/16 inch ball. The head is solid carbon steel and the ball is chrome plated.\n\nIt states both ratings, unlike RVGUARD 1000 and WFLNHB 1000, and costs more than YATON. Its listing gives little on bar type.\n\nBest for a 1,000 lb tongue weight on a budget. Confirm the numbers that matter for a 1,000 lb tongue setup with the seller before buying.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mVNpl2ZjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQ3QKBP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQ3QKBP?tag=rvgearlab-amz-20",
     "description": "YATON's round bar kit states 10,000 lb GTW and 1,000 lb tongue weight with an adjustable shank. YATON's round bar load leveling hitch is listed at 10,000 lb GTW and 1,000 lb tongue weight with an adjustable shank. The listing describes forged solid steel with a black powder coat and says the design reduces sway and fishtailing.\n\nIt matches VEVOR 10000 lb on ratings and costs less. Its anti-sway claim is vague.\n\nBest for a low-cost round bar at 1,000 lb. Ask the seller what the anti-sway claim means in hardware terms before treating it as a sway system.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QbuWYLpDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-amz-20",
     "description": "RVGUARD's 1,000 lb kit includes adjustable sway control and a 2 inch shank. RVGUARD's 1,000 lb weight distribution hitch kit includes sway control, an adjustable 2-inch shank and a 2-5/16 inch ball.\n\nIt states the 1,000 lb class but no gross rating, unlike VEVOR and YATON. It costs a little more.\n\nBest for a buyer who wants included sway control. Confirm the gross trailer weight and bar type with the seller, since the listing leads with the 1,000 lb figure.",
     "specs": [
       "1,000 lb class with sway control",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ThBVCh7bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRJZ8CT3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRJZ8CT3?tag=rvgearlab-amz-20",
     "description": "WFLNHB's 1,000 lb kit has clamp-adjusted sway control that unclamps to turn off. WFLNHB's 1,000 lb weight distribution hitch kit includes sway control that is adjusted by clamp and turned off by unclamping. The listing describes lift brackets with locking pins and interchangeable spring bars that fit either side.\n\nIt costs about the same as RVGUARD 1000 and gives no gross rating. Its brand history is limited.\n\nBest for a switchable sway design at a low price. Ask the seller for the gross trailer weight and shank details before relying on it.",
     "specs": [
       "1,000 lb kit with sway control",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r3R3YNMML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGK61D8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGK61D8G?tag=rvgearlab-amz-20",
     "description": "Camco's Elite-S 48193 has built-in sway control and is titled 1,000 lb with a 1,200 lb text rating. Camco's Eaz-Lift Elite-S 48193 is a chain-free weight distribution hitch with permanent, built-in sway control using two points of steel-on-steel bracket friction. The title says 1,000 lb, while the listing text gives a 1,200 lb maximum tongue weight and 12,000 lb maximum gross trailer weight.\n\nIt costs more than the budget kits and has more tongue weight headroom. The title and text disagree.\n\nBest for a premium chain-free design with headroom. The title and text disagree, so confirm which rating applies before ordering for a heavy trailer.",
     "specs": [
       "1,200 lb max tongue, 12,000 lb GTW",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Sky-vx+bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4G5D8R4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4G5D8R4?tag=rvgearlab-amz-20",
     "description": "JKLESA's tongue weight scale reads up to 1,800 lb. JKLESA's trailer tongue weight scale measures up to 1,800 lb with 0.1 lb accuracy and needs no installation. It sits under the trailer coupler to read tongue weight, which is the number you need to size a weight distribution hitch.\n\nIt is not a hitch. It confirms whether the trailer truly carries 1,000 lb and costs a fraction of any kit.\n\nBest for measuring tongue weight before buying a hitch. It is a measuring tool, not a hitch, and it is worth owning when your trailer's tongue weight is uncertain.",
     "specs": [
       "Tongue weight scale, 1,800 lb",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PLNDOCENL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJ71HR34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJ71HR34?tag=rvgearlab-amz-20",
     "description": "PINSAI is a high-power rechargeable headlamp with a motion sensor and a claimed reach of up to 1650 feet. A roughly 4000mAh battery recharges in about 2.5 hours and a plastic body shrugs off knocks.\n\nAt about $25 it is the priciest pick and costs $12 more than the Foxelli. It has the biggest battery here, which suits full-weekend trips.\n\nIt suits campers who want a big battery and a motion switch. It is also good for fishing.",
     "specs": [
       "~4000mAh, 2.5 hour charge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512S1rQoalL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096M2M91S?tag=rvgearlab-amz-20",
     "description": "GearLight's S500 comes as a pack of two headlamps that weigh 1.8 oz each. They have seven modes, a 45 degree pivot and USB rechargeable batteries with a USB-C cable.\n\nAt about $24 it costs $1 less than the PINSAI and gives two lamps. Each lamp is lighter than the Foxelli.\n\nIt suits a couple or a family. Keep one as a backup.",
     "specs": [
       "Two lamps, 1.8 oz each",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511i1tGhwhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01BWQ4C7W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01BWQ4C7W?tag=rvgearlab-amz-20",
     "description": "Goldengulf is a waterproof headlamp suited to diving, swimming, hiking and fishing. It has three modes (high, low, strobe) and ships with a rechargeable battery and a charger.\n\nAt about $20 it costs $5 less than the PINSAI and is the only waterproof lamp for wet work. It gives up the motion sensor and the big battery.\n\nIt suits kayak and fishing camps. Rain is no concern.",
     "specs": [
       "Waterproof design",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410CUDAmrYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GD463NE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GD463NE?tag=rvgearlab-amz-20",
     "description": "Foxelli is a 160 lumen USB-C rechargeable headlamp that weighs 2.4 oz and gives up to 30 hours of light on a 4 hour charge. It reaches 200 feet and is IPX5 water resistant, with white or red light.\n\nAt about $13 it costs $12 less than the PINSAI and works well for kids and adults. It has the most runtime per lumen in the guide.\n\nIt suits kids, trail walks and bedtime reading. The ergonomic strap is adjustable.",
     "specs": [
       "160 lumens, 200 ft reach",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A20BA8AoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNRK925P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNRK925P?tag=rvgearlab-amz-20",
     "description": "Demlaies is a two-pack of rechargeable headlamps with a 230 degree wide beam, adjustable focus and eight light modes, including COB high, COB low and LED flood. Each gives up to 30 hours and fully charges in about 6 hours.\n\nAt about $12 it is the cheapest pick and costs half as much as the GearLight pack. It also includes a red light.\n\nIt suits campers who want a wide chores beam. Keep one lamp as a spare.",
     "specs": [
       "230 degree wide beam",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ML--iW4VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PF5VCMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PF5VCMH?tag=rvgearlab-amz-20",
     "description": "Everbeam H6 Pro is a 650 lumen headlamp with a tested 126 m reach, five modes, a wave sensor, a 1200mAh battery and an IPX4 rating. It runs 6.5 hours on white and 2.5 on high.\n\nAt about $19 it costs $6 more than the Foxelli and $6 less than the PINSAI. It is the lowest-priced sensor-switch lamp here.\n\nIt suits hikers who want a hands-free switch. The red mode saves night vision.",
     "specs": [
       "650 lumens, 126 m beam",

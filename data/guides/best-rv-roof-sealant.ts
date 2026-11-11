@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KuM52fCCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000BRF7QE?tag=rvgearlab-amz-20",
     "description": "The Dicor 501LSW-1 is a 10.3 oz white self-leveling lap sealant for RV roofing. It is described as sun-ray stabilized, non-staining and designed for smooth application on horizontal surfaces.\n\nCompared with the Lippert Alpha 1021, it is the white-only option with a brand known across RV roofs. Compared with the multi-packs, it is a single tube at a higher cost per tube.\n\nBest for owners who want a proven single tube. Check the membrane compatibility on the label.",
     "specs": [
       "10.3 oz white tube",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31km128m1zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DW8R93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DW8R93?tag=rvgearlab-amz-20",
     "description": "The Alpha Systems 1021 from Lippert is a low-VOC self-leveling lap sealant in a 10.3 oz tube, with a quarter-inch bead covering about 30 feet. It is listed for flat horizontal surfaces such as rooftops and around roof structures.\n\nVersus the Dicor 501LSW, it offers a stated coverage figure and color options but similar function. Versus the Lippert Alphathane, it is the low-VOC version.\n\nBest for owners who want a stated coverage number and color choice. Confirm membrane compatibility.",
     "specs": [
       "10.3 oz low VOC tube",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oroOMHpaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0858JZRSX?tag=rvgearlab-amz-20",
     "description": "The Lippert Alphathane 5121 is a self-leveling sealant for 5th wheels, travel trailers and motorhomes, with high-strength adhesion to wood, metal, glass and most roof materials. It is available in beige, gray, almond and white.\n\nCompared with the Alpha 1021, it names Alphathane and a high-strength adhesion claim instead of low VOC. Compared with the Dicor 501LSW, it adds color options.\n\nBest for flat surfaces where you want a strong bond. Check the label for membrane compatibility.",
     "specs": [
       "Self-leveling sealant",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NmfdS9p7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1294P1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1294P1S?tag=rvgearlab-amz-20",
     "description": "The Kohree RV roof sealant comes as a 4-pack of white self-leveling lap sealant. It is described as self-leveling within 30 seconds, low odor, and bonding to EPDM, TPO, PVC, aluminum, steel, glass and wood.\n\nCompared with the CUKWUYBY pack, it names more substrates and costs more. Compared with the Liquid Rubber, it lists specific membrane types.\n\nBest for owners with several details to seal. Confirm compatibility before bonding.",
     "specs": [
       "4-pack, white",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeKFpBzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV Lap Sealant is a 4-pack of white self-leveling sealant designed for horizontal roof details around vents, skylights, AC units, antenna mounts and seams. The listing says it is not for vertical use and that larger seams need a full roof system.\n\nCompared with the Kohree, it states limits clearly and is the more cautious listing. It costs more than the CUKWUYBY.\n\nBest for a pack of detail sealant with explicit use limits. Do not use it on vertical joints.",
     "specs": [
       "4-pack, white",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PDBD+IBmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZ48PGP8?tag=rvgearlab-amz-20",
     "description": "The CUKWUYBY is a 4-pack of white sealant described as self-leveling in 30 seconds with UV resistance and temperature tolerance. It lists bonding to EPDM, TPO, aluminum, brass, steel, glass, mortar and wood.\n\nCompared with the Kohree 4-Pack, it costs less but lists fewer details. Compared with Dicor 501LSW, it gives four tubes for a lower unit cost.\n\nBest for low-cost multi-detail sealing. Test adhesion on a small area.",
     "specs": [
       "4-pack, white",

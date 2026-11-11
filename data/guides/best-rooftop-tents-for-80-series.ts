@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CNo00J3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius 1 Plus XL is a hard shell sold as a 4 person tent with an ABS shell, an aluminum frame and a honeycomb panel layer for sound and thermal insulation. It has a 1.97 inch mattress, blackout fabric, a ladder and a setup of about 30 seconds.\n\nIt is the only pick here sold for four people, and it ships with roof crossbars for carrying gear. The WildFinder and HEYFUN tents cost less and sleep two to three.\n\nIt suits a family on a long expedition build with a strong rack. Replaceable tear-resistant fabric keeps it serviceable for years.",
     "specs": [
       "4 person hard shell",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vMn0i3JlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHKCYXFX?tag=rvgearlab-amz-20",
     "description": "The WildFinder is an aluminum hard shell that comes with a 7.5 foot telescoping ladder, a ladder organizer, LED strip, shoe organizers, three mesh windows and two mattresses. It lists stainless steel air pressure levers, a recessed marine pad and a condensation pad.\n\nCompared with the Naturnest it uses an all-aluminum shell and sits at a much lower price. Next to the HEYFUN it includes more accessories in the box.\n\nIt suits first-time rooftop tent buyers who want everything in one package. Level 6 wind resistance and 5000mm rainproofing are listed.",
     "specs": [
       "Aluminum shell, 7.5 ft ladder",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516NsWH4ewL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNC8F91?tag=rvgearlab-amz-20",
     "description": "The HEYFUN Adventurer Pro is an aluminum hard shell for 2 to 3 people that measures 83.86 by 51.57 by 7.00 inches closed and 62.99 inches tall when open. Hydraulic gas struts raise it in about 5 seconds, and it has a flocked-lining floor, a side awning and built-in LED lighting.\n\nIt stands taller than its Pioneer Pro cousin and costs less than the Naturnest. Compared with the WildFinder it opens faster and states exact dimensions.\n\nIt suits campers who want standing-height sleeping room. The closed profile is only 7 inches tall.",
     "specs": [
       "83.86x51.57 in footprint",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YWEI4dMhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-amz-20",
     "description": "The BVWBCR Triangle is a hard shell with an ABS shell and aluminum frame that includes an air conditioner duct hole and a removable winter thermal liner. The listing mentions an included solar panel and room for two adults and a child.\n\nIt is the only one of the four with a built-in air conditioner duct hole. Against the WildFinder it adds winter insulation and a thermal layer.\n\nIt suits campers who want a cold-weather liner and a cooling port on a heavy-duty rack. The two-adults-and-a-child sleeping space suits a small family.",
     "specs": [
       "Winter thermal liner",

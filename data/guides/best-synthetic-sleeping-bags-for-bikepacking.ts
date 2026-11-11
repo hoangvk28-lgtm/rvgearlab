@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic 40 is a 40 degree bag with Cirroloft synthetic insulation, a 24 oz fill weight and a total weight of 2 lb 6 oz. It packs to 15 by 8 inches uncompressed and has an integrated compression stuff sack with straps.\n\nIt is the only pick that prints a total weight and a stuff size, which is exactly what a handlebar-roll packer needs. Against the MalloMe Year Round it is lighter and rated for much cooler nights.\n\nIt suits bikepackers on three-season trips who want a recognizable brand and a bag they can plan around on paper. The line also comes in lengths from 5 ft 8 in to 6 ft 6 in.",
     "specs": [
       "2 lb 6 oz, 24 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416O8NMsIAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQ285X?tag=rvgearlab-amz-20",
     "description": "The MalloMe Year Round is a 50 to 77 degree F bag at about 3 lb, with a wipe-clean waterproof shell and machine-washable construction. It fits adults up to about 6 feet and is sold for kids and adults alike.\n\nIt weighs more than the Kelty Cosmic Synthetic 40 and rates only for warm nights, so it trades performance for easy cleaning and a lower price. Next to the Amazon Basics 50F it offers a wipe-clean outer that handles dewy morning tents.\n\nIt suits bikepackers on warm-weather overnights and group rides with shared gear. Expect to give it more space in the roll than the other two.",
     "specs": [
       "50 to 77 degrees F rated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oooMpA1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G636BM3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G636BM3S?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics bag is rated 50 degrees F and 10 degrees C, measures 84 by 31.5 inches and uses synthetic fill with an integrated hood. A compression carry sack is included, the shell is recycled polyester, and it is machine washable.\n\nIt costs less than the MalloMe Year Round and the Kelty Cosmic Synthetic 40, and its integrated loops make bundling the roll easy. Neither weight nor packed size is printed, which the Kelty does provide.\n\nIt suits first-time bikepackers and summer overnighters who need a cheap bag for warm nights. It also unzips fully to work as a blanket.",
     "specs": [
       "50 degrees F rated, synthetic fill",

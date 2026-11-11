@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BxXkKW9hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F32NCMYM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F32NCMYM?tag=rvgearlab-amz-20",
     "description": "The IPEROT combines 2,000 lumen headline output with a built-in 4,000mAh battery that the listing says gives 12 hours of continuous light. It has 9 modes including flashing and SOS, a strong magnetic base, USB-C charging, a thick aluminum alloy body and an IPX6 rating.\n\nIts battery is double the 2,000mAh of the HOTLIGH ZF8313, and it costs half as much as that model. It skips the RGB and UV sources of the HOTLIGH and delivers the longest run time.\n\nIt suits campers who leave a light on for a whole evening and want a magnet to park it on a metal surface. The aluminum body takes knocks.",
     "specs": [
       "2,000 lumens, 4,000mAh battery",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Sgi6zbRlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH2DLXBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH2DLXBG?tag=rvgearlab-amz-20",
     "description": "The HOTLIGH ZF8313 has a dual light source with 2,000 lumens at maximum and a 144 meter beam, a 2,000mAh battery charging in 2 hours over Type-C, and a full-color RGB breathing side light with 4 effects. The thick aluminum body has an IPX6 rating and a UV mode for trace detection.\n\nIt is the only pick with an RGB side light and a UV source, and the water rating matches the IPEROT. The battery is half the size of the IPEROT's.\n\nIt suits campers and tradespeople who want the extra lighting modes, including a signal light and a UV check for leaks. The magnetic body holds on a tent frame.",
     "specs": [
       "2,000 lumens, 144 m beam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NY1qeoqKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWC11XTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWC11XTZ?tag=rvgearlab-amz-20",
     "description": "The Huccbs 2-pack gives two slim flashlights, each with an 800 lumen main light and a side light, 11 modes in all, a battery power display and a magnetic body measuring 4.9 by 1.2 inches at 3.1 ounces. The aluminum alloy body is listed as waterproof.\n\nEach one fits a pocket and adds a power readout the other lights lack. The main beam is lower than the two 2,000 lumen units.\n\nCouples or families wanting one light for the tent and one for the truck are the audience. The side light covers close work.",
     "specs": [
       "Two flashlights, 800 lumen main",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gXPRSnxVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4NMS8JL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4NMS8JL?tag=rvgearlab-amz-20",
     "description": "The Bttfere 3-pack has three flat 600 lumen lights with front and top beams, 5 modes, a magnetic base and a pocket clip. Each measures 4.3 by 1 by 0.3 inches at 1.3 ounces, charges over USB-C in about an hour, runs more than 5 hours on low and carries an IPX4 rating with a 2 meter drop claim.\n\nIt is the lightest and slimmest here, with three lights for less than any other pick costs on its own. It has the lowest water rating, IPX4, so it handles splashes and not water jets.\n\nIt suits campers who want a spare light in every bag and a pocket light on a lanyard. The clip attaches it to a hat or pack strap.",
     "specs": [
       "Three 600 lumen flat lights",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n+5NlNnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B7L62LTD?tag=rvgearlab-amz-20",
     "description": "Countryman Coatings 100 percent silicone roof coating is a high-solids formula in a 4.75 gallon pail. The listing says it bonds to prepared metal, EPDM, fiberglass, SPF and modified bitumen without primer in most applications.\n\nAgainst Kohree, it offers a larger pail and a single coat application at the recommended rate. Against EverBond, it names its chemistry plainly.\n\nIt is the best match for owners with a large roof who want a stated no-primer silicone. Buyers focused on large no-primer jobs will find it a sensible match.",
     "specs": [
       "100% silicone",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xBDoSFOcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SVJKZVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SVJKZVV?tag=rvgearlab-amz-20",
     "description": "Countryman Coatings 100 percent silicone quart in light gray uses the same high-solids silicone formula. It is well suited to small areas and the listing says it bonds without primer in most applications.\n\nAgainst the 4.75 gallon pail, it is a patch-size container. Against Kohree, it comes in gray.\n\nIt fits spot repairs, vents or small rigs. It earns its slot for spot repairs.",
     "specs": [
       "100% silicone quart",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OCg3Xw8UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ97YN9?tag=rvgearlab-amz-20",
     "description": "Kohree RV Roof Coating is a 100 percent silicone white coating with heat-reflective properties and no primer needed according to the listing. One gallon covers 50 square feet.\n\nAgainst Countryman, it is a gallon-size at a lower cost. Against CUKWUYBY, it names silicone.\n\nIt suits owners with a small roof who want silicone without primer. It is a natural fit for small silicone jobs.",
     "specs": [
       "100% silicone white",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ell-sZFAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVWFX6X?tag=rvgearlab-amz-20",
     "description": "CUKWUYBY RV Roof Coating is a water-based, solvent-free white coating with a quick one-hour dry. The listing says no water-based primer is needed and that it works on EPDM, TPO, metal and fiberglass roofs.\n\nAgainst Kohree, it is water-based, where Kohree is silicone. Against EverBond, it states a one-hour dry time.\n\nIt suits owners who prefer a low-odor, water-based coating. Think of it as the pick for low-odor coatings.",
     "specs": [
       "Water-based, solvent-free",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vgg-EP8XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9VDVX7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9VDVX7G?tag=rvgearlab-amz-20",
     "description": "EverBond RV Roof Waterproof Sealant is a heavy duty elastomeric coating with a 1 gallon per 50 square feet coverage. The listing says it is solvent-free, low VOC and applied in one day.\n\nAgainst Countryman, it uses elastomeric wording. Against BEEST, it names a lifetime guarantee.\n\nIt suits owners who want a one-day elastomeric job. Buyers focused on one-day jobs will find it a sensible match.",
     "specs": [
       "Heavy duty elastomeric",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8vVuGuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-amz-20",
     "description": "BEEST RV Roof Coating is a white solar reflective coating covering 50 square feet per gallon in two coats. The listing says a 5 gallon pail covers RVs up to 30 feet.\n\nAgainst EverBond, it is lower priced. Against Kohree, it does not name silicone.\n\nIt suits budget buyers who want a flexible white coating. It earns its slot for budget flexible coating.",
     "specs": [
       "White solar reflective",

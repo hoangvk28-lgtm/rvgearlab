@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IzO2ExiaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZTK3MY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZTK3MY?tag=rvgearlab-amz-20",
     "description": "The Aokus lists 60000mAh with 22.5W fast charging, five-device charging and a built-in 3-in-1 cable. The listing states up to 11 charges of an iPhone 17 Pro and 0 to 50 percent in 30 minutes.\n\nIts listing spells out a charge time and per-phone charge counts, which the other four do not. Compared with the LQHUE, it skips the flashlight and favors the built-in cable, and next to the ZZI it carries a more detailed charge-count list.\n\nIt suits a camper wanting one big bank for a couple of phones and earbuds. Overcharge, short-circuit and temperature protection are named.",
     "specs": [
       "60000mAh, 22.5W fast charge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+KoGwntqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJR8466L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJR8466L?tag=rvgearlab-amz-20",
     "description": "The LQHUE lists 22.5W fast charging with three USB-C outputs, one USB-C in/out, plus Micro and Lightning inputs. It adds a flashlight, an LED display and a 36-month warranty with a USB to USB-C cable.\n\nIt beats the Aokus with a light and more inputs, and it names a 36-month warranty. The three USB-C outputs also suit newer phones that skip USB-A.\n\nIt suits a camper who wants a lamp and a bank in one lump. The display shows remaining power as you charge.",
     "specs": [
       "60000mAh, 22.5W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q9ZTaLtXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2Q54MPJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2Q54MPJ?tag=rvgearlab-amz-20",
     "description": "The Easesolo lists PD 4.0 and QC 4.0 at 22.5W with one USB-C in/out and three USB outputs. It has Micro, Lightning and USB-C input ports, a flashlight and a percentage display.\n\nIt lists Micro, Lightning and USB-C inputs for recharging, which helps a camper holding an iPhone cable. Compared with the LQHUE, it has three USB-A outputs where the LQHUE has more USB-C.\n\nIt suits a group that mixes older USB-A gear with new phones. The three input types make recharging easy with whatever cable is on hand.",
     "specs": [
       "60000mAh, PD 4.0 and QC 4.0",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-uupn-CNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFN1NK3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFN1NK3J?tag=rvgearlab-amz-20",
     "description": "The IAPOS measures 15 x 7.5 x 2.8 cm and weighs 15.5 oz, with two USB-A ports, one USB-C and an integrated 3-in-1 cable for five devices. It supports PD, QC, SCP and FCP protocols and a digital display.\n\nIt is the lightest of the 60000mAh picks, ahead of the Aokus and LQHUE on weight listed. The protocol list is longer than the Easesolo's, so more phone brands get their preferred fast mode.\n\nIt suits a camper who wants maximum capacity in a bag that must stay light. The AI chip adds multi-level protection.",
     "specs": [
       "60000mAh, 15.5 oz",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519HeN8aHCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFM8CX6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFM8CX6Y?tag=rvgearlab-amz-20",
     "description": "The ZZI lists 22.5W PD fast charging on a 60000mAh cell with a 3-in-1 nylon braided cable and an LED screen. It measures 5.8 x 2.9 x 1.1 inches, five-device charging and five layers of protection.\n\nIt is the least expensive of the five, with the same 22.5W output as the rest. Against the IAPOS it gives up weight data and gains a tougher braided cable.\n\nIt suits a budget camper who wants the same 22.5W at a lower cost. The thin profile slides into a pack easily.",
     "specs": [
       "60000mAh, 22.5W PD",

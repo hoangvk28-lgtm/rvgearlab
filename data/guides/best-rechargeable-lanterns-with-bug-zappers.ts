@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxW7AXWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FM5N4Z9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FM5N4Z9Y?tag=rvgearlab-amz-20",
     "description": "The Flowtron combines a zapper and lantern with a 2000mAh battery that runs 24 hours as a lantern or 16 hours zapping. UV light draws insects to a high-voltage grid covering up to 2150 square feet, and USB-C charges it.\n\nIt pairs a self-cleaning internal brush with a stated 24 hours as a lantern and 16 hours zapping. An outer grill blocks accidental finger contact, which the Stansport and Kittmip do not describe.\n\nIt suits campers who want a steady or flame-effect lantern and a tidy zapper for a tent or table. The brush cuts down on manual cleaning.",
     "specs": [
       "2000mAh, 24 h lantern, 16 h zap",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319IFA+k1pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079W9N5Y9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079W9N5Y9?tag=rvgearlab-amz-20",
     "description": "The Stansport pairs a 180 lumen LED lantern with a 500V electrified grid and a 5W UV LED. It has low, medium and high settings, a 24 hour zapper runtime and 4 to 18 hours of light.\n\nIt is the only pick that states lumens and grid voltage, which the Flowtron and Kittmip do not. A retractable hook and loop make hanging simple.\n\nIt suits campers who want real task light alongside a zapper. A 24 inch micro USB cord is included.",
     "specs": [
       "180 lumens, 500V grid",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51PmCKZZHEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZQR8WQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZQR8WQD?tag=rvgearlab-amz-20",
     "description": "The Kittmip is a pack of two 3-in-1 lamps with spotlight, floodlight and mosquito killer modes. Each lamp is about 4.2 inches tall and 3.3 inches wide, with IPX5 waterproofing and an ABS body.\n\nIt supplies two lamps for use at two spots, which the single Flowtron and Stansport cannot. A small brush cleans the internal grid.\n\nIt suits campers who want a lamp per tent or table. IPX5 helps in damp weather.",
     "specs": [
       "Two lamps, 3-in-1 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c2jtqwKdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXYSGGCZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXYSGGCZ?tag=rvgearlab-amz-20",
     "description": "The BVOMVEN is a 2-in-1 lamp with a purple light mode, a soft warm ambient mode and solar or USB charging. It uses a physical electric design and is described as quiet and safe around babies and pets.\n\nIt is the only solar pick in the group. It sits on a desk or mounts on a wall.\n\nIt suits campers who want a gentle, quiet lamp for a tent or patio. The warm mode works as a night lamp.",
     "specs": [
       "Purple and warm light modes",

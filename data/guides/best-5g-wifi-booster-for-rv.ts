@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MqhBeoyfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYWXW9H4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYWXW9H4?tag=rvgearlab-amz-20",
     "description": "The TravlFi XTR Pro is a 5G RV router with speeds up to 200 Mbps, multi-network coverage and unlimited data with no SIM needed. It creates a private network rather than boosting existing signal.\n\nIt is the only pick that is a router with its own plan, which separates it from the three boosters. The subscription is a recurring cost on top of the hardware.\n\nBest for remote workers who want a Wi-Fi network from 5G. On the plus side, 5G speed class.",
     "specs": [
       "5G router, up to 200 Mbps",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LQPSZn81L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6ZVCL6R?tag=rvgearlab-amz-20",
     "description": "The HiBoost Travel 3.0 RV Max is a cell phone signal booster for RVs, vans and trailers that boosts 4G and 5G LTE. It has a 180 degree foldable outdoor antenna, a 360 degree omnidirectional indoor antenna and an app for setup.\n\nIt is a booster, so it improves phone signal and does not provide Wi-Fi by itself. The foldable antenna helps clear low garages.\n\nA fit for owners who want better phone bars in the rig. Worth noting on the listing: covers 4G and 5G LTE.",
     "specs": [
       "4G and 5G LTE cell booster",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k6Cn0mFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079TKZN1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079TKZN1B?tag=rvgearlab-amz-20",
     "description": "The SureCall Fusion2Go 3.0 RV is a cell signal booster for motorhomes and large vehicles with a permanent omni-directional antenna and a whip-style inside antenna. It boosts voice and 4G LTE data on 5G phones.\n\nIt is aimed at larger rigs and permanent installs, where the HiBoost suits folding use. The listing says it supports multiple users.\n\nGood for motorhomes with a fixed antenna. Worth noting on the listing: whip inside antenna.",
     "specs": [
       "5G-phone cell booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qqOhZNl0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJGG1PNK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJGG1PNK?tag=rvgearlab-amz-20",
     "description": "The SignalBrick is a 5G, 4G LTE and 3G booster for trucks and RVs that lists all carriers, a multi-user design and a communication distance of up to 5 to 8 miles. The outside antenna is described as rugged.\n\nIt is the lowest-priced booster here. The distance number is the maker's figure and depends on the tower.\n\nA fit for owners who want an inexpensive booster. Buyers also get this: rugged outside antenna.",
     "specs": [
       "5G, 4G LTE, 3G booster",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cNSLSyX9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY94KFLL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY94KFLL?tag=rvgearlab-amz-20",
     "description": "The Waveform OmniRoam is a 6-in-1 low-profile mobile antenna covering 4G LTE, 5G, Wi-Fi and GPS. It includes a magnetic mount with nine neodymium magnets and offers three mounting options.\n\nIt is an antenna for a router or modem, not a booster itself. It carries the widest mix of bands in the group.\n\nBest for owners upgrading a cellular router's antenna. Buyers also get this: strong magnetic mount.",
     "specs": [
       "6-in-1 4G, 5G, Wi-Fi, GPS",

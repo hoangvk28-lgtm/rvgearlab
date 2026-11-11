@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 is a 1024Wh unit with 1800W rated AC output and a 2700W Power Lifting mode. Its listing names a 10ms UPS switchover, 1200W TurboBoost AC charging to 80 percent in about 45 minutes, and a 30dB silent mode, in a 25 lb body.\n\nAgainst the AC180 it is lighter and charges faster. It matches the AC180's 1800W output with slightly less capacity, and it costs less.\n\nIt suits campers and home users who want a fast-charging unit that protects a router or desktop. The BLUETTI app adds Wi-Fi and Bluetooth monitoring.",
     "specs": [
       "1024Wh, 1800W, 10ms UPS",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC180 stores 1152Wh in a LiFePO4 battery and offers 1800W output (2700W peak) across 8 outlets. The listing names a 20ms UPS function, a full charge in about 1 hour at 1440W AC input, and 500W of solar input.\n\nIt has about 130Wh more capacity than the Elite 100 V2 and a five-year warranty. Its 20ms switchover is slower than the Elite, yet it still suits routers and many PCs.\n\nIt fits households who want a bigger battery and a long warranty alongside camping use. The solar charge takes about 2.8 to 3.3 hours.",
     "specs": [
       "1152Wh LiFePO4, 1800W output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS C600 holds 640Wh in LiFePO4 cells and delivers 600W rated and 1200W surge power through four AC outlets and eight total ports. It lists a 10ms UPS with pure sine wave output, four recharge methods and a 1.5 hour fast charge.\n\nIt is much smaller than the BLUETTI pair and costs about half as much as the Elite 100 V2. It also matches the Elite's 10ms switchover at a lower price.\n\nIt suits renters, remote workers and campers who want a router or laptop protected through outages. Cell cycle life is listed at over 4000 charges.",
     "specs": [
       "640Wh LiFePO4, 600W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX S2000 holds 2010Wh in 314Ah LFP cells, with 1500W continuous and 3000W peak output. Its listing cites a fridge backup of up to 35 hours, 10,000 cycles and up to 400W of solar input.\n\nIt stores nearly twice the energy of the AC180 and about three times the C600, which makes it the one for multi-day backup. The listing does not name a UPS switchover time, so treat it as a close match for capacity rather than a named UPS unit.\n\nIt suits campers and households whose priority is long runtime for a fridge and essentials. The body is listed as 30 percent smaller than the industry average.",
     "specs": [
       "2010Wh LFP, 1500W output",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hwYU94RjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS6CBVZG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS6CBVZG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 10 Mini is a 128Wh station with a 200W AC outlet, 100W USB-C fast charging and a built-in 10ms UPS with 350W bypass output. It weighs 4.0 lbs and fits in a backpack.\n\nIt recharges at 150W from AC and is listed as full in 70 minutes, which is far quicker than the 4 to 7 hours of the others. Bluetooth app control and three lighting modes add polish.\n\nIt fits anyone who wants a router and laptop backup at home and a camp station on weekends. The UPS function keeps devices running during a blackout.",
     "specs": [
       "128Wh, 200W AC, 4.0 lbs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eg7EkHYHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-amz-20",
     "description": "The Powkey R180 stores 192Wh in LiFePO4 cells and lists a 200W AC outlet, two USB ports, a USB-C port and two DC outputs. It weighs 4.7 lbs, measures 7.1 x 5.3 x 5.5 inches and has a foldable handle and a dual-white LED light.\n\nIt holds the most energy of the five, about 50% more than the BLUETTI. LiFePO4 chemistry adds longer life compared with standard lithium-ion.\n\nIt fits campers who put runtime first and do not need UPS or fast recharge. The foldable handle makes it easy to carry between sites.",
     "specs": [
       "192Wh LiFePO4, 200W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jaOhajS1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T48L6CF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T48L6CF?tag=rvgearlab-amz-20",
     "description": "The Flashfish holds 151Wh (40,800mAh) with a 200W AC outlet, two DC ports, two QC3.0 USB ports and a USB port. A LCD shows remaining power and separate AC and DC buttons keep controls simple.\n\nIt recharges by wall adapter in 4 to 4.5 hours, by car charger in about 5 hours and by a compatible Flashfish 60W panel in 5 to 6 hours. It automatically shuts off in case of overload.\n\nIt fits campers who want a straightforward station with clear controls. The wide set of ports covers phones, lights and small gear.",
     "specs": [
       "151Wh (40,800mAh), 200W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20",
     "description": "The MARBERO M822 has a 148Wh battery with a 110V AC inverter rated 200W and 270W max, two QC3.0 USB-A ports, two more USB-A ports and a PD USB-C port. Two LED flashlights act as a camping lantern.\n\nIt can be recharged by wall outlet in about 7 hours or by car adapter in about 9. The 270W max headroom lets it start devices with a brief surge.\n\nIt fits campers who want lighting and charging in one box. The top and side lights double as a tent lantern.",
     "specs": [
       "148Wh, 200W AC (270W max)",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a0xhn+KaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SN5YD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SN5YD8?tag=rvgearlab-amz-20",
     "description": "The Powkey 146Wh unit produces pure sine wave AC at 200W, with seven output ports and three recharge options. It weighs 3.0 lbs, measures 7.87 x 1.81 x 5.71 inches and ships with a carry handbag.\n\nIt is the lightest and slimmest of the five and the lowest priced. Pure sine wave output suits sensitive electronics such as laptops and camera chargers.\n\nIt fits backpackers, travelers and anyone who wants the lightest option. The handbag keeps cables with the unit.",
     "specs": [
       "146Wh, 200W pure sine wave",

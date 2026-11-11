@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j7N6asaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLW24S1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLW24S1Y?tag=rvgearlab-amz-20",
     "description": "The Columbia Men's Transverse is described with Omni-Tech multilayered waterproofing, Techlite cushioning with high energy return, and Omni-Grip traction for rock, dirt and gravel. The upper mixes leather and mesh and finishes with a cushioned collar.\n\nIt costs a little more than the Columbia Newton Ridge Plus II, and the extra buys seam-sealed construction rated for moderate rain and snow. Against the HUMTTO, it brings brand-defined systems instead of a general membrane description.\n\nIt suits men who want a trail boot that handles shoulder-season weather without leaving the budget. Metal hardware on the lacing holds up to repeated tightening.",
     "specs": [
       "Omni-Tech waterproof construction",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315X4JsHrJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLW4QVB4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLW4QVB4?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Plus II describes waterproof full-grain leather over a mesh bootie, plus a lightweight durable midsole. The lace-up closure and Omni-Grip multi-terrain tread are in the spec, along with a dual-zone winter tread pattern.\n\nCompared with the Columbia Transverse, it favors leather over mesh panels, which holds shape better across seasons. It is also the cheaper of the two Columbia boots by a clear margin.\n\nIt suits men who want leather durability and a famous name without hitting the price ceiling. The lace-up fit lets you tune pressure over the instep.",
     "specs": [
       "Waterproof full-grain leather",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fP5w5WeCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B97GLV9L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B97GLV9L?tag=rvgearlab-amz-20",
     "description": "The HUMTTO All-Terrain uses a HUMTTO-TEX waterproof membrane, a memory foam insole with arch support and an MD lightweight midsole. A rubber toe cap and reinforced heel protect against collisions.\n\nNext to the NORTIV 8 Ankle High, it adds the memory foam footbed and a stated membrane. It lands between the Columbia boots and the lower-priced picks on cost.\n\nIt suits men who stand and walk for long stretches and want soft underfoot comfort. The lugged outsole grips across a wide range of ground.",
     "specs": [
       "HUMTTO-TEX waterproof membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVGmhQDwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L5KC9Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L5KC9Z4?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Ankle High is built around a removable, shock-absorbent insole, lightweight flexible EVA midsoles and a rubber sole with advanced traction. The listing sells it for daily work as well as hiking, hunting and fishing.\n\nAgainst the NORTIV 8 Lightweight, it chooses broad flexibility over a toe cap, which makes it a more everyday boot. Next to the Aomigoct, it gives you waterproof claims for roughly twenty dollars more.\n\nIt suits men who want one budget boot for work, weekend trails and camp chores. Removing the insole opens the door to custom orthotics.",
     "specs": [
       "Removable shock-absorbent insole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bR9rssgBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53VM2LG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53VM2LG?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight names a waterproof membrane, a rubber toe cap and a reinforced heel. Soft suede leather and a multi-directional lug outsole give it a rugged look and feel.\n\nCompared with the NORTIV 8 Ankle High, it brings protective details that matter on rocky ground. It also slides slightly below that boot in price.\n\nIt suits men hiking rooty or rocky trails who want toe armor on a budget. The shock-absorbent midsole and removable insole keep it comfortable.",
     "specs": [
       "Waterproof membrane",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ep2LTDIjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHMS7MJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHMS7MJK?tag=rvgearlab-amz-20",
     "description": "The Aomigoct is a lightweight, breathable mesh boot with a soft inner lining, a thickened ankle structure and a rubber outsole made for wet rocks and loose gravel. Double-line lock-edge stitching and an anti-collision toe cap handle the rough stuff.\n\nIt is the one boot in this list that does not lead with waterproofing, which is why it sits at the lowest price. Against the HUMTTO, it trades the membrane for airflow in summer.\n\nIt suits men hiking dry trails in warm weather who want cheap, breathable boots. The thickened ankle area reduces friction.",
     "specs": [
       "Breathable mesh upper",

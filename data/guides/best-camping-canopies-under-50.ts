@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zGVyDiTxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5TYQFLT?tag=rvgearlab-amz-20",
     "description": "The ZENY 10x10 Pop-Up is a straight-leg canopy covering about 96 square feet under a 210D Oxford top on a powder-coated steel frame. It has three push-button height settings, comes with 8 ground stakes and 4 ropes and packs into a wheeled 600D carry bag.\n\nIt costs about $45, around $5 less than the Beach Tent Shade Canopy 10x10, and it is the only true steel-frame pop-up here. The wheeled bag makes the heavy frame manageable, which a fabric sun shelter does not need.\n\nIt suits campsites, tailgates and picnics where you want a quick shaded spot on grass. The height settings help with kids and chairs.",
     "specs": [
       "96 sq ft straight-leg canopy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512y1Xwd84L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRVN5FNV?tag=rvgearlab-amz-20",
     "description": "The Beach Tent Shade Canopy covers a 10 by 10 foot square with stretch spandex rated UPF 50+, with four corner sandbag pouches and four poles. It is rated for up to 8 people and sets up in about 5 minutes.\n\nIt costs about $50, the top of the budget and $5 above the ZENY 10x10 Pop-Up, and it is lighter and packs smaller than a steel frame. It is a sun shelter for sand and grass rather than a rain shelter.\n\nIt suits families at the beach or lake who want a lot of shade that one adult can set up. Fill the sandbags in a breeze.",
     "specs": [
       "10x10 ft UPF 50+ spandex",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51T3VsS5UDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKCYMBRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKCYMBRK?tag=rvgearlab-amz-20",
     "description": "The Abahub is a 9.2 by 9.2 by 6.6 foot screen house for four with two doors, a mesh body and a PU4000 top that blocks sun and light rain. It weighs 7.7 pounds packed and uses a manual tent-style setup.\n\nIt costs about $46, roughly $4 under the Beach Tent Shade Canopy 10x10, and it gives bug protection that open canopies do not. The manual setup takes longer than a pop-up.\n\nIt suits campers in buggy areas who want a place to eat and sit. It is not intended for heavy rain.",
     "specs": [
       "9.2 x 9.2 x 6.6 ft, seats 4",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mzSmqp65L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N17T55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N17T55?tag=rvgearlab-amz-20",
     "description": "The MAIZOA is a 75 by 51 by 75 inch screen house for 4 to 6 persons with a waterproof, sun-blocking fabric top and large mesh sides. It is described as easy for beginners to assemble without tools.\n\nIt costs about $48, $2 above the Abahub Screen House, and it is smaller and lower. It suits a family sitting together.\n\nIt suits campers who want a small bug shelter for a table and chairs. Its footprint is small and fits tight sites.",
     "specs": [
       "75 x 51 x 75 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512eaVeb7nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQDHCWB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQDHCWB3?tag=rvgearlab-amz-20",
     "description": "The UPWELL is a 10.5 by 8 foot umbrella-style canopy in durable polyester supported by five steel rods. It includes a removable UPF 50+ sunwall, four stakes, wind ropes, a metal pole and a carry bag.\n\nIt costs about $36, around $14 less than the Beach Tent Shade Canopy 10x10, and it sets up like an umbrella. The sunwall blocks wind and sun from one side.\n\nIt suits beach and park days for 2 to 4 people. A one-year warranty is included.",
     "specs": [
       "10.5 x 8 ft polyester",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aF25-QxIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-amz-20",
     "description": "The VEVOR Beach Canopy is a 7.5 by 7.5 foot pop-up shelter, 6.6 feet tall, in 180 g/m2 Lycra with UPF 50+. It has four large sandbags, two aluminum poles and elastic top cords, and anchors with sandbags or stakes.\n\nIt costs about $28, the lowest in the group and about $22 less than the Beach Tent Shade Canopy 10x10, and it is rated for common coastal breezes. It covers less ground.\n\nIt suits couples and small families on the beach or at a lake. It packs into a small bag.",
     "specs": [
       "7.5 x 7.5 ft, 6.6 ft tall",

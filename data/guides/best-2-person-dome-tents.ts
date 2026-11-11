@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JKurKZZlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HGW1QC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HGW1QC1?tag=rvgearlab-amz-20",
     "description": "The UNP 2-person dome measures 7 ft by 5 ft by 45 inches and weighs 4.8 pounds. A removable rainfly, two zippers, a skylight net, a larger mesh window and an interior storage pocket round out the setup, which the listing puts at 3 minutes for one person.\n\nAgainst the JELUCAMP it adds a skylight net and a storage pocket on a similar floor. The Coleman listing runs roughly twice the price.\n\nIt suits couples who want a standard two-person dome with a skylight and a fast pitch. One full air mattress fits inside.",
     "specs": [
       "7 x 5 ft, 45 in high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XC6vQGRqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSC7BB38?tag=rvgearlab-amz-20",
     "description": "The JELUCAMP is a 1 to 2 person dome at 86.6 inches by 59.1 inches by 43.3 inches. PU3000 coated polyester, 7.9mm fiberglass poles and a double-layer door make up the build, and the listed weight is 4.3 pounds.\n\nIt undercuts the UNP on price and weighs less, and the floor is a few inches longer at 86.6 inches. The listing is a size family sold for 1/2/4/6 people, and the 1/2 person version is the one described.\n\nIt suits solo campers or couples who want a light, inexpensive dome with a numeric waterproof rating. The double-layer door gives mesh-only ventilation on warm nights.",
     "specs": [
       "Floor 86.6 by 59.1 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LPn6klGSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QLQNS5?tag=rvgearlab-amz-20",
     "description": "The Coleman Sundome is sold as a 2/3/4/6 person size family, and this listing is described as designed for two campers. WeatherTec welded corners and inverted seams, Insta-Clip pole attachments, continuous pole sleeves and Polyguard fabric make up the build.\n\nIt costs the most of the three and adds a ground vent and large windows, plus a frame the listing says withstands winds of 35 mph or more. Compared with the JELUCAMP it is a better-documented weather system and a little heavier.\n\nIt suits campers who want a recognized brand and wind documentation for a car-camping weekend. Setup is listed at about 10 minutes.",
     "specs": [
       "2/3/4/6 person size family",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kNob5xLyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYP5CNH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYP5CNH9?tag=rvgearlab-amz-20",
     "description": "The Vogano is a high-frequency welded TPU soft cooler with a roll-top closure, 1 inch thick insulated walls and room for 36 standard cans plus 4 lbs of ice. The listing describes holding 34F for 12 hours in 90F heat.\n\nAgainst the Hydro Flask, it carries more than twice the volume and seals like a dry bag instead of a zipper. Against the Coleman Chiller, the welded roll-top removes the one place a zipper can leak or admit warm air.\n\nIt suits weekend campers and kayakers who need real hold time for a full cooler of food. Its padded 35 to 50 inch shoulder strap handles a loaded bag.",
     "specs": [
       "Welded TPU, roll-top seal",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bYrhFblDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HMZBFQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HMZBFQJ?tag=rvgearlab-amz-20",
     "description": "The Coleman Chiller is a 30-can soft cooler with TempLock insulation rated for 12 hours or more of ice retention. Welded seams, a recycled polyester exterior and a padded sling strap come standard.\n\nNext to the Maelstrom bags, it adds welded seams and a brand-named insulation system, which is where the extra spend goes. Compared with the Vogano above it, it gives up the roll-top and wall thickness in return for a much simpler to open and close.\n\nIt fits campers who want a dependable day-to-weekend cooler from a known outdoor brand. Zippered and mesh pockets keep ice packs and small items organized.",
     "specs": [
       "TempLock insulation, 12 hours plus",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3103IOOTQcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFFRR4PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFFRR4PB?tag=rvgearlab-amz-20",
     "description": "The Hydro Flask Carryout is a 15 L soft cooler with compression-molded body and insulation that keeps contents cold all day when used with an ice pack. The shell is 100% recycled polyester and carries bluesign certification per the listing.\n\nIt is the most carry-friendly of the five, with an ergonomic molded shape and removable FlexClip straps. It holds far fewer cans than the Vogano or Coleman, so it is the pick for day trips rather than loaded weekends.\n\nChoose it for day hikes, beach days and short camp outings where one bag carries lunch and drinks for two or three people. Its molded body rides comfortably on a shoulder.",
     "specs": [
       "15 L compression-molded body",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Mox97vtYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFCWPY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFCWPY7?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 30-can bag is built from five insulating layers, including Oxford fabric, a waterproof PVC layer, a 210D liner and food-grade PEVA, and the listing claims up to 24 hours of cold. It holds 30 cans in about 22L.\n\nAgainst the Double Deck Maelstrom, it trades the extra snack compartment for a simpler single main pocket and a fold-flat body. It also adds a bottle opener and side pockets that the Coleman skips.\n\nIt suits campers with tight storage who want a bag that packs flat at home and still carries a day of ice. The three carrying options suit hand, shoulder or strap use.",
     "specs": [
       "5 insulating layers",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mMANimB9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PD3D27J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PD3D27J?tag=rvgearlab-amz-20",
     "description": "The Maelstrom Double Deck is a 27L soft cooler weighing 1.98 lbs that holds up to 30 cans. A second upper compartment keeps snacks and utensils out of the ice zone, and five insulating layers are listed.\n\nCompared with the Maelstrom Collapsible, it has more volume and a dedicated dry deck, which means fewer trips into the main compartment and less cold air lost. It is lighter than the Coleman and cheaper than every pick above it.\n\nIt fits families and tailgaters who reach for snacks often and want the main chamber to stay shut. At under 2 lbs empty, it is easy to carry to the water.",
     "specs": [
       "27 L, holds 30 cans",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8IFO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8IFO?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1001 is rated for 10,000 lb trailer weight and 1,000 lb tongue weight, and its listing describes integrated 4-point sway control with weight distribution that transfers tongue weight to all axles. The listing says it works with bumper-pull trailers including those with surge brakes, and that the shank is not included.\n\nIt ranks first because the 1,000 lb tongue weight rating suits many mid-size travel trailers without riding stiff. The Equal-i-zer 1400 below handles more weight but a bar rated far above your tongue weight rides firmer, and the CURT picks use a spring and cam design instead of friction points.\n\nBest for a travel trailer in the 7,000 to 10,000 lb range with a tongue weight near 900 lb. Buy the shank separately and measure your receiver height for the drop first.",
     "specs": [
       "10,000 lb trailer, 1,000 lb tongue",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cv2MHxAmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR4MF4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR4MF4?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1401 is rated for 14,000 lb trailer weight and 1,400 lb tongue weight, with the same 4-point sway control design. The title says the weight distribution kit does not include a hitch shank.\n\nAgainst the Equal-i-zer 1000 above, it covers larger fifth-wheel style bumper pulls and heavy toy haulers but rides firmer when the tongue weight is light. It costs about $135 more than the 1000 for the extra capacity.\n\nBest for a trailer with a tongue weight above 1,000 lb. If your trailer is lighter, the Equal-i-zer 1000 will feel smoother.",
     "specs": [
       "14,000 lb trailer, 1,400 lb tongue",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318TnSnWXJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RZV1SJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RZV1SJ6?tag=rvgearlab-amz-20",
     "description": "The Equal-i-zer 90-00-1600 is rated for 16,000 lb trailer weight and 1,600 lb tongue weight, and the title says the kit includes a standard hitch shank. The listing says the maximum gross towing weight is 16,000 lb and describes sway control and weight distribution working together.\n\nCompared with the Equal-i-zer 1400 above, it adds a higher rating and includes the shank, which saves a purchase. It is also the most expensive hitch in this list.\n\nBest for the heaviest bumper-pull trailers where the shank is included and the rating headroom matters. Confirm the shank drop and ball size against your truck before ordering.",
     "specs": [
       "16,000 lb trailer, 1,600 lb tongue",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KfEUriqML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00O46ZO02?tag=rvgearlab-amz-20",
     "description": "The CURT 17500 TruTrack 4P is a weight distribution hitch whose listing describes four points of sway control, a welded head with cast pieces and forged trunnion-style spring bars. The title says 10K, and the listing says it uses a spring and cam system with hardened components instead of friction alone.\n\nIt costs about $55 more than the Equal-i-zer 1000 and uses adjustable brackets that give fixed support instead of chains. Compared with the CURT 17499 below it is listed as the 10K model.\n\nBest for a travel trailer owner who prefers a spring and cam design to friction points. The title says 10K, so confirm whether that means trailer weight and what tongue weight rating applies.",
     "specs": [
       "Four points of sway control",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s--HTl6ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0788C5QR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0788C5QR3?tag=rvgearlab-amz-20",
     "description": "The CURT 17499 TruTrack 4P has the same listed design as the 17500: four points of sway control, a welded head with cast pieces and trunnion-style forged spring bars. Its title states no weight rating.\n\nIt is slightly cheaper than the CURT 17500, but the title gives you no rating at all, which makes it harder to match to a trailer. Against the Equal-i-zer 1000 it costs about $45 more, and it is cheaper than the heavier Equal-i-zer 1400.\n\nBest for a buyer who has already confirmed the ratings with CURT and wants the lowest-priced spring and cam hitch here. Do not buy it until you know the trailer and tongue weight limits.",
     "specs": [
       "Four points of sway control",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41owy9HbDSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKJDDNL7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKJDDNL7?tag=rvgearlab-amz-20",
     "description": "The Nilight 800 lb round bar hitch is listed with 4-point swivel control using fixed support brackets, a heavy-duty 2 inch solid steel shank and a 2-5/16 inch ball. The listing says it is rated for 8,000 to 10,000 lb gross trailer weight.\n\nIt costs far less than any Equal-i-zer here, but the sway design is described as swivel control at two points, and ratings are lower than the 10,000 lb Equal-i-zer 1000. The shank and ball are included, which the Equal-i-zer picks do not offer.\n\nBest for a lighter travel trailer on a tight budget. Verify the tongue weight rating, because the title says 800 lb and the listing text is cut short on that point.",
     "specs": [
       "8,000 to 10,000 lb GTW",

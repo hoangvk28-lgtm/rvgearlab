@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tNnFZ5YxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY1ZCQSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY1ZCQSB?tag=rvgearlab-amz-20",
     "description": "The Lippert 10 foot extension is built with a 25 mil hose, the thickest wall number in this group. Bayonet-style swivel ends and included gaskets give it a leak-resistant link to an existing hose.\n\nIts wall edges past the 24 mil TPE of the RhinoEXTREME and SheeChungs, and it is sold as an extension rather than a full kit. The gaskets in the box are what set it apart from the thinner-priced RhinoFLEX 5 foot section.\n\nBest for owners who already own an elbow and want ten more feet of the sturdiest wall on offer. A good fit for rough pads.",
     "specs": [
       "10 ft, 25 mil hose",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-yTT5IFKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWK8FQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWK8FQC?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoEXTREME 10 ft pairs a 24 mil thermoplastic elastomer wall with a reinforced polymer core. It ships pre-assembled with swivel fittings and is made in the USA.\n\nIt costs about the same as the Lippert and wraps the wall in an abrasion-resistant exoskeleton rather than relying on thickness alone. Compared with the SheeChung 20 Ft Kit, it is shorter and stronger in construction.\n\nBest for people who want proven abrasion resistance on a short run. A durable pick for frequent travelers.",
     "specs": [
       "10 ft, 24 mil TPE",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j2vs1yHuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F23K8ZKK?tag=rvgearlab-amz-20",
     "description": "SheeChung sells this 20 ft kit as a crush-proof 24 mil TPE hose, finished with swivel bayonets that lock on four prongs and a see-through elbow adapter. It supplies twenty feet in one run.\n\nIt gives double the length of the RhinoEXTREME at a similar price and adds a clear elbow. The crush recovery claim is the heavy-duty feature it leans on.\n\nBest for larger rigs that need reach and toughness together. A practical pick for long runs.",
     "specs": [
       "20 ft TPE, 24 mil wall",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dmc-TdHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC3HTP2F?tag=rvgearlab-amz-20",
     "description": "The SheeChung 15 ft kit carries the same 24 mil TPE wall and crush-resistant design in a shorter length. Its 4-prong swivel fittings and clear 90 degree adapter match the 20 foot version.\n\nIt undercuts the SheeChung 20 Ft Kit by a modest margin and gives up five feet. Next to the Lippert, it brings an elbow the extension does not.\n\nBest for mid-length runs where toughness matters more than distance. A practical, balanced pick.",
     "specs": [
       "15 ft TPE, 24 mil wall",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KK+55UdqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OUMVSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OUMVSS?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 5 foot extension includes a 5 foot hose, a swivel bayonet fitting and a swivel lug fitting. It works with any sewer hose that has a bayonet fitting and compresses to 24 inches.\n\nIt is the least expensive heavy-duty-adjacent item and the shortest, fitting in a 4 inch square bumper. Unlike the Lippert, it adds a small length rather than ten feet.\n\nBest for owners who just need a little more reach with a swivel fitting. A handy spare in the storage bay.",
     "specs": [
       "5 ft RhinoFLEX hose",

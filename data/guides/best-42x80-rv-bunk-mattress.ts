@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wD-iKYlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX8CR38K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX8CR38K?tag=rvgearlab-amz-20",
     "description": "The Kogler 7-inch mattress measures 42 by 80 by 7 inches and uses a 2.0 pound high-density foam core under a softer gel-infused memory foam top. The two-layer build gives a firm yet comfortable feel, and the foam core holds its structure across the whole surface. It arrives rolled and compressed in a box that fits through truck cab and RV doors.\n\nCompared with the Kogler 6-inch below, the 7-inch adds an inch of foam for $10 more, which helps pressure relief for side sleepers. Compared with the FoamRush, it adds a thicker, more structured build and costs $29 more.\n\nIt suits a full-timer who sleeps on a bunk every night, a driver who wants more cushion in a sleeper berth and anyone with enough headroom for seven inches. The two-layer design keeps a supportive base under a soft top.",
     "specs": [
       "42 x 80 x 7 inches, gel-infused memory foam top",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31afNfJBaLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX8FXFHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX8FXFHF?tag=rvgearlab-amz-20",
     "description": "The Kogler 6-inch mattress measures 42 by 80 by 6 inches and uses the same two-layer design as its bigger sibling: a 2.0 pound high-density foam core under gel-infused memory foam. It is compressed for transport and sized for common semi-truck berths and select RV bed frames.\n\nCompared with the Kogler 7-inch, it saves $10 and an inch of height, which matters in a bunk with limited clearance. Compared with the Nesturialia, it adds a gel memory foam top for $30 more.\n\nIt suits a family bunk, a camper van berth or a sleeper cab where six inches is the right height. The firm base keeps the structure stable, and the soft top eases pressure points.",
     "specs": [
       "42 x 80 x 6 inches, gel-infused memory foam",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-RkI8GZFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YLDTTP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YLDTTP1?tag=rvgearlab-amz-20",
     "description": "The FoamRush 6-inch bunk mattress is a 42 by 80 inch medium-firm foam with a ventilated gel memory foam layer over a high-density support layer. The gel layer is infused with heat-capturing gel for pressure relief, and the foam is easy to cut with a serrated or electric knife if a bunk needs trimming. At $209.97 it sits between the Kogler 7-inch and the Nesturialia.\n\nCompared with the Kogler 6-inch, it costs $19 less and gives a medium feel with a ventilated gel layer. Compared with the Foamma, it adds two inches of thickness for $40 more.\n\nIt suits an RV owner with a bunk that has a corner cutout or a slightly off size, and someone who wants to trim the foam to fit. A ventilated gel layer helps with airflow.",
     "specs": [
       "42 x 80 x 6 inches, medium-firm",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KOPgBjhYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDPB9LH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDPB9LH3?tag=rvgearlab-amz-20",
     "description": "The Nesturialia foldable mattress measures 42 by 80 by 6 inches with high-density foam, a plush fleece cover with reinforced carry handles and a matching pillow in the box. The foldable design saves space and makes it easier to store, transport and position. It is vacuum compressed, expands to 90 percent within 10 minutes and reaches full size within 48 hours.\n\nCompared with the Kogler 6-inch, it costs $30 less and adds a fleece cover, handles and a pillow, while the Kogler has a gel memory foam top. Compared with the hoggisleep, it uses foam instead of an innerspring and costs $54 more.\n\nIt suits a sleeper cab driver who folds the bed to use the berth as a seat, a camper who wants a mattress they can carry, and a buyer who wants a complete kit. The fleece cover feels soft right out of the box.",
     "specs": [
       "42 x 80 x 6 inches, high-density foam",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419lFgmMFTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095XJNRF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095XJNRF6?tag=rvgearlab-amz-20",
     "description": "The FoammaUSA 4-inch bunk mattress is a 42 by 80 inch medium-firm gel memory foam made in the USA. It has an inch of gel memory foam over a 1.8 density, 44 pound compression high-density base, and it holds CertiPUR-US certification. Foamma says its mattresses last 7 to 10 years and offers custom sizes on request.\n\nCompared with the FoamRush, it is two inches thinner and costs $40 less. Compared with the hoggisleep, it uses foam and is $25 more.\n\nIt suits a bunk with very limited headroom, a buyer who prioritizes US manufacturing and certified foams or someone who needs a custom size. No cover is included, so plan to add a sheet or protector.",
     "specs": [
       "42 x 80 x 4 inches, gel memory foam",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418RwANUkJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXMGNCK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXMGNCK5?tag=rvgearlab-amz-20",
     "description": "The hoggisleep is a 42 by 80 inch, 6.5-inch innerspring mattress with high-tempered steel coils, a quilted top and a non-woven polyester cover rated MVSS-302. The listing cites compliance with FMVSS 302 and the 1633 mattress flammability standard. Made in the USA, it is built to replace thin factory foam in a sleeper berth.\n\nCompared with the Foamma, it is $25 cheaper and adds half an inch of height with spring support that resists sagging. Compared with the Nesturialia, it costs $54 less and trades a fold for a steel core.\n\nIt suits a driver who sleeps hot, a heavier sleeper who needs firm support and a buyer who prefers an innerspring feel. A tough cover resists wear from daily use, and the springs let air circulate.",
     "specs": [
       "42 x 80 x 6.5 inches, steel innerspring",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417KiUXdACL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F1YFN45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F1YFN45?tag=rvgearlab-amz-20",
     "description": "COLETTI's Scoutmaster is a 24-cup percolator made from 18/8 stainless steel with no aluminum or plastic. A reinforced steel wire handle lets you hang it over an open flame, or set it on a stove, grill or grate.\n\nAt 24 cups, it dwarfs the 9-cup Primula and Cididu, which means fewer batches for a crowd. It includes a one-year replacement warranty.\n\nChoose it for scout troops, family reunions and campground gatherings. It is the clear group pick.",
     "specs": [
       "24-cup 18/8 stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZY+ghH0EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008N7K9N0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008N7K9N0?tag=rvgearlab-amz-20",
     "description": "Primula is a 9-cup aluminum stovetop percolator with a matching lid and lipped spout. It heats evenly and brews in minutes on a stovetop.\n\nIt costs a fraction of the COLETTI and holds 9 cups. It is compact and classic.\n\nChoose it for groups of four to six, or as a second pot. It suits tight budgets.",
     "specs": [
       "9-cup aluminum percolator",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uNzt+MyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGHW7B66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGHW7B66?tag=rvgearlab-amz-20",
     "description": "Cididu is a stainless steel percolator holding about 40.6 oz, or 9 cups at 4.5 oz each. It has an inner basket, a grounds cover, a hinged lid and a dome to watch the brew.\n\nA rubber handle cover helps prevent scalds. It is stainless steel, unlike the Primula's aluminum.\n\nChoose it for a stainless pot over a fire. It suits groups of four to six.",
     "specs": [
       "About 40.6 oz, 9 cups",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEN+VJNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8R799MR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8R799MR?tag=rvgearlab-amz-20",
     "description": "Stansport is a stovetop percolator that works with any non-electric heat source, including gas flame, charcoal grill or fire. It fits most one-burner and two-burner camp stoves and has an aluminum base for fast heating.\n\nA permanent reusable filter replaces paper. It is more versatile on heat than the battery brewer.\n\nChoose it if you cook on a two-burner stove and want a simple pot. It suits groups at a camp kitchen.",
     "specs": [
       "Works on any non-electric heat",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gc89crJgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-amz-20",
     "description": "Odoland is a set with a 1.2L hard anodized aluminum kettle, a percolator, a foldable mug and a coffee filter. The listing says a full pot of water boils in under 5 minutes, using a gas tank or firewood.\n\nIt packs the smallest of any here, and it is a good second pot for tea. It costs less than the stainless pots.\n\nChoose it as a side brewer for a small group or a backpacking trip. It is a bonus mug set.",
     "specs": [
       "1.2L hard anodized kettle",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411oT4CWG9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1CB1MXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1CB1MXN?tag=rvgearlab-amz-20",
     "description": "BougeRV is a battery coffee maker with a removable 8Ah/144Wh battery that brews 5 to 6 cups of 8 oz per charge. It takes K-Cup pods, coffee powder and ground coffee.\n\nIt needs no stove or fire, which suits car camping with a power source. It is compact at 26.6 x 14.7 cm.\n\nChoose it if you want cordless brewing for a small group. It is a convenience pick.",
     "specs": [
       "Removable 144Wh battery",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tVXEbn-TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGWLRZNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGWLRZNG?tag=rvgearlab-amz-20",
     "description": "The PO PO BEAR is an 84 by 40 inch bag that the listing calls rectangular, with a pongee lining and a compression bag in the box. It is described as machine washable and named for car camping, trucking, hunting and RV trips.\n\nAgainst the HiZYNICE and the Coleman Heritage, it is the one that spells out the rectangular shape and costs the least of the group. The 40 degree label puts it between a warm-weather bag and the winter-class Coleman.\n\nIt suits tall campers and truck sleepers who want a roomy bag for mild to cool nights. The washable construction makes it an easy guest-room bag too.",
     "specs": [
       "84 by 40 inch rectangle",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KeBZJkCgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09825XKBF?tag=rvgearlab-amz-20",
     "description": "The HiZYNICE is a 90 by 39 inch giant sized for sleepers as tall as 6 ft 7 in. Its page prints three ratings, 30F for comfort, 15F as the limit and 0F as the extreme, plus a cotton flannel lining and a zipper draft tube.\n\nNothing else here is as roomy, and no other page prints three separate temperature figures. Compared with the PO PO BEAR, it is longer and colder-rated, and the dual-pull zipper makes it easy to open from either side.\n\nIt suits side sleepers and tall campers who want a long bag with a believable comfort number. Cabin and RV guests will like the flannel feel.",
     "specs": [
       "90 x 39 inch XXL size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41keO1KCq5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004J2FB5Y?tag=rvgearlab-amz-20",
     "description": "The Coleman Heritage Big and Tall pairs a 10F rating with a thick Holofill 808 fill, five pounds of it, inside a 40 by 84 inch body. A cotton cover wraps a synthetic flannel liner, and the length accommodates tall campers.\n\nNext to the HiZYNICE, it carries a colder rating and a thicker fill, and it comes from a long-known name in car camping. It is the warmest of these bags on paper, so it takes the cold-night spot.\n\nIt suits hunters and fall campers who sleep on an air mattress in a frosty field. The FiberLock fill keeps insulation from shifting.",
     "specs": [
       "10°F rated, 5 lb Holofill 808",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31McqzoK49L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001D6TB8W?tag=rvgearlab-amz-20",
     "description": "The TETON Celsius XXL carries a 0 degree label and is stuffed with SuperLoft Elite. Its soft liner is poly-flannel, the top ends in a half-circle hood, and layered construction with draft tubes holds the heat in. A stuff sack with strong straps rides along.\n\nCompared with the Coleman Heritage, it adds a hood that keeps your pillow clean and a right-hand zipper design. It sits close to the Heritage on rating, with a softer feel.\n\nIt suits tall campers at base camps and hunting camps where the nights run cold. The hood and flannel lining make it cozy on a cot.",
     "specs": [
       "SuperLoft Elite fiber fill",

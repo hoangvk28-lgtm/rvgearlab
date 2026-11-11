@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "32\"L x 24\"W x 24\"H Generator Tent Cover While Running Heavy Duty Outdoor Generator Covers Shed",
     amazonQuery: "32\"L x 24\"W x 24\"H Generator Tent Cover While Running Heavy Duty Outdoor Generator Covers Shed",
-    amazonUrl: "https://www.amazon.com/dp/B0G1S9S7C5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0G1S9S7C5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415x8pnT+8L._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "GenArmor Generator Covers While Running, 100% Waterproof Heavy Duty Tarps Generator Tent, Portable Outdoo",
     amazonQuery: "GenArmor Generator Covers While Running, 100% Waterproof Heavy Duty Tarps Generator Tent, Portable Outdoo",
-    amazonUrl: "https://www.amazon.com/dp/B0DBQFWR1X?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DBQFWR1X?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41yrxY1qOgL._SL500_.jpg",
     specs: ["Listed weight: 14 lb","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Listed weight","value":"14 lb"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Outdoor Generator Cover While Running Universal Portable Generator Tent",
     amazonQuery: "Outdoor Generator Cover While Running Universal Portable Generator Tent",
-    amazonUrl: "https://www.amazon.com/dp/B0F9WHHQ2T?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F9WHHQ2T?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41OuzFUAyML._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "GenArmor Generator Tent Cover while Running, 100% Waterproof Heavy Duty Tarps Generator Enclosure, Portab",
     amazonQuery: "GenArmor Generator Tent Cover while Running, 100% Waterproof Heavy Duty Tarps Generator Enclosure, Portab",
-    amazonUrl: "https://www.amazon.com/dp/B0DN4P4FGX?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DN4P4FGX?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/4177qY+Jg5L._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Westinghouse WGenTent Generator Running Cover",
     amazonQuery: "Westinghouse WGenTent Generator Running Cover",
-    amazonUrl: "https://www.amazon.com/dp/B0C4VLK4B7?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C4VLK4B7?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41cnxukDNFL._SL500_.jpg",
     specs: ["Product type: Backup-power accessory","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Product type","value":"Backup-power accessory"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "32\"L x 24\"W x 24\"H Generator Tent Cover While Running Heavy Duty Outdoor Generator Covers Shed product page",
-    "href": "https://www.amazon.com/dp/B0G1S9S7C5?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0G1S9S7C5?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

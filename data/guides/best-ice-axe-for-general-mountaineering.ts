@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/2100HIArepL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H946P44L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H946P44L?tag=rvgearlab-amz-20",
     "description": "The Grivel G1 SA is a classic mountaineering axe with a one-piece forged steel head with adze, an aluminum shaft and a steel spike. It is listed for glacier walking and classical mountaineering at 66 cm.\n\nIt uses a forged one-piece head, which gives it a traditional strong build. Compared with the CAMP Neve, it costs a bit more and describes forged steel in more detail.\n\nIt suits climbers who want a no-nonsense axe for glaciers and classic routes. The 66 cm length fits many users for walking.",
     "specs": [
       "66 cm, forged steel head with adze",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ESt9bz--L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V5NNYHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V5NNYHN?tag=rvgearlab-amz-20",
     "description": "The CAMP Neve is billed as a budget-friendly ice axe for general mountaineering with a chromoly steel pick and adze. The curved pick has a continuous drop for controlled self-arrest, and the adze breaks up firm snow.\n\nIt costs less than the Grivel G1 SA and the Petzl Glacier Linkin, and it uses chromoly steel for strength at low weight. It is the 65 cm size here.\n\nIt suits first-time mountaineers who need a real axe at a reasonable price. The pick shape helps with self-arrest practice.",
     "specs": [
       "65 cm, chromoly steel pick and adze",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hyDDwgpTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H71SC6B1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H71SC6B1?tag=rvgearlab-amz-20",
     "description": "The Ito Rocky Pro Beak is a 60 cm axe with a straight shaft that works as a cane on low-angle terrain and plunges cleanly into snow. Its pick gives grip for self-arrest, and the head and spike have holes for a carabiner or sling.\n\nAt 60 cm it is the shortest here, so it suits shorter users or steeper terrain. It costs the same as the CAMP Neve while adding anodized finish and clip holes.\n\nIt is for climbers who use the axe mostly as a walking support on glaciers. The carbon steel head curve is comfortable to hold.",
     "specs": [
       "60 cm straight shaft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sLrHkjNNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDM9FSVT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDM9FSVT?tag=rvgearlab-amz-20",
     "description": "The Petzl Glacier Linkin comes with a leash and a 68 cm shaft. The steel pick is tapered to 3 mm at the tip for anchoring, and the shaft has grooves for grip.\n\nIt costs the most of the five and includes a leash, which the others do not list. The stainless steel spike penetrates hard snow, and holes in the pick and spike lighten it and add clip points.\n\nIt suits mountaineers who want a premium, ready-to-use axe. The 68 cm length suits many climbers.",
     "specs": [
       "68 cm, 3 mm tapered steel pick",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kHIUJxWYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBYV7P2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBYV7P2L?tag=rvgearlab-amz-20",
     "description": "The Bobillow is a 70 cm aluminum alloy axe described as lightweight, with a curved toothed pick and a wide pick end for scraping ice and snow. The listing sells it for winter walking, hiking and skill training.\n\nIt is priced below every other axe here and is the longest at 70 cm, in aluminum alloy. It works as a walking pick on snowbanks.\n\nIt is best for walking, training and casual winter use. It is not a substitute for a rated mountaineering axe.",
     "specs": [
       "70 cm aluminum alloy",

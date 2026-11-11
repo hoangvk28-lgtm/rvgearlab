@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uZics1SfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003X2JUM6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003X2JUM6?tag=rvgearlab-amz-20",
     "description": "The Hilleberg Allak is a fully freestanding dome with two roomy vestibules, made by a Swedish tentmaker founded in 1971. The fly uses Kerlon 1200 fabric, a triple silicone-coated 30D ripstop nylon with very high tear strength, and the kit comes with three aluminum poles, a spare pole section with a repair sleeve, 12 aluminum V-pegs and pre-attached guy lines.\n\nCompared with the OneTigris Stella below it, the Allak has a different job. The Stella chases weight and low price with a 20D outer, while the Allak builds in a color-coded pole sleeve and clip system, adjustable ventilation, roll-away doors and a pole set designed for storm loading. A spare pole section and sleeve in the box means a broken pole can be fixed in the field, which budget tents rarely include.\n\nIt makes sense for winter mountaineers, guides, polar and alpine campers, and for anyone who plans to use one tent for many seasons and is willing to treat it as a long-term purchase at about $1,385.",
     "specs": [
       "Kerlon 1200 triple-coated 30D ripstop fly",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jMfAY3RIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX92MT4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX92MT4Y?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella weighs 4.4 lb, packs to 19.7 by 5.9 inches and pitches with flexible poles that cross at the dome top and anchor at four corners. The outer is 20D nylon with a single silicone coating rated at 3000 mm, the body is mesh for airflow and the floor is 40D nylon, and the set up size is 6.9 by 4.1 by 3.7 feet. It costs about $210.\n\nCompared with the GEERTOP tent just below it, the Stella is about 2.5 lb lighter than the 6.9 lb GEERTOP below, and its outer fabric is thinner, so it leans toward lightweight use over expedition strength. The kit includes ten stakes, four 8.2 foot guy lines and a storage bag. Compared with the Allak above it, the Stella costs about one sixth as much.\n\nIt works for backpackers on shoulder-season trips, cold-weather hikers who keep to sheltered terrain, and campers who value a light carry and a 3000 mm fly. It is a sensible pick when weight on the trail matters more than extreme snow load.",
     "specs": [
       "20D nylon outer, 3000 mm rating",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ED4WcOg1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016XI77P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016XI77P8?tag=rvgearlab-amz-20",
     "description": "This GEERTOP tent pairs a 20D ripstop nylon fly with an 8000 mm PU coating and a PU5000 bathtub floor, on a freestanding aluminum frame with a clip-on inner. Its fly can be pitched alone as a lightweight shelter with a spacious front vestibule for cooking or storing packs, and the listing highlights extended snow skirts and reflective guy lines for storm pitching at about $177.\n\nCompared with the Clostnature below it, the GEERTOP uses a much higher waterproof rating on the fly, 8000 mm versus the Clostnature's single-sided silicone coating, and adds the fly-only mode that the others lack. The freestanding aluminum pole system lets you set up quickly when weather turns, and the clip-on inner tent speeds pitching further. Against the Hilleberg Allak above it, it is a budget alpine tent rather than an expedition shelter.\n\nIt suits cold-season backpackers, ridge campers and anyone who wants a fly-first pitch for fast shelter, as well as shoppers who value a high waterproof rating at a mid-range price.",
     "specs": [
       "20D ripstop fly, PU8000 mm coating",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411uXh2QcEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNQXW7SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNQXW7SM?tag=rvgearlab-amz-20",
     "description": "The Clostnature uses a 20D nylon fly and a 40D nylon floor, both single-side silicone coated, with an integrated snow skirt that blocks wind and drifting snow. Its dual-function door gives you a fabric panel to zip closed in cold weather and a mesh inner door to open when it is warm, and the set up size is 82.68 by 53.15 by 45.28 inches on a freestanding aluminum dome frame.\n\nCompared with the GEERTOP 6.9 lb tent below it in the ranking, the Clostnature adds an integrated snow skirt and a one-piece aluminum pole system, which is quicker to assemble solo. Against the Underwood Aggregator at the bottom, it adds a 40D floor and a more detailed fabric specification, and its interior is a few inches roomier than the Underwood's 59.1 inch width.\n\nIt works for winter campers, motorcycle riders carrying a small kit and anyone who wants a snow skirt and door options at a modest price, especially for cold-weather car camping where weight is not the main concern.",
     "specs": [
       "20D fly, 40D floor, silicone coated",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316LrCn3lXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6386NJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6386NJX?tag=rvgearlab-amz-20",
     "description": "This GEERTOP model weighs 6.9 lb and uses a 210T ripstop polyester fly with a PU3000 mm coating, fully taped seams and a two-pole freestanding aluminum frame. The double-wall design pitches in about 5 to 8 minutes, and the listing describes interior pockets and vestibule areas for storing gear under cover, at a price near $118.\n\nCompared with the Clostnature above it, the GEERTOP gives you a lower price and a straightforward setup with two poles instead of an integrated one-piece set. Versus the Underwood Aggregator below it, the GEERTOP is more fully documented, with a waterproof rating, taped seams and a stated weight. Its 210T polyester fly is heavier than a 20D nylon fly but takes abrasion better when strapped onto a bike or motorcycle.\n\nIt is a sensible choice for beginners who want a double-wall tent with aluminum poles and a quick setup, for riders who carry gear on a vehicle rather than a back, and for cold-weather car campers who prize a low price.",
     "specs": [
       "210T ripstop polyester fly, PU3000 mm",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NtxswJ2yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BPXL5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BPXL5L?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is the least expensive tent here at about $80 and still lists a snow skirt for winter use, aircraft-grade aluminum poles and a full-coverage rain fly. The tent has a center height of 45.3 inches and a floor size of 59.1 by 86.6 inches, a two-way zipper, a lantern hook and a mesh pocket inside.\n\nCompared with the GEERTOP above it, the Underwood trims the price by roughly $38 while keeping aluminum poles and a snow skirt, which is the winter feature set most buyers are after. Its floor is 86.6 inches long, which is long enough for tall sleepers, and the two-way zipper makes the door easier to use with gloves on. The hook for a lantern is a simple convenience that cheap tents often skip.\n\nIt makes sense as a first winter tent, a backup shelter for a fall hunting camp, or a low-cost trial before committing to a more expensive four season model, particularly for campers in sheltered terrain.",
     "specs": [
       "59.1 x 86.6 inch floor, 45.3 inch peak",

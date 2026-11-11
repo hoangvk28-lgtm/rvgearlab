@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nSROQ3MsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D14FMFZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D14FMFZD?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA Pro 3 lists 4000W of AC output, 6000W with X-Boost and scaling up to 12000W, from a 4096Wh LFP battery. It supports 120V and 240V, expands to 48kWh with extra batteries or smart generators, and runs as low as 30 dB with X-Quiet technology.\n\nIt alone lists 4000W as a rated output rather than a peak figure, and its 4096Wh is the largest capacity in this group. The ABOK Ark3600 comes closest on stored energy at 3,840Wh with a 3,600W continuous rating.\n\nIt suits owners who run heavy loads such as a large air conditioner, a well pump or several tools at once. It also suits cabins and home backup where whole-house capacity can grow with add-on batteries.",
     "specs": [
       "4000W AC, 6000W X-Boost",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20",
     "description": "The ABOK Ark3600 provides 3,600W rated and 4,500W peak output from 3,840Wh of LiFePO4, expandable up to 11,520Wh. It has 15 output ports and comes with an extendable telescoping handle and durable wheels.\n\nIts 4,500W peak clears the 4000W mark that the Anker SOLIX C2000 Gen 2 and ALLPOWERS S2000 PRO only reach at surge. It also sits well under the EcoFlow DELTA Pro 3 on price while keeping a large battery.\n\nIt suits RV and cabin owners who want near-4000W capability with wheels for moving it. The expansion path means later battery additions are possible.",
     "specs": [
       "3,600W rated, 4,500W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iJKYxROtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVFGL38H?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX C2000 Gen 2 offers 2,048Wh with 2,400W rated and 4,000W peak output, six ways to recharge and a full charge in 58 minutes. Standby draw is 9W, and the listing says it can run most window and RV air conditioners.\n\nIt reaches the 4,000W figure as a peak, like the ALLPOWERS S2000 PRO, and recharges much faster while it expands to 4kWh. Compared with the ABOK Ark3600 it stores less, so it suits shorter runs of heavy loads.\n\nIt suits campers and tradespeople who need to recharge in about an hour between uses. Solar, AC and alternator charging let it refill in the field.",
     "specs": [
       "2,048Wh, 2,400W rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PRLL3a88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ9T8L9B?tag=rvgearlab-amz-20",
     "description": "The ALLPOWERS S2000 PRO lists a 2,400W pure sine wave inverter with 4,000W of surge capacity and a 1,451Wh battery. It charges 0 to 80 percent in about an hour with 1,500W AC, accepts up to 1,000W of solar and switches over in under 15ms as a UPS.\n\nIt is the least expensive pick and the smallest in capacity, so it sits below the Anker SOLIX C2000 Gen 2 on both. The 4,000W surge handles motor start-up for tools and compressors.\n\nIt suits home backup for fridges, routers and power tools where starting surge matters more than long runtime. It is the entry point to this wattage class.",
     "specs": [
       "2,400W, 4,000W surge",

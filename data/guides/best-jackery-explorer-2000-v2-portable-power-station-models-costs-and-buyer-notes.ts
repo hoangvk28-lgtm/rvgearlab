@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Explorer 2000 v2 Portable Power Station, 2042Wh, 2200W AC Output",
     amazonQuery: "Jackery Explorer 2000 v2 Portable Power Station, 2042Wh, 2200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-aYRSzjEL._SL500_.jpg",
     specs: ["Capacity: 2,042Wh","Continuous output: 2,200W","Listed weight: 39.5 lb","Runtime claim: Up to 6 hours"],
     specList: [{"label":"Capacity","value":"2,042Wh"},{"label":"Continuous output","value":"2,200W"},{"label":"Listed weight","value":"39.5 lb"},{"label":"Runtime claim","value":"Up to 6 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery Explorer 2000 v2 and 2x200W Solar Panels, 2042Wh, 2200W AC Output",
     amazonQuery: "Jackery Explorer 2000 v2 and 2x200W Solar Panels, 2042Wh, 2200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DG8NXM21?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DG8NXM21?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41ripynhqTL._SL500_.jpg",
     specs: ["Capacity: 2,042Wh","Continuous output: 2,200W","Listed weight: 39.5 lb","Runtime claim: Up to 6 hours"],
     specList: [{"label":"Capacity","value":"2,042Wh"},{"label":"Continuous output","value":"2,200W"},{"label":"Listed weight","value":"39.5 lb"},{"label":"Runtime claim","value":"Up to 6 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery HomePower 2000 Plus v2 Power Station, 2048Wh, 2400W AC Output",
     amazonQuery: "Jackery HomePower 2000 Plus v2 Power Station, 2048Wh, 2400W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0H33MZZ95?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0H33MZZ95?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31e-21VGloL._SL500_.jpg",
     specs: ["Capacity: 2,048Wh","Continuous output: 2,400W","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"2,048Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Battery chemistry","value":"LiFePO4"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 2000 Plus Portable Power Station, 2042Wh, 3000W AC Output",
     amazonQuery: "Jackery Explorer 2000 Plus Portable Power Station, 2042Wh, 3000W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C6DHK68Q?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C6DHK68Q?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31U-xkAN1wL._SL500_.jpg",
     specs: ["Capacity: 2,042Wh","Continuous output: 3,000W","Runtime claim: Up to 2 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"2,042Wh"},{"label":"Continuous output","value":"3,000W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
     amazonQuery: "Jackery Explorer 1000 v2 Portable Power Station,1070Wh,1500W",
-    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
     specs: ["Capacity: 1,070Wh","Continuous output: 1,500W","Surge output: 3,000W","Listed weight: 23.8 lb"],
     specList: [{"label":"Capacity","value":"1,070Wh"},{"label":"Continuous output","value":"1,500W"},{"label":"Surge output","value":"3,000W"},{"label":"Listed weight","value":"23.8 lb"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Explorer 2000 v2 Portable Power Station, 2042Wh, 2200W AC Output product page",
-    "href": "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DFG2WDQH?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

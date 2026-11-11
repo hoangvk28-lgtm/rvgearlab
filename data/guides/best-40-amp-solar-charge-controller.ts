@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q5-MTPdqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQJL7R1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQJL7R1H?tag=rvgearlab-amz-20",
     "description": "OOYCYOO's 40A MPPT lists 160V PV input, a recommended 500W at 12V and 99% tracking. OOYCYOO's 40A MPPT controller accepts solar voltage up to 160V and handles 12V, 24V, 36V and 48V battery systems with a four-stage charge (bulk, boost, float, equalization). The listing recommends 500W with 20 to 80V of PV on a 12V system and says charging parameters can be preset or user-defined.\n\nIt is better documented than AeternaSol 40A MPPT and EpRec 40A MPPT and handles 12V to 48V. It costs more than its sibling OOYCYOO 40A Controller.\n\nBest for a 12V to 48V rig with a 480W-plus array. It is a high-voltage-friendly 40A unit, so keep your series string inside the recommended window.",
     "specs": [
       "40A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y63v3FZeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G644D6DB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G644D6DB?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 40A MPPT auto-recognizes 12V or 24V with an LCD and dual USB. AeternaSol's 40A MPPT controller auto-recognizes 12V or 24V systems and shows system data on an LCD that doubles as a solar power meter. Dual USB ports and over-voltage and short-circuit protection are listed, and the title points at RV, boat and cabin use.\n\nIt costs less than OOYCYOO 40A Max 160V but gives no efficiency figure or PV limit. Ask the seller for them.\n\nBest for a 12V/24V RV on a mid budget. It sits in the mid-price band for 40A MPPT, so ask for the PV voltage limit before pairing it with a series string.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ExynjDRuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2M4SL54?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2M4SL54?tag=rvgearlab-amz-20",
     "description": "This OOYCYOO listing describes a 40A MPPT for 12V to 48V with the same 160V PV input and lithium support at a lower price. This OOYCYOO listing describes a 40A MPPT controller for 12V, 24V, 36V and 48V systems with a four-stage charge and solar input up to 160V. It names AGM, gel, flooded and lithium (LFP) batteries and a negative grounding design.\n\nIt reads like a near twin of OOYCYOO 40A Max 160V and costs less. It lacks the recommended-wattage detail.\n\nBest for a higher-voltage array on a tighter budget. It costs less than its sibling for what the copy describes as the same class of controller.",
     "specs": [
       "40A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ndvGBG6XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CM3VCBGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CM3VCBGL?tag=rvgearlab-amz-20",
     "description": "LNEX's 40A PWM is a super-thin waterproof unit with a temperature sensor and six charge stages. LNEX's 40A model is a thin, waterproof PWM controller with six charge stages and a temperature sensor, which is unusual among PWM units. It auto-detects 12V or 24V, has a backlit LCD and lists LiFePO4, LTO, gel, AGM, lead-acid and calcium batteries.\n\nIt is the only PWM here and costs far more than iSunergy 40A MPPT. It cannot recover extra panel voltage like the MPPT units.\n\nBest for a 12V-class array in a tight, damp spot. It is a PWM answer to 40A of panel current for owners who like the sensor, and a poor value next to MPPT at this price.",
     "specs": [
       "40A PWM, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51paw4y1PgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GBVNP67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GBVNP67?tag=rvgearlab-amz-20",
     "description": "iSunergy's 40A MPPT lists efficiency of 99.5% or better and a large LCD but a 23V PV cap on 12V. The 40A iSunergy lists tracking efficiency of 99.5% or better and an LCD that shows charge and discharge current, cumulative generation and temperature, plus light control with delay. It has two USB outputs rated at up to 2.5A and states that a 12V battery accepts at most 23V of panel voltage.\n\nIt is much cheaper than OOYCYOO 40A Max 160V yet limited to a single 12V-class panel or panels in parallel. It is framed for lead-acid batteries.\n\nBest for a cheap 40A on one 12V panel or a parallel set. One 12V-class panel, or several wired in parallel, is the intended use, and a series pair would exceed the stated limit.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oVcYUrePL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R2Z92K1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R2Z92K1?tag=rvgearlab-amz-20",
     "description": "EpRec's 40A MPPT is the lowest-priced unit with an LCD and dual USB. EpRec's 40A MPPT controller auto-adapts to 12V or 24V, with a multi-function LCD and dual USB ports. The listing explains that you connect the battery first and describes an industrial-grade chip with 16AD sampling and a tracking method that detects the maximum charging current.\n\nIt costs less than iSunergy 40A MPPT but publishes fewer specs. Confirm PV limits and warranty.\n\nBest for a cheap 40A where you will verify specs. Ask the seller for the max PV voltage and warranty terms before you rely on it.",
     "specs": [
       "40A MPPT, 12V/24V auto",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dPUEMdtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9M6KZHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9M6KZHX?tag=rvgearlab-amz-20",
     "description": "The YOUCIDI is a cordless propane heater listed at 1.17 lb and 6.3 x 5.12 x 3.74 in. Copper, aluminum alloy and ABS parts make up the body, and a low-pressure valve is advertised for steadier gas flow.\n\nIt is the lightest true heater in this guide and the only one with a stated weight. Against the Nirelief and the Generic 2-in-1 it drops the cooking mode, and against the stove covers it heats on its own without a separate stove.\n\nIt is the pick for a backpacker who wants a small propane heater for a cold camp. It comes with a foldable tank holder for a standard propane cylinder.",
     "specs": [
       "1.17 lb, 6.3 x 5.12 x 3.74 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XAFpLvRYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKC7QP3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKC7QP3K?tag=rvgearlab-amz-20",
     "description": "The Nirelief is a 7 by 8 in stainless steel propane heater with a handle and a removable top for a cooking mode. Its listing names camping, ice fishing, hiking and backpacking as uses.\n\nIt is a step up in function from the YOUCIDI because the same unit heats a tent vestibule and cooks a meal. Against the Generic 2-in-1 it has a simpler description and a higher price.\n\nIt suits a backpacker who wants one fuel device for both warmth and a hot meal. The stainless build is sturdy and easy to wipe clean.",
     "specs": [
       "7 x 8 in, stainless steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aLkf8AWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK2W5JYV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK2W5JYV?tag=rvgearlab-amz-20",
     "description": "This mini unit is a 2-in-1 propane heater and stove with stainless steel build, a stable base, an integrated flame guard and adjustable vents. The listing names backpacking, hiking, hunting blinds and fishing as uses.\n\nCompared with the Nirelief it costs a little less and lists a flame guard that can be removed to cook. Against the YOUCIDI it adds a stove mode, and against the cover-style options it burns real propane.\n\nIt suits hunters and anglers who want heat in a blind or small tent. A sturdy handle helps carrying.",
     "specs": [
       "Propane heater and stove",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41s9KzP22UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMFK5LH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMFK5LH2?tag=rvgearlab-amz-20",
     "description": "The Stranthother is a stainless steel heating cover that snaps onto a stove and spreads its warmth through ventilation holes and grooves. The listing names hiking, traveling and backpacking tents and shelters.\n\nIt is not a heater by itself, so it runs from the stove you already carry. Compared with the AMONIDA, it is described as lightweight and flexible and it needs no extra fuel.\n\nIt suits a minimalist who already packs a camp stove. It adds soft warmth around a shelter.",
     "specs": [
       "Stainless steel stove cover",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G3zk9-laL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09L4F1XQJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09L4F1XQJ?tag=rvgearlab-amz-20",
     "description": "The AMONIDA is a stainless steel heating cover for backpacking and hiking, with a double-layer heat dissipating structure and a handle. It is described as light and easy to carry and as fitting burners.\n\nAgainst the Stranthother it adds a handle and a double-layer design. It is the cheapest option here, while the propane heaters cost far more.\n\nIt suits a backpacker with a stove who wants extra tent warmth for little money. It carries easily for long trips.",
     "specs": [
       "Stainless steel cover",

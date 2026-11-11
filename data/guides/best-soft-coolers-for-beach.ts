@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uUNkTHJAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F74N733?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F74N733?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 75-can flip-top holds up to 75 cans plus two to four ice packs in a 13 gallon, 18 x 12 x 13.8 inch bag that weighs only 1.8 lbs. A five-layer structure with a PEVA liner ultrasonically welded is listed, plus a flip-top opening and a bottle opener.\n\nCompared with the Maelstrom 35-can, it doubles the capacity for a small step up in weight. Next to the Hulongo, it has a flip-top lid that closes fast and double stitching on reinforced straps for the load.\n\nIt is the best fit for big beach groups and family days where one bag carries drinks, lunch and snacks. The reinforced straps handle the weight when it is full.",
     "specs": [
       "75 cans, 13 gallon size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411e-3yT3QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D53D2Q94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D53D2Q94?tag=rvgearlab-amz-20",
     "description": "This backpack cooler holds up to 36 cans in 32L, with a thickened foam insulation, a leakproof liner and a hot-pressed seamless liner. The listing mentions an S-type strap, two front zipper pockets and a 22 hour insulation claim.\n\nIt is the only hands-free pick, which matters more than volume when the walk from the lot to the sand is long. Compared with the Maelstrom 75, it trades a lot of capacity for the freedom to carry a chair or umbrella.\n\nChoose it for long walks to the shore, boardwalk trips and anyone carrying kids or gear alongside the cooler. The S-type straps spread the load across both shoulders.",
     "specs": [
       "36 cans, 32 L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VrWXTclKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4YRMK1F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4YRMK1F?tag=rvgearlab-amz-20",
     "description": "The Hulongo 32L foldable cooler holds up to 48 cans and uses Oxford fabric with a waterproof coating and a 100% leakproof PEVA lining. It lists over 12 hours of temperature retention and three ways to carry it, including a two-person lift.\n\nIt sits between the Maelstrom 35 and the Maelstrom 75 on capacity, with a collapsible design the two Maelstrom bags do not highlight. The two-person carry option helps with a very full bag.\n\nPick it for beach days that also include a grocery stop. It folds flat when you get home.",
     "specs": [
       "32 L, holds 48 cans",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51j8WKbRNwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHRMGWYH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHRMGWYH?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 35-can flip-top is the smaller sibling at 1.69 lbs and 13.97 x 9.84 x 10.23 inches, with the same 5-layer insulation and flip-top lid. It holds 35 cans plus two to four ice packs.\n\nIt is easier to carry and store than the 75-can, and it fits in a car trunk or a beach cart without a fight. The flip-top and bottle opener carry over, so you do not lose features by choosing smaller.\n\nChoose it for couples and small families who want the same beach-ready design in a more manageable size. It is easy to stash behind a car seat.",
     "specs": [
       "35 cans, 1.69 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41blnfv9crL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXY3GLLH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXY3GLLH?tag=rvgearlab-amz-20",
     "description": "The TuErCao tote is a 15L bag measuring 11 x 8.66 x 10.63 inches that holds 24 330 mL cans plus ice. It uses 5mm EPE foam insulation, a waterproof leakproof lining and has a main compartment, a front zippered pocket, a velcro pocket and a back pocket.\n\nIt is the smallest and simplest bag here, which makes it the easy choice for a quick pool or beach stop. Compared with the Maelstrom 35, it gives up volume for a compact size that tucks into a beach bag.\n\nChoose it for a couple or a single parent with a small lunch and a few drinks. It slips into a beach bag or car door pocket when empty.",
     "specs": [
       "15 L, 24 cans plus ice",

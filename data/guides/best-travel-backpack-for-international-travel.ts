@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ENTknKGzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBFLV4J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBFLV4J?tag=rvgearlab-amz-20",
     "description": "The LOVEVOOK is a 40L bag sized at 18 by 14 by 8 inches, with a 180 degree opening and a separate laptop compartment. The package includes three extra pouches (two packing bags and a shoe bag) plus a wet pocket and no-slip metal zippers.\n\nCompared with the Rcrirth, it adds packing cubes and a bigger frame. Against the BAGSMART, it carries more and is built around a multi-day itinerary.\n\nIt suits travelers going two weeks or more with carry-on only. The tear-resistant, water-resistant fabric stands up to repeated gate checks.",
     "specs": [
       "40L, 18 x 14 x 8 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41stFDHMk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WN1FKS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WN1FKS3?tag=rvgearlab-amz-20",
     "description": "The MATEIN expands to 45L and measures 19 by 13 by 8 inches, weighing 1 kg (2.2 lb). Hideaway padded shoulder straps, an air-mesh back panel and two padded grab handles let it convert between backpack and bag.\n\nIt carries the most of the four, and the hideaway straps turn it into a duffel through airports. Against the LOVEVOOK, it offers more volume and fewer built-in organizers.\n\nIt suits travelers who pack heavy and want a convertible bag. Internal compression straps keep clothes from shifting.",
     "specs": [
       "Expands to 45L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+WeIHsbEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7T3Z8K2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7T3Z8K2?tag=rvgearlab-amz-20",
     "description": "The Rcrirth is a 35L bag with a 17.3 inch laptop compartment, a waterproof compartment and a 180 degree opening. A zipper adds 2 inches of width, giving extra room beyond its regular carry-on size.\n\nAgainst the BAGSMART, it fits a bigger laptop. Compared with the LOVEVOOK, it is smaller and drops the packing cubes.\n\nIt suits remote workers moving between countries who need a 17 inch laptop sleeve. The business weekender styling fits a meeting.",
     "specs": [
       "35L with 2 in expansion",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LCHN7WMsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKFNGRPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKFNGRPQ?tag=rvgearlab-amz-20",
     "description": "The BAGSMART has generous compartments for a 15.6 inch laptop, books and clothes, a PVC wet pocket and a separate side shoe compartment. The lightweight soft fabric and padded straps share the load.\n\nIt is the most gym-like bag in the group, with a clean split between shoes and clothes. Against the Rcrirth, it trades laptop size for shoe space.\n\nIt suits travelers heading to cities who walk a lot in sneakers. The PVC pocket handles toiletries and damp items.",
     "specs": [
       "15.6 in laptop compartment",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TPZXUt+xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RYB9JT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RYB9JT6?tag=rvgearlab-amz-20",
     "description": "The RecPro roller is a heavy-duty steel seam roller with a wood handle, a 2 inch roller with a radius edge and a curved end that avoids lines in the surface. It measures 7 inches long with a 1/2 inch handle diameter, and the listing names Eternabond tape products as a use.\n\nAgainst the silicone roller, it is solid steel with a narrower edge for pressing seams. Against the tapes with a roller, it is a permanent tool you can reuse across repairs.\n\nBest for owners who patch seams regularly and want a reliable steel roller. A strong choice for pressing a seal at edges and trim.",
     "specs": [
       "2 inch steel roller, wood handle",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ITwu1gYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MPNDYV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MPNDYV?tag=rvgearlab-amz-20",
     "description": "This roller has a silicone wheel that is 1-7/16 inch in diameter and 1-3/4 inch wide, with a solid wood handle and a steel bearing. The listing says the silicone resists heat up to 500 degrees F and names Eternabond tape products as a use.\n\nAgainst the RecPro, it is wider and made of a softer material that glides smoothly on membranes. Against the Touranize roller, it is a dedicated tool rather than a throw-in.\n\nBest for roofers who want a smooth silicone wheel for tape and membrane seams. A strong second tool beside a steel roller.",
     "specs": [
       "Silicone wheel, 1-3/4 inch width",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W-dTcqexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBFKGYJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBFKGYJ3?tag=rvgearlab-amz-20",
     "description": "The Touranize kit is a 4 inch by 50 foot butyl roof tape with a fluorocarbon film backing and an attached rubber roller. Its listing describes flexibility down to -40 degrees and use on RV roofs, metal, rubber, wood, vinyl and glass.\n\nAgainst the EternaBond tapes, it includes the roller and costs about half as much. Against the standalone rollers, it is a one-purchase repair kit.\n\nBest for first-time repairers who want tape and a roller in the same box. A convenient pick for a single leak repair.",
     "specs": [
       "4 inch x 50 foot butyl tape",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jtqxS8GuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002RSIK4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002RSIK4G?tag=rvgearlab-amz-20",
     "description": "EternaBond RoofSeal is a 4 inch by 50 foot white tape with a 35 mil total thickness, an aluminum backing and a MicroSealant layer. The listing says it bonds to EPDM, TPO and Hypalon and needs no additional sealing.\n\nAgainst the Kohree and Touranize tapes, it is the established brand with an aluminum backing. Against the DoubleStick, it is a roof-facing tape rather than a gasket.\n\nBest for owners who want a proven one-step roof seam tape and plan to use a roller to apply it. A common choice for patching seams.",
     "specs": [
       "4 inch x 50 foot, 35 mil",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qvvb3ztwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004IZCRGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004IZCRGS?tag=rvgearlab-amz-20",
     "description": "EternaBond DoubleStick is a 2 inch by 50 foot double-sided bonding tape with 60 mil adhesive thickness. The listing describes it as a gasket for windows and vents, a rope-like sealant bead and a seam sealer for EPDM, TPO and Hypalon.\n\nAgainst the RoofSeal, it is sticky on both sides and meant for sealing between surfaces. Against the single-sided tapes, it suits gaskets and gap filling.\n\nBest for installing vents, windows and penetrations where a gasket tape is needed. A useful companion to a roller for pressing joints.",
     "specs": [
       "2 inch x 50 foot, 60 mil",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AukqlGKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RKNM6QD?tag=rvgearlab-amz-20",
     "description": "The Kohree tape is a 4 inch by 50 foot white butyl roof tape that is described as weatherproof and UV-resistant. It lists compatibility with metal and EPDM and use on roofs, windows and doors.\n\nAgainst the EternaBond RoofSeal, it costs less and uses a butyl formula. Against the Touranize, it has no roller included.\n\nBest for budget repairs where you already own a roller. A simple way to cover a seam without a brand premium.",
     "specs": [
       "4 inch x 50 foot butyl tape",

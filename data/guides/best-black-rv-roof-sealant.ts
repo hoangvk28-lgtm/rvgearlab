@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Kj-8SQIOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7X95H8Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7X95H8Z?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Roof Sealant 2 Pack is a black self-leveling lap sealant that flows flat on its own in about 30 seconds. Its listing names EPDM, TPO and PVC bonding, which covers the three membranes found on most RV roofs, and the two black tubes arrive together for $28.99.\n\nAgainst the single-tube Kohree below it, the pack brings the same self-leveling formula at about $14.50 per tube, so a roof with several vents and a front cap can be finished in one session. Against the Geocel 4500, it adds a flow-out finish that smooths itself across horizontal laps instead of needing to be tooled.\n\nIt suits owners who want a clean black seal on flat roof laps and plan to reseal more than one joint in a weekend, from vent flanges to the seams around a skylight.",
     "specs": [
       "Black 2 pack",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AgjxsZmVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7XZ719V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7XZ719V?tag=rvgearlab-amz-20",
     "description": "The Kohree RV Roof Sealant 1 Pack is a single black self-leveling tube at $16.14, built on the same EPDM, TPO and PVC bonding formula as the two pack above it. It carries a low odor, which makes application pleasant on a hot roof.\n\nCompared with the 2 Pack, it delivers the identical chemistry in a quantity sized for one small job, so the outlay stays low. Compared with the Geocel 4500 below, it levels itself flat, giving a smooth finish on horizontal seams with very little technique.\n\nIt is a good match for a single seam, one vent flange or a spot repair on a camper or small trailer, where one tube of black sealant finishes the job.",
     "specs": [
       "Black single tube",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tPS9m19XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002ELU1HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002ELU1HU?tag=rvgearlab-amz-20",
     "description": "The Geocel 4500 Roof Bonding Sealant is a 10 fluid ounce black Scypolymer tube priced at $10.29. Its listing highlights quick ponding water resistance and bonding to EPDM and primed TPO, so it is aimed squarely at repairs where standing water collects.\n\nCompared with the Kohree tubes above it, this one stays where it is placed instead of flowing, which lets it work on edges and shaped beads as well as flat seams. Compared with the Dicor cap sealant below, it carries a stated bonding role and ponding water performance for the roof surface itself.\n\nIt fits EPDM roof owners who want a dependable black bonding sealant for spot repairs and ponding areas at the lowest price in the roundup.",
     "specs": [
       "10 fl oz black Scypolymer",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311VIxICrgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DQ5D34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DQ5D34?tag=rvgearlab-amz-20",
     "description": "The Dicor 351CSB-1 Cap Sealant is a 10.3 ounce black tube from a brand RV owners know well, priced at $10.00. It dries fast and takes paint, and its intended jobs are windows, door joints and trim.\n\nCompared with the Geocel 4500 above it, this tube is aimed at vertical joints and edges, where a bead that holds its shape is the right tool. Compared with the 1021 lap sealant below, it gives a black finish that can be painted to match nearby trim.\n\nIt is the right tube for an owner resealing window frames, door surrounds or cap trim who wants quick drying and a neat black line.",
     "specs": [
       "10.3 oz black cap sealant",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eHrEBWsmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DW9LJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DW9LJ6?tag=rvgearlab-amz-20",
     "description": "The 1021 Self-Leveling Lap Sealant for 5th Wheel RVs is a flat-roof lap sealant that comes in beige, gray, almond and white at $19.29. It is described as withstanding travel vibration, and it comes from a supplier RV shops trust.\n\nCompared with the black Dicor above it, this tube levels itself across horizontal laps and offers four colors to match common roof tones. Compared with the Liquid Rubber pack below, it brings a single-tube purchase at less than half the cost.\n\nIt suits fifth wheel and trailer owners with a light colored flat roof who want a sealant color that blends in with the membrane.",
     "specs": [
       "Self-leveling lap sealant",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeKFpBzaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY3BKX4X?tag=rvgearlab-amz-20",
     "description": "The Liquid Rubber RV Lap Sealant comes as a four pack of white self-leveling tubes at $49.95. The listing names vents and skylights as target details, and the formula stays flexible through travel vibration.\n\nCompared with the 1021 lap sealant above, this pack supplies four tubes, which covers a whole roof, and it slots into a Liquid Rubber coating system for owners planning to recoat. It provides a bright white contrast pick next to the black options in this roundup.\n\nIt is ideal for owners resealing an entire roof in white, ahead of a coating project, with enough tubes on hand to finish every vent, skylight and seam.",
     "specs": [
       "White 4 pack",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413K5S1vzVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBR2S2ZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBR2S2ZD?tag=rvgearlab-amz-20",
     "description": "The WAVLINK 80A is an 80 amp deck-mount converter and charger sold as a replacement part for RV trailers and campers. The listing names a temperature-control fan system, an LED indicator for converter status, CE, FCC and RoHS certifications, and a wide voltage range from 13.0V to 16.5V that also suits boat and other 12V systems. It sells for $149.99.\n\nIt ranks first because 80 amps leaves the most headroom for a large bank after loads: at 13.6 volts that is about 1,088 watts of DC, 25 amps more than the 55 amp picks. It costs $20 less than the CARMTEK 55 and is $20.02 above the Hihitomorrow 65 amp. The listing gives a voltage range but not numbered lithium steps, so it is less explicit than the VEVOR or MWXNE.\n\nPick this for a 200Ah or larger bank, or a rig with a lot of 12V loads. The caveat is that the feature text gives no stage names and the certifications cited (CE, FCC, RoHS) are not UL.",
     "specs": [
       "80A, 13.0V to 16.5V range",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OXWFFPDFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9PFQK9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9PFQK9M?tag=rvgearlab-amz-20",
     "description": "The CARMTEK RV Converter 55 Amp converts 120V shore power to 12V DC for loads and battery charging. The listing says it supports lead-acid and LiFePO4, uses smart multi-stage charging that adjusts current and voltage, and has a 13V to 16.5V adjustable range. It lists six protections: short circuit, overload, over-temperature, under-voltage, over-voltage and reverse polarity. It is priced at $169.90.\n\nIt ranks second because it is the only 55 amp unit that combines a lithium claim, an adjustable range and a full protection list, but it is the most expensive pick at $89.91 above the MWXNE 55 amp. It gives 25 amps less than the WAVLINK 80A for $19.91 more, so you pay a premium for the explicit lithium and protection language. Against the KSGNY 55A at $129.99 it lists lithium and more protections for $39.91 more.\n\nChoose it for a mid-size lithium bank where you want the clearest listing at 55 amps. The caveat is price, and the feature text does not give stage names, wattage or dimensions.",
     "specs": [
       "55A, 13V to 16.5V adjustable",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51k52IVByzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCHYY1FK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCHYY1FK?tag=rvgearlab-amz-20",
     "description": "The MWXNE 55 Amp delivers up to 55 amps of DC and uses a switch to choose between lead-acid and LiFePO4 modes, plus a fixed voltage mode with steps of 13.0, 14.6 and 16.5 volts. Charging is a three-stage cycle of Boost, Normal and Trickle. The listing adds a metal housing, a temperature-controlled fan, thermal shutdown, and extra fuses for added safety. It costs $79.99.\n\nIt ranks third because it combines named voltage steps and stages at $79.99, which is $89.91 under the CARMTEK 55A with a similar capability. Against the VEVOR 65A at $72.81 it costs $7.18 more for 10 amps less, but it names its stage structure. It gives 25 amps less than the WAVLINK 80A, so it fits mid-size banks only.\n\nPick it for a mid-size lithium or lead-acid bank on a budget where you want a clear three-stage cycle. The caveat is the 16.5 volt step, which must never be left on a battery bank.",
     "specs": [
       "55A, 13.0/14.6/16.5V modes",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41miPbgxu4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFN13G66?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFN13G66?tag=rvgearlab-amz-20",
     "description": "This 65 amp converter from Hihitomorrow lists a steady 65 amp output, three preset voltage modes of 13V, 14.6V and 16.5V, and four charging stages named Boost, Normal, Storage and Desulfation. It is described as a replacement for the WF-9800 series and built from steel, plastic, aluminum alloy, circuit boards and copper. It costs $129.99.\n\nIt ranks fourth because the Desulfation stage is aimed at lead-acid, so a lithium owner would use the 14.6 volt preset instead. It costs $57.18 more than the VEVOR 65A, which lists similar presets, and it is $20 below the WAVLINK 80A with 15 fewer amps. It is the one pick that names a WF-9800 series fit, which helps for an older trailer.\n\nChoose it for a 65 amp lead-acid or lithium bank in a trailer with a WF-9800 deck mount. The caveat is the brand name, which is a seller handle rather than an established name, so check the return policy.",
     "specs": [
       "65A, 13/14.6/16.5V presets",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E7ttb2xuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX25F2V8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX25F2V8?tag=rvgearlab-amz-20",
     "description": "The VEVOR 65 Amp is the cheapest unit here at $72.81. It lists dedicated lead-acid and LiFePO4 modes, a fixed voltage mode with choices of 13.0, 14.6 and 16.5 volts, a temperature-triggered fan, a metal housing, six protections and a 100 percent copper cable. The listing says it suits medium-capacity batteries rated 55Ah to 70Ah.\n\nIt ranks fifth because that 55Ah to 70Ah note conflicts with its main reason to exist, since a 65 amp charger is larger than a battery that size wants. It is $57.18 below the Hihitomorrow 65A and $7.18 below the MWXNE 55A, with 10 more amps than the MWXNE. Against the WAVLINK 80A it saves $77.18 but gives 15 amps less.\n\nPick it as a low-cost charger for a mid-size bank where you can set the mode by hand. The caveat is the stated 55Ah to 70Ah battery size, which signals that it should not be paired with a very small bank.",
     "specs": [
       "65A, 13.0V to 16.5V range",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NOAQkDNAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNJ8HWDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNJ8HWDQ?tag=rvgearlab-amz-20",
     "description": "The KSGNY 55A lists a 55 amp output from 110V AC to 12V DC, named as the PM3-55 in its own text. The feature bullets cover three protections (overvoltage, overcurrent and short-circuit), an operating range of -10 to 60 degrees Celsius with vibration resistance, and a compact body that supports flush mounting. It is used to charge RV batteries and power a refrigerator, lighting and navigation. It costs $129.99.\n\nIt ranks last because it is the only pick whose listing never mentions lithium, charge stages or a voltage range, so it competes on a bare 55 amp rating at the same $129.99 as the Hihitomorrow 65A, which gives 10 more amps and four named stages. It costs $50 more than the MWXNE 55A, which adds lithium and named stages, and $39.91 less than the CARMTEK 55A, which adds six protections and an adjustable range.\n\nChoose it only for a lead-acid bank where you want a compact, flush-mount 55 amp supply. The caveat is that charging behavior is undocumented, so ask the seller what voltage it holds before you connect a lithium bank.",
     "specs": [
       "55A, 110V AC to 12V DC",

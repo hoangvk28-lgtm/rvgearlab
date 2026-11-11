@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-XFMjWS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ML3LPQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ML3LPQC?tag=rvgearlab-amz-20",
     "description": "CURT's Deep Drop Trunnion hitch is sold for 8,000 to 10,000 lb trailers with a 2 by 2 inch deep drop shank that flips for up to 7 inches of drop. CURT's deep drop trunnion bar hitch is sold for 8,000 to 10,000 lb trailers with 30-5/8 inch bars and a 2 by 2 inch deep drop shank.\n\nIt is the only pick that states a deep drop for lifted trucks and it costs less than the Shocker kits. It states no tongue weight rating.\n\nBest for a lifted truck with a 2 inch receiver and a trailer under 10,000 lb. Measure your ball height before choosing, because a 7 inch drop only helps if the trailer coupler sits that much below the receiver.",
     "specs": [
       "Deep drop trunnion, 8K to 10K lb",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DxoxqPczL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV7TVC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV7TVC2?tag=rvgearlab-amz-20",
     "description": "Shocker's Air Equalizer & Round Bar kit fits a 2-1/2 inch hitch with a 5 inch rise and 4 inch drop and adds air pressure adjustment. Shocker's Air Equalizer & Round Bar kit fits a 2-1/2 inch hitch with a 5 inch rise and 4 inch drop. The listing says air pressure adjusts for trailer weight.\n\nIt costs far more than CURT Deep Drop 8K-10K and states a 4 inch drop, not a deep one. The air equalizer is its draw.\n\nBest for a heavy lifted truck that wants an air-ride feel. It is a premium air-ride option for heavy trucks.",
     "specs": [
       "Round bar WD with air equalizer",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DxoxqPczL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV8NFXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV8NFXN?tag=rvgearlab-amz-20",
     "description": "Shocker's 2 inch version has the same 5 inch rise and 4 inch drop for 2 inch hitches. Shocker's Air Equalizer & Round Bar kit fits a 2 inch hitch with a 5 inch rise and 4 inch drop. The listing says air pressure adjusts for trailer weight.\n\nIt costs slightly less than Shocker Air Round 2.5 and has the same limits. Verify the drop against your measurement.\n\nBest for a 2 inch receiver on a lifted truck. It is a premium air-ride option.",
     "specs": [
       "Round bar WD with air equalizer",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ktxF4He8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP85KZ8T?tag=rvgearlab-amz-20",
     "description": "Camco's TR3 1,200 has clamp-adjusted sway control that turns off for backing. Camco's Eaz-Lift ReCurve TR3 is a weight distribution kit with clamp-adjusted sway control that can be turned off.\n\nIt states no drop, so the shank must be chosen separately. It costs less than the Shocker kits.\n\nBest for a lifted truck owner who already has a deep-drop shank. Use the lower, 1,200 lb figure for the hitch unless the seller confirms the higher one.",
     "specs": [
       "1,200 lb TR3 kit",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314fSP82k9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBLX4DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBLX4DM?tag=rvgearlab-amz-20",
     "description": "Eaz-Lift's Elite-S 48191 is a chain-free kit with built-in sway control and an 800 lb tongue weight in the body copy. Camco's Eaz-Lift Elite-S 48191 is a chain-free weight distribution hitch with permanent, built-in sway control using two points of steel-on-steel bracket friction.\n\nIt is lighter-duty than Camco TR3 1,200 and states no drop. The title and text give different ratings.\n\nBest for a lifted truck with a light trailer that wants built-in sway control. The title and text disagree, so confirm the rating before ordering.",
     "specs": [
       "600 lb title, 800 lb max TW",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Lwm03kCXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01I3JCFA2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01I3JCFA2?tag=rvgearlab-amz-20",
     "description": "CURT's 17512 is a lift handle for TruTrack spring bars. CURT's 17512 is a lift handle for the TruTrack weight distribution system that makes spring bar installation easier.\n\nIt is an accessory, not a hitch, and helps TruTrack owners handle heavy bars. It does nothing for lift height.\n\nBest for a TruTrack owner on a tall truck who struggles with the bars. It is an accessory for TruTrack owners, not a hitch.",
     "specs": [
       "TruTrack lift handle",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-zos+CmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CV9ZRYCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CV9ZRYCM?tag=rvgearlab-amz-20",
     "description": "The Platypus GravityWorks is a 6 liter gravity system with a 6 liter dirty reservoir, a 6 liter clean reservoir, a hollow fiber microfilter, hoses, a shutoff clamp and a storage sack. The listing says it meets EPA and NSF guidelines, with protozoa removal at 99.9 percent and bacteria at 99.9999 percent, and delivers six liters in under four minutes.\n\nIt names a test standard and a clear fill time that the Membrane Solutions 1 Gal and MultiSavePuls 3L do not. The storage sack uses a PFAS-free DWR coating.\n\nIt suits family and group camping where the whole party drinks and cooks from the same supply. The clean reservoir keeps filtered water ready to pour.",
     "specs": [
       "6 L dirty and 6 L clean bags",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h1ukAa0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-amz-20",
     "description": "The MSR AutoFlow XL is a 10 liter gravity system for large backpacking and base camp parties. The maker lists 1.75 liters per minute without pumping, with protozoa and particulates filtered out at 99.9 percent and bacteria at 99.9999 percent, and a sediment trap built into the bag.\n\nIt holds more than three times the volume of the Katadyn BeFree Gravity, at a similar flow rate. Against the Platypus GravityWorks it has the bigger reservoir and a flat-base bag.\n\nIt suits groups of four or more who share a base camp. A separate hang strap and clip make hanging easier.",
     "specs": [
       "10 liter gravity system",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RygeapsYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree Gravity pairs a 0.1 micron EZ-Clean hollow fiber filter with a 3 liter collapsible bag. The listing gives up to 2 liters per minute, up to 1,000 liters of capacity, and cleaning by shaking or swishing.\n\nIt packs flat and weighs far less than the MSR AutoFlow XL or the Platypus GravityWorks, which makes it the choice for two or three people. The routine is simple: fill, hang and drink.\n\nIt suits duos and trios who want gravity filtering without a large kit. It folds flat once emptied.",
     "specs": [
       "3 L bag, 0.1 micron",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Dke1WZd2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN6L5KLT?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 1 Gallon (3.8 liter) gravity system lists NSF/ANSI 42, 372 and 401, and a four-stage filter that stacks 0.1 micron hollow fibers, activated carbon and two PP fiber layers. The listing gives a flow of up to 500 ml per minute and a filter life of up to 1,320 gallons (5,000 L).\n\nIt backflushes through a standard water bottle with no syringe and can be used as a gravity filter, a straw or a bottle-compatible filter. It lists a longer life than the Katadyn BeFree Gravity.\n\nIt suits solo hikers and pairs who want a standards-listed gravity set that doubles as a straw. The multiple modes make it a flexible kit piece.",
     "specs": [
       "1 gallon (3.8 L) bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iqcbKxsxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD7D186Q?tag=rvgearlab-amz-20",
     "description": "The MultiSavePuls is a 3 liter gravity bag with a built-in 0.1 micron hollow fiber filter listed as removing microplastics, sand and sediment along with 99.9999 percent of harmful substances. It states FDA, food-grade and BPA-free materials and includes a sediment collector at the bottom.\n\nIt holds the same 3 liters as the Katadyn BeFree Gravity and costs far less. The sediment collector helps with silty sources.\n\nIt suits anyone after a no-frills gravity bag for cooking and hydration water. The built-in filter needs no assembly.",
     "specs": [
       "3 L bag, 0.1 micron",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UZP6RCoJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDZJDSD3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDZJDSD3?tag=rvgearlab-amz-20",
     "description": "The KING BIRD Premium Class C cover fits 23 to 26 ft motorhomes and pairs a 600D Oxford top with 300D Oxford sides. Double-stitched top, edges and corners carry an 800 lb rip-stop rating, and a 3500mm waterproof PU coating sits underneath.\n\nAgainst the Lanceton, the heavier Oxford top gives it a sturdier feel when you drag it across a roofline, and the rollable zippered doors on the side and rear let you reach the entry door and engine area without unstrapping anything. It suits Class C owners who want a single durable shell rather than a kit of accessories.",
     "specs": [
       "600D Oxford top",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tDhpCd7uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VBDNX9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VBDNX9D?tag=rvgearlab-amz-20",
     "description": "The Lanceton cover fits 27 to 30 ft travel trailers and uses a 300D polyester top with polypropylene around the sides. Elastic front and back panels hold the fit, and an integrated belt and bag throwing system speeds strap routing.\n\nCompared with the KING BIRD Class C, it targets towables and includes a bundle of 4 tire covers, 4 sharp edge covers, 2 extra securing straps, a repair patch and a tongue jack cover. That makes it the more complete box for a trailer owner who wants everything in one order.",
     "specs": [
       "300D polyester top",

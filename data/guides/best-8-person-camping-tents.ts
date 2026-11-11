@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GFpye-d2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QLBZLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QLBZLK?tag=rvgearlab-amz-20",
     "description": "The Coleman Skydome Dark Room pitches in under 5 minutes on attached poles and uses Dark Room technology that blocks 90 percent of sunlight. Nearly vertical walls give 20 percent more headroom, and a tub-like floor, welded corners and inverted seams keep water out.\n\nAgainst the DMH instant model it adds blackout fabric and a tested frame at a higher price. Compared with the UNP tunnel it pitches faster.\n\nIt suits families who want to sleep in and a quick pitch. The frame is tested to 35 mph winds.",
     "specs": [
       "Pre-attached poles, 5 minutes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Kmm0fn3uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6G7ZKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6G7ZKT?tag=rvgearlab-amz-20",
     "description": "The DMH instant tent is 12 ft by 10 ft, fits 3 queen air mattresses and has an 80 inch standing height. Pre-attached poles go up in 60 seconds even solo, and the porch adds 70 percent more outdoor space than typical 8-person tents.\n\nIt costs less than the Coleman and has the porch the others lack. Against the BravArrk it has a quicker pitch and fewer rooms.\n\nIt suits groups that want a fast pitch and a place to sit outdoors. Reinforced pole protectors and three porch poles add stability.",
     "specs": [
       "12 x 10 ft, 80 in tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513VPRxRn5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTRFZLFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTRFZLFS?tag=rvgearlab-amz-20",
     "description": "The BravArrk is a 14 ft by 9 ft tent with a PU3000MM coating and fully sealed seams. A separated curtain forms two independent sleeping areas or a third living zone, and it fits 8 sleeping bags or 3 queen air mattresses.\n\nIt has the highest stated rain rating here and a three-room layout. Against the UNP tunnel it has a higher rating and a smaller footprint.\n\nIt suits families with a mix of ages that want privacy zones. Two people can assemble it with color-coded parts.",
     "specs": [
       "14 x 9 ft, PU3000MM",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lDVX9oKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK6H23J5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK6H23J5?tag=rvgearlab-amz-20",
     "description": "The UNP tunnel tent is 20 ft long (14 ft plus 6 ft) by 9 ft with an 80 inch height. It has a screen porch, four oversized mesh windows, two doors with a mesh ceiling, and 8 steel leg poles under a 1500mm polyurethane coating.\n\nIt is the longest tent here and has a screen porch. Against the BravArrk it has the smaller rain rating at 1500mm.\n\nIt suits families that want a screen porch and a long floor. The price sits above the budget tents. Two people can install it in 15 minutes.",
     "specs": [
       "20 ft (14+6) x 9 ft, 80 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AvH0c9L2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2JYG6B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2JYG6B?tag=rvgearlab-amz-20",
     "description": "The CAMPROS 8-person tent has a straight-wall design with a 72 inch center height. Sealed seams and a waterproof strip protect against rain, and a separated curtain works as a room divider and a projector screen.\n\nIt is the least expensive 8-person tent here, and it has two rooms. Against the BravArrk it lacks a stated rain figure.\n\nIt suits budget families who want two rooms and a quick pitch. Two people set it up in about five minutes.",
     "specs": [
       "72 in center, straight walls",

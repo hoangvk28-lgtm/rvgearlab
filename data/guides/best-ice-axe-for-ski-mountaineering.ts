@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21CzSdBT3jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IDQ2FK0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IDQ2FK0?tag=rvgearlab-amz-20",
     "description": "The Petzl Ride is a compact 45 cm ski touring and freeriding axe that weighs 0.66 lb. The listing states CE, UIAA and UKCA certifications.\n\nIt is the shortest axe here and the only one whose listing states CE, UIAA and UKCA certifications. It costs more than the Kong Dhino and adds a certified build.\n\nIt suits ski mountaineers who carry the axe on a pack for most of the day. The compact length fits a ski pack.",
     "specs": [
       "45 cm, 0.66 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310W6MtIkuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFTNT79K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFTNT79K?tag=rvgearlab-amz-20",
     "description": "The Kong Dhino Light is an aluminum alloy axe at 280 g (9.9 oz) and 50 cm, listed for ski mountaineering and alpine travel. It has a grain-finish handle and an integrated tape leash.\n\nIt weighs less than the Petzl Ride and the CAMP axes, and it costs the least here. Its aluminum head and shaft trade durability for weight.\n\nIt is for ski mountaineers who count grams on long tours. The built-in leash saves adding one.",
     "specs": [
       "50 cm, 280 g aluminum alloy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eP0Hp7UUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086YKGFWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086YKGFWZ?tag=rvgearlab-amz-20",
     "description": "The CAMP Corsa Alpine is a B-rated axe with a chromoly steel head and an aluminum shaft, offered in 45, 55 and 65 cm lengths. The leash is not included.\n\nIt offers a steel head where the Petzl Ride and Kong Dhino use lighter builds, and a choice of length. The B rating names it as a basic mountaineering axe.\n\nIt suits ski mountaineers who prefer a steel head and a choice of length. The 55 cm option is common for ski use.",
     "specs": [
       "B-rated, chromoly steel head",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ESt9bz--L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V5NNYHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V5NNYHN?tag=rvgearlab-amz-20",
     "description": "The CAMP Neve is a budget-friendly general mountaineering axe with a chromoly steel pick and adze. The curved pick drops continuously to support controlled self-arrest.\n\nIt costs less than the Corsa and the Petzl axes and offers a steel pick and adze. At 65 cm it is longer than the ski-specific axes.\n\nIt suits ski mountaineers who also hike glaciers and want one axe for both. It handles firm snow.",
     "specs": [
       "65 cm chromoly steel pick and adze",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21TL2dAu-+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDMG6BNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDMG6BNW?tag=rvgearlab-amz-20",
     "description": "The Petzl Glacier in 75 cm has a steel pick tapered to 3 mm, a steel adze and a 7075 aluminum shaft. A stainless steel spike and connection holes on the head and spike round out the build.\n\nIt is the longest axe here and costs more than the CAMP Neve. It is built for walking approaches where the long shaft acts as a cane.\n\nIt suits skiers who start with a long glacier walk before skinning. It is the one for easier terrain.",
     "specs": [
       "75 cm, 3 mm tapered steel pick",

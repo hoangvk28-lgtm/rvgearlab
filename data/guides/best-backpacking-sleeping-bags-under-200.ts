@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfBY+ln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-amz-20",
     "description": "The Naturehike envelope bag weighs 1.68 lb and packs into a compression sack. It measures 80.7 by 33.5 inches and uses an 80 gram per square meter synthetic silk-cotton fill, with listed ratings of 59F and 32F.\n\nOf the two, it is lighter and wider, which is why it takes the top spot for most hikers. The rectangular cut gives a restless sleeper room to roll that a mummy does not.\n\nIt suits warm-season hikers and bikepackers who want to carry under two pounds. A compression sack is included for packing.",
     "specs": [
       "1.68 lb, compressible",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YJtb5N+IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKVXNBCQ?tag=rvgearlab-amz-20",
     "description": "The OneTigris Bushcrafter's is a mummy for spring, summer and fall nights, with a range of about 46 to 59F. It uses a 300T pongee shell, a 190T lining, 7 oz of polycotton fill, YKK anti-snag zippers and a cord-stopped hood.\n\nNext to the Naturehike Envelope it trades weight for a sturdier shell and a tapered cut that keeps heat closer to the body. The zippers and hood are better finished than most listings at this price.\n\nIt suits campers who want a rugged bag for bushcraft and shoulder-season trips. The water-repellent shell handles damp ground.",
     "specs": [
       "Mummy, 46F to 59F rated",

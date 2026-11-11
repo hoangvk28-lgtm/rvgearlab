@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QkW-GtrkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSJRMFW8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSJRMFW8?tag=rvgearlab-amz-20",
     "description": "The JMJGHSRGTY is titled for the Subaru Outback Wilderness 2022 through 2026 and made from 210D Oxford fabric. The rear door has a double layer with a fabric panel and a mesh screen, and elastic hooks secure it around the rear hatch.\n\nIt names the Wilderness trim, which the universal DAC does not, at roughly half the price of the optrcn and MWKHZIL hatch tents. The Offroading Gear dome gives far more floor, while this one keeps the footprint close to the car.\n\nIt suits Wilderness owners who want a hatch tent with a mesh door for airflow. Expand it, place it over the rear hatch and adjust the hooks.",
     "specs": [
       "Outback Wilderness 2022 to 2026",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pYQwyqeLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0001WTY0E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0001WTY0E?tag=rvgearlab-amz-20",
     "description": "The DAC Explorer 2 is a poleless tent that drapes over a hatchback or liftgate up to 67 inches wide and attaches by bungee cords to the wheel wells. It lists the Subaru Outback among the vehicles it fits.\n\nIt is the only pick here designed for sleeping inside the car, off the ground, with no-see-um mesh screens. The Offroading Gear dome adds a separate floor, while this one uses the cargo area as the bedroom.\n\nIt suits solo or couple campers who fold the seats down and want an instant, poleless cover. Adjustable rear panels open or close for air.",
     "specs": [
       "Fits liftgates to 67 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GkST4IZXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QSMS8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QSMS8T?tag=rvgearlab-amz-20",
     "description": "The optrcn is an arch-style rear tent with a title naming the Subaru Outback 2018 through 2026. It connects to the rear hatch for extra covered space and can also stand alone.\n\nIt carries the widest named year span here, and its price lands beside the MWKHZIL at the high end. Against the JMJGHSRGTY it adds standalone use and a longer model run.\n\nIt suits owners who want an enclosed hatch space for changing, storing gear or sleeping on pads. The design is described as flexible for vehicle-attached or independent use.",
     "specs": [
       "Names Outback 2018 to 2026",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHXPBS1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHXPBS1T?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL is an SUV tailgate tent for the Subaru Outback 2020 through present with a waterproof Oxford fabric. It attaches around the open rear hatch, with large openings for entry and airflow.\n\nIt overlaps the optrcn in price and purpose, and its listing leans on Oxford fabric and wide doors. The JMJGHSRGTY costs half as much while naming a more specific trim.\n\nIt suits owners with an Outback from 2020 onward who want an extended rear area for sleeping, relaxing and gear. Large openings give easy access.",
     "specs": [
       "Names Outback 2020 to present",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gcTcji70L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078LHVXFX?tag=rvgearlab-amz-20",
     "description": "The Offroading Gear dome is a 9 by 9 foot SUV tent that names the Outback and 4Runner in its title with room for 5 adults plus 2 more in the vehicle. Standing height is nearly 7 feet, and it works with or without a vehicle.\n\nIt gives several times the floor of any hatch tent here and lists for about half the optrcn price. The DAC Explorer 2 turns the car into the bedroom, while this tent builds a separate living space beside it.\n\nIt suits families or groups that want standing room and a campsite shelter. The attachment fits many SUVs, crossovers and minivans.",
     "specs": [
       "9x9 ft, sleeps up to 5 + 2",

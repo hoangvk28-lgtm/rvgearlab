@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qlC0ajXbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0969VG225?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0969VG225?tag=rvgearlab-amz-20",
     "description": "ETGLCOZY sells an XL queen double whose two zipper tracks turn it into a pair of single bags or a pair of blankets. A soft flannel liner and a Thermolock draft tube are built in, and a bottom ventilation zipper helps manage heat.\n\nAgainst the BISINNA and AGEMORE, it has the most documented construction: the draft tube, the flannel liner and a waterproof fabric are all named. It comes with a storage bag and is machine washable.\n\nA strong pick for couples and families who want a flexible double that packs reasonably small. It converts into two singles.",
     "specs": [
       "Dual zippers, converts to two",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41urQutEKpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTN9775M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTN9775M?tag=rvgearlab-amz-20",
     "description": "BISINNA measures 86.6 x 59 inches, with a 190T polyester shell, a soft pongee lining and hollow fiber fill. Two attached pillows and an adjustable hood come built in, and the bag rolls up for storage.\n\nIt prints the longest size of the three, which suits tall users, and it adds pillows the ETGLCOZY and AGEMORE do not list. It costs a bit more than the ETGLCOZY.\n\nA good fit for couples who want pillows and extra length in one bag. Machine washing is allowed.",
     "specs": [
       "86.6 x 59 in queen size",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jCUckGCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRGTSVJL?tag=rvgearlab-amz-20",
     "description": "AGEMORE lines this double with brushed cotton flannel under a 210T water-resistant shell and lists a 32 to 59F design range. The bag compresses into its carry sack and splits into two singles with zippers on both sides.\n\nAlone among the three, it states a temperature range, which the ETGLCOZY and BISINNA leave out. It costs more than the ETGLCOZY.\n\nA good choice for couples who camp in cool spring and fall weather. The flannel adds a soft feel.",
     "specs": [
       "32 to 59F design range",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4124eLGAtsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GN17ZP27?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GN17ZP27?tag=rvgearlab-amz-20",
     "description": "The Wolfwise Large 6-person cabana measures 106.3 by 106.3 by 63 inches, enough for up to four beach chairs, and uses a thickened 8.5 mm fiberglass frame. It adds three adjustable mesh windows, three sandbags and four pegs, with UPF 50+ blocking up to 98% of UV rays.\n\nAgainst the Wolfwise 6-7 Instant it relies on a standard pole frame rather than a spring opening, which lowers the price. Compared with the COMMOUDS it uses slightly thinner poles while including three sandbags.\n\nIt suits families who want a proven size and anchoring kit at a moderate price. A roomy square footprint with four chairs is realistic here.",
     "specs": [
       "106.3 x 106.3 x 63 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TjA2Ck0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLDCCHR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLDCCHR8?tag=rvgearlab-amz-20",
     "description": "The WolfWise Instant opens with a spring system that one person can set up in seconds. It measures 110.2 by 57.1 by 57.1 inches with a 57.1 inch front porch, and has UPF 50+ silver-coated water-repellent polyester, a zippered door and three oversized mesh windows.\n\nIts zippered door and window give a private changing space, a feature the Rhino Valley and Elegear handle differently. It is the priciest tent here, paying for the spring opening and the front porch.\n\nIt suits parents who arrive with kids and a cooler and want the tent up in seconds. The porch adds a shaded spot for shoes.",
     "specs": [
       "110.2 x 57.1 x 57.1 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hpn4aDU3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09W9K5B9Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09W9K5B9Z?tag=rvgearlab-amz-20",
     "description": "The COMMOUDS measures 106.3 by 106.3 by 63 inches with a 52 inch extended front porch and UPF 50+ silver-coated fabric blocking 98% of UV. Its fiberglass frame uses 9.5 mm rods, three lockable mesh windows and a zippable front floor for privacy.\n\nAt 9.5 mm its poles are thicker than the 8.5 mm poles on the Wolfwise Large, which adds stiffness in gusts. It is also pricier than the Wolfwise Large because of the porch and rod upgrade.\n\nIt suits families heading to a breezy beach who want a stiffer frame and a covered front area. The tent is sold in 3, 4, 6 and 8 person sizes, so pick the 6-person size.",
     "specs": [
       "106.3 x 106.3 x 63 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CEULOhoAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRVM433Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRVM433Z?tag=rvgearlab-amz-20",
     "description": "The Elegear CumbreX is a 6 to 8 person tent made from 190T double-layer silver-coated polyester with a PU2000 waterproof layer and UPF 50+. It has an external snap-on installation system, one openable rear door and two roll-up mesh windows.\n\nThe PU2000 coating helps with drizzle, which the other listings do not state. The listing suggests four adults and four children or up to six adults, so six people is the comfortable ceiling.\n\nIt suits campers who want light rain cover on top of sun shade. The snap-on setup saves time on pitching.",
     "specs": [
       "190T silver-coated, PU2000",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411IPhMqKUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD65STD3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD65STD3?tag=rvgearlab-amz-20",
     "description": "The Rhino Valley measures 115 by 94.5 by 59 inches with a semi-circular arch design and front and rear zippered doors that roll up. It comes with six windproof ropes, 12 stakes and four sandbags, and offers UPF 50+ fabric.\n\nIt is the lowest priced tent here yet includes the most stakes and a full set of ropes. It lists one fewer person than the others, giving a more realistic expectation.\n\nIt suits budget families who want a roomy, two-door tent. The double doors give a through-draft on hot days.",
     "specs": [
       "115 x 94.5 x 59 in",

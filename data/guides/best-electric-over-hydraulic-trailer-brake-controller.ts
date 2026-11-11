@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wuhSENP4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWQY6RLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWQY6RLK?tag=rvgearlab-amz-20",
     "description": "The Lrichy 90885 is the only listing here whose headline bullet uses the phrase proportional electric over hydraulic brake controller. It is a proportional unit for 1-4 axles that supports 2, 4, 6 or 8 brake trailers, with a manual override and multi-level boost.\n\nThe same listing also calls itself a replacement for the Tekonsha 90885 Prodigy P2, which makes it a third-party clone rather than the original brand, and its body text talks about electric brake trailers. That mismatch is why it ranks first only for wording, not for proof: it gives you something specific to ask the seller about, which the CURT Echo and FEITON pages do not.\n\nBest for a buyer who wants a proportional, clone-priced controller and is willing to email the seller to confirm actuator compatibility before installing. Do not assume EOH support from a headline alone.",
     "specs": [
       "Proportional, 1-4 axles",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qOS0RLDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JQ99SDD?tag=rvgearlab-amz-20",
     "description": "The CURT Echo plugs between the vehicle and trailer 7-way connectors and is controlled from the OneControl Auto phone app. It uses a triple-axis accelerometer for proportional braking and is listed for trailers with 1-2 axles and 2-4 brakes.\n\nCompared with the Lrichy 90885 above, the Echo needs no under-dash wiring and moves between trucks easily, but it caps out at two axles and costs several times as much. The listing does not mention hydraulic actuators, so an EOH owner has to ask CURT directly.\n\nA good fit for someone towing with more than one vehicle who values a clean install and phone-based tuning. The vehicle 7-way must supply active power, and an existing factory controller will not work while the Echo is plugged in.",
     "specs": [
       "Bluetooth, app-controlled",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RQ707G7PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYH5QXCD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYH5QXCD?tag=rvgearlab-amz-20",
     "description": "The FEITON 90195 is a proportional controller for 1-4 axles with three boost levels, a manual override and an LCD that shows brake output, voltage and diagnostics. It can store up to five trailer or driver settings.\n\nIt is sold as a replacement for the Tekonsha P3 90195, so it is a clone, and the listing describes electric trailer brake systems with no mention of hydraulic actuators. Against the Lrichy 90885 it adds saved profiles, which help if you swap between two trailers, but gives you less to go on for EOH.\n\nBest for owners who tow more than one trailer and want one-touch profile changes. Ask the seller in writing about actuator compatibility before wiring it to anything hydraulic.",
     "specs": [
       "Stores 5 trailer settings",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411CEtxCexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGP45C18?tag=rvgearlab-amz-20",
     "description": "The HRepair 90160 is a proportional controller sold as a replacement for the Tekonsha 90160 and listed for 1-3 axle trailers. It has a digital display, a manual override lever and three boost settings, plus a snap-in clip or bracket mount with a 180-degree range.\n\nIt is a third-party clone, and it lists self-leveling, so mounting angle matters less than on older proportional units. Compared with the FEITON 90195 it drops to three axles and loses saved profiles, in exchange for a lower price and a simple mount.\n\nBest for a single heavier trailer where you want proportional control without paying for extras. Nothing in the listing addresses hydraulic actuators, so confirm that point first.",
     "specs": [
       "Proportional, 1-3 axles",

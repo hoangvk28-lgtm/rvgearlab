@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5152RZuvf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1QF2SCF?tag=rvgearlab-amz-20",
     "description": "The WEN 56477i delivers 4,000 rated and 4,800 surge watts from a 224cc engine, with four 120V outlets, a TT-30R RV receptacle, a 12V DC outlet and two USB ports. A CO Watchdog shutdown, fuel shut-off, onboard wheels, a telescoping handle and a three-year warranty are all listed.\n\nIt has the most rated watts of the six and clean inverter power for electronics. It out-produces the Generac 3,300 and the WEN 3600 by 1,500 and 1,100 running watts.\n\nIt suits travel trailer owners who want to run an air conditioner and a few appliances. The wheels and handle make moving it at a campground easier.",
     "specs": [
       "4,000W rated, 4,800W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515W7jwOXEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD1R1CXC?tag=rvgearlab-amz-20",
     "description": "The Generac gives 2,500 running and 3,300 starting watts, with TruePower Technology holding distortion under 3% and PowerRush adding starting capacity. COsense monitors CO and shuts it down, and Economy Mode adjusts speed to save fuel.\n\nIt gives less output than the WEN 56477i 4800 and carries a more active safety feature set. The listing says a 1.06-gallon tank runs up to 7 hours at 25% load.\n\nIt suits campers who run a fridge, TV and chargers overnight in a small trailer. The USB charging ports cover phones without an adapter.",
     "specs": [
       "2,500W running, 3,300W starting",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20",
     "description": "The WEN 56360i produces 2,900 rated and 3,600 surge watts from a 149cc engine and weighs a listed 46 pounds. It has two 120V outlets, a TT-30R RV receptacle, a 12V DC port, two USB ports and a three-year warranty.\n\nAt 46 pounds it is the lightest in the group, with a lower output than the WEN 56477i. Compared with the Generac it matches the starting watts and adds an RV receptacle.\n\nIt suits solo travelers and small trailers that need a TT-30R without the weight. A fuel shut-off protects the carburetor between trips.",
     "specs": [
       "2,900W rated, 3,600W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KrlC-jVkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXLTM47G?tag=rvgearlab-amz-20",
     "description": "The Oxseryn lists 3,400 running and 4,400 peak watts, two 120V outlets, a 30A RV port and a 12V DC port. A 2-gallon tank gives up to 14 hours at 25% load in a 56-pound open-frame body.\n\nIt carries more running watts than the WEN 56360i and Generac for a lower price. Low oil shutdown, overload protection and cold start technology are listed.\n\nIt suits budget-minded RV owners with a 30A cord who want maximum watts. ECO mode throttles the engine to save fuel.",
     "specs": [
       "3,400W running, 4,400W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4161THDoHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-amz-20",
     "description": "The Evernexta provides 2,350 running and 3,000 starting watts from a 97.7cc engine, with 53 to 56 dB at 23 feet and THD under 3%. It weighs 41.8 pounds and has dual 120V 20A outlets, USB-A and USB-C, a 12V DC port and parallel connection.\n\nIt is the lightest unit in the group and the only one that lists a decibel range, with a USB-C output among its ports. It gives fewer running watts than the Oxseryn.\n\nIt suits tailgaters and small-camper owners who value noise and weight over output. Operate it outdoors, away from doors, windows and vents.",
     "specs": [
       "2,350W running, 3,000W starting",

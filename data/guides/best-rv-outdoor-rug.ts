@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Hjk56nM2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0083LIKU0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0083LIKU0?tag=rvgearlab-amz-20",
     "description": "The Stylish Camping 9x18 is a reversible plastic straw mat made from virgin polypropylene with a UV coating against fading. The breathable weave lets grass underneath get air, so it will not damage a lawn site, and it folds into an included carrying bag.\n\nAt 9 by 18 feet it covers far more ground than the 9x12 version of the same mat, which makes it the one that fits under a full-length awning with room left for chairs. Dirt sweeps off or rinses away with a hose, and it dries quickly after a spray. It is the best match for long-stay campers who set up a full outdoor living room and want one big surface instead of two rugs.",
     "specs": [
       "9 x 18 ft reversible",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61nGqexRYML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V184VH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V184VH1?tag=rvgearlab-amz-20",
     "description": "The fifame 9x18 has two different grey and white patterns woven into one rug, so flipping it changes the look of the campsite. It uses 100% virgin polypropylene with UV protection and a heavy-duty double-sided woven build.\n\nCompared with the Stylish Camping 9x18, the fifame leans on its two-pattern design and a rinse-with-a-hose cleanup for muddy paws and sandy gear. It matches that mat's size while giving you a second style option. It suits campers who care how the site looks and want a large mat that cleans up fast after dogs and beach gear.",
     "specs": [
       "9 x 18 ft size",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dtBTyZvbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0083LHN7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0083LHN7Q?tag=rvgearlab-amz-20",
     "description": "The Stylish Camping 9x12 in black and white swirl uses the same breathable, UV-coated virgin polypropylene as the larger mat. It sweeps clean, dries quickly and folds for storage.\n\nIt gives up 6 feet of length against the 9x18 and in return packs smaller and sits in a more modest slot. That makes it the sensible step between a big awning rug and the compact GENIMO 5x8. It is best for pop-up and mid-length trailers whose awning covers roughly a 9 by 12 patch of ground.",
     "specs": [
       "9 x 12 ft swirl pattern",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CEjdKlC7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2YVV59F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2YVV59F?tag=rvgearlab-amz-20",
     "description": "The HappyTrends Rug is a reversible plastic straw mat built with multiple fold lines for easy packing. The waterproof material resists moisture and stains, and a UV stabilizer is included to slow fading.\n\nIt is the lowest-priced rug of the five here and keeps the core features of the pricier mats: reversible, foldable and wipe-clean. The fold lines make it the most compact-minded pick of the group. It fits first-time campers who want a clean landing spot at the door without spending much.",
     "specs": [
       "Reversible plastic straw",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61+zzrexWYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YCTD74F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YCTD74F?tag=rvgearlab-amz-20",
     "description": "The GENIMO 5x8 is a compact reversible rug made from 100% virgin polypropylene and certified OEKO-TEX Standard 100. A heat-resistant coating and a stain-repelling surface keep it looking decent in rough weather.\n\nWhere the 9x12 and 9x18 mats cover a whole awning, the GENIMO is sized for a door landing, a small patio or a pet corner. Its dual-sided pattern doubles the wear life, and it stores in a fraction of the space. It is the right pick for vans, teardrops and small trailers where a larger rug would not fit the pitch.",
     "specs": [
       "5 x 8 ft footprint",

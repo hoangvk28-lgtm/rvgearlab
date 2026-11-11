@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/215X98X1rPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXVGQQTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXVGQQTY?tag=rvgearlab-amz-20",
     "description": "The Clemm Source lists 30,000mAh with USB-A and two USB-C ports, Quick Charge and Power Delivery support, and a soft touch finish at 1.2 lb. It claims up to 3 full smartphone charges and has overcharge, overheat and short circuit protection.\n\nIt is the only exactly 30000mAh bank here with PD and a normal phone-and-tablet layout, unlike the MOSILA. It is the highest priced pick of the five.\n\nIt suits campers who want a true 30K bank for phones, tablets and a small laptop. A soft finish keeps it from sliding around.",
     "specs": [
       "30,000mAh, PD and QC support",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51COoqBanoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1BM864L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1BM864L?tag=rvgearlab-amz-20",
     "description": "The MOSILA is a 30,000mAh lithium-polymer pack made for heated vests, jackets and seat cushions, with a 7.4V DC port and 5V USB output. It has a battery level display, no power button to press, and UL and CE certification.\n\nIt is exactly 30000mAh like the Clemm, and its 7.4V port is what separates it. Its price is roughly half the Clemm's.\n\nIt suits cold-weather campers who run heated apparel and also want to charge a phone. It is a specialized pack, so check the DC plug before buying.",
     "specs": [
       "30,000mAh, 7.4V DC port",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TUVlM6xLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YKB8WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YKB8WK?tag=rvgearlab-amz-20",
     "description": "The RGVOTA bank is 38,800mAh with 5 outputs, 2 inputs, a USB-C port with PD in and out, and an LED digital display. The listing describes a decade-long brand history and compatibility with phones and tablets.\n\nIt holds about 30 percent more than the 30000mAh packs and is the lowest priced pick here. It also lists five outputs in one body.\n\nIt suits campers who want more than 30K and several USB ports. The display shows the remaining battery.",
     "specs": [
       "38,800mAh, 5 outputs, 2 inputs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419kgwipwUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3VB3KLV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3VB3KLV?tag=rvgearlab-amz-20",
     "description": "The Seaistar lists 50,000mAh, PD 30W and QC 4.0, four USB outputs, a USB-C port for input and output, and a micro USB input. It reports 11 charges for an iPhone 13 Pro and an LED display.\n\nIt gives 30W PD, which is above the LOOPEAK's 22.5W, and its price is about the same. It is the higher-wattage of the two 50K banks.\n\nIt suits van campers and long trips who want a big bank with 30W USB-C. The micro USB input is a legacy port.",
     "specs": [
       "50,000mAh, PD 30W, QC 4.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414m+0+bf2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCXVQX58?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCXVQX58?tag=rvgearlab-amz-20",
     "description": "The LOOPEAK lists 50,000mAh with 22.5W USB-C and 20W iOS fast charging, three outputs and two inputs, and a high-precision LED display reading down to 1 percent. It weighs 18.72 oz and measures 1.3 by 2.9 by 6.1 inches.\n\nIt matches the Seaistar's 50,000mAh with a lower output of 22.5W. It can charge an iPhone 17 up to 12 times.\n\nIt suits campers who ration power day by day. A 1 percent display makes planning easy.",
     "specs": [
       "50,000mAh, 22.5W USB-C",

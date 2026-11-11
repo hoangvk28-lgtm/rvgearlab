@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EB5+tw7UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNMDXP2S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNMDXP2S?tag=rvgearlab-amz-20",
     "description": "The Onewind 10x10 is a 1.1 oz silnylon tarp with a 4000 mm waterproof rating, the highest in this group, and it weighs 740 g while packing down to 3.5 x 11 inches. At roughly 7.4 grams per square foot of its 100 square feet, it gives a solo hiker or a pair a dependable roof in a stuff sack the size of a water bottle.\n\nCompared with the onewind 12x10 just below it, this tarp shrinks the footprint to a square and gains simplicity, with 19 seam-sealed tie-out points and a kit that includes stakes, tensioners and guylines. The square cut pitches flat or as an A-frame without any doors getting in the way.\n\nIt fits a backpacker who wants one tarp for both a hammock and a ground sleep and values a compact bundle. Anyone who wants a complete, ready-to-pitch kit with a strong waterproof rating will find it covers the basics well.",
     "specs": [
       "1.1 oz silnylon with 4000 mm rating",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KcJVGFhJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087BL2S4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087BL2S4Y?tag=rvgearlab-amz-20",
     "description": "The onewind 12x10 is a ripstop silnylon tarp that spans 12 by 10 feet and weighs 1.8 lb, which works out to roughly 6.8 grams per square foot across 120 square feet. That is lower than the 10x10 above it, so the extra 20 square feet ride along almost for free in the pack.\n\nWhere the 10x10 stays open, this tarp adds doors and a no-knot setup, so the ends close against wind-driven rain and the whole pitch goes up in seconds. The 12 ft length covers a full hammock end to end, which is the dimension that decides whether the rain stays off the sleeper.\n\nIt suits a hammock camper who wants a storm-ready pitch without carrying separate beaks or a bivy. Anyone who camps in exposed ridge or lakeside spots, where wind pushes rain sideways, will value the door design.",
     "specs": [
       "12 x 10 ft ripstop silnylon tarp",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415gx-6wsoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073GQXMM9?tag=rvgearlab-amz-20",
     "description": "The Wise Owl rain fly is ripstop nylon rated at 3000 mm with taped seams, and it weighs 26 oz including six guylines, stakes and a waterproof carry bag. For $44.31, that is a fully equipped shelter that sheds a steady downpour and still carries comfortably in a hip-belt pocket.\n\nIn the lineup it sits between the Onewind pair and the Rain Fly 12x10 below it. It gives up some of the Onewind's waterproof headroom while delivering a bag, stakes and lines at a price that lands well below the $92.99 hammock tarp. The taped seams are the feature that keeps the stitch lines dry.\n\nIt is a fit for a weekend hiker who wants a straightforward tarp for rain days, with everything needed to pitch it already in the bag. A first-time tarp user can go from stuff sack to shelter without shopping for extras.",
     "specs": [
       "Ripstop nylon rated at 3000 mm",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415kfi2cUVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V4F2MTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V4F2MTH?tag=rvgearlab-amz-20",
     "description": "The Rain Fly 12x10 weighs 1.65 lb for 120 square feet of 210T polyester with a TPU coating, which is roughly 6.2 grams per square foot, the lowest ratio among the tarps with a stated size and weight. Polyester holds its tension through a damp night better than silnylon, so the pitch stays taut without midnight adjustments.\n\nStepping down from the Wise Owl above, this unit adds a full 12 x 10 ft sheet and includes six stakes, carabiners and ropes, with reflective paracord on the stakes for finding them after dark. Full UV protection is stated, which suits sun-heavy trips.\n\nIt is built for a camper who wants a big roof at a modest weight and a price near $40. A hammock or ground sleeper looking for stable tension without the silnylon sag will find the polyester behavior useful.",
     "specs": [
       "12 x 10 ft, 1.65 lb",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ktw5rOJLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGWRCVSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGWRCVSB?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a 210D Oxford tarp at 120 x 115 inches, about 10 by 9.6 feet, with sealed seams, a PU3000 coating and eight reinforced guyline points. At $22.94 it is the lowest price here, and the thick 210D weave offers a tougher surface for rough ground and sharp twigs.\n\nBeside the Rain Fly 12x10 above it, the Clostnature moves from a lighter polyester sheet to a sturdier Oxford one, and it adds a center ridge fold line that makes a clean A-frame easy to find. Six stakes and six guylines are in the box.\n\nIt makes sense as a groundsheet, a tent fly or a shade tarp for trips where a few extra ounces matter less than toughness. A camper new to tarps, or one who wants a low-cost rain cover for a car-to-trail overnight, can start here.",
     "specs": [
       "210D Oxford with PU3000 coating",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516UqJJn48L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00CAO9ITS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00CAO9ITS?tag=rvgearlab-amz-20",
     "description": "AMES Maximum-Stretch is a white elastomeric acrylic rubberized coating with 650 percent elongation and 88 percent light reflectivity. The listing says it adheres to metal roofing, tar and rolled roofs and is low VOC and made in the USA.\n\nAgainst Tenee, it names acrylic chemistry and a lower, more modest elongation. Against Rust-Oleum 710, it gives a clear elongation number and a 1 gallon size.\n\nIt is the best match for owners with a metal or rolled low-slope roof who want a stated acrylic formula. It earns its slot for metal and rolled roofs.",
     "specs": [
       "650% elongation",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hiM9wB1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D87GRN43?tag=rvgearlab-amz-20",
     "description": "Tenee RV Roof Coating is a white liquid rubber coating with a stated 1000 percent plus elongation and 88 percent solar reflectivity. It works on TPO and, with proper surface preparation, EPDM, fiberglass, aluminum and metal, with up to 50 square feet per gallon.\n\nAgainst AMES, it states a higher elongation and TPO use. Against ROSEUP, it adds gloves and a cleaning cloth and a note that it is not for filling large gaps.\n\nIt is a good match for owners who want one product across several roof types. It is a natural fit for multi-roof rvs.",
     "specs": [
       "1000%+ elongation",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zZ9GRFU9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPMSFZTH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPMSFZTH?tag=rvgearlab-amz-20",
     "description": "ROSEUP is a high-solid elastomeric coating with a stated 1000 percent elongation. The listing names EPDM, TPO, fiberglass, metal and wood roofs and says one gallon covers about 50 square feet with 2 to 3 heavy coats.\n\nAgainst Tenee, it costs less and lists more substrates. Against Xmntdo, it is similar in coverage with an anti-chalking note.\n\nIt suits budget buyers who want a broad substrate list. Think of it as the pick for budget multi-surface.",
     "specs": [
       "1000% elongation",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Fy0lyfzJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YDYC3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YDYC3X?tag=rvgearlab-amz-20",
     "description": "Xmntdo RV Roof Sealant is described as a white polyurethane waterproof coating with an elastomeric heat reflective finish. The listing says it bonds to EPDM, TPO, fiberglass and aluminum and covers about 50 square feet per gallon.\n\nAgainst ROSEUP, it states polyurethane chemistry in its listing. Against AMES, it offers a self-leveling formula for smooth coverage.\n\nIt fits owners who want a polyurethane-labeled coating for an EPDM or TPO roof. Buyers focused on polyurethane-labeled coatings will find it a sensible match.",
     "specs": [
       "White polyurethane coating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411OjpzMGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B69R7RBM?tag=rvgearlab-amz-20",
     "description": "Gardner-Gibson Sta-Kool 15-Year Turbo-Dri is a 5 gallon white acrylic elastomeric roof coating with cool-core heat reflective pigments. It is described as rain safe in 30 minutes and recoated in three hours.\n\nAgainst AMES, it offers a 5 gallon pail and a faster cure. Against Rust-Oleum 710, it gives clear rain and recoat timing.\n\nIt suits owners coating a large roof in a single day. It earns its slot for one-day roof jobs.",
     "specs": [
       "5 gallon white elastomeric",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SPnIYmiNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077MZGTZ4?tag=rvgearlab-amz-20",
     "description": "Rust-Oleum 710 Elastomeric Roof Coating is a 5 gallon white pail with a stated 84 percent initial and 74 percent weathered reflectivity. The listing says it is rain resistant in 6 hours.\n\nAgainst Gardner Sta-Kool, it publishes reflectivity figures but a slower rain-resistance window. Against AMES, it is a bigger pail.\n\nIt suits buyers who want weathered reflectivity numbers for a large roof. It is a natural fit for reflectivity-focused buyers.",
     "specs": [
       "84% initial reflectivity",

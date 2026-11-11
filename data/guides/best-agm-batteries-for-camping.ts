@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zt+XjvDCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHX3FBCQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Group 31 is a 12V 100Ah pure lead AGM battery rated at 925CCA and 1110CA. The listing calls it a 2-in-1 that delivers cranking power and deep-cycle output, built with thick plates for repeated discharge.\n\nIt is the only pick here that serves both starting and house duty at 100Ah, ahead of the Group 24 at 70Ah. The listing claims a service life of 2 to 3 times conventional flooded types.\n\nIt suits boats and trailers that need one battery to start a motor and also run onboard gear. The Group 31 tray size fits many boxes.",
     "specs": [
       "12V 100Ah, Group 31",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xlvdaK8VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9LYT6NQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9LYT6NQ?tag=rvgearlab-amz-20",
     "description": "The Renogy comes as a 2-pack of 12V 100Ah deep-cycle AGM batteries with a 2000A max discharge current and 2-year warranty. Monthly self-discharge is below 3 percent at 77F, and performance is stated from -4F to 140F.\n\nIt supplies two batteries for a 200Ah bank, which is more than a single Interstate. A 200Ah-per-battery version of the same line is also listed for larger setups.\n\nIt suits solar and trailer banks that need pure house power and long storage. No acid leaks or water refilling are listed.",
     "specs": [
       "Two 12V 100Ah deep-cycle",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V9jWpIoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTWRDNQ?tag=rvgearlab-amz-20",
     "description": "The Interstate Group 24 is a 12V 70Ah dual-purpose AGM at 750CCA built from pure non-alloy lead. The listing says it can crank a motor and power a trolling motor, with extreme deep-cycle capability.\n\nIt is smaller than the Group 31, with 70Ah against 100Ah, and fits tighter trays. It claims 2 times the life of alloy AGM batteries.\n\nIt suits small boats, tent-trailers and kayak anglers who need modest capacity in a compact case. Group 24 sizing eases swaps.",
     "specs": [
       "12V 70Ah, Group 24",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q3aBlQJxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00A82A2ZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00A82A2ZS?tag=rvgearlab-amz-20",
     "description": "The ExpertPower EXP12120 is a sealed 12V 12Ah AGM battery with F2 terminals and a high-impact ABS case. It is listed for UPS replacement, trailer breakaway systems, mobility scooters and camping power boxes.\n\nIt is the smallest AGM here, far from the 100Ah units in capacity, and the cheapest by a wide margin. It suits portable power boxes that need a compact lead-acid cell.\n\nIt suits DIY power box builders and fish finder users. The sealed design avoids leaks.",
     "specs": [
       "12V 12Ah sealed AGM",

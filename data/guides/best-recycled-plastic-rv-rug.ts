@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/610HsHoNxCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004HGAMD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004HGAMD8?tag=rvgearlab-amz-20",
     "description": "The Fab Habitat Cancun is made from 100% premium recycled plastic tubes, tightly woven, and it carries GoodWeave certification for child-labor-free production. It is waterproof, fade resistant and crease-free, and it rolls rather than folds.\n\nAgainst the FH Home rugs, it is the only one here with GoodWeave certification and a rolled, crease-free storage format with elastic bands. It suits buyers who want the strongest sustainability story.",
     "specs": [
       "100% recycled plastic tubes",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lf3WMGHiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKTZVSBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKTZVSBH?tag=rvgearlab-amz-20",
     "description": "The FH Home 9x18 is a foldable camping rug made from 100% recycled plastic tubes, with loops at each corner. It is waterproof, UV resistant and reversible, and compact enough for RV storage.\n\nNext to the FAB HAB, it folds instead of rolling and adds corner loops for stakes, at a lower price for a 9x18 size. It suits owners who want a large recycled rug for a full awning.",
     "specs": [
       "9x18 ft recycled plastic",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511Aw0r5F1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01IWX8U30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01IWX8U30?tag=rvgearlab-amz-20",
     "description": "The BalajeesUSA is a 9x12 ft reversible rug made from recycled outdoor plastic straws and sold as all-weather. It resists weather by design, since it is not cloth based.\n\nCompared with the FH Home 9x18, it covers a smaller area and costs less, with no corner loops. It suits buyers who want a 9x12 recycled rug at a moderate price.",
     "specs": [
       "9x12 ft recycled straws",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lf3WMGHiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZMC5K3F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZMC5K3F?tag=rvgearlab-amz-20",
     "description": "The FH Home 5x8 is a foldable camping rug in 100% recycled plastic tubes with a portable carry bag. It is waterproof, UV resistant and safe to use with pets and kids.\n\nAgainst the FH Home 9x18, it is a smaller, lower-cost take on the same recycled construction. It suits renters or van owners who need a small recycled mat.",
     "specs": [
       "5x8 ft recycled plastic",

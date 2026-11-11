@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E8ACi7PgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2FPLLGQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2FPLLGQ?tag=rvgearlab-amz-20",
     "description": "The YELOMIN pairs a 59800mAh cell with a hand crank, solar panel and five listed ways to recharge. Six outputs include two built-in cables (iOS and USB-C), three USB ports and 15W Qi wireless charging.\n\nIt carries three times the cell of the BLAVOR and the Wreaoves while keeping the wireless pad and cables that the 66800mAh banks leave out. An aviation-grade chip guards against overcharge, overcurrent, overheating and short circuits.\n\nIt suits a camper after big capacity, a crank and cable-free charging in one rugged body. Protected port covers and a waterproof ABS and PC shell handle rain and dust.",
     "specs": [
       "59800mAh, hand crank",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jvSrCUU3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D97S2YJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D97S2YJN?tag=rvgearlab-amz-20",
     "description": "The FALUOSHI lists 66800mAh with a 22.5W USB-C port, six outputs and four inputs, and four cables included. A hand crank sits alongside an SOS and strobe light, a compass and a carabiner, in a water-resistant, shockproof body.\n\nIt names a 22.5W fast port and a compass, which the Wreaoves and KANEMIO listings handle differently. Against the YELOMIN it holds a larger cell and drops the wireless pad.\n\nIt suits a camper who wants maximum capacity with a fast USB-C port. Six outputs let a whole group plug in.",
     "specs": [
       "66800mAh, 22.5W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VM8V4oXLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8Q6HCBT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8Q6HCBT?tag=rvgearlab-amz-20",
     "description": "The kigoker lists 66800mAh with a hand-cranked generator and solar charging, four ports (Micro input, two USB-A outputs, USB-C in/out) and charging for up to six devices. It carries two LED flashlights with SOS, flash and steady modes and a built-in compass.\n\nCompared with the FALUOSHI, it has no named fast wattage and costs less. Against the Wreaoves it holds more than three times the cell.\n\nA camper wanting a big cell and two lights for power outages will like this one. The compass adds a small navigation backup.",
     "specs": [
       "66800mAh, hand crank",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xN5iWMGOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8RM36Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8RM36Q?tag=rvgearlab-amz-20",
     "description": "The KANEMIO lists 49800mAh with 15W 3-in-1 wireless charging and 25W fast charging, plus four cables, a solar panel and a hand crank. It carries multi-protection circuits against over-charge, over-discharge, short circuit and high temperature.\n\nIt is the only pick with a 3-in-1 wireless charger, ahead of the single-pad YELOMIN and BLAVOR. The 25W figure is also the highest fast-charge number among the six.\n\nIt suits a camper with a phone, a watch and earbuds who wants one wireless station. Solar and crank inputs back it up off-grid.",
     "specs": [
       "49800mAh, 25W fast charging",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tE4WDDJFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDB9YB5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDB9YB5X?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists 20000mAh with 15W wireless charging that refuels an iPhone 50 percent in 30 minutes and seven devices at once from four built-in cables and three ports. It adds a flashlight, a camping lantern, a compass, a thermometer, a carabiner and a rope.\n\nIt has the most survival gear of the six and the lightest body, with about 4.1 iPhone 17 charges listed. It carries a third of the cell of the 59800mAh bank.\n\nIt suits a camper who wants a preparedness kit in a small package, such as an emergency go-bag. The rope and carabiner help hang the lantern.",
     "specs": [
       "20000mAh, 15W wireless",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j+ku2EOwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYDX6ZJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYDX6ZJK?tag=rvgearlab-amz-20",
     "description": "The Wreaoves lists 20000mAh with a solar panel, hand crank and three integrated cables (Type-C, Lightning, Micro USB), plus two output ports and one input. An electric lighter with a heating coil, a flashlight and 5W wireless charging are also included.\n\nNo other bank here carries an electric lighter, which sparks ignition without fuel. It holds the same cell as the BLAVOR and offers only 5W wireless against the BLAVOR's 15W.\n\nIt suits a camper who wants fire-starting and power in the same emergency item. Three integrated cables cover most phones.",
     "specs": [
       "20000mAh, hand crank",

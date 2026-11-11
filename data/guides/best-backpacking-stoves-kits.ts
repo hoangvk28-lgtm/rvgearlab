@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jBMADsRdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRW7LH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRW7LH8?tag=rvgearlab-amz-20",
     "description": "The MSR PocketRocket 2 Mini Stove Kit includes the PocketRocket 2 stove, a 0.75 liter aluminum pot, a 16 ounce bowl, a clear straining lid, a mini pot lifter and a stuff sack. The listing says it weighs 9.9 oz, packs to 4 by 4 by 5 inches and boils 1 liter in 3.5 minutes.\n\nIt is the only kit here built around a name-brand stove, and the pot lid doubles as a strainer. It is also far lighter than the multi-pot Odoland sets.\n\nIt suits solo backpackers who want a complete cook-and-eat system. A 3-year limited warranty is listed.",
     "specs": [
       "9.9 oz, packs to 4x4x5 inches",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XqM5TM8eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR4W66C3?tag=rvgearlab-amz-20",
     "description": "The Odoland Heat Exchanger Kit is a 9-piece set with a 1300 W hiking stove, 0.6 L and 0.8 L pots, a canister stabilizer, utensils, a 16 oz mug and a mesh bag. The listing says heat-exchange technology raises efficiency by 30 percent and boils 0.5 L in about 2 minutes.\n\nIt weighs 660 g (1.5 lb) and packs to 4.9 by 6.6 inches. Next to the 6-Piece Kit it adds a heat exchanger and a mug, while the MSR kit remains lighter.\n\nIt suits backpackers who cook for one or two in cold or high places. The listing mentions consistent performance at altitude.",
     "specs": [
       "1300 W stove, 0.6 L and 0.8 L pots",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZUneNRI4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS07XPL?tag=rvgearlab-amz-20",
     "description": "The Odoland 11-Piece Kit includes a mini stove, 1.2 L and 0.6 L aluminum non-stick pots, a spoon, fork and knife, a 16 oz stainless cup with a silicone protector, a tank bracket and two carry bags. Handles on the pots and stove fold to save space.\n\nIt brings a 1.2 L pot and a full utensil set, which the 6-Piece Kit lacks. It is lighter on features than the heat exchanger set.\n\nIt suits families, scouts and car campers who want a lot of cookware for the price. The anodized aluminum pots conduct heat quickly.",
     "specs": [
       "1.2 L and 0.6 L pots",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JJl8wDKKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TB8CDN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TB8CDN8?tag=rvgearlab-amz-20",
     "description": "The Odoland 16-Piece Kit includes two non-stick pots (1.2 L and 1.3 L), two non-stick pans (0.6 L and 0.7 L), a mini stove with storage case, two mugs and two sets of utensils. The anodized aluminum pieces have foldable handles.\n\nIt has the most cookware of the group, and enough for two people to cook at once. The two pans also give it frying ability the other kits lack.\n\nIt suits couples and small groups who want pots and pans in one set. Everything stores in a mesh bag.",
     "specs": [
       "Two pots, two pans",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F0AAPilZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Q5WCNDJ?tag=rvgearlab-amz-20",
     "description": "The cheapest Odoland set pairs two aluminum non-stick pots with a folding camping stove. A spork, a cleaning cloth and a carry bag come along, and the listing says your gas tank fits inside the nested pots.\n\nIt is the simplest kit here and lowest priced of the Odoland sets. Compared with the 11-Piece Kit it drops the cup and extra utensils.\n\nIt suits first-time backpackers and day hikers who want a cheap starter set. The nesting design keeps it compact.",
     "specs": [
       "2 pots, stove, spork, cloth",

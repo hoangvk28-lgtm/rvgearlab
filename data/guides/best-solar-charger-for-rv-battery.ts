@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519E911RpOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MTRDWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MTRDWS?tag=rvgearlab-amz-20",
     "description": "The POWOXI 50W is a 12V ETFE panel with an independent MPPT controller, IP67 potted construction and a perturb and observe incremental conductance algorithm. At $89.99 it pairs a 50W panel with real MPPT regulation.\n\nIt is $19.00 below the SOLPERK 50W and $10.04 above the SUNER POWER 30W, so you get the same wattage as SOLPERK for less, plus MPPT. A 50W panel adds about 250Wh at 5 sun hours before losses. Pick this for a stored RV battery; the caveat is that it is a maintainer, not a daily-use charger.",
     "specs": [
       "50W, 12V, ETFE panel",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nh1+k02UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08XYY5CDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08XYY5CDM?tag=rvgearlab-amz-20",
     "description": "The SOLPERK 50W includes an IP65 waterproof charge controller, low-iron tempered glass and a corrosion-resistant aluminum frame, plus an adjustable mount. It is a trickle charger and maintainer kit for 12V batteries.\n\nAt $108.99 it costs $19.00 more than the POWOXI 50W and $29.04 more than the SUNER POWER 30W. The listing does not state MPPT regulation, so you pay extra for glass and frame durability. Pick this for harsh weather exposure; the caveat is that POWOXI 50W offers MPPT for less.",
     "specs": [
       "50W, 12V trickle charger",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t-GlZDtSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHD3GRSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHD3GRSF?tag=rvgearlab-amz-20",
     "description": "The SUNER POWER 30W is a waterproof 12V charger with built-in UltraSmart MPPT, improved three-stage charging (bulk, absorption, float) and automatic shutoff at full charge. It costs $79.95.\n\nIt is $10.04 below the POWOXI 50W and $29.04 below the SOLPERK 50W, but with 20W less power. Thirty watts is about 150Wh at 5 sun hours. Pick this for a battery that only needs maintaining; the caveat is that the smaller panel is slow on cloudy days.",
     "specs": [
       "30W, 12V, MPPT",

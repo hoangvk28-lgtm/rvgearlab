@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ee8JfWN0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-amz-20",
     "description": "The TGJOR is a 50 amp protector with 20,000 joules of surge absorption, automatic power disconnect and 110 degree Celsius overheat protection. An LCD shows live voltage with 103V to 132V marked as normal, plus fault codes for high or low voltage, open ground or neutral, reversed wiring and missing L1 or L2.\n\nAgainst the FOCSPROD and GEARGO, it is the only one that lists automatic disconnect and an LCD with a numeric voltage and codes. It also carries the highest joule rating.\n\nIt suits full-time and frequent travelers who want to see the exact voltage before connecting and have the unit cut power on a fault. A clear cover keeps water out of the connection.",
     "specs": [
       "20,000J, auto power disconnect",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KvzaeWNZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFNC8BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFNC8BS?tag=rvgearlab-amz-20",
     "description": "The FOCSPROD is a 50 amp protector with 16,000 joules of multi-layer surge protection and a circuit analyzer that reports faults such as open ground. Red and green indicator lights show power status, and a waterproof cover and rugged housing are listed for rain, wind and sun.\n\nIt sits between the TGJOR and the GEARGO on joules and price. Compared with the TGJOR, it uses lights instead of a voltage screen, which keeps the price lower.\n\nIt suits campers who want a simple red and green status check at a mid price. A right-angle plug and grip handles keep the connection compact.",
     "specs": [
       "16,000J, circuit analyzer",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q0Fbl8DGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2TF2S48?tag=rvgearlab-amz-20",
     "description": "The GEARGO is a 50 amp protector with 13,000 joules of surge protection and an analyzer with a diagnostic chart for faults such as open ground. It is FCC tested, uses V-1 flame-retardant material and claims an IP68 waterproof design, with a right-angle plug and grip handles.\n\nIt backs the unit with a 3 year warranty, which the other two do not state. Compared with the FOCSPROD, it has fewer joules and costs about the same.\n\nIt suits campers who want the longest stated warranty and a chart that explains each light pattern. The orange housing is easy to spot.",
     "specs": [
       "13,000J, circuit analyzer",

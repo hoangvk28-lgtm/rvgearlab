@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BGRh1pvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GST54FYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GST54FYN?tag=rvgearlab-amz-20",
     "description": "Skoiuc is a 20 foot solar string with shatterproof bulbs and an IP65 rating. It charges from the sun or by USB, runs 20 hours or more, and turns itself on at dusk and off at dawn.\n\nAt about $14 it costs $4 less than the Mocalido 30 LED and works with no battery changes. The KUQIHUG reel offers more length while this one runs itself.\n\nIt suits a campsite with sun in the day. The IP65 rating handles overnight rain.",
     "specs": [
       "20 ft, IP65 solar",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l-m1LbKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-amz-20",
     "description": "KUQIHUG is a 32.8 foot rechargeable string on a storage reel with RGB colors, a 2000mAh battery and a battery indicator. It runs up to 30 hours for the strings alone and works as a lantern and work light.\n\nAt about $15 it costs $1 more than the Skoiuc and gives 12.8 feet more. It needs a five-hour charge, unlike the solar string.\n\nIt suits a big awning or a van. The reel stores neatly.",
     "specs": [
       "32.8 ft, 2000mAh, RGB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51IXiLUFucL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQYT5YQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQYT5YQD?tag=rvgearlab-amz-20",
     "description": "Mocalido's battery-operated string is 20 feet long with 40 LEDs in shatterproof PC globes. A remote controls 16 single colors, 8 dynamic modes and a timer.\n\nAt about $16 it costs $1 more than the KUQIHUG and gives up the reel and the rechargeable battery. It uses replaceable batteries, so it works without an outlet.\n\nIt suits a party at the campsite. The remote controls colors from a chair.",
     "specs": [
       "20 ft, 40 LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rPD6nCiaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5T6JFJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5T6JFJX?tag=rvgearlab-amz-20",
     "description": "Mocalido's indoor string has 30 LEDs on a 20 foot cord, a remote with 16 single colors and 8 dynamic modes, and a 4, 6 or 8 hour timer. It is made for indoor use.\n\nAt about $18 it is the priciest pick and costs $4 more than the Skoiuc. It runs from a plug, so it suits a camper interior.\n\nIt suits a van or RV interior. Keep it dry and indoors.",
     "specs": [
       "20 ft, 30 LEDs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419vNypal9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRK8537L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRK8537L?tag=rvgearlab-amz-20",
     "description": "Minetom is a 21 foot string with 60 frosted shatterproof warm white globes, 8 modes and a 6 hour timer on the battery box. The button on the box switches modes.\n\nAt about $10 it costs $4 less than the Skoiuc and has the most bulbs. It uses batteries, so it works without sun.\n\nIt suits a tent or a bedroom. The warm glow is easy on the eyes.",
     "specs": [
       "21 ft, 60 warm white LEDs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JcxTXoJ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DV3BFR6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DV3BFR6C?tag=rvgearlab-amz-20",
     "description": "Metaku is a 20 foot solar string with 30 crystal globe bulbs in warm white, 8 lighting modes and a memory function. It turns on at dusk and off at dawn.\n\nAt about $10 it is the cheapest solar pick and costs $4 less than the Skoiuc. The Skoiuc adds an IP65 rating and USB charging.\n\nIt suits a sunny site on a tight budget. The memory chip recalls your last mode.",
     "specs": [
       "20 ft, 30 warm white LEDs",

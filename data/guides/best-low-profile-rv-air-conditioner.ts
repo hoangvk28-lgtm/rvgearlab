@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ozm2ysTnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8M41X7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8M41X7M?tag=rvgearlab-amz-20",
     "description": "The TURBRO inverter unit lists 13,500 BTU of cooling and heating, a thickness of 10.0 inches that it describes as up to 35 percent thinner than most competing products. It uses an inverter compressor with up to 30 percent greater efficiency and fits a 14.25 inch by 14.25 inch roof opening.\n\nAgainst the Coleman-Mach 15, it is much thinner and adds a heat pump. Against the 12V units, it runs on shore power with a larger capacity.\n\nBest for owners who want the slimmest unit and a heat pump. A strong match for low-clearance roofs.",
     "specs": [
       "10.0 inch thickness",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UmGC+ynaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK6GLQG9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK6GLQG9?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach 15 is a 15,000 BTU unit with a 13.9 inch profile and strong airflow for ducted applications. It lists 13.9 cooling amps, 16 heating amps with the optional heater and 18 amps for desert conditions, and weighs about 85 lbs.\n\nAgainst the TURBRO, it offers 15K BTU and ducted airflow but with a taller profile. Against the Furrion Chill Cube 18K, it adds Coleman-Mach name recognition.\n\nBest for big or ducted coaches that need maximum capacity in a low form. A fine choice for hot climates.",
     "specs": [
       "15,000 BTU, 13.9 inch profile",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M9j7Q+anL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM6YMJNY?tag=rvgearlab-amz-20",
     "description": "The Furrion Chill Cube 18K non-ducted unit uses variable speed compressors, weighs 72.4 lbs and has a bolt-on installation. The listing says it is about 10 percent lighter than other units and has an aerodynamic rooftop design to reduce drag.\n\nAgainst the Mach 15, it is lighter and offers higher capacity. Against the 12V units, it brings 18,000 BTU for large rooms.\n\nBest for large non-ducted coaches that want variable speed. A strong upgrade for power-limited rigs.",
     "specs": [
       "18K BTU variable speed",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hObg9Wm3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWGPP643?tag=rvgearlab-amz-20",
     "description": "The Gidrox is a 10,000 BTU 12V DC unit with inverter technology, a 40 dB sleep mode and app, remote and panel controls. It weighs 54 lbs, includes mounting hardware and a 19.7 foot power cable.\n\nAgainst the OutEquip units, it lists a lower noise level and app control. Against the shore power picks, it runs from a battery bank.\n\nBest for off-grid vans and small trailers that want quiet 12V cooling. A good fit for battery setups.",
     "specs": [
       "10,000 BTU, 12V DC inverter",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/219s7r9dm5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWDMPL3S?tag=rvgearlab-amz-20",
     "description": "The OutEquipPro is a 10,000 BTU 12V low-profile unit that lists 8 hours of cooling on a 480Ah power source and 10 hours on 600Ah. It has UV-stabilized ABS, an EPDM foam gasket, a zinc-coated condenser and brushless copper motor fans.\n\nAgainst the OutEquip with heater, it costs less. Against the Gidrox, it lists runtime hours on two battery sizes.\n\nBest for owners who want runtime figures on a 12V unit. A fair value for van builds.",
     "specs": [
       "10,000 BTU, 12V low profile",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315z8LK5BhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8NN1Z98?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8NN1Z98?tag=rvgearlab-amz-20",
     "description": "The OutEquip is a 10,000 BTU 12V rooftop unit with a heater listed in the title. It cools in 15 minutes per the listing and delivers 8 hours on a 480Ah bank and 10 hours on 600Ah.\n\nAgainst the OutEquipPro, it adds a heater at a higher price. Against the Gidrox, it combines cooling and heating.\n\nBest for 12V buyers who want a heater too. A good all-season off-grid pick.",
     "specs": [
       "10,000 BTU, 12V with heater",

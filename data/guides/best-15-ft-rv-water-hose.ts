@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G3IadPwwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JZ4QNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JZ4QNN?tag=rvgearlab-amz-20",
     "description": "The RVSNAIL 15FT is a food-grade rubber 5/8 inch hose with an upgraded 360 degree swivel grip handle. It lists aluminum fittings with rubber washers rated to 450 PSI and comes with a storage bag.\n\nThe swivel grip is the feature that sets it apart from the plain-grip RVMATE and RVGUARD hoses. It also includes a bag, which the Cupohus does not list.\n\nIt suits owners who connect and disconnect often. Pop-up and van owners get a compact coiled package.",
     "specs": [
       "5/8 inch, 15 ft",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EYxNO3lQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CY4P9ZJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CY4P9ZJ4?tag=rvgearlab-amz-20",
     "description": "The Kohree 15 FT is a 5/8 inch hose that lists a build 20 percent thicker than standard hoses. It has brass-plated aluminum fittings, strain relief ends and CA65 compliance.\n\nIt lists more fitting detail than the RVMATE hoses and has the highest price of the group. It is lighter than the Cupohus.\n\nIt suits owners who want a sturdy all-round short hose. The strain relief protects the ends.",
     "specs": [
       "5/8 inch, 15 ft",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41he1eGiCZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNT2JPLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNT2JPLG?tag=rvgearlab-amz-20",
     "description": "The Cupohus 15FT is a 5/8 inch extra thick wall hose that claims 25 percent faster filling than 1/2 inch hoses. It lists a rigid one-piece rubber grip and 3/4 inch lead-safe aluminum fittings.\n\nIt is the stiffest of the group and lists a nylon carry handle. It is aimed at larger tanks and busy trailers.\n\nIt suits RVs with big fresh tanks or many people. The stiff wall resists kinking.",
     "specs": [
       "5/8 inch extra thick wall",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mAKd-m7ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC7WYWND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC7WYWND?tag=rvgearlab-amz-20",
     "description": "The RVMATE 15FT lists 3/4 inch GHT fittings, 3-layer hybrid polymer and CA65 compliance. It uses compression technology and a sealing rubber ring with PTFE tape.\n\nIt costs slightly more than the other RVMATE and matches the RVGUARD on fittings. It is the pick that names GHT threads directly.\n\nIt suits owners who want clearly labeled garden hose threads. It is a solid mid-price pick.",
     "specs": [
       "5/8 inch, 15 ft",
@@ -136,7 +136,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rt0OPiDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQV5QCLL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQV5QCLL?tag=rvgearlab-amz-20",
     "description": "The RVMATE 15FT with male and female fittings lists the same 3-layer hybrid polymer and CA65 compliance as its sibling. It is priced lower and includes a rubber sealing ring and PTFE tape.\n\nIt ties the RVGUARD on price and costs less than the Kohree. It is a plain, dependable build.\n\nIt suits owners who want a simple low-cost hose. The male and female ends daisy-chain easily.",
     "specs": [
       "5/8 inch, 15 ft",
@@ -163,7 +163,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i5fgmBPHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BXWS9PX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BXWS9PX8?tag=rvgearlab-amz-20",
     "description": "The RVGUARD 15 FT lists fittings assembled by a high-pressure hydraulic machine so the hose does not separate from them. It is a 3-layer hybrid polymer hose with a rubber ring and PTFE tape.\n\nIt is the one pick that describes how the fittings are attached. It matches the lowest price in the group.\n\nIt suits owners who worry about fittings pulling off. The 3/4 inch thread fits most water sources.",
     "specs": [
       "5/8 inch, 15 ft",

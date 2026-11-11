@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FWd4s1M3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQQPTNS?tag=rvgearlab-amz-20",
     "description": "Kelty's Tru.Comfort Doublewide is a 20F synthetic double with Cloud Loft insulation, 64 inches of shared shoulder space and an 84 inch length. The listing names independent ventilation, a zip-off top layer, two built-in blankets, two-way foot vents and an oversized hood.\n\nIt beats the TETON and Guide Gear on adjustability, because each sleeper controls their own airflow. The hood fits two standard pillows, which neither of the others offers, and the quick-drying synthetic fill suits damp campsites.\n\nA strong choice for couples who run at different temperatures. Peel back the top layer on warm nights and keep the blankets for cold ones.",
     "specs": [
       "20F synthetic double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OLL3pvooL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000F38YI2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000F38YI2?tag=rvgearlab-amz-20",
     "description": "TETON's Mammoth 20 Degree is a 94 x 62 inch double that the listing describes as larger than a queen mattress. A poly-flannel lining, draft tubes at the zipper and shoulders, and unzipping on each side and across the bottom are all named.\n\nIt gives the most space of the three, with 10 inches more length than the Kelty and 12 inches more width than the Guide Gear. The included stuff sack makes loading simple.\n\nA fit for tall couples and for families where a child sometimes crawls in. Fluff it before bed and add a pad underneath.",
     "specs": [
       "94 x 62 inch double",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VkAXBmYcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079H1QBLG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079H1QBLG?tag=rvgearlab-amz-20",
     "description": "Guide Gear's Canvas Hunter 20 is a 50 x 80 inch double with 6 lb of insulation, a 210T ripstop polyester shell and a 200gsm fleece lining. The listing says it is comfort rated down to 20F and weighs 10.6 lb.\n\nIt costs the least, and the fleece lining feels soft against the skin. The cost is width, since 50 inches leaves less shared room than the TETON or Kelty.\n\nChoose it for couples on a budget who camp from a vehicle and sleep close. A full-length double-sided zipper helps with entry.",
     "specs": [
       "6 lb insulation, fleece lining",

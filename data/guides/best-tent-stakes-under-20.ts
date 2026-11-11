@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dUGLtT3BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8VQPMFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8VQPMFL?tag=rvgearlab-amz-20",
     "description": "The Eurmax set holds 20 galvanized steel stakes, four 10 foot ropes and one orange stopper. The galvanized coating resists rust, and the bright stopper marks stake lines so campers do not trip.\n\nIt is the only pack that includes ropes, which makes it a full anchoring kit for a canopy or pop-up. It costs about $4 more than the Cheardia pack and about $15 more than the KLASIT.\n\nIt suits canopy users and family campers who want stakes plus ropes in one purchase. Rope length covers a 10 by 10 canopy.",
     "specs": [
       "20 galvanized steel stakes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QupF8FMeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-amz-20",
     "description": "The Cheardia pack holds 20 galvanized iron stakes, each 9.75 inches long and 7 millimeters thick. The T-shaped top and milled round point help you line up the strap and drive straight.\n\nThese are longer and thicker than the KLASIT stakes, and a hook keeps each one from sinking too deep while giving a hole for pulling. They cost about $10 more than the KLASIT pack.\n\nIt suits car campers who pitch on firm or medium soil. Use a mallet to drive them in.",
     "specs": [
       "20 pack, 9.75 in long, 7mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51691P76jWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G9JXS8NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G9JXS8NR?tag=rvgearlab-amz-20",
     "description": "This set holds 12 carbon steel screw-in stakes that are 8 inches long with a galvanized coating. It comes with a hex head driver and a carrying bag, and the stakes glow in the dark.\n\nThe screw design grips loose soil, sand and grass better than a straight peg. It costs about $1 more than the Cheardia pack and gives fewer stakes.\n\nIt suits campers on loose ground who own a cordless drill. A drill speeds up setting and removal.",
     "specs": [
       "12 screw-in carbon steel stakes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WVR8EpQwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6LYJYDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6LYJYDG?tag=rvgearlab-amz-20",
     "description": "The Qumenan pack holds 20 black plastic spiral stakes, each about 7.7 by 1.8 inches. They twist into soil, grass or sand, and the plastic is rust-resistant and reusable.\n\nThey weigh much less than steel and do not rust, which suits a long-term yard or beach setup. They are lighter-duty than the Cheardia and give less holding power in wind.\n\nIt suits light tarps, inflatable decorations and calm-weather camps. Use them for hammocks and small shelters.",
     "specs": [
       "20 plastic spiral stakes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kC2sTtCIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKB47Z5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKB47Z5V?tag=rvgearlab-amz-20",
     "description": "The KLASIT pack holds 20 rust-resistant metal stakes, each 7.1 inches long and 4 millimeters thick, with a curved hook top. The length gives deep penetration without being too long to carry.\n\nIt is the cheapest pack in the group and the thinnest at 4 millimeters. It costs about a third of the Eurmax kit, and it leaves the money for a mallet.\n\nIt suits light tents and tarps where price matters most. Drive them in with a mallet.",
     "specs": [
       "20 pack, 7.1 in long, 4mm",

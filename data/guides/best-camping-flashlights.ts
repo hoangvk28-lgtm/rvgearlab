@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51q9m3lZOxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DJQF83C2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DJQF83C2?tag=rvgearlab-amz-20",
     "description": "The TrixHub 2-Pack provides two USB rechargeable zoom flashlights with an LCD battery readout and a fast-charging chip. Each has five modes (high, medium, low, strobe and SOS), an aircraft-grade aluminum shell and a stretch-head zoom.\n\nOf the five, it is the only one that shows remaining charge on a screen. It also combines rechargeable power with zoom, which the AAA minis do not offer.\n\nIt suits families who want a spare light for the tent and the car. The compact body fits a glove box or day pack.",
     "specs": [
       "Two rechargeable zoom lights",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-WqcraUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PMKBHF1?tag=rvgearlab-amz-20",
     "description": "The Victoper 2-Pack lists a reach of up to 656 feet, five modes and a zoomable head. A Type 3 hard-anodized aircraft-grade alloy shell is stated, with a quoted LED lifespan over 50,000 hours.\n\nIt costs less than the TrixHub and keeps zoom and strobe or SOS modes. It does not show battery level on a screen.\n\nIt suits budget campers who want two tough lights for the tent and the truck. The abrasion-resistant finish handles rough bags.",
     "specs": [
       "656 ft reach, five modes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51w3fbbNhTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N06BBFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N06BBFS?tag=rvgearlab-amz-20",
     "description": "The LETMY S2000 is a two-pack of pocket-size tactical flashlights with five modes and an adjustable focus from flood to spotlight. It is described as splash-resistant from any angle, with a hand strap and anti-slip body.\n\nIt is the lowest-priced light in the list and describes a mini, pocket-friendly size. The listing does not describe rechargeable cells like the TrixHub.\n\nIt suits campers who want a small backup in a car or drawer. The strap and compact body suit easy carrying.",
     "specs": [
       "Two zoom torches, 5 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418T5WEIOuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071SJ6NBS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071SJ6NBS?tag=rvgearlab-amz-20",
     "description": "The EverBrite 6-Pack contains six mini 9-LED flashlights with 18 AAA batteries included, three per light. Each reaches up to 59 feet, has a wrist lanyard and comes in a different color.\n\nIt supplies a flashlight for each family member or scout, which no 2-pack can do. Batteries come in the box, so it works the moment it is opened.\n\nIt suits families, scout groups and classrooms that want a light for every person. The colors make it easy to tell whose is whose.",
     "specs": [
       "Six 9-LED mini flashlights",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nHJX5J08L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6N6JLV1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6N6JLV1?tag=rvgearlab-amz-20",
     "description": "The EverBrite Glow 3-Pack has soft yellow LEDs aimed at reading and walking in the dark, with a handle that glows in the dark. The aluminum flashlights measure 3 6/7 inches, weigh 2 ounces and include 9 AAA batteries.\n\nIt is the only set with a soft yellow light and a glow-in-the-dark handle, which helps find it in a tent. It is lighter than the 6-Pack units.\n\nIt suits kids and readers who need a gentle light that is easy to find. The extended 6 inch lanyard helps carrying.",
     "specs": [
       "Soft yellow LEDs, 2 oz",

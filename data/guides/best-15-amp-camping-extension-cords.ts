@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410qkzQB--L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6LL32K2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6LL32K2?tag=rvgearlab-amz-20",
     "description": "The PRIMOWIRE is a 50 foot 14/3 cord rated 15 amps and 1875 watts, with a lighted plug end and a locking plug that resists pull-outs. The SJEOW jacket is listed for water, oil and flame resistance and a temperature range from minus 58 degrees Fahrenheit.\n\nIt is the longest 15 amp cord here and the only one with a locking plug. Against the 12 gauge Iron Forge, it reaches farther at the cost of a thinner wire.\n\nIt suits campers who need a long reach from a post to a far site and want the plug to stay put. The bend and pull tests listed back its build.",
     "specs": [
       "50 ft, 14/3, 15A, 1875W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MERG77hWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0868WXSNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0868WXSNG?tag=rvgearlab-amz-20",
     "description": "The Iron Forge is a 15 foot 12/3 SJTW cord in bright yellow, rated 15 amps, 125 volts and 1875 watts with UL certification. A lit end shows power, reinforced blades protect the prongs and the temperature range is minus 40 to plus 140 degrees Fahrenheit.\n\nIt carries the thickest wire among the short cords and the only UL mark, from a veteran-owned seller. Compared with the huanchain 12 gauge, it adds a UL label and a higher price.\n\nIt suits campers who want a short, heavy cord between a post and a fridge or heater. The yellow jacket is easy to spot.",
     "specs": [
       "15 ft, 12/3 SJTW, 15A",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LmwubgyBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NY3ZZQO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NY3ZZQO?tag=rvgearlab-amz-20",
     "description": "The GoGreen Power 14/3 is a 25 foot SJTW cord rated 15 amps and 1875 watts, with molded plugs and an ETL listing. It is described as contractor grade, resistant to moisture and abrasion, and made to withstand prolonged sun exposure.\n\nIt sits between the 15 foot cords and the 50 foot PRIMOWIRE for reach and price. Against the PRIMOWIRE, it drops the lit end and locking plug for a lower price.\n\nIt suits campers with a mid-size site who want a plain, rugged cord. Molded plugs add durability at the ends.",
     "specs": [
       "25 ft, 14/3 SJTW, 15A",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BkpoLWqQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CH7XDVBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CH7XDVBB?tag=rvgearlab-amz-20",
     "description": "The huanchain 12 gauge is a 15 foot cord rated 15 amps, 125 volts and 1875 watts. It lists a lighted socket, an IP65 rating, cold resistance to minus 50 degrees Celsius and a hook and strain relief design on the plug ends.\n\nIt matches the Iron Forge on gauge and amp rating and costs less, with no UL mark named. Compared with the huanchain 14 gauge, it adds thicker wire for a small price step.\n\nIt suits campers who want a heavy short cord without paying a premium. The socket hook makes it easy to hang.",
     "specs": [
       "15 ft, 12 gauge, 15A, 1875W",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pWegfD1OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ1KPSCG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ1KPSCG?tag=rvgearlab-amz-20",
     "description": "The huanchain 14 gauge is a 15 foot cord rated 15 amps, 125 volts and 1875 watts. It lists a flame-resistant IP65 jacket, resistance to minus 50 degrees Celsius, a power indicator on the socket and strain relief at the ends.\n\nIt is one of the cheapest 15 amp outdoor cords on the list. Against the 12 gauge huanchain, it uses slightly thinner wire for a lower price.\n\nIt suits campers who want an outdoor 15 amp cord for a fan, a cooler plug or a light kit. The indicator light shows when the line is live.",
     "specs": [
       "15 ft, 14 gauge, 15A, 1875W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T3WI1xrFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYJV3FTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYJV3FTK?tag=rvgearlab-amz-20",
     "description": "The FIRMERST is a 10 foot 14 AWG cord rated 15 amps, 125 volts and 1875 watts with a NEMA 5-15 plug. The listing positions it for TVs, lamps, speakers and household appliances.\n\nIt is the cheapest and shortest cord here, and the only one written for indoor appliances. Compared with the outdoor cords, it fits an RV interior or tent hookup rather than a wet site.\n\nIt suits RV owners and glampers who need a short, heavy-duty cord inside the rig for a fridge, heater or TV. The 14 gauge wire carries the full rating over a short run.",
     "specs": [
       "10 ft, 14 AWG, 15A, 1875W",

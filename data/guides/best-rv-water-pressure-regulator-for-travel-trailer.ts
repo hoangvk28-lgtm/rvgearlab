@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515rZgeOoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJZMHH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJZMHH1?tag=rvgearlab-amz-20",
     "description": "The Nilight Handle adjusts with a twist handle instead of a screwdriver, covers 0 to 160 psi, and is preset at 45 psi. It is lead-free brass tested to under 0.13 percent lead, and it carries a gauge so you can read pressure at the spigot.\n\nCompared with the RVGUARD Valve below it, the difference is tool-free adjustment, which helps when you are setting up alone in fading light. It is a few dollars more and the handle can be nudged if the bin shifts in transit.\n\nBest for weekend towers who want to set pressure by hand and read it right away. The wide gauge range makes small adjustments hard to read.",
     "specs": [
       "Twist handle adjustment",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hOYf87xmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083HSQMHX?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Valve is set to 45 psi at the factory, adjusts with a screwdriver, and has a gauge and an inlet screen. The listing names NSF/ANSI 61 and 372 and C46500 lead-free brass.\n\nIt is the more locked-in version of the RVGUARD Knob below, since a screw slot is harder to knock than a knob. Against the Nilight Handle above, it needs a tool but names two standards.\n\nBest for trailer owners who set pressure once and travel with it in a tote. Keep a flat screwdriver with the regulator.",
     "specs": [
       "Factory 45 psi",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515XuiRZohL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N7JZTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N7JZTYX?tag=rvgearlab-amz-20",
     "description": "The Renator is a brass regulator with a stainless steel liquid-filled gauge, preset at 45 psi and adjustable up to 160 psi. The listing says it comes with U.S.-based phone and email support, with quality checks done in a Florida warehouse.\n\nCompared with the Nilight Handle, you swap a hand handle for a liquid-filled stainless gauge that holds up to vibration. The inlet screen also filters debris, per the listing.\n\nBest for owners who value a steadier gauge and reachable support. The brass is tested under 0.13 percent lead, but no named standard appears on the listing.",
     "specs": [
       "Liquid-filled stainless gauge",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THEbJviQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Knob uses an adjustable knob, so you change pressure by hand without a tool, and it has a gauge and an inlet screen. It names NSF/ANSI 61 and 372 for the lead-free brass body.\n\nCompared with the Nilight Handle above, it adds named standards at a similar price, but its knob can be bumped like any handle. Against the RVGUARD Valve it trades a locked-in screw for convenience.\n\nBest for trailer owners who adjust on arrival at each site. The knob design and gauge together add bulk at the spigot.",
     "specs": [
       "Hand adjustment knob",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p2Yz8bT+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3236B8K?tag=rvgearlab-amz-20",
     "description": "The AOLINK is a lead-free brass regulator with a 0 to 160 psi gauge, manual adjustment, inlet screening and a comfortable grip. It uses standard 3/4 inch garden hose thread connections.\n\nIt is a plainer package than the Renator Gauge above, with no stated gauge fill or support claims, but it is cheaper. The grip makes it easy to thread on with wet hands.\n\nBest for budget buyers who still want a gauge and a screened inlet. No named lead standard appears, so check the packaging.",
     "specs": [
       "0 to 160 psi gauge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kQOn2TE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL86BVBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL86BVBC?tag=rvgearlab-amz-20",
     "description": "The FOCSPROD has a top-mounted graduated dial for presetting and adjusting pressure, a gauge factory set to 45 psi, and an inlet screen filter. It uses a hybrid build intended for harsh outdoor conditions.\n\nCompared with the AOLINK Gauge above it, the graduated dial gives a visual reference for changes without a screwdriver. The hybrid construction is less defined than the brass of the other picks.\n\nBest for owners who like a marked dial. The listing notes it can only reduce pressure, never raise it, which holds for every regulator here.",
     "specs": [
       "Top graduated dial",

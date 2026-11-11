@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vzZIjb3jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDQ84QJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDQ84QJL?tag=rvgearlab-amz-20",
     "description": "The OneTigris ASH is 11.15 ft long and 8.86 ft wide and uses a central support pole for headroom and wind resistance. The 70D silicone and PU coated nylon is rated 3000mm waterproof, with snag-free waterproof YKK zippers.\n\nIt differs from the COZSHACK and the budget shells by setting up with trees as a tarp-style shelter, so a hammock can hang inside with a stove burning. That versatile setup comes with heavy-duty stakes and poles, which the cheaper listings list as plainer kits.\n\nIt suits hammock campers who want a proper bushcraft shelter that sleeps two to four with gear. Two mesh windows with flaps add airflow without losing warmth.",
     "specs": [
       "11.15 ft long, 8.86 ft wide",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y6JbP8-RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFXZ8TRL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFXZ8TRL?tag=rvgearlab-amz-20",
     "description": "The COZSHACK is 12.5 ft long and 8.7 ft wide with a 70D sil-coated nylon exterior and a PU and silver coated inner surface. It is designed for winter hammock campers and sleeps two to four comfortably.\n\nThe silver inner coating is the feature that separates it from the ASH, which keeps a plain inner. It also accommodates all tent stoves and hammock types, and it can be pitched with trees, your own poles or as a tailgate tent.\n\nIt suits cold-climate hammock campers who prioritize keeping stove heat inside the shelter. The kit packs into a 19.7 by 7.9 inch stuff sack.",
     "specs": [
       "12.5 ft long, 8.7 ft wide",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZLFWWRmuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQ6W3XM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQ6W3XM?tag=rvgearlab-amz-20",
     "description": "The Dandelion Shell has one stove jack on top and one on the side to suit different pipe angles. It runs 12.5 ft long and 6.6 ft wide and uses 210T polyester rated 3000mm waterproof, with mesh doors and windows.\n\nWhere the OneTigris models use nylon and a center pole, this one uses polyester and lists 8.49 lb of weight with a full kit of 14 stakes, 10 guy lines and two stove jacks. That puts it between the heavier Zoring and the lighter Soulchen.\n\nIt suits budget-minded hammock campers who want flexible stove placement. Each door has four zippers for easy entry with gear inside.",
     "specs": [
       "Two stove jacks, roof and wall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VNmggMMGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJFL3LS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJFL3LS9?tag=rvgearlab-amz-20",
     "description": "The Zoring lists one top roof stove jack and one side wall jack, both pre-installed and covered with fireproof cloth. It uses 210T polyester at 3000mm, with two large mesh doors that each have three snag-free zippers.\n\nSet beside the Dandelion Shell, it costs less and adds three lantern hanging points while weighing 10.67 lb. Next to the Soulchen it offers a snow skirt and more documented stove-jack fabric.\n\nIt suits first-time hot-tent buyers who want hammock compatibility at an easy price. The four roof guy-line points help in snow and wind.",
     "specs": [
       "Roof and wall stove jacks",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Jx7hccKgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNV53L6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNV53L6?tag=rvgearlab-amz-20",
     "description": "The Soulchen weighs 7.9 lb with an interior about 11.8 ft long and 6.6 ft wide, built from high-density polyester with two stove pipe vents and a snow skirt. The package includes a carry bag, 12 stakes and 6 wind ropes.\n\nIt is the lightest and cheapest of the five. Next to the Zoring it saves about 2.8 lb, and it keeps the two pipe openings that the OneTigris models only offer one of.\n\nIt suits solo or pair hammock campers who carry gear on foot between sites. It handles two to three sleepers without a hammock at all.",
     "specs": [
       "7.9 lb total weight",

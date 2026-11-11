@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31g-FD5he7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN81LVDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN81LVDS?tag=rvgearlab-amz-20",
     "description": "SOGTICPS's 80A MPPT states 150V PV, up to 99% tracking, 1040W at 12V up to 4160W at 48V and an IP30 rating. SOGTICPS's 80A MPPT controller lists up to 99% tracking, a 150V maximum PV voltage and solar input from 1040W at 12V to 4160W at 48V. It supports gel, sealed, flooded and lithium (LiFePO4 and NMC) batteries with customizable profiles and an IP30 rating.\n\nIt costs less than POWLAND 80A and lists more input detail. It also offers customizable profiles for lithium.\n\nBest for a documented, fairly priced 80A. It is a fairly priced, well-specified 80A for larger arrays.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410k4QmvnGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXZS4SMY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXZS4SMY?tag=rvgearlab-amz-20",
     "description": "PowMr's 80A lists 99.9% tracking, 98% conversion and an aluminum housing, with PV limits by system voltage. PowMr's 80A MPPT controller lists 99.9% real-time tracking and up to 98% conversion in an aluminum housing, with negative-ground wiring. The listing states PV limits per system (80VDC on a 12V system) and names sealed, gel, flooded and LiFePO4 batteries.\n\nIt costs less than POWLAND 80A and states 80V PV on 12V. It uses three-stage charging.\n\nBest for a builder who reads the PV table. Check the PV table before designing your strings.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aCjmLzLgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8BPS26?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8BPS26?tag=rvgearlab-amz-20",
     "description": "This PowMr 80A states 150V PV, 3840W max input and a 9 to 60V output range, but only an IP21 rating. This PowMr 80A MPPT listing gives a 150V maximum solar input and 3840W maximum input power, auto-detects 12V, 24V, 36V and 48V systems and is a parallel version. The listing states an IP21 rating.\n\nIt costs less than PowMr 80A Aluminum and is a parallel version. It should live indoors.\n\nBest for a protected indoor install. Mount it indoors, since IP21 gives only basic protection.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DkoStmX5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C99BSZ5G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C99BSZ5G?tag=rvgearlab-amz-20",
     "description": "POWLAND's 80A lists 150V PV and a four-level charge for 12V to 48V. POWLAND's 80A MPPT controller covers 12V to 48V systems with a four-level charge (bulk, boost, float, equalizing) and a 150V maximum PV input. Protections include short circuit, open circuit, reverse and overload.\n\nIt costs more than SOGTICPS 80A 150V and gives less tracking detail. It is a near twin of POWLAND 80A Gel/AGM.\n\nBest for a POWLAND buyer who wants the main listing. It costs a little more than its near twin, so compare the two listings.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RIi79KQpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5MRDYPN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5MRDYPN?tag=rvgearlab-amz-20",
     "description": "This POWLAND 80A listing names gel, AGM and lithium and states 150V PV and 80A current. This POWLAND 80A listing describes an MPPT controller for 12V, 24V, 36V and 48V systems with a 150V maximum PV input and charging current up to 80A. It names flooded, AGM and gel lead-acid and lithium batteries.\n\nIt costs a little less than POWLAND 80A and reads almost the same. Compare both prices on the day.\n\nBest for the same unit at a slightly lower price. It costs slightly less than the sibling listing for the same described class of unit.",
     "specs": [
       "80A MPPT, 12V to 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Lm03GnuAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6FB2X5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6FB2X5K?tag=rvgearlab-amz-20",
     "description": "SOGTICPS's 80A states a 100V PV cap with a backlit LCD, clock and seven modes at the lowest price. SOGTICPS's 80A MPPT controller handles 12V, 24V, 36V and 48V systems with a 100V maximum PV input. A backlit LCD with a clock and seven operating modes are listed.\n\nIt costs far less than SOGTICPS 80A 150V but has a lower PV cap. Confirm warranty.\n\nBest for strings under 100V. It is a low-cost 80A for modest strings.",
     "specs": [
       "80A MPPT, 12V to 48V",

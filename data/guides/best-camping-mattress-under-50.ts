@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i-+9hK3dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTMCZRMX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTMCZRMX?tag=rvgearlab-amz-20",
     "description": "The HiiPeak is a 3 inch thick pad with hexagon-shaped air cells, a built-in pillow and a foot pump that inflates in about 30 seconds. The back is 50D polyester pongee with multi-layer TPU, and side buttons connect two pads.\n\nAgainst the Intex beds, it packs much smaller and needs no pump. Compared with the Intex camping mat, it is thicker and includes a pillow.\n\nIt suits campers who want a pad that includes everything. Two pads join into a double.",
     "specs": [
       "3 inch hexagon air cells",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21LG2g++KQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B073HP1JVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B073HP1JVY?tag=rvgearlab-amz-20",
     "description": "The Intex 67997E camping mat is 26.5 by 72.5 inches with wave-beam construction and a 2-ply laminate bottom. It is rated for 300 lb and stores compactly when deflated.\n\nCompared with the Intex Dura-Beam beds, it is made for the outdoors with a tougher base. Against the HiiPeak, it needs an external pump.\n\nIt suits tent campers who want a low pad from a known brand. The velvety top is easy to wipe.",
     "specs": [
       "26.5 x 72.5 inch mat",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h4sqfJO6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-amz-20",
     "description": "The Intex 64103E is a 10 inch queen air mattress rated for 600 lb. It uses Fiber-Tech beams of polyester fibers, a velvety surface and a 2-in-1 valve.\n\nCompared with the HiiPeak, it sleeps two and sits much higher. Against the twin Intex beds, it doubles the sleeping area.\n\nBest for two-person car camps with room for a tall bed. It costs about the same as a single pad.",
     "specs": [
       "Queen size, 10 inch height",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KIEc6s0iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768LRN6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768LRN6T?tag=rvgearlab-amz-20",
     "description": "The Intex 64101E is a 10 inch twin Dura-Beam bed rated for 300 lb. It has Fiber-Tech beam construction and a velvety top.\n\nCompared with the Intex Downy twin, it is the more standard build. Against the queen, it fits smaller tents.\n\nIt suits solo campers who want a full-height bed at a very low price. The 2-in-1 valve speeds setup.",
     "specs": [
       "Twin size, 10 inch height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21mfF99Jq-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0989JLFGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0989JLFGW?tag=rvgearlab-amz-20",
     "description": "The Intex 64757E Dura-Beam Downy twin has a 10 inch height and a 300 lb rating. It uses the same Fiber-Tech beam construction and a downy top surface.\n\nCompared with the standard twin, it has a softer-feeling top and costs a little less. Against the camping mat, it is much taller.\n\nIt suits guests and occasional campers who want the lowest price. It doubles as a home guest bed.",
     "specs": [
       "Twin size, 10 inch height",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v9VHsHlSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF9MJ6HG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF9MJ6HG?tag=rvgearlab-amz-20",
     "description": "The Amcelooy is a 6-in-1 with a 2,400 peak amp jump starter listed for engines up to 8.0L gas and 8.0L diesel, a 100 PSI digital tire inflator and a 12V 20Ah SLA-AGM battery. Its converter is listed at 400W continuous and 800W peak.\n\nIt pairs a bigger jump rating than either ZunDian with the same 400W AC class, and it adds a digital pressure display. The Schumacher SJ1332 has half the AC output.\n\nIt suits drivers who want one box for roadside jump starts, tire top-ups and a laptop or small appliance at camp. The AGM battery gives a larger energy store than the compact lithium Gillaway.",
     "specs": [
       "2,400 peak amps, 8.0L gas/diesel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oxt+yiSGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6ZGKGG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6ZGKGG7?tag=rvgearlab-amz-20",
     "description": "The ZunDian 2200A lists up to 1800 peak amps for 12V vehicles up to 8.5L gas and 8.0L diesel, a 150 PSI air compressor, a 400W AC inverter with USB and DC outputs, and an LED flashlight. It is sold as a 6-in-1 roadside assistance tool.\n\nIts 150 PSI compressor outranks the Amcelooy 2400A's 100 PSI, and it supports a larger gas engine than the 1800A ZunDian. It gives up some jump rating to the Amcelooy.\n\nIt suits truck and SUV owners who inflate big tires and want a 400W AC outlet for a laptop or CPAP-class device. A flashlight helps with night repairs.",
     "specs": [
       "2200A, up to 8.5L gas",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517i++lQYoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08SGB4KLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08SGB4KLS?tag=rvgearlab-amz-20",
     "description": "The ZunDian 1800A restarts 12V vehicles up to 8.0L gas and 6.0L diesel and includes a 150 PSI air compressor, a 400W AC inverter and an LED work light with a carrying handle. It charges phones through USB and DC ports too.\n\nIt shares the 400W AC rating and 150 PSI compressor of the ZunDian 2200A at a lower price and a smaller engine rating. It out-powers the Schumacher SJ1332 on AC watts.\n\nIt suits car owners who want the 400W outlet and compressor without paying for a bigger jump rating. The work light helps with tire changes.",
     "specs": [
       "1800A, 8.0L gas, 6.0L diesel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rTuztdxDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKM1BZSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKM1BZSF?tag=rvgearlab-amz-20",
     "description": "The Gillaway V10 lists a 10,000A starting current for 12V and 24V vehicles, operating from -4 to 140 degrees F, with a 155Wh, 42,000mAh lithium pack. It has a 5V/3A USB port and a lighting function, and ships with a smart battery clip, USB cable and a 12-month warranty.\n\nIt is the only pick here that supports 24V heavy trucks and the only one using a lithium pack, so it is far lighter than the lead-acid units. It has no listed AC outlet, which sets it apart from the Amcelooy 2400A.\n\nIt suits truck, RV and boat owners who need to start a 24V system and charge phones. The wide temperature range suits cold-weather camping.",
     "specs": [
       "10,000A start current, 12V/24V",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QrspWkOeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07892JQ1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07892JQ1Q?tag=rvgearlab-amz-20",
     "description": "The Schumacher SJ1332 is a 6-in-1 with a 1,200-amp jump starter rated for 8.0L gas and 6.0L diesel, a 150 PSI compressor, an LED area light, two AC outlets and two 12V DC outlets. Its converter is 200W continuous and 400W peak.\n\nIts AC output is the lowest of the AC-equipped units, and the two AC outlets plus a USB-A port still make it simple to plug in more than one device. It costs less than the ZunDian pair.\n\nIt suits light-duty drivers who want a jump starter and a few outlets for a phone and a small fan. A known brand helps with warranty support.",
     "specs": [
       "1,200 amps, 8.0L gas/6.0L diesel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H6LpHBkiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0756QSKDN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0756QSKDN?tag=rvgearlab-amz-20",
     "description": "The Schumacher DSR119 delivers 1,800 amps for 8.0L gas and 6.0L diesel engines, with a high-output AGM battery rated at 280 cranking amps and 225 cold-cranking amps. It has a corrosion-proof case, heavy-gauge cables, professional-grade clamps and a 12V DC accessory outlet.\n\nIt is the jump starter of the group rather than the power station, with no AC outlet listed, so it trails the Amcelooy 2400A for camp use. Its clamps and cables are built for shop and fleet work.\n\nIt suits home users, shops and boat owners who care most about reliable starting and need a 12V outlet for accessories. It works with standard, AGM, gel and deep-cycle batteries.",
     "specs": [
       "1,800 amps, AGM battery",

@@ -23,7 +23,7 @@ type Severity = "high" | "medium" | "low";
 interface Finding { rule: string; severity: Severity; detail: string }
 
 const ROOT = process.cwd();
-const TAG = "theofficejournal-20";
+const TAG = "rvgearlab-amz-20";
 const SISTER_SITES = ["../smartspace-picks", "../workcocoon"];
 
 // ── Rule patterns ────────────────────────────────────────────────────────────

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vu7GV+iGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4JBLCS3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4JBLCS3?tag=rvgearlab-amz-20",
     "description": "The Welmotive kit has four 550 mm aluminum bars with 120 5050 LEDs, listed at 2880 lumens total and 24W (6W per bar at 0.5A each at 12V). It is IP67 rated and offers a 3 m cigarette lighter cable, alligator clips, USB and Type-C power, with magnets and 8 straps for mounting.\n\nIt is the brightest and most flexible 12V kit here and carries more connector options than the TopAutoGear. It costs more than the others.\n\nVan and RV owners will like that the bars strap on or stick to metal surfaces. The kit ships with a carry bag and a dimmer.",
     "specs": [
       "4 bars, 2880 lumens, 24W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZWcAgJfDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVQVSVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVQVSVD?tag=rvgearlab-amz-20",
     "description": "The TopAutoGear kit has 2 white and 2 amber 20 inch aluminum bars, each with 30 5050 LEDs, an IP67 rating, built-in magnets and straps. It includes a 10 ft quick-connect lead with a cigarette lighter plug and a battery clamp, a dimmer and a carry bag.\n\nIt is cheaper than the Welmotive and adds amber bars for warm light. The amber bars cut insects and glare.\n\nIt suits campers who want white work light and amber ambiance from one kit. The 10 ft lead reaches across a tent.",
     "specs": [
       "2 white, 2 amber 20 inch bars",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vDtVSJcHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H375K6R7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H375K6R7?tag=rvgearlab-amz-20",
     "description": "The telescopic 12V light lists 10,000 lumens from 228 COB LEDs, 3 brightness levels at 25%, 50% and 100%, an IP65 rating and a remote. It has a maximum height of 118 inches and connects to 12V by battery clips or a cigarette lighter plug.\n\nIt is the tallest and the brightest on paper here, with a lumen figure above the Welmotive's total. It lists a remote and a stand-up design.\n\nIt suits campers who want a floodlight on a pole for a big site. The telescoping mast raises it above tents.",
     "specs": [
       "10,000 lumens, 228 COB LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+8GFFFuNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08S6ZLJSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08S6ZLJSG?tag=rvgearlab-amz-20",
     "description": "The symbuth is a 12V DC COB LED panel with 336 FLIP chips, a 70W maximum, an RF remote with 10 brightness levels and 8 modes. It measures 8.7 by 4.4 inches, is under 4 mm thick and takes up to 5A from any 12V source.\n\nIt is the thinnest and one of the cheapest picks, and it is a bare module with no mount or case. The listing says it equals a 350W halogen lamp.\n\nIt suits DIY campers who want a slim panel for a camper or a build. A heat sink is not needed at 12V constant voltage.",
     "specs": [
       "12V DC, 70W max, 5A",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yZPu7F3oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJWYWJ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJWYWJ3K?tag=rvgearlab-amz-20",
     "description": "The UILFHX is a 12V LED bulb offered in 6W, 12W and 18W versions, with a 6500K light and a 50,000 hour life. It has a stainless steel lamp head, a 3 m clamp wiring harness with a switch and a red-and-black connection to a battery.\n\nIt is the simplest and cheapest pick, with clips for direct battery use. It gives a single point of light, not a bar.\n\nIt suits campers and boaters who want a quick emergency light. It is listed for caravan, van, boat and truck use.",
     "specs": [
       "12V, 6W, 12W or 18W",

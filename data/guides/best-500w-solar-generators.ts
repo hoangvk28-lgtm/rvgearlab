@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VZC9+pmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCNYQX4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCNYQX4K?tag=rvgearlab-amz-20",
     "description": "The ALLWEI kit combines a 512Wh LiFePO4 station rated 500W (1,000W surge) with a 100W solar panel. The station has two AC outlets, 100W and 36W USB-C ports, two DC5521 outputs and a car socket, and accepts up to 120W of solar or 200W of AC input.\n\nIt is the one true 500W kit with a panel in the box. The listing quotes a 6.5 hour full solar charge, a 2.5 hour wall charge, a 10ms UPS and 3,000 cycles over 10 years.\n\nIt suits car campers who want a complete small kit with UPS for home. Nine devices charge at once.",
     "specs": [
       "512Wh LiFePO4, 500W / 1000W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X3uJJ1NsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6V2P9JW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6V2P9JW?tag=rvgearlab-amz-20",
     "description": "This 519.48Wh unit offers two 120V 500W pure sine wave AC outlets, runs up to 10 devices and weighs 14.1 pounds with a solid handle. It recharges in 6 to 9 hours from a compatible 100W or 200W panel, which is sold separately, and has a built-in battery management system.\n\nIt costs about half the ALLWEI kit and leaves the panel out. A second listing of the same unit exists, so the two count as one pick.\n\nIt suits buyers who already own a panel or plan to buy one. The pack is lithium, with no chemistry named.",
     "specs": [
       "519.48Wh, 500W AC, 14.1 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QX0dx1pkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYXQ2KMG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYXQ2KMG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 kit pairs a 3,014.4Wh LFP station with a 500W panel and offers 2,400W output, a dedicated TT-30 outlet and a 12V 30A DC port. The listing says the station is nearly 59% smaller than traditional large stations and recharges from solar in 7 to 10 hours.\n\nIt is the one 500W-panel kit with an RV TT-30 outlet, which lets an RV plug in with no adapter. It holds less energy than the Jackery and BLUETTI Elite 400 kits, at a lower price than both.\n\nIt suits RV owners who want a compact 3kWh system. The panel ships separately per the listing, so check the delivery.",
     "specs": [
       "3,014.4Wh LFP, 2,400W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fOw6uouzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDS1SV6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDS1SV6Y?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 400 kit carries 3,840Wh with 2,600W output (3,900W surge), nine ports and a roll-away trolley. It pairs with a 500W panel that recharges the pack from empty in about 9 to 12 hours, and switches over in 15ms during an outage.\n\nIt stores about 800Wh more than the Elite 300 and costs more. The trolley system makes it practical for basements and campers.\n\nIt suits households and RV owners who want a roll-away backup with solar. The panel and station ship separately.",
     "specs": [
       "3,840Wh, 2,600W / 3,900W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W5Kv14DZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2SRB1YR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2SRB1YR?tag=rvgearlab-amz-20",
     "description": "The Jackery Solar Generator 5000 Plus holds 5,040Wh and delivers 7,200W rated (14,400W surge) at 120V or 240V, with 500W panels in the kit. It accepts up to 4,000W of solar for a recharge in about 2 hours, and expands to 60kWh.\n\nIt dwarfs the other picks in output and capacity, and pairs with a 60A Smart Transfer Switch for up to 12 circuits at 120V. It is also the most expensive by a wide margin.\n\nIt suits homeowners with a long outage plan or an off-grid cabin. The listing quotes up to 13 days of backup.",
     "specs": [
       "5,040Wh LiFePO4, 7,200W",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LQM6RgQcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HXC4QZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HXC4QZC?tag=rvgearlab-amz-20",
     "description": "The Napier Backroadz is a two-person truck tent with a full rainfly, reinforced taped seams, storm flaps over windows, doors and vents, and nine adjustable straps that lock it to the truck. A color-coded pole system gets it up in under 10 minutes.\n\nThe listing says Napier works with automotive manufacturers' engineers on fit. That makes it the pick for a tailored fit and storm details that the cheaper brands do not spell out.\n\nIt suits couples who camp in changeable weather and want a mature design. The optimized headroom and large door make getting in easier.",
     "specs": [
       "Full rainfly, taped seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VJ20t0AcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1C8ZQYN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1C8ZQYN?tag=rvgearlab-amz-20",
     "description": "The VEVOR fits beds from 5.5 to 6 ft and suits 2 to 3 people, with a PU2000mm double layer, a 120g fully sewn PE floor and 9 mm thickened fiberglass poles. It has 5.58 ft of middle headroom, a small window and a skylight.\n\nCompared with the WildFinder tents, it states more of its build details, including floor weight and pole diameter. It costs a bit more than the WildFinder 5.5-6.0 and less than the Napier.\n\nIt suits small families who want a roomy middle headroom. The listing names the Ford F150 and Dodge Ram 1500 among compatible trucks.",
     "specs": [
       "5.5 to 6 ft beds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418v0eY+pGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQYNZYFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQYNZYFG?tag=rvgearlab-amz-20",
     "description": "The GoHimal is made for 6.5 ft beds and measures 102 by 65 by 67 inches. It uses 210D Oxford polyester with PU2000, a double layer, fiberglass poles, a large entry door and two windows.\n\nIt is the only 6.5 ft pick here, so it is where a full-size short-box owner should start. A net bag and a two-in-one side storage bag keep small gear tidy, and it undercuts the VEVOR on price.\n\nIt suits two adults who need a 6.5 ft fit at a low price. The double-layer build adds ventilation and cold resistance.",
     "specs": [
       "6.5 ft bed fit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zsspyICrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWFDWD1Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWFDWD1Z?tag=rvgearlab-amz-20",
     "description": "The WildFinder 5.5-6.0 ft has an 88.6 by 74.8 by 63 inch interior for two people, with three ventilated windows and 210D polyester oxford rated PU3000mm. A connection tunnel lets power cables and air conditioning run from the truck into the tent.\n\nAgainst the VEVOR it has a higher waterproof rating and the cable tunnel, which that listing does not mention. It also costs about 25 dollars less.\n\nIt suits campers who run a cord or AC hose from the truck into the tent. The color-coded pole system and manual keep setup simple.",
     "specs": [
       "5.5 to 6.0 ft beds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zsspyICrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFMJ6HRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFMJ6HRK?tag=rvgearlab-amz-20",
     "description": "The WildFinder 5.0-5.4 ft is made for shorter beds and lists the same connection tunnel for power cables and air conditioning. It uses 210D polyester oxford with a PU3000mm coating and a color-coded pole system.\n\nNo tent here costs less, and it is the smallest, built for 5.0 to 5.4 ft boxes where the 5.5 to 6 ft tents will not fit. Against the 5.5-6.0 model it lists the same tunnel and PU3000 fabric for a shorter bed.\n\nIt suits owners of compact pickups with short beds. Bed length, not brand, decides the fit, so measure first.",
     "specs": [
       "5.0 to 5.4 ft beds",

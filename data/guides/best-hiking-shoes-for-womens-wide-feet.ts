@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TDq-uTulL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081DNSWB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081DNSWB2?tag=rvgearlab-amz-20",
     "description": "The Columbia Crestwood is shown here in a size 8 Wide. The listing describes a suede leather upper that combines leather, mesh and webbing, a TechLite lightweight midsole with high energy return and an Omni-Grip non-marking rubber outsole.\n\nCompared with the Merrell Crosslander 3, it leans on named cushioning and tread technology. Against the NORTIV 8 Lightweight Shoe, it adds leather and a more established brand.\n\nIt suits women who want a durable all-purpose hiker in a Wide fit. The lace-up design secures the foot over varied terrain.",
     "specs": [
       "Wide size on the listing",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31D83vHmyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRJN1PVY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRJN1PVY?tag=rvgearlab-amz-20",
     "description": "The Merrell Crosslander 3 appears in a size 7 Wide, with a suede leather and breathable mesh upper, a protective abrasion-resistant synthetic toe cap and a lightweight EVA foam midsole. Merrell sticky rubber outsole and heel Air Cushion add shock absorption and stability.\n\nNext to the Columbia Crestwood, it spends more on toe protection and heel cushioning. It is priced slightly below the Columbia.\n\nIt suits women who kick rocks on rooty trails and want heel cushioning in a Wide fit. The sticky rubber grips on wet rock.",
     "specs": [
       "Wide size on the listing",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uAOfWsV9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBLSJ53R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBLSJ53R?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight Shoe is shown in an 8.5W size with a suede leather upper, a breathable mesh lining and a weight of about 10.7 oz. Its lightweight EVA midsole and removable flexible insole add arch support.\n\nAgainst the Columbia Crestwood, it costs about half as much and weighs less. It also comes with a multi-directional traction outsole for muddy and rocky ground.\n\nIt suits women who need a W size at a low price. Hooks at the top keep the laces tidy during active use.",
     "specs": [
       "W size on the listing",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419PXn7lpIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KK6TSR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KK6TSR?tag=rvgearlab-amz-20",
     "description": "The Merrell Moab 3 is shown here in a size 8 M medium width. It uses pig suede leather and a mesh upper, a bellows tongue that keeps out debris, a protective toe cap and a 100 percent recycled mesh lining.\n\nCompared with the Merrell Crosslander 3, it is the more famous model and costs more. It also uses recycled laces and webbing.\n\nIt suits women with medium-to-slightly-wide feet who want a trail-proven classic. The bellows tongue keeps stones from sneaking in.",
     "specs": [
       "Pig suede and mesh upper",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cVVwEkqGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3Z4TYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3Z4TYC?tag=rvgearlab-amz-20",
     "description": "The OUTJET Quick-Lace weighs 10.1 oz per shoe and uses a waterproof breathable membrane, a thickened cushioned EVA midsole and a microfiber toe cap. Buckle and adjustable bungee laces let you tune the fit quickly.\n\nIt is the lightest waterproof shoe in this list and the quickest to adjust. Compared with the CC-Los Waterproof, it adds a toe cap and a faster lacing system.\n\nIt suits women who want a roomy-feeling, waterproof walking shoe that goes on and off easily. The no-bulk profile suits travel.",
     "specs": [
       "10.1 oz per shoe",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wnZRPn5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHVTXZ3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHVTXZ3Q?tag=rvgearlab-amz-20",
     "description": "The CC-Los Waterproof offers an eco-friendly suede and mesh upper, a memory foam sockliner and a lightweight non-slip rubber outsole. The listing describes a waterproof design and a reinforced toe.\n\nAgainst the OUTJET Quick-Lace, it adds a memory foam footbed and a suede upper. It is priced slightly above the OUTJET.\n\nIt suits women who want a soft, waterproof walking shoe for light trails. Mesh airflow reduces sweat and odor.",
     "specs": [
       "Waterproof suede and mesh",

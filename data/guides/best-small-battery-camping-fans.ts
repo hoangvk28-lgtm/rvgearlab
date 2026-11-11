@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lLPmaK6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDFN2SNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDFN2SNW?tag=rvgearlab-amz-20",
     "description": "The Odoland camping fan pairs a 6000mAh rechargeable battery with a lantern, and the maker rates it for 7.5 to 23 hours of cooling and 41 to 124 hours of light on a single charge. Three color temperatures and three brightness levels let you pick a warm glow for winding down or a natural white for reading. USB-C fast charging fills it in about four hours, and a carabiner clip hangs it from a tent pole, a branch or an RV awning.\n\nCompared with the Gaiatop below, the Odoland has a larger battery, a wider range of light settings and a carabiner that hangs overhead, while the Gaiatop adds a clip that grips a chair or a table edge. Compared with the AMACOOL, it adds USB-C charging and about 1,000mAh more capacity for $6 less.\n\nIt is the right fan for a multi-night tent trip, where one device handles air and light and a power bank keeps it topped up. At 1.2 pounds and 6.3 by 5.9 by 2.8 inches it fits a daypack, and noise stays under 60dB.",
     "specs": [
       "6000mAh battery, 7.5 to 23 hours of cooling",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cfe5EEl7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS2G14TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS2G14TY?tag=rvgearlab-amz-20",
     "description": "The Wavmill fan takes four D-cell batteries, sold separately, for up to 200 hours of runtime, and it also runs from USB power, which gives it two independent energy sources. Four speeds up to 2950 rpm, three timers and two LED light levels sit on an ultra-thin blade design the maker rates under 30dB. The body is anti-drop ABS.\n\nAgainst the Odoland above, the Wavmill trades a built-in battery and a color-adjustable lantern for a swappable D-cell option and quieter running. Against the Gazeled below, it adds a fourth speed, three timers and a lower noise rating for about $5 less.\n\nIt suits a long trip away from power, such as a week of backcountry car camping, a fishing cabin or a hurricane kit, where you can carry spare D-cells and still plug into a power bank when one is handy. The timers let you set it to switch off after you fall asleep.",
     "specs": [
       "4 D-cell or USB power, up to 200 hours",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zAyuAiEYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQN1RNTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQN1RNTC?tag=rvgearlab-amz-20",
     "description": "The Gaiatop camping fan costs $16.99 and combines a rechargeable battery, eight LED beads and a strong clip with soft pads. It runs up to 14 hours on low, 7.5 hours in sleep mode and 4.5 hours at high speed, and the head rotates 360 degrees vertically and horizontally. It works as a desk fan, a clip fan or a hanging tent fan, and the ABS body is built for drops.\n\nCompared with the Odoland, the Gaiatop costs about $3 less and adds a grip-style clip, while the Odoland adds a larger battery and more light settings. Compared with the AMACOOL, it is $9 cheaper and has a shorter high-speed runtime.\n\nIt works well for a cot, a camp chair or a van headboard, where a clip beats a hook. The compact 7.17 by 2.59 by 7.95 inch size fits a backpack, and a sleep mode stretches the battery overnight.",
     "specs": [
       "Rechargeable battery, 14 hours on low, 4.5 on high",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JI6cPwc9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TCLB39D?tag=rvgearlab-amz-20",
     "description": "The AMACOOL camping fan weighs 11.3 ounces and packs a 5000mAh battery that the maker rates for 5.5 to 35 hours depending on speed and 9 to 240 hours of light. Three speeds, twelve LEDs with three brightness levels and a built-in hook make it a fan, a light and an aroma diffuser. It also runs while plugged into a USB source, so a flat battery never leaves you without air.\n\nCompared with the Odoland, the AMACOOL is lighter by about 8 ounces and offers a longer maximum runtime, while the Odoland has USB-C and a color-adjustable light. Compared with the Gaiatop, it adds a bigger battery and a built-in hook.\n\nIt suits a hiker or a canoe camper who counts ounces, and a car camper who wants a fan that also lights a tent. The manual 360 degree head turns by hand, and the mini size keeps it small.",
     "specs": [
       "5000mAh battery, 5.5 to 35 hours of fan time",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312+hT-cvrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPZDGSND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPZDGSND?tag=rvgearlab-amz-20",
     "description": "The IRIS USA 5 inch fan costs $14.39 and runs on two D batteries, sold separately, for up to 58 hours on the lowest setting. It folds flat for packing, tilts 90 degrees and has two speeds, and sits securely on any flat surface. The clean white design looks at home on a camper table or a nightstand.\n\nCompared with the Gazeled, it is $10.60 cheaper and uses two batteries instead of four, with a foldable body. Compared with the Wavmill, it gives up the USB option, timers and light for a lower price and a simpler design.\n\nIt works for a first camping fan, a spare for the RV, a power outage kit or a bedside fan, where simplicity matters more than features. Two D-cells are cheap and easy to find at any gas station.",
     "specs": [
       "Two D batteries, up to 58 hours on low",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516+BwvtSnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083SC3XPS?tag=rvgearlab-amz-20",
     "description": "The Gazeled 5 inch fan runs on four D-cells, sold separately, and also takes USB power from a power bank, car charger or laptop. A redesigned motor lowers noise to about 50dB, a timer shuts it off, and a 180 degree rotation head and a carry handle make it easy to aim and move. The three speeds draw 68mA, 280mA and 700mA, which makes it easy to predict battery life.\n\nCompared with the IRIS USA, the Gazeled has more speeds, a timer, a handle and USB power for $10.60 more. Compared with the Wavmill, it has a larger-blade desk-fan feel and a handle, while the Wavmill adds a fourth speed and a lower noise rating.\n\nIt suits an RV table, a picnic bench or a campsite kitchen, where you want a stronger breeze than a clip fan. The three clear current ratings let you size a power bank for an overnight run.",
     "specs": [
       "4 D-cells or USB, 3 speeds",

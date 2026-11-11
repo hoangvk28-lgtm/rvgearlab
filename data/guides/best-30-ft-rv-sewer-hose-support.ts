@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413BjbCwNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B71TXRPN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B71TXRPN?tag=rvgearlab-amz-20",
     "description": "The GESUNDTEK kit uses independent troughs in nine different heights that can turn corners or go over a curb. It sets up and stores in seconds, with no assembly, and the construction is described as weatherproof, durable and corrosion resistant.\n\nIt costs more than the Camco Rhino kit and offers the widest height choice. The independent troughs let you route around obstacles in ways the telescoping Sidewinder cannot.\n\nBest for rough, uneven pads with obstacles. A flexible pick for long routes.",
     "specs": [
       "Independent troughs, nine heights",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g1AHEa2BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HRI5A5I?tag=rvgearlab-amz-20",
     "description": "Sized for a 30 foot hose, the Camco Sidewinder is a plastic cradle that slides out telescopically and folds when stowed. It follows a gravity-flow design, curves around obstacles and compresses for storage.\n\nIt costs about the same as the Camco Rhino kit and is the only single support that covers the full 30 feet. Compared with the 15 foot Sidewinder, it doubles the span.\n\nBest for owners who want one support to cover a 30 foot hose. A direct match for the keyword.",
     "specs": [
       "30 ft telescoping plastic",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XucbDIOvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8JYPFNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8JYPFNF?tag=rvgearlab-amz-20",
     "description": "The Camco Rhino support kit includes five configurable sections, each 24 3/16 inches long by 9 1/2 inches wide. It is built to fit all Camco sewer hose kits and nests compactly for storage.\n\nIt costs a little less than the 30 foot Sidewinder and breaks into sections. The modular layout lets you change the length and route.\n\nBest for Camco hose owners who want to reshape the support. A useful modular system.",
     "specs": [
       "Five configurable sections",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410KonpHTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWKCLSB?tag=rvgearlab-amz-20",
     "description": "The shorter Camco Sidewinder suits a 15 foot hose and uses the same slide-out folding plastic cradle as its bigger sibling. It follows the same gravity-flow design as the 30 foot model.\n\nIt costs less than the 30 foot version and covers half the run. Two of them could cover a long route in sections.\n\nBest for part of a long run or a 15 foot hose. A reasonable base for a longer setup.",
     "specs": [
       "15 ft telescoping plastic",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u7akav05L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3T4N3QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3T4N3QN?tag=rvgearlab-amz-20",
     "description": "The Tlaleikejia 20 foot support has a flexible accordion design with a deep cradle. It fits hoses up to 20 feet and 3.8 inches in diameter and is made of sturdy lightweight plastic.\n\nIt is the lowest priced pick and covers 20 of the 30 feet. Compared with the Sidewinder, it offers less structure.\n\nBest for tight budgets on partial runs. A low-cost addition.",
     "specs": [
       "20 ft accordion, 3.8 inch limit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eATJBILqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWTBQMD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWTBQMD?tag=rvgearlab-amz-20",
     "description": "The Columbia Bugaboot III has a waterproof leather upper on an injection-molded shell, Omni-Tech waterproof-breathable construction, 200 grams of insulation and a TechLite midsole. The Omni-Grip outsole is non-marking and indoor-safe.\n\nThe molded shell and Omni-Tech give it a more sealed build than the NORTIV 8 Zip Thinsulate or SHULOOK Insulated. It has a stated insulation weight, which the Hanani Zip Ankle and Skechers Boswell do not.\n\nIt suits a man who shovels, commutes and hikes in wet, cold weather and wants an alpine-style boot. The cushioning keeps long days comfortable.",
     "specs": [
       "Omni-Tech waterproof-breathable",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ANlRsP4mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWHC95D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWHC95D?tag=rvgearlab-amz-20",
     "description": "The Columbia Liftop III combines Omni-Heat reflective lining, Omni-Tech seam-sealed waterproofing, TechLite cushioning and Omni-Grip traction. A waterproof-breathable leather, webbing and mesh upper is warmed with 200 grams of insulation.\n\nThe reflective Omni-Heat layer adds a warming system that the Bugaboot III does not name, and it costs a little less than that boot. The leather and mesh mix is lighter than the NORTIV 8 Zip Thinsulate.\n\nIt suits a man who wants lighter footwear for snowy commutes and short hikes. The mesh keeps weight down.",
     "specs": [
       "Omni-Heat reflective lining",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410F8SsZovL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SZ8GVX8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SZ8GVX8?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Zip Winter Snow Boot has 200 grams of 3M Thinsulate insulation, listed for warmth at -25 degrees Fahrenheit, waterproof and windproof construction and a synthetic toe cap. A sturdy rubber outsole gives slip and abrasion resistance.\n\nA zip entry is faster than lacing on the SHULOOK Insulated, and the Thinsulate lining carries a stated rating that the Hanani Zip Ankle lacks. It sells for roughly half the Bugaboot III price.\n\nIt suits a man who wants a rated, waterproof boot that goes on in seconds before shoveling or ice fishing. The toe cap guards against dropped tools.",
     "specs": [
       "200 g 3M Thinsulate, -25 F",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410XyXWyxHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09G2JTKNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09G2JTKNQ?tag=rvgearlab-amz-20",
     "description": "The SHULOOK Insulated is a men's snow boot with a protective waterproof upper, a warm lined interior, insulated construction and a flexible lightweight build. A rugged outsole is listed for reliable traction.\n\nA lightweight, flexible build makes it easier to walk long distances than the bulkier Columbia Bugaboot III. It costs less than the Columbia and NORTIV pair, and its lining is warm without a named weight.\n\nIt suits a man who walks, commutes and hikes in cold weather and wants an easy, flexible boot. The lightweight build keeps legs fresh on long walks.",
     "specs": [
       "Waterproof upper, warm lining",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415mXmYJj-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WWDSL4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WWDSL4C?tag=rvgearlab-amz-20",
     "description": "The Skechers Respected Boswell is a mid-top lace-up boot in water-repellent leather and synthetic, with a Relaxed Fit toe and forefoot, an Air-Cooled Memory Foam insole and Goga Mat arch cushioning. A Goodyear performance outsole is listed for grip.\n\nIt has the most cushioning of the six and a classic look the Columbia boots lack and it leans on a repellent finish rather than a sealed build. It costs less than the Columbia boots and more than the Hanani Zip Ankle.\n\nIt suits a man who needs a good-looking boot for wet days in town and cool weather. The roomy toe suits wider feet.",
     "specs": [
       "Water-repellent leather upper",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u9OnV4EZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7S5TV9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7S5TV9D?tag=rvgearlab-amz-20",
     "description": "The Hanani Zip Ankle is a snow boot with a waterproof Oxford fabric upper, a synthetic short fleece lining and a non-slip rubber sole. Laceless side zippers make it easy to take on and off.\n\nIt is the least expensive boot here and uses a fleece lining, which the Skechers Boswell lacks. It has none of the named insulation or molded shell of the Columbia boots.\n\nIt suits a man who wants a cheap waterproof boot for short snowy trips, the dog walk or the driveway. The side zips make it quick on and off with cold hands.",
     "specs": [
       "Waterproof Oxford fabric upper",

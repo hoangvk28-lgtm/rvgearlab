@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416ZCGyS0LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MC7SVG4?tag=rvgearlab-amz-20",
     "description": "The ITRAZ is a two-pack of 5.3 gallon containers made from LDPE4 and PP, with a soft molded handle and a gasketless spigot that the listing says has no parts to replace. A capped air vent speeds the flow to about 1 gallon per minute, which the listing says is 20 percent faster than traditional designs.\n\nIt adds the air vent that the RISEPRO and WaterStorageCube listings do not describe, which helps the water pour smoothly and keeps the container's shape stable. As a two-pack it gives you two 20L containers for less than one Wolverine costs.\n\nIt suits families and groups who want two containers with a faster pour and a gasketless spigot. The soft handle makes carrying easier.",
     "specs": [
       "Two 5.3 gal containers",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FGtt+tsLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0743P3QG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0743P3QG8?tag=rvgearlab-amz-20",
     "description": "The Wolverine Tuff Bottle is a 5 gallon, 20 liter container described as a double-wall flexible container built from two layers of heavy-duty film. The listing cites cut and puncture resistance, extra-wide seals and a red Fast Flow spout.\n\nIt is the only double-wall container here, so it stands apart from the ITRAZ and RISEPRO single-wall jugs for rugged handling. It is a single container, so per-container cost sits above the two-packs.\n\nIt suits campers who haul water over rough ground, in truck beds or across rocky sites. The extra-wide seals add strength where soft jugs tend to split.",
     "specs": [
       "5 gal / 20 L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HsYeWSRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5CPMSD8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5CPMSD8?tag=rvgearlab-amz-20",
     "description": "The FOZAPUD is a two-pack of 20 liter (5.28 gallon) containers with a wide-mouth lid for filling, adding ice and rinsing. It is food-grade LDPE, BPA-free and FDA compliant, with a built-in handle, a leak-proof faucet and an airtight lid.\n\nThe wide mouth is the feature that sets it apart from the ITRAZ and WaterStorageCube, where you fill through a narrower neck. It costs a few dollars more than the ITRAZ pack.\n\nIt suits group campers and prepared households that want to fill quickly and drop ice in. The lid also makes cleaning easier.",
     "specs": [
       "Two 20 L / 5.28 gal jugs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51h7GOoeqpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FVJLYZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FVJLYZ4?tag=rvgearlab-amz-20",
     "description": "The WaterStorageCube is a single 5.3 gallon container in odorless PE plastic that the listing says stays soft and flexible when cold. It has a gasketless lid and spigot, a thicker lid for heavy pressure and a soft molded handle.\n\nIt costs about as little as the RISEPRO and includes a 30-page camping and emergency preparedness eBook. Compared with the ITRAZ pack it gives one container, and the eBook is the bonus.\n\nIt suits car campers and preppers who want a single 20L jug at a low price. The easy on/off spigot gives good flow.",
     "specs": [
       "Single 5.3 gal container",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31OnkfruWvS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZXLYNM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZXLYNM5?tag=rvgearlab-amz-20",
     "description": "The RISEPRO is a 20 liter (5.3 gallon) container in transparent food-grade LDPE4 with a gasketless spigot. It uses a 1-piece design with no seams to leak or handles to break, and the listing says it keeps its shape with cold or warm water.\n\nIt is the lowest-priced pick and is sold in several sizes and packs, including 10L and double 20L, so you can match a set to the trip. The clear walls let you see the water level.\n\nIt suits budget-minded car campers and emergency kits that want a simple 20L jug. The spigot is leak-free by design with no gasket.",
     "specs": [
       "20 L (5.3 gal) container",

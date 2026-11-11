@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31E2YUOQQTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001949Z4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001949Z4I?tag=rvgearlab-amz-20",
     "description": "The GEAR AID Tenacious Tape is a 3 by 20 inch roll of peel-and-stick nylon fabric repair, sold in clear or black. It bonds to nylon, polyester, vinyl, rubber and technical fabrics, and becomes machine washable after 24 hours.\n\nIt is the shortest roll here, yet it covers uses from a rain jacket to a hammock. Unlike the fiberglass tapes it stays soft and does not crack.\n\nIt suits a camper who wants one tape for tent, jacket and sleeping bag. A clear option hides on most colors.",
     "specs": [
       "3 x 20 inch nylon roll",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iRMDl6TrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8SLKLJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8SLKLJL?tag=rvgearlab-amz-20",
     "description": "The SICCOMA is a 3 inch by 24.6 ft roll built from an aluminum film layer and a fiberglass layer, with an upgraded reinforced adhesive. It is called waterproof, weather resistant and tear resistant.\n\nIt is longer than the GEAR AID roll and cheaper than the Birllaid tape. The listing suggests a blow dryer in cold weather for better adhesion.\n\nIt suits a camper with an RV awning or a canvas tarp. The white color suits light fabrics.",
     "specs": [
       "3 in x 24.6 ft roll",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u+k-4vjnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB7XFZ6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB7XFZ6R?tag=rvgearlab-amz-20",
     "description": "The KING MOUNTAIN canvas tape is a 4 by 63 inch roll of 100% cotton canvas, 0.6 mm thick, with a self-adhesive back. It is meant for tents, awnings, boat covers and sun shades, and it comes in beige.\n\nIt is the only cotton canvas tape here, so it blends with a canvas tent in a way the nylon and fiberglass tapes cannot. The listing carries a lifetime warranty and a money-back guarantee.\n\nIt suits a canvas tent owner who wants a tape that looks like the wall. The roll is wide enough for big tears.",
     "specs": [
       "4 x 63 inch, 0.6 mm canvas",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XzsRAGQxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZHK4MRT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZHK4MRT?tag=rvgearlab-amz-20",
     "description": "The Birllaid tape is a 5 inch by 30 ft roll with a transparent vinyl face and a fiberglass reinforcement. The listing quotes a use range of minus 30 to plus 70 degrees Celsius.\n\nIt is the widest roll in this list and the only one that states a temperature range. It is also the priciest, which pays for the width and clear face.\n\nIt suits an RV or awning owner who wants a clear patch that does not show. It is rated for permanent repair, not underwater or inflatable use.",
     "specs": [
       "5 in x 30 ft clear vinyl",

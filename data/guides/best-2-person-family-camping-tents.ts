@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRDuy9QdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0831HH4QC?tag=rvgearlab-amz-20",
     "description": "The Instant Pop-Up tent measures 82.7 by 74.8 by 43.3 inches, sleeps 2 to 3 adults and weighs 8.5 pounds in a 40 inch carry bag. A hub system lets one person pop it open, and it carries taped seams, a rainfly and full mesh on the roof and windows for a price of $45.97.\n\nIt has the widest floor of the four, with 74.8 inches of width against roughly 65 inches on the Golabs and 60 inches on the UNP, which turns a cramped tent into a workable family shelter. The pop up design takes the work out of pitching, which is a big gain compared with the Night Cat's clip setup that needs a few minutes and a porch pole arrangement.\n\nFamilies with young kids, tired parents at the end of a drive and anyone who wants the quickest pitch will find this the easiest tent to live with.",
     "specs": [
       "82.7x74.8x43.3 in, 2-3 adults",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ufp+z6hZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WZWF8QV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WZWF8QV?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a double layer tent measuring 7 by 6 by 4.3 feet, fitting three 25 inch sleeping pads, with a front porch that rises on trekking poles and a clip setup that takes about two minutes. At $99.99 it is the premium pick of the group.\n\nIts 4.3 foot peak is the tallest of the four, so adults can sit up without brushing the roof, and the porch gives packs, boots and shoes a covered space outside the sleeping area. Compared with the $45.97 pop up, the Night Cat adds the porch and a taller profile, and it beats the lighter domes on room for three pads.\n\nFamilies who carry a lot of gear, camp in unpredictable weather or want a covered entry for muddy boots will get the most use from this model.",
     "specs": [
       "7x6x4.3 ft, three 25 in pads",
@@ -93,7 +93,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yYnvd10dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3X3CDJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3X3CDJR?tag=rvgearlab-amz-20",
     "description": "The UNP 2 Person tent is a 7 by 5 foot dome that stands 45 inches tall and weighs 4.8 pounds, with a removable rainfly, a skylight net for stargazing and an interior storage pocket. It is priced at $37.99.\n\nAt 4.8 pounds it is far lighter than the 8.5 pound pop up, which makes it easy to carry from an RV pad to a farther campsite. Against the Golabs at $32.79 it adds a slightly taller 45 inch roof and a skylight net, and the removable rainfly lets the tent breathe on clear nights.\n\nLight budget trips, couples who like to stargaze and RV owners who want a small shelter that tucks into a bin all fit this tent well.",
     "specs": [
       "7x5 ft, 45 in, 4.8 lbs",
@@ -123,7 +123,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gh7iUsPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN2Z9H8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN2Z9H8K?tag=rvgearlab-amz-20",
     "description": "The Golabs CT1 is a 2 person tent measuring 84.6 by 65 by 48.8 inches outside, weighing 4.4 pounds and built from 190D taffeta over fiberglass poles with a mesh skylight and a mesh door. It costs $32.79, the lowest in the group.\n\nIt is the lightest of the four and the cheapest, and its 48.8 inch outside height is the tallest of the three smaller domes, which adds a bit of headroom compared with the UNP at 45 inches. The mesh skylight and door help with airflow, and a setup that takes about three minutes keeps the camp routine short.\n\nCouples, solo campers and families on a budget who want a quick, light shelter for a couple of nights will find it the simplest way into camping.",
     "specs": [
       "84.6x65x48.8 in outer, 4.4 lbs",

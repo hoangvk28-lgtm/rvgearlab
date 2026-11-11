@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QdetzAhsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHL1SD5T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHL1SD5T?tag=rvgearlab-amz-20",
     "description": "The Andersen No-Sway hitch has a 2 inch shank, a 6 inch drop, a 2-5/16 inch ball and a 14K GTWR in its title, with 3, 4, 5 and 6 inch bracket options. The listing is brief but describes level towing and says it is built in the USA.\n\nIt ranks first because it carries the same 14,000 lb rating as the Andersen 14K Fixed below at a lower price, and it includes four bracket sizes. The Andersen 16K 2.5in needs a larger receiver but rates higher.\n\nBest for a 2 inch receiver and a trailer up to about 14,000 lb. The listing gives little detail on the sway design, so check the Andersen listing for the friction cone before buying.",
     "specs": [
       "2 inch shank, 6 inch drop",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314HSPKkoGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLB8SRXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLB8SRXY?tag=rvgearlab-amz-20",
     "description": "The Andersen hitch with 4-3/8 inch brackets has a 2 inch shank, a 6 inch drop and a 14,000 lb GTWR. The listing says the friction cone and tension chains work together to combat sway and road bounce, and the fixed bracket suits heavier travel trailers and fifth-wheel setups.\n\nCompared with the Andersen 14K Adjustable above, it fixes the bracket at 4-3/8 inches instead of giving four sizes, and costs a little more. The fixed size makes repeat setup simple if you tow the same pair.\n\nBest for one truck and one trailer that you hitch up regularly. If you swap trailers, the Andersen 14K Adjustable is more flexible.",
     "specs": [
       "2 inch shank, 6 inch drop",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HmXAfp5BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLBCCCXK?tag=rvgearlab-amz-20",
     "description": "The Andersen 2-1/2 inch shank hitch has a 6 inch drop, a 2-5/16 inch ball and a 16,000 lb GTWR, with 3, 4, 5 and 6 inch bracket options. The listing describes a friction cone in the ball housing that dampens sway and road bounce.\n\nIt is the only 2.5 inch shank hitch in this list and carries the highest rating, at the same price as the Andersen 14K Fixed. It needs a 2.5 inch receiver, which the 2 inch Andersen models do not.\n\nBest for a heavy bumper-pull trailer on a 2.5 inch receiver. If your truck has a 2 inch receiver, one of the 14K Andersen models fits instead.",
     "specs": [
       "2.5 inch shank, 6 inch drop",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3FB8YT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3FB8YT?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight with a 6 inch drop, a 2 inch shank and 12,500 lb towing capacity has a live adjustment head with an internal pivot point and anti-sway technology. The listing says measure your receiver before purchase.\n\nCompared with the Andersen 14K Fixed, it lists a lower rating at a higher price, and the sway method is described only as anti-sway technology. It has a head that can be readjusted without removal.\n\nBest for a trailer under 12,500 lb when you prefer the Weigh Safe adjustment head. Confirm the sway mechanism with the seller, since the listing does not detail it.",
     "specs": [
       "2 inch shank, 6 inch drop",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21UoK61DtGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BG3G73CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BG3G73CJ?tag=rvgearlab-amz-20",
     "description": "The Weigh Safe True Tow Middleweight with a 6 inch drop, a 2 inch shank and 8,500 lb towing capacity shares the live adjustment head and anti-sway technology wording of the 12.5K model. The listing says to measure your receiver before purchase.\n\nIt lists a lower rating than the Weigh Safe 12.5K and costs a little less, but it is still priced above all three Andersen picks. That makes it the hardest to justify on price.\n\nBest for a small travel trailer under 8,500 lb where you want a Weigh Safe head. Otherwise a rated-up Andersen is the better buy.",
     "specs": [
       "2 inch shank, 6 inch drop",

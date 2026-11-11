@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uKUTDbFFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1FYZQBR?tag=rvgearlab-amz-20",
     "description": "VEVOR's 10,000 lb kit states 10,000 lb GTW and 1,000 lb tongue weight with a 2 inch shank and a 2-5/16 inch ball. VEVOR's weight distribution hitch lists 10,000 lb maximum towing and 1,000 lb maximum tongue weight and includes a 2-inch shank and a 2-5/16 inch ball.\n\nIt is the only complete kit on this short list and costs about five times as much as a spare bracket. Its listing makes no vehicle-specific claims.\n\nBest for a Gladiator owner who has confirmed the truck's receiver and tow ratings allow it. For a jeep gladiator job, verify its ratings against a loaded weigh-in.",
     "specs": [
       "10,000 lb GTW, 1,000 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SssxzrTDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDBPQX65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDBPQX65?tag=rvgearlab-amz-20",
     "description": "Rumngsuy sells heavy-duty replacement hitch brackets that it says fit CURT and many other weight distribution systems. Rumngsuy sells replacement brackets for weight distribution hitches. The listing says they are compatible with CURT and many other brands and are made of rugged alloy.\n\nIt is a part, not a hitch, so it only helps with an existing system. It makes no Gladiator claim.\n\nBest for replacing worn brackets on a hitch you already own. They are replacement parts, so verify the exact fit.",
     "specs": [
       "Replacement hitch brackets",

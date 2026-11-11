@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3182M7LqPnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT6LRNP7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT6LRNP7?tag=rvgearlab-amz-20",
     "description": "The Black Diamond Storm 500-R produces up to 500 lumens from an integrated 2,400mAh lithium-ion battery charged over micro-USB. Modes include full strength, dimming, strobe and red night vision, and the housing withstands heavy rain and snow.\n\nIt has the biggest battery of the Black Diamond pair and more output than the Spot 400-R. Proximity and distance settings suit camp tasks and trail.\n\nIt suits hikers and climbers who want a rugged, trusted lamp in harsh weather. The low-profile fit stays stable on active pursuits.",
     "specs": [
       "500 lumens, 2,400mAh Li-ion",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41j5pvMtb1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NQK87MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NQK87MN?tag=rvgearlab-amz-20",
     "description": "The Black Diamond Spot 400-R delivers up to 400 lumens from a 1,500mAh lithium-ion battery with micro-USB charging and an IP67 rating for 30 minutes of submersion. Dimming, strobe, red and lock modes are listed.\n\nIt has a lock mode and an explicit IP67 rating, which the Storm 500-R describes only as rugged waterproof. It costs less than the Storm.\n\nIt suits hikers who want an IP67 lamp at a lower price. The lock mode prevents drain in a pack.",
     "specs": [
       "400 lumens, 1,500mAh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q05SBxD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJ9PCJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJ9PCJC?tag=rvgearlab-amz-20",
     "description": "The sofirn headlamp uses two LEDs for a listed 1200 lumens maximum with five modes, a hidden USB-C port and a non-removable lithium-ion battery. The aircraft-grade aluminum case with a hard-anodized finish weighs about 2.9 ounces.\n\nIt combines an aluminum case with USB-C and costs far less than the Black Diamond pair. The waterproof claim is listed in general terms.\n\nIt suits hikers who want a tough, simple lamp at a middle price. The adjustable headband fits most heads.",
     "specs": [
       "1200 lumens, two LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511-xTQIpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3H3CW38?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3H3CW38?tag=rvgearlab-amz-20",
     "description": "The Curtsod 2-Pack has a motion sensor activated by a 2 second long press, three modes (high beam, low beam, strobe) and a 90-degree adjustable focus. A rear battery indicator, 4 to 6 hour charging and a cushioned elastic headband are listed.\n\nIt gives two lamps with a battery gauge, which the Staaricc and Lepro listings do not name. The 99,000 lumen title is a marketing figure and should be ignored.\n\nIt suits hikers who want hand-wave control and a spare lamp. The cushioning reduces forehead pressure.",
     "specs": [
       "Two lamps, motion sensor",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yR9stVrWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6XMBW49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6XMBW49?tag=rvgearlab-amz-20",
     "description": "The Staaricc headlamp offers four modes (high, low, strobe, SOS), an adjustable focus from flood to spot and Type-C charging with non-detachable high-capacity batteries. The aviation-grade aluminum shell tilts from 0 to 90 degrees.\n\nIt zooms where the sofirn does not, and it costs less. The aluminum shell is chosen for heat dissipation.\n\nIt suits budget hikers who want a zoomable aluminum lamp with Type-C. The heat-dissipating body suits long use.",
     "specs": [
       "Zoom flood to spot",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31J7T5G5IjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DNDMSLY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DNDMSLY?tag=rvgearlab-amz-20",
     "description": "The Lepro single lists 300-lumen LEDs reaching 500 feet, three white levels and two red modes, and up to 30 hours on a USB-C charge. It weighs 2.86 ounces, has a 45-degree tilt and an IPX4 rating.\n\nIt is the cheapest and lightest rechargeable lamp here, and it lists a clear 30 hour runtime. It has less output than the sofirn.\n\nIt suits budget hikers and kids who want a light, simple lamp. A polyethylene coating protects against drops.",
     "specs": [
       "300 lumens, 500 ft reach",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wU-NFmf3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNC4FHKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNC4FHKB?tag=rvgearlab-amz-20",
     "description": "The North Face Antora Pant uses DryVent fabric with a DWR finish, a 100% recycled polyester construction and a waterproof, breathable build. It has a relaxed fit meant to be worn over pants and shorts, an elastic drawcord waist and hook-and-loop leg adjustments.\n\nCompared with the Outdoor Ventures Rain Pants, it adds lower-leg zips for pulling over boots. Against the 33,000ft Overpants, it uses a branded breathable fabric with a roomy cut.\n\nIt suits hikers who wear them all season over layers. Lower-leg zips make them easy to pull on over hiking boots.",
     "specs": [
       "DryVent, 100% recycled polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oNiYeSIfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09BN8QLGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09BN8QLGW?tag=rvgearlab-amz-20",
     "description": "The Outdoor Ventures Rain Pants list waterproof fabric with fully seam-sealed, welded TPU membrane and a mesh lining for breathability. A half leg zip lets you pull them over footwear and the elastic waist has an inner drawstring and a packable pouch.\n\nCompared with the 33,000ft Overpants, it uses the same sealed-seam approach with a different brand identity. Against The North Face Antora Pant, it offers a much lower price.\n\nIt suits hikers who want waterproof protection at a modest cost. The listing names hiking, camping, cycling and fishing.",
     "specs": [
       "Seam-sealed TPU membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ojVrAKXML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R78VGVN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R78VGVN?tag=rvgearlab-amz-20",
     "description": "The 33,000ft Overpants list a mesh lining with a stated breathability rating of 5000g/m2, fully seam-sealed and welded TPU membrane and a fully elasticated waistband with inner drawstring. Two zipped pockets have flaps and the legs have a half zip and Velcro closure at the bottom.\n\nCompared with the Outdoor Ventures Rain Pants, it states a breathability number. Against the TACVASEN Cargo, it is a true overpant instead of a trouser.\n\nIt suits hikers who want a measurable spec sheet. The listing names hiking, camping, cycling and fishing.",
     "specs": [
       "5000g/m2 breathability rating",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sNccCZjZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086VHV2TY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086VHV2TY?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Cargo is a lightweight, stretchy hiking trouser with a water-repellent finish that repels light moisture and dirt. It has eight pockets, a zipper and button closure, an adjustable waistband and knee joint design.\n\nCompared with the 33,000ft Overpants, it is a water-repellent trouser rather than a waterproof overpant. Against The North Face Antora Pant, it wears as everyday trail pants.\n\nIt suits hikers who want a single pair for light moisture. Reinforced stress points add durability.",
     "specs": [
       "Stretch fabric, water repellent",

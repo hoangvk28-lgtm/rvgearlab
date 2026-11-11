@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EqzMZUi3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN5ZWPK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN5ZWPK2?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY is a full 12V kit at $1,149.99: four 100W bifacial panels, a 40A MPPT controller, a 2000W pure sine inverter and two 12V 100Ah lithium batteries with a Bluetooth module. It claims 1.6kWh a day under 4 hours of sun.\n\nIt costs $960.00 more than the ZOUPW 220W but includes the battery and inverter that one lacks, and it is $1,349.01 below the AUECOOR 1440W. Pick this if you want one box for a mid-size trailer. Caveat: 400W of panels fills 200Ah slowly, and the listing's daily Wh figures contradict each other.",
     "specs": [
       "4 x 100W panels, 40A MPPT",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aTr9vRRDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8KQQKM1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8KQQKM1?tag=rvgearlab-amz-20",
     "description": "The AUECOOR is a $2,499 system with twelve 120W panels totaling 1440W, a 60A MPPT controller, a 3000W pure sine inverter, a 4-to-1 combiner box and a lithium battery listed as 5.12kWh. Four hours of sun would give about 5,760Wh at nameplate.\n\nIt runs $1,349.01 above the ECO-WORTHY 400W and brings 3.6 times the panel wattage. Pick this if you have roof space for twelve panels and heavy loads. Caveat: the title says 24V while the battery is listed at 12.8V 100Ah, so confirm the system voltage with the seller before ordering.",
     "specs": [
       "12 x 120W panels, 60A MPPT",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519J7Gb7XLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX9RW11B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX9RW11B?tag=rvgearlab-amz-20",
     "description": "The ZOUPW is a $189.99 panel kit with two 110W N-type panels, a 30A PWM controller with LCD and dual USB, plus brackets and cables. It senses 12V or 24V and lists compatibility with lithium, gel, sealed and flooded batteries, with 1.1kWh a day at 5 hours of sun.\n\nIt sits $80.00 above the Topsolar 100W for double the wattage, and $960.00 below the ECO-WORTHY 400W, but it has no battery or inverter. Pick this if you already own a bank and need panels. Caveat: PWM wastes some panel output compared with MPPT.",
     "specs": [
       "2 x 110W N-type panels",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51soAlJOb1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07S2B2QGV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07S2B2QGV?tag=rvgearlab-amz-20",
     "description": "The Topsolar is a $109.99 starter with one 100W monocrystalline panel, a 30A PWM controller and Z brackets. The panel measures 45.6 by 20 inches, weighs 15.84 lb and lists Vmp 23V and Imp 4.3A, with wind and snow ratings.\n\nIt costs $80.00 less than the ZOUPW 220W and gives you half the watts, enough for roughly 400Wh in 4 sun hours. Pick this if you only need to keep a battery topped up. Caveat: there is no battery or inverter, and 100W will not run much.",
     "specs": [
       "100W, Vmp 23V, Imp 4.3A",

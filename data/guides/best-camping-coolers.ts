@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21t-VGklUeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPPZKGR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPPZKGR?tag=rvgearlab-amz-20",
     "description": "The Coleman Chiller 48 Quart uses TempLock foam insulation and is listed to stay cold up to 60 hours. It fits 31 standard 12 oz cans with 24 lbs of ice, or up to 76 cans without ice.\n\nIts tall interior stands 2-liter bottles upright, which smaller coolers cannot. It sits between the 16 quart weekend cooler and the 120 quart Igloo for size.\n\nThat makes it the all-around choice for a weekend with a couple or a small family. The size fits most car trunks.",
     "specs": [
       "48 qt, up to 60 hours cold",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31m9fbN5cpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004QILD6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004QILD6W?tag=rvgearlab-amz-20",
     "description": "The Igloo Polar is a 120 quart cooler with UV inhibitors in the lid, a stain- and odor-resistant liner and a threaded drain plug for hose hookup. The big body is built for groups.\n\nIt holds far more than the 48 quart Coleman, making it the choice for big gatherings. The drain plug makes draining and cleaning easier on a long trip.\n\nFamilies, tailgaters and group campers who need to keep a lot of food cold will like the space. It is built for base camps rather than hiking in.",
     "specs": [
       "120 qt capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31G8Cpp1OYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC8J9B3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC8J9B3C?tag=rvgearlab-amz-20",
     "description": "Stanley uses double insulation with a high-density polyethylene outer shell and a heavy-duty top handle. It is built to be durable and can double as a seat.\n\nIt is a smaller, tougher build than the Coleman Chiller 16 quart. The strings along the top let you tie it down.\n\nChoose it for kayak trips, truck beds and day trips where a tough small cooler matters. It will outlast a thin cooler.",
     "specs": [
       "16 qt hard cooler",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-nYwE5EVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFPDT9V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFPDT9V2?tag=rvgearlab-amz-20",
     "description": "Coleman Chiller 16 Quart is listed to stay cold for 36 hours with TempLock foam insulation. It holds 11 standard 12 oz cans with 8 lbs of ice, or up to 25 cans without ice.\n\nIt is the least expensive pick and doubles as seating, as the reinforced lid holds up to 200 lbs. It suits smaller groups than the 48 quart.\n\nIt is a good fit for a night or two out, a tailgate or a solo campsite. It is light enough to carry with one hand.",
     "specs": [
       "16 qt, up to 36 hours cold",

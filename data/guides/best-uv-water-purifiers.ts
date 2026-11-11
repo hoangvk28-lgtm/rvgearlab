@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21In1cg7tTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L52FLJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L52FLJV?tag=rvgearlab-amz-20",
     "description": "The SteriPen Ultralight weighs 3 ounces and turns on when it touches water, then stops by itself. The lamp is rated for 8,000 treatments, and the listing cites 90 seconds per liter.\n\nIt undercuts the SteriPen Ultra on weight and price while giving up the display, and one USB charge covers about 20 treatments. Battery life per charge is shorter than the AA-powered Classic 3.\n\nGood for thru-hikers who pass through towns with USB power and want the lightest purifier. No button to push, so no accidental drain in the pack.",
     "specs": [
       "3 oz pen",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cvQdV0zGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NK9948M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NK9948M?tag=rvgearlab-amz-20",
     "description": "The SteriPen Ultra carries a full OLED display that shows treatment confirmation, a running count of treatments and battery status. An internal rechargeable battery powers up to 8,000 liters per lamp lifetime.\n\nIt charges from a computer, wall outlet or solar panel, and it treats 1 liter in 90 seconds or 0.5 liter in under a minute. Compared with the SteriPen Ultralight it adds the display and the longer rechargeable run.\n\nA strong choice for travelers and off-grid campers who like seeing a count and a battery gauge. The watertight seals and rubber grips handle trail wear.",
     "specs": [
       "OLED treatment display",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lxGdoXA1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SG6V9WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SG6V9WC?tag=rvgearlab-amz-20",
     "description": "The SteriPen Classic 3 runs on four AA batteries: 25 treatments on alkaline, 150 on lithium or 100 on rechargeable NiMH. An LED panel shows treatment size, battery level and lamp life remaining.\n\nIt trades the rechargeable battery of the Ultra for cells you can buy almost anywhere, and its tapered neck fits most wide-mouth bottles. At 90 seconds for 1 liter it matches the others.\n\nThe right pen for long trips through places where USB charging is rare. Pack lithium AAs and it runs for 150 treatments.",
     "specs": [
       "4 AA batteries",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/217M1ePprmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003A1MURC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003A1MURC?tag=rvgearlab-amz-20",
     "description": "The SteriPen Adventurer Opti is a 6 inch pen at 3.6 ounces powered by two CR123 lithium batteries, which are included. One set gives 60 treatments, and an optical sensor starts the lamp when it is submerged.\n\nWhere the Classic 3 runs on four AA cells, the Opti uses two compact CR123s and adds a built-in LED flashlight for emergencies. A neoprene case comes with it, and it carries the smallest price tag in this group.\n\nA practical choice for backpackers and emergency kits that want a pen with a flashlight on the side. Spare CR123 cells store well for years.",
     "specs": [
       "3.6 oz, 6 inch pen",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qpl8TonaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F2XHV5V?tag=rvgearlab-amz-20",
     "description": "The AquaQuest Pharaoh is a 70D nylon bivy rated to 10,000 mm waterproof and 10,000 gr/m2/day breathability. It weighs 1.1 pounds, packs into a built-in stuff sack 9 inches long by 5 inches wide, and fits users up to 6 feet 6 inches.\n\nIt costs about $120, the top of the budget and about $20 above the AKMAX Bivy Cover, and it is lighter than the AKMAX by 0.8 pounds with both ratings stated. Zippers on both sides let you vent from either hand.\n\nIt suits backpackers and bikepackers who want a documented shell over a sleeping bag and pad. It is a good all-round pick for wet climates.",
     "specs": [
       "10,000 mm waterproof rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31th0mY4LlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075LZS5VL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075LZS5VL?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Backcountry Bivy has a large U-shaped opening, a mesh window panel and a waterproof breathable top fabric. A guy line loop raises the peak for more room at your head.\n\nIt costs about $120, nearly the same as the AquaQuest Pharaoh, and it is built around entry and ventilation rather than a stated rating. Its mesh window and peak loop give comfort the AquaQuest lacks.\n\nIt suits minimalist hikers and mountaineers who want a well-vented bivy from a known brand. It is designed to fit Sierra Designs's own bed and pad.",
     "specs": [
       "Large U-shaped opening",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TUM4xZb3S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KGGBXFB?tag=rvgearlab-amz-20",
     "description": "The AKMAX Bivy Cover is a three-layer laminated nylon shell modeled on the military modular sleep layer. It weighs 1.9 pounds and comes with a compression sack and straps.\n\nIt costs about $100, $20 under the AquaQuest Pharaoh, and it is heavier by 0.8 pounds. The compression sack and straps pack the bulk down.\n\nIt suits campers who want a tough shell at a lower price. It is windproof, waterproof and breathable.",
     "specs": [
       "Three laminated nylon layers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317DDBx2zXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HM6JTFTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HM6JTFTR?tag=rvgearlab-amz-20",
     "description": "The Waterproof Bivy Liner Cover serves as both a sleeping bag liner and an outer protective cover. Its surface repels water splashes and blocks dust and debris.\n\nIt costs about $70, well under the AquaQuest Pharaoh, and it has the simplest design of the group. It is for splash protection rather than storms.\n\nIt suits campers who want a basic cover for bag and pad, or who want one item to do two jobs. Use it with a tarp in wet weather.",
     "specs": [
       "Liner and outer cover",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cmsfLjXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-amz-20",
     "description": "The 3F UL Gear Tyvek Liner is a DuPont Tyvek bag cover, in 180 by 80 cm at 130 g or 230 by 90 cm at 200 g. Each packs to about 16 by 8.5 cm.\n\nIt costs about $50, the lowest in this group, and it weighs a fraction of the AKMAX Bivy Cover. It is a condensation barrier meant for use under a tent or tarp, not a stand-alone storm shell.\n\nIt suits ultralight hikers who pair it with a tarp. It works with a sleeping bag, not alone.",
     "specs": [
       "DuPont Tyvek, 130 g or 200 g",

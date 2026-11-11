@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V97myP2dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1GZX61Y?tag=rvgearlab-amz-20",
     "description": "The GARIGLOOME inflatable truck bed tent uses reinforced PVC air beams and a pump that inflates it in about 2 minutes. It fits 5.5 ft to 8 ft beds and names Ford F-150 and Chevy Silverado 1500, with a PU3000 fabric and a clear stargazing skylight.\n\nIt is the one tent here that spans the whole bed range, so it covers short, standard and long F-150 beds. Next to the OPP ULITE it uses a pole-free frame and a skylight.\n\nThat makes it a fit for owners who may change trucks, or who have a long bed and want a fast pitch. Extended rain flaps shield the sides and rear.",
     "specs": [
       "PVC air beams, 2-minute setup",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jzr+dKkFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK8BYDSF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK8BYDSF?tag=rvgearlab-amz-20",
     "description": "The OPP ULITE is an all-in-one truck bed tent with an integrated air mattress and a built-in auto inflate and deflate pump. Its listing calls it an F150 bed tent made from 210D polyester with PU2000, and the mattress takes 2 to 3 people at about 650 lbs.\n\nIt removes the need for a separate mattress, which the GARIGLOOME listing does not mention. It costs less than the GARIGLOOME and uses heavy-duty tie-down straps for wind.\n\nIt suits campers who want one product for tent and bed. The mesh screens on doors and windows keep insects out.",
     "specs": [
       "Tent plus air mattress",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gYcGwhphL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2XHJ6T2?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 6.4 to 6.7 ft truck bed tent has a 78.7 inch length for 6.3 to 6.8 ft beds and names Ford F150 among its examples. It uses 210T polyester with PU3000, a 4 x 4 ft expandable awning and color-coded poles for easy setup.\n\nIt is the long-bed counterpart of the shorter Umbrauto and adds a stated awning, which the shorter version does not list. It costs less than either inflatable.\n\nIt suits F-150 owners with a standard 6.5 ft bed who want a pole tent and shade. It sleeps 2 to 3 people.",
     "specs": [
       "78.7 inch length for 6.3-6.8 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x9ioA9H3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXL477KQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXL477KQ?tag=rvgearlab-amz-20",
     "description": "The Umbrauto 5.5 to 6 ft truck tent has a 66.5 inch length, PU3000 210T polyester and a full-size entrance door. Two large side mesh windows and a roof vent provide airflow, and the listing calls it a 4-season design that names Ford F150.\n\nPrice is the lowest of the four, and the fit covers short beds that the 6.4 to 6.7 version cannot. It has no awning listed, unlike the longer Umbrauto.\n\nIt suits F-150 owners with a 5.5 ft bed who want the lowest price. The roof vent helps with condensation.",
     "specs": [
       "66.5 inch length for 5.5-6 ft",

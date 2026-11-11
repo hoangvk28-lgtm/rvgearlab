@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cLVldWTiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQYJQ8WG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQYJQ8WG?tag=rvgearlab-amz-20",
     "description": "The Titanker 3ft opens to 35.4 by 23.6 inches at 27.9 inches high and folds to 17.7 by 23.6 by 2.7 inches. It is 90 percent aluminum with a density-board top, weighs about 12 lb and adds side racks and a storage net, with a five-step setup that needs no tools.\n\nAt about $50 it costs $9 less than the CampLand and gives a deeper top, 23.6 inches against 18.5. It trades the CampLand's adjustable height for extra width and side storage, which suits a family dinner better than a long prep counter.\n\nIt suits families of three or four who want one stable table for plates, a stove and drinks. The slab folds flat under a seat.",
     "specs": [
       "35.4 by 23.6 inch top",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XJKLNnHvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0716HSSDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0716HSSDZ?tag=rvgearlab-amz-20",
     "description": "The CampLand opens to 47.24 by 18.5 inches at 27.36 inches and folds to 23.62 by 18.5 by 3.96 inches. It has an MDF top, 19 mm aluminum legs, adjustable height and a storage organizer, and it comes in a 600D Oxford carry case.\n\nAt about $59 it is the longest table in this guide and costs $9 more than the Titanker 3ft. The slim 18.5 inch width suits a long counter for prep or a row of cups rather than a dinner for four.\n\nIt suits cooks who want a long prep surface and storage. Pair it with a tablecloth in rain.",
     "specs": [
       "47.24 by 18.5 inch top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A1H62Ea4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKQTB4CF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKQTB4CF?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a camp kitchen station with an aluminum tabletop, three adjustable heights, a zippered storage compartment and a slim 5.5 inch folded profile. It sets up in under a minute without tools and comes with a three-sided wind screen.\n\nAt about $44 it costs $6 less than the Titanker 3ft and adds a wind screen and storage that no other pick has. The MDF countertop and reinforced frame give it a cook-station feel.\n\nIt suits campers who cook full meals and want storage built into the table. Storage on the side keeps utensils within reach.",
     "specs": [
       "Aluminum top, three heights",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YBVZU1guL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL781CR3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL781CR3?tag=rvgearlab-amz-20",
     "description": "The Anbte is a two-foot grill stand that locks at 10.75, 20 or 29.41 inches, a thickened aluminum frame and a coated iron mesh top that handles hot pots. It folds to 15.7 by 12.2 by 2.55 inches in under 60 seconds and has a carry handle.\n\nAt about $43 it carries the lowest price tag here and the smallest top, with a metal threaded structure at the leg joints. It does not offer the storage of the VEVOR Kitchen Station.\n\nIt suits campers who want a sturdy stove stand at any height. The mesh top lets heat escape.",
     "specs": [
       "Three heights up to 29.41 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DOGV8Jl-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005G0XFEM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005G0XFEM?tag=rvgearlab-amz-20",
     "description": "The Coleman has an aluminum slat top that rolls up for compact storage, a strong steel frame and a snap-together design. It seats four and packs into a carry bag.\n\nAt about $74 it is the most expensive pick and is $24 above the Titanker 3ft. It is simpler than the others, with no wings or height adjustment, and the roll-up top packs smaller while feeling like a traditional campsite table.\n\nIt suits families who want a familiar, sturdy table for a repeat site. The roll-up top keeps it easy to stow in a trunk.",
     "specs": [
       "Aluminum slat roll-top",

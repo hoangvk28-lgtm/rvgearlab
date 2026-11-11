@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510SlNpd0WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWQH4GBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWQH4GBF?tag=rvgearlab-amz-20",
     "description": "The Abahub screen house is 9.8 by 9.8 by 6.7 feet and is rated for 4 to 6 people, with two doors and a manual pole setup. The packed weight is about 6.6 pounds, and it folds small enough to store in a closet.\n\nIt has the biggest floor in the group by a wide margin, more than the 8.2 by 6.9 foot MAIZOA hexagon and the 75 by 51 inch MAIZOA box. Two doors keep air moving, and the weight stays under 7 pounds.\n\nA good home for four who want a sitting room with real elbow space. Pitch it on grass, a patio or a campsite pad.",
     "specs": [
       "9.8 x 9.8 x 6.7 ft room",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51x+Y7pAj9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N69PQP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N69PQP?tag=rvgearlab-amz-20",
     "description": "The MAIZOA 8x7 is a six-sided screen room measuring 8.2 by 6.9 by 5.2 feet, rated for 4 to 6 people with minimalist furniture. It weighs 4.4 pounds, packs to 17.8 by 6.5 by 6.2 inches and goes up on three crossing fiberglass poles.\n\nThe hexagon weighs about 2 pounds less than the Abahub and packs shorter than any other pick. It gives less floor than the Abahub 9.8 ft Square.\n\nIt suits campers who carry gear in a bag and want a small table's worth of mesh-wrapped space. The 360 degree mesh keeps the view open.",
     "specs": [
       "8.2 x 6.9 x 5.2 ft hexagon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mzSmqp65L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N17T55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N17T55?tag=rvgearlab-amz-20",
     "description": "The MAIZOA box is 75 by 51 by 75 inches with a waterproof and sun-blocking fabric top and large mesh sides. It is built for camping, courtyards and backyard gatherings, and beginners can assemble it without special tools.\n\nIts 75 inch height lets most adults stand, which beats the 5.2 foot hexagon and gives more headroom per square foot than the Abahub. Its footprint is the smallest of the group apart from the cube.\n\nSolo campers and couples after a small mesh room with real headroom will like it. The beige look suits patios and campsites.",
     "specs": [
       "75 x 51 x 75 in box",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-+5oLNU3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS8SBKQL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS8SBKQL?tag=rvgearlab-amz-20",
     "description": "This screen room measures 71 by 51 by 65 inches and is sold for 2 to 3 people, with a space that can fit 4 to 5 for a picnic. It uses 210D Oxford cloth and a frame of 13mm high-strength poles, with large mesh windows on all four sides.\n\nIt costs less than every other pick and sets up tool-free with detachable poles. The Oxford top is heavier than the thin fabrics on the larger rooms.\n\nIt suits picnics, tea breaks and backyard seating where the goal is a bug-free corner. Four-sided mesh gives a 360 degree view.",
     "specs": [
       "71 x 51 x 65 in cube",

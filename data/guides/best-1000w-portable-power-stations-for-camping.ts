@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 has 1,024Wh, 1,800W rated AC output and 2,700W in Power Lifting mode, with a 10ms UPS. It reaches 80% in roughly 45 minutes through 1,200W TurboBoost AC charging and weighs 25 pounds.\n\nIt is the heaviest of the four yet the most powerful, with 800W more output than the 1000W units. A silent mode runs at 30dB and the BLUETTI app offers Wi-Fi and Bluetooth monitoring.\n\nIt suits campers who want headroom for a kettle-class appliance or an air fryer. It also works as a desk UPS at home.",
     "specs": [
       "1,024Wh, 1,800W rated",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D55awBh3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJKMV8J?tag=rvgearlab-amz-20",
     "description": "The STARYLINE 1000W combines 1,024Wh of automotive-grade LiFePO4 cells with a 1000W output, two 110V AC outlets, a 60W PD USB-C port and two USB-A ports. A 6-layer BMS and 3,000 or more cycles are listed.\n\nIt is the only pick that names itself Starlink compatible and it takes up to 300W of solar input. At 27.73 pounds it is heavier than the 17-pound GRECELL.\n\nIt suits campers who want a LiFePO4 pack for outage backup and weekends. The listing says it powers routers, lights and mini fridges for two to three days.",
     "specs": [
       "1,024Wh LiFePO4, 1000W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kdaoQl9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCF5F3ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCF5F3ZR?tag=rvgearlab-amz-20",
     "description": "The GRECELL 999Wh weighs 17 pounds and delivers 1000W continuous with a 2000W peak from a LiFePO4 battery. It has two 110V AC outlets, a 60W PD USB-C port, three 18W QC 3.0 USB-A ports and a 10W wireless pad.\n\nIt is 8 pounds lighter than the BLUETTI Elite 100 V2 and nearly 11 pounds lighter than the STARYLINE. The listing names triple MPPT charging with solar input up to 800W and a 2,000-cycle pack.\n\nIt suits campers who carry the box from the car to the site every trip. The listing names LiFePO4 cells and an upgraded battery management system.",
     "specs": [
       "999Wh LiFePO4, 1000W / 2000W",

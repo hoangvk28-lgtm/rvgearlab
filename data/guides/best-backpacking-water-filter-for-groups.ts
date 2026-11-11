@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h1ukAa0BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRWJZX5?tag=rvgearlab-amz-20",
     "description": "The MSR AutoFlow XL is a 10 liter gravity filter built for larger backpacking and basecamp groups. The listing says it delivers 1.75 liters per minute without pumping and removes bacteria (99.9999%), protozoa (99.9%) and dirt.\n\nCompared with the Katadyn BeFree Gravity, it holds more than three times the volume at a similar flow rate. Against the Membrane Solutions, it flows faster and has a film reservoir with a sediment trap.\n\nIt suits groups of four or more who share a basecamp. A separate hang strap and bag clip make hanging easy.",
     "specs": [
       "10 liter gravity system",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RygeapsYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07H3X962R?tag=rvgearlab-amz-20",
     "description": "The Katadyn BeFree Gravity 3L pairs a 0.1 micron EZ-Clean hollow fiber filter with a 3 liter collapsible bag. It filters at up to 2 liters per minute, has a stated capacity of up to 1,000 liters, and cleans by shaking or swishing.\n\nCompared with the MSR AutoFlow XL, it is much lighter and packs flat. Against the LifeStraw Peak, it offers a simple fill, hang and drink routine with an easy-clean element.\n\nIt suits duos and small groups of up to three. Hang it from a branch and let gravity work.",
     "specs": [
       "3L bag, 0.1 micron filter",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21BKxyHOkQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09SBP549H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09SBP549H?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Peak Compact Gravity is a 3 liter system with a re-engineered membrane and a custom backwash accessory. The listing says it protects against 99.999999% of bacteria and 99.999% of parasites, and it works as a gravity system, squeeze bottle or straw.\n\nCompared with the Katadyn BeFree Gravity, it gives more ways to use the same filter. Against the MSR AutoFlow XL, it is smaller and lighter to carry.\n\nIt suits groups who want one filter that serves camp and trail. Its backwash accessory helps with sandy and silty water.",
     "specs": [
       "3L gravity, squeeze or straw",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fc7j6CZ9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZYMXLMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZYMXLMH?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions 6L is a four-stage gravity system with a 0.1 micron hollow fiber membrane, coconut shell activated carbon and dual PP pre-filters. The listing says it is independently tested to NSF/ANSI 42, 372 and 401 and serves groups of three to six.\n\nCompared with the MSR AutoFlow XL, it holds 6 liters at a much lower cost. Against the Katadyn BeFree Gravity, it doubles the reservoir size.\n\nIt suits budget groups and car campers who want a big reservoir. Puncture-resistant, BPA-free materials and a reinforced strap are listed.",
     "specs": [
       "6L gravity, 4-stage filtration",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yKgtUAy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9K3L3C?tag=rvgearlab-amz-20",
     "description": "The Lormandy pack gives each person a personal straw filter, with food-grade materials and accessories included. The listing describes a no-setup, grab-and-go design with no learning curve.\n\nCompared with the gravity systems, it removes the shared-bag step, so everyone drinks from the stream on their own. Against the MSR AutoFlow XL, it packs smaller and gives everyone their own drink.\n\nIt suits larger groups, scouts and emergency kits. Each straw is a backup if another fails.",
     "specs": [
       "5 straw filters in one pack",

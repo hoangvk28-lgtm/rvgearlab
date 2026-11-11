@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417j4vS8zZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082QJG23Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082QJG23Q?tag=rvgearlab-amz-20",
     "description": "The TireMinder i10 comes with 6 transmitters and a signal booster, and the listing says it monitors up to 40 tires from 0 to 199 psi with plus or minus 1 psi accuracy. The 3.15 inch color LCD checks for slow leaks, rapid leaks, blowouts, low pressure, high pressure and high temperature every 6 seconds.\n\nIt ranks first because it has the widest stated pressure range and the largest tire capacity here, with a 3 year warranty and lifetime customer support. The GUTA GT80 below has a bigger screen but reads only to 188 psi.\n\nBest for a motorhome or heavy trailer with tires above 100 psi. The listing does not state the sensor type, so confirm cap or flow-through fit with your valve stems.",
     "specs": [
       "0-199 psi, up to 40 tires",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gs5445ncL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8QJKK3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8QJKK3G?tag=rvgearlab-amz-20",
     "description": "The GUTA GT80 comes with 10 sensors, a 4.3 inch color touchscreen and a range of 0 to 188 psi. The listing says it shows up to 22 tires on one page, has 6 alarm modes, and sensors are pre-labeled and pre-paired at the factory.\n\nCompared with the TireMinder i10 above, it ships more sensors and a larger touchscreen, but its range tops out 11 psi lower. It costs slightly more than the TireMinder.\n\nBest for a rig with a tow vehicle and a trailer on one screen, since 10 sensors cover most truck and tandem trailer combinations. It can switch between 5 vehicle types.",
     "specs": [
       "0-188 psi, 4.3 inch touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41X7WLNOsfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1GRXVM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1GRXVM?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 comes with 6 sensors and a booster, IP67 waterproof external sensors, and a display that shows up to 12 tires across four zones. The listing says it has a 50 ft range that stretches past 100 ft with the Tymate Repeater, and it charges by USB-C or solar.\n\nCompared with the GUTA GT80 above it costs less than half and covers fewer tires. Against the Tymate TR6 Repeater below, it already includes a booster in the kit.\n\nBest for a mid-size trailer or a motorhome on a budget. The listing does not state a pressure range, so confirm it covers your tire pressure.",
     "specs": [
       "6 external sensors and booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oIrjo3wbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3X1SSMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3X1SSMQ?tag=rvgearlab-amz-20",
     "description": "The Tenpmas H17 comes with 6 sensors that read 0 to 130 psi, a repeater and an external antenna with a 66 ft range. The listing describes all-metal sensors at 0.55 ounces each, 5 alarm modes and 24-hour real-time updates.\n\nIt costs far less than the premium kits and includes a repeater, but its range stops at 130 psi, below the TireMinder i10 and GUTA GT80. The Marcala Repeater Kit below reads only to 98 psi.\n\nBest for a trailer with tires under about 100 psi that needs a repeater on a budget. Check your tires' maximum cold pressure against 130 psi.",
     "specs": [
       "6 sensors, 0-130 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wuoDZsGsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDRR1FFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDRR1FFQ?tag=rvgearlab-amz-20",
     "description": "The Marcala bundle comes with 4 sensors reading 0 to 98 psi and a signal repeater. The listing says the repeater extends range up to 80 ft and installs near the trailer's front battery with a 12V DC hardwire connection.\n\nIt is the cheapest complete kit here, but its 98 psi range is the lowest and it covers only four tires. Compared with the Tenpmas H17, it has fewer sensors and a lower range.\n\nBest for a small travel trailer with tires under 80 psi on a tight budget. Skip it for a motorhome or any trailer with high-pressure tires.",
     "specs": [
       "4 sensors, 0-98 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeSnITsGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H7Y7L24?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H7Y7L24?tag=rvgearlab-amz-20",
     "description": "The Tymate TR6 is a signal repeater, not a TPMS. The listing says it works only with Tymate TPMS at 433.92 MHz, is USB powered and is water and dust resistant, and suggests mounting it at the rear axle.\n\nIt costs more than the Marcala Repeater Kit and is useful only if a Tymate kit has trouble reaching the display. The Tymate TM12 Kit already includes a booster.\n\nBest for a Tymate owner with a long rig and weak signal. It does nothing on its own.",
     "specs": [
       "Repeater for Tymate TPMS only",

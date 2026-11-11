@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BVK8lHbaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ4YD81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ4YD81?tag=rvgearlab-amz-20",
     "description": "The MRGVFLO 1.0L Pre-Pressurized Accumulator Tank has an inner bladder, a 125 psi maximum and a 1/2 inch MNPT port. It is factory pre-charged to 10 psi and measures 12 by 5 by 4.49 inches.\n\nCompared with the 0.75 L models, its larger 1.0 L capacity absorbs spikes during peak demand and cuts pump cycling more. It stays compact enough for tight bays.\n\nBest for owners who want the largest compact tank at a fair price. It also suits quieter operation.",
     "specs": [
       "1.0L inner bladder",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SBIy3PEGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD3L38T4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD3L38T4?tag=rvgearlab-amz-20",
     "description": "The Dreyoo 1L RV Accumulator Tank has a 10 to 125 psi pressure range and 1/2 inch MNPT port fittings that fit most pumps. It includes a flow control liner described as providing reliable performance.\n\nIt matches the MRGVFLO on volume and adds the liner as a differentiator. Its pressure range covers most 12V pump settings.\n\nA good pick for owners who want 1 L and a stated pressure range. It also suits universal fits.",
     "specs": [
       "1L volume",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NQWRb7gDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQHK6T45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQHK6T45?tag=rvgearlab-amz-20",
     "description": "The Kingdder RV Accumulator Tank is a 0.75 L 12V-system tank rated to 125 psi. The package includes a 1/2 inch screw-in pipe strainer with a 50 mesh stainless steel filter, and the covers are PA plastic with NBR rubber mounting feet.\n\nThe included strainer is the reason to choose it over the NDNCZDHC. It costs about $30.\n\nBest for owners who also need a pump-inlet strainer. It also suits installers who want the pieces together.",
     "specs": [
       "0.75L, 125 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Asrrt5ZvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7LDPDGY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7LDPDGY?tag=rvgearlab-amz-20",
     "description": "The NDNCZDHC Accumulator Tank is 0.75 L with a 125 psi maximum and a 1/2 inch MNPT port. It is pre-inflated to 10 psi and lists a pressure range from 10 to 125 psi.\n\nIts instructions say to set the tank air pressure 3 psi below the pump switch pressure, which is a clear rule for installers. It costs about $40.\n\nA good pick for owners who want clear setup guidance. It also suits boats and trailers.",
     "specs": [
       "0.75L, 125 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312HcMlvlVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVY3SRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVY3SRV?tag=rvgearlab-amz-20",
     "description": "The Orceed 182-200 RV Accumulator Tank is made to fit SHURFLO pre-pressurized systems with 1/2 inch NPS male threads, 9.1 by 4.8 by 3.8 inch dimensions and a stated maximum rated pressure. It has a non-slip rubber base and adjustable pressure settings.\n\nIt is the pick for owners with a SHURFLO pump who want a matching-size replacement, and it costs about $50. The listing says to install with the valve stem facing upward.\n\nBest for SHURFLO owners replacing a 182-200 style tank. It also suits RV, yacht and kitchen uses.",
     "specs": [
       "182-200 fit for SHURFLO",

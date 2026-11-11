@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N9TnhbSoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0746GY2SD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0746GY2SD?tag=rvgearlab-amz-20",
     "description": "The Lippert Flow Max is a 12V pump that averages 50 PSI and delivers over 3.0 GPM, with a stated 9.5 maximum amp draw, self-priming and an included screen filter. Its heavy-duty, corrosion-resistant motor is listed, and 12V or 115V configurations are sold, which gives the line the widest set of options here. That is a solid base for a shower upgrade.\n\nIt is the brand-name pick, and the single listing in the group that prints a screen filter and amp draw together. The TWERE R3526 comes in under its price while sharing the 50 PSI rating. Against the 110V pumps below, it offers the same cut-out pressure from a 12V supply, so a firm shower is possible away from hookups without an inverter.\n\nA good fit for owners who want an RV-industry brand and a 50 PSI shower on battery power. The 9.5 amp figure fits a 15 amp circuit, which makes the wiring side of a swap predictable, and the included screen filter protects the pump from the first fill of the tank. It is a conventional, well-understood choice.",
     "specs": [
       "3.0 GPM-plus at an average 50 PSI",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DXCa17zXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7HH8Z65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7HH8Z65?tag=rvgearlab-amz-20",
     "description": "The TWERE R3526 pump is a 12V triplex diaphragm unit rated 3 GPM at 50 PSI, sold to replace R3526144D and 03526-144A pumps. An enclosed motor, automatic stop and start and dry operation protection are listed, which covers the basics of a no-fuss replacement. It reads as a clean, simple swap. That makes it easy to recommend.\n\nIt names two replacement numbers and is cheaper than the Lippert, with the same 50 PSI cut-out pressure. Its enclosed motor is highlighted against leaky alternatives, and its triplex layout pushes water in three overlapping strokes, which tends to smooth the pulse that a shower exposes. Next to the HelpNET it gives up flow in exchange for a closer match to a factory R3526.\n\nA good fit for owners swapping an R3526 pump who want the same 50 PSI at the shower without a fitting hunt. The part numbers make matching easy, and the triplex action gives a steady stream that suits a bathroom where the spray pattern matters. It is a tidy answer to a common replacement. Anyone replacing an R3526 gets the correct number.",
     "specs": [
       "3 GPM at 50 PSI on 12V DC",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414zJ1-K5CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJD8VVNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJD8VVNY?tag=rvgearlab-amz-20",
     "description": "The HelpNET is a 12V self-priming diaphragm pump with 5.5 GPM open flow and a 50 PSI rating, an adjustable built-in switch and thermal protection. Rubber feet and corrosion-resistant materials are listed, and the unit installs like any compact 12V booster in a coach pump bay. It is a compact way to add real volume.\n\nIt brings the highest flow of the group at 50 PSI and a very low price, and it is a different kind of pump from the plug-in 4 GPM models. The adjustable switch lets an owner trim the cut-out, a feature the Lippert and the TWERE do not provide, and the rubber feet make it easier to live with than a bare motor bolted to plywood.\n\nA good fit for owners who want strong flow at moderate pressure, such as a rig with a big shower head or two fixtures running together. The adjustable switch lets you trim the pressure after install, and 5.5 GPM at 50 PSI feels firm without pushing the plumbing as far as a 70 PSI pump would.",
     "specs": [
       "5.5 GPM open flow at a 50 PSI rating",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4182F2vfmSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVMB1PHX?tag=rvgearlab-amz-20",
     "description": "The ECO-WORTHY 33-Series is a 110V AC pump rated 4.0 GPM at 50 PSI that primes up to 9.8 vertical feet and lifts to 148 feet. It lists an automatic switch, thermal overload protection and operation beyond an hour, so it can handle a long tank fill as easily as a shower. That is a long list of protections for the price.\n\nIt leads the AC pumps with a long lift figure and a lower price than the Lippert. It shares the 4.0 GPM rating with the Kohree and Lynvire, and it sets itself apart with a printed 148 foot lift number, the clearest self-priming figure on this list. For a coach whose tank sits low, that reach makes the difference between a pump that primes and one that spins.\n\nA good fit for shore-power owners who need to lift water from a low tank and want a firm 50 PSI at the shower. The thermal protection and long continuous run suit a rig parked on hookups for the season, where the pump may run for extended fills. It is a durable shore-power choice. It is a durable choice.",
     "specs": [
       "110V AC, 4.0 GPM at 50 PSI",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wc7-ZYZ2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FV7WKWSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FV7WKWSP?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 110V AC self-priming pump rated 4 GPM at 50 PSI with a smart pressure switch that adjusts to demand. It primes to 9.8 vertical feet and lists thermal overload protection, and its page is written in plain terms that make each spec easy to find. Its description makes comparing it simple.\n\nIt matches the ECO-WORTHY 50 on flow and pressure at a similar price and gives a cleaner, easier-to-read spec list. The adjustable switch lets an owner set the firmness of the shower, where the fixed 12V pumps stay at one number. Compared with the Lynvire, it offers the same adjustability with a more readable description. Both approach the shower the same way.\n\nRight for buyers who want a straightforward AC pump and a switch they can tune to the shower. The adjustable control is a bonus on a pump this simple, and the clear spec list reduces guessing about what the unit does. It earns a place on simplicity alone. It is the easy one to set up and forget.",
     "specs": [
       "110V AC, 4 GPM at 50 PSI",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fjWOraPGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2BV9Z28?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2BV9Z28?tag=rvgearlab-amz-20",
     "description": "The Lynvire is a 110V AC industrial-grade pump rated 4.0 GPM at a preset 50 PSI with an adjustable automatic switch. It primes to 9.8 feet and lists continuous operation over an hour and a robust industrial construction, a combination that suits long fills as well as daily showers. It is built to be run hard.\n\nIt is the lowest-priced of the 4.0 GPM AC pumps and lists the widest range of uses. It matches the Kohree on flow, and where the Kohree sells itself on a tidy listing, this one sells on a sturdy build and a low price. Next to the ECO-WORTHY, it gives up the long lift figure and saves money.\n\nRight for buyers who want a budget AC pump with a sturdy build and a tunable switch. A preset 50 PSI that can be adjusted makes it easy to set up for a firm shower, and the low price keeps the cost of an AC conversion modest. It is the sensible first AC pump for a small budget.",
     "specs": [
       "110V AC, 4.0 GPM at a preset 50 PSI",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jn5sTlljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDWFX242?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDWFX242?tag=rvgearlab-amz-20",
     "description": "EVERLIT Care Pet Medic is a 95-piece kit with vet-approved medical, outdoor and emergency supplies for dogs. The listing includes the top 10 essentials recommended by veterinarians in both sterile and non-sterile forms, with no filler items.\n\nIt has the largest piece count of the group and covers more wound care than the 35-piece ARCA PET kit. The purpose-built contents suit multi-day trips.\n\nCampers and hikers who go far from a vet will like the depth. It gives you real supplies for a bad day on the trail.\n\nNinety-five pieces cover wound care in depth, with both sterile and non-sterile supplies that follow the top 10 essentials vets recommend. Having extra gauze, pads and wraps means a deep cut or a torn pad can be dressed and rewrapped on the way to a clinic. Multi-day trips and RV travelers who may be hours from help are served by this stocked option.",
     "specs": [
       "95 pieces, vet-approved",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51jM-Q6ILKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W5R11Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W5R11Y?tag=rvgearlab-amz-20",
     "description": "rubyloo is a vet-approved dog and cat first aid kit with pet-safe medical supplies. It includes vet wrap, a tick remover, first aid pads, saline wash, a styptic pencil and a slip leash in a water-resistant hard-sided case.\n\nThe hard case protects supplies in a car, backpack or RV, which a soft pouch cannot. The included slip leash and styptic pencil give it more than basic bandages.\n\nRoad trippers and RV campers will like the sturdy case. It also covers a cat if you travel with both.\n\nVet wrap, first aid pads, saline wash, a tick remover and a styptic pencil for a bleeding nail all live in a water-resistant hard-sided case. The slip leash is a thoughtful addition, since an injured dog often needs to be walked or restrained safely. It rides well in an RV cabinet or a car footwell without crushing the contents.",
     "specs": [
       "Vet-approved dog and cat kit",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FOkJ+PcyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGLCXZ9J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGLCXZ9J?tag=rvgearlab-amz-20",
     "description": "RHINO RESCUE is an emergency kit for daily care and wounds that includes a thermometer, toothbrush, feeding kit, poop bags with a dispenser and a muzzle. A first aid manual covers common pet emergencies.\n\nThe daily-care items make it more than a wound kit, so it doubles as a travel kit. The manual is a plus for first-time pet owners.\n\nFamilies who travel with a dog often will like the all-in-one setup. Keep it in the car and it covers a long weekend.\n\nA thermometer, a muzzle and a first aid manual are in the bag, plus a toothbrush, a feeding kit and poop bags with a dispenser for daily care. That mix turns it into a travel kit as well as an emergency one, handy for a dog that rides along every weekend. The manual walks first-time owners through common pet emergencies.",
     "specs": [
       "First aid and daily care kit",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51M6f2kQniL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T72ST1Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T72ST1Y?tag=rvgearlab-amz-20",
     "description": "Adventure Medical Kits Trail Dog includes dressings, bandages and instructions, with a splinter picker and tick remover. A triangular bandage can be used to muzzle a dog before first aid, and a cohesive elastic bandage sticks to itself without sticking to fur.\n\nOutdoor brand design makes it tighter and more focused on the trail than the larger home-style kits. It is priced below the 95-piece EVERLIT.\n\nHikers and backpackers with a dog will like how it packs. It slides into a pack pocket easily.\n\nHikers are the audience this brand builds for, so the contents are chosen for the trail: dressings, bandages, a splinter picker and a tick remover. A cohesive elastic bandage sticks to itself without grabbing fur, and a triangular bandage can serve as a muzzle before first aid. The instructions inside help in a stressful moment.",
     "specs": [
       "Trail-focused dog medical kit",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZfhhHwePL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097PLDD92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097PLDD92?tag=rvgearlab-amz-20",
     "description": "ARCA PET is a 35-piece water-resistant dog first aid kit with a high-visibility reflective design. The contents include antiseptic, tweezers, scissors and other emergency essentials plus dog travel accessories.\n\nThe reflective case makes it easy to find in a dark tent or car, a feature the other kits do not list. It is a modest kit at a modest price.\n\nCampers and walkers who stay close to the car will like it. Leave it in the glovebox and it is always ready.\n\nA reflective, high-visibility case stands out in a dark tent or a crowded car, so the kit is simple to grab at night. Antiseptic, tweezers, scissors and other emergency essentials cover cuts and splinters, and dog travel accessories round out the 35 pieces. At $19.95 it makes a sensible kit to keep in the glovebox.",
     "specs": [
       "35 emergency pieces",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417h7AX5NML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSHMGXG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSHMGXG?tag=rvgearlab-amz-20",
     "description": "Aoveew is a pet first aid kit for dogs and cats with a tick remover and a portable pill box. It comes in a sturdy waterproof, crush-resistant case that suits home storage, car placement and travel.\n\nIt is the least expensive kit here and also useful for people thanks to the dual-use design. The crushproof case keeps contents safe.\n\nBudget buyers and casual campers will like the price. It is an easy thing to keep in the car.\n\nA waterproof, crush-resistant case protects the contents from spills and a tossed pack, and the tick remover and portable pill box handle two frequent camping needs. It works for dogs and cats and the supplies also serve people, which makes it versatile for a family car. At $12.99, it is the easiest kit to buy and stash.",
     "specs": [
       "Dog and cat first aid kit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/91HaauPhWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS48M6S3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS48M6S3?tag=rvgearlab-amz-20",
     "description": "The MSR Universal Footprint is a large 2-person sheet that fits the Zoic 2, Remote 2, Guideline Pro 2 and Hubba Tour 2 tents or any similar size. It weighs about 0.5 pounds and measures 85 by 51 inches.\n\nIt costs about $50, roughly $30 more than a basic ripstop sheet, and it carries the only spec sheet here written around backpacking tents. It is much lighter than the Kodiak 10x10 or the CORE 16.5x11.5, which are camp-only sheets.\n\nIt suits two-person tent owners who hike to camp and want a trusted brand footprint. It also fits other tents near 85 by 51 inches.",
     "specs": [
       "85 x 51 in, 0.5 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FCQH8VujL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4BL8RCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4BL8RCV?tag=rvgearlab-amz-20",
     "description": "The Kodiak Ground Tarp is a 10 by 10 foot sheet at 11 mil thickness, with rustproof aluminum grommets, plastic-reinforced corners and a rope-reinforced welded hem. It is waterproof, UV resistant and tear resistant.\n\nIt costs about $30, the cheapest here, and it is far thicker than the ripstop of the MSR Universal 2P Large. It is heavy, which suits drive-up camping and canvas tents more than hiking.\n\nIt suits owners of smaller Kodiak canvas tents and anyone who wants a tough ground cover for a tent. The thick poly also works as a picnic sheet.",
     "specs": [
       "10 x 10 ft, 11 mil",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r3K+kx+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09HY9WL2Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09HY9WL2Z?tag=rvgearlab-amz-20",
     "description": "The CORE Footprint measures 16 feet 6 inches by 11 feet 6 inches and is cut for the CORE 11-person cabin tent. Elastic loops at all corners make staking quick.\n\nIt costs about $50, the same as the MSR Universal 2P Large, and it is the largest sheet in this guide. It protects a big cabin floor from water and tears, and it also serves as a ground sheet at the picnic table.\n\nIt suits owners of the CORE 11-person cabin tent. It is too big to be useful with a smaller tent.",
     "specs": [
       "16.5 x 11.5 ft footprint",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ILyZVOWkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MHFGKT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MHFGKT?tag=rvgearlab-amz-20",
     "description": "The Marmot Footprint is cut for the Midpines 6-person tent. Corner stakeouts attach to the tent, and the sheet protects the floor from rocks, sticks and abrasion.\n\nIt costs about $60, above the CORE 16.5x11.5 Footprint and the MSR Universal 2P Large, and it is a smaller step up from them than the Gazelle sheets. Its price buys an exact floor match for a mid-size family tent.\n\nIt suits Midpines 6-person owners who camp on rocky ground. It is a floor guard and no more.",
     "specs": [
       "Cut for Midpines 6-person",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GmOkBB4FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z4CPDL5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z4CPDL5?tag=rvgearlab-amz-20",
     "description": "The Gazelle T4 Plus footprint is 300D Oxford polyester rated to 3,000mm hydrostatic head. Four tack-down stakes and a carry bag come with it.\n\nIt costs about $95, nearly double the CORE 16.5x11.5 Footprint, and it is the only footprint here with a stated waterproof rating. That rating is what the extra money buys over the other big-tent sheets.\n\nIt suits Gazelle T4 Plus and T8 owners who camp in wet weather. It is made for 8-person tents.",
     "specs": [
       "300D Oxford, 3000mm HH",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4144zYdmYTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GLH58F2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GLH58F2?tag=rvgearlab-amz-20",
     "description": "The FS-TFC RV Water Filter System uses an activated carbon block described as 0.2 micron and certified to NSF/ANSI 58, in a clear housing that lets you see when it needs changing. It connects to a standard hose or faucet, installs in about 5 minutes and uses a twist-in cartridge.\n\nIt costs about $36, around $10 more than the Camco Tastepure 2-Pack, and it is a larger system with a longer service life than a standard hose-end filter. The clear housing is the feature that the Camco lacks.\n\nIt suits RVers and campers who fill tanks from campground spigots and want a filter that lasts the season. It also works at home for gardening and pets.",
     "specs": [
       "0.2 micron carbon block",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-amz-20",
     "description": "The Camco Tastepure ships two RV hose filters with a 6-step filtration design that combines GAC carbon and KDF media. They are listed to NSF/ANSI 42 and 53, carries the lead-free certification and is made in the USA.\n\nIt costs about $26, about $10 less than the FS-TFC RV System, and you get two filters in the pack. They are smaller than the FS-TFC, which is the trade for the lower cost.\n\nIt suits weekend RVers who want a spare filter ready and a trusted certification. Hose-end filters improve taste and odor and do not purify.",
     "specs": [
       "GAC and KDF, 6-step filtration",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cTxK9WP7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Q8HDVRZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Q8HDVRZ?tag=rvgearlab-amz-20",
     "description": "The Waterdrop WFD-40L is a 35-cup filter dispenser measuring 14.37 by 5.55 by 9.95 inches, with a carbon fiber filter that passed NSF 42 and 372 and is rated for 200 gallons. It has a carry handle and a sliding lid.\n\nIt costs about $34, $3 less than the Brita XL Pitcher, and its filter lasts about five times as long as a standard pitcher filter. It does not lower TDS, which is stated directly.\n\nIt suits camper kitchens, cabins and vans that need a chilled drinking-water jug on the counter. The slim shape fits a cooler or fridge shelf.",
     "specs": [
       "35 cups, 200 gallon filter",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qhpOS51QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG62Y3DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG62Y3DM?tag=rvgearlab-amz-20",
     "description": "The Brita XL is a 27-cup dispenser with a spigot and a BritaPlus filter that traps twice as many contaminants as the standard filter, including chlorine, mercury, cadmium and copper. It is certified by WQA to NSF/ANSI standards.\n\nIt costs about $50, the top of the budget and $16 above the Waterdrop WFD-40L Dispenser. The filter changes every 40 gallons or about 2 months, which is shorter than the Waterdrop.\n\nIt suits campers who prefer a household-name filter and a spigot for refilling bottles. It lives on the counter.",
     "specs": [
       "27 cups, BritaPlus filter",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41URQmHpkqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6N8NPV9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6N8NPV9?tag=rvgearlab-amz-20",
     "description": "The Turboyhood is a 50 micron spin-down sediment filter with food-grade stainless mesh. It flushes clean and can be reused, and ships with 1 inch male NPT, 3/4 inch female NPT and 3/4 inch male NPT fittings.\n\nIt costs about $30, close to the Camco Tastepure 2-Pack, and it removes sand, rust and dirt rather than chlorine. It is a pre-filter for a well or a washing machine and not a taste filter.\n\nIt suits off-grid cabins, well water and anyone who needs to catch grit before a pump or filter. It is a reusable part, so it avoids cartridge costs.",
     "specs": [
       "50 micron stainless mesh",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21SoBRBP0NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-amz-20",
     "description": "The Brita Hard-Sided Filtering Bottle is a 26 oz BPA-free bottle with an activated carbon block filter that cuts chlorine taste and odor. It has an easy-sip straw, a carry loop and a one-handed push-button lid.\n\nIt costs about $18, the lowest in the group, and it filters as you drink, which no counter system can. The product is explicit that it is not a water purifier bottle.\n\nIt suits campers on developed sites with a treated tap. It also suits day hikers filling at a trailhead faucet.",
     "specs": [
       "26 oz BPA-free bottle",

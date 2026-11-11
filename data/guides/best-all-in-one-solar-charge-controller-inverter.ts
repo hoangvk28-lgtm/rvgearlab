@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H587UfwhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08L7JFYVZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08L7JFYVZ?tag=rvgearlab-amz-20",
     "description": "Renogy's 48V 3500W is an all-in-one inverter charger with an 80A/145V MPPT controller and a 40A AC battery charger. Renogy's 48V 3500W unit is an all-in-one hybrid inverter charger, not just a charge controller. It combines a 3500W pure sine wave inverter (7000W peak), an 80A/145V MPPT solar controller and a 40A battery charger that can run from AC or a generator.\n\nIt gives less output than POWLAND 4000W 24V but a larger PV input range and a listed power-saving mode that VEVOR 3000W 24V does not describe. The price of that design is a 48V battery bank.\n\nBest for a 48V RV or cabin that wants 120V output and generator charging. It only makes sense on a 48V bank, which is a bigger step than most 12V RV builds.",
     "specs": [
       "3500W inverter, 48V to 120V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aTLWaxU1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B7C5SF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B7C5SF7?tag=rvgearlab-amz-20",
     "description": "POWLAND's 4000W inverter runs from a 24V bank with 8000W surge and a 140A MPPT controller. POWLAND's 4000W hybrid inverter converts 24V DC to 120V AC (8000W surge) and includes a 140A MPPT charge controller. A 6.25-inch glass LCD with touch buttons sits on the front, and the unit supports 24V LiFePO4 batteries, prioritizes solar, battery or grid power for charging and output and uses three cooling fans.\n\nIt outputs more than VEVOR 3000W 24V and Anern 3600W 24V and adds a 6.25-inch glass LCD. It is also the heaviest-duty unit of the three 24V models, which makes it more than a small trailer needs.\n\nBest for a larger 24V rig with air conditioning or heavy tools. It suits a large rig or a tiny off-grid cabin on 24V, but it is bulky for a small trailer.",
     "specs": [
       "4000W hybrid inverter, 24V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41872mEiMdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2HRQ324?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2HRQ324?tag=rvgearlab-amz-20",
     "description": "VEVOR's 3000W is a 24V hybrid inverter with a 100A MPPT controller and Wi-Fi monitoring. VEVOR's 3000W hybrid inverter is built for 24V batteries and produces 110/120V AC pure sine wave power. It has a built-in MPPT controller supporting up to 100A charging, a Wi-Fi module for remote monitoring and lithium, lead-acid and custom battery support.\n\nIt costs less than POWLAND 4000W 24V and, unlike VEVOR 6000W 48V, outputs 110/120V. In exchange it has a smaller output and no glass display.\n\nBest for a mid-size 24V system with moderate AC loads. It is the mid-size 24V option here, with a US-voltage output and a lower price than the larger units.",
     "specs": [
       "3000W hybrid inverter, 24V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31X0eUAWpuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTPXGG5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTPXGG5F?tag=rvgearlab-amz-20",
     "description": "Anern's 3600W is a 24V hybrid inverter with a 120A MPPT controller and four charging modes. Anern's 3600W hybrid inverter converts 24V to 110/120V AC and includes a 120A MPPT charge controller. It can run with or without a battery and offers four charging modes, with an LCD and LEDs showing input, output and battery data.\n\nIt has more output than VEVOR 3000W 24V and a larger MPPT rating, but its listing is written for home backup. Next to POWLAND 4000W 24V it gives up 400W of output and the glass display.\n\nBest for a budget 24V system where you can solve ventilation and mounting yourself. It is aimed at home backup, so check mounting and ventilation if you want it inside an RV.",
     "specs": [
       "3600W hybrid inverter, 24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Oas+kz3bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1D4QGSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1D4QGSY?tag=rvgearlab-amz-20",
     "description": "VEVOR's 6000W is a 48V hybrid inverter with a 120A MPPT controller and Wi-Fi, but its output is 220/230V. VEVOR's 6000W hybrid inverter pairs a pure sine wave inverter with an MPPT solar controller and a Wi-Fi module, for 48V battery systems. The listing gives its output as single-phase 220/230V AC.\n\nIt has the most output here but cannot feed standard US 120V RV outlets directly. Renogy 48V 3500W is the 120V alternative in the same battery voltage.\n\nBest for a 230V off-grid cabin or equipment shed. Its 220/230V output does not match standard US 120V RV outlets, so confirm the voltage before buying.",
     "specs": [
       "6000W hybrid inverter, 48V",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PnoMRbNpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGYWJPQ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGYWJPQ1?tag=rvgearlab-amz-20",
     "description": "Holigie's unit is a wind and solar hybrid charge controller with an inverter function and dual MPPT inputs. Holigie's unit is a wind and solar hybrid charge controller with an inverter function, with dual MPPT for a 600W wind turbine and 400W of solar. It uses a sheet metal body and lists over-voltage, under-voltage and overheating protection.\n\nIt is the only pick here that takes a wind turbine, and its listing gives less detail on AC output than POWLAND 4000W 24V. Check the inverter spec with the seller first.\n\nBest for a builder adding a small wind turbine to solar. It is an unusual option for an RV and only pays off if you actually plan to add a wind turbine.",
     "specs": [
       "600W wind plus 400W solar input",

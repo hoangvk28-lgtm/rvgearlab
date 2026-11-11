@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ueD7s3b6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-amz-20",
     "description": "Powkey bundles a 146Wh power station with a 40W foldable solar panel and two 110V pure sine wave AC outlets rated up to 200W. It has four USB outputs and charges from a wall outlet in 5 to 6 hours, from a 12V car port or from the supplied panel.\n\nAt about $120 it gives the only 200W pure sine wave AC output in this range and a bigger panel than the MARBERO kits. The Apowking costs $6 less and tops out at 100W.\n\nWeekend campers who want a pure sine wave outlet for a laptop and a small fan will like it. The 40W panel recovers more per sunny day than the 30W kits.",
     "specs": [
       "146Wh, 200W pure sine AC",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QABmA8V1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G24B6VW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G24B6VW6?tag=rvgearlab-amz-20",
     "description": "This kit pairs a 146Wh (39,600mAh) power station with a 40W solar panel rated at 20.5 percent efficiency. It has seven outlets, including two 110V AC sockets within 100W (200W peak), and a dual LED flashlight with strobe and SOS modes.\n\nAt about $114 it is the cheapest kit and has the same 146Wh capacity and panel as the Powkey. The Powkey adds a 200W AC rating for $6 more.\n\nFirst-time buyers who want a complete kit for phones and lights will like the price. It also suits a bug-out bag.",
     "specs": [
       "146Wh, 100W (200W peak) AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FUgussgOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWRS3T87?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWRS3T87?tag=rvgearlab-amz-20",
     "description": "MARBERO pairs a 155Wh power station of 2.8 lb with a foldable 30W solar panel that weighs 1.8 lb and has 21.5 to 23.5 percent conversion efficiency. It offers AC, DC and USB outputs for phones, lights and small gear.\n\nAt about $120 it matches the Powkey on price and weighs under 5 lb total, and its panel is 10W smaller. It is the lightest complete kit in this range.\n\nHikers with a car, bikers and travelers who care about weight will like it. A 30W panel suits patient charging.",
     "specs": [
       "155Wh station, 150W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rdx5r-ukL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLJV238G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLJV238G?tag=rvgearlab-amz-20",
     "description": "This MARBERO kit includes a 155Wh station, a 30W solar panel and a power converter, with a 6.5 ft integrated panel cable, so the panel can sit in sun while the station stays in shade or a tent. Outputs are two 100W AC sockets, a QC3.0 USB-A, two USB-A ports, a USB-C, three DC outputs and a car port.\n\nAt about $123 it costs $3 more than the 150Wh MARBERO and offers more outputs and the longer cable. The Powkey has the larger panel.\n\nCampers who park the panel away from the tent will like the cable. It suits car camping and roadside emergencies.",
     "specs": [
       "155Wh, two 100W AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m6WQbnhoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX118RR7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX118RR7?tag=rvgearlab-amz-20",
     "description": "HOWEASY's H120 has an 88Wh battery with a 120W output (150W peak), a 30W solar panel and eight ports: two AC sockets, an 18W USB-C, two QC 3.0 USB and two DC ports. The folded panel measures 9.7 by 11.3 by 0.8 inches.\n\nAt about $140 it costs the most and holds the least energy of the five, so you are paying for the compact panel and the port count. The Powkey gives 146Wh for $20 less.\n\nCampers who want a very small kit for night lights and a mini fan will like it. The compact panel fits a daypack.",
     "specs": [
       "88Wh, 120W (150W peak) AC",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DamPh01VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4F3KXT6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4F3KXT6?tag=rvgearlab-amz-20",
     "description": "The Envig Puretaste Catalytic Carbon KDF Inline Filter targets chloramine, hydrogen sulfide, chlorine and VOCs with a three-layer design. The listing gives an 8,500 gallon capacity, a 4.5 GPM flow and a hose protector, and it works at 20 to 100 psi.\n\nNext to the SpiroPure SP-RV100, it states a much higher flow and capacity. It also names chloramine and hydrogen sulfide in the first bullet, which makes its purpose clear.\n\nThe pick for city-water campers who want a catalytic carbon filter and a spare. It also suits travelers who deal with sulfur smell.",
     "specs": [
       "Catalytic carbon KDF",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316v+DtccTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4DWM495?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4DWM495?tag=rvgearlab-amz-20",
     "description": "The Envig Puretaste single-pack uses the same catalytic carbon and KDF three-layer design with sediment pre-filtration. It lists 8,500 gallons, 4.5 GPM flow and universal 3/4 inch hose threads.\n\nCompared with the 2-pack, you buy one filter for a lower cost, which fits a single-season trial. It still targets chloramine and hydrogen sulfide.\n\nA good fit for weekend campers who only need one filter at a time. It is also a low-risk way to try catalytic carbon.",
     "specs": [
       "Catalytic carbon formula",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CejfEibJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1W3Y6NN?tag=rvgearlab-amz-20",
     "description": "The SpiroPure SP-RV100 uses German-made catalytic carbon to reduce chlorine, chloramine and sulfur odors, with a 1 micron sediment stage. It also works as a salt-free descaler and includes a hose protector.\n\nUnlike the Envig filters, it adds scale protection for hard water. It is also the lowest-priced catalytic carbon option in this group.\n\nBest for travel-trailer owners who face hard water and chloramine together. It is also a fine pick for anyone who wants one filter with two jobs.",
     "specs": [
       "German catalytic carbon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oVLgBb5RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-amz-20",
     "description": "The SpiroPure SP-RV100-2PK gives two multi-stage inline filters with catalytic-carbon style media that reduce chlorine, chloramines and odors. Each filter provides a full season of protection per the listing and includes a salt-free descaler.\n\nIt costs more than the single SpiroPure SP-RV100 and covers two seasons or two RVs. The standard 3/4 inch hose fitting makes both easy to use.\n\nGreat for owners with a travel trailer and a second rig who want matched filters. It also suits long-season campers.",
     "specs": [
       "Chloramine reduction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+CNXGO-UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093DR83RK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093DR83RK?tag=rvgearlab-amz-20",
     "description": "The Kintim RV Water Filter System is a clog-resistant 5-stage inline filter in a 4.5 by 10 inch NSF-certified ACF cartridge with brass threads. The listing says it filters at least 18,000 gallons and includes a housing, cartridge, wrench, brass adapters and a handle.\n\nIt differs from the hose filters on this list by using a replaceable cartridge, which the listing says lasts at least seven times longer than small filters. It also claims 99 percent chlorine reduction.\n\nIdeal for heavy users who prefer a refillable system with brass fittings. It also fits anyone who wants to cut disposable waste.",
     "specs": [
       "5-stage ACF cartridge",

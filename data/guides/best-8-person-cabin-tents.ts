@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal 8-person cabin is 14 ft by 8 ft with an 80 inch center height and fits three full-size air beds. A 2-room layout with separate doors, a 14 ft by 7.5 ft porch, six mesh windows and two E-ports sit alongside a gear loft, mud mat and room divider.\n\nAgainst the DMH it adds two rooms with their own doors and a bigger covered porch, and costs less. Next to the UNP it adds ports, a loft and taped seams.\n\nIt suits families that want private rooms and a covered entry. The listing shows the most camper-friendly features of the three.",
     "specs": [
       "14 x 8 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JaL0vcI5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6L1WY6P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6L1WY6P?tag=rvgearlab-amz-20",
     "description": "The DMH 8-person tent has a (12+5) by 10 ft floor area with an 86 inch center height and a screened-in porch. One mesh door, three mesh windows and a mesh top ventilate it, and the listing names a rain-resistant E-Port, tent skirt and taped seams.\n\nAgainst the Portal, the porch is a true screened room that stops bugs. Compared with the UNP, it adds the skirt and an overhead mesh loft, and costs a little more.\n\nIt suits campers in buggy areas who sit outside most of the evening. The tall 86 inch wall is the highest here.",
     "specs": [
       "(12+5) x 10 ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ray88LD3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFYHQ8WT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFYHQ8WT?tag=rvgearlab-amz-20",
     "description": "The UNP 8-person tent measures 12 ft by 9 ft by 80 inches with two mesh doors, six mesh windows and a mesh top. A 1000mm polyurethane coating, 4 steel leg poles and a 1-year warranty are listed, and the pack weighs about 26.8 lb.\n\nIt is the lowest-priced tent here. Compared with the Portal it has two doors and no porch or divider.\n\nIt suits budget campers who want an eight-person floor and plenty of airflow. The listing itself says six people with gear is the most comfortable use.",
     "specs": [
       "12 x 9 x 80 in",

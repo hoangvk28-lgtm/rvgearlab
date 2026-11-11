@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AP+ugRI5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1VVPMR9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1VVPMR9?tag=rvgearlab-amz-20",
     "description": "The Nature's Freedom RV Hydrogen Peroxide cleans and deodorizes RV fresh, gray and black tanks and is described as safe for water lines and plumbing. The listing says it is NSF Certified to NSF/ANSI/CAN 60 for drinking water treatment chemicals, is food-grade purity and is non-toxic, biodegradable and septic-safe.\n\nAgainst the Aquamarine Shock, it names NSF certification and works in all three tank types. Against the Camco TastePURE, it is a peroxide rather than a pre-measured spring-fresh formula.\n\nBest for owners who want a certification statement and one product for several tanks. Made in the USA with a BPA-free container.",
     "specs": [
       "Food-grade hydrogen peroxide",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HsynniRJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000EDUTQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000EDUTQS?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE Spring Fresh Water System Cleaner is a 1 gallon product made in the USA that requires no measuring or mixing. The listing says one gallon cleans up to a 100 gallon tank, stops bad odors and foul tastes and suits de-winterizing.\n\nAgainst Nature's Freedom Peroxide, it needs no dilution. Against the Aquamarine Shock, it is a 1 gallon deodorizer rather than a concentrated shock.\n\nBest for de-winterizing a fresh water tank with a simple pour-in routine. Safe for RV and marine applications.",
     "specs": [
       "1 gallon, up to 100 gallon tank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3108Rh8gIaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTTZH9W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTTZH9W1?tag=rvgearlab-amz-20",
     "description": "The Aquamarine Water Solutions Shock for RV and Boat Water Tank is a 12 ounce deep cleaner and deodorizer for steel, aluminum and plastic fresh water systems. The listing says each bottle treats 100 gallons, with a maintenance dose of 1 tablespoon per 100 gallons afterward.\n\nAgainst Camco TastePURE, it is a concentrate with a maintenance dose. Against Nature's Freedom Peroxide, it is not for gray or black tanks.\n\nBest for large or hard-to-treat tanks coming out of storage. It is not for pools, septic systems or wells.",
     "specs": [
       "12 oz, treats 100 gallons",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-uld+LwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGKH34W7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGKH34W7?tag=rvgearlab-amz-20",
     "description": "The ADIOS! RV Grey Water Tank Cleaner and Treatment is a 32 ounce enzyme deodorizer for gray tanks. The listing says it digests organic material, clears grease from pipes and tanks and is safe around kids and pets.\n\nAgainst the fresh water cleaners here, it treats the gray tank, not drinking water. Against DAGREM U and Protect All, it is a plumbing product.\n\nBest for gray tank odor and grease. Use it in the gray tank only.",
     "specs": [
       "32 oz enzyme gray tank treatment",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hh9jQ6rfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-amz-20",
     "description": "The DAGREMU RV Black Streak Remover Concentrate is a 16.9 ounce bottle that mixes 1 to 8 with water to make about 1.2 gallons. It includes a scrub sponge and towel and lifts black streaks from fiberglass, vinyl, metal and painted surfaces.\n\nAgainst the fresh water cleaners, it is an exterior product. Against Protect All, it cleans sidewalls rather than the roof.\n\nBest for the outside of the RV. It is not for the fresh water tank.",
     "specs": [
       "16.9 oz exterior concentrate",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41grCMvwGdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002UHVSW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002UHVSW?tag=rvgearlab-amz-20",
     "description": "The Protect All RV Rubber Roof Cleaner is a 32 ounce non-toxic, non-abrasive EPDM detergent. The listing says it dissolves grime and chalk, needs no rinsing and works where water use is restricted.\n\nAgainst the fresh water cleaners, it is for the roof only. Against DAGREM U, it targets the EPDM roof.\n\nBest for the rubber roof. It is not for the fresh water tank.",
     "specs": [
       "32 oz EPDM roof cleaner",

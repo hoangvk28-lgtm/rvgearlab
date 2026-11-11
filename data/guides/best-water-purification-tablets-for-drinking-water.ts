@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5137dzgLG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007W5D13O?tag=rvgearlab-amz-20",
     "description": "These Aquatabs 49mg tablets use NaDCC, and the page claims removal of bacteria at 99.9999 percent with viruses at 99.99 percent. The line is EPA registered and certified to NSF/ANSI standard 60, and the page promises no iodine flavor.\n\nNo other page here cites both an EPA registration and an NSF/ANSI standard. The 30-count pack is small, and the same line also comes in 50 and 100 counts.\n\nIt suits travelers and backpackers who want a documented tablet at a low price per treatment. They weigh almost nothing.",
     "specs": [
       "EPA registered, NSF/ANSI 60",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PR4yq3z3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FFQN924?tag=rvgearlab-amz-20",
     "description": "The Aquatabs 397mg tablet ships 100 to a pack, and its page promises four purified gallons in half an hour. The listing describes no unpleasant taste, color or odor compared with iodine tablets.\n\nOne tablet treats four gallons, which makes it the pick for tanks, storage containers and groups. Compared with the 49mg, it suits large volumes rather than single bottles.\n\nIt suits families, emergency stores and RV owners who treat big containers. A hundred tablets cover a lot of water.",
     "specs": [
       "397mg tablet, 100 count",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wodRstAoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XRYZ6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XRYZ6T?tag=rvgearlab-amz-20",
     "description": "The Fastimals bottle holds 100 effervescent NaDCC tablets. The listing says to add the recommended number of tablets for your water volume and wait 30 minutes before use.\n\nIt costs a little less than a typical 100-count tablet bottle, and the page says it suits small bottles through larger storage. The fizzing tablet dissolves without stirring.\n\nIt suits RV owners and campers who treat both bottles and tanks. Flexible dosing is the draw.",
     "specs": [
       "100 NaDCC tablets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lfUdR5pNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01GPK4LVW?tag=rvgearlab-amz-20",
     "description": "The Potable Aqua pack has two bottles of 50 tablets each. The listing says the tablets make water bacteriologically suitable to drink and work against Giardia lamblia when used as directed.\n\nThat gives you 100 tablets at roughly half the price of the Aquatabs 49mg 100 pack. Splitting them across two bottles spreads the risk of spoilage.\n\nIt suits budget campers and emergency kits where cost matters most. It works best with clear water.",
     "specs": [
       "Two bottles of 50 tablets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Jw6UDbF7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009I3T3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009I3T3S?tag=rvgearlab-amz-20",
     "description": "This pack pairs one bottle of 50 Potable Aqua tablets with one bottle of 50 PA Plus tablets. The listing says the water ends up with no iodine taste or color when used correctly, and that the tablets work on bacteria and Giardia lamblia.\n\nNext to the plain Potable Aqua pack, the PA Plus bottle is the taste step. It costs a little more per tablet.\n\nIt suits campers who dislike the taste of treated water and keep a small emergency supply. Follow the label order.",
     "specs": [
       "50 Potable Aqua plus 50 PA Plus",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314wKtgSyfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000ESB8WW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000ESB8WW?tag=rvgearlab-amz-20",
     "description": "Coghlan's sells a 50-tablet bottle that the listing says makes most water bacteriologically suitable for drinking. The page calls it great to have on hand when hiking or camping, and limits it to short-term or limited emergency use.\n\nIt is the cheapest per bottle here and the least detailed, with no pathogens or timings printed. Compared with the Aquatabs pages, it offers little documentation.\n\nIt suits glove-box and day-pack kits for emergencies only. Read the label for dosing and cautions.",
     "specs": [
       "50 tablets",

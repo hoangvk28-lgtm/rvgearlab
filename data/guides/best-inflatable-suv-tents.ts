@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411fCP10ikL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCNC781S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCNC781S?tag=rvgearlab-amz-20",
     "description": "The JOYTUTUS Inflatable SUV Tent 2.0 is a six-person tent with a 60-second air-inflation setup and a claimed 30% more space. It uses 600D Oxford with a 1200PU coating, taped and sealed seams and two doors, and fits SUVs, CUVs and MPVs.\n\nIt has the strongest stated fabric of the four, ahead of the 420D tents, and it adds an awning that can become a projection screen. It costs less than the 9.8 ft inflatable truck tent.\n\nIt suits families who want a heavy-duty inflatable with entertainment features. Integrated canopies create adjustable sunshades.",
     "specs": [
       "600D Oxford, 1200PU",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AJAVaTiTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3KL4C6Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3KL4C6Y?tag=rvgearlab-amz-20",
     "description": "This inflatable SUV and truck tailgate tent measures 9.8 x 7.8 x 6.8 ft and fits 1 to 6 adults. It has reinforced PVC air pillars, PU3000 coated Oxford fabric, double openable doors, roll-up mesh windows and sunshade areas on both sides.\n\nIt gives the most stated floor of the four, ahead of the two skylight tents. It costs the most, and its manual pump inflates in 2 to 3 minutes.\n\nIt suits groups who want one big sleeping space and shaded side areas. The PU3000 coating handles moderate to heavy rain.",
     "specs": [
       "9.8 x 7.8 x 6.8 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AhYIU-TyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCHJFNZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCHJFNZJ?tag=rvgearlab-amz-20",
     "description": "The SUV tailgate inflatable tent has a detachable 9.85 ft canopy, a transparent skylight panel and a red auto pressure relief valve that prevents over-inflation. It uses 420D Oxford with sealed seams and lets you run vehicle HVAC through the tailgate.\n\nIt is the one that lists a long canopy, ahead of the PVC-skylight tent. It costs a little more than the PVC skylight tent.\n\nIt suits tailgaters, festival goers and road trippers who want shade and starry views. The pump handles inflation and deflation.",
     "specs": [
       "9.85 ft detachable canopy",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SzbzmPECL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8NSXBV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8NSXBV4?tag=rvgearlab-amz-20",
     "description": "This SUV tailgate inflatable tent has a reinforced air-beam frame that inflates in five minutes, an auto pressure relief valve and a large PVC skylight. The fabric is 420D Oxford with a PU4000mm coating and reinforced sealed seams.\n\nIt has the highest waterproof number of the four at PU4000mm and costs the least. It is meant for 2 to 3 adults, below the JOYTUTUS in space.\n\nA cheap inflatable with a strong rating fits couples and small families. The listing says it is compatible with EVs for climate control.",
     "specs": [
       "PU4000mm, 420D Oxford",

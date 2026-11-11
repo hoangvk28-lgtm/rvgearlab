@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u2hKpJnCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSSX476L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSSX476L?tag=rvgearlab-amz-20",
     "description": "SOKIOVOLA is a 200W N-type foldable solar panel with a listed weight of 16.31 pounds and a compact folded size of 21 by 23 inches. A+ grade monocrystalline cells and an IP68 waterproof ETFE coating protect it outdoors.\n\nIt is built to pair with power stations from EcoFlow, Jackery, Bluetti and Anker, which makes it the easiest large panel to match. It out-powers the 100W ZOUPW and nearly matches the MHPOWOS 220W.\n\nCar campers and van travelers who run a power station will like the balance of output and fold size. Unfold it at camp and charge while you cook.",
     "specs": [
       "200W N-type foldable panel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XHNWlj9SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LQV6QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LQV6QN?tag=rvgearlab-amz-20",
     "description": "MHPOWOS offers 220W of monocrystalline silicon at 40V, with an IP67 waterproof and dustproof rating. It weighs 8.5 kg and folds for transport.\n\nIt has the highest output of the group and costs a little less than the SOKIOVOLA. The 220W gives faster charging when the sun is good.\n\nOverlanders and long trips with a large power station will like the extra watts. Set it up at base camp and let it work all day.",
     "specs": [
       "220W foldable panel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O9ZbgIgkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR42CFJ9?tag=rvgearlab-amz-20",
     "description": "ZOUPW is a 100W foldable panel with 23.5% efficient A+ monocrystalline cells and a 5-in-1 universal connector cable. An IP67 waterproof ETFE coating protects it.\n\nIt is the best bridge between the 200W panels and the small chargers, and it costs about half as much as the SOKIOVOLA. The 5-in-1 cable fits more power stations.\n\nWeekend campers with a small power station will like the weight-to-power balance. It folds to a size that fits in most trunks.",
     "specs": [
       "100W foldable panel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdwoRNOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08S7B46CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08S7B46CB?tag=rvgearlab-amz-20",
     "description": "SinKeu is a 40W foldable solar panel with 10 DC adapters, a 22% conversion efficiency and three output ports. The ports include a DC output of 18V 2.27A max and a USB-C.\n\nIt is more versatile for small electronics than the 100W panels, and it is much lighter. It works with the majority of small power stations.\n\nHikers and campers with phones, tablets and small stations will like the ports. Three ports let you charge more than one device.",
     "specs": [
       "40W foldable panel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51P3tJfJAKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJDBQXQ3?tag=rvgearlab-amz-20",
     "description": "BLAVOR 10W is a small foldable solar charger with 5V 2A max output and two USB ports. It weighs only 0.81 lb and folds to 7.4 by 7.5 by 1 inches.\n\nIt is the lightest panel that charges two devices at once. It suits phone-sized loads rather than power stations.\n\nBackpackers will like how easily it clips to a pack. It hangs from a pack while you walk.",
     "specs": [
       "10W foldable charger",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41en-FzOdJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHH1FTMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHH1FTMQ?tag=rvgearlab-amz-20",
     "description": "YESSZ is a 5W USB solar panel charger made of monocrystalline silicon. The listing says it is built to withstand harsh outdoor conditions.\n\nIt is the cheapest and smallest option and can power small devices like lights. It suits tiny loads only.\n\nBudget campers and emergency kits will like the very low price. It is a cheap thing to keep in a go bag.",
     "specs": [
       "5W USB panel",

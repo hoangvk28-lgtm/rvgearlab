@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Y5Q5qbUJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00355JQ52?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00355JQ52?tag=rvgearlab-amz-20",
     "description": "The Meguiar's M61 Flagship Premium Marine Cleaner Wax is a 32 ounce one-step product that removes light to moderate defects like oxidation, water spots and minor scratches. The listing says it adds gloss and UV protection and is safe on fiberglass, painted and gel coat surfaces.\n\nAgainst the TR Gel Gloss, it names gel coat safety and a marine pedigree. Against the Gel-Gloss Original, it is a cleaner wax with UV protection rather than a polish for interiors too.\n\nBest for RV owners with dull, lightly oxidized gelcoat who want a one-step clean and protect. It works by hand or with a machine.",
     "specs": [
       "32 oz one-step cleaner wax",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YMzy6rQwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0023URE2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0023URE2M?tag=rvgearlab-amz-20",
     "description": "The Gel Gloss RV Professional Grade One-Step Carnauba Cleaner Wax is a 32 ounce product for fiberglass and painted RV surfaces. The listing says it removes scuff marks, oxidation, black streak and haze, restores shine and includes UV inhibitors.\n\nAgainst the Meguiar's M61, it names scuffs and black streaks plus carnauba wax. Against the STAR BRITE Instant Streak Remover, it also adds wax and UV protection.\n\nBest for owners who want a carnauba cleaner wax made for RVs. It applies by hand or with a buffer.",
     "specs": [
       "32 oz carnauba cleaner wax",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XeYTkLm2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0000AYFCJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0000AYFCJ?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Instant Black Streak Remover is a spray-on, wipe-off product for black streaks from water runoff and exhaust stains. The listing says it is gentle on surfaces, wax coatings and decals and works on fiberglass, metal, plastic, rubber, vinyl and painted surfaces.\n\nAgainst the DAGREM U Concentrate, it is ready to use and works instantly rather than diluted. Against the cleaner waxes, it removes streaks without a polishing step.\n\nBest for owners with black streaks on gelcoat who want a quick spray-and-wipe. It is also a degreaser for oil and grease.",
     "specs": [
       "Instant black streak remover",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Hh9jQ6rfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HF7Z9RVC?tag=rvgearlab-amz-20",
     "description": "The DAGREMU RV Black Streak Remover Concentrate is a 16.9 ounce bottle that mixes 1 part product with 8 parts water to make about 1.2 gallons. It includes a scrub sponge and a yellow detailing towel and is listed for fiberglass, vinyl, metal, aluminum, plastic and painted surfaces.\n\nAgainst the STAR BRITE Instant Streak Remover, it stretches further through dilution and includes tools. Against the Poli Glow Wash, it targets streaks and aged roof seal residue.\n\nBest for owners who want a streak remover with a kit and dilution. The 1:8 mix gives many washes.",
     "specs": [
       "16.9 oz makes 1.2 gallons",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EJXj6PxJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS76M4B3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS76M4B3?tag=rvgearlab-amz-20",
     "description": "The Poli Glow Poli Wash Boat and RV Concentrated Soap is a 16 ounce super-concentrated soap that makes free-rinsing foam. The listing says to pour 1 to 2 ounces into a 5-gallon bucket and that it will not strip existing protective coatings.\n\nAgainst the cleaner waxes, it only washes and leaves existing wax in place. Against the STAR BRITE Instant Streak Remover, it is a gentle soap rather than a spot treatment.\n\nBest for regular washes that preserve a wax or sealant. The foam helps protect against scratching.",
     "specs": [
       "16 oz concentrated wash soap",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jfwloJGhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00HJ6TYJ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00HJ6TYJ6?tag=rvgearlab-amz-20",
     "description": "The Gel-Gloss RV Original Polish and Cleaner is a 16 ounce one-step carnauba wax formulation that removes slight scratches, stains, oxidation and water spots. The listing names fiberglass, cultured marble, acrylic, chrome and stainless steel and says it works inside and outside an RV.\n\nAgainst the TR Gel Gloss, it is a polish and cleaner in a smaller bottle at a lower price. Against the Meguiar's M61, it names interior surfaces too.\n\nBest for owners who want one product for gelcoat and interior fiberglass or cultured marble. TR Industries has made it for over 50 years.",
     "specs": [
       "16 oz carnauba polish and cleaner",

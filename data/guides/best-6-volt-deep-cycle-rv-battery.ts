@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YpTjM4SnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7LV4YS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7LV4YS7?tag=rvgearlab-amz-20",
     "description": "This is a pack of four U.S. Battery 6V deep cycle batteries in the BCI GC2 size, rated 232Ah and measuring 10.25 by 7.125 by 11.25 inches, with molded-in UTL terminals and a polypropylene heat-sealed case. The listing calls it a replacement for the Trojan T-105 and gives a 12-month warranty. A pair stores 2,784Wh at 12 volts, and two pairs make a 24V or a 12V parallel bank.\n\nIt ranks first because $999.99 for four works out to $250 per battery, which is $77.50 less each than the Trojan T-125 pack while giving 8Ah less. At a 50 percent limit its pair costs $500 and delivers 1,392 usable watt-hours, about $359 per usable kilowatt-hour. The listing excerpt does not state flooded or sealed, but the Trojan T-105 it replaces is a flooded battery, so confirm water-service needs with the seller.\n\nChoose it for two 12V pairs, or one pair now and one in reserve, when you want the lowest price per battery without leaving the brand names. The caveat is that four batteries weigh well over 200 pounds, and a 12-month warranty is short for a battery bank.",
     "specs": [
       "6V 232Ah, GC2 size",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xC0K2CZTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNTPH78H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNTPH78H?tag=rvgearlab-amz-20",
     "description": "The U.S. Battery US1800XC2 is a flooded lead acid GC2 battery rated 208Ah at the 20-hour rate and 157Ah at the 5-hour rate, sold here in a set of four. The listing is the clearest of the group: BCI group GC2, 6 volts, flooded lead acid, with both discharge-rate capacities spelled out. A pair stores 2,496Wh at 12 volts.\n\nIt ranks second because it is the cheapest pack at $959.95, or $239.99 per battery, which is $10.01 less each than the 232Ah pack but gives 24Ah less. By our 50 percent estimate it works out near $385 per usable kilowatt-hour. The 157Ah figure at the faster 5-hour rate is the useful number if you run a microwave or air conditioner, because capacity falls as the draw rises.\n\nPick it when you value clear numbers over maximum capacity and want a flooded pair at a low price. The caveat is that 208Ah is the lowest capacity among the flooded packs, and flooded means you must water the cells.",
     "specs": [
       "6V 208Ah at 20 hr",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417Gb6lM6xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082TXYX11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082TXYX11?tag=rvgearlab-amz-20",
     "description": "The Trojan T-125 is a flooded wet lead acid GC2 battery rated 240Ah, sold here in a four-pack. The listing gives dimensions of 10.30 by 7.13 by 11.15 inches and a weight of 66 pounds per battery. It recommends the battery for golf cars, RVs, cabins and renewable energy systems. A pair stores 2,880Wh.\n\nIt ranks third because it costs $1,309.99 for four, or $327.50 each, which is $77.50 more per battery than the 232Ah U.S. Battery pack and $87.51 more than the US1800XC2, for 8Ah and 32Ah more capacity respectively. By our 50 percent estimate its pair costs $655 for 1,440 usable watt-hours, about $455 per kilowatt-hour. You are paying for the highest flooded capacity per battery and the best-known name in deep cycle.\n\nChoose it when you want the most amp-hours from each tray slot, and you already plan to maintain flooded cells. The caveat is cost, and that it is another 66-pound battery times four.",
     "specs": [
       "6V 240Ah flooded GC2",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511WyCjdqXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6YQRZSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6YQRZSD?tag=rvgearlab-amz-20",
     "description": "This six-pack of 6V GC2 batteries is rated 232Ah and weighs 62 pounds each, measuring 10.25 by 7.16 by 11.25 inches. The listing mentions the XC2 formulation and diamond plate technology and positions it as a direct replacement for the Trojan T-105. A pair stores 2,784Wh at 12 volts.\n\nIt ranks fourth because the lowest price per battery, $1,319.99 for six or $220 each, is hidden inside a pack of six. A 12V pair costs $440 and delivers 1,392 usable watt-hours at a 50 percent limit, about $316 per kilowatt-hour, the lowest on this list, yet you must buy six batteries for $320 more than the four-pack. It is $30 per battery below the 232Ah four-pack.\n\nThis only makes sense when you need three pairs, such as a large motorhome with a 6-battery bank or two RVs that share an order. The caveat is that most RVs cannot hold six 62-pound batteries, so the savings are only real if you will use all of them.",
     "specs": [
       "6V 232Ah, 62 lb",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7knWIp3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-amz-20",
     "description": "The Weize GC2 is a sealed 6V 240Ah AGM battery measuring 10.24 by 7.09 by 9.92 inches, 10.79 inches in total height, and weighing 67 pounds. It has SAE and M8 terminals, a double separator for cycle life and anti-vibration construction. A pair stores 2,880Wh at 12 volts.\n\nIt ranks fifth in this guide, though it is the best choice for owners who will not water cells. At $254.99 each it costs $4.99 more than the 232Ah U.S. Battery and can be bought as a single pair for $509.98, avoiding a four-pack. Its estimated cost is about $354 per usable kilowatt-hour, close to the U.S. Battery pack, and it carries no watering chore or vented box requirement.\n\nPick it if you want one pair, no maintenance, and cost within a few dollars of the flooded packs. The caveat is that sealed AGM does not accept the equalization charge flooded cells want, so a lead-acid-only converter may need an AGM setting.",
     "specs": [
       "Sealed 6V 240Ah AGM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nkoJMRTdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ7HG7R9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ7HG7R9?tag=rvgearlab-amz-20",
     "description": "The Mighty Max ML210-6GC2 is a sealed lead acid AGM battery rated 6V 210Ah with dual terminals, measuring 10.25 by 7.00 by 10.75 inches. The listing says it is spill-proof, can be mounted in any position, resists shock and vibration, and comes with a full one-year warranty, with screws but no wire harness. A pair stores 2,520Wh at 12 volts.\n\nIt ranks last in this guide because it offers less capacity than the Weize, 210Ah against 240Ah, for $15 less, $239.99 against $254.99. Its pair costs $479.98 and gives about 1,260 usable watt-hours, roughly $381 per kilowatt-hour, which is $27 higher than the Weize. It is the lowest-priced route to a single sealed GC2 pair, and it is a standard GC2 height of 10.75 inches.\n\nChoose it when you need only one sealed pair and every dollar counts. The caveat is the one-year warranty and the lower capacity, so heavy fridge-and-inverter users are better served by the Weize.",
     "specs": [
       "Sealed 6V 210Ah AGM",

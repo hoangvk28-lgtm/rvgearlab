@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tjPAS2wFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DX6HZZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DX6HZZ4?tag=rvgearlab-amz-20",
     "description": "RTIC Ultra-Tough is a 30 can waterproof soft cooler listed to keep contents cold for up to 2 days. It floats, so a drifting cooler stays reachable on a river or lake.\n\nIt is the toughest build in the group and the only one listed as waterproof and floating, which suits boats and paddling trips better than the Maelstrom bags. It is lightweight yet made for rough terrain.\n\nKayakers, anglers and rugged campers will like how much abuse it takes. It keeps ice for a full weekend.",
     "specs": [
       "30 can capacity",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N3+E0Gp+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09F733B2M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09F733B2M?tag=rvgearlab-amz-20",
     "description": "Maelstrom 75 Can is a flip-top soft cooler that holds 75 cans plus 2 to 4 ice packs and weighs only 1.8 lbs. Its 5-layer structure includes 600D Oxford fabric with waterproof PVC outside, and it measures 18 by 12 by 13.8 inches.\n\nIt holds more than twice what the RTIC does, and the flip-top access beats a zipper at a crowded picnic. Double stitching and reinforced handles carry the load.\n\nGroups, beach trips and tailgates will love the space at a low price. The light weight makes it easy to haul.",
     "specs": [
       "75 can flip-top cooler",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lr+tkRv6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPFGZ5PD?tag=rvgearlab-amz-20",
     "description": "Maelstrom 30 Can is a collapsible leakproof soft cooler measuring about 14.4 by 9 by 10.1 inches. Five insulating layers keep contents cold for up to 24 hours, with pockets and a bottle opener on the outside.\n\nIt folds flat after the trip, which the RTIC and the 75 can bag cannot do as neatly. It is a size down from the 75 can model.\n\nDay hikers and road trippers who value storage space will like it. It lives in a drawer between trips.",
     "specs": [
       "30 can collapsible bag",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51saJxhs3FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNRYXZJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNRYXZJ?tag=rvgearlab-amz-20",
     "description": "RealCool 35 Can is a collapsible leakproof cooler with an insulating PEVA lining and a padded adjustable shoulder strap. An elastic cord on the outside holds a lunch cloth, and the upper compartment is roomy.\n\nIt holds a few more cans than the Maelstrom 30 and costs less. The padded strap makes a full bag more comfortable to carry.\n\nBudget campers and casual hikers will like how much it offers for the price. Folding it down is quick.",
     "specs": [
       "35 can collapsible bag",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419MEWckZ7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B56CHMSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B56CHMSC?tag=rvgearlab-amz-20",
     "description": "Lifewit Medium Lunch Bag measures 10 by 6.7 by 8 inches and uses thermal insulated material to keep food cool or warm. The exterior is 600D water-resistant, dirt-proof Oxford fabric, and it is leakproof.\n\nIt is the smallest here and fits a lunch and a drink rather than a crowd, which makes it a better fit for a day hike than the larger bags. It is also by far the least expensive.\n\nHikers, anglers and commuters who need a personal lunch bag will like it. It tucks into a daypack.",
     "specs": [
       "10x6.7x8 inch lunch bag",

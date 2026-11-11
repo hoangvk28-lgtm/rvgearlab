@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+4rScA1wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000GASXN0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000GASXN0?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW0750 SwayPro states 7,500 lb gross towing and 750 lb tongue weight with a standard coupler head. Blue Ox's BXW0750 SwayPro is a weight distributing hitch rated 750 lb tongue weight and 7,500 lb gross towing with a 2-inch receiver, a 7-hole shank and a standard coupler hitch head. The listing says the sway prevention keeps working in rain or snow.\n\nIt matches a 7,500 lb trailer exactly and costs slightly less than Blue Ox BXW0753. It leaves no margin above 750 lb of tongue weight.\n\nBest for a 7,500 lb trailer with a top-mounted coupler and a modest tongue weight. It suits top-mounted couplers on trailers up to 7,500 lb.",
     "specs": [
       "7,500 lb, 750 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hEbseLzwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B009ZPA0O2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B009ZPA0O2?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW0753 is the underslung-coupler version with the same 7,500 lb and 750 lb ratings. Blue Ox's BXW0753 SwayPro is the underslung-coupler version of the 7,500 lb hitch, with bars rated 750 lb tongue weight, a 2-inch receiver and a 7-hole shank.\n\nIt carries the same ratings as Blue Ox BXW0750 for trailers whose coupler is welded under the frame. It costs slightly more.\n\nBest for a 7,500 lb trailer with an underslung coupler. Choose it only for a coupler welded under the frame.",
     "specs": [
       "7,500 lb, 750 lb tongue weight",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PqLRXdIOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AZS9BFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AZS9BFC?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 94-00-1033 is a round bar kit with built-in sway control, rated 10,000 lb and 1,000 lb tongue weight. The Fastway e2 94-00-1033 is a round bar weight distribution hitch with built-in two-point sway control, rated 10,000 lb trailer weight and 1,000 lb tongue weight. The title states it does not include a hitch shank.\n\nIt leaves headroom above a 7,500 lb trailer, unlike the Blue Ox kits, but the title says no shank is included.\n\nBest for a 7,500 lb trailer with a high tongue weight and a shank on hand. Buy a compatible shank at the same time.",
     "specs": [
       "10,000 lb trailer rating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T36LT20?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T36LT20?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-0450 states 4,500 lb and 450 lb tongue weight, below a 7,500 lb trailer. This second Fastway e2 92-00-0450 listing carries the same 4,500 lb and 450 lb ratings and two-point sway control. It differs from the other listing mainly in price.\n\nIt is not suitable for 7,500 lb and is ranked low for that reason. Choose a higher-rated e2.\n\nBest avoided for a 7,500 lb trailer. Compare the two prices, since the listings describe the same rating.",
     "specs": [
       "4,500 lb trailer rating",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21Lwm03kCXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01I3JCFA2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01I3JCFA2?tag=rvgearlab-amz-20",
     "description": "CURT's 17512 is a lift handle for TruTrack spring bars. CURT's 17512 is a lift handle for the TruTrack weight distribution system that makes spring bar installation easier. It has a black rubber grip.\n\nIt is an accessory, not a hitch, and helps TruTrack owners install bars. It adds no rating.\n\nBest for an existing TruTrack owner. It is an accessory for TruTrack owners, not a hitch.",
     "specs": [
       "TruTrack lift handle",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ER2VU16aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0716WRTS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0716WRTS6?tag=rvgearlab-amz-20",
     "description": "CURT's 17513 is a set of replacement TruTrack L-pins and clips. CURT's 17513 is a set of replacement L-pins and clips for the TruTrack weight distribution hitch. They help hold the spring bars in place laterally and vertically.\n\nIt is a part, not a hitch, and costs about the same as CURT 17512 Handle. It adds no rating.\n\nBest for replacing lost TruTrack pins. Buy it only as a replacement part.",
     "specs": [
       "TruTrack L-pins and clips",

@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413rT0t3CnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768NKHZ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768NKHZ9?tag=rvgearlab-amz-20",
     "description": "The Crankbrothers M 19 packs 19 tools into a body that measures 89 millimeters and weighs 175 grams, with a chain tool that handles 8 to 12 speed chains, spoke wrenches, side grips for gloved hands and a lifetime warranty. It costs $34.99.\n\nIt carries the widest tool set in the guide and includes spoke wrenches that the NIPNSCI omits, which matters when a wheel goes out of true far from help. Compared with the Vibrelli at $25.99, it adds the brand's long warranty and a slimmer, more compact body, and the side grips make it easier to turn in cold or wet conditions.\n\nMulti day bikepackers who ride remote routes and want the most complete trailside kit will find it the strongest tool for the job.",
     "specs": [
       "19 tools, 89 mm, 175 g",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G-YSTPWfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW3CJRRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW3CJRRV?tag=rvgearlab-amz-20",
     "description": "The Vibrelli V19 offers 19 tools in a 3 by 2 inch body that weighs 6.5 ounces, made from hardened Cr-V steel with a MIL-STD 810G durability claim, a carry case and a lifetime warranty at $25.99.\n\nIt matches the M19's 19 tool count for about $9 less, and the carry case keeps the tool organized in a frame bag. Compared with the NIPNSCI at $12.51, it adds seven tools and a hardened steel build, which gives more fastener coverage and a longer service life for riders who wrench often.\n\nValue minded riders who want a full tool set and a lifetime warranty without paying the premium brand price will find it the best balance.",
     "specs": [
       "19 tools, 3 by 2 inches, 6.5 oz",
@@ -93,7 +93,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y9e3l65hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1773WYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1773WYQ?tag=rvgearlab-amz-20",
     "description": "The NIPNSCI is a 12 tool multi tool measuring 3 by 1.6 inches and weighing about 6 ounces, with a chain breaker that covers 8 to 12 speed chains, carbon steel construction and non slip grips, at $12.51. It is the slimmest and cheapest option here.\n\nIts low price and slim body make it easy to tuck into a saddle bag, and it still carries the chain tool that matters most on the trail. Compared with the Vibrelli at $25.99, it halves the cost and trims the tool count, and next to the M19 it saves more than $22.\n\nShort trips, commuting, campground rides from an RV and riders who just want a simple, light tool for common adjustments will find it plenty.",
     "specs": [
       "12 tools, 3 by 1.6 inches",

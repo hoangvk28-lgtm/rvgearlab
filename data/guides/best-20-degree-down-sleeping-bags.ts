@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F2Ik1MEJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GMSBHQ8S?tag=rvgearlab-amz-20",
     "description": "The Sierra Designs Cloud 20 is a zipperless down bag with 800 fill power DriDown (16.4 oz of fill), a 15D nylon ripstop shell and a trail weight of 1 lb 13.3 oz. Its ISO figures read 26 degrees F for comfort and 15 degrees F for the limit.\n\nIts 800 fill power tops the other two and it weighs less than the Naturehike medium, plus a self-sealing foot vent and an integrated pad sleeve that keeps the bag on the mat. It trades the zipper for an oversized comforter, which suits side and active sleepers more than the Kelty Cosmic 20.\n\nIt suits backpackers who want a lightweight, high-fill bag that moves with them. The pad sleeve keeps it from sliding off the mat.",
     "specs": [
       "800FP DriDown, 16.4 oz fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ypf-hGnNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSPKCJZK?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic 20 uses 550 fill power RDS-traceable down in recycled nylon and polyester taffeta fabrics with a PFAS-free DWR finish. It has dual-direction zippers and sizes that fit up to 5 ft 6 (Short), 6 ft (Regular) and 6 ft 6 (Long).\n\nIts ISO limit sits at 21 degrees F with an extreme of -11 degrees F, and each size adds 6 inches of length. It has the lowest fill power of the three, which means more weight for the same loft.\n\nIt suits campers and backpackers who want a tested down bag in a choice of lengths, including a Long for tall sleepers. The dual-direction zippers make venting easier.",
     "specs": [
       "550FP RDS down",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VKYwWFcNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8BS2L4?tag=rvgearlab-amz-20",
     "description": "Naturehike builds the CW series with RDS down at 650 fill power inside a 400T 20D ripstop shell and YKK zippers, and its title prints 28.9 degrees F. The medium weighs 2.37 lb at 82.68 by 29.53 inches, and the large weighs 2.9 lb at 86.61 by 33.46 inches.\n\nThis model fits the topic only loosely, since its headline figure is warmer than 20. The listing's CW1000 model drops to a 12 degrees F comfort and -2 degrees F extreme, while the CW700 is 29 degrees F.\n\nIt suits ultralight-minded backpackers who want a bag under 3 lb with ISO-style figures printed, choosing the model that matches the cold. Two sizes cover different heights.",
     "specs": [
       "650FP RDS down",

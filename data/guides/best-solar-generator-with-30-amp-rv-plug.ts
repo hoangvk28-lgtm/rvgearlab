@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI Solar Generator Elite 300 & 2x200W Solar Panel 3014.4Wh LFP Battery",
     amazonQuery: "BLUETTI Solar Generator Elite 300 & 2x200W Solar Panel 3014.4Wh LFP Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41mZSGuEV7L._SL500_.jpg",
     specs: ["Capacity: 3,014.4Wh","Continuous output: 2,400W","Surge output: 4,800W","Included panel: 200W"],
     specList: [{"label":"Capacity","value":"3,014.4Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Included panel","value":"200W"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
     amazonQuery: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Surge output: 4,500W","Runtime claim: Up to 1.29 hours"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,500W"},{"label":"Runtime claim","value":"Up to 1.29 hours"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3600 Plus & 2x200W Solar Panels, 3584Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FMXCPWBN?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/417PSNnMsLL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "BLUETTI Elite 300 Portable Power Station",
     amazonQuery: "BLUETTI Elite 300 Portable Power Station",
-    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GKRTX336?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415Ex6a1IZL._SL500_.jpg",
     specs: ["Capacity: 3,014Wh","Continuous output: 2,400W","Surge output: 4,800W","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"3,014Wh"},{"label":"Continuous output","value":"2,400W"},{"label":"Surge output","value":"4,800W"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3000 and 2x200W Solar Panels, 3072Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FFSDCNR4?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413GZxMHAnL._SL500_.jpg",
     specs: ["Capacity: 3,072Wh","Continuous output: 3,600W","Surge output: 7,200W","Runtime claim: Up to 15 hours"],
     specList: [{"label":"Capacity","value":"3,072Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"7,200W"},{"label":"Runtime claim","value":"Up to 15 hours"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI Solar Generator Elite 300 & 2x200W Solar Panel 3014.4Wh LFP Battery product page",
-    "href": "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GKRPD6GL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

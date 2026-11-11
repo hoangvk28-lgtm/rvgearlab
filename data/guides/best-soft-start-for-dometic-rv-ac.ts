@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p3TNr6YzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSXQQBKZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSXQQBKZ?tag=rvgearlab-amz-20",
     "description": "The Polar Start soft starter kit includes hardware and lists an installation guide covering over 70 models of RV air conditioners, with compatible makes including Dometic, Coleman (Airxcel), Houghton Belaire and GE. It is meant for running a compressor on an inverter generator and lists support for two ACs on 30 amps.\n\nAgainst the Matirron, it lists a wider model list and a stated two-AC 30 amp use. Against the Coleman-Mach kit, it covers more than one brand.\n\nBest for Dometic owners who want a kit that names the brand and comes with hardware. A strong pick for inverter generator use.",
     "specs": [
       "Names Dometic, 70 plus models",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+sFkYNMpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDHXLGLS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDHXLGLS?tag=rvgearlab-amz-20",
     "description": "The Matirron is a soft starter for 13.5K to 15K BTU 120V rooftop units and names Dometic, Furrion, Coleman-Mach and GE. The kit includes a pre-crimped pigtail wire, matched connectors, wiring terminals and an illustrated installation guide.\n\nAgainst the Polar Start, it adds a pigtail and connector set for cleaner wiring. Against the Wodli, it names Dometic and states a BTU window.\n\nBest for the common 13.5K and 15K BTU Dometic units. A tidy kit for owners who want matched connectors.",
     "specs": [
       "13.5K-15K BTU, 120V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tpKjscFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV pack of 2 covers two air conditioners and states 100 percent waterproof, 40 percent smaller bodies for low-profile units and the ability to start two ACs on 30 amp. It lists a 2200W generator running up to 36,000 BTU of rooftop capacity and live installation support.\n\nAgainst the single kits, it covers a two-unit coach at a higher price. Against the Polar Start, it adds live support and technician help.\n\nBest for two-AC Dometic coaches. A neat pairing for dual-roof setups.",
     "specs": [
       "Pack of 2, 100 percent waterproof",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-KdP1RcvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF2SS14J?tag=rvgearlab-amz-20",
     "description": "The Wodli kit lists four LED indicators that show soft start status, a 65 to 70 percent starting current reduction and a 15,000 BTU AC starting on a 2200W generator. It supports operating an AC from a 20A household hookup or two ACs on a 30A hookup with two kits.\n\nAgainst the Matirron, it adds LEDs and a stated reduction. Against the XunDong, it lists a reduction percentage and costs more.\n\nBest for buyers who want visible status lights for diagnosis. A useful pick when troubleshooting a roof unit.",
     "specs": [
       "65 to 70 percent startup reduction",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rldvr+ASL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8PCXH41?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8PCXH41?tag=rvgearlab-amz-20",
     "description": "The XunDong kit has five color-coded wires and a reinforced waterproof ABS housing. It lists starting 13K to 15K BTU units on a 2200W generator and describes reduced noise and vibration.\n\nAgainst the Wodli, it costs much less. Against the Matirron, it has no brand list.\n\nBest for budget shoppers who can confirm wiring themselves. A basic option.",
     "specs": [
       "13K to 15K BTU on 2200W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41co8oT6++L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CF41ZW4W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CF41ZW4W?tag=rvgearlab-amz-20",
     "description": "The Coleman-Mach soft start kit lists a reduction in inrush amperage of up to 75 percent, a ramped-up power draw and short-cycle protection. It installs from the outside of the coach, comes with a 2 year limited warranty and fits Coleman-Mach 45000, 47000 and 48000 series.\n\nAgainst the Dometic-named kits, it is brand matched to a different make. Against the generic kits, it carries a warranty and manufacturer backing.\n\nBest only for Coleman-Mach owners. It is a manufacturer kit with warranty protection.",
     "specs": [
       "Up to 75 percent inrush reduction",

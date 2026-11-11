@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-amz-20",
     "description": "The Vandham Tarp 10x12FT is an 8 mil high-density polyethylene sheet with rubber triangular reinforcements at the corners and two-layer edges that carry grommets about every meter. At 120 square feet it is the biggest 8 mil sheet that fits under the twenty dollar ceiling, and the corner patches address the spot where cheap poly usually gives up first.\n\nAgainst the CARTMAN 8x10Ft it brings 40 extra square feet for a few dollars, and next to the 5 mil Kotap 8 x 20 ft it supplies a sturdier body across a more compact footprint. The Xpose Safety sheet is far thicker, yet it spreads over a third of the area, so the Vandham is the better balance of mil and size.\n\nIt suits a camper who wants one general-purpose tarp for a tent floor, a picnic shelter or a wood stack, and who would rather spend on area than on thickness. Unfold it in the sun for an hour before first use and the new-plastic smell fades, leaving a tarp that is ready for years of camp chores.",
     "specs": [
       "10 x 12 ft, 8 mil high-density polyethylene",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FIGhZ26zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-amz-20",
     "description": "The CARTMAN 8x10Ft is the entry point of the group: an 8 by 10 foot, 8 mil polyethylene sheet with heat-sealed hems, nylon rope sewn into the edges, a grommet about every 36 inches and plastic reinforcements at each corner. Around $13 buys 80 square feet of sealed, rope-edged plastic, which is more build than the price suggests.\n\nIt costs less than the Vandham Tarp 10x12FT and gives up 40 square feet to get there, so it covers a two-person tent floor or a small gear pile rather than a full camp kitchen. Compared with the Kotap 8 x 20 ft, it swaps length for a thicker 8 mil body with a rope-reinforced hem, a better pairing for ground-level work where the sheet rests on gravel.\n\nIt suits campers who need a low-cost ground cloth or a rain cover for a pile of wood. Buy two if you want one for the floor and one for overhead cover, which is a perfectly workable plan since the whole pair is cheap, and you still stay under the price of a single mid-range tarp, with a spare sheet left for the trunk.",
     "specs": [
       "8 x 10 ft, 8 mil polyethylene",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-amz-20",
     "description": "Roughly 9.5 by 11.3 feet in size, this Amazon Basics tarp pairs a woven rip-stop base with a polyethylene coating on each face. Reinforced corners and edges carry grommets for tie-downs, and the product is described as built for tents, vehicles and firewood, a useful range for one purchase. At around $19 it sits just beneath the ceiling and delivers roughly 107 square feet.\n\nThe rip-stop weave keeps a small puncture from running the length of the sheet, an advantage the plain poly Kotap 8 x 20 ft and CARTMAN 8x10Ft do not offer. It adds about $2 to the Vandham Tarp 10x12FT and trades a thicker plastic feel for a woven core that resists tear spread, which is a smart exchange for a tarp expected to cross rough ground, such as a campsite with roots and stones.\n\nIt suits campers who want a tear-resistant tarp for a vehicle cover or an overhead shelter. It is also a good second tarp for a tent floor, because the lamination on both faces means neither side needs to face a particular direction, and spare grommets let you rig it quickly over a tailgate or a table.",
     "specs": [
       "Roughly 9.5 x 11.3 ft, woven rip-stop",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ab-hu1sTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-amz-20",
     "description": "The Kotap 8 x 20 ft is a 5 mil polyethylene sheet with a finished size of 7 feet 4 inches by 19 feet 6 inches, sold under the 8 by 20 label. Tightly woven coated polyethylene carries rustproof aluminum grommets every 3 feet and at each corner, and at about $14 it works out to roughly 143 square feet in one long piece.\n\nIt is the longest sheet in the group, so it can cover a row of firewood, a boat or a long gear line that nothing else reaches. Compared with the 8 mil Vandham Tarp 10x12FT it spreads over a long thin strip, giving up thickness so that a single sheet spans an awkward load such as a canoe or a long run of split logs.\n\nIt suits campers who cover long, narrow loads like a stack of logs or a canoe. Hang it with cord through each grommet to keep it taut, and plan on it as a seasonal cover that is cheap to replace once winter storage ends. A second one makes a handy gear cover for the trailer deck.",
     "specs": [
       "5 mil poly, 7'4\" x 19'6\" finished size sheet",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bl4KfIO3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDN74YR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDN74YR5?tag=rvgearlab-amz-20",
     "description": "The Xpose Safety 5' x 7' sheet is a 20 mil tarp with a 370 GSM 16 by 16 weave, reinforced corners and brass grommets. It is UV protected and described as fully waterproof for all seasons. At up to $20 it spends the whole budget on thickness, which is why it covers 35 square feet instead of a campsite.\n\nIt is the thickest sheet by a wide margin, and next to the 8 mil tarps it lasts longer in abrasion and sun. Where the Vandham Tarp 10x12FT spreads the budget across area, the Xpose concentrates it into a sheet that shrugs off gravel, tree roots and long sun exposure, which is the whole case for buying it.\n\nIt suits campers who want a long-lived ground cloth under a small tent or a tough cover for a cooler, a bag, an outboard motor or a seat, jobs where the thick weave pays off. Use it where durability beats area, and pair it with a bigger, cheaper sheet for overhead rain, so each tarp does the job it suits best.",
     "specs": [
       "20 mil, 370 GSM 16 x 16 weave",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TF2SEPBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SR1SCTC?tag=rvgearlab-amz-20",
     "description": "WERTYCITY lists its warm weather bag at about 1.54 lb and states it compresses to 6.9 inches in height. A nylon outer, polyester pongee lining and soft cotton-like filling are described, with comfort given as 59F.\n\nIts packed height of 6.9 inches beats the ECOOPRO's 11 inches, and its stated weight is the lowest in this guide. Two bags can also be zipped together into a double.\n\nIt suits summer backpackers who want the smallest roll in the group. The listing frames it for scouts, hikers and travelers.",
     "specs": [
       "About 1.54 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fu3se401L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B011AZ3O9W?tag=rvgearlab-amz-20",
     "description": "ECOOPRO's warm weather bag is a slim envelope, 83 inches long, in water-proof nylon over a polyester inner. The page puts it at 1.7 lb, squeezing down to 11 inches tall, for nights the maker pegs at 55 to 60F.\n\nIt trails the WERTYCITY on packed height, and it adds a waterproof shell and a smooth zipper. A compression sack comes with it.\n\nIt suits campers who want a wipe-clean bag for warm nights. The envelope shape keeps weight down.",
     "specs": [
       "Slim envelope cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "The Cosmic Synthetic 40 from Kelty comes in at 2 lb 6 oz with 24 oz of Cirroloft fill, and the listing gives a 15 by 8 inch stuff size before compression. Straps on the built-in sack squeeze it further.\n\nIt weighs more and packs larger than the warm-weather bags, and it is the only one rated at 40 degrees, so it handles shoulder seasons. A roomy footbox and a stash pocket add comfort.\n\nIt suits backpackers who want a synthetic bag that handles cool nights. Every number a pack planner needs is printed.",
     "specs": [
       "40 degree Cirroloft synthetic",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31UF8unBJoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRV98B9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRV98B9V?tag=rvgearlab-amz-20",
     "description": "The BORULL measures 87 by 34 inches and uses 300GSM one-piece synthetic fill rated at 40 to 65F with limits of 30F and 70F. A draft collar, an insulated zipper guard and a two-way zipper come with an adjustable half-circle hood.\n\nAt 34 inches wide it is the roomiest bag here, and the one-piece fill is machine washable. It packs into the included compression sack.\n\nIt suits larger campers who still want a bag that compresses for the carry. The price is low.",
     "specs": [
       "87 x 34 inch cut",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qaYaPc56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJLZ6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJLZ6H?tag=rvgearlab-amz-20",
     "description": "CORE rates its bag from 50 to 70F, with polyester shell and lining and hollow fiber fill that keeps insulating when wet. An interior accessory pocket holds small items.\n\nIts clear 50 to 70F range tells you plainly it is a warm-weather bag, and it costs more than the other warm-weather bags. No weight or packed size is printed.\n\nIt suits casual campers who want a simple bag for warm nights and sleepovers. The soft lining feels pleasant.",
     "specs": [
       "Rated 50F to 70F",

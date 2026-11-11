@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oomhmD1yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX3ZK5P2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX3ZK5P2?tag=rvgearlab-amz-20",
     "description": "POXURIO is a 2450W starting-watt gas inverter generator rated at 59 decibels, with a 6 liter tank that runs up to 10 hours at 25 percent load. Inverter technology gives clean power for laptops and tools.\n\nIt offers more than twice the surge power of the Pulsar for $10 less, and it runs far longer than any battery unit. The Pulsar is smaller and the battery stations are silent, so this one wins on watts per dollar.\n\nChoose it for an RV, a campsite and a power outage. Run it outdoors at least 20 feet from tents, windows and doors, and use a CO alarm indoors.",
     "specs": [
       "2450W starting, 59 dB inverter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P9s34ZE1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTK48Z7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTK48Z7B?tag=rvgearlab-amz-20",
     "description": "Pulsar is a 1500 starting watt, 1100 running watt gas inverter generator with a sine wave output and overload and short circuit protection. It runs at about 62 dB and is built for tailgates, RV trips and job sites.\n\nIt has less power than the POXURIO and costs $10 more, in return for lower weight and a smaller footprint. The battery kits are quieter and need no fuel.\n\nChoose it for a tailgate or a small RV with lights, a TV and a laptop. It suits buyers who want a gas option that is easy to carry.",
     "specs": [
       "1500 starting, 1100 running watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Eg7EkHYHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYDTZHZ?tag=rvgearlab-amz-20",
     "description": "Powkey stores 192Wh in LiFePO4 and weighs 4.7 lb with a foldable handle, at 7.1 by 5.3 by 5.5 inches. One 120V outlet gives 200W, joined by a USB-C jack, a pair of USB-A ports, two DC outputs and a dual-white LED flashlight on the side.\n\nAt about $100 it costs half the gas units and holds up to 3 hours of 60W. It runs silently and indoors, which the gas units cannot.\n\nChoose it for a CPAP, a fan or phone charging at camp. A panel is not included, so pair it with your own.",
     "specs": [
       "192Wh LiFePO4, 200W AC",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ueD7s3b6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBS5KZKB?tag=rvgearlab-amz-20",
     "description": "Two 110V pure sine outlets rated to 200W sit beside a 40W foldable panel in this Powkey bundle with a 146Wh station. Four USB outputs are included, and it recharges from a wall outlet in 5 to 6 hours, a 12V car port or the panel.\n\nAt about $120 it is the one unit in this guide that ships with a panel. The 192Wh model stores more and the gas units run longer.\n\nChoose it for a first solar kit for weekend camping. It suits phone, laptop and light use.",
     "specs": [
       "146Wh, 200W pure sine wave",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H27zmeiLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8HMDRYZ?tag=rvgearlab-amz-20",
     "description": "MARBERO M822 has a 148Wh battery and a 110V AC inverter rated 200W with 270W max. Four USB-A outputs (two with QC3.0) sit beside a PD USB-C jack, and two LED flashlights double as a camping lantern.\n\nIt costs about $100 and offers lights where other units have one flashlight. Wall charging takes about 7 hours.\n\nChoose it for a tent camper who wants light and charging in one box. It suits family weekends.",
     "specs": [
       "148Wh, 200W AC (270W max)",

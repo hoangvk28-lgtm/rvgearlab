@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e4QVqeXLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01FC5IN1K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01FC5IN1K?tag=rvgearlab-amz-20",
     "description": "USHAKE is a lightweight cage made from 6061-T6 heat-treated aluminum alloy for strength. It ships with four M5 x 12 screws and a 4mm hex key for installation on frames with drilled holes.\n\nThe aluminum build is sturdier than the plastic ROCKBROS and Lamicall cages, and the included screws and key mean you can install it right away. It suits mountain and road bikes.\n\nRiders who want a durable, no-fuss cage will like it. It installs in minutes with the included key.",
     "specs": [
       "6061-T6 aluminum alloy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lmDxyUtnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01DIX10QS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01DIX10QS?tag=rvgearlab-amz-20",
     "description": "FiveBox sells two aluminum alloy cages that fit 23 to 28 oz bottles snugly. They fit the standard 56mm to 71mm screw spacing and are described as anti-rust with low weight.\n\nTwo cages for the price of one USHAKE gives you a pair for a tandem or a spare. The anti-rust finish handles wet rides.\n\nRiders with two mounts or a spare bike will like the pair. Mount one on the frame and keep one for the next bike.",
     "specs": [
       "Two aluminum alloy cages",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417NYokpfYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1J2Q5WD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1J2Q5WD?tag=rvgearlab-amz-20",
     "description": "ROCKBROS is a polycarbonate bottle cage that weighs only 35g. It comes with screws and a 3mm Allen wrench and installs in less than a minute on bikes with pre-drilled holes.\n\nAt 35g it is the lightest here, and the wear-resistant material will not rust like metal. It costs about the same as the aluminum options.\n\nWeight-conscious riders and gravel racers will like how little it adds. It never gets in the way of a pace line.",
     "specs": [
       "35g polycarbonate cage",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t5NKWMJlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHXFZL3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHXFZL3J?tag=rvgearlab-amz-20",
     "description": "Lamicall is an ultralight plastic bottle cage listed at 1.2 oz. It is designed for bikes with pre-drilled screw holes and claims easy installation.\n\nIt is the cheapest cage here and has a compact build. The design secures bottles over rough terrain.\n\nCasual riders and commuters will like the low price. Add a second one for a spare bike without much cost.",
     "specs": [
       "1.2 oz plastic cage",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xydCq+zoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSZNBDKW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSZNBDKW?tag=rvgearlab-amz-20",
     "description": "Desing Wish is an ultra-thin handlebar bottle holder with three removable hook-and-loop straps. It fits 24 to 32 oz bottles under 3.8 inches in diameter and installs without drilling.\n\nIt is the only option here for bikes with no frame mounts, which suits kids' bikes, folding bikes and cruisers. Straps can be moved between bikes.\n\nCommuters and cruiser riders will like the no-drill setup. Setup takes only a few straps and a minute.",
     "specs": [
       "Handlebar mount with 3 straps",

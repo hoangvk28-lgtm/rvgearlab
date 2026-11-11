@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kOn7d2TML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSTNPN19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSTNPN19?tag=rvgearlab-amz-20",
     "description": "The OGERY runs a 30,000mAh battery with a stated 26 to 322 hours, 5.0 m/s airflow and 30, 60, 90 or 120 degree auto oscillation. It also offers a 270 degree vertical tilt, a remote, a three-level lantern and 22W output with 18W fast input.\n\nIt states 5.0 m/s airflow and offers four oscillation angles, a wider choice than the 45 or 90 degrees on the EEIFO and Givryes. The 22W output and 18W input are quicker than the 5V/2A figures on the budget units.\n\nIt suits campers who want a fan that doubles as a power source for phones and tablets. The tent-ready design hangs in RVs and fishing shelters too.",
     "specs": [
       "30,000mAh, 26 to 322 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416CIi1VU9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSDKZWYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSDKZWYX?tag=rvgearlab-amz-20",
     "description": "The EEIFO has a sealed 40,000mAh lithium pack, four wind speeds, three brightness levels and three color temperatures. It adds a remote, 1, 2, 4 and 8 hour timers and 45 or 90 degree oscillation.\n\nIt carries a bigger pack than the OGERY. The color temperature choices are an extra over the FRIZCOL.\n\nIt suits car campers who need several nights of cooling. A 360 degree hanging hook and 270 degree pivot help in tents.",
     "specs": [
       "Sealed 40,000mAh pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NiObDHKzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GG8L9ZHW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GG8L9ZHW?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL 48000mAh lists 22 to 120 hours from a 48,000mAh battery, four speeds, three timers and noise under 30dB. A remote and two-level LED light complete it.\n\nIt has a larger battery than any other pick and adds three sleep timers. The quiet claim is stated at under 30dB.\n\nIt fits families who want to charge once and camp for days. Rugged ABS and an anti-drop design handle rough gear bins.",
     "specs": [
       "48,000mAh, 22 to 120 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+ZsySV2RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVM48PZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVM48PZC?tag=rvgearlab-amz-20",
     "description": "The Givryes has a non-detachable 20,000mAh battery, a digital display, four wind speeds and a remote. It lists 14 to 60 hours, a 360 degree rotating hook and switchable 45 or 90 degree oscillation.\n\nIt combines a display, remote and oscillation in one mid-size body. Against the FRIZCOL 48000mAh, it offers a smaller pack and a more compact build.\n\nIt fits campers who want convenient controls without paying for a giant pack. Three LED light levels handle evening use.",
     "specs": [
       "20,000mAh, 14 to 60 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41722OjNi8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWMBQP92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWMBQP92?tag=rvgearlab-amz-20",
     "description": "The KopBeau holds a 20,000mAh battery that charges in about 8 to 9 hours and lists a 2600 RPM motor. It has a carry handle, hanging hook and a cotton pad that takes a drop of essential oil.\n\nIt is the only pick with the scent option, and its charge time is stated. Against the Givryes, it offers the same pack size with a scent option and a stated charge time.\n\nIt suits campers who enjoy a light scent in the tent. The handle and hook make it easy to move.",
     "specs": [
       "20,000mAh, 8 to 9 hour charge",

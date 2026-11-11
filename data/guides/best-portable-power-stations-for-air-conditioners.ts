@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AYzvs0fvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ1XXXGD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ1XXXGD?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Apex 300 is the most convincing air conditioner partner in this group for an RV. Its six AC outputs share 3840W continuous with a 7680W surge, which is the kind of headroom a compressor start needs, and it delivers 120V and 240V at the same time. The 2,764.8Wh LFP battery sits in a modular system that expands with an expansion battery, and the Hub D1 module adds a 50 amp Anderson DC port for 12 volt gear.\n\nCompared with the EcoVolt PowerMax 6000 below it, the Apex 300 gives up about 2,000 watts of continuous output and trades that for a more compact, RV-oriented layout with a 6,000-cycle LFP battery rated for 17 years. Against the Grecell 2400W, it adds 1,440W of continuous power and about 920Wh of storage for roughly $1,240 more.\n\nIt suits an RVer who wants to cool the trailer for a few hours at a time from a single, well-built system, with the option to add the expansion battery and solar later. Bluetti quotes a 6400W fast solar input that fills 5.5kWh in 1.9 hours with the expansion battery, so solar days can refill the system quickly.",
     "specs": [
       "2,764.8Wh LFP, 3840W AC, 7680W surge",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UJY0DmtqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8XQQ2WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8XQQ2WR?tag=rvgearlab-amz-20",
     "description": "The EcoVolt PowerMax 6000 offers a 6000W split-phase inverter with a 9000W peak, a 3,600Wh LiFePO4 battery and expansion up to 57.6kWh. At $1,999, it is the cheapest way here to get enough output for a pair of air conditioners or a central unit, and it refills from AC in about 1.96 hours. LiFePO4 cells are rated for up to 3,500 cycles.\n\nCompared with the BLUETTI Apex 300 above, the PowerMax delivers about 2,160W more continuous power for about $200 more, with 835Wh extra battery capacity. Against the EcoFlow DELTA Pro, it adds 2,400W of continuous output at a similar price and gives you a clean 120/240V split phase.\n\nIt works for a large motorhome with two rooftop units, a tiny home, or a workshop air conditioner, where startup surge is the limiting factor. Smartphone control through an app lets you switch outlets, change charging speed and watch the battery from outside the rig.",
     "specs": [
       "3,600Wh LiFePO4, 6000W continuous, 9000W peak",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SnC3yjKYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHRFJ7F5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHRFJ7F5?tag=rvgearlab-amz-20",
     "description": "The GRECELL 2400W station packs 1,843.2Wh of LiFePO4 storage and a 2400W inverter into a $559.99 package, which is the best price per watt in the group. Four AC outlets share the 2400W, and 12 devices can run at once through a mix of USB-A QC and 100W USB-C PD ports. An intelligent UPS mode switches within 0.1 seconds to protect a desktop or a router during outages.\n\nStepping up from the Jackery Explorer 1000 v2, the Grecell nearly doubles the continuous output and nearly doubles the capacity for about the same price. Stepping up to the BLUETTI Apex 300 adds a 7680W surge rating and RV-focused DC outputs at about three times the price.\n\nIt suits a van, a small trailer with a compact air conditioner, or a camper who needs about an hour or two of cooling in the heat of the afternoon. The bidirectional inverter lets it charge and discharge at the same time, which is helpful when you run it from a campground outlet.",
     "specs": [
       "1,843.2Wh LiFePO4, 2400W AC output",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319bA1rsZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 is the small, portable pick here: 1,024Wh of LFP storage, 1,500W of continuous output and a 3,000W surge, in a box that fits behind a seat. Jackery lists AC units among the appliances it can run, and its 10ms UPS switchover protects electronics. Recharging takes about 50 minutes with emergency mode on the app, and a 30dB quiet charging mode is available overnight.\n\nCompared with the GRECELL 2400W, the Jackery offers a more polished app and a 10 year battery life with over 70 percent capacity retained after 4,000 cycles. The Grecell offers more capacity and watts at a similar price, so the Jackery wins on brand support and weight.\n\nIt works for a small window or portable air conditioner in a tent or van, for a fridge and fan in a camper, and for a day at a campsite where a heavy 3kWh unit would be overkill. Treat it as a short-burst cooler rather than an all-night one.",
     "specs": [
       "1,024Wh LFP, 1,500W output, 3,000W peak",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA Pro is a proven 3,600Wh LFP station with a 3600W AC output that boosts to 4500W with X-Boost, and two units can be paired for 7200W. A 240V outlet charges it from empty in 1.8 hours, a 1800W wall outlet takes 2.7 hours, and four 400W panels fill it in 2.8 hours. Expansion batteries take it up to 25kWh.\n\nCompared with the EcoVolt PowerMax 6000, the DELTA Pro offers a more established brand, a mature app and five ways to charge, including EV stations, while the PowerMax offers more continuous output. Against the Grecell 2400W, it roughly doubles capacity at about three times the price.\n\nUse it for a small or medium RV air conditioner for a few hours, with a soft-start device to keep the surge down, or as part of a system that grows with extra batteries. It also makes a strong backup for a home fridge, sump pump and furnace fan.",
     "specs": [
       "3,600Wh LFP, 3600W, 4500W X-Boost",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yAI3u3SqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HN4BSLN6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HN4BSLN6?tag=rvgearlab-amz-20",
     "description": "The EcoFlow TITAN Plus is a different class of product: 5,017Wh of LFP storage with 7.2kW of continuous output, expandable to 10kW with solar and to 30kWh with five expansion batteries. It delivers 120V and 240V split-phase power with up to 5kW on a single circuit, enough, EcoFlow says, to run a 3-ton central air conditioner. Two 400W panels are included.\n\nCompared with the EcoVolt PowerMax 6000, the Titan Plus adds about 1,400Wh of battery for more than twice the price and adds UL 9540 certification, a home-energy platform and generator charging up to 7.2kW. Compared with the DELTA Pro, it moves from a portable station to a semi-permanent system.\n\nChoose it for a tiny home, a cabin or a home backup that must cool a whole space, rather than for a camper. UL 9540 and UL 9540A testing, plus AI-based energy management, make it a more serious installation than a camping product.",
     "specs": [
       "5,017Wh LFP, 7.2kW continuous, 120V/240V",

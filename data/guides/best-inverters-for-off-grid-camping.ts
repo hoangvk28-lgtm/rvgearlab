@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41efhN+Z8-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07H9SXV61?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07H9SXV61?tag=rvgearlab-amz-20",
     "description": "The Renogy P2 gives 2000W continuous and 4000W surge as pure sine wave, with three AC outlets, an AC terminal block and a 5V 2.1A USB port. It ships with two 3 ft 1/0 AWG cables and a 16.4 ft wired remote.\n\nCompared with the Renogy 1000W it doubles the output and adds the terminal block for hardwiring. Against the BELTTT 1500W it includes heavy cables and the solar-focused brand positioning.\n\nIt suits solar-charged vans and cabins that run a fridge, lights and a small appliance. The listing describes it as made for off-grid solar systems.",
     "specs": [
       "2000W pure sine, 4000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FaYrrIxgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJRXDRP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJRXDRP?tag=rvgearlab-amz-20",
     "description": "The DEECHI delivers 4000W continuous and 8000W peak with 93 percent conversion efficiency and low no-load losses. An LCD shows voltage, output power, frequency and capacity, and the remote works out to 200 ft.\n\nIt is the highest-output pick here and doubles the BELTTT 1500W. Compared with the DEECHI 3000W it adds a full 1000W of continuous capacity.\n\nIt suits large cabins with a 12V bank that can feed it. The listing names 12 or 12.8V systems and protections including ground fault and reverse polarity.",
     "specs": [
       "4000W, 8000W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-wpY6VfSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBJ7WTR2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBJ7WTR2?tag=rvgearlab-amz-20",
     "description": "The AeternaSol lists 3000W pure sine with 6000W peak, two AC outlets, a USB-A 18W port and a USB-C 30W port. Dual LCD screens and a 16.4 ft wired remote come with it, and battery cables are included.\n\nIt is the pure sine 3000W pick, whereas the DEECHI 3000W does not state the waveform. Compared with the Renogy 2000W it offers more output and USB-C.\n\nIt suits off-grid cabins and trucks running tools and a fridge. Over voltage, under voltage, overload and reverse polarity protections are named.",
     "specs": [
       "3000W pure sine, 6000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FH4IvIr3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JMQ27WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JMQ27WJ?tag=rvgearlab-amz-20",
     "description": "The Renogy P2 1000W delivers 1000W continuous and 2000W surge as pure sine wave with two AC outlets, a terminal block and a 5V 2.1A USB port. UL 458 and CSA C22.2 No. 107.1 certification is named on the listing.\n\nIt is the only pick listing UL and CSA marks, which sets it apart from the BELTTT and DEECHI units. Against the Renogy 2000W it halves the output and costs less.\n\nIt suits small solar systems in vans and weekend cabins. Two 3 ft 4 AWG cables and a 16.4 ft remote come with it.",
     "specs": [
       "1000W pure sine, 2000W surge",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hrhP7KAcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNJSCJQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNJSCJQD?tag=rvgearlab-amz-20",
     "description": "The DEECHI 3000W delivers 3000W continuous and 6000W peak with a large LCD and a 200 ft remote. The listing says noise stays under 30dB and names protections including ground fault and reverse polarity.\n\nIt is cheaper than the AeternaSol and shares its 3000W class. Compared with the DEECHI 4000W it drops 1000W and costs less.\n\nIt suits cabin owners who want a quiet unit with a long-range remote. Installation is described as simple with the supplied cables.",
     "specs": [
       "3000W, 6000W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xwo3dz3xL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPZXQV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPZXQV?tag=rvgearlab-amz-20",
     "description": "The BELTTT 1500W lists 1500W continuous and 3000W surge as pure sine, with dual AC sockets, a USB port and a smart LCD. It includes 3 ft thicker cables and an installation tool.\n\nIt is the lowest-priced pick and sits between the Renogy 1000W and 2000W. Compared with the Renogy 2000W it has no remote listed.\n\nIt suits small solar vans on a budget. Undervoltage, overvoltage and reverse connection protection are named.",
     "specs": [
       "1500W pure sine, 3000W surge",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "BRS-3000T is a titanium canister stove rated at 2700W and boils 1 liter of water in about 2 minutes 58 seconds. Flip out the pot support legs and twist it onto a canister.\n\nIt is the one here built for weight, and it nests with a 110g canister inside a 750ml pot. Compared with the Coleman or Gas One stoves, it is smaller and cheaper, with fewer comforts.\n\nA clear pick for thru-hikers and weekend backpackers who care about every ounce. It slips into a mug or pot with room to spare.",
     "specs": [
       "Titanium canister stove",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-amz-20",
     "description": "BIG HORN is a folding butane stove rated 2200W (7500 BTU) with one-touch ignition. The burner combines cast iron, copper and aluminum, and the stove folds into a compact bucket-style body with a carry bag.\n\nIt gives you more cooking range than the BRS because the flame can go from low simmer to high. It is lower cost than the Coleman and Gas One while still giving real stove control.\n\nA great fit for car camping and short trips where simmering matters. The carry bag makes it easy to toss in a camp box.",
     "specs": [
       "2200W (7500 BTU) butane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Gas One GS-3400P runs on propane or butane and operates on a single 8 oz butane cartridge. It has automatic piezo ignition, an adjustable heat dial and a cartridge ejection system.\n\nDual fuel gives it more flexibility than the BIG HORN, which uses butane only. It suits car camping more than backpacking because of its size.\n\nBest for campers who want fuel choice and built-in safety features. Piezo ignition means one less thing to forget at the trailhead.",
     "specs": [
       "Propane or butane dual fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHUHg9-WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0009PUR5E?tag=rvgearlab-amz-20",
     "description": "Coleman Bottletop screws onto a standard propane bottle, offers up to 10,000 total BTUs on its listing, and has an adjustable burner that fits an 8 inch pan. A pressure regulator keeps the flame steady in tough conditions.\n\nIt is the most powerful single burner here and the stove with the largest pan support. Compared with the BRS, it is for basecamp rather than a pack.\n\nA strong fit for family campers who already keep propane bottles. It is simple to use and easy to refuel from a bottle.",
     "specs": [
       "Bottletop propane burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414b6-bUZrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MXD8B3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MXD8B3Y?tag=rvgearlab-amz-20",
     "description": "G4Free is a folding stainless steel wood stove with an opening for adding fuel and air vents for airflow. It folds flat to fit in a pocket.\n\nNo canister to carry makes it the lightest in fuel terms, and twigs and branches become your supply. Compared with the BRS, it cooks slower and needs fire-safe conditions.\n\nA good fit for bushcrafters and anyone who wants a backup stove. It also makes a great emergency backup.",
     "specs": [
       "Folding stainless wood stove",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wLCj3pZTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZN629Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZN629Q4?tag=rvgearlab-amz-20",
     "description": "This aluminum windscreen unfolds to 32.3 by 9.5 inches and has 10 removable plates. It fits around a stove and comes in a drawstring bag.\n\nA windscreen is not a stove, yet it helps any stove boil faster in the wind. It is the cheapest upgrade in the list.\n\nBest for backpackers with a canister stove who often get windy camps. It fits easily in a drawstring bag next to your pot.",
     "specs": [
       "32.3x9.5 in unfolded",

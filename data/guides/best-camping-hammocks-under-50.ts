@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516RoZ+5OcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01E3EHRVS?tag=rvgearlab-amz-20",
     "description": "The Wise Owl is a 9 by 4.5 foot single hammock in durable nylon with triple-stitched seams, listed at up to 400 lb. It includes 9 foot tree straps with a 5-loop adjustment, carabiners and a built-in stuff sack, and it weighs 16 oz.\n\nIt is the only pick here priced above $30, and the money buys better stitching and a full strap system. The Chihee has a net and the spreader bar hammock keeps a flat lay, while the Wise Owl focuses on a light kit.\n\nIt suits solo campers, hikers and travelers who want a reliable single hammock in a small package. It folds smaller than an eggplant.",
     "specs": [
       "9 x 4.5 ft, triple-stitched seams",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DClJEziKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C38ZLK49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C38ZLK49?tag=rvgearlab-amz-20",
     "description": "The Chihee has a pop-up mesh net that opens with a double-way zipper from inside or outside. It has a 660 lb load rating, sewn-in stuff sack and non-stretch polyester end straps, and it packs to about volleyball size.\n\nIt costs about $7 less than the Wise Owl and adds a net that the Wise Owl lacks. The net frame and buckle add bulk and a bit more weight.\n\nIt suits campers in buggy forests who want a complete sleeping hammock. It also suits solo backpackers.",
     "specs": [
       "660 lb rated load",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hBbAeM12L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8N3PK4R?tag=rvgearlab-amz-20",
     "description": "This hammock has a curved spreader bar, breathable mesh fabric and a 550 lb rating. It measures 102 inches loop-to-loop with about 72 inches of lying area and weighs about 490 g.\n\nIt costs about $4 more than the Chihee and gives a flatter lay than the Wise Owl and Chihee, which hang in a banana shape. The 72 inch lying area suits campers up to 5 feet 9 inches.\n\nIt suits shorter campers and anyone who dislikes the bunched feel of a gathered hammock. It works well for lounging.",
     "specs": [
       "Curved spreader bar",

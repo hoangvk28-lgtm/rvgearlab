@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415k871eA5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCK1V2H3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCK1V2H3?tag=rvgearlab-amz-20",
     "description": "The TCEK Portable Camping Chair, sold as the SwivelCore, rotates 180 degrees with an auto-return that brings the seat back to center. It sets up in under 8 seconds, weighs 5 lbs and folds to 4.3 by 4.3 by 14.5 inches. Seat height adjusts from 16.1 inches to a higher setting. It costs $89.99.\n\nAgainst the Feelnais below it, the TCEK adds the adjustable seat height and the auto-return that recenters the seat when you stand up, a feature none of the other four chairs list. The fold is slim, so the chair slides into a bin or the side pocket of a pack without taking much room. The 8 second setup keeps arrivals simple.\n\nThis is the pick for backpackers and active campers who want a swivel chair that folds small and adjusts to fit the user. It suits couples sharing one chair design, anyone who wants a seat that returns to center for stable entry and exit and owners tight on storage space.",
     "specs": [
       "180 degree swivel, auto-return",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iu2fqNb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD76912P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD76912P?tag=rvgearlab-amz-20",
     "description": "The Feelnais Portable Camping Chair uses an umbrella-style structure that opens with no assembly. It has a full 360 degree swivel, folds to 12 by 8.85 by 7.9 inches and weighs 3.5 lbs, and its aluminum alloy frame is described as resistant to oxidation. It costs $79.99.\n\nAt 3.5 lbs, the Feelnais is the lightest chair in the lineup, lighter than the TCEK above it and the Raynesys below it, and it also adds the full 360 degree rotation that the TCEK does not offer. The umbrella design means no poles to thread and no pins to align, which makes setup quick even with cold hands.\n\nThis is the pick for hikers and anyone counting every ounce who wants the lightest swivel seat on the list. It suits bikepackers, overnight backpackers and RV owners who keep a spare chair in a small compartment and want it to take almost no space.",
     "specs": [
       "360 degree swivel",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KBauIvvVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G659MYQ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G659MYQ8?tag=rvgearlab-amz-20",
     "description": "The Raynesys Portable Swivel Camping Chair sets up in about 8 seconds by untying the strap and opening the legs and back support bar. It swivels 360 degrees, weighs 3.8 lbs and folds to 15.16 by 5.51 by 5.51 inches with an ultralight aluminum alloy frame. It costs $79.99.\n\nAgainst the Feelnais above it, the Raynesys matches the 360 degree swivel and the aluminum frame for the same price, with a slimmer 5.5 inch folded width that fits narrow bag pockets. Against the Goplus below it, the aluminum frame cuts weight sharply, which matters on any walk from the car to the campsite.\n\nChoose it when you want a fast pitch for short stops, day trips and tailgates. It suits people who set up and take down chairs several times a weekend, anyone carrying kids and gear in the same trip and owners who like a slim package.",
     "specs": [
       "360 degree swivel",
@@ -120,7 +120,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TJ5UpSJVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MFSF25L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MFSF25L?tag=rvgearlab-amz-20",
     "description": "The Goplus Swivel Camping Chair uses an iron pipe frame with Oxford cloth and a PE coating, and it includes a mesh cup holder and a carrying bag. A pedal lets you lock or fold the frame in one step, and the seat rotates 360 degrees. It costs $59.39.\n\nCompared with the TCEK above it, the Goplus adds a cup holder and a one-step pedal fold at a lower price, and the iron frame gives a sturdier, more planted feel under a seated person. The Oxford cloth wipes clean after a spill, which suits fire rings, picnics and sporting events.\n\nThis is the pick for car campers and tailgaters who do not carry their chair far and want a steady seat with a built-in cup holder. It suits RV patios, lakeside campsites and anyone who prefers a solid chair feel over the lightest possible weight.",
     "specs": [
       "360 degree rotation",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mHIDPsCIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD6MN8Y3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD6MN8Y3?tag=rvgearlab-amz-20",
     "description": "The Wanderroot Swivel Portable Camping Chair has a built-in 360 degree swivel base, a high backrest and a detachable pillow. An iron tube bracket is wrapped in 900D Oxford fabric, and the chair folds to 17 by 7.5 by 6.7 inches into a carry bag. It costs $34.99, the lowest price here.\n\nAgainst the Goplus above it, the Wanderroot adds a high back and a pillow, and it cuts the price by about $24. It is also the only chair in the group that supports the upper back and neck, which makes a real difference over an hour at the fire. The 900D Oxford fabric is built to resist abrasion.\n\nThis is the pick for budget campers and anyone who wants back support from a swivel chair. It suits RV owners who sit for long evenings, older campers who want a high back and families who need several inexpensive chairs for one campsite.",
     "specs": [
       "360 degree swivel base",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HB75ee0PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJXLNWBJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJXLNWBJ?tag=rvgearlab-amz-20",
     "description": "The Timber Ridge 6-person cabin tent is 9 ft by 10 ft with an 81 inch center height and straight vertical walls. Its vestibule measures 8 ft by 6.3 ft, the only porch size given as a number in this group.\n\nNext to the Timber Ridge 4-5 Person Hub Tent it trades the pop-up hub frame for a larger floor and a much bigger covered entry. Against the EVER ADVANCED it adds a fully mesh roof, an E-port and a detachable rainfly.\n\nFamilies of four to six who live outside the sleeping area during the day get the most from it. The porch turns rainy afternoons into usable camp time.",
     "specs": [
       "9 x 10 ft, 81 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DDon+rtoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP7DCD9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP7DCD9F?tag=rvgearlab-amz-20",
     "description": "This Timber Ridge hub tent measures 96 x 121 x 78 inches and sets up in about a minute with two people. Its 150D fabric carries a 2000mm waterproof coating, a fully taped rainfly and sealed seams.\n\nThe fully encased rainfly forms the vestibule, which keeps gear dry when the weather turns. Compared with the larger Timber Ridge 6, it has a smaller floor and a pop-up frame, and it fits a queen air mattress or four sleeping bags.\n\nA couple or small family that wants fast pitching and a sealed storage corner will like it. One skylight and four mesh windows keep the air moving.",
     "specs": [
       "96 x 121 x 78 inch cabin",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KZSPOWfCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX4V95LC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX4V95LC?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED is a 9.75 ft by 9 ft instant cabin with a 77 inch center height, sized for 6 sleeping bags. Its blackout-coated outer fabric blocks about 90 percent of light, and the listing includes a vestibule, rainfly and large mesh windows.\n\nIt is the tent here to pick for sleeping in, since the Timber Ridge 6 gives more porch and the Night Cat 4 gives fewer sleepers. The 60-second instant setup also beats pole-sleeve pitching at the Timber Ridge 6.\n\nIt suits families with early risers or kids who nap, and the same tent is sold in two colour versions. Dark interiors stay cooler in daytime heat.",
     "specs": [
       "9.75 x 9 ft, 77 in peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u9b5H4XLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6DFHLB1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6DFHLB1?tag=rvgearlab-amz-20",
     "description": "The YOLENY is a 4-person instant cabin tent with 150D blackout fabric and an integrated pole system. A front vestibule and an extended canopy add covered room for gear, shoes and shade.\n\nNext to the Night Cat 4 it adds the canopy and sealed corners with a reinforced floor, while the Night Cat adds a stated 3000mm coating. Against the EVER ADVANCED, it carries fewer sleepers and gives more attention to the front awning.\n\nIt suits weekend car campers who want shade at the door as much as a dry bed. First-time campers get a simple pitching routine too.",
     "specs": [
       "4-person instant cabin",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cgf4xfNuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZW3M5D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZW3M5D6?tag=rvgearlab-amz-20",
     "description": "The Night Cat opens to 7.9 x 6.9 x 5.2 ft and fits one king air mattress or up to four sleeping bags. Its 210T blackout fabric has a PU 3000mm coating and the listing names taped seams, a rainfly and a pre-assembled spring pole system.\n\nIt carries the highest waterproof figure in this guide and the lowest price, while the Timber Ridge 6 gives far more floor and porch. Compared with the YOLENY, it adds a stated rating and a one-minute spring-pole pitch.\n\nCouples and small families after a dry, dark bed at the least cost are the target. Two big doors and windows ventilate the tent in summer.",
     "specs": [
       "7.9 x 6.9 x 5.2 ft cabin",

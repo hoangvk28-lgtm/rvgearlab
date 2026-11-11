@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NbGc7xj8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2P696X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2P696X?tag=rvgearlab-amz-20",
     "description": "Saavysil is a pure silicone self-leveling coating that the listing says covers up to 100 square feet per gallon in one coat. It states bonding to EPDM, TPO, fiberglass, aluminum, metal and concrete without primer, and a one hour rain ready time.\n\nAgainst Ziollo Silicone, it states a coverage figure and a fast rain-ready window. Against BEEST 1 Gal, it needs one coat instead of two or three.\n\nIt is the best match for owners who want a one-coat silicone that flows into cracks, vents and seams. It earns its slot for cracks, vents and seams.",
     "specs": [
       "Pure silicone, self-leveling",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WMCQ1ZV5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZFMC1R5?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Sealant is a 100 percent silicone liquid rubber with a self-leveling formula and a reflective white finish. The listing links it to Ziollo cleaner and seam tape, and says it can drop interior temperatures by up to 15 degrees F.\n\nAgainst Saavysil, it is part of a branded system with cleaner and tape. Against BEEST 3.5 Gal, it is silicone rather than liquid rubber wording.\n\nIt suits owners who want a silicone system with matched prep products. It is a natural fit for silicone with prep products.",
     "specs": [
       "100% silicone liquid rubber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i6f9mj3nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2CRRPW6?tag=rvgearlab-amz-20",
     "description": "E-SDS is a 1 gallon MS polymer roof sealant described as having a 10 plus year service life. It adheres to rubber, metal and concrete, covers 40 square feet per gallon, and 2 to 3 coats build a 0.8 to 1 millimeter layer.\n\nAgainst Saavysil, it is a polymer instead of silicone, so it can be recoated more flexibly. Against BEEST 1 Gal, it states a film thickness.\n\nIt fits owners who want a non-silicone sealant and a stated layer thickness. Think of it as the pick for polymer sealant fans.",
     "specs": [
       "MS polymer sealant, 1 gallon",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51R2ib7yddL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C79WF69B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C79WF69B?tag=rvgearlab-amz-20",
     "description": "BEEST 3.5 gallon covers up to 175 square feet in two coats, using solar reflective white liquid rubber. The listing says to apply 1 gallon per 50 square feet over 2 to 3 heavy coats.\n\nAgainst BEEST 1 Gal, it holds 3.5 times the coating. Against Ziollo Silicone, it uses liquid rubber wording and lower coverage.\n\nIt is a fit for a bigger roof where leaks are scattered and a whole-roof recoat makes sense. Buyers focused on whole-roof recoats will find it a sensible match.",
     "specs": [
       "3.5 gallon liquid rubber",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O8vVuGuzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6NJWTFF?tag=rvgearlab-amz-20",
     "description": "BEEST 1 gallon is the small pail of the same white liquid rubber coating, covering about 50 square feet in two coats. It is described as flexible, UV stable and solar reflective.\n\nAgainst BEEST 3.5 Gal, it is the lower-cost entry for a spot repair. Against Saavysil, it asks for more coats and covers less area.\n\nIt suits owners with one leaking spot and a small budget. It earns its slot for single leak spots.",
     "specs": [
       "1 gallon liquid rubber",

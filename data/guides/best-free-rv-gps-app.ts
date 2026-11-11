@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing for the size and weight of your RV or trailer. Its listing mentions map updates of North America, a preloaded directory of RV parks and services, road warnings for steep grades and BirdsEye satellite imagery.\n\nAgainst the budget navigators, it is built around RV profiles rather than a general truck mode. Against the Garmin RV Cam 795, it keeps the same 7 inch screen and routing while leaving out the camera.\n\nBest for owners who want RV-specific routing and an RV park directory in one device. A strong step up from a free phone app on long trips.",
     "specs": [
       "7 inch touchscreen, RV routing",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dvanec4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-amz-20",
     "description": "The Garmin RV Cam 795 combines a 7 inch RV navigator with a built-in dash cam, plus forward collision and lane departure warnings. It also carries the preloaded RV park directory and custom RV routing found on the Garmin RV 795.\n\nAgainst the Garmin RV 795, it adds a recording camera and driver alerts in one mount. Against the generic navigators, it adds RV park content and the Tripadvisor-backed directory.\n\nBest for owners who want a single device for routing and a record of the road. Camera use is regulated in some places, so know your local rules.",
     "specs": [
       "7 inch RV navigator, dash cam",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zdSfTSkiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWHR84TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWHR84TM?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY is a 7 inch HD touchscreen navigator preloaded with 2026 maps of the USA, Canada and Mexico and free lifetime map updates. Its listing describes seven vehicle modes, including truck, and offline navigation that relies on the satellite signal instead of cell data.\n\nAgainst the Garmin units, it costs a fraction and keeps updates free. Against the LMCOWRE units, it adds a wider list of vehicle modes.\n\nBest for budget travelers who want a cell-free navigator for a modest rig. A simple way to avoid app data use and a subscription.",
     "specs": [
       "7 inch, 2026 North America maps",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hA5aDJPML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-amz-20",
     "description": "The LMCOWRE 7 inch navigator has built-in 2026 North America maps and lifetime free map updates with no additional fees. It lets you customize routes by vehicle type with height, width and weight limits, and it includes a windshield mount and an FM transmitter for voice prompts.\n\nAgainst the MRSXWPY, it names height, width and weight inputs and adds FM transmission to the car speakers. Against the LMCOWRE Truck Mode unit, it focuses on size inputs for large vehicles.\n\nBest for owners who want size-based routing on a low-cost 7 inch screen. A good fit for mid-size motorhomes.",
     "specs": [
       "7 inch, 2026 North America maps",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DSvebGAvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HG1PJQDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HG1PJQDS?tag=rvgearlab-amz-20",
     "description": "This LMCOWRE 7 inch navigator offers Car, Truck, Bus, RV, Bicycle and Pedestrian modes. In Truck/RV mode, the listing says it avoids low bridges and weight-restricted roads, and it shows speed and remaining distance on a high-definition screen.\n\nAgainst the other LMCOWRE unit, it names an RV mode directly and lists lifetime free map updates. Against the URFRU, it adds the RV profile.\n\nBest for buyers who want a clearly labeled RV mode in an inexpensive navigator. A simple pick for towable owners.",
     "specs": [
       "7 inch, RV and Truck modes",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410i0ZyKBeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9NQWLWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9NQWLWF?tag=rvgearlab-amz-20",
     "description": "The URFRU 7 inch navigator connects directly to GPS satellites with no mobile network and ships with preloaded offline maps of the USA, Canada and Mexico. It lists free lifetime map updates and a sunshade hood.\n\nAgainst the MRSXWPY and LMCOWRE units, it adds the hood to cut glare. Against the Garmin units, it keeps the price low and the interface basic.\n\nBest for travelers who want a simple offline navigator with a glare hood. A neat backup to a phone app in dead zones.",
     "specs": [
       "7 inch offline GPS navigator",

@@ -24,7 +24,7 @@ export const products = withAmazonUrls([
     badge: "Best large inverter backup",
     name: "Westinghouse iGen12000TFc",
     amazonQuery: "Westinghouse iGen12000TFc",
-    amazonUrl: "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51XUzND8ZCL._SL500_.jpg",
     specs: ["Continuous output: 9,000W","Surge output: 12,000W","Noise claim: 64 dBA","Buyer check: Verify current model compatibility"],
     specList: [
@@ -44,7 +44,7 @@ export const products = withAmazonUrls([
     badge: "Best balanced tri-fuel inverter",
     name: "Westinghouse iGen8200TFc",
     amazonQuery: "Westinghouse iGen8200TFc",
-    amazonUrl: "https://www.amazon.com/dp/B0FJZYLD4V?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FJZYLD4V?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/51k+u1pCt9L._SL500_.jpg",
     specs: ["Continuous output: 6,600W","Surge output: 8,200W","Runtime claim: Up to 17 hours","Noise claim: 60 dBA"],
     specList: [
@@ -64,7 +64,7 @@ export const products = withAmazonUrls([
     badge: "Best dual-fuel RV inverter",
     name: "WEN DF680iX",
     amazonQuery: "WEN DF680iX",
-    amazonUrl: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/413AI-l4XIL._SL500_.jpg",
     specs: ["Continuous output: 5,100W","Surge output: 6,800W","Fuel format: Dual fuel","Buyer check: Verify current model compatibility"],
     specList: [
@@ -84,7 +84,7 @@ export const products = withAmazonUrls([
     badge: "Best mid-size quiet value",
     name: "WEN DF480iX",
     amazonQuery: "WEN DF480iX",
-    amazonUrl: "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0D3WW1CSQ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Ja7YiNicL._SL500_.jpg",
     specs: ["Continuous output: 4,000W","Surge output: 4,800W","Fuel format: Dual fuel","Buyer check: Verify current model compatibility"],
     specList: [
@@ -104,7 +104,7 @@ export const products = withAmazonUrls([
     badge: "Best lightweight inverter",
     name: "WEN 56360i",
     amazonQuery: "WEN 56360i",
-    amazonUrl: "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1Q4K2G7?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41v48x8PTeL._SL500_.jpg",
     specs: ["Continuous output: 2,900W","Surge output: 3,600W","Listed weight: 46 lb","Buyer check: Verify current model compatibility"],
     specList: [
@@ -187,6 +187,6 @@ export const relatedGuides = [
 
 export const sources = [
   { title: "CPSC portable generator safety", href: "https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center/Portable-Generators" },
-  { title: "Westinghouse iGen12000TFc listed specifications", href: "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-20" },
-  { title: "WEN DF680iX listed specifications", href: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-20" }
+  { title: "Westinghouse iGen12000TFc listed specifications", href: "https://www.amazon.com/dp/B0F9LHST5Z?tag=rvgearlab-amz-20" },
+  { title: "WEN DF680iX listed specifications", href: "https://www.amazon.com/dp/B0DVF1RPCJ?tag=rvgearlab-amz-20" }
 ];

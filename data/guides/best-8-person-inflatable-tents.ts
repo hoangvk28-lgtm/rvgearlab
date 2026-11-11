@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413grawh-8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT7DD3JG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT7DD3JG?tag=rvgearlab-amz-20",
     "description": "This 13 by 10 ft inflatable is listed for 8 to 10 people with a usable area of 157.48 by 118.11 by 82.68 inches. It has a silver-coated rainfly, an anti-moisture floor pad, two doors, six windows and a stove jack.\n\nIt has the only 8-10 rating and the largest floor of the five. Against the Ytaoeo it adds a rainfly and a moisture pad, with a higher price.\n\nIt suits groups that want a big floor and extra rain protection. It inflates in about 10 minutes.",
     "specs": [
       "8-10 person, 13 x 10 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4165af-yYiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLYKJ65Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLYKJ65Y?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo has a 13 by 9 ft footprint and a 6.5 ft center, with PU3000mm Oxford and UPF50+. A stove jack and an AC port, dual doors and four mesh windows are included, and a 5 minute pump setup is listed.\n\nIt has the AC port and stove jack in one tent. Against the Roveity it has a bigger floor and a higher millimeter rating.\n\nIt suits groups who want both heat and cooling ports in one tent. Dual doors and four mesh windows handle the airflow.",
     "specs": [
       "6-8 person, 13 x 9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VhOYLzflL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXX6756L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXX6756L?tag=rvgearlab-amz-20",
     "description": "The Roveity measures 10.5 by 8.2 ft with a 7.02 ft peak and uses 300D Oxford with PU2000mm plus an included 420D floor mat. A TPU skylight, a stove jack, a power cord port and an AC port are part of the kit.\n\nIt has a 7.02 ft peak and an included floor mat. Against the BravArrk it adds the floor mat and an AC port, at a higher price.\n\nIt suits families who want a stove jack, a cord port and an AC port in one tent. Follow the stove maker's clearance guidance.",
     "specs": [
       "6-8 person, 10.5 x 8.2 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51btv7mi9nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1N1CV7X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1N1CV7X?tag=rvgearlab-amz-20",
     "description": "The BravArrk offers 86 sq ft with an 85 inch peak, built on air beams that set up in 5 minutes. It has a rooftop skylight, a stove jack and Oxford fabric at PU3000mm with UPF50+.\n\nIt costs less than the Roveity and has a documented waterproof rating. Against the Ytaoeo it has a smaller floor and no AC port.\n\nIt suits families of six who want a hot tent at a modest price. An 85 inch peak gives walk-in height.",
     "specs": [
       "6-8 person, 86 sq ft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ge64FcCaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F4X7W7JY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F4X7W7JY?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer offers 129 sq ft for 6 to 8 people. It uses 210D oxford with a 300D bottom rated at 2000mm, a hand pump and an inflatable frame that assembles in 5 minutes, with two doors and four windows.\n\nIt is the cheapest of the five and has a floor close to the 13 ft tents. Against the Ytaoeo it costs much less and omits the stove ports.\n\nIt suits groups on a budget. Top rings hang lights, and the listing cautions against long heavy rain.",
     "specs": [
       "6-8 person, 129 sq ft",

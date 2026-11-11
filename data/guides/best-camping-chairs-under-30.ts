@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41siafbQx5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69P9QGM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69P9QGM?tag=rvgearlab-amz-20",
     "description": "The HULKFIT is a 22.4 by 21.7 by 38.6 inch chair with a breathable mesh backrest, a rust-proof powder-coated steel frame and 600D Oxford fabric rated for 300 lb. It has two built-in cup holders, a large side pocket and a carry bag, and weighs 7.5 lb.\n\nAt about $20 it undercuts the SAILARY and gives you a second cup holder and a mesh back that vents heat. Next to the Coleman it adds a higher capacity rating and a full side pocket, which suits a person who carries a phone and a book.\n\nIt suits campers who want a roomy chair for the fire ring, tailgate or soccer sideline. Its weight makes it a vehicle-to-campsite chair, not a trail chair.",
     "specs": [
       "300 lb rating, mesh back",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JDHqT+YYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHQK7V8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHQK7V8F?tag=rvgearlab-amz-20",
     "description": "The SAILARY weighs 4.6 lb and supports 300 lb, with a high back, 600D PE-coated Oxford fabric and a built-in cup holder. A side bag holds a phone and keys, and the chair opens ready to use in seconds with a carry bag included.\n\nIt costs about $25, the highest price here, and it is about three pounds lighter than the HULKFIT. The taller back supports your shoulders in a way the Coleman quad chair cannot.\n\nIt suits campers who sit for hours and want shoulder support without a heavy chair. The fabric wipes clean after a wet evening.",
     "specs": [
       "4.6 lb, 300 lb capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FyXBmDxRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BH465BFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BH465BFQ?tag=rvgearlab-amz-20",
     "description": "The Weather Station is a one-position quad chair with a powder-coated steel tube frame, a polyester cover and a mesh cup holder sewn into the armrest. It folds into a carry bag and comes with a lifetime warranty from the maker.\n\nAt about $20 it matches the HULKFIT on price and trades the second cup holder for a longer warranty. It is simpler than the SAILARY, with a standard back height and no pocket.\n\nIt suits tailgaters and campers who want a no-frills chair backed by the maker. The armrest cup holder keeps a drink within reach.",
     "specs": [
       "Steel tube frame, polyester",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Aw7kIn3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BPWDMOS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BPWDMOS?tag=rvgearlab-amz-20",
     "description": "The Coleman Broadband Mesh Quad has a cooling mesh back, a mesh cup holder, a strong steel frame and adjustable arm heights, with a 21.3 inch seat and a carry bag. It costs about $15, the lowest in this guide.\n\nIt undercuts every other pick by $5 or more and still offers arm adjustment, which the HULKFIT and Weather Station lack. The seat is a little narrower than the HULKFIT frame, and the back is lower than the SAILARY.\n\nIt suits first-time campers and anyone stocking a few extra chairs for guests. The mesh back keeps summer sweat down.",
     "specs": [
       "Cooling mesh back",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LOjwMs4hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2ZR886C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2ZR886C?tag=rvgearlab-amz-20",
     "description": "The Wind Tour is a folding chair built from Oxford fabric on steel pipes, with a matching carry bag that has a shoulder strap. It sets up and folds without tools and works for hiking, beach, fishing and picnics.\n\nAt about $21 it sits between the Weather Station and the SAILARY, and the shoulder strap makes it easier to carry a long way than the HULKFIT. It has no cup holder, which the other four have.\n\nIt suits casual campers who carry the chair from a parking lot to a nearby site. It is also a good spare for picnics.",
     "specs": [
       "Oxford fabric on steel pipes",

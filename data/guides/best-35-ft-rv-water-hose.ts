@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jgXTPUr8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C2HGGCSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C2HGGCSX?tag=rvgearlab-amz-20",
     "description": "The CircleRiver 35FT is a 5/8 inch drinking and fresh water hose that is NSF 372 tested lead-free. It uses 3/4 inch aluminum fittings with a sealing rubber ring and a 3-layer hybrid polymer.\n\nIt is the only 35 ft pick that lists NSF 372 testing, which the two RVMATE hoses do not. It is also priced below the RVMATE hoses.\n\nIt suits owners who want tested drinking-water wording at 35 feet. The coiling is easy thanks to the 3-layer build.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CXGXBFRcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC7SL6DG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC7SL6DG?tag=rvgearlab-amz-20",
     "description": "The RVMATE 35FT lists 3/4 inch GHT fittings, 3 layers of hybrid polymer and CA65 compliance. It is lead and phthalate free, with compression technology and a sealing ring.\n\nIt costs a little more than the other RVMATE and names its thread type directly. The CircleRiver adds NSF 372 testing at a lower price.\n\nIt suits owners who want explicit GHT labeling. The UV-resistant material is built for exposure.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51O6saB47jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C281QD71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C281QD71?tag=rvgearlab-amz-20",
     "description": "The RVMATE 35FT lists 3/4 inch male and female fittings, CA65 compliance and lead and phthalate free materials. It has the same 3-layer hybrid polymer as its sibling.\n\nIt is the lowest priced of the drinking-labeled 35 ft hoses. It sits below the CircleRiver.\n\nIt suits owners who want drinking-water wording on a budget. The male and female ends daisy-chain.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VoAse9iWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003E1O9ZE?tag=rvgearlab-amz-20",
     "description": "The Camco TastePURE 50-Foot has a 5/8 inch inner diameter and carries NSF/ANSI 61 and CSA lead-free certification. Diamond-hatch kink resistance and UV-stabilized PVC come with it.\n\nIt adds 15 feet over the 35 ft picks and is also the lowest priced hose in this guide. It is built in the USA.\n\nAnyone whose spigot sits farther than 35 feet away gets extra reach. The certification wording is the clearest in the guide.",
     "specs": [
       "5/8 inch, 50 ft",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mSOdma7WL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4MD5XTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4MD5XTK?tag=rvgearlab-amz-20",
     "description": "Wiseflow builds the 35FT as a heavy duty 5/8 inch PVC reinforced hose free of lead, BPA and phthalates. Aluminum fittings with strain relief springs handle temperatures between -4°F and 176°F.\n\nIt is a garden hose by label, so it fits rinsing and washing jobs well. It costs less than the RVMATE hoses.\n\nUV stabilization is listed. Owners who want a tough hose for outdoor washing tasks get the best use of it.",
     "specs": [
       "5/8 inch, 35 ft",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516TGY9XO6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDJX4CF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDJX4CF7?tag=rvgearlab-amz-20",
     "description": "The rVandtt is a 35 ft, 5/8 inch grey and black sanitation water hose that comes with a storage bag. It lists a no memory, anti-kink design and a temperature range of -20°C to 80°C.\n\nIt is the only pick labeled for sanitation use, which keeps tank rinsing separate from drinking hoses. It includes the bag, which others lack.\n\nIt suits owners who want a dedicated tank rinse hose. Keep it away from the fresh water line.",
     "specs": [
       "5/8 inch, 35 ft sanitation hose",

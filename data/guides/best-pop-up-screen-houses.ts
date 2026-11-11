@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mOFLckE5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKFD3VFQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKFD3VFQ?tag=rvgearlab-amz-20",
     "description": "The EVER ADVANCED Screen House is 11.5 by 9.8 ft and the listing says it holds up to 6 people and a picnic table with chairs. It pops up in about a minute with no assembly and packs to 54 by 7.8 inches.\n\nIt has the largest footprint of the 10 by 10 ft class and a slim pack that fits most car trunks. Solid bug-proof mesh keeps airflow moving, and fiberglass poles spring into shape.\n\nIt suits campers who want a table-sized bug room with a one-person pitch. Its 54 inch pack slides into most trunks without folding seats.",
     "specs": [
       "11.5 x 9.8 ft footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61qaL7aHtxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9LCR8V1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9LCR8V1?tag=rvgearlab-amz-20",
     "description": "The East Oak Screen Tent is a 10 by 10 ft pop-up with four-sided D33 fine mesh, a reinforced steel main structure and UPF 50+ protection. A heavy-duty fiberglass top prevents water from accumulating and adds space.\n\nNext to the East Oak Canopy it costs less and skips the sunshade set. It suits 4 to 6 people per the listing.\n\nIt suits families who want a sturdy-framed 10x10 for patio meals. The 4 to 6 person rating leaves space for a table.",
     "specs": [
       "10 x 10 ft, 4 to 6 people",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UroHwy5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21T7XGL?tag=rvgearlab-amz-20",
     "description": "The East Oak 10x10 Pop Up Canopy has mesh walls, six sunshade panels and B3 mosquito netting. It sets up in under a minute and weighs 27 lbs, a figure the listing compares with 50-pound steel tents.\n\nIts sunshades convert the mesh room to a shaded one, which the East Oak Screen Tent lacks. It costs more than the East Oak Screen Tent for that flexibility.\n\nIt suits campers who want to switch between open mesh and shaded privacy. Its 27 pound weight is lighter than the steel-framed rooms it is compared with.",
     "specs": [
       "10 x 10 ft, 27 lbs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/614Kq+PhE3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV485YHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV485YHD?tag=rvgearlab-amz-20",
     "description": "The WildFinder 10x10 has B3 fine mesh on all sides and a 190T polyester roof with a PU1500 coating. A flexible fiberglass frame forms a gently sloped top to shed water, and one person can set it up.\n\nIt is the one 10x10 here that names a roof waterproof number, and it costs less than the East Oak models. The EVER ADVANCED Screen House is larger for the same bug protection.\n\nIt suits campers who want a rain-rated roof at a modest price. The one-person setup keeps solo trips simple.",
     "specs": [
       "10 x 10 ft, PU1500 roof",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H8vIPKWaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXTXVJ3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXTXVJ3G?tag=rvgearlab-amz-20",
     "description": "The Himalaya 10x10 hexagonal screen house has six-sided B3 fine mesh, a steel and fiberglass frame, heavy-duty stakes and six guy lines. The listing recommends it for winds of 24 mph or less.\n\nIt is the cheapest here and the only one that gives a wind figure with its guy-line kit. Compared with the WildFinder Screen House it is a six-sided shape with a longer anchoring list.\n\nIt suits campers who plan to anchor their screen house properly on open ground. The hexagon layout also gives six sides of fine mesh.",
     "specs": [
       "10 x 10 ft hexagon",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ie3WETIdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W3DKGB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W3DKGB?tag=rvgearlab-amz-20",
     "description": "The VEVOR 6x6 Screen House has a steel and fiberglass frame with a curved roof and 360 degree mesh. It includes a carry bag and ground stakes and uses detachable support poles for tool-free setup.\n\nIt is the smallest of the six at 6 by 6 ft, and it costs just above the Himalaya Hex Screen House. The curved roof is designed to shed water.\n\nIt suits solo campers and small groups who want a bug net over a chair. Ground stakes come with the carry bag.",
     "specs": [
       "6 x 6 ft footprint",

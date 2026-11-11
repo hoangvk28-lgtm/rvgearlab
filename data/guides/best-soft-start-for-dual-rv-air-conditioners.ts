@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tpKjscFUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098NJ6W2K?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV pair is two units that the listing says start two air conditioners on 30-amp service, both waterproof and 40 percent smaller than before. The SoftStartRV pair is two units that the listing says start two air conditioners on 30-amp service.\n\nIt costs about 30 dollars less than buying two CTBC units. The pair is matched, so both ACs get the same behaviour.\n\nBoth modules are 40 percent smaller for low-profile RV A/C units and fully waterproof. It suits owners with two rooftop ACs who want a matched set.",
     "specs": [
       "Two-unit pair",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QqDCVi0uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07YBMCTBC?tag=rvgearlab-amz-20",
     "description": "A single SoftStartRV unit is 40 percent smaller for low-profile RV A/C units, and its listing says it starts two A/Cs on 30-amp. Waterproofing is rated at 100 percent, which suits roof or compartment mounting.\n\nIt costs about half the pair, so you can start with one and add another later. It is 100 percent waterproof.\n\nIts listing says it starts two A/Cs on 30-amp, one on a small generator or 15-amp, and runs a 15,000 BTU A/C on a 2200W generator. It suits owners who want to buy one now and one later.",
     "specs": [
       "40% smaller, fits low-profile",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416gBH0Ss6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZXSJ1Q4?tag=rvgearlab-amz-20",
     "description": "Dual-AC use is what this Briidea is listed for, with two soft starters sharing a 30A hookup. Each one trims starting current by 65 to 70 percent and carries a rating to start a 15,000 BTU air conditioner from a 2200W generator.\n\nTwo Briidea kits cost about 160 dollars. That is far less than the SoftStartRV pair.\n\nOverload and short circuit protection come standard, and a single unit also serves a 20A household hookup. Budget buyers who do not mind buying two kits get the most value.",
     "specs": [
       "Cuts start current 65 to 70%",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WkcDXqXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKQN4XRJ?tag=rvgearlab-amz-20",
     "description": "Bluetooth app diagnostics make the Micro-Air EasyStart Flex 398 simple to monitor on each air conditioner, and inrush current drops by up to 75 percent. Its 4-wire hookup with color-coded wiring keeps each install straightforward.\n\nEach unit handles one AC across 2 to 6 ton systems. A dual rig uses two.\n\nSingle-stage, two-stage and heat pump systems are all supported. Owners who want diagnostics on both ACs get install videos too.",
     "specs": [
       "Up to 75% inrush reduction",

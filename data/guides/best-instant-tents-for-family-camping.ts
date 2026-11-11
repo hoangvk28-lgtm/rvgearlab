@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KbbvhpIvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GZKMPC1?tag=rvgearlab-amz-20",
     "description": "The CORE 12-Person LED measures 18 by 10 feet with an 80 inch center and fits four queen air beds. Ceiling-integrated LEDs with three levels run from a wall switch, and pre-attached poles lock in about two minutes.\n\nAgainst the plain CORE 12 it adds the LED lighting at a higher price, and compared with the HINSTANT it adds two room dividers and a 1200mm shell. Fully taped fly, sealed seams and zipped windows protect against rain.\n\nChoose it for a large family that wants built-in lighting and three rooms. The listing says six people with gear or up to twelve without.",
     "specs": [
       "12 person, 18 x 10 ft, 80 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K7jXz6G1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DRQH7RQ?tag=rvgearlab-amz-20",
     "description": "The CORE 12-Person is an 18 by 10 ft instant cabin with an 80 inch center that fits four queen air beds. Its 1200mm H2O Block shell comes with a fully taped fly, two room dividers and storage pockets, and it pitches in about 2 minutes.\n\nIt drops the LED lights of the top pick and costs noticeably less, with the same floor and weather shell. Against the HINSTANT it has a larger floor and a rated seam package.\n\nIt suits large families who want three rooms and a proven shell without lights. The listing says six with gear and twelve without.",
     "specs": [
       "12 person, 18 x 10 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wJ9H8s-lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5WCXSCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5WCXSCQ?tag=rvgearlab-amz-20",
     "description": "The HINSTANT 8-person measures 13 ft by 9 ft with an 85 inch center and fits two queen beds. It sets up in 60 seconds with pre-attached poles, and it has 190T PU2000mm polyester, a taped rainfly, two doors, five large mesh windows and two side vents.\n\nIt is priced between the CORE models and the small instants, and it has the tallest center of the five at 85 inches. Against the CORE 12 it has a smaller floor and no room dividers.\n\nIt suits families of five or six who want a quick pitch and a stand-up room. Waterproof zippers help keep the doors dry.",
     "specs": [
       "4/6/8/10 size family, 8 shown",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KJ-w5HCEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTTN8PFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTTN8PFP?tag=rvgearlab-amz-20",
     "description": "The HINSTANT 6-person is the same family at 10 ft by 9 ft with a 73 inch center. It sets up in 60 seconds, has 190T PU2000mm polyester and a rainfly with taped seams, and four large mesh windows.\n\nIt costs less than the 8-person and gives up three feet of floor length and 12 inches of center. Compared with the ADSMART it adds a rated fabric and taped fly seams.\n\nIt suits families of four who want a one-minute pitch. Waterproof zippers and B3 mesh complete the design.",
     "specs": [
       "6 person, 10 x 9 ft, 73 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HbmFQTjSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG9FBB?tag=rvgearlab-amz-20",
     "description": "The ADSMART is a 6-person instant tent at 10 ft by 9 ft by 66 inches. It folds to 8 by 8 by 42 inches, weighs 16 pounds, sets up in 60 seconds and has four steel leg poles and three large mesh windows.\n\nIt is the cheapest of the five and the lightest listed. Against the HINSTANT 6 it lists no waterproof rating, and its 66 inch center is lower.\n\nIt suits families on a budget who want a fast pitch. An expandable storage bag helps with repacking.",
     "specs": [
       "6 person, 10 x 9 x 66 in",

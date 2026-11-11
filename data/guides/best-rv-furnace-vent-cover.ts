@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ED2uVOdtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSBZHC67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSBZHC67?tag=rvgearlab-amz-20",
     "description": "The PRO-RVER RV Furnace Vent Screen is a two-pack of stainless steel mesh screens with heat-resistant silicone trim and a patent-pending C-hook lock that anchors to the interior structural bar of the vent. It includes two screens, two C-hook anchors, two bolts with washers and an installation tool, and it fits most Duo-Therm and Suburban vents. It costs $17.99.\n\nAgainst the spring-hook packs below it, the PRO-RVER uses the C-hook to anchor to the vent bar instead of relying on spring tension, so the screen stays seated through highway vibration. The silicone gasket seals out moisture, and the two-pack covers a second vent on the same coach. The bolts and washers make the grip firm.\n\nThis is the pick for owners who want a secure fit that survives bumpy roads and years of heat cycles. It suits full-timers, frequent travelers and anyone who has lost a spring-hook screen on the road and does not want to buy another one.",
     "specs": [
       "Stainless mesh, silicone trim",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gtb04bLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083JTKHR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083JTKHR4?tag=rvgearlab-amz-20",
     "description": "The RVGUARD RV Flying Insect Screen is a two-pack of 2.8 by 1.3 inch stainless steel screens with silicone rubber edging, spring hooks and an installation tool. It fits most Duo-Therm and Suburban furnace vents. It costs $7.96, which makes it one of the lowest-priced two-packs in the lineup.\n\nAgainst the PRO-RVER above it, the RVGUARD costs about $10 less and uses spring hooks instead of a C-hook lock, which keeps installation quick with no bolts. The silicone edging reduces noise and protects the paint from scratches. Against the TONDA round below it, the RVGUARD uses the same spring-hook approach for nearly the same price.\n\nThis is the pick for owners who want a proven, low-cost pack that covers two round vents and gets the job done in minutes. It suits occasional campers, owners with a storage-lot rig and anyone who prefers a simple tool-assisted push-in design.",
     "specs": [
       "2.8 by 1.3 inch round",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hZCx5beJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CM31D8HN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CM31D8HN?tag=rvgearlab-amz-20",
     "description": "The TONDA RV Furnace Vent Screen in the round version is a two-pack of stainless steel mesh screens measuring 2.8 inches across and 1.3 inches deep with 0.12 inch openings. Each pack includes spring hooks, silicone strips and an installation tool. It costs $7.99.\n\nAgainst the RVGUARD above it, the TONDA matches the price and design and adds a stated mesh opening size of 0.12 inch, so you can compare the openings against the insects you are trying to stop. Against the TONDA square below it, the round version covers circular vent openings, which are the standard shape on many furnaces. Stainless steel resists rust through wet seasons.\n\nThis is the pick for owners with round vents who want the same coverage as the RVGUARD with a stated mesh size. It suits budget-minded campers, owners with two round vents and anyone who likes to see the opening dimension spelled out.",
     "specs": [
       "2.8 inch round, two-pack",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51NRkseDHPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYDTYYYV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYDTYYYV?tag=rvgearlab-amz-20",
     "description": "The TONDA RV Furnace Vent Screen in the square version is a single stainless steel screen measuring 4.5 inches per side and 1.3 inches deep, with 0.12 inch mesh openings. It is made to fit many Duo-Therm and Suburban vents with square openings, and it includes spring hooks and a silicone strip. It costs $7.99.\n\nAgainst the round TONDA above it, the square screen is the only pick here that covers square exhaust openings, which a round screen cannot seal. The fine mesh blocks insects, and the spring hooks make installation fast. Compared with the Caravista below it, the TONDA square covers a smaller opening at a lower price.\n\nThis is the pick for owners whose furnace vent is square and who want a clean, low-cost cover. It suits owners of older Duo-Therm or Suburban coaches, anyone who has found that round screens do not fit and shoppers who need only one screen.",
     "specs": [
       "4.5 inch square",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51i4dt944SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFTB7M3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFTB7M3Q?tag=rvgearlab-amz-20",
     "description": "The Caravista RV Furnace Vent Screen is a heavy-duty stainless steel screen listed at 7.5 by 4.1 by 1.3 inches. It comes with spring hooks, an installation tool, silicone strips and a high temperature warning sticker. It fits most Suburban furnace vents and also covers water heater and battery vents. It costs $13.99.\n\nAgainst the TONDA square above it, the Caravista covers a wider rectangular opening and adds a warning sticker for hot surfaces. Compared with the two-packs at the top of the list, it is a single screen with a larger area and the flexibility to suit other vents on the coach. The heavy-duty stainless steel resists dents.\n\nIt suits owners with a wide rectangular furnace vent, or those who want one screen design that also fits the water heater and battery vents. It suits owners of Suburban-equipped coaches and anyone who values a heavy-duty build.",
     "specs": [
       "7.5 by 4.1 inch rectangular",

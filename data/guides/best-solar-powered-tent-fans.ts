@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UYHtdssgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWVNX4YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWVNX4YQ?tag=rvgearlab-amz-20",
     "description": "The Lumtide is a 20-inch ceiling fan with a 20000mAh battery and a 30W solar panel, four speeds and a dimmable light from 3000K to 6000K. It has stepless dimming from 10 to 100 percent and a 2.4G remote with 360 degree signal.\n\nIts 30W panel is the strongest solar input of the four, where the Drchop and JINLICTE panels are 7W class. A Type-C charging port backs up the panel, and the blades detach for travel.\n\nIt suits a basecamp tent or canopy where the panel can sit in open sun all day. The listing says to use it only under covered or sheltered areas, so it is a fair-weather fan.",
     "specs": [
       "20000mAh, 30W solar panel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xoO1T98ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSCYPJKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSCYPJKS?tag=rvgearlab-amz-20",
     "description": "The Drchop 60H is an 8-inch solar fan and lantern with a runtime range of 15 to 60 hours and a separate solar panel. The split design keeps the fan out of the sun while the panel charges, and the light has three brightness levels.\n\nNext to the Drchop 40H it lists a longer maximum runtime, and compared with the Lumtide it is far more portable. The JINLICTE uses the same split idea with a shorter listed range.\n\nIt suits a camper who leaves the panel on a car roof or a sunny rock and wants a cool, shaded fan in the tent. The 60-hour figure is the low-speed best case.",
     "specs": [
       "15 to 60 hour runtime",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dATM8516L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS9LZ49D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS9LZ49D?tag=rvgearlab-amz-20",
     "description": "The Drchop 40H is the same 8-inch solar fan idea with a 10800mAh battery and a 7W solar panel, with a listed runtime up to 40 hours. It is split-type, so the panel can sit separately from the fan and its lantern.\n\nIt gives up some of the 60H's runtime in exchange for a lower price, and it stays a step above the JINLICTE in battery size. The 7W panel is the same class as the JINLICTE panel.\n\nIt suits a camper who wants a solar fan for weekend trips and does not need three nights of runtime. It is a simpler buy than the Lumtide.",
     "specs": [
       "10800mAh, up to 40 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ctejPn2RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB17T3R1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB17T3R1?tag=rvgearlab-amz-20",
     "description": "The JINLICTE is a camping fan with a 10400mAh battery, a 7W monocrystalline solar panel and a lantern with three brightness settings. It lists 8 to 36 hours of runtime, a brushless motor aimed at low noise and a 1 meter cable between panel and fan.\n\nIt costs the least of the four and is the only one that names monocrystalline cells. Its battery is a little smaller than the Drchop 40H, and its runtime range is the shortest listed.\n\nIt suits a first-time solar-fan buyer who wants a quiet fan and a lantern that can charge in the sun. The 1 meter cable lets the panel hang outside the tent.",
     "specs": [
       "10400mAh, 8 to 36 hours",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411kEmg5FIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MLF93FW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MLF93FW?tag=rvgearlab-amz-20",
     "description": "This 14x14 fan has a four-color LED (yellow, rose pink, blue and white), a brushless motor and a rain-sensing cover. It offers four speeds at about 3, 10, 20 and 40 W, reversible airflow, and remote or manual control.\n\nCompared with the OUTPRIZE fans below, it adds color options and a lower 3 W speed, and noise is stated at 10 to 45 dB across four levels. It suits campers who want a night light in warm white or a dim color.",
     "specs": [
       "4-color LED",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4102zTu+aKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPW6PP9N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPW6PP9N?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE remote model fits a 14x14 opening and fits roofs 1.9 to 7 inches thick. It has 10 speeds from 400 to 1300 CFM in both intake and exhaust, a maximum 45 dB, and 20 W draw.\n\nAgainst the manual OUTPRIZE below, the remote and ten speeds let you fine-tune from bed, and the 2-year warranty applies to both. It suits tall-roof rigs and owners who like exact speed control.",
     "specs": [
       "10 speeds, 400 to 1300 CFM",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mhKpl4u4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR3TLTXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR3TLTXD?tag=rvgearlab-amz-20",
     "description": "The Pafessa 14-inch fan has stepless speed control up to 1000 CFM in both directions, panel and remote control, and a temperature display. It tight-fits a 14x14 opening and suits roofs 0.98 to 3.93 inches thick.\n\nIt gives smoother speed adjustment than the stepped OUTPRIZE speeds and adds a temperature readout. It suits owners who like dialing in an exact breeze.",
     "specs": [
       "Stepless speed, 1000 CFM",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H-kSkpKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM8K1HH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM8K1HH5?tag=rvgearlab-amz-20",
     "description": "The OUTPRIZE manual fan offers 3 speeds from 700 to 1300 CFM in both intake and exhaust, 45 dB maximum and 18 W draw. It fits 14x14 openings and roofs 1.9 to 7 inches thick, with a 2-year warranty.\n\nIt matches the remote OUTPRIZE on airflow and warranty at a lower price, trading ten speeds for three. It suits owners who can reach the ceiling and want fewer parts to lose.",
     "specs": [
       "3 speeds, 700 to 1300 CFM",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eE8GwIQBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T53F2WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T53F2WC?tag=rvgearlab-amz-20",
     "description": "The Leisure Coachworks fan is an 11x11 inch unit with an LED light, a smoked lid and a manual riser. It offers 1 speed in and 1 speed out at 283 CFM, a 10-blade fan, and fits roofs 2 to 4 1/2 inches thick.\n\nIt is the only pick built for an 11x11 opening, where every other fan here needs 14x14. It suits smaller trailers and vans with an existing 11-inch roof vent.",
     "specs": [
       "11 x 11 inch opening",

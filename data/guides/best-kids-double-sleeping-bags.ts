@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+nnIXssCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK75WMB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK75WMB3?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a polyester double that the listing says is larger than queen size. It can split into two layers, each usable as a quilt or blanket, and S-shaped stitching helps hold the fill in place.\n\nOne listed size weighs 6.2 lb and compresses to about 12.7 x 14.1 x 6.5 inches, while a lighter listing shows 5.3 lb. Compared with the OBTANIM Double, it lists clearer weight and packed-size numbers and offers the quilt-or-bag flexibility that suits warm nights.\n\nA practical choice for siblings or a parent and child who want one roomy bed at the campsite. The separate layers also work for sleepovers at home.",
     "specs": [
       "Larger than queen size",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K0nMI7pTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGN6Q973?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGN6Q973?tag=rvgearlab-amz-20",
     "description": "OBTANIM makes this double from polyester with a double microfiber fill and a soft 100% polyester lining. The listing says a waterproof double-layer design keeps it warm in humid conditions and describes it for four-season use.\n\nIt costs a little less than the Underwood Aggregator Double and adds damp-weather language that the Aggregator does not. A pillow version is sold under a similar listing.\n\nA reasonable pick for families who camp in humid or dewy places on a tight budget. It handles hiking, biking and light camping trips.",
     "specs": [
       "Double microfiber fill",

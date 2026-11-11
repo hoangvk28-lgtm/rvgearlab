@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31S60+ds9pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJYM7R6G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJYM7R6G?tag=rvgearlab-amz-20",
     "description": "The BUBRA has three 1000 lumen LED panels for a combined 3000 lumens, plus a 450 lumen flashlight mode, six modes and steady dimming. It has an 8000mAh battery for 10 hours on high and 30 on low, a telescopic tripod, 360 degree heads that tilt 100 degrees, and weighs 1.7 lbs.\n\nIt is very light at 1.7 lbs and collapses to 2.44 by 15.7 inches, and it costs less than the other tripod lights except the PINSAI. Its battery is smaller than the PINSAI.\n\nIt suits campers who want a light tripod for dinners and tent reading. It is also a flashlight and an emergency lantern.",
     "specs": [
       "3 panels, 3000 lumens",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kFT2dPrVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWFK5VF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWFK5VF1?tag=rvgearlab-amz-20",
     "description": "The PINSAI has 180 LEDs covering 600 square feet, stepless dimming, 3 color temperatures, a 10,000mAh battery with a power display and a telescopic tripod from 15 inches to 63 inches. It is IPX4 rated, magnetic and carries a 2-year service promise.\n\nIt has the biggest stated battery of the non-solar lights and the lowest price. Its mast is shorter than the Zenndpoon.\n\nIt suits campers who want a long-running, dimmable light on a tripod. The power display shows what is left.",
     "specs": [
       "10,000mAh, 180 LEDs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZviFkDR4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHN322QV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHN322QV?tag=rvgearlab-amz-20",
     "description": "The PARTPHONER has an 8Ah battery, 3 brightness modes of 500, 1500 and 2500 lumens, 2 color temperatures of 4000K and 6500K, and an aluminum shell. It lists up to 20 hours on low, a triple lamp head with 180 degree vertical and 270 degree horizontal movement, a tripod from 32 inches to 67 inches and a weight of 4.4 lbs.\n\nIt has the clearest lumen steps here and an aluminum build, at 4.4 lbs against the BUBRA's 1.7 lbs. It costs more than the PINSAI.\n\nIt suits campers who want an aluminum, adjustable work light. A carrying bag is included.",
     "specs": [
       "8Ah, 500 to 2500 lumens",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EufPyWKeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1WKPMJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1WKPMJM?tag=rvgearlab-amz-20",
     "description": "The Steelite lists 2700 lumens, three rotating lamp heads, an IP65 rating, a magnetic base and 22 hours on low. It has white, warm, mixed and spotlight modes, indicator lights and a telescopic tripod with a storage bag.\n\nIt lists IP65 where the PINSAI lists IPX4. The price matches the PARTPHONER, and the light is sold in two near-identical listings.\n\nIt suits campers in rain-prone areas who want a rated tripod light. The spotlight mode throws a beam.",
     "specs": [
       "2700 lumens, 3 heads",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VpzBcn+mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ8FM7BS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ8FM7BS?tag=rvgearlab-amz-20",
     "description": "The Zenndpoon lists 45,000 lumens, a 45,000mAh battery for 10 hours on high and over 60 hours on normal mode, USB-C and solar charging, a magnetic base, a 71 inch tripod and IP66 protection. It covers 13,000 square feet and has 3 modes with stepless dimming.\n\nIt is the biggest and the only solar-charging pick here, with the highest lumen figure by a wide margin. It costs the most.\n\nIt suits campers who need a floodlight for a large site or a work area. The IP66 rating handles rain.",
     "specs": [
       "45,000 lumens, 45,000mAh",

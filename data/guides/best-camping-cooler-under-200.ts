@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310nY0POljL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086VMYSX9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086VMYSX9?tag=rvgearlab-amz-20",
     "description": "Lifetime's 65 quart hard cooler is certified by the IGBC as bear resistant, strong enough to withstand a bear for up to an hour when locked. The listing claims up to 8 days of ice retention, heavy-duty polyethylene and urethane construction, and a capped drain compatible with a garden hose.\n\nIt is the only bear-resistant model here and the longest rated for ice. It sits at the top of this price range.\n\nChoose it for backcountry-adjacent campsites where bears are a concern, or for long trips. It suits groups of four to six.",
     "specs": [
       "IGBC bear-resistant per listing",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qRs7UCsNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DVHPR1SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DVHPR1SJ?tag=rvgearlab-amz-20",
     "description": "Igloo's Marine Ultra 90 QT has oversized all-terrain wheels, a swing-up rear handle, hybrid latches and oversize engineer-grade hinges with a stay-open detent. It is a leak-proof hard cooler for outdoor use.\n\nIt is the largest cooler in this guide, and the wheels let one person move a full load. It costs less than the Lifetime.\n\nChoose it for family trips, big groups and tailgates. The wheels and handle save your back.",
     "specs": [
       "90 quart hard cooler",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41apE4oRSHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C8QVDQJC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C8QVDQJC?tag=rvgearlab-amz-20",
     "description": "The Igloo Trailmate 25 Qt has extra-thick 1.5 inch foam-insulated walls and an insulated lid, plus Cool Riser technology that lifts the body away from hot surfaces. The lid has a locking plate and gasket to keep contents secure.\n\nIt is the smallest hard cooler here and made in the USA with USA and imported parts. It costs less than half of the Lifetime.\n\nChoose it for a couple's weekend or a day trip. It fits a car trunk easily.",
     "specs": [
       "25 quart, 1.5 inch foam walls",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ihy3KU5iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G95J8C7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G95J8C7Y?tag=rvgearlab-amz-20",
     "description": "SMIRLY is a collapsible 37L soft cooler that holds 48 cans, with multi-layer insulation and waterproof Oxford cloth with EVA. It has a padded handle and folds compactly.\n\nIt is the cheapest pick and the only one that packs flat. It keeps items cold for 8 hours per the listing.\n\nChoose it as a day-trip companion to a hard cooler. It suits beach days.",
     "specs": [
       "37L, holds 48 cans",

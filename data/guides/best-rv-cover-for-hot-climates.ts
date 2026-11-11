@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WdFYSZJWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP4PVGWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP4PVGWQ?tag=rvgearlab-amz-20",
     "description": "The MOFEEZ Class C cover fits 29 to 32 ft motorhomes and measures 390 by 105 by 108 inches. Its top uses 9 layers of non-woven fabric with 3 layers on the sides and a waterproof PU coating, and 4 rollable zippered doors open both sides.\n\nAgainst the FRUNO, it targets motorhomes and uses a heavier layered top for sun, while extra-long reinforced straps and a front label make installation straightforward. It suits Class C owners in sunny regions who want a breathable heavy cover.",
     "specs": [
       "9-layer non-woven top",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416OXePGTyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095C85Q7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095C85Q7F?tag=rvgearlab-amz-20",
     "description": "The FRUNO cover fits 30 to 33 ft travel trailers with 300D Oxford on the top and 150D Oxford on the sides, finished with a dense PU coating. Straps fixed in the middle of the sides pull the fabric closer, and 4 rollable panels allow access.\n\nCompared with the MOFEEZ, it is cut for towables and ships as a complete kit with 4 tire covers, 6 gutter spout covers, a jack cover, repair patches and a storage bag. It suits trailer owners who want a full set for summer storage.",
     "specs": [
       "300D top, 150D sides",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411zQXGpHSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C74KCV1K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C74KCV1K?tag=rvgearlab-amz-20",
     "description": "The Umbrauto cover fits 13 to 16 ft fiberglass travel trailers and uses 9-ply non-woven fabric with a PU2000mm waterproof coating. It claims a 35 percent boost in UV resistance and adds 3 side vents plus 2 rollable zippered doors.\n\nNext to the larger covers here, it is the only one cut for small egg-shaped campers, and labeled front direction marks make setup simpler. It suits owners of compact fiberglass trailers parked in direct sun.",
     "specs": [
       "13 to 16 ft fit",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hWBJ9YLXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RGX1WR?tag=rvgearlab-amz-20",
     "description": "The Renogy 200Ah AGM battery uses absorbent glass mat separators and valve-regulated construction, with a monthly self-discharge listed below 3 percent at 77 degrees F. Quinary alloy plates support discharge currents up to 10 times the rated capacity.\n\nIt carries twice the capacity of the Renogy 100Ah and the Weize 100Ah. Compared with the dual-purpose Mighty Max it is a pure house battery for solar and trailer banks.\n\nIt suits larger campers and solar setups where one large battery beats two smaller ones. The stable low-temperature performance is listed too.",
     "specs": [
       "12V 200Ah AGM",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AQrCOTTqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G31M is a Group 31M AGM with 110Ah, 825 CCA and 1000 marine cranking amps. It lists up to 700 cycles at 50 percent depth of discharge.\n\nIt starts an engine and runs a camp load, which the Renogy batteries do not claim. Compared with the Weize 27M it offers 18Ah more capacity and a higher CCA figure.\n\nIt suits van and boat campers who want one battery for the starter and the house. Group 31M size fits many tray layouts.",
     "specs": [
       "12V 110Ah, Group 31M",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UbW9RSctL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRQRMKFC?tag=rvgearlab-amz-20",
     "description": "The Weize BCI Group 27M offers 92Ah, 580 CCA and 175 RC in a sealed AGM case that the listing calls marine and RV. It lists quick charging at a constant 14.4V and claims 20 times more vibration resistance than flooded batteries.\n\nIt is cheaper than the Mighty Max and rated a little lower in Ah. Compared with the Weize 100Ah it adds starting power in exchange for pure deep cycle use.\n\nIt suits RV and boat owners with a limited battery tray and some engine starting needs. The charging voltage guidance is clearly given.",
     "specs": [
       "12V 92Ah, Group 27M",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize 12V 100Ah AGM measures 12.99 by 6.73 by 8.43 inches, with 1 to 3 percent self-discharge per month and a 1150A maximum discharge current. Charging runs from 14 to 122 degrees F and discharging from 5 to 122.\n\nIt costs a bit more than the Renogy 100Ah and lists a higher discharge current than the Renogy's 1100A. Against the Weize 27M it is purely a deep cycle battery.\n\nIt suits solar, trailer and trolling motor users who want a 100Ah standard size. Storage is easier thanks to the low self-discharge.",
     "specs": [
       "12V 100Ah AGM",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 100Ah AGM supports unlimited series and up to four parallel connections, with a 1100A five-second discharge. The listing says it can run a fridge, microwave and CPAP, and it works from -4 to 140 degrees F.\n\nIt is cheaper than the Weize 100Ah and the widest operating temperature in the group. Against the 200Ah Renogy it halves the capacity and costs less.\n\nIt suits campers who build a bank from several 100Ah batteries. Parallel up to four batteries gives 400Ah.",
     "specs": [
       "12V 100Ah AGM",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-lhsIsWsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H55NR3HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H55NR3HW?tag=rvgearlab-amz-20",
     "description": "The Daakmax is a pack of two 12V 35Ah AGM batteries in ABS cases with M6 zinc-plated bolts. The listing names use in camping, RVs, UPS backup, marine and off-grid solar.\n\nIt is the smallest and cheapest total capacity, 70Ah for the pair. Compared with a single 100Ah it lets you move the weight in two lighter pieces.\n\nIt suits tent campers, kayak setups and small lighting and phone-charging loads. Wiring in parallel gives 70Ah.",
     "specs": [
       "Two 12V 35Ah AGM batteries",

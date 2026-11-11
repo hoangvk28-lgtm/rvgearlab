@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Oak2z5XFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2MR53D6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2MR53D6?tag=rvgearlab-amz-20",
     "description": "The GL.iNet Slate 7 is a dual-band Wi-Fi 7 travel router with 688 Mbps on 2.4 GHz and 2882 Mbps on 5 GHz. It has dual 2.5G Ethernet ports, a touchscreen that scans QR codes and shows real-time speed, and OpenWrt 23.05 firmware.\n\nOpenVPN and WireGuard come pre-installed and work with 30+ VPN providers. The touchscreen gives it an edge over the TP-Link Roam 7, which relies on an app. It suits remote workers who want the strongest hardware and full VPN control.",
     "specs": [
       "Wi-Fi 7, 2882 Mbps 5G",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vfCX-04BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHZGXZH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHZGXZH7?tag=rvgearlab-amz-20",
     "description": "The TP-Link Roam 7 BE3600 delivers up to 2882 Mbps on 5 GHz and 688 Mbps on 2.4 GHz. It offers Router Mode for Ethernet or USB phone tethering, Hotspot Mode for public Wi-Fi, and has a 2.5 Gbps WAN, 1 Gbps LAN and a USB 3.0 port.\n\nCompared with the GL.iNet Slate 7, it matches the BE3600 speeds at a lower price, though it has one 2.5G port rather than two. It connects to public Wi-Fi and creates a private, secure network for your devices. It suits travelers who want Wi-Fi 7 speeds without paying for advanced firmware.",
     "specs": [
       "BE3600 Wi-Fi 7",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31cQhCMxTqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPSGJN7T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPSGJN7T?tag=rvgearlab-amz-20",
     "description": "The GL.iNet Beryl AX is a Wi-Fi 6 travel router with 574 Mbps on 2.4 GHz and 2402 Mbps on 5 GHz and a 2.5G multi-gigabit WAN port. It runs OpenWrt 21.02 with more than 5,000 packages and supports WPA3, with OpenVPN and WireGuard pre-installed.\n\nWhere the Slate 7 steps up to Wi-Fi 7 and a touchscreen, the Beryl AX keeps the same OpenWrt control at a lower cost. It sits between the TP-Link Roam 6 and Roam 7 in both speed and price. It suits campers who want OpenWrt and VPN flexibility on Wi-Fi 6.",
     "specs": [
       "Wi-Fi 6, 2402 Mbps 5G",
@@ -109,7 +109,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319qaN8paLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DYP6869?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DYP6869?tag=rvgearlab-amz-20",
     "description": "The VSVABEFV 4G LTE is a router with a SIM card slot that accesses the internet through UMTS, HSPA and LTE. It supports LTE FDD bands B2, B4, B5, B12, B13, B17, B18, B25 and B26, with 4 non-detachable antennas and 300 Mbps speeds.\n\nIt is the only pick that takes a SIM, so it works where the campground Wi-Fi does not exist. Its 2 LAN ports and 1 WAN port add wired options the pocket travel routers lack. It suits boondockers who want a carrier SIM plan inside the RV.",
     "specs": [
       "SIM card slot, 4G LTE",
@@ -137,7 +137,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ggt4irpML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLP6QL6R?tag=rvgearlab-amz-20",
     "description": "The TP-Link Roam 6 AX1500 is a pocket-sized Wi-Fi 6 travel router with up to 1,201 Mbps on 5 GHz and 300 Mbps on 2.4 GHz, supporting up to 60 devices. It connects to public Wi-Fi, ISP or a phone via USB tethering and has AP, repeater and client modes.\n\nCompared with the Beryl AX, it drops OpenWrt customization and 2.5G ports in return for a much lower price. It is smaller and easier to tuck into a glovebox. It suits casual campers who want a simple, secure bridge for a few devices.",
     "specs": [
       "AX1500 Wi-Fi 6",

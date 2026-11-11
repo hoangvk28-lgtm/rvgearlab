@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31C9-MLFxNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MRJFJVG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MRJFJVG?tag=rvgearlab-amz-20",
     "description": "Suburban SAW6DEL is a 6 gallon direct fit steel tank heater with direct spark ignition. The listing says it needs no cutout, cabinet depth or plumbing modifications and has a porcelain-lined tank with a replaceable anode rod.\n\nAgainst Suburban SAW6D, it is the version with the L designation and a higher price. Against KINGRVER 6 DSI, it is a Suburban direct fit.\n\nIt is the best match for van or RV owners replacing a 6 gallon aluminum tank without modifications. Buyers focused on direct-fit swaps will find it a sensible match.",
     "specs": [
       "6 gallon direct fit DSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G9GKKb5aS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LFMJ8RB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LFMJ8RB?tag=rvgearlab-amz-20",
     "description": "Suburban SAW6D is a 6 gallon direct fit tank heater with direct spark ignition. It shares the same porcelain-lined tank, replaceable anode rod and no-modification fit.\n\nAgainst Suburban SAW6DEL, it costs less. Against Atwood WH-6GA, it is a Suburban direct fit.\n\nIt suits owners who want the direct fit at a lower price. It earns its slot for budget direct fit.",
     "specs": [
       "6 gallon direct fit DSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HeRtQZGZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL7ZNV7G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL7ZNV7G?tag=rvgearlab-amz-20",
     "description": "KINGRVER 6 Gallon DSI is a propane tank heater designed for most 4 to 6 gallon cutouts, with 12 volt DC ignition from the RV system. The listing says the controller offers three temperature levels and the unit needs about 3 inches of added clearance.\n\nAgainst Suburban SAW6D, it has a controller with three temperature levels. Against ERFEI, it uses propane.\n\nIt suits owners who want propane with simple temperature settings. It is a natural fit for simple propane controls.",
     "specs": [
       "6 gallon propane DSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ULxW+FThL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08MB2ZKT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08MB2ZKT2?tag=rvgearlab-amz-20",
     "description": "Atwood and Dometic WH-6GA 94001BP is a 6 gallon RV water heater. The listing gives few details beyond the model.\n\nAgainst Suburban SAW6D, it is a competing 6 gallon brand. Against KINGRVER 6 DSI, it is an established model number.\n\nIt suits owners replacing an Atwood or Dometic 6 gallon tank like for like. Think of it as the pick for like-for-like swaps.",
     "specs": [
       "6 gallon Atwood Dometic WH-6GA",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FhXyxFjxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HBQCYSHQ?tag=rvgearlab-amz-20",
     "description": "MapleGrace is a 55,000 BTU propane tankless heater listed as CSA Certified, with a forced exhaust fan and a 95 to 123 degree F digital control. It has an exterior front outlet for outdoor use.\n\nAgainst the tank heaters, it needs less space for stored water but needs 12 volts for controls. Against ERFEI, it uses propane.\n\nIt suits vans that want hot water on demand and an outdoor shower. Buyers focused on van outdoor showers will find it a sensible match.",
     "specs": [
       "55,000 BTU propane tankless",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k0Zm92cIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LPKTG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LPKTG2?tag=rvgearlab-amz-20",
     "description": "ERFEI 2.5 Gallon is a 1500 watt, 110 volt mini tank with a stainless steel inner tank and an LED temperature display. The listing says it heats a sink for an RV or camper and uses a standard plug.\n\nAgainst the propane heaters, it needs shore power. Against MapleGrace, it only supplies a sink.\n\nIt suits vans on shore power that need hot water at the sink. It earns its slot for shore power sink hot water.",
     "specs": [
       "2.5 gallon, 1500W, 110V",

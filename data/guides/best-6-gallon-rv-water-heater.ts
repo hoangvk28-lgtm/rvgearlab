@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rdk+UwrcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCV1ZDJK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCV1ZDJK?tag=rvgearlab-amz-20",
     "description": "The Elk Mountain WH-6GEA is a 12 volt gas and electric 6 gallon heater with an aluminum tank that needs no anode rod. Its listing gives compact dimensions of 16 by 16 by 14 inches.\n\nCompared with the Suburban SW6DE, it removes anode upkeep, and it costs more than the Dometic WH-6GA by adding electric heating. It targets longer showers and filling large containers.\n\nBest for small-rig owners who want electric backup and no anode. It also suits tight compartments.",
     "specs": [
       "Aluminum tank, no anode",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510B6zj1X0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MY7FHKM?tag=rvgearlab-amz-20",
     "description": "The Suburban SW6DE (5239A) is a 6 gallon heater with direct spark ignition and an electric element. It has a porcelain-lined steel tank, a replaceable anode rod and Suburban's flue tube design.\n\nCompared with the SW6D, it adds electric heating for campsite or generator power. It sits below the Elk Mountain in price.\n\nA great pick for owners who want gas and electric in a proven steel tank. It also suits Suburban replacements.",
     "specs": [
       "DSI and electric element",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514TLfNQdfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01NBTVDBC?tag=rvgearlab-amz-20",
     "description": "The Suburban SW6D (5238A) is a 6 gallon direct spark ignition heater with a porcelain-lined steel tank and a replaceable anode rod. It is the lowest-priced Suburban 6 gallon tank here.\n\nIt drops the electric element of the SW6DE and keeps the same flue tube design. That keeps cost lower for gas-only users.\n\nBest for budget replacements that run on propane. It also suits seasonal campers.",
     "specs": [
       "Direct spark ignition",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XfNd5hYrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095KV719X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095KV719X?tag=rvgearlab-amz-20",
     "description": "The Dometic WH-6GA is a gas-only 6 gallon heater with an electronic ignition gas burner and no anode rod required. It uses LP gas as its energy source.\n\nCompared with the Elk Mountain WH-6GEA, it skips electric heating and costs less. The listing notes the door is sold separately.\n\nA good fit for owners who want low maintenance and gas-only operation. It also suits Dometic upgrades.",
     "specs": [
       "Electronic ignition burner",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l6VIR4wrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCBHN9X2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCBHN9X2?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 6 Gallon RV Tank Water Heater is a propane and electric hybrid with a 12,000 BTU burner and a porcelain-lined steel tank. Its listing describes remote temperature control from inside the RV and three heating modes.\n\nIt costs less than both the Elk Mountain and Suburban SW6DE while adding an interior control. Hybrid mode speeds recovery at peak use.\n\nBest for owners who want an interior control at a lower price. It also suits budget swaps.",
     "specs": [
       "12,000 BTU burner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RZICSBRvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CV789V4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CV789V4?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX 6 Gallon is a 120V 1440W point-of-use mini tank with built-in insulation foam and a glass-lined tank. The listing says it has UL approval and a thermostat with three levels from 50 to 149 F.\n\nUnlike the gas options, it plugs into a 120V outlet and mounts on a wall or floor under a sink. It costs less than half of the Elk Mountain.\n\nA smart pick for conversions, tiny homes and booster use. It also suits propane-free rigs.",
     "specs": [
       "120V 1440W mini tank",

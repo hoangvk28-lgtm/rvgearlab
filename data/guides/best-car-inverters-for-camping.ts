@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ctUZeiwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY798SV?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 1000W provides 1000W continuous and 2000W peak, with two AC outlets, a 36W USB-C port and a fast USB port. A built-in LCD shows input and output voltage and protection codes.\n\nIt is the only pick here with enough output for a small appliance such as a fan, a light bundle or a laptop with a monitor. Compared with the smaller OLTEANP 500W it triples the continuous rating and adds the 36W Type-C.\n\nIt suits truck sleepers and van lifers who connect to the battery directly. Six safety protections and temperature-controlled cooling are named.",
     "specs": [
       "1000W continuous, 2000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JHh5fWYML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQY6DQT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQY6DQT9?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 500W supplies 500W continuous with peak surge, two AC outlets and USB charging ports. A built-in LCD, temperature-controlled fan and four protection types are named.\n\nIt sits between the 1000W sibling and the 400W plug-ins, with a display neither plug-in has. Against the YSOLX 500W it adds a display and costs slightly more.\n\nIt suits car campers who want one unit for a laptop, camera chargers and a small fan. The listing positions it for mobile office use.",
     "specs": [
       "500W continuous with peak surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vYem33XfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK2W68YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK2W68YJ?tag=rvgearlab-amz-20",
     "description": "The Pro Chaser delivers 400W continuous and 800W peak through dual AC outlets, a USB-A QC 18W port and a USB-C PD port. The cellphone-sized body has a 30 inch cord and a built-in fuse.\n\nCompared with the vansoet it adds a named 30 inch cord and a USB-A QC port. Against the YSOLX it relies on a plug alone rather than clamps.\n\nIt suits campers who charge a laptop and phone from the center console. The listing advises one high-power device at a time.",
     "specs": [
       "400W, 800W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ia+11m5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-amz-20",
     "description": "The vansoet offers 400W through two US outlets, a 30W PD USB-C and a 15W USB port. A dedicated AC switch turns the outlets on and off without unplugging the cigarette adapter.\n\nCompared with the Pro Chaser it adds a clear LED status light and the AC switch. Against the YSOLX it focuses on in-vehicle 12V systems.\n\nIt suits campers who sleep in the car and want AC off when not needed. Green and red LEDs show normal and fault states.",
     "specs": [
       "400W, two AC outlets",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512r4r+nh0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GNGTBDM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GNGTBDM?tag=rvgearlab-amz-20",
     "description": "The YSOLX lists 500W through two AC sockets and two USB ports, with a cigarette-lighter mode for devices under 150W and a clamp mode for larger loads. The listing recommends loads under 150W from the car socket and names a 180W socket fuse limit.\n\nIt adds clamps that the 400W plug-ins lack. Compared with the OLTEANP 500W it drops the display and the temperature control.\n\nIt suits campers who may want to power lights, a router or a fan from a deep-cycle battery during an outage. A built-in smart chip and fuse protect it.",
     "specs": [
       "500W, two AC and two USB",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4161lvTI1tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01H2XD2DY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01H2XD2DY?tag=rvgearlab-amz-20",
     "description": "The FOVAL provides 150W continuous AC with two USB ports at 3.1A total in an aluminum shell measuring 3.2 by 2.5 by 1.5 inches. It weighs about 8 oz and has a silent fan.\n\nIt is the cheapest here and matches the vehicle socket limit well. Against the Pro Chaser it has less power and no USB-C.\n\nIt suits car campers who just need to charge a phone and a laptop brick. A built-in fuse and aluminum case add durability.",
     "specs": [
       "150W AC outlet",

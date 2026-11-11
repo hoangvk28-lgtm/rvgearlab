@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417xZUZD+AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3X1GHWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3X1GHWX?tag=rvgearlab-amz-20",
     "description": "The briidea time-delay controller applies varying power over a set period after braking starts, and the listing says it is meant for light-duty and occasional towing. It states overcurrent and short-circuit protection, fault detection, an LED display of current, and 1-4 axle support (2-8 brakes).\n\nCompared with the Lrichy 8507111 below it, it names protection features and a mounting spot recommendation, while the Lrichy leans on a longer warranty. It costs less than the Lrichy.\n\nBest for a first-time owner of a light utility trailer or small camper who wants a clear safety feature list. Do not choose it for a heavy trailer on long downgrades.",
     "specs": [
       "Time-delay ramp",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bYzlYd91L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK567BQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK567BQC?tag=rvgearlab-amz-20",
     "description": "The Lrichy 8507111 gradually increases braking force at a fixed rate and replaces the 8507111 Time-Delay Brake IV, so it is a third-party copy. The listing mentions an LED display with diagnostics and alarms, mounting in any direction with no horizontal install required, and a two-year warranty.\n\nAgainst the briidea above, it has a clearer warranty and mounting note but fewer stated protection features. Compared with the Gihdfer below, it is a bit pricier and adds the two-year coverage.\n\nBest for a buyer who values a stated warranty period on a cheap controller. It still lacks proportional response, so a heavy trailer is a poor match.",
     "specs": [
       "Fixed-rate time-delay ramp",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUC2xTNGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM9PNTMQ?tag=rvgearlab-amz-20",
     "description": "The Gihdfer listing is branded Gihdfer and uses Towpower, Brakeman IV and 8507111 part wording, so it is a copy-style product rather than a Reese product. It describes time-delayed activation, an LED display of braking force, and adjustable settings.\n\nCompared with the Lrichy 8507111 above, it costs less and includes a mounting bracket with six screws, but no warranty is stated. Against the Flecto below, it describes the ramp behavior in more detail.\n\nBest for a low-cost buy where you will mount under the dash and set it once. Confirm the axle range with the seller, since the listing describes compatibility only in general terms.",
     "specs": [
       "Time-delayed activation",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+HPxXEjvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1MDG9CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1MDG9CJ?tag=rvgearlab-amz-20",
     "description": "The Flecto 8507111 is a plain time-delay controller for 1 to 4 axle trailers with 2, 4, 6 or 8 brakes. The listing treats 8507111 as a replacement reference and tells you to compare your original controller number before ordering.\n\nIt sits below the Gihdfer because it lists fewer features, no display description and no mounting detail. It does state a one-year warranty and says proper setup and adjustment are required before road use.\n\nBest for a buyer replacing an existing 8507111-style controller who wants a like-for-like swap. It adds little for first-time buyers.",
     "specs": [
       "Time-delay operation",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zlo+kayoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B45D8T5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B45D8T5B?tag=rvgearlab-amz-20",
     "description": "The Timilge is the lowest-priced pick, a digital time-delay controller for light-duty and occasional towing on 1-4 axle trailers. The listing describes an LED showing voltage to the trailer brakes and lets you adjust both braking power and rate.\n\nCompared with the Flecto above, it is cheaper and states the wire colors, but gives no warranty detail. It mentions wiring ports for vehicle-specific harnesses, so a harness may be an extra buy.\n\nBest for the tightest budget on a light trailer. Expect to supply your own harness and double-check the wiring colors before connecting.",
     "specs": [
       "Time-delay, light-duty",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S758ImuVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK56B37R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK56B37R?tag=rvgearlab-amz-20",
     "description": "The Lrichy 8508211 is not time-delay: it is a proportional controller sold as a smoother upgrade over the 8507111 Time-Delay IV. The listing says it replaces the Brake-EVN 8508220 and offers 1-4 axles, an LED display, brackets and a two-year warranty.\n\nCompared with the Lrichy 8507111 above, it costs a little more and brakes in proportion to how hard the tow vehicle slows. It is placed last only because this list is about time-delay units.\n\nBest for anyone who finds time-delay braking too grabby on a longer trailer. It is third-party, so support comes from the seller.",
     "specs": [
       "Proportional, not time-delay",

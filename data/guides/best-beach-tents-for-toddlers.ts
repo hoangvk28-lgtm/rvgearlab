@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iyAJHrJJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQTDM89W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQTDM89W?tag=rvgearlab-amz-20",
     "description": "The Funsland is a fully automatic pop-up playpen that sets up in 30 seconds and opens to 68.9 by 43.3 by 35.4 inches. It has 10 fixed stakes, a UV-protective canopy, breathable side mesh and a 34 by 5.9 by 5.9 inch fold-up size.\n\nIt offers the roomiest play area of the six, with space the listing says suits 3 kids under 8. Against the Bend River it has a longer footprint, and it is lighter on the feature list for pools or fans.\n\nIt suits parents of an active toddler who want a play-yard shape rather than a shade-only cocoon. It can come inside for indoor play too.",
     "specs": [
       "68.9 x 43.3 x 35.4 in open",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x0C9zc7aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCMMPLV4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCMMPLV4?tag=rvgearlab-amz-20",
     "description": "The Bend River is a hexagon playpen in 210D oxford fabric with a UPF 50+ canopy, mesh side walls and a screen door that closes fully. It opens to 63 by 53 by 39 inches, weighs 5.8 pounds and comes with six pegs.\n\nAgainst the Funsland it adds a closable screen door and a taller 39 inch height, which helps keep sand and mosquitoes out. Compared with the Monobeach and Zooawa it is much larger and has no pool.\n\nIt suits parents who want a sealed play space for a toddler at the beach or the campsite. The mesh walls keep the child in view.",
     "specs": [
       "63 x 53 x 39 in, 5.8 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dDgJiXYGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK8LT3KH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK8LT3KH?tag=rvgearlab-amz-20",
     "description": "The NXONE is a pop-up baby beach tent for infants and toddlers with an easy-open door that has no zippers, an outer zipper placement and a window set at kid height. The silver-coated inner layer blocks up to 98 percent of UV rays, and the mesh panels move air through.\n\nAgainst the Monobeach and Zooawa it has a built-in sandbag, stake and guy line set that the splash-pool tents mostly lack. The water-repellent fabric handles light splashes.\n\nIt suits families who want the child to open and close the tent alone and see out of it. Its design leans on toddler independence.",
     "specs": [
       "No-zipper easy-open door",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51zvg57Q8aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ3DY3P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ3DY3P6?tag=rvgearlab-amz-20",
     "description": "The Dsquu combines a baby splash pool, a UPF 50+ silver-coated 210D oxford shell and a built-in ceiling fan with a solar panel and a 4000mAh battery. Its four sides are high-density PE mesh with 220 holes per square inch.\n\nIt is the only pick with active cooling, where the NXONE and Bend River rely on mesh alone. Against the Zooawa and Monobeach it adds the fan and a named mesh density at a similar price.\n\nIt suits hot-climate beaches where a toddler would otherwise overheat in shade. Fan runtime is battery and sun dependent.",
     "specs": [
       "Solar fan, 4000mAh battery",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bo6OQP7RS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01K15UQ4I?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01K15UQ4I?tag=rvgearlab-amz-20",
     "description": "The Monobeach is designed for children under 3 years old, with a mini pool at the bottom and UV protection rated 50+. It opens automatically to 47.2 by 30.3 by 23.6 inches, with a 21 inch carry bag and 4 pegs.\n\nIt is smaller than the Funsland and Bend River playpens and gives up the sandbags that the NXONE includes. Against the Zooawa it has a taller silhouette and a lower, easier-to-carry profile.\n\nIt suits parents who want a minimal sun shelter and splash spot for a small baby. The bag fits inside a beach tote.",
     "specs": [
       "Made for children under 3",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41opkFb8d6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DS2DKCKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DS2DKCKP?tag=rvgearlab-amz-20",
     "description": "The Zooawa baby tent has a mini pool in the base, a removable UPF 50+ canopy that blocks 97 percent of rays, and waterproof wear-resistant fabric. It measures 47.2 by 31.5 by 27.6 inches set up and comes with 2 sandbags, 4 stakes and a carry bag.\n\nIt is close to the Monobeach in size and adds two sandbags, with a canopy that lifts off. The Dsquu adds a fan and the NXONE adds more anchors, so this is the simple option.\n\nIt suits budget-minded parents who want shade, a pool and light anchoring. It is the lowest-cost pick here.",
     "specs": [
       "Mini pool, 47.2 x 31.5 x 27.6 in",

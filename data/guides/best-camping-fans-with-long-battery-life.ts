@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ptHfnUmWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYDQFVBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYDQFVBD?tag=rvgearlab-amz-20",
     "description": "The Socool 40000mAh pairs its huge pack with a stated 136 hours on low and 13 hours at maximum speed. A brushless motor reaches 1650 RPM and 16.07 ft/s, with 45 and 90 degree auto oscillation and a 26 ft remote.\n\nIt carries a far larger pack than the 24,000mAh Aopircs and AVAVO. The EEIFO shares the 40,000mAh size, while the Socool lists a clearer speed-by-speed runtime.\n\nIt is for campers on a week-long trip or a base camp without power. The magnetic remote storage and 32 LED lights make it a full tent station.",
     "specs": [
       "40,000mAh, up to 136 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416CIi1VU9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSDKZWYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSDKZWYX?tag=rvgearlab-amz-20",
     "description": "The EEIFO is a 12 inch fan with a sealed 40,000mAh lithium pack, four speeds and three brightness levels with three color temperatures. A remote, 1/2/4/8 hour timers and 45 or 90 degree oscillation come with it.\n\nIt matches the Socool 40000mAh on pack size and costs noticeably less. Against the 24,000mAh Aopircs it adds a much larger pack and warmer light choices for reading.\n\nIt suits car campers who want two nights or more of cool air and an adjustable light. The wide timer range handles sleep schedules.",
     "specs": [
       "Sealed 40,000mAh pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-HQ8HumcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLH78CSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLH78CSD?tag=rvgearlab-amz-20",
     "description": "The AVAVO uses two independent 24,000mAh batteries that detach for emergency charging. It lists 24 to 127 hours of cooling, four speeds with a dedicated sleep mode, and a multi-level LED light.\n\nWhere the Socool and EEIFO keep their cells sealed inside, the AVAVO's packs separate so you can charge one at a time. That makes it the flexible pick between the large-pack fans and the single-cell FRIZCOL.\n\nIt fits campers who also want a power source for phones or who share the fan between a tent and a picnic table. A foldable hook and rotating head handle placement.",
     "specs": [
       "Two detachable batteries",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315MziKBq1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G56VDK2G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G56VDK2G?tag=rvgearlab-amz-20",
     "description": "The Aopircs offers a 24,000mAh battery with a stated 8 to 60 hours, four wind speeds, a natural breeze sleep mode and a 10 ft remote. A weighted anti-slip base and foldable hook let it stand or hang.\n\nIt has a bigger pack than the FRIZCOL clip fan at a similar price. Next to the Socool 40000mAh it carries a smaller pack and adds a natural breeze mode.\n\nIt fits campers on a budget who want an overnight fan with a built-in light. The weighted base steadies it on uneven ground.",
     "specs": [
       "24,000mAh, 8 to 60 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512QFPMpL1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097P9GJ9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097P9GJ9P?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL clip fan uses a 12,000mAh pack for a stated 65 hours, with a remote reaching 12 ft, three LED lights and 22dB noise on the lowest setting. It clips, stands or hangs, with USB-C 2A charging.\n\nIts clip design puts airflow right on a cot or chair arm from a compact body. Against the weighted Aopircs it offers more mounting options in a smaller body.\n\nIt suits solo campers and anglers who want long enough runtime in a compact fan. Three timer modes handle a night's sleep.",
     "specs": [
       "12,000mAh, 65 hours stated",

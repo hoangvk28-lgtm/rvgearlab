@@ -32,7 +32,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GBUS7cyLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C61RH243?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C61RH243?tag=rvgearlab-amz-20",
     "description": "The Happy Travel 2/4 Person Camping Tent has a 94.5 by 94.5 inch square floor, a 55 inch peak and a hydraulic system the listing says sets up in about a minute. Two large doors, inner mesh and outer nylon layers complete the design at $79.99.\n\nCompared with the vestibule tent below it, this one offers the roomier, more usable floor shape and two big doors. Compared with the skylight tent, it delivers the fastest pitch, which is a real help after a long drive.\n\nIt is the best match for families who want an overflow bedroom beside the RV that goes up in a minute and sleeps three or four.",
     "specs": [
       "94.5 x 94.5 x 55 in",
@@ -62,7 +62,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H4FEDq0aS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08RYX59PY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08RYX59PY?tag=rvgearlab-amz-20",
     "description": "The Pop Up Tents for Camping 4 Person Waterproof Popup Tent has a 9.2 by 6.6 foot floor, a vestibule and mesh doors front and back. The body uses 190T polyester with a 110G floor and costs $84.99.\n\nCompared with the Happy Travel above it, this tent supplies a covered vestibule that keeps muddy boots and wet packs out of the sleeping area. Compared with the skylight tent below it, it adds waterproof fabric details and a gear zone.\n\nIt suits campers who meet rain and mud, sleep three or four in bags and want a clean separation between gear and bedding.",
     "specs": [
       "9.2 x 6.6 ft floor",
@@ -92,7 +92,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i8mZje6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJRPRNXY?tag=rvgearlab-amz-20",
     "description": "The 4 Person Easy Pop Up Tent has a 9.5 by 6.6 foot floor, an overhead skylight, four mesh windows, two doors and a removable waterproof rainfly. It sells for $69.69, the lowest price of the three.\n\nCompared with the vestibule tent above it, this one offers star views through the skylight and strong airflow from the mesh windows. It gives the best value of the group, with a rainfly you can remove on warm nights.\n\nIt is ideal for couples, small families and fair-weather campers who love stargazing and want an inexpensive, quick shelter.",
     "specs": [
       "9.5 by 6.6 ft floor",

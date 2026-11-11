@@ -1,5 +1,5 @@
 # Content Gap Research: Murphy Beds, Filing Cabinets, Office Chairs, Standing Desks (Articles 1-24)
-WorkCocoon.com | Affiliate tag: theofficejournal-20
+WorkCocoon.com | Affiliate tag: rvgearlab-amz-20
 
 ---
 

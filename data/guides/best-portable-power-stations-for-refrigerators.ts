@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31z4HFhmY9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX1GHYMM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX1GHYMM?tag=rvgearlab-amz-20",
     "description": "The BLUETTI FridgePower is built exclusively for fridge backup, with 2,016Wh of LFP storage, 1,800W rated output and a 4W standby draw that the listing says runs 26 percent longer than same-capacity rivals. A 10ms DualGuard UPS switch keeps the fridge running through a blackout, and a slim 75mm body fits most kitchen gaps.\n\nIt is the only pick designed around a refrigerator, with storm alerts and Alexa and Google Home support. Next to the Elite 400 it stores about half the energy, with a lower idle draw and a much lower price.\n\nIt suits households that want a fridge-only outage plan and a sump pump or chest freezer as a second load. An expandable 4,032Wh version of the same line is also sold.",
     "specs": [
       "2,016Wh LFP, 1,800W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bn2bAImBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G8Y8DCC1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G8Y8DCC1?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 400 stores 3,840Wh of LiFePO4 with 2,600W rated output and 3,900W surge, 9 ports and an easy-roll trolley system. It reaches 80 percent charge in 70 minutes with 2,800W AC and solar input, and switches over in 15ms.\n\nWith nearly double the storage of the FridgePower, it will run a fridge for days rather than hours. It also moves around easily on its trolley, which the slimmer FridgePower does not offer.\n\nIt suits households with a fridge and a freezer, a few lights and a router who want several days of outage coverage. It also suits RV owners with larger loads.",
     "specs": [
       "3,840Wh LiFePO4, 2,600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 stores 1,024Wh with 1,800W rated AC output, 2,700W in Power Lifting mode and a 10ms UPS. It reaches 80 percent in about 45 minutes, weighs 25 pounds and offers a 30dB silent mode.\n\nAt 25 pounds it is by far the easiest to carry, and its price is roughly half that of the FridgePower. It runs a fridge for a shorter stretch because of its 1,024Wh.\n\nIt suits campers with a 12V or small AC fridge and anyone who wants a quiet backup for a mini fridge. The silent mode keeps noise down in a tent or bedroom.",
     "specs": [
       "1,024Wh, 1,800W rated",

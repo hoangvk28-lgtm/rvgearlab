@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NJwAx2xXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3QKB7ZT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3QKB7ZT?tag=rvgearlab-amz-20",
     "description": "The ALPHA CAMP oversized pair is rated for 500 pounds, with a heavy duty steel frame, reinforced cross bracing and an anti rust coating. Each chair has an extra wide fully padded seat, a lumbar support back, a four can cooler bag, a large cup holder and a side pocket.\n\nAgainst the TIMBER RIDGE single chair, you get two chairs and a lumbar support back for less than twice the price. It suits larger couples who want matching padded chairs with high capacity and storage.",
     "specs": [
       "500 lb rated steel frame",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hZGKXednL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2QNYFJ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2QNYFJ5?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE oversized folding chair is rated for 500 pounds on a heavy duty steel frame. The seat is 24 3/8 inches wide and 19 3/4 inches deep, with a 26 3/8 inch back and a padded headrest.\n\nCompared with the ALPHA CAMP, it adds a headrest and a taller 42 1/2 inch chair height, but it is a single chair at 16.85 pounds. It suits tall campers who want a headrest and a sturdy frame.",
     "specs": [
       "500 lb steel frame",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HZHAJ6zcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BZ7GFD6F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BZ7GFD6F?tag=rvgearlab-amz-20",
     "description": "The Overmont oversized chair is rated for 450 pounds on a powder coated alloy steel frame with non slip feet. It measures 23.2 by 22.8 by 39.4 inches and has a fully padded high back and double layer 600D Oxford fabric.\n\nIt undercuts the TIMBER RIDGE on price while folding to about 40 by 7 by 7 inches at 11 pounds, which is lighter than the TIMBER RIDGE. It suits solo campers who want padding, a cooler bag and a lighter carry.",
     "specs": [
       "450 lb alloy steel frame",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4139gK-cCbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9MF8L3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9MF8L3N?tag=rvgearlab-amz-20",
     "description": "The VEVOR oversized chair is rated for 450 pounds with a 600D heat resistant Oxford cloth and a quad lumbar back. The seat is lined with soft pearl cotton, and the chair weighs about 5.4 kilograms with side pockets and a storage bag.\n\nIt is the lowest priced padded chair here and lighter than the Overmont at roughly 12 pounds. It fits budget campers who need a 450 pound chair with padding.",
     "specs": [
       "450 lb capacity",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xsSoccegL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C615FRRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C615FRRN?tag=rvgearlab-amz-20",
     "description": "The Joyfair large camping chair is rated for 400 pounds and built from 16.86 mm heavy duty steel that resists deformation and rust. It is a foldable chair that needs no assembly and opens and folds easily.\n\nIt meets the 400 pound line at a modest price and is the most basic pick here, without the cooler pockets of the ALPHA CAMP or Overmont. It suits occasional campers who need to meet the 400 pound mark and do not want extra features.",
     "specs": [
       "400 lb capacity",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cjukgd+-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBHD1BQK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBHD1BQK?tag=rvgearlab-amz-20",
     "description": "The Orthofeet Bristol is a women's low-top orthopedic hiking shoe with a rugged lug sole, a premium orthotic insole and an arch booster. The listing names plantar fasciitis, heel pain, bunions and hammer toes among more than 20 conditions it is built to ease.\n\nIt is the only pick here that ships an arch booster with the insole, and it pairs that with a rugged lug sole. Next to the OrthoComfoot Mesh Sneaker, it has a true-to-size fit, a padded fabric interior and a trail-ready outsole.\n\nIt suits a woman who wants a low-cut hiking shoe with orthotic support for trails, travel and long days. The wide toe box removes pressure on the forefoot.",
     "specs": [
       "Orthotic insole, arch booster",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xum-8w-XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2631K8M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2631K8M?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Trekking shoe has a roomy wide construction, a contoured orthopedic arch support and a diabetic-friendly soft lining. The listing names plantar fasciitis, hammer toes, high arches and neuropathy, and adds a thick shock-absorbing midsole and a durable textured rubber outsole.\n\nIt has the widest-sounding fit in the group and the softest lining, which makes it the better choice than the OrthoComfoot Mesh Sneaker for swollen or sensitive feet. It costs less than the Orthofeet Bristol.\n\nIt suits a woman with wide, swollen or sensitive feet who wants a supportive trail shoe. The midsole is described as absorbing impact on feet, ankles and knees.",
     "specs": [
       "Wide fit, contoured arch support",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410xidGebqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1HXKF1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1HXKF1B?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Mesh Sneaker is a women's orthopedic hiking sneaker with a wide toe box, an ergonomic arch support structure and a breathable mesh upper. The textured rubber outsole grips wet roads, gravel and uneven terrain, and the listing names plantar fasciitis and heel pain.\n\nIt is more breathable than the OrthoComfoot Trekking, and its lightweight mesh builds suit warm weather. It lists trail running, hiking and everyday work as uses.\n\nIt suits a woman who walks on mixed surfaces and wants one orthopedic sneaker for hikes and daily wear. The cushioned midsole absorbs walking impact.",
     "specs": [
       "Wide toe box, arch support",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UqzWl6SaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3J99DP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3J99DP6?tag=rvgearlab-amz-20",
     "description": "The Brooks Caldera 8 is a women's ultra trail running shoe with DNA Loft v3 cushioning stacked high for softness over rough ground. It has raised sidewalls for security and flexibility, a widened base and added flex grooves for stable landings.\n\nIt has far more cushioning than the Orthofeet Bristol or the OrthoComfoot pair, and a more athletic, running-oriented feel. It does not list an orthotic insole or a plantar fasciitis claim.\n\nIt suits a woman who wants soft, high-stack cushioning for long trail miles and may add her own insole. The upper is built to resist scratching and snagging.",
     "specs": [
       "DNA Loft v3 high-stack cushioning",

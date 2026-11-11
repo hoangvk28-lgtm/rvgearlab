@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q9n6LDaGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5MJ7K9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5MJ7K9F?tag=rvgearlab-amz-20",
     "description": "KingCamp is a 9-cup percolator made of 304 stainless steel with a wood handle, an insulated glass knob and a pointed spout. It is sized for two or three people and works on most outdoor stoves.\n\nIt holds more than the Odoland kettle and uses a stainless internal basket, which the GSI leaves out of the rest of the list. The glass knob lets you watch the brew perk.\n\nA solid choice for family car camping where coffee is a ritual. It brews enough to share without a second round.",
     "specs": [
       "9-cup 304 stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vfdqBmfkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000690JTC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000690JTC?tag=rvgearlab-amz-20",
     "description": "GSI is a heavy-gauge stainless steel percolator with a heat-resistant silicone handle and a PercView knob that lets you see the brew. It needs no paper filters, and it takes apart for easy cleaning.\n\nIt is the most polished percolator here, with the silicone handle and see-through knob that the KingCamp swaps for wood. It brews strong coffee for the whole crew at campsites, cabins and RVs.\n\nA favorite for campers who want a long-lasting, no-fuss percolator. The see-through knob makes timing the brew simple.",
     "specs": [
       "Heavy-gauge stainless steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Gc89crJgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR445283?tag=rvgearlab-amz-20",
     "description": "Odoland includes a 1.2L hard anodized aluminum kettle with a nonstick coating, a camping mug and a coffee filter. The foldable mug has a heat-resistant handle, and the kit works with gas or firewood.\n\nIt packs smaller and lighter than the percolators, and the extra mug means you can drink straight away. It boils water as well as brewing.\n\nA good value for solo campers and backpackers who also need hot water for meals. Weight stays low, so it rides easily in a pack.",
     "specs": [
       "1.2L hard anodized aluminum",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BfY6bl1BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001J1L59E?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001J1L59E?tag=rvgearlab-amz-20",
     "description": "Primula is a cast aluminum stovetop moka pot that makes six demitasse servings of espresso-style coffee in minutes. Fill the lower chamber with water, add ground coffee and place it on a stove.\n\nIt is the cheapest brewer here and the smallest, with a style different from the percolators. It rinses clean with warm water.\n\nA great fit for campers who like a strong, concentrated cup. It sits happily on a small camp stove.",
     "specs": [
       "Cast aluminum moka pot",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qIoTs-H4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081TMDLXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081TMDLXF?tag=rvgearlab-amz-20",
     "description": "Death Wish instant packets come in 8 single-serve sticks of dark roast made with Arabica and Robusta beans. Just add hot water.\n\nWhere the pots require brewing time and cleanup, these take seconds with nothing to wash. They are ideal for backpacking mornings or quick stops.\n\nA great fit for hikers who want bold coffee with zero gear. Tuck a few packets in a pocket and you are set.",
     "specs": [
       "8 single-serve packets",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517nnqFSUYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00H3TCGBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00H3TCGBW?tag=rvgearlab-amz-20",
     "description": "Folgers Coffee Singles come 19 to a box, each a single-serve bag that steeps in hot water. They need no machine and no filter.\n\nThey are simpler than the pots and closer to brewed coffee than instant packets. A box tucks into a camp kitchen box.\n\nA good fit for campers who want familiar coffee without gear. Share a box around the picnic table and everyone gets a cup.",
     "specs": [
       "19 single-serve bags per box",

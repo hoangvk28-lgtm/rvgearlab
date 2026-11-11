@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vj8P6TqSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN4NX5PX?tag=rvgearlab-amz-20",
     "description": "The DMH OUTDOORS is a 10-person cabin tent with a screened porch and an 84 inch center height. The floor is listed as (10+7) by 14 feet, and it includes a rainfly, taped seams, a tent skirt, a mesh door, three mesh windows and a rain-resistant E-port.\n\nIt is the only pick with a screened porch built into the floor plan, and it costs close to the Portal. The Fanttik pitches faster, while this one adds bug-free outdoor space.\n\nIt suits families that plan meals and gear storage in a bug-free porch. The brown and navy tent has a tent skirt to resist drafts.",
     "specs": [
       "10 person, (10+7)x14 ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EL5m2OLRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CG9V7587?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CG9V7587?tag=rvgearlab-amz-20",
     "description": "The PORTAL is a 10-person cabin tent measuring 14 by 10 feet by 84 inches, fitting ten sleeping bags or four queen air mattresses. It has a 110 by 110 inch front porch, six mesh windows, two doors, two ground vents and a mesh ceiling.\n\nIt lists a 110 by 110 inch front porch and costs a little less than the DMH. The CORE has a taller wall and costs nearly twice as much.\n\nIt suits families who want an open porch for shade and gear. A divider curtain turns it into two rooms.",
     "specs": [
       "14x10 ft, 84 in height",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TA3kT8f-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B06X9G7Q5V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B06X9G7Q5V?tag=rvgearlab-amz-20",
     "description": "The CORE 10-Person Cabin Tent measures 14 by 10 feet with an 86 inch center height with room for four queen air beds. The fabric is H20 Block 1200mm, the rainfly is fully taped and the seams are sealed, and guylines, steel stakes, a room divider and a gear loft organizer come in the box.\n\nIt lists the best-detailed weather build of the five and a taller wall than the DMH, Portal or UNP. The Portal costs about half as much and gives a bigger porch.\n\nIt suits families who camp in changing weather. Nearly straight walls give standing room.",
     "specs": [
       "14x10 ft, 86 in center",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yAgGDXWxS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NWR54PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NWR54PC?tag=rvgearlab-amz-20",
     "description": "The UNP is a 10-person tent measuring 18 by 9 feet with a 78 inch height that fits ten sleeping bags or three queen air mattresses. It has a large mesh roof, three sides of large mesh windows, two doors and a privacy divider curtain.\n\nIt has the longest floor of the five and a low price. The Portal gives a deeper porch.\n\nIt suits families who want long length for cots in a row. Two people can set it up in ten minutes.",
     "specs": [
       "18x9 ft, 78 in height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fe1rEMrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C10 Pro is a 10-person instant tent whose pre-attached poles let it stand in about a minute. Mesh covers the windows on every side, with vents low on the walls, a mesh ceiling and a drainage channel at the foot of the door zipper.\n\nIt is the only instant pick, and it costs more than the UNP, PORTAL and DMH. The DMH and Portal give porches that this one lacks.\n\nIt suits families who value a one-minute pitch. The listing advises pulling the zipper with a thumb on the large doors.",
     "specs": [
       "10-person instant tent",

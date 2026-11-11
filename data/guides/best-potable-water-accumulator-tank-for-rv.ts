@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KTP1FgSLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082DKMYLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082DKMYLT?tag=rvgearlab-amz-20",
     "description": "SEAFLO 2 Gallon (8 liter) is a pre-pressurized accumulator with a maximum pressure of 87 PSI, 3/4 inch MNPT connections and a Schrader air valve. The listing says it reduces pump cycling, absorbs water hammer and arrives pre-charged and adjustable with a bicycle pump.\n\nAgainst SEAFLO 1L, it is eight times larger. Against oiununo 68oz, it lists a lower max pressure and a 3/4 inch port.\n\nIt is the best match for rigs with a long run of plumbing and a busy pump. It earns its slot for larger systems.",
     "specs": [
       "2 gallon (8L), 87 PSI max",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GJuhyiJDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4VYH5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4VYH5P?tag=rvgearlab-amz-20",
     "description": "SEAFLO 39 ounce (1.0 L) accumulator lists a 10 PSI pre-charge, a 125 PSI maximum and an internal rubber bladder that is maintenance free. The listing says it reduces pump cycling and smooths temperature and flow at the faucet.\n\nAgainst SEAFLO 2 Gal, it is much smaller and higher rated. Against MRGVFLO, it is larger with a stated precharge.\n\nIt suits compact installs where space is tight. It is a natural fit for compact installs.",
     "specs": [
       "1.0 L, 10 PSI precharge",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTYPTDADL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3Q3W3NN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3Q3W3NN?tag=rvgearlab-amz-20",
     "description": "oiununo 1.0 L accumulator has a 125 PSI maximum and 1/2 inch MNPT inlet and outlet. The listing says it uses a maintenance-free rubber diaphragm and mounts in any position.\n\nAgainst SEAFLO 1L, it costs less and states a 1/2 inch port. Against MRGVFLO, it is slightly larger.\n\nIt suits owners who want a low-cost 1 liter tank. Think of it as the pick for budget 1l.",
     "specs": [
       "1.0 L, 125 PSI max",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SjrOrdD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY99GHY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY99GHY9?tag=rvgearlab-amz-20",
     "description": "oiununo 68 ounce (2 L) accumulator is built from 18 gauge carbon steel with a 150 PSI maximum and 1/2 inch MNPT connections and a Schrader valve. The listing says it cuts short-cycling and silences water hammer.\n\nAgainst SEAFLO 2 Gal, it has a higher pressure rating and a 1/2 inch port. Against oiununo 1L, it holds twice the volume.\n\nIt suits owners who want a larger, higher-rated tank. Buyers focused on higher-pressure systems will find it a sensible match.",
     "specs": [
       "2 L (68 oz), 150 PSI max",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41araQkYyrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZZ3T83Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZZ3T83Z?tag=rvgearlab-amz-20",
     "description": "MRGVFLO is a 0.75 liter pre-pressurized accumulator factory charged to 10 PSI with a 125 PSI maximum and a 1/2 inch MNPT port. The listing gives dimensions of 7.95 by 4.92 by 4.84 inches and says it works with most 12 and 110 volt pumps.\n\nAgainst SEAFLO 1L, it is smaller. Against oiununo 1L, it states a precharge and dimensions.\n\nIt suits tight spaces and small pumps. It earns its slot for small rigs.",
     "specs": [
       "0.75 L, 10 PSI precharge",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ac9zs1DdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5HW3MN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5HW3MN?tag=rvgearlab-amz-20",
     "description": "CrestWave is a 12 volt water pump and 1 liter accumulator tank set with a five-chamber diaphragm pump rated up to 7 GPM and 70 PSI auto shut-off. The listing says the accumulator reduces cycling and noise and the motor has NSK dual ball bearings.\n\nAgainst the standalone tanks, it adds a pump. Against SEAFLO 2 Gal, it pairs a small tank with a pump.\n\nIt suits owners replacing a pump and adding an accumulator in one order. It is a natural fit for pump and tank upgrades.",
     "specs": [
       "12V pump, 1L accumulator",

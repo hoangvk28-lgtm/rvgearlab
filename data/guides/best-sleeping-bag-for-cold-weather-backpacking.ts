@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31R7Rgj5D1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09LMMMLP5?tag=rvgearlab-amz-20",
     "description": "The TETON LEEF is a lightweight mummy offered in 0, 20 and 30 degree ratings and three sizes. A compression sack comes included, and the roomier mummy cut still packs down small.\n\nCompared with the RIOYALO, it is built around the backpacking use from the start, with the choice of rating letting you buy to your coldest night. Against the Londtren Large, it trades length and plush bulk for a trail-ready profile.\n\nIt suits backpackers who want a real mummy and the freedom to choose their rating. That choice is the biggest advantage for cold weather trips.",
     "specs": [
       "0, 20 or 30 degree options",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417rXa-hoDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBBYY2SM?tag=rvgearlab-amz-20",
     "description": "The Londtren Large is a 90 by 40 inch bag with a thickened shoulder warmer, a zipper draft tube and a drawstring hood. Its 0 to 15°F rating comes with a 20 to 55°F comfort range, and the shell is waterproof 210T polyester.\n\nNext to the TETON LEEF, it carries more bulk and more warmth features. Against the RIOYALO, it adds a shoulder collar and a draft tube rather than a wind buffer.\n\nIt suits short backpacking trips from a trailhead where warmth matters more than weight. It is a short-carry bag, not a thru-hike bag.",
     "specs": [
       "0 to 15°F, 90 x 40 inch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkMSqFwtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075HGJ54K?tag=rvgearlab-amz-20",
     "description": "The RIOYALO 0 Degree bag weighs 5 pounds and packs to 15.6 inches tall by 7.6 inches round. It has 450GSM microfiber fill, a Wind Buffer behind the zipper, and a compression sack with a strap.\n\nCompared with the Londtren Large, it names weight and packed size, which are the two numbers a backpacker needs. Against the MalloMe, it has a lower temperature target and heavier fill.\n\nIt fits budget backpackers who need a cold bag and accept a 5 pound carry. The 190T pongee lining feels soft on skin.",
     "specs": [
       "5 lb, packs 15.6 x 7.6 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51o8i3JewkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1S2FZ11?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1S2FZ11?tag=rvgearlab-amz-20",
     "description": "The MalloMe is rated 32°F to 65°F, weighs 4.4 pounds and fits a 6 ft adult. It has a waterproof outer shell, double-sided snag-free zippers and a drawstring headrest.\n\nCompared with the RIOYALO, it is about a pound lighter on paper and rated milder. Against the TETON LEEF, it states a single temperature range, which makes the buying choice simpler.\n\nIt suits backpackers who camp near freezing, in early spring or late fall. It also wipes clean and can be machine washed.",
     "specs": [
       "32°F to 65°F, 4.4 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bw4CLZZAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KBF16ZL?tag=rvgearlab-amz-20",
     "description": "The MEREZA 0 Degree bag is a 32.3 by 90.5 inch rectangle with a waterproof windproof 210T shell and a 3D hood. A plush pillow and a compression sack come in the box.\n\nIt undercuts the Londtren Large and RIOYALO on price while adding a pillow neither has. Against the MalloMe, it offers more room and a stated 40°F comfort temperature.\n\nIt suits first-time cold-weather campers on a tight budget who walk only a short distance. The large compression sack opening helps with packing.",
     "specs": [
       "32.3 x 90.5 inch rectangle",

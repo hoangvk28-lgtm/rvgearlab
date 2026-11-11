@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418Q4VMy1AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FG336RGP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FG336RGP?tag=rvgearlab-amz-20",
     "description": "The Foam Global Roam 2.0 is a 12 inch hybrid RV short king mattress with gel memory foam over a coil support layer. It has a luxury firm feel, uses CertiPUR-US certified foam and is made in the USA.\n\nAgainst the ESHINE 10 inch hybrid, it is two inches thicker and firmer, which reduces over sinking for heavier sleepers. It suits couples who want a firmer hybrid that fits a short king platform at a fair mid range price.",
     "specs": [
       "12 inch hybrid short king",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RozHEejSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLQ9H2YJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLQ9H2YJ?tag=rvgearlab-amz-20",
     "description": "The Brooklyn Bedding Signature Hybrid Short King measures 72 by 75 inches at 13 inches thick with individually encased coils. It layers quilt foam, gel swirl memory foam, VX responsive foam and VariFlex foam under a breathable quilted cover.\n\nCompared with the Foam Global Roam 2.0, it is a full inch thicker and offers a choice of Soft, Medium or Firm. It is the pick for owners who treat the RV bed like a home bed and want the most refined build.",
     "specs": [
       "13 inch hybrid, encased coils",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y9ejk5ezL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPPQ9GT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPPQ9GT4?tag=rvgearlab-amz-20",
     "description": "The ESHINE Short King is a 10 inch hybrid that measures 72 by 75 inches and is built from four layers: 1.7 inches of Air Sense foam, 1 inch of high density foam, a 6.3 inch spring system and 1 inch of support foam. It has a bamboo cover and medium firmness.\n\nIt undercuts the Foam Global Roam 2.0 on price while staying a hybrid, and it is two inches thinner, which helps on low platforms. It suits owners who want coil support in a thinner, mid priced mattress.",
     "specs": [
       "10 inch hybrid, 72x75",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P3ecrEAZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WFJ5NJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WFJ5NJL?tag=rvgearlab-amz-20",
     "description": "The Excel Sleep Patriot is a 10 inch memory foam mattress in the 72 by 75 inch RV short king size, made of 8 inches of high density base foam and 2 inches of carbon cooling gel memory foam. It is handcrafted in the USA and CertiPUR-US certified.\n\nUnlike the three hybrids here, it is all foam, so it is lighter and quieter and has no coils to feel. It suits sleepers who prefer a deep contouring feel and want an American made foam bed.",
     "specs": [
       "8 inch base plus 2 inch gel foam",

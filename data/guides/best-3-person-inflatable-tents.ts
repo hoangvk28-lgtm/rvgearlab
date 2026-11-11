@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61Zt3TuatML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8MJFF7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8MJFF7?tag=rvgearlab-amz-20",
     "description": "The YOLENY inflatable tent measures 8.5 x 7.2 x 5.9 ft with 61 sq ft of floor space and is rated for 3 to 4 people. An integrated air-beam frame removes the need for traditional tent poles.\n\nA 10.8 x 8.9 ft detachable canopy can be fitted at the front entrance for a shaded seating area or moved to the rear, which neither the catnaoa nor the Outvita lists. It weighs about 28.7 lb, so it is heavier than the YOYIOTDR yet still manageable for car camping.\n\nA couple or a small family with a love of shaded seating will get the most from it. The built-in power cable port is a useful extra for a fan or lights.",
     "specs": [
       "8.5 x 7.2 ft, 61 sq ft floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41COTZreGcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZRFZPWT?tag=rvgearlab-amz-20",
     "description": "The catnaoa inflatable glamping tent is rated for 2 to 3 people and measures 87 x 87 x 77 inches. Its integrated air poles inflate with a hand pump in about three minutes, and a 77 inch center height lets adults sit and stand comfortably.\n\nIt is the most compact floor of the group, so it works best when three people sleep close or a pair want extra room. It is built from 210D thickened Oxford fabric, lighter than the Outvita's 420D, with one mesh door and three mesh windows for airflow.\n\nChoose it for a family of three with kids, or a pair of adults who want a simple air tent that goes up fast. The square floor keeps everyone close.",
     "specs": [
       "87 x 87 x 77 in interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v+Pa5MD8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRZSCBG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRZSCBG8?tag=rvgearlab-amz-20",
     "description": "The YOYIOTDR is an inflatable tent for 2 to 4 people with a transparent skylight, an awning and a high-pressure hand pump. It weighs 20.7 lb and packs to 23.6 x 10.2 x 10.8 inches.\n\nThat is the lightest weight listed among these four, and the packed size is smaller than the YOLENY's 27.6 inch bag. It adds an awning like the YOLENY, while skipping the front-or-rear canopy choice.\n\nIt suits campers who carry gear from the parking spot and want an air tent with some shade and stargazing built in. The mesh windows and waterproof fabric cover the basics.",
     "specs": [
       "Weighs 20.7 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+-WbSdGLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV24HP59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV24HP59?tag=rvgearlab-amz-20",
     "description": "The Outvita is rated for 3 to 5 people and measures 116.1 x 81.1 x 78.3 inches for about 65 sq ft of space. It uses 420D Oxford cloth with a PU3000mm rating and PVC air beams.\n\nThe longer floor gives three people more room than the catnaoa, and the heavier fabric gives a documented waterproof rating the YOYIOTDR does not list. One person can set it up and pack it in 10 to 15 minutes.\n\nIt is for three campers who want space to stretch or a few extra sleepers when friends visit. A repair kit for the air beams is included.",
     "specs": [
       "3-5 person, about 65 sq ft",

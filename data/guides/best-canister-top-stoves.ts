@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418RkKAziYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSVSVCMK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSVSVCMK?tag=rvgearlab-amz-20",
     "description": "The CAMPINGMOON OD-4 is a canister top stove rated at 4200 W with a 101 mm burner head that has 490 outlets. It has a built-in pressure regulator, push-button electronic ignition and a CNC metal flame control knob.\n\nThat regulator keeps a steady blue flame as the canister empties, which the Odoland 3500W does not mention. The wide burner head spreads heat across coffee pots, pans and woks.\n\nIt suits campers who want stronger output and a steadier flame from a canister top stove. It supports pots 3.9 inches and larger and comes with a drawstring bag.",
     "specs": [
       "4200 W, 101 mm burner head",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxFcZEApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0829RKQXZ?tag=rvgearlab-amz-20",
     "description": "The Odoland 3500W is a foldable canister stove with a windshield design, piezo ignition and a flame controller. It makes up to 3500 W and the listing says it boils 1 L of water in around 3 minutes.\n\nIt comes with two connectors and is compatible with 7/16 thread single propane or butane-propane canisters (EN 417). It is the lowest priced of the two and folds into a carrying case.\n\nIt suits budget backpackers who want a built-in windshield and piezo ignition. Aluminum alloy and stainless steel make up the body.",
     "specs": [
       "3500 W, piezo ignition",

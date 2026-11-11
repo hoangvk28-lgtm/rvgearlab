@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eKyYW21GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08N82L51Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08N82L51Q?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW0650 TrackPro states 6,000 lb gross towing and 600 lb tongue weight with a pre-installed 2-5/16 inch ball. Blue Ox's BXW0650 TrackPro is a weight distribution hitch with spring bars rated 600 lb tongue weight and 6,000 lb gross towing, a 2-inch receiver, a 7-hole shank and a pre-installed 2-5/16 inch ball.\n\nIt matches a 600 lb load exactly and includes the shank, unlike Eaz-Lift Elite 600. It costs more than the Eaz-Lift kits.\n\nBest for a 600 lb tongue weight with a trailer up to 6,000 lb. It suits trailers up to 6,000 lb.",
     "specs": [
       "6,000 lb, 600 lb tongue weight",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nnAFIsw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0024E6XBA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0024E6XBA?tag=rvgearlab-amz-20",
     "description": "Eaz-Lift's Elite 600 lb is a round spring bar kit with a height-adjustable forged shank. Eaz-Lift's Elite 600 lb weight distribution hitch has universal round spring bars that fit either side with a positive latching action and a height-adjustable forged shank. The U-bolts and chain package are pre-installed on the bars.\n\nIt states a 600 lb rating in its title and costs less than Blue Ox BXW0650. No sway control is mentioned.\n\nBest for a 600 lb tongue weight on a budget. It is a straightforward 600 lb option for lighter trailers.",
     "specs": [
       "600 lb round spring bar kit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314fSP82k9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBLX4DM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBLX4DM?tag=rvgearlab-amz-20",
     "description": "Eaz-Lift's Elite-S 48191 is titled 600 lb but its text states 800 lb maximum tongue weight. Camco's Eaz-Lift Elite-S 48191 is a chain-free weight distribution hitch with permanent, built-in sway control using two points of steel-on-steel bracket friction. The title says 600 lb, while the text gives an 800 lb maximum tongue weight and 8,000 lb maximum gross trailer weight.\n\nIt adds permanent built-in sway control and costs more than Eaz-Lift Elite 600. The title and text disagree.\n\nBest for a trailer needing built-in sway, once the rating is confirmed. The title and text disagree, so confirm the rating before ordering.",
     "specs": [
       "600 lb title, 800 lb max TW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31nkdhy2GSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084SB8LZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084SB8LZQ?tag=rvgearlab-amz-20",
     "description": "Camco's R6 lists a 1,000 lb maximum tongue weight with adaptive sway control. Camco's Eaz-Lift ReCurve R6 is a weight distribution hitch with adaptive sway control that the listing says adjusts to road conditions and disengages for tight turns.\n\nIt is 400 lb above a 600 lb load and costs far more than the Eaz-Lift kits. It disengages for tight turns.\n\nBest for a premium sway system. It is a premium option for owners who want sway control that can be switched off for backing.",
     "specs": [
       "15,000 lb ball, 1,000 lb tongue",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PbRv4m3ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T36EJ36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T36EJ36?tag=rvgearlab-amz-20",
     "description": "Camco's R6 48734-A is a 1,200 lb kit that rotates with the trailer. Camco's ReCurve R6 48734-A is a 1,200 lb weight distribution kit. The listing says the hitch and trailer rotate together about the ball with adaptive sway control.\n\nIt is double a 600 lb load and costs a little less than Camco R6 1,000 lb. The listing gives few specs.\n\nBest only for a future heavier trailer. Confirm the rating details with the seller.",
     "specs": [
       "1,200 lb R6 kit",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B9fzDnUbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X78SK84?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X78SK84?tag=rvgearlab-amz-20",
     "description": "ProPride's 3P for a 2 inch receiver is listed for 1,000 to 1,400 lb of weight distribution. ProPride's 3P Jim Hensley hitch is listed for sway elimination and 1,000 to 1,400 lb of weight distribution, in this version for a 2 inch receiver and the 1400 model. The listing gives no other specs.\n\nIt costs far more than any other pick and is rated well above 600 lb. The listing is brief.\n\nBest only for a buyer committed to the ProPride design. Confirm the exact ratings with the seller.",
     "specs": [
       "2 inch receiver, 3P model",

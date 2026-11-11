@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41c3l3jaR1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGWTY6VF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGWTY6VF?tag=rvgearlab-amz-20",
     "description": "The VATRER is a 12V 300Ah LiFePO4 battery with self-heating and app monitoring. The listing says the BMS watches temperature and starts the heater when the pack falls below 0 degrees C while charging above 10A, and the app reports remaining capacity, voltage, current, power and faults.\n\nIt is the largest capacity here, 100Ah above the yeagulch and three times a 100Ah drop-in. It is also the only pick with an app and a heating function, and the listing quotes about 4.3 hours to charge with a 14.6V 70A charger.\n\nIt suits van and RV builds that run a fridge, heater fan and inverter for days. The heating feature targets campers who charge in freezing temperatures.",
     "specs": [
       "12V 300Ah LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z88V9T45L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6YW2CJ?tag=rvgearlab-amz-20",
     "description": "The yeagulch is a 12V 200Ah LiFePO4 battery with a 200A BMS, weighing 58.86 lbs and measuring 20.08 by 8.07 by 8.46 inches. The listing claims 4000 cycles at 100 percent depth of discharge, 6000 at 80 percent and up to 15000 at 60 percent.\n\nIt sits between the VATRER and the 100Ah batteries, with 200Ah in one case at a middle price. Compared with the SUPER EMPOWER pair, it keeps the capacity in a single battery, and it supports up to 4 in series or 4 in parallel.\n\nIt suits campers who want a single big battery for a fridge, lights and an inverter. The listing also notes compatibility with 12V trolling motors in the 55 to 62 lbs thrust range.",
     "specs": [
       "12V 200Ah, 200A BMS",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-k-X5wrnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2W9GCC?tag=rvgearlab-amz-20",
     "description": "The LIPULS is a 12.8V 100Ah LiFePO4 battery built to BCI Group 24 dimensions of 10.23 by 6.61 by 8.30 inches. It carries a 100A smart BMS, delivers 1280Wh and the listing quotes 56.72Wh per pound and a 10-year lifespan.\n\nIt is the pick built to replace a Group 24 lead-acid battery without changing the box. Against the VEMDIA Group 31 it is smaller, and it allows 4 in series and 4 in parallel for up to 400Ah.\n\nIt suits campers swapping lead-acid for lithium in an existing battery compartment. The cylindrical cells are described as improving stability and heat management.",
     "specs": [
       "12.8V 100Ah Group 24",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LTEgM99JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP525PFP?tag=rvgearlab-amz-20",
     "description": "The VEMDIA is a Group 31 LiFePO4 battery rated 12V 100Ah with a 100A smart BMS, weighing 24 lbs. The listing quotes 15,000+ cycles at 60 percent depth of discharge, 8,000+ at 80 percent, discharge from -4 to 140 degrees F and a charge in about 5 hours at 14.6V 20A.\n\nIt costs less than the LIPULS and weighs about 2 lbs more than one SUPER EMPOWER battery, while using a larger Group 31 case. It is the lowest-priced 100Ah lithium here.\n\nIt suits campers who need a 100Ah bank on a budget and have room for a Group 31 case. The listing mentions trolling motors and RV uses.",
     "specs": [
       "12V 100Ah, Group 31",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xsrlCtKOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN4BYHNX?tag=rvgearlab-amz-20",
     "description": "The SUPER EMPOWER is a set of two 12.8V 100Ah LiFePO4 batteries in BCI Group 24 size, each 21.6 lbs with M8 terminals. The listing recommends a 12V LiFePO4 charger at 14.4 to 14.6V and notes MPPT or PWM solar in lithium mode.\n\nIts cold-weather logic stops charge when the pack drops under freezing and cuts discharge at -4 degrees F, details the LIPULS listing does not spell out. Two batteries give 200Ah in parallel or two separate banks.\n\nIt suits campers who want flexibility, such as one battery for the camper and one for a portable setup. Charging resumes above 41 degrees F.",
     "specs": [
       "2 x 12.8V 100Ah Group 24",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yQu5ayZwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7ZL6XK9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7ZL6XK9?tag=rvgearlab-amz-20",
     "description": "The SEFEPODER is a two-pack of 12V 20Ah LiFePO4 batteries with a 40A BMS and a listing claim of 4000+ cycles. The listed uses include electric scooters, lighting, a 12V router, RV or camping, riding toys and a fish finder.\n\nIt is the smallest and lowest-capacity set of the six, and the only one aimed at tiny loads. The listing asks you to use a dedicated LiFePO4 charger because an automatic SLA charger may not fill it.\n\nIt suits campers who want two compact batteries for lights and electronics. Two packs let you swap one while the other recharges.",
     "specs": [
       "2 x 12V 20Ah LiFePO4",

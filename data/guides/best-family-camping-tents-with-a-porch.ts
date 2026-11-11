@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j+pwSvDuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFCFR5VG?tag=rvgearlab-amz-20",
     "description": "The Portal cabin tent is 14 ft by 8 ft with an 80 inch center and room for 3 full-size airbeds. A two-room layout with separate doors sits behind a 14 ft by 7 ft 6 in by 6 ft 6 in porch. Extras include a gear loft, plus a mud mat and divider.\n\nAgainst the UNP it costs about 54 dollars less and adds two E-ports and a stated porch size. Compared with the larger Portal tunnel it trades 5 ft of length for a porch with its own measurements and a divided sleeping area.\n\nIt suits families who want a porch with a stated size and a place to keep kids' gear organized. Six mesh windows, two ground vents and taped seams complete the build.",
     "specs": [
       "14 x 8 ft, 80 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gcfV9tWCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7XG72V2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7XG72V2?tag=rvgearlab-amz-20",
     "description": "The Portal tunnel runs 19 by 8 ft, stands 80 inches at the center and adds an 8 ft front screen room. The rating is up to 10 people, and the listing advises planning for 5 to 6 campers for comfort.\n\nAgainst the UNP it adds a screened front room and PFAS-free fabric. Compared with the Portal cabin it has a longer floor and a screened porch where the cabin has an open one.\n\nIt suits families of five or six who want standing room and a bug-free sitting area. The porch is open-floor, so chairs sit directly on the ground.",
     "specs": [
       "19 x 8 ft, 80 in center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lDVX9oKML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK6H23J5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK6H23J5?tag=rvgearlab-amz-20",
     "description": "The UNP tunnel tent is 20 ft (14 plus 6) by 9 ft by 80 inches and fits 2 full airbeds or 8 sleeping bags. It has 4 oversized mesh windows, 2 doors with a mesh ceiling, a 1500mm polyurethane coating and 8 steel leg poles.\n\nIt is the widest at 9 ft and the only one with a stated sleeping-bag count of 8. Compared with the Portal tunnel it states steel leg poles.\n\nIt suits families who want a wide floor and steel leg poles for gusty sites. Color coding guides the two-person pitch, which takes about 15 minutes.",
     "specs": [
       "20 x 9 x 80 in tunnel",

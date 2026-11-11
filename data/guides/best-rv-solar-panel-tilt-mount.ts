@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PlPNDMsJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CB8P32VX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CB8P32VX?tag=rvgearlab-amz-20",
     "description": "The Oungy 14-27 inch kit is an aluminum alloy tilt mount with arms that extend from 14 to 27 inches and set a 15 to 30 degree tilt. The listing says it fits panels from 100W to 450W, which covers most full-size RV panels. The kit includes two bases with extendable arms, L-brackets, swivel brackets, screws and pads, along with an English manual with diagrams, and it is designed primarily for flat roofs but also works on boats, garage floors and sturdy walls.\n\nCompared with the Oungy 50W to 400W kit, this version covers larger panels at $1 less, while the other lists smaller panels down to 50W. Compared with the AeternaSol 28 inch, it adds a stated 450W upper limit and an extending arm for $6 less.\n\nIt suits an RV owner with a 200 to 400 watt rooftop panel who wants to tilt it at camp. Lightweight corrosion-resistant aluminum keeps the roof load down.",
     "specs": [
       "Arms extend 14 to 27 inches, 15 to 30 degree tilt",
@@ -56,7 +56,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hm6rPCaML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFCLDHVG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFCLDHVG?tag=rvgearlab-amz-20",
     "description": "This Oungy kit uses the same aluminum build as the 14-27 inch version, with arms extending 14 to 27 inches and a 15 to 30 degree tilt, with a listing range of 50W to 400W. It includes two bases with extendable arms, L-brackets, swivel brackets, screws and pads, plus an English manual, and costs $34.99. The listing's title mentions sizes of 50, 70, 100, 150 and 200 watts, while the feature text extends the range to 400W.\n\nCompared with the Oungy 100W to 450W kit, it costs $1 more and reaches down to 50W panels, which suits smaller setups. Compared with the Renogy, it handles a broader range of panel brands and adds aluminum arms for $2 more.\n\nIt suits a camper with a portable-size panel, a van owner with a 100 watt panel or someone who plans to upgrade panels later. The arms extend to fit a range of widths.",
     "specs": [
       "Arms extend 14 to 27 inches, 15 to 30 degree tilt",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EUTSEVmNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H2MD6C5D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H2MD6C5D?tag=rvgearlab-amz-20",
     "description": "The AeternaSol 28 inch kit is sold for 50, 100 and 200 watt panels and includes four fixed brackets, two tilt brackets, nine M6 bolts, nine M6 nuts, 27 M6 washers, six M8 bolts, six M8 wing nuts and six self-drilling screws. All bolts, nuts and washers are stainless steel for rust resistance, and pre-drilled holes with precise alignment speed assembly. The adjustable tilt lets you set an angle through the year.\n\nCompared with the Renogy 28 inch kit, the AeternaSol costs $7 more and adds a longer parts list with stainless bolts and self-drilling screws, while the Renogy lists specific panel models. Compared with the Oungy kits, it uses fixed and tilt brackets rather than extendable arms.\n\nIt suits a DIY installer who wants everything in the box, a boat or shed owner who needs corrosion resistance and a camper with a 100 or 200 watt panel. It mounts on RV roofs, trailers, boats, cabins and sheds.",
     "specs": [
       "28 inch brackets for 50, 100 and 200 watt panels",
@@ -112,7 +112,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BJOwMoyBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CSKFWK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CSKFWK7?tag=rvgearlab-amz-20",
     "description": "The Renogy 28 inch kit is made for Renogy panels under 100W, 100W N-type panels and 120W Shadowflux panels. It includes four fixed L-brackets, two tilt L-brackets, six M8 plastic knob screws, six M8 wing nuts, four M6 hex cap bolts and four M6 split lock washers, and the fasteners are stainless steel with precise hole placement for quick assembly. The foldable tilt legs fold flat when you drive.\n\nCompared with the AeternaSol, the Renogy costs $7 less and is matched to named Renogy panels, while the AeternaSol offers a longer parts list. Compared with the Riyhch four-pack, it costs $10 more and adds foldable tilt legs and brand-matched hole placement.\n\nIt suits a Renogy panel owner who wants predictable hole alignment. The foldable tilt legs make it easy to lay the panel flat when you move.",
     "specs": [
       "28 inch brackets with foldable tilt legs",
@@ -140,7 +140,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ykyubAv9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT4V3JZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT4V3JZD?tag=rvgearlab-amz-20",
     "description": "The Riyhch four-pack adjusts from 10 to 60 degrees, the widest tilt range in the group, and is built from 6005-T5 aluminum alloy, which the listing describes as strong, hard, corrosion resistant and lightweight. The pack includes four brackets, eight screws and four spacers, and the design suits RVs, caravans, boats, flat roofs and garages. At $22.99 it is the lowest-priced kit.\n\nCompared with the Oungy kits, the Riyhch costs about $11 less and reaches 60 degrees rather than 30. Compared with the YIDU69Q, it adds a defined 10 to 60 degree angle range and a stronger alloy for $1.99 less.\n\nIt suits a camper who winters in the north and wants a steep tilt, a builder who needs four individual brackets and a buyer who wants the lowest price. Four brackets cover a single panel with two pairs.",
     "specs": [
       "Adjusts 10 to 60 degrees, four brackets",
@@ -168,7 +168,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qz45wtm1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5LSP153?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5LSP153?tag=rvgearlab-amz-20",
     "description": "The YIDU69Q kit comes with four sets of brackets made from 6063 aluminum alloy with an anodized surface for wear resistance, corrosion resistance and insulation. Each bracket is 1/8 inch thick and 4 inches wide, with an adjustable length of 4 to 7 inches and an angle range of 20 to 160 degrees, and uses M8 by 20mm bolts. The pack includes 12 nuts and bolts.\n\nCompared with the Riyhch, the YIDU costs $2 more and offers thicker 1/8 inch brackets with anodizing and a wide pivot angle, while the Riyhch lists a tidy 10 to 60 degree tilt. Compared with the Renogy, it offers four adjustable brackets in place of a fixed leg design for $8 less.\n\nIt suits a builder who wants to fabricate a custom tilting rack, a boat or trailer owner who wants anodized metal and anyone who needs a pivot that swings through a wide arc.",
     "specs": [
       "6063 aluminum, anodized, 1/8 inch thick, 4 inch wide",

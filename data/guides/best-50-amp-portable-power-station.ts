@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
     amazonQuery: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41kxtROuwFL._SL500_.jpg",
     specs: ["Capacity: 5,120Wh","Continuous output: 1,800W","Listed weight: 112 lb","Runtime claim: Up to 2.2 hours"],
     specList: [{"label":"Capacity","value":"5,120Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Listed weight","value":"112 lb"},{"label":"Runtime claim","value":"Up to 2.2 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
     amazonQuery: "Jackery HomePower 3600 Plus Power Station, 3584Wh, 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FM8653F1?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/31MKjmDYAXL._SL500_.jpg",
     specs: ["Capacity: 3,584Wh","Continuous output: 3,600W","Runtime claim: Up to 2 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"3,584Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
     amazonQuery: "ABOK Ark3600 Portable Power Station 3600W, 3840Wh LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0F47JVR5B?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41C+1aHks5L._SL500_.jpg",
     specs: ["Capacity: 3,840Wh","Continuous output: 3,600W","Surge output: 4,500W","Runtime claim: Up to 1.29 hours"],
     specList: [{"label":"Capacity","value":"3,840Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Surge output","value":"4,500W"},{"label":"Runtime claim","value":"Up to 1.29 hours"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
     amazonQuery: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41f6WDjPR0L._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
     amazonQuery: "EF ECOFLOW Portable Power Station 3600Wh DELTA Pro, 120V 3600W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C1Z4GLKS?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41pVhqDjojL._SL500_.jpg",
     specs: ["Capacity: 3,600Wh","Continuous output: 3,600W","Runtime claim: Up to 2.8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"3,600Wh"},{"label":"Continuous output","value":"3,600W"},{"label":"Runtime claim","value":"Up to 2.8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

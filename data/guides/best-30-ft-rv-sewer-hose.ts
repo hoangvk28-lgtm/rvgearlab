@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dpznMgdLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHPLV4PL?tag=rvgearlab-amz-20",
     "description": "The AVERONR 30 ft hose is a full 30 foot run of commercial-grade TPE, about 12 meters. It has reinforced threaded fittings, locking bayonets and a cold-weather flexible build for leak-proof, odor-tight connections.\n\nIt is the only pick here that reaches 30 feet in one piece and it costs less than the Camco RhinoFLEX 20 Ft. The tradeoff is accessories, since it lists no clear elbow.\n\nBest for sites where the riser is far from the pad and a joint-free hose matters. A direct answer to a 30 foot need.",
     "specs": [
       "30 ft commercial-grade TPE",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oxxXzHvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 20 ft kit includes two 10 foot hoses with pre-attached fittings, a clear 4-in-1 elbow and four caps. A steel wire core runs through the 23 mil polyolefin wall.\n\nIt is the priciest of the 20 foot kits and the only one with a wire core. Compared with the AVERONR 30 Ft, it gives up ten feet and brings a full accessory set.\n\nBest for owners whose route is closer to 20 feet and who want a branded kit. A strong pick for regular dumping.",
     "specs": [
       "2 x 10 ft, 23 mil polyolefin",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z1inPKJ-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F651C4GZ?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics kit totals 20 feet from two 10 foot hoses and adds four covers plus a 90 degree four-in-one ground converter. It is a plain, complete package.\n\nIt costs less than the Camco RhinoFLEX 20 Ft and about the same as the DUMPMAN 2x10 Kit. The detail on material and wall is thinner, so it is the plainest listing.\n\nBest for buyers who want a simple 20 foot base from a retail brand. A balanced choice for casual use.",
     "specs": [
       "2 x 10 ft, four covers",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VhDN69JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 2x10 kit offers two 10 foot TPE hoses with rotating fittings, a clear 4-in-1 elbow and four end caps. Each hose has a 24 mil wall and collapses to 45 inches.\n\nIt is the lowest priced kit here and adds a clear elbow the AVERONR lacks. Compared with the Amazon Basics kit, it names its wall thickness and collapsed length.\n\nBest for budget buyers who want to build a run from short sections. A sensible kit for tight bumpers.",
     "specs": [
       "2 x 10 ft, 24 mil TPE",

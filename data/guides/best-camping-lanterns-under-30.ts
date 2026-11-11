@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wiOv7wtJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW3CZJR5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW3CZJR5?tag=rvgearlab-amz-20",
     "description": "The Amkulop is a rechargeable hanging lantern with an IPX5 water-resistant body and a 10,500mAh battery. It is built to light a tent through a long night and doubles as a power source for small devices through its USB port.\n\nAt about $26 it costs a dollar more than the iodoo 4000LM and holds a much larger battery than the Lepro AAA 4-Pack or the VAVOFO. It gives up the highest lumen number in the guide for a bigger battery.\n\nIt suits families who leave a lantern on all night in a tent. The IPX5 rating shrugs off rain at the pole.",
     "specs": [
       "10,500mAh rechargeable",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j9HrfOs4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YY4S4PJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YY4S4PJ?tag=rvgearlab-amz-20",
     "description": "The iodoo claims 4000 lumens from a rechargeable body with an IPX5 rating. A hook and a magnetic base let it hang from a pole or stick to a metal surface, and it hangs upside down for wide light.\n\nAt about $25 it costs a dollar less than the Amkulop and carries the highest lumen number in the guide. The Amkulop beats it on battery size, and the Lepro AAA pack beats it on weight.\n\nIt suits a group site where one lantern must light a picnic table. The magnet base helps on a truck or trailer.",
     "specs": [
       "4000 lumens claimed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ltDmReucL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GDWKCV4C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GDWKCV4C?tag=rvgearlab-amz-20",
     "description": "VAVOFO is a 20W lantern with 25 LEDs rated at 1200 lumens, a 3000mAh battery and a Type-C port with the cable included. It weighs 150g, measures 5.7 by 3.15 inches, and offers stepless dimming plus an emergency flash mode.\n\nAt about $10 it costs $16 less than the Amkulop and holds a third of the battery. The stepless dimming lets you trade brightness for run time, which the three-mode lanterns cannot do.\n\nIt suits a car camper who wants one cheap rechargeable lantern. It also works for a power outage.",
     "specs": [
       "1200 lumens, 25 LEDs",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Xz6V2KytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1TGW1S?tag=rvgearlab-amz-20",
     "description": "YZMYUKS lists 1500 lumens, a Type-C port, five modes across three light colors and a foldable body that weighs 0.64 lb. The body collapses flat for packing.\n\nAt about $10 it costs the same as the VAVOFO and offers three light colors, with a body that folds. It gives up the stepless dimming of the VAVOFO.\n\nIt suits a packed trunk or a backpacker's kit. Choose the warm color for the tent.",
     "specs": [
       "1500 lumens, Type-C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413TbkOsSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083TXB5QY?tag=rvgearlab-amz-20",
     "description": "The Lepro pack contains four small LED lanterns that run on AAA batteries, three of which come with each lantern. Each weighs 55g, shines from 80 to 140 lumens in three modes and has a hook for tent loops.\n\nAt about $16 it costs about $6 more than the VAVOFO and gives you four lights. Each lantern is far dimmer than the rechargeable picks, and the AAA cells are easy to swap on the road.\n\nIt suits a family tent where each child needs a light. Replacement cells are cheap.",
     "specs": [
       "Four lanterns, AAA powered",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31klqisFs0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSKZ47Y5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSKZ47Y5?tag=rvgearlab-amz-20",
     "description": "This compact lantern weighs 55g, has three warm brightness levels and a spring-loaded top hook. It charges by USB-C from empty to full in about 2 hours and has a shatterproof PC shade.\n\nAt about $5 it is the lowest-priced pick and costs $5 less than the VAVOFO. It is also the smallest, so it fits an emergency kit or a pack pocket.\n\nIt suits a backpack, a glove box or a bedside table. The warm glow is easier on the eyes in a tent.",
     "specs": [
       "55g, three warm levels",

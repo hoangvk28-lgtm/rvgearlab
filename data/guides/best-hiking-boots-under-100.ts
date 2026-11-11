@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315X4JsHrJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWCF5WQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWCF5WQ?tag=rvgearlab-amz-20",
     "description": "The Columbia Newton Ridge Plus II is the boot that stretches a hundred dollars furthest. Its listing describes waterproof full-grain leather with a mesh bootie construction, a lightweight durable midsole and a lace-up closure for an adjustable fit.\n\nIt adds Omni-Grip multi-terrain traction, which the Columbia Transverse also carries. The Newton Ridge leans on leather where the Transverse mixes leather and mesh. Against the Coostar Tactical, it comes from a brand that spells out its waterproof and traction systems by name.\n\nIt is the right boot for a hiker who wants one dependable pair for weekend trails in mixed weather. Leather uppers wear in and keep their shape over seasons.",
     "specs": [
       "Waterproof full-grain leather",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j7N6asaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLWCM1Y9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLWCM1Y9?tag=rvgearlab-amz-20",
     "description": "The Columbia Transverse puts its weight behind Omni-Tech, a multilayered, seam-sealed waterproof construction meant for prolonged exposure to moderate rain and snow. Techlite midsole cushioning and Omni-Grip traction round out the spec.\n\nNext to the Newton Ridge Plus II, it uses a leather and mesh upper with metal hardware and a cushioned collar, which keeps it a touch lighter on the foot. It also costs a few dollars less.\n\nIt suits hikers who regularly meet rain, drizzle or slush and want seam-sealed protection from a name brand. The cushioned collar helps on long, wet days.",
     "specs": [
       "Seam-sealed Omni-Tech waterproofing",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S-mcDi7PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7L9N5YH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7L9N5YH?tag=rvgearlab-amz-20",
     "description": "The Coostar Tactical is a lightweight work-style boot with a waterproof upper, seamless mesh construction and a strong side zipper. The lightweight midsole is described as cushioning enough for all-day wear.\n\nCompared with the NORTIV 8 Ankle High, it swaps laces for a zipper, which is a real time saver on cold mornings. It sits between the Columbia boots and the lowest-priced options on cost.\n\nIt suits hikers who also wear boots at work or on the road and want speedy entry. The slip-resistant sole handles trail and shop floor alike.",
     "specs": [
       "Side zipper entry",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AVGmhQDwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L58Z27Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L58Z27Z?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Ankle High offers a removable shock-absorbent insole and lightweight flexible EVA midsoles aimed at reducing foot fatigue. A rubber sole with advanced traction sits underneath.\n\nAgainst the NORTIV 8 Lightweight, it focuses on comfort and flexibility rather than a toe cap and reinforced heel. It gives up the premium materials of the Columbia pair for a price roughly half as high.\n\nIt suits day hikers, campers and cyclists who want a comfortable all-round boot without spending much. The removable insole can be swapped for a custom one.",
     "specs": [
       "Removable cushioned insole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n7iJqFcPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJSG5LTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJSG5LTV?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight pairs a waterproof membrane construction with a rubber toe cap and a reinforced heel. Soft suede leather and a multi-directional rubber outsole handle abrasion and slick ground.\n\nCompared with the NORTIV 8 Ankle High, it adds protective hardware and a stated membrane, which is why it earns its slot above the cheapest options. It stays just a notch lower in cost than most of the field.\n\nIt suits hikers who kick rocks and drag toes on rooty trails. A flexible removable insole and shock-absorbent midsole keep it comfortable.",
     "specs": [
       "Waterproof membrane build",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wioKZ2ZfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD81DS3G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD81DS3G?tag=rvgearlab-amz-20",
     "description": "The HARENCE Waterproof weighs about 395g per boot in size 10, according to its listing, and pairs a waterproof membrane with a deep-lug anti-slip outsole. The mid-ankle cut is meant for all-season walking.\n\nWhere the NORTIV 8 Lightweight spends on protective features, the HARENCE spends on weight savings and the lowest sticker price of the six. It is the clear choice when budget rules the decision.\n\nIt suits occasional hikers and travelers who want a waterproof boot for a handful of trips a year. Reinforced sole and upper bonding is promised for rugged use.",
     "specs": [
       "About 395g per boot, size 10",

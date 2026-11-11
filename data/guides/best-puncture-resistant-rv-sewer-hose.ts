@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C-scCHmjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B010X65OHE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B010X65OHE?tag=rvgearlab-amz-20",
     "description": "The Lippert Waste Master is a 20 foot extended hose management system with a helical coil on the outside and a smooth inside that helps keep waste from catching. It compresses to 5 feet 6 inches, includes a CAM lock connector and has a UV-protected hose.\n\nIt costs several times more than the TPE kits and replaces the whole hose, nozzle and shut-off. The permanently connected nozzle has a grip handle, shut-off valve and clear view port that no other pick here offers.\n\nBest for owners who want a premium system and a spill-aware nozzle. A top choice for long-term full-time use.",
     "specs": [
       "20 ft, compresses to 5 ft 6 in",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413r6XZF2OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHYRXV1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHYRXV1V?tag=rvgearlab-amz-20",
     "description": "The Estink 10 foot hose is made of premium TPE with a thick 24 mil wall and a four-claw bayonet coupling with rubber seals on both ends. Two leak-proof caps come in the box for storage.\n\nIt is the pick that states puncture resistance most directly among the standard hoses and costs less than half the Waste Master. Next to the Eniora, it is half the length for a similar price.\n\nBest for a short TPE hose where puncture resistance matters. A strong choice for a travel trailer with a short run.",
     "specs": [
       "10 ft, 24 mil TPE",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lxplhk-DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRZCYBS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRZCYBS7?tag=rvgearlab-amz-20",
     "description": "The Eniora 20 foot kit is two 10 foot sections of UV-resistant TPE with four end caps and rubber seals at every connection. The accordion construction compresses for storage, and the 90 degree elbow is a separate purchase.\n\nIt gives double the length of the Estink for a slightly lower price. The UV-stabilized TPE guards against abrasion and sun damage.\n\nBest for larger rigs that need reach plus durability. A well-priced kit for regular dumpers.",
     "specs": [
       "2 x 10 ft, UV-resistant TPE",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415EP5HswOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RWPLH9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RWPLH9F?tag=rvgearlab-amz-20",
     "description": "The Titan 5 foot extension is an uncrushable TPE hose that is puncture and abrasion resistant and works in extreme temperatures. An ergonomic Extend Grip fitting mounts on universal bayonet outlets.\n\nIt costs less than the Estink and is half its length, which suits a small gap. The Extend Grip fitting is the feature that makes it easier to attach than a plain bayonet.\n\nBest for adding a short run to an existing hose. A practical spare for a hose that came up short.",
     "specs": [
       "5 ft TPE extension",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xKI5eFCBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004A2YI5W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004A2YI5W?tag=rvgearlab-amz-20",
     "description": "The Camco Standard 10 foot hose is made of heavy-duty materials built to resist leaks and punctures. It weighs about 1.5 pounds and flexes into tight spaces.\n\nIt is one of the lowest priced hoses here and the lightest. Compared with the Estink, it gives up a stated wall thickness for a lower price and less weight.\n\nBest for occasional campers who want a light, simple hose. A cheap choice for a backup.",
     "specs": [
       "10 ft heavy-duty hose",
@@ -161,7 +161,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p-kE-eTYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0922XJPY1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0922XJPY1?tag=rvgearlab-amz-20",
     "description": "The Camco internal coupler connects two sewer hoses from the inside and comes with two twist-it clamps. It works with Camco hoses, including RhinoFLEX, RhinoEXTREME and Revolution.\n\nIt is the cheapest item here and the only one that repairs a punctured hose. If a section is damaged, it lets you cut the bad part and rejoin the hose.\n\nBest for owners who want a repair path instead of a replacement. A smart addition to any Camco hose kit.",
     "specs": [
       "Joins two hoses internally",

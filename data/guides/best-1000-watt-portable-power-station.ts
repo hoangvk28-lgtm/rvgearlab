@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317mMSggfvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4LPVF48?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4LPVF48?tag=rvgearlab-amz-20",
     "description": "The CYBPULTE stores 1008Wh in a LiFePO4 pack and delivers 1000W continuous, 2000W surge, through three pure sine wave AC outlets. It adds a 140W USB-C PD port, dual 18W USB-A, a 12V car port and a DC barrel port, and accepts up to 400W of AC input for a full charge in about 3.5 hours, with car and MPPT solar charging as well. A 2W LED with strobe and SOS and a backlit LCD that shows runtime round it out.\n\nAt $299.99 it costs about $0.30 per watt-hour, within a cent of the STARYLINE and EBL, and it is $20.02 more than the GRECELL 999Wh. What separates it is the 140W USB-C and the third AC outlet, since the STARYLINE and both 999Wh units give you two. The listing does not publish a weight or a cycle rating, which the STARYLINE and GRECELL do.\n\nPick it for a camper where a laptop, fridge and CPAP share one power station and you want the fastest wall recharge in the group. The caveat is the missing weight, so confirm the carry weight before relying on one-person lifting.",
     "specs": [
       "1008Wh LiFePO4, 1000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bHa8I86iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD12Z4S3?tag=rvgearlab-amz-20",
     "description": "The GRECELL 999Wh delivers 1000W continuous and 2000W peak through two pure sine wave AC outlets from a 999Wh battery rated for 2,000 plus cycles and about 10 years. It weighs 17 pounds, has a 60W USB-C PD, three 18W USB-A QC ports, a 10W wireless pad, a 12V car port and two DC outputs, and comes with a cable storage bag. The listing gives a runtime formula, 999Wh times 0.85 divided by device watts.\n\nAt $279.97 it is the cheapest of the four 1000Wh units, about $0.28 per watt-hour, $20.02 under the CYBPULTE and EBL. Against the STARYLINE 1024Wh at $299.99 it gives up 25Wh and 1,000 cycles of rating, but it is 10.73 pounds lighter at 17 pounds against 27.73. It has a 60W USB-C, not 140W, and two AC outlets, not three.\n\nBuy it if you want 999Wh at the lowest price and the lightest body of the group. The caveat is the weaker USB-C and the shorter 2,000 cycle rating, plus a long recharge time that the bullets I read do not state.",
     "specs": [
       "999Wh, 1000W continuous",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOB71FB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-amz-20",
     "description": "The STARYLINE has the biggest battery here, 1024Wh of LiFePO4 with a 6-layer BMS, rated for more than 3,000 cycles with 80 percent capacity retained and about 6 years of use. It offers two 110V AC outlets, a 60W USB-C, two USB-A and a Starlink-compatible low-interference output, takes up to 300W of solar input, and the listing says a 200W panel charges it in 6 to 8 hours of sun. It weighs 27.73 pounds.\n\nAt $299.99 it is about $0.29 per watt-hour, the same price as the CYBPULTE but with one fewer AC outlet and a lower-power USB-C. It carries the highest rated cycle life of the four 1kWh units, 3,000 against 2,000 for the GRECELL and EBL, but at 27.73 pounds it is 10.73 pounds heavier than the 17 pound units.\n\nChoose it for an RV where the station stays mounted or on the floor and cycles a lot. The caveat is that listed weight, which a single person can carry but not comfortably up steps, and that the wall recharge time is not stated.",
     "specs": [
       "1024Wh LiFePO4, 1000W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zQVKwcjaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4M6H5M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4M6H5M8?tag=rvgearlab-amz-20",
     "description": "The EBL 999Wh delivers 1000W continuous and 2000W peak through two pure sine wave outlets at 17 pounds, with a 60W USB-C, three 18W USB-A, a 10W wireless pad, a 12V car port and two DC outputs. Its listing highlights individual switches for each output module, a real-time wattage LCD, pass-through charging, triple MPPT charging and silent dual cooling fans, and rates the battery at 2000 plus cycles.\n\nIt costs $299.98, which is $20.01 more than the GRECELL 999Wh with essentially the same capacity, weight and port list, so the price gap buys the independent output switches and the dual-fan thermal design. It is $0.01 below the CYBPULTE and STARYLINE but gives up an AC outlet to the first and 25Wh and 1,000 cycles to the second.\n\nPick it if you want per-output switches so a forgotten USB module does not drain the battery in storage. The caveat is that at nearly the same price the CYBPULTE gives you more AC outlets and USB-C power, and the GRECELL is cheaper for the same body.",
     "specs": [
       "999Wh, 1000W continuous",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p88ty0hpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H94C9TNW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H94C9TNW?tag=rvgearlab-amz-20",
     "description": "The GRECELL 1000W kit pairs a 1000W pure sine wave power station with a 200W foldable monocrystalline panel with an ETFE surface and a kickstand. The station has dual 100 to 120V AC outlets, a 60W USB-C PD, QC3.0 USB-A ports, a 12V 10A car port, a wireless pad and a DC 5525 port, with pass-through charging, an auto cooling fan and a screen that sleeps after 20 seconds. The listing does not publish the station's watt-hours or weight.\n\nAt $599.99 it is the most expensive pick and the only one that arrives with a panel, so cost per watt-hour cannot be worked out. Compared with the $279.97 GRECELL 999Wh, the extra $320.02 would be the panel and any capacity difference, which the listing leaves unsaid. Its panel is a 200W foldable, which the STARYLINE's optional 200W panel also matches in size.\n\nChoose it if you want a single purchase for a driveway or campsite that needs solar from day one and you are comfortable verifying the missing capacity with the seller. The caveat is exactly that gap: without a stated Wh figure, runtime and value cannot be compared.",
     "specs": [
       "1000W, panel included",

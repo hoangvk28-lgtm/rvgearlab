@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FjAytjuKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYSDDJ1V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYSDDJ1V?tag=rvgearlab-amz-20",
     "description": "The Vekclit kit is made for the Coleman Sundome 6 Person tent and includes two pre-assembled main poles and one rainfly pole in fiberglass. It matches the original size and structure.\n\nIt is the only pick sold for a named tent, which removes guessing at diameter and length. The universal sets need measuring, while this one is cut for the Sundome.\n\nIt suits an owner of the Coleman Sundome 6 Person who wants a complete frame set. The listing frames it as a way to restore stability in minutes.",
     "specs": [
       "For Coleman Sundome 6 Person",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uAe9ECVWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QJ5S1MF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QJ5S1MF?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U 14.7FT pole is a pre-assembled 7001 T6 aluminum rod, 14 ft 8.7 in long with an 8.5mm outer diameter. It weighs 0.66 lb and measures 17.4 inches packed.\n\nIt swaps fiberglass for aluminum and the listing says aluminum avoids cracks and splinters. It is longer than the 12FT sibling and heavier by 0.12 lb.\n\nIt suits an owner of a dome tent with a snapped fiberglass pole who wants a longer-lasting fix. Measure the original before ordering.",
     "specs": [
       "14 ft 8.7 in, 8.5mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xhdJ2Q32L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096S86KVL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096S86KVL?tag=rvgearlab-amz-20",
     "description": "The BRILLIANCE4U 12FT pole is 12 ft 1.4 in long, pre-assembled 7001 T6 aluminum with an 8.5mm outer diameter. It weighs 0.54 lb and folds to 17.48 inches.\n\nIt is shorter and lighter than the 14.7FT rod, and the price is a notch lower. The listing says to pick a pole not shorter than the original.\n\nIt suits a small dome or backpacking tent with a short main pole. Check length and diameter first.",
     "specs": [
       "12 ft 1.4 in, 8.5mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512n3a77LqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSPWRWK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSPWRWK?tag=rvgearlab-amz-20",
     "description": "The Slinvilopa kit has two pre-assembled sets of eight fiberglass sections, 8.69 feet each, with an 8mm (0.31 inch) diameter and high-elastic rope. A double-layer plastic coating resists water, UV and corrosion.\n\nSlinvilopa sets the price floor of the group and is the pick to reach for when the tent is small. The listing names two-person domes, backpacking shelters and canopy frames.\n\nIt suits a small dome or an awning frame that needs thin fiberglass poles. It also works as a beach shade pole.",
     "specs": [
       "2 sets, 8.69 ft, 8mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gaJuf3nBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX6P5BD5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX6P5BD5?tag=rvgearlab-amz-20",
     "description": "The ZAIXIA set has two aluminum beach tent poles with a total connected length of 6.6 feet, built from five short rods. A soft foam ball on top prevents tears.\n\nIt is the only pick sold for beach tents, and it is shorter than the 8.69 foot Slinvilopa. It sets up with no tools.\n\nIt suits a sun shelter that has lost a pole. Fit depends on the tent, so measure.",
     "specs": [
       "6.6 ft, five rods",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Wzc08AkeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBHZVN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBHZVN8?tag=rvgearlab-amz-20",
     "description": "The Sutekus set has two steel poles, each 75 inches assembled from 15 inch sections 0.6 inches in diameter. The pair weighs 1.98 lbs and combines to a 10 foot pole if needed.\n\nIt is the only steel set, and it adjusts in 15 inch sections. It is meant for tarps, awnings and rooftop rainfly support, not as a tent's main frame.\n\nIt suits a camper who needs spare support poles for a rainfly or sun shade. Tube and spring hook are rust-resistant steel.",
     "specs": [
       "75 inch poles, 0.6 inch diameter",

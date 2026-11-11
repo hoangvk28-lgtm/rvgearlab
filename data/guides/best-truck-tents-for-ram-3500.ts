@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NFxhFMiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GX6924FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GX6924FM?tag=rvgearlab-amz-20",
     "description": "The OPL5 is a 6.4 to 6.7 foot bed tent that lists Ram 3500 along with Ram 1500 and 2500, Silverado and F-Series. It measures 255 by 170 by 170 cm (200 plus 55), uses 210D Oxford with PU2000mm silver coating and has 8.5mm fiberglass poles with 19 adjustable straps.\n\nIt gives the most complete spec sheet of the three and costs well under the Ram-titled listings. Compared with those two it names a real bed range and a rainfly.\n\nIt suits Ram 3500 owners who want a clear bed range and a waterproof coating figure. Two side mesh windows give airflow.",
     "specs": [
       "6.4 to 6.7 ft bed range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514E+sXMIrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGPRQBWS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGPRQBWS?tag=rvgearlab-amz-20",
     "description": "The LEIRUIYG is titled for the Ram 3500 and lists a 170cm peak, 155cm bed length and 55cm tailgate extension. It has fiberglass poles and a dual-layer door, with 20 percent thicker Oxford and a weather coating.\n\nCompared with the OPL5 it names the Ram 3500 and carries seller support for compatibility checks. It shares its listing format with the TrimSports, which also names the truck.\n\nIt suits owners who prefer a tent titled for their truck and backed by the seller. Its bed length is listed in centimeters.",
     "specs": [
       "170cm peak, fiberglass poles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514E+sXMIrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HH8N8LWX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HH8N8LWX?tag=rvgearlab-amz-20",
     "description": "The TrimSports is titled for the Ram 3500 with a dome design that keeps generous headroom. It lists heavy-duty fastening straps, ventilation windows and a large entrance door, with dimensions around 66.9 by 61 inches.\n\nIt matches the LEIRUIYG on price and differs in shape, with a clear emphasis on the arched roof. Compared with the OPL5 it puts headroom ahead of a stated bed range.\n\nIt suits campers who want a dome that stands tall inside the bed. The fastening straps tie it to the cargo box.",
     "specs": [
       "Dome design, arched roof",

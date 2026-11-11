@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YF-n2JswL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKSKGKLX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKSKGKLX?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 300 stores 3014Wh and delivers 2400W continuous with a 4800W surge. It has a dedicated TT-30 RV outlet, a 12V/30A DC output and a less than 10ms UPS, and the listing pairs it with a 1200W Charger 2 alternator charger (shipped separately).\n\nAgainst the Apex 300 it costs far less, and against the AC200PL it holds about 700Wh more. The alternator charger can refill it in about 3.2 hours while driving.\n\nIt suits full-time travelers who drive often and want to recharge from the vehicle. The listing calls it a compact 3kWh unit.",
     "specs": [
       "3014Wh, 2400W, TT-30 outlet",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqpeGyApL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR8DZ98L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR8DZ98L?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC200PL holds 2304Wh in LiFePO4 cells and listed with a 350W solar panel (shipped separately). It has four AC outlets, a 30A TT30 port, a 48V/8A DC port, two 100W PD ports and 11 ports in all.\n\nIt costs a little more than the Elite 300 and lists a panel in the package, which the Elite does not. AC input of 2400W refills it from 0 to 80 percent in about an hour.\n\nIt suits campers who want a TT30 port and a panel in one purchase. The battery is rated for 3000 plus cycles, or about 10 years.",
     "specs": [
       "2304Wh LiFePO4, TT30 port",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T4iOjuSLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ1YTBKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ1YTBKR?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Apex 300 is a 2764.8Wh system sold with a B300K and a TT-30 30A cable. It offers 3840W of power, 120V/240V simultaneous output, 2400W of built-in solar input and expansion to 58kWh with additional batteries.\n\nIt is the most expandable pick and the only one here with 240V output. Parallel units reach 5.5 to 8.3kWh, and it costs nearly double the Elite 300.\n\nIt suits RVers who want a home-scale system that grows over time. The listing names 6000 plus cycles and a 17-year lifespan.",
     "specs": [
       "2764.8Wh, 3840W, 120V/240V",

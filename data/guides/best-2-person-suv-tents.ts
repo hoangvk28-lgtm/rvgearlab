@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mS6zY5dzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DS8ZHK3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DS8ZHK3?tag=rvgearlab-amz-20",
     "description": "The HASIKA is the only pick here whose title says 2-Person outright. It weighs about 3.5 lbs, sets up in roughly 120 seconds and uses 210T polyester with a silver coating rated at 3000mm, with 110+ sq ft of shade.\n\nAgainst the Mount peak, it gives up standing room and a deep awning in return for a pack size you can toss behind a seat. Compared with the roof tents, it costs a fraction and needs no rack at all.\n\nIt suits a couple who want a quick shaded spot for changing, fishing or a festival day beside the car. Sleeves and straps attach to the rear wheels or bumper.",
     "specs": [
       "Titled 2-Person",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31W1mLb7TLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYHP3FKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYHP3FKS?tag=rvgearlab-amz-20",
     "description": "The Mount peak is a tailgate tent for 2 to 3 adults with a main body of about 9.8 by 4.9 by 6.9 feet. It adds a 7.2 foot front awning on 5.9 foot poles, 210D silver-coated Oxford rated PU2000 and B3 nylon mesh windows.\n\nIt has far more headroom and floor than the HASIKA, and it also works standing alone when the SUV drives off. Next to the roof tents it keeps the sleeping surface on the ground, which many couples find easier to get in and out of.\n\nIt suits two campers with gear who want a covered sitting area in front of the vehicle. The extended canopy handles shade for chairs and a table.",
     "specs": [
       "2 to 3 adults, 9.8x4.9x6.9 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ktJxUTiIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6NG8NLT?tag=rvgearlab-amz-20",
     "description": "The WGOS is an inflatable roof tent for 2 to 3 people that goes up with an air-beam frame and the included pump. The kit brings an inflatable mattress and an anti-slip ladder, with 420D Oxford and 280G poly-cotton fabric carrying a UV50+ rating.\n\nIt is the pick that gets you off the ground without the cost of a hardshell, and it skips the poles that the Mount peak needs. Compared with the Naturnest hardshell it is softer and lighter to store, while the hardshell opens faster.\n\nIt suits couples with a roof rack who want an elevated bed and a complete kit in one box. Air beams mean no pole threading at the end of a long drive.",
     "specs": [
       "Air-beam frame with pump",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BU4M7--6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNZ1GDX6?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius is a clamshell hardshell in ABS with an aluminum alloy frame, opened by a hydraulic boom in about 30 seconds. The sleeping area measures 82.6 by 63 inches with 47.2 inches of headroom and a 1.2 inch mattress, fitting two adults and a child.\n\nIt is the quickest to open and close of the four, and it has a double key lock the soft tents cannot match. The WGOS is cheaper and packs smaller, while this one gives a solid shell that stays on the roof between trips.\n\nIt suits couples who camp often and want an aerodynamic box that is ready in seconds. Four-season fabric adds comfort in cooler weather.",
     "specs": [
       "Hardshell, 30-second setup",

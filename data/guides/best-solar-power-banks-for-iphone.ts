@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Vr6MQDySL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQT25KXS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQT25KXS?tag=rvgearlab-amz-20",
     "description": "The YELOMIN lists 20000mAh with 22.5W Quick Charge that tops a phone to roughly 75 percent in about 30 minutes. Three cables (USB-C, Lightning and USB-A) are built in, with dual Type-C and USB-A output ports and dual LEDs with three modes.\n\nIt is the only pick with a named built-in Lightning cable, and it posts the highest wattage of the three. The ERRBBIC adds a wireless pad where this model relies on cables.\n\nIt suits an iPhone owner who wants a Lightning cable on board and a fast refill. The panel gives a safety-net top-up.",
     "specs": [
       "20000mAh, 22.5W fast charge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ojDGHzXCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T2NRK8G?tag=rvgearlab-amz-20",
     "description": "The BLAVOR lists a 10000mAh pack with a 20W USB-C port, plus Qi wireless charging and an IPX5 rating. The listing quotes 65 percent on an iPhone 15 within half an hour.\n\nSmallest and lightest of the three, it carries half the cell of the others. It adds Qi wireless, which the YELOMIN skips.\n\nA pocket-bank fan with an iPhone will like the fast USB-C port and the wireless pad. The IPX5 body handles splashes.",
     "specs": [
       "10000mAh, 20W USB-C",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+rn1PO2NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H153HTD2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H153HTD2?tag=rvgearlab-amz-20",
     "description": "The ERRBBIC lists 20000mAh with 15W fast charging to 60 percent in 30 minutes, a wireless pad and three built-in cables for six devices. A solar panel serves as a safety net.\n\nIt costs less than the YELOMIN and BLAVOR and adds a wireless pad on a 20000mAh cell. The 15W port is slower than the other two.\n\nIt suits an iPhone user who wants cable-free charging and a large cell for a low price. Six devices can charge from the three built-in cables and ports.",
     "specs": [
       "20000mAh, 15W fast charge",

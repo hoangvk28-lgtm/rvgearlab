@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mKfzKlJcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1LJF7QY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1LJF7QY?tag=rvgearlab-amz-20",
     "description": "The MEANCHEN is a 10x20 ft mat made from 280GSM HDPE mesh, with the same blue-gray pattern on both sides. The breathable mesh lets water and air pass through, so the surface dries quickly after rain.\n\nAgainst the plastic straw rugs in this list, the heavier HDPE fabric resists flattening, cracking and fraying over time. It suits owners who leave the rug down for a whole season and want the sturdiest build.",
     "specs": [
       "10x20 ft",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514L8W-OIIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H715L577?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H715L577?tag=rvgearlab-amz-20",
     "description": "The Garvee Blue Stripe is a 10x20 ft rug woven from tight plastic straw in a modern striped pattern. UV-stabilized material resists fading in full sun, and reinforced thermoplastic edge binding holds the border together.\n\nIt costs less than the other Garvee and the COZYLOOM here while keeping the same reversible straw construction. It suits budget buyers who want a full-size rug that hoses clean.",
     "specs": [
       "10x20 ft plastic straw",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EqqyyPe7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3W745X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3W745X?tag=rvgearlab-amz-20",
     "description": "The COZYLOOM Diamond is a 10x20 ft rug in 100% recyclable polypropylene with a layered diamond border. Its tight, non-slip weave lies flat, and the surface is waterproof and UV resistant.\n\nCompared with the GAOMON Medallion, it puts more stress on a flat, grippy surface and a hose-down cleanup. It suits families who walk on the rug barefoot and want it to stay put.",
     "specs": [
       "10x20 ft recyclable polypropylene",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61IB7f8ymGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKVV5CMT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKVV5CMT?tag=rvgearlab-amz-20",
     "description": "The GAOMON Medallion is a 10x20 ft reversible rug in UV-resistant polypropylene with an elegant medallion pattern. It folds down compactly into an included carry bag.\n\nNext to the COZYLOOM, it adds the bag and a lightweight feel that make packing easier between sites. It suits travelers who set up and break down camp often.",
     "specs": [
       "10x20 ft polypropylene",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61baUTTMpYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCS6TPDR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCS6TPDR?tag=rvgearlab-amz-20",
     "description": "The Garvee Grey White is a 10x20 ft reversible rug in woven plastic straw with heat-treated edging to resist fraying. It is quick dry and rinses clean after muddy shoes or pet paws, and it folds into a sturdy carrier bag.\n\nBeside the Garvee Blue Stripe, it adds the carrier bag and a neutral grey and white look that matches most rigs. It suits owners who want an easy-clean mat that packs away neatly.",
     "specs": [
       "10x20 ft woven plastic straw",

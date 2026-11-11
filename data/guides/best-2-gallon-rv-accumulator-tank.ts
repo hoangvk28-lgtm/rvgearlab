@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313bUzekIqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IRFW38W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IRFW38W?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts 2 Gallon Accumulator Expansion Tank has a 1/2 inch female NPT port, wall mount brackets, a 130 psi max liquid pressure and 30 psi pre-pressurized air. The listing says it is used on gas, oil or electric residential water heaters and potable water storage to absorb thermal expansion.\n\nIt is a real 2 gallon unit with brackets included. Compared with the Eastman, it has a lower precharge and a 1/2 inch port.\n\nBest for owners who want a true 2 gallon tank with a wall mount. It also suits water heater systems.",
     "specs": [
       "2 gallon, 1/2 inch FNPT",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31lGl8E8-FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005E83YW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005E83YW4?tag=rvgearlab-amz-20",
     "description": "The Eastman Thermal Expansion Tank is 2 gallon with a butyl rubber diaphragm, 304 stainless steel system connection and 3/4 inch MIP. It is factory pre-charged at 40 psi, rated to 150 psi and 210 F, and backed by a 6-year limited warranty.\n\nIt prevents excess pressure from thermal expansion in water heater systems. Compared with the Pro Water Parts, it adds a stated temperature rating and warranty.\n\nA good pick for water heater protection with a long warranty. It also suits 3/4 inch plumbing.",
     "specs": [
       "2 gallon, 3/4 inch MIP",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SjrOrdD+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY99GHY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY99GHY9?tag=rvgearlab-amz-20",
     "description": "The oiununo 68 oz Accumulator Expansion Tank is 2 L with a 150 psi maximum, 1/2 inch MNPT and a Schrader air valve compatible with a bicycle pump. The tank is 18-gauge carbon steel with a 304 stainless connection and a food-grade diaphragm.\n\nIt reduces pump cycling and water hammer at about $27, well below the 2 gallon units. It is half a gallon, so it fits pump bays that cannot take a 2 gallon tank.\n\nBest for owners who want the largest practical RV pump accumulator. It also suits boats.",
     "specs": [
       "68 oz (2L), 150 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411Rt0PoQpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDW361MG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDW361MG?tag=rvgearlab-amz-20",
     "description": "The Nilight RV Accumulator Tank is 0.75 L, rated to 125 psi, with gas-water separation and a 10 to 125 psi range. It uses a 1/2 inch MNPT port, measures about 7.87 by 5 by 4.5 inches and comes with clamps.\n\nIt has an anti-slip rubber base that reduces noise. It costs about $26.\n\nA solid pick for compact bays. It also suits boats and caravans.",
     "specs": [
       "0.75L, 125 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gQljPP9OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08DZHNQ4G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08DZHNQ4G?tag=rvgearlab-amz-20",
     "description": "The RecPro RV Accumulator Tank with Barbed Fittings is 0.75 L and measures 5 1/8 by 4 1/2 by 8 inches. Its listing describes a water chamber with a pre-pressurized internal air bladder installed on the pressurized side of the pump.\n\nBarbed fittings suit flexible hose plumbing instead of threaded ports. It costs about $35.\n\nBest for hose-barb RV plumbing. It also suits owners who want a recognizable RV brand.",
     "specs": [
       "0.75L volume",

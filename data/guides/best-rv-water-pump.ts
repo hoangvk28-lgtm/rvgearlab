@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RexXi4k5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01CQ7DD0S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01CQ7DD0S?tag=rvgearlab-amz-20",
     "description": "The SEAFLO 42 Series is a 12V pump rated at 3.0 GPM and 55 PSI with a bypass, self-priming to 6 feet and a 7.0 amp maximum draw. The listing names NSF/ANSI/CAN 61 and 372 testing for potable water contact and a 4-year limited warranty.\n\nAgainst the wassermann 3.0 GPM, it adds the longer warranty and named potable certifications at a slightly higher price. Against the Kohree 5.5 GPM, it offers less flow but more documented specs.\n\nBest for owners who want a well-documented pump with a warranty. Confirm the port fittings and bypass need.",
     "specs": [
       "3.0 GPM, 55 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bS9VaS2HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09879SQZ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09879SQZ7?tag=rvgearlab-amz-20",
     "description": "The Kohree 12V pump delivers 5.5 GPM at 55 PSI, is self-priming up to 3 meters and has run-dry and thermal overload protection. It runs on a continuous cycle with an open flow.\n\nCompared with the SEAFLO 42 Series, it moves much more water but gives less spec detail. Compared with the MAXZONE, it lists higher flow.\n\nBest for owners who want fast fill and strong flow. Confirm that your plumbing can handle 55 PSI.",
     "specs": [
       "5.5 GPM, 55 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VNUk3lUcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGMZMW7?tag=rvgearlab-amz-20",
     "description": "The Gidrox is a 12V pump with 4.0 GPM at a preset 45 PSI and an adjustable range of 30 to 80 PSI. It lists a 10 foot self-prime, a 158 degree thermal safeguard and vortex noise reduction with a rubber base.\n\nVersus the MAXZONE, it adds adjustable pressure and a quieter design. Versus the wassermann 3.5 GPM, it offers more flow.\n\nBest for owners who want to tune pressure. Do not raise pressure beyond what your plumbing handles.",
     "specs": [
       "4.0 GPM, 45 PSI preset",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51mGi47ch8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV6JN54M?tag=rvgearlab-amz-20",
     "description": "The MAXZONE is a 12V diaphragm pump at 4.0 GPM and 50 PSI with a self-priming design that can run dry for a short time. The kit includes two 1/2 inch barbed adapters and a 50 mesh inlet strainer, and lists a 30 PSI maximum inlet pressure.\n\nCompared with the Gidrox, it has fixed pressure and fewer comfort features. Compared with the SEAFLO 42 Series, it offers more flow at a lower price.\n\nBest for budget owners who want 4 GPM and an inlet strainer. Watch the 30 PSI inlet limit.",
     "specs": [
       "4.0 GPM, 50 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41up0RNCKPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-amz-20",
     "description": "The wassermann pump is a 3.5 GPM, 45 PSI three-chamber diaphragm pump designed to replace the 2088-554-144 model. It works with an automatic pressure switch and is described as self-priming.\n\nAgainst the wassermann 3.0 GPM, it has more flow but lower pressure and replaces a different model. Against the SEAFLO 42 Series, it costs less and lacks the named certifications.\n\nBest for owners replacing a 2088-554-144 pump. Verify the model number before ordering.",
     "specs": [
       "3.5 GPM, 45 PSI",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tm1v88bhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FK9DKZS9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FK9DKZS9?tag=rvgearlab-amz-20",
     "description": "The wassermann pump is a 3.0 GPM, 55 PSI four-chamber pump designed to replace 4008-101-A65 and E65 models. It uses a pressure switch and is sold as quiet.\n\nVersus the wassermann 3.5 GPM, it runs at higher pressure with a four-chamber design. Versus the SEAFLO 42 Series, it costs less but lacks the warranty and certification.\n\nBest for owners replacing a 4008-101 pump. Verify the model before ordering.",
     "specs": [
       "3.0 GPM, 55 PSI",

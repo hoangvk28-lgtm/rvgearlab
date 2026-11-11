@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41g4QKvfAqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3689ZR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3689ZR1?tag=rvgearlab-amz-20",
     "description": "This 60W panel lists an LED screen showing real-time data, USB-C PD3.0 PPS at 33W and USB-A QC3.0 at 24W. It weighs 2.98 lbs, folds to 15.44 x 8.43 x 1.26 inches, uses ETFE at 23.5 percent and carries IP67.\n\nIt is the lightest 60W pick and the only one with a data display. It includes Anderson, XT60 and DC7909 adapters named for EcoFlow and Jackery stations.\n\nIt suits campers who want to see what the panel is producing. The PPS port charges laptops efficiently.",
     "specs": [
       "LED display, USB-C PPS 33W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ti5h04BFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQ8QVJ59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQ8QVJ59?tag=rvgearlab-amz-20",
     "description": "The Ecosonique lists 3.5 lbs, a 4-fold laptop-sized design, QC3.0 USB-A at 24W, PD3.0 USB-C at 30W and an 18V DC port. It has 23.5 percent efficiency, seamless ETFE and includes 4 carabiners and a 2 m DC cable.\n\nThe lowest ticket here belongs to this one, and it still lists a 30W PD USB-C port. It is heavier than the Smart Display by half a pound.\n\nIt suits budget campers who want a seamless one-piece build. The 2 m cable allows shade for devices.",
     "specs": [
       "3.5 lbs, 4-fold, 23.5%",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MROADdTLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHF6PFJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHF6PFJ1?tag=rvgearlab-amz-20",
     "description": "The LUMOPAL lists PD USB-C up to 60W max, QC3.0 up to 22W and an 18 to 20V DC port. It has 23.5 percent efficiency, ETFE lamination, a stated 3.42 lbs and a folded size of 6.7 x 9.5 inches.\n\nIt lists the highest USB-C wattage of the group and a very compact fold. It costs about $11 more than the Ecosonique.\n\nIt suits campers who want to charge a laptop directly. The folded size fits small bags.",
     "specs": [
       "PD USB-C 60W max, QC3.0 22W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LttZVJAHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BK18H1N1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BK18H1N1?tag=rvgearlab-amz-20",
     "description": "The ZeroKor lists 20.5 percent cells, 4.2 lbs, a folded size of 14.96 x 9.78 x 0.77 inches and a kickstand design. It has USB-A at 5V/3A, 9V/3A and 12V/1.5A max and USB-C up to 15V/2A, with IP65 polyester and a TIR-C chip.\n\nIt costs about the same as the LUMOPAL and has lower efficiency. It adds a kickstand that the Ecosonique and LUMOPAL lack.\n\nIt suits campers who want hands-free aiming. The multi-voltage ports support several protocols.",
     "specs": [
       "20.5% cells, 4.2 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413jWx95uTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091JZ33TW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091JZ33TW?tag=rvgearlab-amz-20",
     "description": "The ApowKing lists up to 22 percent cells, 4.8 lbs and a handle, PET laminate and IPX4 water protection. It has a DC output at 12 to 18V and up to 3.3A, two QC3.0 ports and a Type-C port, with a 5 ft DC cable, 10-in-1 connector kit and DC to Anderson cable.\n\nIt includes the most cables of the six and is heavier than the Smart Display. It costs more than the Ecosonique.\n\nIt suits owners of older stations with odd connectors. The handle makes carrying easy.",
     "specs": [
       "22% cells, 4.8 lbs, handle",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rdVX+5A7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6L515ZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6L515ZS?tag=rvgearlab-amz-20",
     "description": "The VLAIAN lists 4.18 lbs and a folded size of 9.4 x 14.8 x 0.79 inches, with QC3.0 USB-A, USB-C and DC5521 outputs and an IP67 rating. The listing claims it is 10 percent lighter than others.\n\nIt is the highest-priced pick here and folds to a slim 0.79 inches. It is heavier than the Smart Display.\n\nIt suits packers who want a slim profile. The IP67 rating handles heavy rain.",
     "specs": [
       "4.18 lbs, 9.4 x 14.8 x 0.79 in",

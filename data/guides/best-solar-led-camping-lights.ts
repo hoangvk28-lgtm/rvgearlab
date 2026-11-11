@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BCR-Gv1iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHGSKPP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHGSKPP1?tag=rvgearlab-amz-20",
     "description": "The MODOAO gives five tent lights, each with a built-in battery that charges by USB or solar. Three modes cover full, half and low brightness, and a hook top lets it hang or serve as a handheld flashlight at 7.6 by 2.4 inches.\n\nIt supplies the most lights in one purchase, one more than the MVIOCS pack. The pack suits group camps.\n\nIt suits scout groups and large families who need a light for every tent. Warm white output feels softer than cool LEDs.",
     "specs": [
       "Five lights per pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PfMn5f5DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCG93HZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCG93HZW?tag=rvgearlab-amz-20",
     "description": "The MVIOCS pack has four lanterns that charge by the included USB cable or the solar panel. Three brightness modes of full, half and low run through 360 degree light, with a hook top at 7.6 by 2.4 inches.\n\nIt sits one light below the MODOAO and includes a USB cable, which keeps charging simple. Each bulb hangs from a tent loop on its own hook.\n\nIt suits a camp of four who want a lantern apiece. The compact size packs into a bag.",
     "specs": [
       "Four lanterns per pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VfVJHQhIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7GNNZZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7GNNZZ8?tag=rvgearlab-amz-20",
     "description": "The Eeghurt pair are inflatable solar lanterns of soft PVC film, 13 by 13 by 3 cm, with a 1000mAh battery. They fill in 8 to 10 hours of sun, carry an IP55 rating and offer several lighting modes.\n\nThey pack flat, unlike the rigid MODOAO and MVIOCS bulbs. They use sun alone, so no cable is mentioned.\n\nThey suit kayakers, boaters and beach campers. A soft body also suits children.",
     "specs": [
       "1000mAh, 13 cm square",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51adKHlpSTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C68DRR9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C68DRR9P?tag=rvgearlab-amz-20",
     "description": "The addlon string runs 52 ft with 16+1 LED bulbs, a remote with 3 brightness modes and solar or USB charging. The listing stresses shatterproof bulbs and all-weather durability.\n\nIt is a patio-style string rather than a bulb, so it lights a whole site where the tent bulbs light a corner. The remote handles brightness from a chair.\n\nIt suits RV campers and anyone with an awning to hang from. Dimmable steps handle dinner and bedtime.",
     "specs": [
       "52 ft, 16+1 LED bulbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UqDtqfB3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRR4K9CF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRR4K9CF?tag=rvgearlab-amz-20",
     "description": "The Brightown rope light has 100 warm white LEDs along 39 ft, IP65 waterproofing and 8 lighting modes. A high-capacity battery and an adjustable solar panel run it.\n\nIt carries the lowest price of the five. Next to the addlon, it swaps the remote for rope-style flexibility.\n\nIt suits RV and camper decoration, wrapped around a pole or awning. The flexible rope shapes around tent poles and chairs.",
     "specs": [
       "39 ft, 100 warm LEDs",

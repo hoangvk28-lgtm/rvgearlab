@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZjOf+aK6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0071L48Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0071L48Z4?tag=rvgearlab-amz-20",
     "description": "The Fastway e2 92-00-1200 states 12,000 lb and 1,200 lb tongue weight and has built-in two-point sway control. The Fastway e2 92-00-1200 is a trunnion-style weight distribution hitch with built-in two-point sway control, rated 12,000 lb trailer weight and 1,200 lb tongue weight. It mounts with clamp brackets and can stay attached when backing.\n\nIt states both ratings and adds integrated sway control, unlike Blue Ox BXW1275. It costs more than Blue Ox.\n\nBest for a 12,000 lb trailer with built-in sway control. It is the stronger of Fastway's two 10K and 12K e2 listings, so choose it when loaded tongue weight approaches 1,000 lb.",
     "specs": [
       "12,000 lb trailer rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Yw3DoR5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08Z4D74V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08Z4D74V6?tag=rvgearlab-amz-20",
     "description": "Blue Ox's BXW1275 states 12,000 lb and 1,200 lb tongue weight with a 2-inch receiver and a pre-installed ball. Blue Ox's BXW1275 is a two-point weight distribution hitch with a 2-inch receiver, a 6-hole shank and a pre-installed 2-5/16 inch ball. The spring bars are rated 1,200 lb tongue weight and the hitch is rated 12,000 lb maximum towing.\n\nIt costs less than Fastway e2 92-00-1200 and about the same as Husky 30849, with no integrated sway control. It has a 6-hole shank.\n\nBest for a 12,000 lb trailer wanting simple round spring bars. It suits moderately heavy trailers up to 12,000 lb with a 2-inch receiver.",
     "specs": [
       "12,000 lb max, 1,200 lb TW",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N59duTiiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004RCSKPO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004RCSKPO?tag=rvgearlab-amz-20",
     "description": "Husky's 30849 states 800 to 1,200 lb tongue weight and 12,000 lb gross trailer weight with a dual sway control platform. Husky's 30849 is a round bar weight distribution hitch rated 800 to 1,200 lb tongue weight and 12,000 lb gross trailer weight, with a 10 inch shank and 2-5/16 inch ball. It adds a dual sway control platform and gives 8 inches of total height adjustment, with 5-5/8 inch rise and 2-3/8 inch drop.\n\nIt covers a range that Blue Ox BXW1275 does not and includes a shank. Its drop is small at 2-3/8 inch.\n\nBest for a trailer whose tongue weight varies between 800 and 1,200 lb. Check the stated drop and rise against your measured ball height, since the shank leans toward rise.",
     "specs": [
       "12,000 lb GTW, 800 to 1,200 lb TW",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EKHkorlJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D94TTX4X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D94TTX4X?tag=rvgearlab-amz-20",
     "description": "Shocker's Air Equalizer chain-style hitch states 12,000 lb GTW and 1,200 lb tongue weight with air ride sway control. Shocker's Air Equalizer combines chain-style weight distribution with an air ride sway control unit, fitting a 2-inch hitch with 5 inch rise and 4 inch drop. The listing states 12,000 lb GTW and 1,200 lb tongue weight and offers 7 or 9 inches of adjustability.\n\nIt costs several times more than the others and adds air pressure adjustment. It fits a 2 inch hitch with 5 inch rise and 4 inch drop.\n\nBest for a heavy truck owner wanting air-ride feel. It adds an air-ride feel to weight distribution, at a much higher cost than conventional spring bar kits.",
     "specs": [
       "12,000 lb GTW, 1,200 lb TW",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312OZlUvVQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJRL3ZM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJRL3ZM5?tag=rvgearlab-amz-20",
     "description": "FAHKNS lists a rated towing capacity up to 12,000 lb with sway control and no tongue weight rating. FAHKNS lists a weight distribution hitch with trailer sway control and a rated towing capacity of up to 12,000 lb. The listing describes spring bars and anti-sway parts without giving a tongue weight rating.\n\nIt costs far less than the others but gives no tongue weight. Ask the seller.\n\nBest for a budget buyer who verifies ratings. Ask the seller for the tongue weight rating and shank dimensions before choosing it over the established brands.",
     "specs": [
       "Up to 12,000 lb towing",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QbuWYLpDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX6C35VG?tag=rvgearlab-amz-20",
     "description": "RVGUARD's 1,000 lb kit includes sway control and a 2-inch shank with a 2-5/16 inch ball. RVGUARD's 1,000 lb weight distribution hitch kit includes sway control, an adjustable 2-inch shank and a 2-5/16 inch ball. The listing describes the sway control as adjustable and the shank as universal for standard 2-inch receivers.\n\nIt states a 1,000 lb class and no gross rating, below a 12,000 lb trailer's tongue weight. It is not a match for 1,200 lb.\n\nBest only for a lighter trailer. Confirm the gross trailer weight and bar type with the seller, since the listing leads with the 1,000 lb figure.",
     "specs": [
       "1,000 lb class with sway control",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m8HSF2vAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDWL4YFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDWL4YFP?tag=rvgearlab-amz-20",
     "description": "The 1500W Pure Sine Wave Inverter with LCD Remote lists 1500W continuous and 3000W peak, with 4 AC outlets plus USB and Type-C ports. A wired LCD remote about 14.76 ft long shows battery voltage, output voltage and load wattage. Heavy-duty AC terminal blocks sit beside the outlets. It leads the guide because it pairs a clean waveform with the most outlets and the most feedback.\n\nCompared with the Power Inverter 1500Watt, it adds the heavy-duty terminal blocks and a Type-C port alongside an extra outlet. Against the modified sine 1500W Power Inverter with an LCD, it is the cleaner choice for chargers and electronics that dislike a stepped waveform. The mechanism is the remote: the unit stays near the battery on short, thick cable while the display sits where you cook.\n\nIt suits a camper building a permanent battery-bank setup who wants the inverter tucked beside the bank and the readout inside the tent or camper. Four outlets cover a laptop, lights, a small appliance and a charger at once. For someone ready to run a coffee maker or a microwave from a dedicated bank, it is the one to start with.",
     "specs": [
       "1500W continuous, 3000W peak pure sine",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QNDQZFRxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B4RD9C7F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B4RD9C7F?tag=rvgearlab-amz-20",
     "description": "The Power Inverter 1500Watt provides 1500W continuous pure sine power with 3 AC outlets and 2.4A USB ports. A 15 ft RJ10 remote switches it on and off, and the cooling fan stays off until the unit reaches 104F or the load passes 800W. The aluminum housing carries listed protections. It earns its slot as the unit that stays silent while you read or charge devices.\n\nNext to the 1500W Pure Sine Wave Inverter with LCD Remote, it gives up one outlet and the Type-C port, and it comes in a little cheaper. Compared with the dual 15A model with the on-unit screen, it leans on a quiet-fan strategy rather than a display. The mechanism is the fan threshold: light evening loads under 800W never spin it up, so the tent stays quiet.\n\nIt is a good match for campers who run light loads most of the evening and want a fan that holds its noise until needed. Sensitive gear such as camera chargers and small TVs benefits from the sine wave output. A family charging phones and a laptop beside the bed will value the quiet more than a spare outlet or a brighter screen.",
     "specs": [
       "1500W continuous pure sine wave output",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xU5-9Gi+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPQ3PB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPQ3PB6?tag=rvgearlab-amz-20",
     "description": "This 1500W Pure Sine Wave Inverter lists 1500W continuous and up to 3000W surge, with dual 15A AC outlets, an 18W USB port and a PD 30W Type-C port. A high-brightness screen shows input and output voltage plus battery and load status. It is the pick for a wall mount, since the readout sits on the unit itself and stays readable with nothing to route back to a remote panel.\n\nCompared with the 1500W Pure Sine Wave Inverter with LCD Remote, it moves the readout onto the unit instead of a remote and adds fast-charge USB. Against that same model it carries a pair of outlets rather than four, at a lower price. The mechanism is the PD 30W port, which charges a phone or tablet at laptop-class speed without a separate adapter plugged into an outlet.\n\nIt fits a camper who mounts the inverter in view, such as on a van wall, and wants a quick glance at battery and load. Pure sine wave output handles inductive loads such as motors and fans correctly. Two 15A outlets are enough for a coffee maker and one other device when the plan is simple.",
     "specs": [
       "1500W continuous, 3000W surge pure sine",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51if-nrOW7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZP45S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1ZP45S?tag=rvgearlab-amz-20",
     "description": "The 1500W Power Inverter with LCD Display lists 1500W continuous modified sine wave output with 3000W peak, an LCD and five-layer protection. It is designed for common 12V batteries including LiFePO4, AGM, gel and lead-acid. It anchors the budget end of the guide as the way to reach a 1500W rating with a clear list of compatible battery types.\n\nCompared with the pure sine models above, it is the lower-cost route to the same continuous rating when you run chargers, fans, lights and similar loads. Next to the Cantonape 1500W, it adds an LCD and a wider battery chemistry list. The mechanism is the waveform: a stepped output costs less to produce, and the saving goes straight to a lower shelf price.\n\nIt suits campers with simple loads x Its modified sine output works for everyday chargers, work lights and fans. A buyer who owns a lithium or an AGM bank and stays with laptops, lights and a fridge will find it a practical, budget-friendly choice that names its supported battery types outright.",
     "specs": [
       "1500W continuous modified sine, 3000W peak",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qEdycPNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CGJ73FF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CGJ73FF?tag=rvgearlab-amz-20",
     "description": "The Cantonape 1500W lists 1500W continuous modified sine wave power with 3000W peak, 2 AC outlets and 2 USB ports. An LED display shows input and output voltage and output power, and six protections include reverse polarity. It is the lowest-priced unit of the five and the plainest. The outlets are spaced to take two large plugs at once.\n\nIt shares the modified sine approach of the 1500W Power Inverter with LCD Display and adds nothing beyond a simple LED readout. That is the point: spacing the sockets for bulky plugs and skipping a remote keeps the price at the bottom of the range. The mechanism is restraint, since every feature left off the box is a cost left off the label.\n\nIt is best for campers who want a basic 1500W with the fewest extras. The reverse polarity protection helps a first-time installer who might swap the clamps, and the LED display gives enough feedback for simple loads. Buyers whose list stops at lights, chargers and a fan will find nothing here that they would miss.",
     "specs": [
       "1500W continuous modified sine, 3000W peak",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gh7iUsPVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FN2Z9H8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FN2Z9H8K?tag=rvgearlab-amz-20",
     "description": "The Golabs CT1 is a two-person tent with an 82.7 by 59 by 48 inch interior that packs into a 20.1 by 5.9 inch bag and weighs 4.4 pounds. It uses 190D polyester taffeta and fiberglass poles, with a mesh skylight and mesh door.\n\nAgainst the Golabs CT3 Tent it has a wider interior and lists both a weight and a packed length. The two cost about the same, so the CT1 gets the nod for portability.\n\nIt suits festival and beach campers who want a very light bag and a quick pitch in about three minutes. The mesh skylight keeps summer nights comfortable.",
     "specs": [
       "4.4 lbs, 20 in packed length",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416LrrCGQEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQJ1NDXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQJ1NDXQ?tag=rvgearlab-amz-20",
     "description": "The Night Cat 2-4 person tent has a 9.5 by 6.6 by 4 ft interior that the listing says fits king and queen mattresses. It weighs 3 kg and folds to a 28 by 28 by 2.8 inch disc, about 40 percent smaller than a traditional pop-up.\n\nIt has the roomiest floor of the six, with two big doors and two wide windows. Next to the Golabs CT1 Tent its floor is much larger and its weight is higher.\n\nIt suits a couple who wants a bedroom-size pop-up for car camping or the beach. The listing also mentions room for kids to play beside the adults.",
     "specs": [
       "9.5 x 6.6 x 4 ft interior",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ARpS9nG2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKRGG113?tag=rvgearlab-amz-20",
     "description": "The anngrowy tent unfolds to 82.5 by 59 by 47 inches, with a fiberglass frame and 190T polyester plus 210D Oxford fabric. The listing names a PU 1500mm rating and a hydraulic system for pitching.\n\nIt has the most detailed fabric specification among the cheaper tents, and its double-layer doors give a switch between breezy and private. Compared with the Wakeman Tent it names more weather details.\n\nIt suits budget campers who want a stated waterproof rating in a two-person pop-up. The fiberglass frame keeps the pack light.",
     "specs": [
       "82.5 x 59 x 47 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SL9FtoG1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLGNWTZ3?tag=rvgearlab-amz-20",
     "description": "The Golabs CT3 pitches in about 60 seconds with a lift-the-center-pole method. It has an interior of 76.7 by 55.1 by 43.7 inches, four side mesh panels, taffeta sides and a PE woven floor.\n\nNext to the Golabs CT1 Tent, it goes up faster, while its interior is slightly smaller. Storage pockets and lantern hooks add some organization.\n\nIt suits campers who value setup speed above all, for shorter trips. Its 60 second pitch beats the CT1 by a wide margin.",
     "specs": [
       "76.7 x 55.1 x 43.7 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kW3X8r0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08X6657Q4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08X6657Q4?tag=rvgearlab-amz-20",
     "description": "The Wakeman 2 person tent is built on fiberglass poles and comes with a removable rain fly, a vent window and an inside pocket. A dual-layer door combines an inner screen with an outer zippered fabric layer.\n\nIt is the lowest-priced pick and the one with the plainest listing, so it shows fewer numbers than the anngrowy Tent. The included carry bag packs components back for storage.\n\nIt suits weekend music festivals, fishing or the beach, when low cost beats detail. Keep it for fair weather and short stays.",
     "specs": [
       "Removable rain fly",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41POIor4EoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-amz-20",
     "description": "The Night Cat 1 Person tent has a 7.7 by 3.3 by 2.95 ft interior that fits a twin air mattress. It weighs 1.5 kg and folds to a 21 by 21 by 2 inch disc.\n\nIt is the lightest tent here, with the same three-second throw-open design as the Night Cat 2-4 Tent. It is sized for one adult, which makes it a useful gear tent beside a bigger shelter.\n\nIt suits lone hikers, or pairs who want a second shelter for gear. The tiny disc fold is the main appeal.",
     "specs": [
       "7.7 x 3.3 x 2.95 ft",

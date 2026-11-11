@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XXZGTrJ9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0752XXW1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0752XXW1L?tag=rvgearlab-amz-20",
     "description": "The Pro Venture is a 12 by 9 ft asymmetric hex in PU 3000 diamond ripstop, and the cut is the headline: it widens over the sleeper's body and tapers toward the ends, so a 12 ft ridge covers a typical hammock with overhang to spare. It weighs 1.8 lb and packs to 10 x 5 x 5 inches.\n\nAgainst the Wise Owl just below it, the Pro Venture offers more documented coverage and a straightforward six loops plus six grommets for staking and guying out. A 2-year warranty is stated on the listing, which adds reassurance at $29.99.\n\nIt is the sensible pick for someone who hangs a standard camping hammock and wants a tarp that is simply the right shape. A camper who values stated dimensions and a hex layout over extra accessories will find it the natural center of this comparison.",
     "specs": [
       "12 x 9 ft asymmetric hex cut",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hefq5yrKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07ZPH8Q1D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07ZPH8Q1D?tag=rvgearlab-amz-20",
     "description": "The Wise Owl is a 3000 mm PU ripstop nylon fly with taped seams, offered in an 18.9 oz lite version or a 26 oz standard weight. Six guy lines, aluminum stakes and a carry bag ship with it, so the shelter goes from stuff sack to ridgeline without a trip to the hardware aisle.\n\nCompared with the Pro Venture above, the Wise Owl lite version cuts several ounces from the carry, and the taped seams protect the stitch lines where leaks usually begin. It also pitches as a plain tarp for ground sleeping, which gives it a second life when the trees run out.\n\nIt suits a hiker who hangs for a night or two at a time and wants the lightest sheet that still has sealed seams. Anyone moving from a basic fly to a trail-weight setup will value the lite option.",
     "specs": [
       "3000 mm PU ripstop nylon with taped seams",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314qqRot95L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYCJJWQG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYCJJWQG?tag=rvgearlab-amz-20",
     "description": "This Hammock Tarp is an 11 by 9 ft rectangle of ripstop nylon with taped seams, six guy cords, stakes and a carry bag, all at $19.99 and 26 oz. An 11 ft ridge is enough to overhang most hammocks at both ends, and the taped seams keep a steady shower from working through the stitching.\n\nLined up against the Wise Owl above it, this tarp offers a similar fabric and sealed construction at a lower price, giving up the lite-weight option in return. Against the Azarxis below, it provides a full-size roof for a sleeper and a pack of gear, where the compact sheet covers the sleeper alone.\n\nIt works for a weekend hammocker who hangs in friendly weather and wants a dependable roof at a friendly price. A backyard camper, a scout or a first-time buyer gets a lot of tarp for the money.",
     "specs": [
       "11 x 9 ft ripstop nylon rectangle",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJRYAkGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TQNLWSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQNLWSP?tag=rvgearlab-amz-20",
     "description": "The Sunyear is a full hammock system rather than a bare tarp: a hammock, a bug net, a rain fly and two tree straps arrive together, with a stated 500 lb capacity, 12KN carabiners and adjustable loops on the straps. The shelter is built from 210T parachute nylon.\n\nThe contrast with the Pro Venture above is scope. Where that pick delivers the roof alone, the Sunyear delivers the whole setup, so a beginner can hang, screen and cover a night's sleep from one purchase. The net keeps insects off the sleeper all night.\n\nIt makes sense for a camper starting from nothing who wants one order to cover hanging, bug protection and rain cover. Someone buying a first hammock, a gift for a new camper or a kit for a family trip will find the bundle practical.",
     "specs": [
       "Hammock, bug net and rain fly bundle",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EHdCT+SxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07T337P8Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07T337P8Z?tag=rvgearlab-amz-20",
     "description": "The Azarxis is a 7.55 by 4.59 ft sheet of PU 2000 mm fabric that packs to 6.69 x 4.33 inches, the smallest bundle of the five, and it costs just $14.99. Stakes and two guyline lengths come in the bag, which covers a quick pitch over a lone sleeper.\n\nAgainst the Hammock Tarp above it, the Azarxis gives up roof area in exchange for a pocket-size pack and a rock-bottom price. The compact sheet doubles as a ground footprint or a picnic mat, which gives it uses long after the hammock comes down.\n\nIt fits a minimalist who hangs in warm, mostly dry weather and wants a token of rain cover at almost no weight. A day-hiker setting up a siesta hammock, or a camper who needs a spare sheet for the car, will find it handy.",
     "specs": [
       "7.55 x 4.59 ft sheet, PU 2000 mm",

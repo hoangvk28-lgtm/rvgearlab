@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aRwjBb3IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QXSZLD1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QXSZLD1?tag=rvgearlab-amz-20",
     "description": "The Chef Master Grill Boss lists 12,000 BTU on a single burner, a double windguard and an inline gas regulator that holds pressure steady, even in freezing temperatures. It takes butane or propane cylinders and has automatic gas shutoff.\n\nCompared with the Gospowor it trades the griddle for a hard carrying case and a heavy-duty steel body. Output sits between the GasOne 15K and the SHINESTAR.\n\nA dependable pick for tailgaters and family campers who cook in cool or breezy conditions. One year of U.S. support is included.",
     "specs": [
       "12,000 BTU, butane or propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "Rated at 15,000 BTU from a single burner, the GS-3900PB handles either an 8 oz cartridge or a 1 lb propane cylinder with a supplied adapter. Windblockers on four corners guard the flame, and a pressure sensor ejects the cartridge when readings turn irregular.\n\nIt is the strongest single burner in this guide, with more heat than the Chef Master. It lacks a griddle and a regulator mention.\n\nIdeal for campers who boil big pots of water for family meals. A carrying case is included.",
     "specs": [
       "15,000 BTU, dual fuel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CFwnFxd0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJCY5BXZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJCY5BXZ?tag=rvgearlab-amz-20",
     "description": "The Gospowor lists 10,000 BTU and comes with a windproof glass shield, a 1.6 foot braided stainless steel hose and a ceramic-coated griddle. It takes 1 lb propane cylinders and 8 oz butane cartridges, with overpressure protection and canister safety locks.\n\nBeside the Chef Master it adds a griddle and a lock for the canister while giving up some output. The frame and griddle detach for cleaning, and the whole unit weighs 3.5 pounds in a hardshell case.\n\nGreat for campers who want to fry eggs and pancakes on a flat surface. The non-stick coating wipes clean.",
     "specs": [
       "10,000 BTU, dual fuel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51KDEiiKfwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M2LDCXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M2LDCXF?tag=rvgearlab-amz-20",
     "description": "The SHINESTAR is a 7,800 BTU single burner that uses 8 oz butane canisters or 1 lb propane tanks with the included adapter hose. The listing says it boils 4 cups in 5 minutes and has a cartridge ejection system, a safety lock and an auto shut-off valve.\n\nIt supports cookware from 6 to 10 inches wide, and the piezo igniter is rated for 10,000 ignitions. At 4.15 pounds it is the heaviest of the five.\n\nA solid choice for budget car campers who prize safety features over raw heat. A carrying case is included.",
     "specs": [
       "7,800 BTU single burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Gas One's GS-3400P takes a small butane cartridge or a 1 lb propane bottle, and the converter regulator ships in the box. A heat dial, piezo igniter and cartridge ejection feature complete it.\n\nIt is the simplest and cheapest dual fuel stove here. It has no windblocker and no griddle.\n\nAn easy first buy for casual campers who want fuel flexibility on a small budget. A carrying case is included.",
     "specs": [
       "Butane or propane dual fuel",

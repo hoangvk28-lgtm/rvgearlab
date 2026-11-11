@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7-inch RV navigator with map coverage of North America and custom routing based on the size and weight of your RV or trailer. It also carries a preloaded directory of RV parks and services with content from KOA, Ultimate Public Campgrounds and the U.S. national parks directory.\n\nAgainst the larger Garmin RV 895 and RV 1095, the 795 keeps the same routing and campground directory in a smaller screen at a lower price. Against the LMCOWRE 7in, it adds a named RV park directory and road warnings for steep grades, sharp curves and weight limits.\n\nBest for RV owners who want the purpose-built routing of a dedicated unit without paying for a 10-inch display. A solid middle path between a phone app and a flagship navigator.",
     "specs": [
       "7 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517F0UVsNUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 steps up to an 8-inch bright touchscreen that works in landscape or portrait. It offers the same custom RV routing, map updates for North America and a preloaded RV park directory with Tripadvisor traveler ratings.\n\nCompared with the Garmin RV 795, the extra inch of screen makes route and lane detail easier to read from a driver's seat. Compared with the Garmin RV 1095, it keeps the portrait option and satellite imagery while taking up less dash space.\n\nBest for motorhome and fifth wheel drivers who read the map at arm's length and want a larger display. A natural step up if a phone screen feels too small on the road.",
     "specs": [
       "8 inch landscape or portrait",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l2HjYLe+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK66DW3?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 1095 is a 10-inch navigator, the largest in this group, with a bright high-resolution touchscreen. It shares the custom routing, North America map coverage and preloaded RV park directory of the other Garmin units.\n\nNext to the Garmin RV 895, the 1095 adds screen area and little else, so the choice is purely about display size. Against the budget LONGRUF 9in, it adds RV size and weight routing and a named campground directory.\n\nBest for large Class A drivers and co-pilots who navigate from a distance and want a near-tablet display. The screen is the reason to pick it over the 8 inch model.",
     "specs": [
       "10 inch bright touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418wSumFBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB3KT2ZV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB3KT2ZV?tag=rvgearlab-amz-20",
     "description": "The LONGRUF is a 9-inch car, truck and RV navigator preloaded with 2026 maps covering 101 regions across the United States, Canada and Mexico, with free lifetime map updates. It supports address, coordinate, favorite and POI search and offers four route options.\n\nCompared with the LMCOWRE 7in, it adds two inches of screen at a modest step up in price. Compared with the Garmin RV 795, it replaces the named RV park directory with general speed warnings and lane guidance.\n\nBest for budget-minded drivers who want a large display and no subscription. A fair match for a tow vehicle that sometimes tows.",
     "specs": [
       "9 inch touchscreen",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hA5aDJPML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-amz-20",
     "description": "The LMCOWRE is a 7-inch navigator with built-in 2026 North America maps and lifetime free map updates. Its listing describes route planning by vehicle type that accounts for height, width and weight restrictions, plus full-route voice announcements.\n\nAgainst the LONGRUF 9in, it gives up two inches of screen and keeps a vehicle-type route description. Against the Garmin RV 795, it matches the 7 inch size at a fraction of the cost with route type choices of fastest, shortest, eco-friendly and easiest.\n\nBest for a first dedicated GPS on a tight budget. A reasonable way to try a standalone screen before spending Garmin money.",
     "specs": [
       "7 inch touchscreen",

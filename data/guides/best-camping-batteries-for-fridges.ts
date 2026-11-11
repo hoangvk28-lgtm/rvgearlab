@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31t7RLCM4jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRFR9LST?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRFR9LST?tag=rvgearlab-amz-20",
     "description": "The ICECO PB250 is a 250Wh power station with a magnetic design, an MPPT controller for solar and an aluminum frame. The listing says it adjusts its voltage with consumption and targets 12V refrigerators.\n\nIt works with devices beyond one fridge brand and is not limited to named models. Its 250Wh rating is stated plainly in the title.\n\nIt suits campers who want one battery for a fridge, phones and a camera. MPPT solar charging lets it recharge off-grid.",
     "specs": [
       "250Wh, MPPT solar input",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pAZlkD9kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCYJVHT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCYJVHT9?tag=rvgearlab-amz-20",
     "description": "The Dqkhoicvf is a 15,600mAh removable lithium battery for Alpicool CFJ, TWW, CFIM, CFG and CFW car refrigerators. The listing mentions an energy-saving mode, auto downshift on low charge and a built-in cooling fan.\n\nIt is a removable design that swaps in and out of the fridge, unlike the ICECO. The listing says to keep the air outlet 15 cm from obstructions.\n\nIt suits owners of the named Alpicool models. Check the model number against the listing.",
     "specs": [
       "15,600mAh removable battery",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A8MGcfKNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096B32KHN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096B32KHN?tag=rvgearlab-amz-20",
     "description": "The EUHOMY battery is a 15,600mAh rechargeable lithium pack for the CFJ, TWW, CFIM, CFG and CFW car refrigerators. It charges inside the fridge's battery compartment, and the listing mentions about 4 hours on MAX and about 6 hours on ECO.\n\nIt matches the Dqkhoicvf on capacity and model list, and it states runtime figures. The listing says it is only for EUHOMY refrigerators.\n\nIt suits EUHOMY fridge owners. It charges in place, which keeps things simple.",
     "specs": [
       "15,600mAh lithium pack",

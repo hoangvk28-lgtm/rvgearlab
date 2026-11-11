@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GT0e6V12S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZYPKBRY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZYPKBRY?tag=rvgearlab-amz-20",
     "description": "RISEPRO sells this 2.6 gallon (10 L) jug with a one-piece, gasketless spigot that the listing calls leak-proof. The material is food-grade LDPE4 described as odorless, with no BPA, PVC or DEHP, and the maker says it complies with the latest USA standard.\n\nIt combines a spigot with a clean materials statement, which the SUPANT and MOPFOL screw-cap bags do not offer. The spigot makes pouring and handwashing easier than a cap-only bag, and the transparent body lets you see the level.\n\nBest for campers who want a tap at camp and a clear materials statement at a very low price. It also comes in 5.3 gallon and multi-pack options on the same listing.",
     "specs": [
       "10 L (2.6 gal) with spigot",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21itE1TJ-aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWZX86K1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWZX86K1?tag=rvgearlab-amz-20",
     "description": "JIELUO sells a two-pack of 2.6 gallon collapsible jugs made from food-grade polyethylene film with a gasketless lid and spigot. The listing says the red handle is only for folding and opening, and tells you to lift by the large handle when full.\n\nThe pair gives 5.2 gallons for little more than one RISEPRO jug, and the lid and spigot mean no parts to replace. A tip on the listing about using soda water or vinegar for cleaning is helpful for first-use odors.\n\nA good match for couples and small families who want two jugs and a tap each. It also suits emergency storage ahead of a storm.",
     "specs": [
       "Two 2.6 gal BPA-free jugs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rqfDWlBuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PCRV6FW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PCRV6FW?tag=rvgearlab-amz-20",
     "description": "SUPANT sells a set of four 10 L collapsible carriers (10.6 gallons in total) with integrated handles and a 1.4 inch bottle mouth. The listing says they are BPA-free, food-grade, freezable and have a leak-proof screw-on cap.\n\nFour jugs give far more capacity than the RISEPRO and JIELUO, and the wide mouth makes filling at a stream or tap easy. It has no spigot, so pouring takes more care, and an 8-pack and a 5 L plus 10 L set are also offered.\n\nBest for groups and base camps that need lots of water in flat-packing form. The freezable material lets you use a jug as an ice block.",
     "specs": [
       "Four 10 L jugs, 10.6 gal total",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319U8SNllRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSYCVM7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSYCVM7P?tag=rvgearlab-amz-20",
     "description": "MOPFOL sells two 10 L collapsible storage bags made of durable PVC with a large screw cap and integrated carry handle. The listing describes them as foldable for travel and picnics and suitable for water, juices or other drinks.\n\nThey cost the least of the four per pair, and the wide-mouth cap fills easily. The listing says nothing about BPA or a spigot, so the RISEPRO and JIELUO give more reassurance and easier pouring.\n\nA fit for budget campers who want light, foldable bags for day trips and picnics. Check the material labelling if the water will sit for days.",
     "specs": [
       "Two 10 L PVC storage bags",

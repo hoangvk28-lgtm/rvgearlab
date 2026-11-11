@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31En9iHQR6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLW6CB6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLW6CB6J?tag=rvgearlab-amz-20",
     "description": "The Columbia Transverse describes Omni-Tech construction as multilayered, waterproof and seam-sealed, built for prolonged exposure to moderate rain and snow while letting the inside breathe. Techlite cushioning and Omni-Grip traction pair with a leather and mesh upper and a cushioned collar.\n\nNext to the SHULOOK, it carries a brand-named waterproof system rather than a general membrane claim. Against the XPETI Thermator, it skips insulation and keeps the boot lighter on warm days.\n\nIt is the pick for men who hike in rain and wet snow throughout the year. The seam-sealed build suits repeated soakings.",
     "specs": [
       "Seam-sealed Omni-Tech waterproofing",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OLZp7eBaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09L47W128?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09L47W128?tag=rvgearlab-amz-20",
     "description": "The SHULOOK Mid Top uses an SL-TEX waterproof membrane that lets water vapor escape, with a closed-cell tongue that keeps rain, muck and sand out. It weighs 1.25 lb in size 10, with a removable memory foam insole and a rubber anti-collision toe.\n\nCompared with the Columbia Transverse, it costs about half as much and weighs less, with a synthetic suede upper. Against the NORTIV 8 Lightweight, it adds a sealed tongue and a stated vapor-release membrane.\n\nIt suits men who want a light, breathable boot for muddy trails and creek-side hikes. Heel cushioning and a memory foam footbed lengthen the comfort window.",
     "specs": [
       "SL-TEX waterproof membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YBPLSt9nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CSP6CQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CSP6CQ6?tag=rvgearlab-amz-20",
     "description": "The XPETI Thermator pairs a waterproof mesh upper and XPETI-DRY membrane with moisture-wicking mesh lining, described as keeping feet dry and warm in mud and snow. Its integrated EVA midsole stays light, and a rubber toe cap and 7mm multi-directional lugs round out the spec.\n\nNext to the Columbia Transverse, it is the warmer pick for cold wet trails. Against the SHULOOK, it adds insulation in exchange for a bulkier feel.\n\nIt suits men who hike through winter slush, hunt early mornings or walk in snow. The aggressive outsole bites into soft, wet ground.",
     "specs": [
       "XPETI-DRY waterproof membrane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KYFJ9nTLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4TR52N8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4TR52N8?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Ankle High offers a removable shock-absorbent insole, flexible EVA midsoles and a rubber sole with advanced traction. It is marketed for daily work as well as hiking, camping and fishing.\n\nIt is the lowest-cost boot in the group alongside the NORTIV 8 Lightweight. Against the SHULOOK, it gives up the stated membrane detail and sealed tongue.\n\nIt suits men who want a plain, flexible waterproof boot for light hiking and chores. Removable insoles accept custom footbeds.",
     "specs": [
       "Removable shock-absorbent insole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n0K3wiDRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07P63MY9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07P63MY9V?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight lists waterproof membrane construction plus a rubber toe cap and heel reinforcement. The upper is soft suede with a multi-directional lug outsole and a shock-absorbent midsole.\n\nIt undercuts the SHULOOK on price and adds toe and heel protection that the NORTIV 8 Ankle High leaves out. It lacks the sealed tongue of the SHULOOK.\n\nIt suits men hiking creek beds and rocky ground who want armor on a budget. A flexible removable insole adds comfort.",
     "specs": [
       "Waterproof membrane construction",

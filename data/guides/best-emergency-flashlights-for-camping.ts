@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417M-0uu0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4VY7P?tag=rvgearlab-amz-20",
     "description": "One handheld body here covers flashlight, lantern, spotlight and red emergency strobe duty, with 800 lumens and a listed reach of 1640 feet. Its 3600mAh cell refills in about 3 hours, and the whole unit comes in at 0.8 pounds, strap included.\n\nAgainst the PopoIron, it throws a far longer beam and adds a red strobe. It is a true handheld flashlight first, which is what an emergency needs.\n\nIt suits campers and hikers who want one light for signaling, scanning a trail and lighting a tent. The strap makes carrying easy.",
     "specs": [
       "800 lumens, 1640 ft range",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o366VQekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR3NKRPH?tag=rvgearlab-amz-20",
     "description": "The PopoIron pair has a 4000mAh battery in each lantern, 300 lumens, a 360 degree rotating stand and a built-in elastic clip. Stepless dimming runs across 3 colour modes, with a side LED for handheld flashlight use.\n\nCompared with the AlpsWolf, it gives two lights and more battery per unit. Each one is a lantern first and a flashlight second.\n\nBuy it when you want one lamp for the tent and a spare in the car kit. Tent reading and bedside use are its sweet spot.",
     "specs": [
       "Two lanterns, 4000mAh each",

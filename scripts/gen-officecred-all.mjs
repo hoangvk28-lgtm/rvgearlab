@@ -51,7 +51,7 @@ function pick(asin, badgeText) {
     rating: meta.rating,
     reviews: meta.reviewCount,
     imageUrl: meta.image,
-    amazonUrl: `https://www.amazon.com/dp/${asin}?tag=theofficejournal-20`,
+    amazonUrl: `https://www.amazon.com/dp/${asin}?tag=rvgearlab-amz-20`,
     description: info.p1,
     specs: info.specs,
     pros: info.pros,

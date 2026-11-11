@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V7qIM3PAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNWG928T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNWG928T?tag=rvgearlab-amz-20",
     "description": "The BINTA is a 0 to 50A shunt monitor with a TFT color screen showing percentage, voltage, current and power, and it accepts capacity up to 999Ah. The shunt body measures just 52.4 x 29.4 x 9.4 mm, and it remembers the last reading when power drops.\n\nAt $36.99 it costs $23.00 more than the Frienda Dual Voltmeter but is the only budget pick that tracks real amp flow instead of guessing from voltage. Pick this if you want true state of charge on one bank; the caveat is the 50A ceiling, which rules out a large inverter on the same circuit.",
     "specs": [
       "0 to 50A shunt, 999Ah capacity",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41o3zBYy6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3SSY18G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3SSY18G?tag=rvgearlab-amz-20",
     "description": "The VATRER Smart Monitor covers 10V to 90V and shows series and parallel battery groups on one dedicated screen. It pairs over Bluetooth with VATRER batteries, and a separate communication port works only with VATRER units.\n\nAt $89.99 it costs $53.00 more than the BINTA 50A Shunt, and most of that premium only pays off if you already own VATRER batteries. Pick this for a multi-battery lithium setup from the same brand; the caveat is that the listing does not state a shunt amp rating, so non-VATRER banks are uncertain.",
     "specs": [
       "10V to 90V range",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wOoTQtfdS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091YXN1YP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091YXN1YP?tag=rvgearlab-amz-20",
     "description": "The Frienda is a round LED double voltmeter that reads two batteries at once, with input up to DC 60V and over-voltage and short circuit protection. It panel mounts in a 1.15 inch drill hole and is meant for 12V to 24V vehicles.\n\nAt $13.99 it costs just $1.00 more than the MNJ Dual Voltmeter, and the two are nearly identical in function. Pick this if you want a cheap look at starter and house voltage side by side; the caveat is that voltage alone cannot tell you real state of charge.",
     "specs": [
       "Dual LED voltmeter, 60V input",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cWJgy-nvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JJZ45DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JJZ45DD?tag=rvgearlab-amz-20",
     "description": "The MNJ is a DC 12 to 24V dual voltmeter with a 3 digit blue LED display, listed with input up to DC 60V and over-current, over-voltage and short circuit protection. It flush mounts in a 1.15 inch hole with a twist and lock fastener.\n\nAt $12.99 it is $1.00 cheaper than the Frienda Dual Voltmeter and does the same job, and $24.00 under the BINTA 50A Shunt. Pick this if cost is the only rule; the caveat is the same as the Frienda: it shows voltage, not amp hours used.",
     "specs": [
       "DC 12 to 24V dual voltmeter",

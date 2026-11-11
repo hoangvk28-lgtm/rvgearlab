@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413sWGNdInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-amz-20",
     "description": "The TireMinder i10 kit includes four transmitters, the i10 monitor and a Rhino signal booster. It reads 0 to 199 psi with plus or minus 1 PSI accuracy and checks for slow leaks, rapid leaks, blowouts and high temperature every 6 seconds.\n\nCompared with the Tymate TM2 Kit below it, the TireMinder costs more per sensor but quotes a higher 199 psi ceiling and can monitor up to 40 tires. That headroom is what a heavy fifth wheel on high-pressure tires needs.\n\nIt suits an owner who wants room to add a second axle's worth of sensors later, since four is only the starting set. The caveat is price: four transmitters at this cost is steep if your fifth wheel runs six tires today.",
     "specs": [
       "Up to 40 tires, 0 to 199 psi",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416sgilyeeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9MR58L?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 kit pairs six sensors with a booster, so a tri-axle fifth wheel can be covered out of the box. It charges from a solar lithium panel or USB and enters a power-saving mode after 10 minutes stationary.\n\nAgainst the TireMinder i10 above, you get two more sensors and a repeater for roughly half the cost, but not the same 199 psi top end. Against the Tymate TM12 below it, the TM2 kit adds the booster, while the TM12 six-sensor set is cheaper but leaves range extension to you.\n\nThis is the strongest value pick for a tri-axle fifth wheel. Confirm the stated PSI range on the product page before ordering, since the title does not give it.",
     "specs": [
       "Six sensors plus booster",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fmzo85qfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 six-sensor set runs a display that shows up to 12 tires across four zones, with IP67 waterproof external sensors and a stated 50 foot range. Power comes from USB-C or a solar panel on the display.\n\nCompared with the TM2 Kit above, it costs less but omits the booster, so you rely on the 50 foot range or add the Tymate Repeater for 100 feet and beyond. Compared with the GUTA GT90 below it, it covers two more tires for lower cost.\n\nIt works for a tandem or tri-axle fifth wheel with a modest cab-to-axle distance. The repeater is a separate purchase, so budget for it if the signal drops on long hauls.",
     "specs": [
       "Six sensors, up to 12 tires",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419XU0AAVdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJQFCXZ4?tag=rvgearlab-amz-20",
     "description": "The GUTA GT90 is a four-sensor kit that tracks pressure across a 0 to 188 PSI range and handles up to 10 tires in expanded sets. Its color LCD offers 3-level brightness, and sensors come pre-paired to the monitor.\n\nAgainst the Tymate TM12, it has a higher stated pressure ceiling but two fewer sensors, so it fits the truck or a two-axle trailer rather than a tri-axle one. Against the TireMinder i10 above, it keeps the 188 psi class at about half the price.\n\nIt is the right kit for a fifth wheel owner who plans to add sensors later. The title does not mention a repeater, so check the signal reach on a long rig.",
     "specs": [
       "0 to 188 PSI, four sensors",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411sKonF-OL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDNYKWN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDNYKWN7?tag=rvgearlab-amz-20",
     "description": "The Flydew six-wheel kit pairs six external sensors with a 4 inch LCD, a 0.3 second response time and a stated accuracy of 0.1 bar or 2 PSI. It sounds a high-pressure alert at 142 PSI and offers dual charging.\n\nIt is the cheapest six-sensor option here, which puts it below the Tymate TM12 in price but also in documentation, since no repeater is named in the title. The monitor auto-sleeps after 3 minutes, which saves charge but delays a wake-up check.\n\nChoose it for a tri-axle trailer where cost matters and the cab is close to the axles. Test the signal at your full rig length before you drive.",
     "specs": [
       "Six external sensors, 4 inch LCD",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41olgPVCpXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRJ17T2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRJ17T2?tag=rvgearlab-amz-20",
     "description": "The Masoll set of two comes from a range sold in 2, 4, 6 or 8 sensor kits and includes a booster rated up to 120 feet. It has a color LCD with four brightness levels and the same multi-alarm set as the larger kits.\n\nCompared with every six-sensor pick above, this pair is a partial solution: it covers only two tires. Its real use is as a booster-equipped add-on or a spare-tire monitor rather than a full fifth wheel system.\n\nBuy it only if you already own a compatible Masoll monitor, or if two tires is all you need. For six or more tires, move to the Tymate TM2 Kit.",
     "specs": [
       "Two sensors, 120 ft booster",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OqMlUk6jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY89TS5K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY89TS5K?tag=rvgearlab-amz-20",
     "description": "The CrestWave 110V pump delivers up to 5.5 GPM at 60 PSI on only 1.6A. The listing names strong self-priming from 9.8 feet, run-dry safety, an adjustable shut-off and a 45 dB level.\n\nIt is the only pump here whose listing states a 60 PSI setting at that much flow, and the adjustable shut-off gives room to trim it. The 12V picks cannot match its low amp draw.\n\nBest for hookup owners who want a quiet, firm-pressure pump. On the plus side, run-dry safe self-priming.",
     "specs": [
       "5.5 GPM at 60 PSI, 110V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NZHanWT-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4XY647F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4XY647F?tag=rvgearlab-amz-20",
     "description": "The ALDERVIC 12V pump delivers up to 5.5 GPM at a 70 PSI working pressure with an adjustable 30 to 80 PSI switch and a bypass control. A four-chamber diaphragm is said to cut pulsation and vibration.\n\nIt is the 12V route to a 60 PSI setting, since the switch can be dialed down from its 70 PSI default. That flexibility sits above the fixed-pressure PowerMax.\n\nA fit for dry campers who want to set their own pressure around 60. It also stands out because high 5.5 GPM flow.",
     "specs": [
       "5.5 GPM, 12V, 4-chamber",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Iq+RNHfwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0892S6XVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0892S6XVR?tag=rvgearlab-amz-20",
     "description": "The PowerMax 12V pump lists 3.2 GPM at 45 to 60 PSI with a built-in pressure switch, a strainer and fittings in the box. Its self-priming diaphragm design is aimed at campers and trailers.\n\nIt is the only RV-branded pump here with a strainer and fittings, and it tops out at 60 PSI. Its flow is far under the CrestWave and fits a single-bath rig.\n\nA good fit for travel trailer owners who want 60 PSI as a ceiling rather than a target. Buyers also get this: matched to RV plumbing.",
     "specs": [
       "3.2 GPM, 12V, 45 to 60 PSI",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JY5p+Lb+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8SYLN9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8SYLN9?tag=rvgearlab-amz-20",
     "description": "The VEVOR 1.8 GPM pump is a three-chamber 12V unit running at a steady 60 PSI and its automatic switch spans 40 up to 100 PSI. Certification marks CE and ROHS appear next to a copper motor and heat cutoffs.\n\nIt states a steady 60 PSI outright, which the larger 12V pumps do not, and costs less than the ALDERVIC. Its flow is only enough for a sink or a van.\n\nBest for vans and tap-only setups that want a 60 PSI pump. Buyers also get this: cE and ROHS marks named.",
     "specs": [
       "1.8 GPM at 60 PSI, 12V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OFVyho5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY87Z445?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY87Z445?tag=rvgearlab-amz-20",
     "description": "The CrestWave 110V 4 GPM pump runs at 50 PSI on 1.3A, with self-priming up to 9.8 feet, run-dry safety, an adjustable shut-off and a 45 dB level. On the plus side, 1.3A current draw.\n\nIt sits ten PSI under the 5.5 GPM CrestWave, which is gentler on old plumbing while keeping the same quiet design. It costs less than the 5.5 GPM model.\n\nA fit for hookup owners who want quiet operation close to 60 PSI. Worth noting on the listing: strainer included.",
     "specs": [
       "4 GPM at 50 PSI, 110V",

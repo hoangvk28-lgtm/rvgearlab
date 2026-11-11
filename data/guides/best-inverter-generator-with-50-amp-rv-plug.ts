@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51POF0PFgpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG1NXJ5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG1NXJ5X?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 11250W lists 11,250 starting and 9,000 running watts on gasoline and 10,570 starting and 8,540 running on propane, with a heavy-duty 50 amp outlet and an ATS connection. It claims 60 dBA at 23 feet and 25 percent load, up to 19 hours on a 7.1 gallon tank, and a key fob that starts it from 80 feet. The kit includes an LPG hose with regulator, a charger and a funnel, with a 2-year warranty.\n\nIt ranks first because it combines a published 50A outlet, 9,000 running watts and a propane hose in the box at $1,896.99. Against the Westinghouse 10000 it costs $747.99 more but adds 1,400 running watts and propane capability, and against the Gidrox 11000 it saves $203.00 for the same stated 11,000 class and a shorter 19 hour claim. By our estimate 9,000 watts gives about 37.5 amps per leg at 240V.\n\nPick it if you want one unit for a large coach and an ATS-ready home panel and prefer a complete kit. The caveat is that engine oil is not included, and it is not light enough to move alone.",
     "specs": [
       "9,000W gas, 8,540W propane",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UF30Ej3NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFW189Q9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFW189Q9?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 10000 lists 10,000 peak and 7,600 running watts on gasoline at under 3 percent THD from a 420 cc engine. Its outlets are one 120/240V 14-50R 50A, one 120V L14-30R, and four GFCI 5-20R, all with rubber covers, and it claims up to 12 hours on a 5.28 gallon tank. Remote start, a key fob, a battery charger and a VFT display are included.\n\nIt ranks second because it is the lowest-priced unit here with a three-year warranty and a full outlet list, at $1,149, which is $149.02 more than the Oxseryn 12000 but adds a clean power claim and a service network. By our arithmetic 7,600 watts gives about 31.7 amps per leg at 240V, which is the lowest of the 9,000-class group but still enough for one air conditioner and the coach basics. It is gasoline only.\n\nChoose it if you run gasoline, want a clear outlet list and need roughly one air conditioner's worth of capacity in a 50A coach. The caveat is that the listing does not state noise, and an open frame unit is louder than an enclosed one.",
     "specs": [
       "7,600W running, 10,000W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410D56r+DVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCCRY7PL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCCRY7PL?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 12000 lists 12,000 starting and 9,000 running watts, a 6.6 gallon tank claimed to run up to 10 hours at 50 percent load, and a 120/240V 50A outlet with four 120V 20A outlets and a 12V DC port. It weighs 159 lb, ships in two packages (the wheels and folding handle need assembly) and shows voltage, frequency and runtime on a meter. It claims 77 dB at 23 feet.\n\nIt ranks third because it offers 9,000 running watts for $999.98, which is $149.02 less than the Westinghouse 10000 and $897.01 less than the AIVOLT 11250 for the same running figure. The tradeoffs are volume (77 dB is 15 to 17 dB above the AIVOLT 8000 and 11250 claims, which is a large audible gap) and no propane. It also has no listed CO shutdown in the feature text.\n\nChoose it if cost matters most and you will run it away from the coach at a campsite where noise is tolerated. The caveat is the missing CO sensor in the listing and the assembly of wheels, so check the box before the first trip.",
     "specs": [
       "9,000W running, 12,000W start",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412y5e9H3-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCM1Z7PY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCM1Z7PY?tag=rvgearlab-amz-20",
     "description": "The Gidrox 11000 lists 11,000 peak watts on gas and propane, an 8.7 gallon tank claimed to run up to 21 hours at 25 percent load, 65 dB operation, and outlets that include a 50A 14-50R, a 30A L14-30R 240V and two 20A GFCI. It has an ATS port, CO sensor, push-button electric start, dial fuel switching and a 3-year warranty. It does not publish running watts in the feature text.\n\nIt ranks fourth because the missing running watts weaken the comparison, even though the 21 hour claim is the longest here, 2 hours more than the AIVOLT 11250 at $203.00 less. Against the GENMAX 12500 it costs $550.00 less but gives up natural gas. The listing's 8.7 gallon tank is what produces the runtime, and it is also what makes the unit heavy to fuel.\n\nPick it if you want the longest overnight runtime on a 50A coach and a dual fuel choice. The caveat is that you must confirm running watts in the manual before sizing against a 50A load.",
     "specs": [
       "11,000W peak, dual fuel",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410UTdYBS0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2RWR86T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2RWR86T?tag=rvgearlab-amz-20",
     "description": "The GENMAX 12500 lists 12,500 surge and 10,500 running watts on gasoline, 11,500 and 9,500 on propane, and 10,000 and 8,500 on natural gas from a 458 cc engine. Its outlets are one 120/240V 50A (14-50R), a 30A and a 20A 120V receptacle, plus 12V DC and USB. It is claimed at 62 dB(A) at 25 percent load, 10.4 hours on a 6.1 gallon tank, and starts four ways including two-wire auto start.\n\nIt ranks fifth because it costs $2,649.99, which is $753.00 more than the AIVOLT 11250 and $550.00 more than the Gidrox 11000. In return it has the highest running watts here, about 43.8 amps per leg at 240V by our estimate, and a tri-fuel capability the others lack. Its runtime claim (10.4 hours at quarter load) is half of the Gidrox's 21 hours.\n\nChoose it if you want the most 50A capacity and could connect natural gas. The caveat is the price and a shorter runtime relative to its price tier.",
     "specs": [
       "10,500W gas, 8,500W natural gas",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 8000W lists 8,000 surge and 6,100 running watts from a 322 cc engine with automatic gas to propane switching, a low-temperature lithium battery rated from minus 4 to 140 degrees Fahrenheit, 62 dBA at 23 feet, a 129 lb frame and a claim of over 10 hours at 25 percent load. The 50A plug appears in the title only, since the feature text describes four outlets without naming them.\n\nIt ranks last because the outlet layout cannot be confirmed from the feature text, and at $1,433.52 it costs $284.52 more than the Westinghouse 10000 while delivering 1,500 fewer running watts. By our arithmetic 6,100 watts gives about 25.4 amps per leg, enough for one air conditioner plus basics but not a full 50A coach. Its advantages are quieter operation and 129 lb.\n\nChoose it only after confirming the 50A receptacle with the seller, and if you value quiet and cold-weather starting. The caveat is the unverified outlet list.",
     "specs": [
       "6,100W running, 8,000W surge",

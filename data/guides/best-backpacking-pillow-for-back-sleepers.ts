@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HMhRVN1kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083Z7ZB25?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083Z7ZB25?tag=rvgearlab-amz-20",
     "description": "The Hikenture Camping Pillow pairs an air bladder that is thicker than the thin TPU layer on many pillows with a removable cotton cover. A one-click valve fills it in a few breaths, and it is shaped to support the neck for back or side sleeping.\n\nAgainst the Trekology Aluft 2.0, it gives more cushioning from the cotton cover and a firmer bladder. Compared with the PEUJEW foam pillow, it saves much more pack space.\n\nIt suits back sleepers on multi-day hikes who want a pillow that feels soft on the face. The cover washes at home.",
     "specs": [
       "Thicker air bladder",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PAWKhTVnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PPN8XRR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PPN8XRR?tag=rvgearlab-amz-20",
     "description": "The Aluft 2.0 packs to 5 by 2 inches and uses elastic TPU fabric with an ergonomic shape that adds neck support. Rubber anti-slip dots and a latch hold it to a sleeping pad.\n\nNext to the Hikenture, it is the smaller of the two and relies on dots rather than a fabric cover. It fills in roughly 5 to 8 breaths.\n\nIt is a good match for ultralight back sleepers who count every ounce and still want a shaped pillow. The dots keep it centered as you roll.",
     "specs": [
       "Folds to 5 x 2 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ruAKpHpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRDW513B?tag=rvgearlab-amz-20",
     "description": "PEUJEW makes a 12 by 16 inch pillow filled with shredded memory foam in a medium-firm feel. The microfiber cover is removable and machine washable.\n\nCompared with the air pillows, it needs no inflating and never deflates by morning. Against the Hikenture, it stays quiet and has a steadier, firmer rest for the neck.\n\nIt fits back sleepers who prefer a solid foam feel and are willing to give up a little pack room. Compress it in a stuff sack for travel.",
     "specs": [
       "12 x 16 inch shredded foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XNIyEgWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1H21XX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1H21XX?tag=rvgearlab-amz-20",
     "description": "The BreezCamp is a TPU inflatable with an ergonomic head and neck curve that doubles as lumbar support. It inflates and deflates in about 3 seconds and folds to roughly the size of a water bottle.\n\nNext to the Aluft 2.0, it uses a similar anti-slip dot and elastic band setup at a lower price. Compared with the Hikenture, it skips the fabric cover to keep weight and cost down.\n\nIt works for back sleepers who want a spare or a first air pillow. The elastic band holds it to the pad.",
     "specs": [
       "Ergonomic head and neck curve",

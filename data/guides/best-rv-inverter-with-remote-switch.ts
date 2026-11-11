@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OwO8qqdbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4FPNPH?tag=rvgearlab-amz-20",
     "description": "The EGSCATEE 2500W pure sine inverter includes a remote controller in the box, along with a built-in transfer switch that changes over in about 12 ms and a hardwired AC terminal block. It lists 2,500W continuous and 5,000W peak.\n\nAt $219.99 it costs $70.00 more than the Voltworks 1500W and adds 1,000W. Pick this if you want to hardwire into the breaker panel with a remote on/off. Caveat: the listing excerpt does not give the remote cable length, and the 1.97 ft battery cables are short.",
     "specs": [
       "2500W pure sine, 5000W peak",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C6jbiwP6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DFW45TB3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DFW45TB3?tag=rvgearlab-amz-20",
     "description": "The Voltworks 1500W pure sine inverter includes a 15 ft RJ10 remote controller with battery monitoring and an LCD showing input voltage, output voltage and load watts. It lists 3,100W surge for 2 seconds and adjustable input voltage for lithium batteries.\n\nAt $149.99 it is $70.00 cheaper than the EGSCATEE 2500W and adds a display. Pick this if you want a plug in outlet inverter with a remote on the wall. Caveat: it is a 1,500W unit, so it will not run a rooftop air conditioner, and it has no transfer switch.",
     "specs": [
       "1500W pure sine, 3100W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B8Q+tAozS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08THJTZWH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08THJTZWH?tag=rvgearlab-amz-20",
     "description": "The Voltworks remote switch is a 30 ft on/off controller with a push button, a working indicator and a flush mount. It uses a 4P4C phone cable with RJ10 plugs and the listing states it works with Voltworks 1100W through 4000W inverters only.\n\nAt $22.99 it costs $127.00 less than the Voltworks 1500W, but it is only an accessory, not an inverter. Pick this if you own a compatible Voltworks inverter and want a longer 30 ft run. Caveat: it will not work with other brands.",
     "specs": [
       "30 ft cable, push button",

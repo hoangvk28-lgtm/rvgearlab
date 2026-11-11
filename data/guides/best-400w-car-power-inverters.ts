@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rv5jt3oEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQJPL1DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQJPL1DW?tag=rvgearlab-amz-20",
     "description": "This BESTEK lists 400W continuous and 800W peak as pure sine wave through two AC outlets, a 30W PD USB-C and an 18W QC USB-A port. Its temperature-controlled fan adjusts speed to the load.\n\nIt is the only pick here that claims pure sine output, which separates it from the standard BESTEK 400W and the vansoet. Against the DrimMek it has less USB-C power and costs more.\n\nIt suits campers who want cleaner power for laptops and cameras. The four-device charging claim covers two AC plugs and two USB ports.",
     "specs": [
       "400W pure sine, 800W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y6bTcKOLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKTTYHCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKTTYHCK?tag=rvgearlab-amz-20",
     "description": "This BESTEK provides 400W through dual 110V AC outlets with a 30W PD USB-C and a QC 3.0 USB-A port. The listing names a built-in 40 amp fuse, ETL certification and an iPhone-sized body.\n\nCompared with the BESTEK 400W Pure Sine it drops the sine claim and costs much less. Against the vansoet it adds a named fuse and certification mark.\n\nIt suits drivers who want a certified, fused unit at mid-price. The 32-pin plug cord reaches most seating positions.",
     "specs": [
       "400W, dual AC outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rcbqHL+lL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSVLCLN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSVLCLN3?tag=rvgearlab-amz-20",
     "description": "The vansoet outputs 400W continuous and 800W instantaneous through dual AC outlets, a 30W PD USB-C and an 18W USB-A QC port. It sits in an ultra compact aluminum housing and carries a built-in fuse.\n\nIt matches the BESTEK 400W Standard on ports and adds a metal body. Compared with the EPANEE it has faster USB-C wiring in a smaller case.\n\nIt suits campers who want a metal-cased unit that survives glove-box abuse. The cord extends to the back seat.",
     "specs": [
       "400W, 800W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DNf4q1V3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G25B9S5B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G25B9S5B?tag=rvgearlab-amz-20",
     "description": "The StrenrmGO shows voltage, power and fault status on an LED display and offers dual AC outputs with a 30W PD USB-C port. A large cooling fan and flame-retardant design are named.\n\nIt is the only unit with a live readout, which beats the BESTEK pair for diagnosing a blown socket. Against the DrimMek it has lower USB-C wattage and a bigger fan.\n\nIt suits campers who like to see the voltage before the battery sags. The listing says it can power up to five devices.",
     "specs": [
       "LED voltage and power display",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419frG2-SSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKN6HWSN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKN6HWSN?tag=rvgearlab-amz-20",
     "description": "The DrimMek lists a 65W PD USB-C port plus a 24W QC port and two AC outlets, a four-in-one layout. Overload, short circuit and overheating protection are named.\n\nIts 65W USB-C beats the BESTEK units' 30W by a wide margin and can charge many laptops directly. Compared with the EPANEE it costs a bit more and has a named monitoring system.\n\nIt suits travelers with a modern USB-C laptop. The 30 day return window is stated.",
     "specs": [
       "65W PD USB-C",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjfy6XMgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7MM2TQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7MM2TQ2?tag=rvgearlab-amz-20",
     "description": "The EPANEE offers a PD 65W USB-C port and a QC 18W USB-A port with dual AC outlets, in a 6.7 by 4.5 by 2.5 inch body weighing 0.88 lb. It has 21.65 inch cables and a low-noise fan.\n\nIt is the cheapest here and shares a 65W USB-C port with the DrimMek. Against the BESTEK models it is larger and has no certification named.\n\nIt suits budget campers whose laptop charges over USB-C. A built-in fuse covers short circuits and overload.",
     "specs": [
       "400W, 800W instant power",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31f+rNNaruL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H82F441K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H82F441K?tag=rvgearlab-amz-20",
     "description": "The Mob Chemist Long Haul is a concentrated RV wash that lists use with foam cannons, foam guns, bucket washes and pump sprayers. It is a high-pH, non-abrasive formula for painted surfaces, fiberglass, gel coat, vinyl graphics, aluminum, chrome and plastic.\n\nIt is the one pick built for RV size, and it lists road film, bugs, tree sap and bird droppings. Against the Chemical Guys snow foam, it is more focused on RV exteriors.\n\nIt suits owners who wash a travel trailer or motorhome every trip. The cherry scent and USA made formula add character.",
     "specs": [
       "Concentrated RV wash",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51GEJP-hAuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078HLZBY5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078HLZBY5?tag=rvgearlab-amz-20",
     "description": "The Chemical Guys Watermelon Snow Foam is a 16 oz soap for foam cannons that is listed for a bucket, foam gun or cannon. It is concentrated, with 1 to 3 oz added to a 5 gallon bucket or a 32 oz cannon tank.\n\nIt is the lowest priced pick, and it makes thick, dripping foam. It is easier to dose than the larger bottles.\n\nIt fits beginners and detailers on a budget. The scent and thick foam make the wash fun.",
     "specs": [
       "16 oz snow foam",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "The Spray and Forget RV and Camper Wash and Wax Combo includes two 1 quart bottles with hose-end adapters. The wash lists foaming action and water-beading technology, and it targets black streaks and bugs.\n\nIt adds a wax step, which none of the other picks include, and the hose-end adapters mean no cannon is needed. It is the highest priced bundle here.\n\nIt suits owners who want wash and protection in one simple routine. The ready-to-use setup keeps it easy.",
     "specs": [
       "Wash and wax combo",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418aB6GXDaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D33Y3LRK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D33Y3LRK?tag=rvgearlab-amz-20",
     "description": "The Krud Kutter Vehicle and Boat Pressure Washer Concentrate is a bleach-free foaming cleaner for tar, dirt and grime. It lists RVs, boats, trailers and cars and is safe for auto wax and finishes.\n\nWhere the Mob Chemist is made for foam cannons, this one is aimed at pressure washers. Apply, let sit 3 to 5 minutes and rinse.\n\nIt suits owners with a pressure washer who need power on tar and road grime. The bleach-free formula keeps it gentler than harsh degreasers.",
     "specs": [
       "Pressure washer concentrate",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v3tkVk0rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00SL2NP0G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00SL2NP0G?tag=rvgearlab-amz-20",
     "description": "The Camco Pro-Strength Awning Cleaner is a 1 gallon industrial strength formula for awning fabric. It removes mold stains, mildew stains, dirt, tree sap and road grime and is listed as safe for all awning fabrics.\n\nIt is not a foam cannon soap, so it fits a separate step. The gallon is the largest here.\n\nIt suits owners who want a washing routine that covers the awning too. One gallon lasts many seasons of touch-ups.",
     "specs": [
       "1 gallon awning cleaner",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rcy4BKGFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006H93EQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006H93EQ?tag=rvgearlab-amz-20",
     "description": "The Thetford Aqua-Clean Kitchen and Bath Cleaner is a 32 oz UltraFoam cleaner for RV, boat or home kitchens and bathrooms. Its non-abrasive formula is safe on plastic, porcelain, fiberglass and system seals.\n\nIt is an interior product, so it is the pick for the inside of the rig after an exterior wash. It clings and needs no scrubbing.\n\nIt suits owners who want to clean the bathroom after a wash day. The foam clings to vertical tub walls.",
     "specs": [
       "32 oz UltraFoam",

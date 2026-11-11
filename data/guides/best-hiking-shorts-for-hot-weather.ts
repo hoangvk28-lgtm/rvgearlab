@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fDcAxaOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B1LQQB65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B1LQQB65?tag=rvgearlab-amz-20",
     "description": "The Pudolla Cargo 9 Inch is a 9 inch inseam hiking short with five zipper pockets, a moisture-wicking quick-dry fabric and UPF 50+ sun protection. The listing adds a durable water repellent finish and an expandable back elastic waistband with a button, zip fly and belt loops.\n\nAgainst the CRYSULLY Cargo, it has more zipper pockets and a repellent finish. Compared with the XKTTAC Tactical, it offers a longer inseam and a cleaner, less tactical look.\n\nIt suits hikers who want longer, sun-covering shorts with secure storage. The zip fly and button give a trouser-like feel.",
     "specs": [
       "9 inch inseam, 5 zipper pockets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314ZrZ1mvXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TZV3P5F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TZV3P5F?tag=rvgearlab-amz-20",
     "description": "The XKTTAC Tactical is a stretchable, lightweight cargo short with six pockets, including four large side zipper pockets. The listing describes UPF 50+, breathable quick-dry fabric, an elastic adjustable waist and reflective strips for visibility.\n\nCompared with the Pudolla Cargo 9 Inch, it adds reflective strips and two more zipper pockets. Next to the Hiauspor Cargo, it has a more tactical look and a slightly higher price.\n\nIt suits hikers who carry more gear or hike at dawn and dusk. The stretch fabric moves freely on climbs.",
     "specs": [
       "6 pockets, reflective strips",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AM5dY1hcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNMD6JSP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNMD6JSP?tag=rvgearlab-amz-20",
     "description": "The Hiauspor Cargo is a hiking cargo short with six zipper pockets, a breathable moisture-wicking fabric and UPF 50+ protection. The listing describes four-way stretch that resists abrasions, tears and scuffs, plus a water repellent finish.\n\nAgainst the CRYSULLY Cargo, it adds UPF 50+ and a more durable fabric. Compared with the Pudolla Cargo 9 Inch, it has a similar pocket count and a button waist with belt loops.\n\nIt suits hikers who scramble, kneel and brush against rock. The strong belt loops hold a belt for added hold.",
     "specs": [
       "Six zipper pockets, UPF 50+",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318k6oikFAS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08ZXRLJJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08ZXRLJJH?tag=rvgearlab-amz-20",
     "description": "The CRYSULLY Cargo is a 9 inch hiking cargo short made from 90% nylon and 10% spandex. The listing describes quick moisture evaporation and five pockets, with an elastic waistband at the sides.\n\nNext to the Hiauspor Cargo, it is simpler, with no UPF or water repellent claim on the listing. Compared with the MOHEM Cargo, it adds a longer inseam and more pockets.\n\nIt suits hikers who want a classic nylon short without extras. The stretchy nylon moves easily on steps.",
     "specs": [
       "90% nylon, 10% spandex",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OisiSoyYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TZGSG5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TZGSG5N?tag=rvgearlab-amz-20",
     "description": "The Rdruko Active is a 7 inch inseam athletic short with quick-dry, moisture-wicking fabric and three deep zippered pockets. It is unlined, with an adjustable elastic waist and drawstring.\n\nIt is shorter and lighter than the cargo picks, with no belt loops. Compared with the MOHEM Cargo, it has deeper zipper pockets and a longer inseam.\n\nIt suits hikers and runners who want the lightest shorts for fast, hot days. Machine or hand washing is both allowed.",
     "specs": [
       "7 inch inseam, quick dry",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JCIO7ADML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9NWCN9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9NWCN9Y?tag=rvgearlab-amz-20",
     "description": "The MOHEM Cargo is a lightweight quick-dry cargo short with UPF 50+ sun protection, two side zip pockets and two cargo pockets. The stretch waistband has an adjustable inner drawstring.\n\nCompared with the Rdruko Active, it adds UPF 50+ and cargo pockets for the same price range. Against the CRYSULLY Cargo, it has fewer pockets and costs even less.\n\nIt suits hikers who want the lowest cost UPF-rated short. The listing mentions spring and windy weather use too.",
     "specs": [
       "UPF 50+, quick dry",

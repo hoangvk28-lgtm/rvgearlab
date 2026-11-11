@@ -24,7 +24,7 @@ export const products = withAmazonUrls([
     badge: "Best overall power station",
     name: "GRECELL EB500",
     amazonQuery: "GRECELL EB500 CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519Wh","Continuous output: 500W","AC waveform: Pure sine wave","Buyer check: Verify current model compatibility"],
     specList: [
@@ -44,7 +44,7 @@ export const products = withAmazonUrls([
     badge: "Best travel-light station",
     name: "Jackery Explorer 300",
     amazonQuery: "Jackery Explorer 300 CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [
@@ -64,7 +64,7 @@ export const products = withAmazonUrls([
     badge: "Best compact LFP option",
     name: "ALLWEI PPS300-4",
     amazonQuery: "ALLWEI PPS300 CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 6.4 lb"],
     specList: [
@@ -84,7 +84,7 @@ export const products = withAmazonUrls([
     badge: "Best CPAP-specific travel battery",
     name: "EASYLONGER ES400 AIR",
     amazonQuery: "EASYLONGER ES400 AIR CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B0FNR3KXQK?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FNR3KXQK?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41IlBpsBKpL._SL500_.jpg",
     specs: ["Capacity: 148Wh","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [
@@ -104,7 +104,7 @@ export const products = withAmazonUrls([
     badge: "Best dedicated multi-night CPAP battery",
     name: "EASYLONGER ES960",
     amazonQuery: "EASYLONGER ES960 CPAP",
-    amazonUrl: "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41qYyeKqxCL._SL500_.jpg",
     specs: ["Capacity: 297.6Wh","Battery chemistry: LiFePO4","Buyer check: Verify current model compatibility","Buyer check: Verify current model compatibility"],
     specList: [
@@ -189,6 +189,6 @@ export const relatedGuides = [
 export const sources = [
   { title: "FDA: power outage planning for electricity-dependent medical devices", href: "https://www.fda.gov/medical-devices/home-use-devices/how-prepare-and-handle-power-outage-medical-devices-require-electricity" },
   { title: "ResMed battery options and compatibility guidance", href: "https://www.resmed.com/en-us/healthcare-professional/products-and-support/accessories/battery-options/" },
-  { title: "GRECELL EB500 listed specifications", href: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20" },
-  { title: "EASYLONGER ES960 listed specifications", href: "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-20" }
+  { title: "GRECELL EB500 listed specifications", href: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20" },
+  { title: "EASYLONGER ES960 listed specifications", href: "https://www.amazon.com/dp/B0FNQZYQTH?tag=rvgearlab-amz-20" }
 ];

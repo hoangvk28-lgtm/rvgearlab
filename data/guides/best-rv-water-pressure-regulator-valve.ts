@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515XuiRZohL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N7JZTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N7JZTYX?tag=rvgearlab-amz-20",
     "description": "The Renator Gauge Valve is a brass adjustable regulator with a stainless steel liquid-filled gauge. Each batch is tested to contain less than 0.13 percent lead, and the inlet screen helps filter water.\n\nCompared with the RVGUARD Knob, it adds a gauge and a US support line, which helps when diagnosing a worn valve. It costs more than the preset Camco PSI Guard, which has no adjustment.\n\nIt is best for owners who want one valve they can monitor and tune. The caveat is that the gauge adds a part that can fail in freezing weather.",
     "specs": [
       "Adjustable with liquid-filled gauge",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NH97afS3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQF8G4TX?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO Adjustable is preset to 45 psi but can be adjusted, and the listing says it complies with NSF/ANSI/CAN 372:2024. The package includes 2 additional water inlet cartridges and a roll of water tape.\n\nThe extra cartridges are the point: replacing a clogged inlet is cheaper than replacing the valve, an edge over the RVGUARD Knob. It costs about the same as the RVGUARD Knob but includes more spares.\n\nIt suits buyers who want a valve and spares in one box. Confirm that the cartridges fit the model you receive.",
     "specs": [
       "Preset 45 psi, adjustable",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41THEbJviQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVDNHG1M?tag=rvgearlab-amz-20",
     "description": "The RVGUARD Knob has an adjustable knob you turn by hand, with no tool required. The listing says it meets NSF/ANSI 61 and 372 and uses C46500 lead-free brass treated by hot casting.\n\nIt is the one to pick over the STMOUTUO Adjustable if you value a simple, certified-style knob over the extra cartridges. It sits above the preset Camco PSI Guard because you can change pressure.\n\nIt is best for hand-adjusters who want a documented lead-free alloy. Expect no gauge in the listing, so read pressure with a separate gauge.",
     "specs": [
       "Adjustable knob, no tool",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5188lLUL8nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003BZD08U?tag=rvgearlab-amz-20",
     "description": "The Camco PSI Guard is a brass preset valve with a built-in PSI Guard set to 40 to 50 psi. The listing calls it drinking water safe and CSA lead-free.\n\nWhere the Renator Gauge Valve gives you control, the Camco is a fit-and-forget part with no knob to shift. It costs about twice what the Hourleey Preset does, mostly for the brand and certification mention.\n\nIt suits campers who want a simple, known preset valve. The caveat is that it cannot be adjusted if your coach prefers 55 psi.",
     "specs": [
       "PSI Guard preset 40 to 50",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41M64ay-aTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08THYF81H?tag=rvgearlab-amz-20",
     "description": "The Hourleey Preset is a brass valve that keeps water at 40 to 50 psi, with a stainless steel filter screen. The listing says it fits all 3/4 inch hose threads and describes a lead-free structure.\n\nIt undercuts the Camco PSI Guard and matches the STMOUTUO Preset on price, but lists less about certification. It is the one to buy as a cheap spare because replacing a valve costs less than a tank of campground water.\n\nIt suits owners who want a backup in the glove box. Do not rely on it for its lead-free claim without a clear certification mark.",
     "specs": [
       "Preset 40 to 50 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kJ9JW+hjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRP9VKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRP9VKN?tag=rvgearlab-amz-20",
     "description": "The STMOUTUO Preset has a PSI Guard preset to 40 to 50 psi and a built-in stainless steel filter screen. It is described as heavy-duty lead-free brass that fits all 3/4 inch garden hose connections.\n\nIt matches the Hourleey Preset on price and preset range, but its listing leans on filtering and durability wording. Compared with the Camco PSI Guard it costs much less and offers no CSA mention.\n\nIt is a fine pick for a second valve or a spare. Treat the lead-free language as unverified until you see a named certification.",
     "specs": [
       "PSI Guard preset 40 to 50",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bPCXq3cOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2LBTWWV?tag=rvgearlab-amz-20",
     "description": "The Naturehike Star Trail is a two person tent that the listing weighs at 2.76 lb and packs to 17.7 by 5.1 inches. The fly is 10D nylon with PU1500 mm or more, and the inner floor and footprint use 20D nylon at PU3000 mm.\n\nIt is the lightest two person shelter in this guide, ahead of the 3.97 lb Naturehike Cloud-Up 2 by more than a pound. The inner space of 82.7 by 51.2 by 39.3 inches gives a sitting-height center.\n\nIt suits backpackers who share a tent, or solo hikers who want a roomy 2-person tent at a solo carry weight. Full mesh walls and a three minute setup keep the pitch simple.",
     "specs": [
       "2.76 lb, 17.7 x 5.1 inch pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KI2nvfQfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D31F6PBB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D31F6PBB?tag=rvgearlab-amz-20",
     "description": "The Naturehike Cloud-Up 2 is a freestanding two person tent in 20D nylon with a silicone coating and a PU4000 mm waterproof rating. The pack size is 15.7 by 5.1 by 5.1 inches, the weight is 3.97 lb, and a footprint is included.\n\nNext to the Naturehike Star Trail, it gives up about 1.2 lb for a much higher stated rain rating and a more durable 20D fabric. Compared with the ALPS Lynx 1, it carries a two person floor of 82.7 by 49.2 inches at a lower weight.\n\nIt suits backpackers who hike in changeable weather and want a freestanding, easy pitch. The front window vent cuts condensation.",
     "specs": [
       "3.97 lb, 15.7 x 5.1 inch pack",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416z7msx0TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081R35BXY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081R35BXY?tag=rvgearlab-amz-20",
     "description": "The ALPS Lynx 1 is a freestanding one person tent that weighs 4 lb 1 oz with two aluminum poles. The fly is 75D 185T with a 1500 mm coating, the floor is 2000 mm poly taffeta, and the half-mesh walls help airflow.\n\nCompared with the Naturehike Cloud-Up 2, it is a solo tent at about the same weight, so it has less floor space and a clear vestibule. Against the Reactive 3 Second, it uses a conventional pole frame that is simple to repair.\n\nIt suits solo backpackers who want a freestanding tent from a known mountaineering brand. The vestibule and mesh pockets keep gear organized.",
     "specs": [
       "4 lb 1 oz, two aluminum poles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jJGFqDRwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BR789JDV?tag=rvgearlab-amz-20",
     "description": "The Reactive 3 Second is a pop-up tent with a self-locking structure, a 3000 mm HH rating and fully taped seams. One person can set it up in seconds, and the bag has an extra wide opening with buckle straps.\n\nWhere the ALPS Lynx 1 needs poles threaded, this tent just pulls up and locks, so it is the fastest to pitch of anyone here. It is unlike the Naturehike options in that no weight or packed size appears in the listing.\n\nIt suits campers who prize speed and an easy bag over the lowest possible weight. It is good for short trips and festival-style camps.",
     "specs": [
       "Self-locking pop-up frame",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LnrN9TvOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078ZZ5QPX?tag=rvgearlab-amz-20",
     "description": "The camppal Long Solo is a one person tent with an 8.2 ft long inner and a 3500 to 4000 mm waterproof rating. A single aluminum pole holds it up, the listing notes seam taping on zippers and corners, and the fly cites CPAI-84 fire retardant fabric.\n\nIt is the most affordable tent in this guide, which leaves money in the budget for a footprint. Compared with the ALPS Lynx 1, it states a much higher rain rating and a longer inner tent, with no weight given.\n\nIt suits tall or budget-minded solo campers who need length and rain protection. Setup is described as about three minutes.",
     "specs": [
       "8.2 ft long inner tent",

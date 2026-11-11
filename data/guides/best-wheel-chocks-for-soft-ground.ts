@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U+Cg40-cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F125L64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F125L64?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 50019 is a three-sided reinforced rubber chock measuring 9.5 by 5 by 4.25 inches. It has ribbed construction, a traction pad on the base and reflective tape on all sides, and a 36 inch nylon rope comes with the pair.\n\nIt is the largest footprint in this group, which is what matters most when the ground gives way under load. Compared with the WEYCALI, the MaxxHaul has a three-sided shape and a rope, while the WEYCALI focuses on a textured solid rubber bottom. Against the Nilight and the high-visibility MaxxHaul polypropylene pair, it is heavier and more planted, so it is far less likely to slide on wet grass or dirt.\n\nThis is the pick for owners of mid-size to heavy trailers who camp on grass, gravel and dirt pads and want a chock that stays where it is placed. At about $26 for a pair with a rope and reflective tape, it is also the most complete package of the four.",
     "specs": [
       "9.5 x 5 x 4.25 inch",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mmuqpw0-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWHMS8D5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWHMS8D5?tag=rvgearlab-amz-20",
     "description": "WEYCALI makes solid rubber chocks with a textured non-slip base that grips pavement, gravel, grass and garage floors. They are sized for light truck and trailer wheels, and the solid rubber construction is meant to resist cracking and warping.\n\nThe focus here is the bottom surface, which differs from the MaxxHaul 50019's three-sided design with traction pad and rope. At about $20, the WEYCALI costs about $6 less than the MaxxHaul, and it uses a denser, simpler rubber build than the lighter plastic pairs from Nilight and MaxxHaul polypropylene. That extra mass helps it resist moving on loose ground.\n\nThe WEYCALI is a good choice for owners of smaller travel trailers and campers who camp on mixed surfaces, switching between a gravel driveway, a grass site and a concrete pad. If you want solid rubber at a lower price and do not need a rope, it is a strong middle option.",
     "specs": [
       "Solid rubber",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lGExWlVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FB8BWK16?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FB8BWK16?tag=rvgearlab-amz-20",
     "description": "Nilight chocks are high-density polyethylene with a pull strap. They fit tires up to 24 inches in diameter and are rated for up to 4,400 pounds of support, and they are light enough to toss in a storage bin without a second thought.\n\nNext to the rubber options, the Nilight is the lightest and the lowest priced at about $13, and it is the only pick in this group with a stated pounds rating. Compared with the MaxxHaul 50019 and the WEYCALI, it will not bite into soft ground as well, because plastic has less mass and less natural grip. The MaxxHaul polypropylene pair is similar in weight but covers tires up to 26 inches.\n\nThis is the pick for small utility trailers, pop-ups and teardrops that sit on firm gravel or packed ground, where a lightweight, rated chock with a strap is all you need. The pull strap helps you retrieve it after the tire has rested against it.",
     "specs": [
       "High-density polyethylene",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QwOh+X8ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07X443DWV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07X443DWV?tag=rvgearlab-amz-20",
     "description": "MaxxHaul's neon green polypropylene pair measures 8.4 by 4.75 by 4.25 inches, weighs 1.6 pounds each and fits tires up to 26 inches. A serrated wedge top grips the tire, and the non-slip base is made to resist skating.\n\nThe bright green is the standout feature, because a chock in soft grass or dim light is easy to lose, and the high-visibility color makes it much easier to find. Compared with the black rubber MaxxHaul 50019 and WEYCALI, it is far lighter and easier to carry. It also fits a slightly larger tire than the Nilight, which tops out at 24 inches, and costs about the same.\n\nThis is the pick for small RVs and utility trailers with tires up to 26 inches, where being able to spot the chocks in tall grass matters. It is a practical, affordable set for lighter rigs and for anyone who wants a chock that stays visible.",
     "specs": [
       "8.4 x 4.75 x 4.25 inch",

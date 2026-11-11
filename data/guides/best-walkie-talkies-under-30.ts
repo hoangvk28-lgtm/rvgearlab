@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+CD3vWABL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK89KHNZ?tag=rvgearlab-amz-20",
     "description": "The SOCOTRAN TH25 is a two-pack of rechargeable FRS radios with 22 channels and 50 CTCSS codes, a 1,400mAh battery with up to 48 hours of standby, Type-C charging, channel scanning, dual watch and VOX hands-free mode. A scan function lets one radio sweep channels for activity.\n\nIt costs about $22, around $2 more than the MaxTalker MT10, and it adds scanning and dual watch that the MaxTalker lacks. It stays license-free like the MaxTalker, which the UHF packs cannot promise.\n\nIt suits camp groups and families who want license-free radios with plenty of battery. The Type-C port means a power bank charges them.",
     "specs": [
       "22 FRS channels, 50 CTCSS codes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iL02sIRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG87NKLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG87NKLM?tag=rvgearlab-amz-20",
     "description": "The MaxTalker MT10 is a rechargeable FRS two-way radio pair with 22 channels, 99 privacy codes and a 1200mAh lithium battery in each radio. The pack is sold with a claim of up to 5 miles on open ground.\n\nIt costs about $20, the lowest price among the FRS packs, and it gives 99 privacy codes where the SOCOTRAN TH25 offers 50. It has no scanning or dual watch, so it is a simpler radio.\n\nIt suits campers who want a license-free pair for the least money. Keep the 5 mile claim in perspective, since trees and hills cut range sharply.",
     "specs": [
       "22 channels, 99 privacy codes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A9qFkaZHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08HK5SXH1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08HK5SXH1?tag=rvgearlab-amz-20",
     "description": "The pxton 888S Earpiece is a pair of rechargeable UHF radios with earpieces, 16 preset channels, 50 CTCSS and 105 CDCSS codes, VOX, scanning, a low battery alarm and a night flashlight. The shell is hard, drop-resistant and rainproof.\n\nIt costs about $20, close to the MaxTalker MT10, and the earpieces and flashlight are the features it adds. It operates on UHF, which means FRS-only rules do not cover it, so check FCC licensing before using it.\n\nIt suits groups who already hold the right license, or hunters and workers who want a rugged pair with earpieces. Ask the seller about frequency programming first.",
     "specs": [
       "16 UHF channels, CTCSS/CDCSS",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411uN+voEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H297G641?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H297G641?tag=rvgearlab-amz-20",
     "description": "The FONGHOO HT-8S 3-Pack gives three UHF radios with 16 channels, a flashlight, VOX, CTCSS/DCS, scan and an emergency alarm. Each radio has a 1000mAh rechargeable battery and a charging base, and the pack claims up to 3 miles in open areas and 0.6 to 1.2 miles in towns.\n\nIt costs about $30, the top of the range, and three radios cover a third person that the pairs cannot. Like the pxton 888S Earpiece it works on UHF, so license rules apply.\n\nIt suits small teams, hunting parties and work crews who already know the rules. Check local licensing before first use.",
     "specs": [
       "16 UHF channels, scan, VOX",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IAMDvanlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00GU4O3LC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00GU4O3LC?tag=rvgearlab-amz-20",
     "description": "The Retevis RT628 Kids has 22 FRS channels with 121 CTCSS/DCS codes, hands-free VOX with a belt clip and a key lock that fixes the volume, menu and channel. The shell is tough ABS plus PC polymer and the radios take 3 AA batteries each, sold separately.\n\nIt costs about $19, the lowest in this guide, and the key lock stops young children from changing settings. It uses AA batteries, which are easy to swap on the trail where the other packs need charging.\n\nIt suits families with kids who want license-free radios that stay on the right channel. Pack spare AA batteries.",
     "specs": [
       "22 FRS channels, 121 codes",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RAktfCJYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ5MS2LR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ5MS2LR?tag=rvgearlab-amz-20",
     "description": "The Coast WPH10R gives a 1000-lumen bullseye spot beam and red illumination at low, high and flashing levels. A magnetic tailcap, clip and IP67 rating for submersion up to 1 meter finish the package.\n\nIt is the only pick rated for full submersion and the only one with a magnetic tailcap, and it holds a fixed spot beam. The zoom and flood lamps below it spread light more.\n\nIt suits campers who want a rugged lamp for distance. It also snaps to metal surfaces for hands-free work.",
     "specs": [
       "1000 lumens spot, red modes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B4qF+Aj0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0762CW1C1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0762CW1C1?tag=rvgearlab-amz-20",
     "description": "The DanForce Bold-S is a USB rechargeable aluminum headlamp with a zoomable beam, multiple modes and a red light function. The adjustable headband is lightweight, and the housing is water-resistant for camping, work and travel.\n\nIt zooms between flood and spot, which the fixed-beam Coast cannot do, and its aluminum build suits hard-hat use. Its title carries a 1080 lumen claim.\n\nIt suits campers and workers who want one rechargeable lamp that zooms. The listing is short on battery detail.",
     "specs": [
       "USB rechargeable, zoomable",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t-hC3JD8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C7TSXYRN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C7TSXYRN?tag=rvgearlab-amz-20",
     "description": "The HOKOILN 2-Pack has a white LED plus red and green beams, 1300LM in the title, seven modes, a 90-degree tilt and a 2.5 ounce body. USB-C charging takes about 3 hours, and the IPX4 rating handles rain.\n\nIt adds a green beam that suits reading maps in low light, beyond what the Coast's red offers. It also gives two lamps in the box.\n\nIt suits campers who want red, green and white in one affordable pair. The washable headband keeps it comfortable.",
     "specs": [
       "1300LM title, seven modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xnXjY-XdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WP393CS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WP393CS?tag=rvgearlab-amz-20",
     "description": "The Lepro 2-Pack lists an XPE LED that reaches 500 feet, up to 30 hours on a single charge, and three white levels plus two red levels. A permanently integrated Li-ion battery, 2.85 ounce weight and IPX4 rating are named.\n\nIt gives the longest stated runtime in the group and a spare lamp. It does not take replaceable batteries, which the listing states clearly.\n\nIt suits budget campers who want a pair with a stated 30 hour runtime. The headband is removable and washable.",
     "specs": [
       "XPE LED, 500 ft reach",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4101drbQ4nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3VDXB19?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3VDXB19?tag=rvgearlab-amz-20",
     "description": "The Blukar lists XPG and COB LEDs with stepless dimming, eight modes and a motion sensor. A 1,200mAh battery charges in 2 to 3 hours over USB-C, and an IPX5 rating and 45-degree tilt are named.\n\nIt adds stepless dimming and a better IPX5 rating than the Lepro's IPX4. It offers COB red and red SOS modes.\n\nIt suits campers who want a hand-wave control and fine brightness steps. The pack includes two lamps.",
     "specs": [
       "Stepless dimming, eight modes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iUGXO9gQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVLXJ2WJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVLXJ2WJ?tag=rvgearlab-amz-20",
     "description": "The DARKBEAM single is a red-only rechargeable lamp with three modes: two main red levels and a side red flashing mode. The listing says the main red lasts about 3 hours and the side red 28 hours, with a 60-degree tilt and IPX4 rating.\n\nIt is the one pick with no white light, so it protects night vision best, and it is among the lowest priced. It cannot serve as a trail lamp.\n\nIt suits stargazers who need a cheap, dedicated red lamp. A second red lamp can sit in the car.",
     "specs": [
       "Red-only, three modes",

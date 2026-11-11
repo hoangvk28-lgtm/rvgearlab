@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjOXXzYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-amz-20",
     "description": "The CURT 17063 is a round bar weight distribution hitch that includes sway control kit 17200. The listing rates it 10,000 to 14,000 lb gross trailer weight and 1,000 to 1,400 lb tongue weight, limited by the lowest-rated component, and says the adjustable 2 inch shank can be flipped for drop or rise.\n\nIt ranks first because it combines a stated rating range, a sway kit and grease zerk fittings for the spring bar mounts. Compared with the VEVOR 1500 below it names the sway kit by number and costs more.\n\nBest for a camper that needs the sway kit in the box and a hitch that spans several tongue weights. The listing says grease must be applied to the zerks, so plan for upkeep.",
     "specs": [
       "10,000-14,000 lb GTW rating",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YvnyB3NOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F21W82JQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F21W82JQ?tag=rvgearlab-amz-20",
     "description": "The VEVOR Sway Control Weight Distribution Hitch lists a 1,500 lb capacity in the title, a 2 inch solid steel shank and a 2-5/16 inch alloy steel ball. The listing describes a four-way dynamic stability system, an adaptive leveling system and a tilt head.\n\nAgainst the CURT 17063 above it costs less and describes sway resistance in four directions, but it does not name a sway kit part or a trailer weight rating. Compared with the FAHKNS 14000 below, it states the shank and ball sizes.\n\nBest for a camper owner who wants a complete kit at a lower price. Confirm the trailer weight rating, since the title states only the 1,500 lb capacity.",
     "specs": [
       "1,500 lb capacity in the title",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315WPNES0CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJRMT633?tag=rvgearlab-amz-20",
     "description": "The FAHKNS weight distribution hitch with sway control bar lists a towing capacity of up to 14,000 lb, a trailer sway control lever, spring bars and six height adjustments. The ball on the head is pre-installed.\n\nNext to the VEVOR 1500 above, it gives a clear towing rating but does not state shank or ball sizes in its feature list. It costs a little less than the Dollate Sway Bar below.\n\nBest for a heavier camper where a 14,000 lb rating matters. Confirm the tongue weight rating and ball size with the seller.",
     "specs": [
       "Up to 14,000 lb towing capacity",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21jppVXhxpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-amz-20",
     "description": "The Dollate weight distribution hitch with sway control bar lists a pre-installed head ball, a square handle with 6 holes for height adjustment, and a spring bar and devices that increase resistance to trailer sway. The listing's towing capacity figure is cut off.\n\nIt names a sway bar like the FAHKNS 14000, but its rating is the least clear of the four. It costs a little more than the FAHKNS 14000 above.\n\nBest for a lighter camper once the seller confirms the rating. Do not buy it until you know the tongue weight limit.",
     "specs": [
       "Weight distribution with sway bar",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31URi7WhldL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B61YZP43?tag=rvgearlab-amz-20",
     "description": "The Fastway Connect is a chain-style weight distribution hitch rated for 1,000 lb tongue weight and 10,000 lb trailer weight. The listing does not mention sway control, and it says it installs without frame drilling on RV, cargo, utility, horse and ATV trailers.\n\nUnlike the other hitches here, it does not list sway control, so it is a weight distribution hitch to pair with a friction bar if you need one. It is the cheapest hitch kit in this guide.\n\nBest for a camper that needs load leveling and gets a sway bar separately. Do not buy it expecting built-in sway control.",
     "specs": [
       "1,000 lb tongue, 10,000 lb trailer",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sdPwzXzML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000HLU8IG?tag=rvgearlab-amz-20",
     "description": "The CURT 17201 is a trailer-mounted sway control ball that attaches to the trailer frame for sway control unit 17200. It comes with four self-tapping bolts and a powder coat finish, and some drilling is required.\n\nIt is the same kind of part that the CURT 17063 kit relies on, but it is an accessory rather than a hitch. It costs a fraction of any kit here.\n\nBest for adding a trailer-side ball to a bar system you already own. It does nothing without a hitch and a bar.",
     "specs": [
       "Trailer-mounted sway ball",

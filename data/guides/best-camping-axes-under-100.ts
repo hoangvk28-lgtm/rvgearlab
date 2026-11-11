@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yVmtHYhsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D22KT2RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D22KT2RT?tag=rvgearlab-amz-20",
     "description": "Rigid, weatherproof materials make the HX Splitting G10 the best-built small hatchet in this price range. It has a heat-treated 5Cr15MoV tall grind blade, a G10 handle with a non-slip texture and a Kydex sheath, and the head doubles as a hammer.\n\nIt costs about $65, $15 below the HX Mercenary and about $25 more than the Rhino USA Saw Combo, and it spends the extra on steel and handle quality rather than on features. Against the Gerber Pack Hatchet it brings a larger striking head and a rigid sheath.\n\nIt suits bushcrafters and survival campers who want a small hatchet that survives for years. It suits kindling, carving and light batoning.",
     "specs": [
       "5Cr15MoV tall-grind blade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NgWUro5YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DTHCDVR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DTHCDVR?tag=rvgearlab-amz-20",
     "description": "Small and trail-ready, the Gerber Pack Hatchet is 9.46 inches long and weighs 20.8 oz. It has a 3.5 inch black oxide coated tall-grind blade, full tang construction and a removable nylon sheath that mounts to a pack or belt.\n\nIt costs about $52, which is $13 under the HX Splitting G10, and it is the lighter, more pocketable of the two. Its blade is smaller than the Purple Dragon Hickory, while its full tang is more resistant to breakage.\n\nIt suits hikers and backpackers who carry the tool far and use it mostly for kindling. The lanyard hole keeps it from sliding off.",
     "specs": [
       "3.5 inch tall-grind blade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IKmM2CZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW33P1PB?tag=rvgearlab-amz-20",
     "description": "Hand forging and a hickory handle set the Purple Dragon Hickory apart in this lineup. The 14.7 inch tool has a cow-foot carbon-manganese head, an S-curve handle with long shock-absorbing fibers, rubber lips on the splitting faces and a hand-stitched leather holster.\n\nIt costs about $38, the cheapest tool here, and it splits better than the compact models thanks to its length and head shape. It is the only traditional wood-handled tool in the group.\n\nIt suits campers who want an authentic forestry-style splitter and care for tools. Condition the wood each year.",
     "specs": [
       "14.7 inch hand-forged head",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AW92kgtjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQKVBYDD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQKVBYDD?tag=rvgearlab-amz-20",
     "description": "Everything needed to cut wood and light a fire comes in the Rhino USA Saw Combo. It has a carbon steel axe head, a dual cut folding saw and a sheath with a ferro-magnesium rod.\n\nIt costs about $40, close to the Purple Dragon Hickory, and it adds a saw and a fire starter that the others lack. Its lifetime replacement backs the whole kit.\n\nIt suits first-time campers and gift buyers who want a ready-made kit. Experienced users will prefer a stronger single tool.",
     "specs": [
       "Carbon steel axe head",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xFVhzxplL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07QWWLJ3Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07QWWLJ3Y?tag=rvgearlab-amz-20",
     "description": "Hammer and pry functions give the HX Mercenary its tactical engineer reputation. It has a stainless steel blade, a leather sheath and a shock-proof build with a pry tool and a hammer face.\n\nIt costs about $80, the top of the range, and nothing else here includes a pry tool. It is a rescue-style axe, which makes it heavier and less refined than the HX Splitting G10 for camp tasks.\n\nIt suits vehicle kits and preparedness buyers who want a rescue tool on the shelf. It is not a first pick for camp chopping.",
     "specs": [
       "Stainless steel blade",

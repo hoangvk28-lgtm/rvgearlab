@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Op-1WfPTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSTHTMXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSTHTMXN?tag=rvgearlab-amz-20",
     "description": "The Winegard Basestation 5G BS-5G01 is an indoor mobile router that combines 5G cellular, dual-band Wi-Fi and Ethernet with automatic failover. It uses a CAT20 modem with extensive 5G NR and 4G LTE band support and a Gigabit Ethernet backhaul, so a Starlink dish plugs straight in as the primary link while the built-in modem waits as the backup.\n\nCompared with the Winegard Basestation 4G in this guide, the 5G model upgrades the cellular side from LTE to a CAT20 5G modem, which matters most when your backup has to carry real work traffic at a campground with 5G towers. It also adds Bluetooth sync with RV Halo sensors, bringing water and motion monitoring into the same hub, and Wi-Fi coverage rated up to 1000 feet around the coach.\n\nIt is the best fit for full-timers who want one hub that manages Starlink, cellular and sensors together. Remote workers who rely on the backup link for video calls, uploads and VPN sessions get the most from the faster modem, and the single-box approach keeps the install tidy inside the rig.",
     "specs": [
       "5G CAT20 modem",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ttLZOMI3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSTFLQ7N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSTFLQ7N?tag=rvgearlab-amz-20",
     "description": "The Winegard Basestation 4G BS-4G01 combines 4G LTE and dual-band 802.11ac Wi-Fi with a Gigabit Ethernet WAN port for Starlink or campground sources. It has dual Mini SIM slots, GPS support and auto-switch failover between a primary and a backup connection, and it is rated for minus 22 to 158 degrees Fahrenheit.\n\nAgainst the Winegard Basestation 5G above, it delivers the same failover behavior for about 150 dollars less. The difference is the cellular modem: LTE speeds are plenty for email, calls and streaming when Starlink drops, and the temperature rating means the router survives a closed rig in summer heat or a winter storage stretch without trouble.\n\nThis is the pick for RVers who bought Starlink as their main internet and want a dependable safety net without paying for 5G speed they may not use. Weekend travelers, snowbirds on fixed routes and anyone budgeting a full connectivity setup will find it the more sensible hub.",
     "specs": [
       "4G LTE, dual Mini SIM",

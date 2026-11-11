@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-3nWtaarL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGJG1V2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGJG1V2N?tag=rvgearlab-amz-20",
     "description": "The OLIGHT ArkPro Lite carries three light sources: up to 1200 lumens of white light, a 365nm UV light at 1000mW and a red light. It charges by magnetic cable or USB-C, and the listing quotes up to 10 days of continuous light from a full charge.\n\nIt is the only pick with a red light, and it matches the HOTLIGH ZF8313's UV source. The flat shape has anti-slip texture and a two-way pocket clip.\n\nIt suits campers who want a premium pocket light for map reading and night vision. The red light preserves night vision without being seen from afar.",
     "specs": [
       "1200 lumens, red, 365nm UV",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416RCU1MkeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28L87F6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28L87F6?tag=rvgearlab-amz-20",
     "description": "The Guardtier M70 lists 1100 lumens and a throw of 177 meters from a 6500K LED, with Turbo, High, Medium, Low and Strobe modes. An 800mAh non-removable battery charges in about 2 hours by USB-C for up to 20 hours of use, and the body is 3.8 inches long and weighs 2.1 ounces.\n\nIt lists the longest stated throw of the five at 177 meters, ahead of the HOTLIGH's 144 meters, and it is one of the lightest. The aerospace-grade aluminum has a Type III coating rated from -40C to 60C.\n\nIt suits campers who want a credit-card-length light with real reach. A double-click shortcut jumps to Turbo.",
     "specs": [
       "1100 lumens, 177 m throw",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Sgi6zbRlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH2DLXBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH2DLXBG?tag=rvgearlab-amz-20",
     "description": "The HOTLIGH ZF8313 lists 2000 lumens with a 144 meter beam, a 2000mAh battery with Type-C charging in about 2 hours, and an IPX6 rating. A magnetic body, a sidelight with full-color RGB breathing modes and a UV light source are also listed.\n\nIt has the highest lumen listing and the biggest battery of the pocket lights, with an IPX6 rating that beats the OLIGHT's unlisted splash rating. The RGB side effect doubles as a signal or tent mood light.\n\nIt suits campers who want a magnet to hang the light hands-free from a tent frame. The UV mode checks for scorpions and stains.",
     "specs": [
       "2000 lumens, 144 m beam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bTf4haRnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT6SS412?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT6SS412?tag=rvgearlab-amz-20",
     "description": "The WUBEN G5 offers up to 400 lumens from a dual-LED setup with three white modes, a 180-degree rotatable lamp head and clip, Type-C charging and a magnetic base. The listing describes a slide-to-charge design that works in the dark.\n\nIts rotating head turns the light into a work lamp on a hat brim, which no other pick can. It is also the lowest brightness of the five at 400 lumens and one of the cheapest.\n\nIt suits campers who want a small, clip-on light for hat, collar or tailgate. Another listing of the same G5 is folded into this pick.",
     "specs": [
       "400 lumens, rotating head",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+gNP-ZkBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VNCWZBF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VNCWZBF?tag=rvgearlab-amz-20",
     "description": "The GearLight TAC set includes two lights measuring 5.31 by 1.48 by 1.48 inches, with AAA battery holders (batteries not included), tubes, lanyards and belt clips. The military-grade aluminum is water-resistant and listed to survive a 10-foot drop.\n\nIt is the one pick that runs on common AAA cells and the only two-pack, which the OLIGHT and Guardtier cannot match. It trades recharging for simplicity and has a longer body than the Guardtier.\n\nIt suits campers who want a no-charging, drop-tested pair for the glove box and the pack. One-touch operation keeps it simple.",
     "specs": [
       "Two lights, AAA battery holders",

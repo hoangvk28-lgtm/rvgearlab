@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k8gf20b3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08623RV79?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08623RV79?tag=rvgearlab-amz-20",
     "description": "The Teton Mesa 14 is a canvas cabin tent for 6 to 8 people with extra-high ceilings, a large entry awning, power access ports and two loft and two pocket organizers. Oversized front and back doors let you carry gear in easily, and carbon steel stakes are included.\n\nBuilt-in power access and organizers make it the best-equipped family base camp in the group. The WaldZimmer wall tent has a stronger frame while the Mesa sets up quickly by pushing down the top bar and pinning on the uprights.\n\nIt suits families who camp in one spot for several nights and want furniture room and a covered entry. The mesh screens add airflow and views.",
     "specs": [
       "6 to 8 person canvas cabin",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxFCObM5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4C313P6?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer wall tent is built from polycotton canvas over a steel frame, with a PVC floor under a separate rainfly. It fits 6 to 8 people and has four steel stabilizing wires, double-layer doors, rainproof eaves, 33 pegs and 21 wind ropes.\n\nA steel frame with stabilizing wires makes it the sturdiest structure in the group, ahead of the pole-and-center designs of the bells. It costs about $100 more than the WildFinder and Teton Mesa 14.\n\nFamilies wanting the wall-tent shape with straight sides and a large rope and peg kit will find it ideal. The canvas also insulates against temperature swings.",
     "specs": [
       "Steel frame and PVC base",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 16.5 foot yurt-style bell with a 210G TC cotton roof, Oxford wall fabric and double-stitched reinforced seams. Walls stand 55 inches high under a 9.2 foot peak, with a pre-installed stove jack.\n\nIt has taller walls than most bells, and it costs less than the WaldZimmer Wall Tent. The VEVOR 4 m Bell and Glamcamp 4 m Bell are smaller and have fewer walls to stand beside.\n\nIt suits large groups who want a heavy-duty fabric and room to stand at the edges. A removable floor and roll-up sidewalls help ventilation.",
     "specs": [
       "16.5 ft, 55 in walls",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E-2hTT46L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWNKXQSD?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4 m bell measures 13.12 feet across and sleeps up to 6 in TC technical cotton. The stove hole measures 3 inches and has a flame-resistant cover, and 12 reflective ropes with tensioners hold the walls.\n\nIt costs less than half of the WaldZimmer Wall Tent and has a similar sleeping capacity. It is smaller than the WildFinder, which gives less standing space and a quicker pitch.\n\nIt suits groups who want a bell with a stove hole at the lowest price. A rain cap, stakes and tent bag are in the box.",
     "specs": [
       "4 m bell, TC cotton",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xYWOqmWWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085T9SCLW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085T9SCLW?tag=rvgearlab-amz-20",
     "description": "The Glamcamp is a 4 meter bell made from 200 g per square meter poly-cotton canvas with a 3000mm PU coating and a zip-out 500 g PVC floor. It has a 5 inch top stove jack and a side-wall stove hole, weighs about 30 kg and sets up in under 20 minutes.\n\nOnly this pick pairs a stated fabric weight and coating with two stove openings. It is smaller than the WildFinder 16.5 ft Bell and priced between the VEVOR and the Teton.\n\nA strong choice for pairs and small households wanting a well-specified bell with a flexible floor. It holds two queen beds or a bed plus two singles.",
     "specs": [
       "200 gsm poly-cotton, 3000mm",

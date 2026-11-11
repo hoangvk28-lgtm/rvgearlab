@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ViCsDyHLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MR9WS8F?tag=rvgearlab-amz-20",
     "description": "The CURT TruTrack 2P is a 10K weight distribution hitch with integrated sway control, and its two friction brackets resist lateral movement at two points. The listing also points to a head tilt adjustment that removes the need for washers during setup.\n\nAgainst the CURT 17062 Round Bar below, the TruTrack 2P trades a separate bolt-on sway kit for built-in friction brackets, and the listing says its adjustable brackets give fixed support unlike spring bar chain models. That makes the tall side of an enclosed trailer feel more planted, though it costs more.\n\nIt suits an owner of a tall, boxy cargo or race trailer who gets pushed around by passing trucks. The page does not list a drop, so confirm shank height against your truck.",
     "specs": [
       "Two points of friction sway control",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pMOVrDcnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1EEFM?tag=rvgearlab-amz-20",
     "description": "The CURT 17062 is a round bar weight distribution hitch rated at 10,000 lb, and it includes sway control kit 17200. It has a grease zerk for lubrication and forged steel round spring bars.\n\nIts sway control is a friction bar kit, so it needs an on and off step that the CURT TruTrack 2P does not. In return it costs less and uses a long-proven round bar layout that many shops stock parts for.\n\nPick it if you want a recognizable system with its sway kit already in the box. Note that the listing says the zerk must be greased to lubricate, so plan for a grease gun.",
     "specs": [
       "10,000 lb rated hitch",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pQrRly2eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRH7YQJX?tag=rvgearlab-amz-20",
     "description": "The MaxxHaul 51191 is an 11,500 lb capacity weight distribution kit that comes with sway control, a deep-drop 2 inch steel shank, and a 2-5/16 inch ball. The shank gives 8.5 inches of drop and clamp-on brackets accept trailer frames up to 7 inches wide.\n\nIt is the pick that gives you the most drop and the highest capacity in this group, ahead of the CURT 17062 Round Bar. The tradeoff is that the listing is less specific than CURT about how its sway control works.\n\nIt fits owners with a tall truck and a cargo trailer on a tight budget. Check that your receiver is 2 inches and your frame is no wider than 7 inches.",
     "specs": [
       "11,500 lb capacity",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319kvuDdjML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004TR8ZX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004TR8ZX4?tag=rvgearlab-amz-20",
     "description": "This is a complete sway bracket kit for a hitch rated 6,000 to 14,000 lb, and the listing says it fits 3, 4, 5, and 6 inch trailer frames. It is meant to replace or add frame brackets for a matching Equal-i-zer style hitch.\n\nIt lets an owner who already has a compatible hitch add sway resistance for much less than the CURT TruTrack 2P costs. The catch is that it does nothing without that hitch.\n\nBuy it if your enclosed trailer already tows on a matching hitch. The page lists a universal fit type, so verify the part number against your own hitch.",
     "specs": [
       "For 6,000 to 14,000 lb hitches",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uoUsUWdUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKLW126M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKLW126M?tag=rvgearlab-amz-20",
     "description": "The Frtcaty adapter slides onto a standard 2 inch square ball mount and gives a friction sway bar a place to attach. The listing names Class III and Class IV use and says it works with most friction sway control systems.\n\nIt is a connector, not a sway control device, so it ranks below the Equal-i-zer Sway Bracket kit that bundles frame brackets. It is much cheaper though.\n\nIt is a fit for someone who owns a friction bar but lacks a ball-side mount. The listing gives a 1.02 inch main hole, so compare it with your ball shank.",
     "specs": [
       "Fits 2 inch square ball mounts",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317BfR5KYuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QCNGFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QCNGFG?tag=rvgearlab-amz-20",
     "description": "The Giokyi set is two plastic bracket jackets for Equal-i-zer 6K, 8K, 10K, 12K, and 14K hitches, and the listing says they also suit the Fastway e2 and do not fit 4K models. They slide over the bottom of the L-bracket.\n\nIt is an accessory, not a sway control product, so it ranks last behind the Frtcaty Sway Adapter, which at least provides a mount. It targets the metal-on-metal clatter that can bother owners on long tows.\n\nChoose it only if you own a matching hitch and want it quieter. It will not reduce sway on its own.",
     "specs": [
       "Fits Equal-i-zer 6K to 14K",

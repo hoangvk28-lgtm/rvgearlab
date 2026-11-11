@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "HOWEASY Portable Power Station,120W(240W Peak) Solar Generator",
     amazonQuery: "HOWEASY Portable Power Station,120W(240W Peak) Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B09YLWLFLF?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B09YLWLFLF?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41JkdSPMuML._SL500_.jpg",
     specs: ["Capacity: 88Wh","Surge output: 240W","Listed weight: 2.3 lb","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"88Wh"},{"label":"Surge output","value":"240W"},{"label":"Listed weight","value":"2.3 lb"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
     amazonQuery: "ALLWEI Portable Power Station 300W, 256Wh Solar Generator LiFePO4 Battery",
-    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B08CXN4TZR?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41lUtZAkajL._SL500_.jpg",
     specs: ["Capacity: 256Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 6.4 lb"],
     specList: [{"label":"Capacity","value":"256Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"6.4 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "GRECELL Portable Power Station 500W, 519Wh/140400mAh Solar Generator Backup Lithium Battery Pack Power Su",
     amazonQuery: "GRECELL Portable Power Station 500W, 519Wh/140400mAh Solar Generator Backup Lithium Battery Pack Power Su",
-    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0B9H8W8HP?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
     specs: ["Capacity: 519Wh","Continuous output: 500W","Runtime claim: Up to 9 hours","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"519Wh"},{"label":"Continuous output","value":"500W"},{"label":"Runtime claim","value":"Up to 9 hours"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "DaranEner Portable Power Station, 192Wh LiFePO4 Battery Backup Solar Generator",
     amazonQuery: "DaranEner Portable Power Station, 192Wh LiFePO4 Battery Backup Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
     specs: ["Capacity: 192Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 5.73 lb"],
     specList: [{"label":"Capacity","value":"192Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"5.73 lb"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "Jackery Explorer 300 Portable Power Station,292Wh product page",
-    "href": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316LkQvE4nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL4L43L3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL4L43L3?tag=rvgearlab-amz-20",
     "description": "The baleaf Women's Plus Size Curvy is the only pair whose listing states a design for curvy shapes, with extra room through the hips and thighs. An elastic waistband with an adjustable drawcord, ankle cord locks and four deep zipper pockets complete the build.\n\nAgainst the Toomett and TBMPOY, it solves the fit problem in the pattern itself rather than relying on stretch alone. UPF 50+ protection and quick-dry fabric are listed.\n\nIt suits women who want hiking pants cut for their shape from the start. The adjustable waist and ankles let you fine-tune the fit.",
     "specs": [
       "Extra room through hips and thighs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QqQNhZ7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5X7HTPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5X7HTPD?tag=rvgearlab-amz-20",
     "description": "The COPYLEAF Parachute Baggy is a mid-waisted, relaxed cargo pant with a waterproof, quick-dry fabric. Adjustable waistband and cuffs, four pockets including two cargo pockets and a baggy silhouette suit casual wear.\n\nCompared with the baleaf Plus Size Curvy, the baggy shape never grabs the thigh, and it is not sold as a size-specific cut. It is also the cheapest pair here.\n\nIt suits women who prefer a loose, fashionable cargo pant for hikes and everyday wear. Cuffs cinch at the ankle.",
     "specs": [
       "Baggy parachute silhouette",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317mNsOeU3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNS63WR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNS63WR8?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Stretch Cargo is made of lightweight, durable 4-way stretch material described as not see-through. It has an elastic waistband with a buckle, six pockets and a water-resistant, quick-dry finish.\n\nCompared with the Toomett, it has a more adjustable waist and more pockets. Against the baleaf Plus Size Curvy, it relies on stretch rather than a roomier cut.\n\nIt suits women with muscular or full thighs who want stretch rather than loose fabric. The buckle waist adjusts for a close fit.",
     "specs": [
       "4-way stretch, not see-through",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aSrHSlUVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09X5HZ1H2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09X5HZ1H2?tag=rvgearlab-amz-20",
     "description": "The Toomett Stretch Cargo uses four-way stretch, skin-friendly, wrinkle-free fabric with UPF 50+ protection. A roll-up capri design around the knee lets you cool down, and an elastic waistband with five pockets keeps fit comfortable.\n\nCompared with the TBMPOY, it adds UPF 50+ and a roll-up option. It costs more than the TBMPOY and the COPYLEAF.\n\nIt suits women who want stretch plus a way to cool off on hot climbs. Zippered thigh pockets hold snacks and a compass.",
     "specs": [
       "Four-way stretch, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XRsutw4XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GW4WD8MS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GW4WD8MS?tag=rvgearlab-amz-20",
     "description": "The KWZ Lightweight Cargo is a regular-fit, mid-rise, straight-leg pant made of soft, ultra-lightweight, quick-dry fabric. It lacks swishy noise, has mild stretch and five zipper pockets with an elastic drawstring waist.\n\nAgainst the TBMPOY, it offers less stretch and a quieter fabric. Compared with the COPYLEAF, it is more technical and fitted.\n\nIt suits women who want a quiet, straight-leg hiking pant. Cuff drawcords adjust the length.",
     "specs": [
       "Regular fit, mid rise",

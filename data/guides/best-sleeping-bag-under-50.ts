@@ -30,7 +30,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qaYaPc56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPNJLZ6H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPNJLZ6H?tag=rvgearlab-amz-20",
     "description": "The CORE 50 Degree Adult Sleeping Bag is rated for 50F to 70F and uses a polyester lining and shell with synthetic hollow fiber fill. The fill keeps insulating when damp and dries quickly, and an interior accessory pocket holds a phone, keys or a small flashlight within reach. It costs $44.99, the highest price in this lineup.\n\nCompared with the Amazon Basics bag at the bottom of the list, the CORE adds the accessory pocket and states a clear temperature window instead of a simple floor. Against the NewDoar, it takes a simpler approach with a plain rectangular build and a soft polyester interior, which makes it a comfortable bag for sleepers who toss and turn.\n\nThis is the pick for sleepovers, summer camps and warm-weather car camping where a plain, soft bag is all that is needed. It suits kids heading to a camp, guests in the RV bunk and anyone who wants a stated range printed on the product page.",
     "specs": [
       "Rated 50F to 70F",
@@ -60,7 +60,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "The NewDoar Ultralight Sleeping Bag weighs 1.5 lb and folds to 11.8 by 6.5 inches. It uses a 380T ripstop nylon shell, a stated 50F to 70F range and two-way zippers that can link two bags into a double. A compression sack is included. It costs $29.99.\n\nAgainst the CORE above it, the NewDoar weighs far less and packs far smaller, which matters when storage space is tight. Against the MalloMe below it, the NewDoar adds a ripstop shell and a compression sack, giving it better pack-down behavior for hikers and bike campers. The linking zippers let two matching bags become one wide bed for couples.\n\nThis is the pick for summer hikers, cyclists and anyone with a small storage bay who wants a light, compact warm-weather bag. It suits couples who want to zip two bags together and campers who often carry their gear in a day pack.",
     "specs": [
       "1.5 lb",
@@ -90,7 +90,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "The MalloMe Sleeping Bag lists a working range of 50F to 77F and fits an adult up to 6 feet in about 3 lb of bag. The shell wipes clean, and the whole bag can be machine washed, which suits trips with kids, dogs and spilled drinks. It costs $24.69.\n\nNext to the NewDoar above it, the MalloMe is roomier and states its weight plainly, trading the ultralight build for a more forgiving cut and easier cleanup. Against the CORE, it costs about $20 less while still handling both kids and adults. The wide stated fit means one bag design can cover the whole family.\n\nThis is the pick for families who want a single easy-care bag for mixed ages. It suits RV owners who need guest bags that survive a messy weekend, parents buying for growing kids and anyone who values a machine-washable shell over a low packed weight.",
     "specs": [
       "About 3 lb",
@@ -120,7 +120,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-iGbt0YsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G63GJZJV?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics Sleeping Bag for adults is rated for 50F and above and measures 84 by 31.5 inches. It has an integrated hood, synthetic fill, a compression carry sack and loops for bundling, and it is machine washable. It costs $17.41, the lowest price here, and it unzips fully into a blanket.\n\nAgainst the MalloMe above it, the Amazon Basics bag is simpler and costs about $7 less, with a stated size and an integrated hood that keeps the head warm. Against the CORE, it saves more than $27 while still delivering a washable bag and a carry sack. The blanket conversion makes it useful on hot nights when a full bag is too warm.\n\nThis is the pick for first-time campers, guest bedrooms and anyone who wants the cheapest warm-weather bag that still packs in a sack. It suits an RV owner stocking several spare bags at once, where the low price multiplies across a full set.",
     "specs": [
       "Rated 50F and above",

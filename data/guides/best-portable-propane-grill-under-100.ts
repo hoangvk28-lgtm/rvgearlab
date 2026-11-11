@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GjNERqwOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48VX629?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48VX629?tag=rvgearlab-amz-20",
     "description": "IdeaMaxx is a three-burner propane grill with cast iron grates, stated 38,200 BTU output and 302 square inches of cooking space that serves 4 to 6 people. Three stainless tube burners deliver 9,550 BTU each, with foldable side shelves and an angled pull-out grease tray.\n\nCast iron grates hold heat for sear marks, which the porcelain-coated grates on the other picks cannot match. A built-in thermometer, bottle opener and four utensil hooks come standard.\n\nChoose it for family camping and backyard use, where the extra space and power are used. It comes with a pressure regulator.",
     "specs": [
       "38,200 BTU, 3 burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UwhovnpyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC4YCCJJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC4YCCJJ?tag=rvgearlab-amz-20",
     "description": "The GasOne GPT-17B is a compact tabletop propane grill with a heavy-duty stainless steel burner head, porcelain-coated construction and heat-resistant handles. An easy-to-adjust temperature knob gives even cooking.\n\nIt offers a larger cooking surface than the Fold 'N Go and a safer carry with handles. It is suited to RVs and camping.\n\nChoose it for small families who want a small propane grill. It suits steaks, burgers and veggies.",
     "specs": [
       "Stainless steel burner head",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31tA6QBVsTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00004TBJ4?tag=rvgearlab-amz-20",
     "description": "The Charbroil Portable Convective grill is a 1-burner propane model with 190 square inches of space. It has porcelain-coated rust-resistant grates and measures 15 x 24.1 x 12.3 inches.\n\nIt is a name-brand grill at a low price, and the grates wipe clean easily. It has fewer features than the IdeaMaxx.\n\nChoose it for a simple, durable first propane grill. It fits a trunk.",
     "specs": [
       "190 sq in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SMvpyNioL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC4YWR7J?tag=rvgearlab-amz-20",
     "description": "BESTFIRE has a 2-in-1 valve that fits standard 20 lb propane tanks and small cylinders. It has 165.36 square inches of cooking space, porcelain-coated grates, foldable legs and an adjustable regulator.\n\nNo other grill here accepts both tank sizes, and it costs less than the Charbroil. The cooking area is smaller.\n\nChoose it if you grill both at camp and at home. It is a flexible budget grill.",
     "specs": [
       "2-in-1 valve, two tank sizes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31yywt4qqBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001RU04XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001RU04XK?tag=rvgearlab-amz-20",
     "description": "The Coleman Fold 'N Go delivers 6,000 BTUs across 105 square inches with an adjustable horseshoe burner. It has a built-in handle and folds flat.\n\nIt is the lightest and smallest, fitting in a daypack area. It is less powerful than the IdeaMaxx.\n\nChoose it for solo or duo trips. It folds away when done.",
     "specs": [
       "6,000 BTU horseshoe burner",

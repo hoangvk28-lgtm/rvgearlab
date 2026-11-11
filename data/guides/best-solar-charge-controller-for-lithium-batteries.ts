@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vARSSsdJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MSYGZGI?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 40A is the only pick here whose listing mentions low-temperature protection and a wide operating range from -40F to 149F. The Rover 40A is a 12V/24V auto-detecting MPPT controller with 98% conversion and 99% tracking efficiency listed. It operates from -40F to 149F with built-in low-temperature protection and a four-stage charge.\n\nIt costs more than ELUSH 100A or EpRec 30A but gives you tracking efficiency of 99% and four-stage charging. Against AeternaSol 20A it has twice the amps and the cold-weather features.\n\nBest for a lithium-equipped RV used in cold climates. It suits a larger RV roof with a lithium bank in cold climates, though it costs more than generic 40A units.",
     "specs": [
       "40A MPPT, 12V/24V auto",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O8U9YUwEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK4RFMMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK4RFMMW?tag=rvgearlab-amz-20",
     "description": "ELUSH's 100A MPPT lists up to 100V PV input and works across 12V to 48V systems. ELUSH's 100A MPPT controller accepts up to 100V of PV input and handles 12V, 24V, 36V and 48V systems. A backlit LCD with a clock shows data across seven operating modes, and voltage and current protections are listed.\n\nIt is far larger than Renogy Rover 40A and costs much less, but it lacks a stated cold-weather feature. It suits big or multi-voltage systems more than a typical trailer.\n\nBest for a large lithium system that may change voltage later. It is a budget-priced high-amp unit, so confirm warranty terms with the seller.",
     "specs": [
       "100A MPPT, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LI1lUmw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4VHPDR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4VHPDR1?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 20A PWM targets LiFePO4, AGM and gel on 12V with Type-C and USB outputs. AeternaSol's 20A PWM controller is a 12V-only unit for LiFePO4, AGM and gel batteries, with an LCD, LED indicators and Type-C plus USB output ports. The listing claims zero idle drain and reverse-current protection from an upgraded core circuit.\n\nIt is smaller than EpRec 30A and drops 24V, but it lists zero idle drain. Against Peidesi 30A PWM it adds device charging ports.\n\nBest for a small 12V lithium setup with a modest array. Choose it for a small 12V system where the Type-C port is handy, but note that 20A caps the panel wattage you can connect.",
     "specs": [
       "20A PWM, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FnD76Sq4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07VDWTWTW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07VDWTWTW?tag=rvgearlab-amz-20",
     "description": "EpRec's 30A PWM names lithium-ion, lithium iron phosphate and lead-acid, with four-stage charging. EpRec's 30A PWM controller covers 12V and 24V systems with four-stage charging and names lithium-ion, lithium iron phosphate and lead-acid (open, AGM, gel) batteries. A backlit LCD shows PV, battery and load data, and dual USB ports supply 5V 2.5A.\n\nIt covers more lithium types than AeternaSol 20A and carries 30A, but it is PWM and lists no cold-charge protection. Compared with Peidesi 30A PWM it adds dual MOSFET reverse protection and USB ports.\n\nBest for mixed chemistry experiments on a 12V or 24V budget. It is a flexible low-cost chemistry-spanning unit, but pick the right battery profile.",
     "specs": [
       "30A PWM, 12V/24V",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41juz-6RWrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B583TVVQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B583TVVQ?tag=rvgearlab-amz-20",
     "description": "Peidesi's 30A PWM lists LiFePO4, lithium, gel and lead-acid for panels from 100W to 300W. Peidesi's 30A PWM controller is automatically compatible with 12V or 24V systems and suits LiFePO4, lithium, gel and lead-acid batteries. It has a large LCD for switching modes and adjusting parameters and is described for 100W to 300W panels.\n\nIt is the lowest-cost 30A here but lists less detail than EpRec 30A. Verify its charge voltages before using it with an expensive battery.\n\nBest for a budget setup with a battery that has its own BMS. It is a low-cost general-purpose 30A PWM for small trailers.",
     "specs": [
       "30A PWM, 12V/24V auto",

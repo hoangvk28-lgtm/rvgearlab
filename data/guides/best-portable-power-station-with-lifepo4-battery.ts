@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Bklv+8yZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1SMJTDT?tag=rvgearlab-amz-20",
     "description": "The BLUETTI AC180 holds 1,152Wh of LiFePO4 with 1800W output (2700W peak via the app) and eight outlets, for $449. Listed UPS transfer is 20ms, and it accepts up to 500W of solar, which recharges it in 2.8 to 3.3 hours.\n\nIt costs $50.00 less than the Jackery Explorer 1000 v2 and stores 82Wh more, but gives up Jackery's 10 year lifespan claim for a 5-year warranty. Pick this if you want the most capacity and solar input per dollar; the caveat is that the listing does not give a weight, so check it before buying for a van.",
     "specs": [
       "1,152Wh LiFePO4, 1800W",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 stores 1,070Wh in an LFP battery rated to keep over 70% capacity after 4,000 cycles. It outputs 1,500W (3,000W surge) through three pure sine AC ports, and recharges in 1.7 hours by default or one hour with the app's emergency mode.\n\nIt costs $50.00 more than the BLUETTI for 82Wh less capacity and 300W less output. In return you get quiet 30 dB overnight charging and Jackery's app. Pick this if you want a quiet unit for a camper bedroom; the caveat is that it lists no solar input limit.",
     "specs": [
       "1,070Wh LFP, 1500W",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOB71FB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-amz-20",
     "description": "The STARYLINE gives 1,024Wh of LiFePO4 at 1000W for $299.99, with 3000+ cycles, a 60W USB-C port and a 27.73 lb weight. Solar input maxes at 300W, which suits one or two portable panels.\n\nIt costs $149.01 less than the BLUETTI AC180 but has 128Wh less storage and 800W less output. Against the Jackery it saves $199.01. Pick this if you want a LiFePO4 fridge and CPAP backup at the lowest price per Wh; the caveat is that it lists no UPS switchover time and no warranty length.",
     "specs": [
       "1,024Wh LiFePO4, 1000W",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cRxC-B-dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6K5ZPNJ?tag=rvgearlab-amz-20",
     "description": "The DaranEner 192Wh uses LiFePO4 rated for 3500+ cycles, with 300W output (600W surge), two AC outlets and a 60W USB-C port in a 5.73 lb body. Solar input tops out at 60W DC and wall input at 100W.\n\nIt costs $190.00 less than the STARYLINE and weighs about a fifth as much, but stores a fifth of the energy. Pick this for a CPAP, tablet and lights; the caveat is that 60W of solar input makes midday topping up slow, and it cannot run a fridge for long.",
     "specs": [
       "192Wh LiFePO4, 300W",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RqhJSR3sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT5G1ZR?tag=rvgearlab-amz-20",
     "description": "The Daran 89.6Wh is a smartphone-sized LiFePO4 unit at 2.54 lbs and 6.5 x 3.3 x 4 inches, with 100W output (200W peak), 7 output ports and a fanless design. It charges 0 to 80% in about 1.5 hours.\n\nAt $79.99 it saves $30.00 against the DaranEner 192Wh but stores about half the energy and outputs a third the watts. Pick this as a glovebox emergency bank; the caveat is that 100W covers phones, fans and a router, not a laptop plus anything else.",
     "specs": [
       "89.6Wh LiFePO4, 100W",

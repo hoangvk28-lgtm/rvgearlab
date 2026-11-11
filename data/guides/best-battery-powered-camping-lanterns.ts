@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OdxQ7MEsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082NW6MZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082NW6MZW?tag=rvgearlab-amz-20",
     "description": "The innofox is a 1500 lumen COB lantern that ships with 4 D batteries included. It offers four levels (1500, 900, 500 and 90 lumens), a built-in carry handle, a recessed hanging hook and an IPX4 rating.\n\nAgainst the Consciot it adds 500 more lumens and puts fresh cells in the box on day one. Compared with the Lichamp four-pack, it concentrates all that light in one fixture instead of spreading it over several.\n\nIt suits campers who want one strong light over a picnic table or inside a big family tent. The low 90 lumen night mode also works at a bedside.",
     "specs": [
       "1500 lumens, four levels",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NTgrb8iFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-amz-20",
     "description": "The Consciot puts out up to 1000 lumens in 360 degrees and runs on 3 D-cell batteries, which are sold separately. It has cool white, warm white, combined and strobe modes with smooth stepless dimming, plus IPX4 splash protection and anti-slip rubber.\n\nWhere the innofox steps through fixed levels, the Consciot dims continuously and can mix warm and cool light. It uses one fewer D cell than the innofox, which trims the battery bill per trip.\n\nIt fits campers who read or play cards at night and want to tune the glow to the mood. The two-way hooks let it hang upright or upside down.",
     "specs": [
       "Up to 1000 lumens, 360 degrees",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KJVykpd3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WWX5GTZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WWX5GTZ?tag=rvgearlab-amz-20",
     "description": "The Lichamp set includes four collapsible lanterns, each with 30 LEDs, 350 lumens and about 97 square feet of 360 degree coverage. The foldaway handles double as the switch, and the shells are water-resistant plastic.\n\nAgainst the single-fixture innofox and Consciot, four small lanterns light four places at once, such as the tent, the kitchen, the path and the car. Each lantern is much dimmer than either of them, which suits close-range tasks.\n\nIt suits families or groups who want a light for every tent and every kid. The collapsed shape packs flat into a drawer or a glove box.",
     "specs": [
       "Four 350 lumen lanterns",

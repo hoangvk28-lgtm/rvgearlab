@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412G2-jbB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN7BZMHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN7BZMHB?tag=rvgearlab-amz-20",
     "description": "The PD9360V is a 60 amp converter in the Inteli-Power 9300 series, with a 105 to 130 VAC 60 Hz input at 1,000 watts and a 13.6 to 14.7 VDC output. Its listing describes four modes: green for flooded lead acid, blue for lithium with a two-stage charge at a nominal 14.4 VDC that drops to 13.6 VDC once current falls, white for AGM at 14.0 VDC then 14.7 VDC absorption, and magenta for a constant 13.6 VDC supply with the full rated load available.\n\nIt ranks first because 60 amps suits most travel trailers and costs $269, which is $26 less than the 80 amp PD9380V and $56 more than the 30 amp PD9330V. That is about $4.48 per amp against $3.69 for the PD9380V and $7.10 for the PD9330V. Against the PD4060KV it is the same 60 amps for $26.44 less, yet it adds the lithium mode that the PD4060KV listing never mentions.\n\nPick it for one or two lithium batteries up to roughly 200Ah. The caveat is the listing's caution: do not recharge flooded batteries while in the lithium or AGM mode, so switch back if you ever mix chemistries.",
     "specs": [
       "60A, 1,000W input",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412G2-jbB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN78YDFK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN78YDFK?tag=rvgearlab-amz-20",
     "description": "The PD9380V is the 80 amp member of the 9300 series with a 105 to 130 VAC 60 Hz input at 1,300 watts and a 13.6 to 14.7 VDC output. It has the same four LED modes as its siblings: green flooded, blue lithium two-stage at a nominal 14.4 VDC, white AGM at 14.0 VDC then 14.7 VDC, and magenta constant voltage at 13.6 VDC. At 14.4 volts its 80 amps is about 1,150 watts of output.\n\nIt ranks second only because many trailers do not need 80 amps. It costs $295, $26 more than the PD9360V for 20 amps extra, which is the lowest cost per amp here at about $3.69. Charging an empty 300Ah lithium battery at 80 amps takes roughly three hours, against about four hours at 60 amps, before house loads are counted. It costs $82 more than the PD9330V for 50 amps extra.\n\nChoose it for a 300Ah or larger lithium bank, or a rig with an inverter and big loads running at the same time. The caveat is that the 1,300W input draws about 11 amps from a shore outlet, which can matter at a 15 amp campground pedestal.",
     "specs": [
       "80A, 1,300W input",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412G2-jbB1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN3WDM3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN3WDM3X?tag=rvgearlab-amz-20",
     "description": "The PD9330V is the smallest 9300 series model: a 30 amp converter with a 105 to 130 VAC 60 Hz input at 500 watts and a 13.6 to 14.7 VDC output. It has the same four charge modes, including the blue lithium mode at a nominal 14.4 VDC that drops to 13.6 VDC after the current falls, so it supports lithium at a price below any 60 or 80 amp unit.\n\nIt ranks third because 30 amps is thin for a modern trailer. At $213 it costs $56 less than the PD9360V and $82 less than the PD9380V, but at about $7.10 per amp it is the most expensive per amp of the 9300 series. A 100Ah lithium battery at 80Ah to refill needs roughly 2.7 hours at full output, and any 12V loads running during that time stretch it out.\n\nPick it for a small trailer or pop-up with a single 100Ah lithium battery and modest loads. The caveat is that a 30A converter shares its output with the lights, pump and fridge, so a larger lithium battery will charge slowly.",
     "specs": [
       "30A, 500W input",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kQonvKvEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00BD317ZA?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00BD317ZA?tag=rvgearlab-amz-20",
     "description": "The PD4060KV is a 60 amp converter from the 4000 series with a Charge Wizard. Its listing highlights a compact, lightweight build, reverse battery protection with easy-to-replace fuses, electronic current limiting, protection against high and low AC input, a variable-speed cooling fan and automatic thermal protection. It does not mention a lithium mode or a charge voltage anywhere in the listing.\n\nIt ranks fourth for this topic because it costs $295.44, which is $26.44 more than the 9300-series PD9360V with the same 60 amps and no stated lithium capability. It costs almost the same as the 80 amp PD9380V, at $0.44 more, but has 20 amps less. What it offers is a direct fit in older rigs wired for the 4000 series converter section, where physical fit matters.\n\nChoose it only if your RV already has a 4000-series distribution panel and you plan to keep lead-acid batteries or confirm lithium compatibility with Progressive Dynamics. The caveat is that the listing does not say it supports lithium, so do not assume it will fully charge one.",
     "specs": [
       "60A, 4000 series",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l6Kkoo+BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002XRU6FM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002XRU6FM?tag=rvgearlab-amz-20",
     "description": "The PD4045KV is a 45 amp converter in the 4000 series with a Charge Wizard. The listing describes a compact and lightweight body, reverse battery protection with easy-to-replace fuses, electronic current limiting, AC input protection for high and low voltage, a variable speed fan and automatic thermal protection. As with the PD4060KV, there is no mention of lithium.\n\nIt ranks fifth. At $235.54 it costs $22.54 more than the 30 amp PD9330V, which has a stated lithium mode, and $33.46 less than the 60 amp PD9360V. That makes it about $5.23 per amp, above the PD9360V's $4.48. It costs $58.13 less than the 45 amp PD4645V because it lacks that unit's four-stage Charge Wizard wording.\n\nPick it as a lead-acid upgrade where the 4000 series slot is already fitted. The caveat is that for lithium, the PD9330V costs $22.54 less and states a lithium mode, so this model rarely wins for lithium buyers.",
     "specs": [
       "45A, 4000 series",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PTlyxJevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OR2FIW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OR2FIW?tag=rvgearlab-amz-20",
     "description": "The PD4645V is a 45 amp converter and charger in the 4600 series with a four-stage Charge Wizard that the listing says increases battery life and will not boil the battery. It is described as easy to install and as replacing Parallax or Magnatek 6345, Parallax 7345, Parallax 8345 and WFCO 8945 converter sections. It states no lithium mode.\n\nIt ranks last for lithium buyers because it costs $293.67, which is $58.13 more than the PD4045KV for the same 45 amps and $24.67 more than the 60 amp PD9360V, which lists lithium. That works out at about $6.53 per amp. Its value is as a drop-in for specific older converter sections, since the replacement list is the clearest compatibility information in any of these listings.\n\nChoose it only if you are replacing a failed Parallax, Magnatek or WFCO section and plan to keep lead-acid batteries. The caveat is that it is the weakest value here for lithium: the PD9360V costs less, supplies 15 more amps and states a lithium mode.",
     "specs": [
       "45A, 4600 series",

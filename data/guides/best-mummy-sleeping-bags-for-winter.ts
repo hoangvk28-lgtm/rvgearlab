@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OdlULxekL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D643KDKN?tag=rvgearlab-amz-20",
     "description": "Coleman's North Rim is a 0F mummy for big and tall campers, using hollow Coletherm polyester insulation. A Thermolock draft tube runs along the zipper, and the hood adjusts for warmth or venting.\n\nIt has the lowest rating here from a recognizable name, and it sits at a fair price between the SereneLife and the TETON Trailhead. The mummy cut holds heat tighter than a rectangular bag would.\n\nThe right choice for winter campers who want a proven cold-weather mummy without paying premium prices. Add a warm pad and base layers.",
     "specs": [
       "0F rated hollow polyester mummy",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51raxSHgSNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BTQ6GPX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BTQ6GPX?tag=rvgearlab-amz-20",
     "description": "SereneLife rates this mummy for 5 to 10F, using double-layer hollow cotton insulation inside a 210T polyester shell with a pongee liner. The listing gives a weight of 7.75 lb, a compression sack and a waterproof outer.\n\nIt is the heaviest bag in this group by a wide margin, which gives it real insulation volume for the price. The Coleman North Rim 0F is lighter, and the SYWSKW Large Down is far lighter again.\n\nBest for car campers who want a low printed range on a tight budget. Weight rules it out for backpacking.",
     "specs": [
       "5 to 10F rated mummy",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316CFmR-OuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWVF4RXP?tag=rvgearlab-amz-20",
     "description": "TETON's Trailhead is a 20F mummy with microfiber insulation, zipper draft tubes and extra insulation in a vaulted footbox. A hood closes the gaps around the face, and hang loops preserve loft in storage.\n\nAt 20F it is the mildest rated bag here, so it fits winters that stay above about 25F better than the Coleman North Rim 0F. It packs into a compression sack with heavy-duty straps.\n\nA fit for winter campers in mild climates or fall-to-spring campers who want one warm bag. The footbox keeps toes warm.",
     "specs": [
       "20F mummy, microfiber fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "The SYWSKW relies on RDS-certified duck down rated 680 fill power, inside a mummy-envelope shape that widens to 33.5 inches at the shoulders. A removable 80 g pillow is part of the kit. The listing markets it for cold-weather trips.\n\nIt packs far smaller than the synthetic Coleman North Rim 0F, SereneLife and TETON Trailhead 20F, and it has the widest shoulders. The listing offers multiple fill weights, and heavier ones suit colder trips.\n\nA strong choice for winter backpackers who need to save pack space. Keep it dry, since down loses loft when wet.",
     "specs": [
       "680FP RDS duck down",

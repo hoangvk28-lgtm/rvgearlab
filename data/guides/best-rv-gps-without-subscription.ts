@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ui++QWABL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3M344G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3M344G6?tag=rvgearlab-amz-20",
     "description": "This Garmin RV 1095 bundle adds a 64GB microSDXC card, cleaning kit, card reader and charging adapters to the 1095 navigator. The listing highlights custom RV routing, BirdsEye Direct satellite imagery and built-in Wi-Fi for maps and software updates.\n\nCompared with the 895 bundle, it offers a larger screen and the same Wi-Fi update path. Against the budget units, it adds RV-specific routing and the extra accessories.\n\nIt fits owners who want a long-term unit with updates handled by Wi-Fi and no computer needed. It is a strong match for frequent travelers.",
     "specs": [
       "Built-in Wi-Fi updates",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qSCgAxxLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3LZG85M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3LZG85M?tag=rvgearlab-amz-20",
     "description": "This bundle pairs the Garmin RV 895 with a 64GB microSDXC card, card reader, cleaning kit and USB adapters. The listing describes an 8 inch edge-to-edge touchscreen, road hazard alerts and BirdsEye Direct satellite imagery.\n\nIt sits below the 1095 bundle on screen size and price, with the same style of bundle. It is the middle step between premium Garmin and the budget units.\n\nChoose it if you want RV routing from a name brand and are happy with an 8 inch screen. It suits mid-size travel trailers and motorhomes.",
     "specs": [
       "8 inch touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BmTfY6zqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-amz-20",
     "description": "The Dizvgoy is a 7 inch GPS with 2026 North America maps and free lifetime updates. It gives turn-by-turn voice guidance, speed alerts and an FM transmitter for audio through the car stereo.\n\nIt undercuts the Garmin units and the HINYFVOZ 9 inch on price. It handles several vehicle types, which the listing says includes cars and trucks.\n\nThis works as a basic second navigator or a spare for a tow vehicle. It is a fit for owners who just want free updates with no recurring fees.",
     "specs": [
       "7 inch, 2026 maps",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oWXkvptqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 9 inch GPS offers a 9 inch HD touchscreen with 2026 North America maps and free lifetime updates. Its listing says you can enter vehicle dimensions for customized car, truck and RV routes.\n\nIt gives you a bigger screen than the Dizvgoy at a still low price. It trails the Garmin units on campground data, but it leads the budget group on display size.\n\nPick it when screen size matters most and the budget is tight. It is a good fit for drivers with poor eyesight or a wide dash.",
     "specs": [
       "9 inch HD touchscreen",

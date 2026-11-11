@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v+RVLyYvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MKGB1SD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MKGB1SD?tag=rvgearlab-amz-20",
     "description": "The WoneNice 50L (45+5) is a trekking pack with a main compartment, two zipped front pockets, a sleeping bag compartment and mesh side pockets. Polyester and nylon fabric is described as water resistant and tear resistant, with S-type padded shoulder straps and adjustable chest and waist belts.\n\nCompared with the 70L to 100L MOLLE packs, it is a size that suits weekend and three-day trips without swallowing gear. It comes with a rain cover, which none of the larger packs here list in the same way.\n\nIt suits first-time backpackers who want a conventional hiking pack with a rain cover. The back panel has breathable, elastic support.",
     "specs": [
       "50L (45+5), sleeping bag compartment",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mytTOME1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7C94SLF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7C94SLF?tag=rvgearlab-amz-20",
     "description": "The LibSkyln is a 70L pack that expands to 100L through a bottom zipper, with a rain cover and a MOLLE system on 900D Oxford fabric. It weighs 3.64 pounds, has a 34 by 16 by 8 inch expanded size and uses widened mesh sponge shoulder straps with a chest strap and belt.\n\nCompared with the Vaupan, it adds a rain cover and a thicker fabric. Against the WoneNice 50L, it offers double the maximum volume for longer trips.\n\nIt suits campers who want one pack for weekends and 4 to 5 day trips. Two webbing loops on top hold extra gear.",
     "specs": [
       "70L expands to 100L",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WZJ20qlnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SZMFKCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SZMFKCK?tag=rvgearlab-amz-20",
     "description": "The W WINTMING comes in 70L or 100L with a drawstring main compartment, 900D Oxford fabric and an external MOLLE system. The 27.5 by 15.75 by 8 inch pack weighs 2.86 pounds, with widened mesh sponge shoulder straps.\n\nIt is nearly a pound lighter than the LibSkyln and costs a few dollars more. Against the King'sGuard, it has a single-body design without the extra belt bag.\n\nIt suits backpackers who want a large pack at lower weight. The MOLLE straps let you attach extra pouches.",
     "specs": [
       "70L or 100L, 2.86 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S3s+4oWpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MH3XKFV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MH3XKFV?tag=rvgearlab-amz-20",
     "description": "The King'sGuard comes in 80L or 100L with a large main compartment, four large external attachment points and an independent belt bag that doubles as a shoulder bag. It uses 905D Oxford cloth and has a 3D breathable back system with thick honeycomb padding.\n\nCompared with the WINTMING, it adds a matching belt bag and a thicker back system. Against the WoneNice 50L, it gives roughly twice the volume.\n\nIt suits campers who carry lots of bulky gear and want a detachable bag for day trips. The pack measures 15.35 by 8.66 by 31.49 inches.",
     "specs": [
       "80L or 100L, 905D Oxford",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oxsOXu09L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXJ9L9PP?tag=rvgearlab-amz-20",
     "description": "The Vaupan is an expandable pack that runs 70L to 100L, with 600D Oxford fabric, a MOLLE exterior and breathable mesh shoulder straps with sponge padding. The listing describes room for 4 or 5 day trips.\n\nIt is the lowest-cost pack here and the most basic in fabric. Compared with the LibSkyln, it uses lighter 600D material and no stated rain cover.\n\nIt suits budget buyers who want expandable space for longer trips. Widened, thickened shoulder straps help spread load.",
     "specs": [
       "70L expands to 100L",

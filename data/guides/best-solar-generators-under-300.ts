@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41k7xVwJn+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGZS5LZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGZS5LZD?tag=rvgearlab-amz-20",
     "description": "GRECELL 1000W packs 999Wh into a 17 lb case and puts out 1000W of pure sine wave AC with a 2000W peak. Ten ports include a 60W USB-C PD jack, fast-charge USB-A ports and a Qi pad, and an MPPT input takes a solar panel you add later.\n\nIt holds nearly twice the energy of the 519Wh units in this guide and about three times that of the kit-style stations, for roughly $100 more than the cheapest of them. A wall charge takes 7 to 8 hours, which is the cost of that capacity.\n\nBuy it if you want a mini-fridge, CPAP and laptops to last two nights at camp. It suits campers who plan to add a panel of 100W or more.",
     "specs": [
       "999Wh, 1000W with 2000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cFJ7+6p3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247MPFL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247MPFL?tag=rvgearlab-amz-20",
     "description": "Daran 600W is a 288Wh LiFePO4 station with two 600W AC outlets (1200W surge), a 60W USB-C PD port and a digital display. The battery is rated for 3500 cycles and charges to 80 percent in about 2 hours from the wall.\n\nIt costs about $210 and holds less than the GRECELL 1000W, so it is a quality choice over a capacity choice. Against the ZeroKor kit it drops the panel and adds long-life cells and double the AC output.\n\nPick it if you will use the station often, such as weekend after weekend. The LiFePO4 cells keep their capacity for years of regular camping.",
     "specs": [
       "288Wh LiFePO4, 3500 cycles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N0Qi-dPkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-amz-20",
     "description": "ZeroKor ships a 280Wh battery, a 300W pure sine wave inverter and a 60W solar panel in one box. It has two AC outlets, a DC port, USB and quick-charge ports, an SOS light and a built-in MPPT controller.\n\nAt about $171 it has the lowest price tag here and ships a panel big enough to recharge a phone and a laptop over a day. The Daran 600W has sturdier cells, and this kit has the panel.\n\nFirst-time buyers who want to unbox, plug in and charge from sunshine will like it. It suits weekend car campers with phones, lights and a laptop.",
     "specs": [
       "280Wh, 300W pure sine wave",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hnRsSVogL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD13M2SF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD13M2SF?tag=rvgearlab-amz-20",
     "description": "GRECELL 500W stores 519.48Wh in a 14.1 lb body and outputs 500W of pure sine wave AC from two outlets. It adds a wireless charging pad and a 60W USB-C port, runs 10 devices at once and uses NCM lithium cells with a smart BMS.\n\nIt sits between the 288Wh class and the 999Wh GRECELL 1000W: about 80 percent more energy than the Daran, for the same $200 price. The GRECELL 1000W doubles it again for $100 more.\n\nChoose it if you want to run a 12V cooler or CPAP overnight without paying the top price. It suits solo and two-person trips.",
     "specs": [
       "519.48Wh, 500W pure sine wave",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C455Z70IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGJQ5HD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGJQ5HD?tag=rvgearlab-amz-20",
     "description": "DaranEner is a 192Wh LiFePO4 station weighing 5.84 lb that comes with a 30W solar panel. It powers eight outputs including two 300W AC outlets and a 60W USB-C PD port, and it refills from the wall at up to 90W in about 2 hours.\n\nIt is the smallest and lightest pick, about a third of the weight of the GRECELL 500W. The 30W panel is a trickle charger, so treat it as a top-up for the ZeroKor's larger panel class.\n\nBackpackers with a car and day-trippers who want phones, cameras and lights covered will like it. It fits in a daypack or a footwell.",
     "specs": [
       "192Wh LiFePO4, 3500 cycles",

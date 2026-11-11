@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BLYAFmxHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008FH5UTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008FH5UTG?tag=rvgearlab-amz-20",
     "description": "The Tupavco TP511 is a 2.4 GHz outdoor directional panel antenna with 20 dBi gain and an N-female connector. The listing says it collects signal from a remote location or bridges two points.\n\nIt has the highest gain in the group, which narrows the beam and extends reach compared with the 7 to 10 dBi omnis. It works on 2.4 GHz only.\n\nBest for aiming at one distant access point. Another reason it earns a slot: bridges two points.",
     "specs": [
       "20 dBi, 2.4 GHz panel",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317N37eIOjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07WQN4KJM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07WQN4KJM?tag=rvgearlab-amz-20",
     "description": "The TREADALT is a 10 dBi dual-band 2.4 and 5 GHz omni antenna with an RP-SMA connector for routers, access points, USB adapters and cameras. It is compact for its gain.\n\nIt carries the highest omni gain here and both bands, ahead of the 9 dBi and 7 dBi eifagur models. It costs about the same.\n\nA fit for owners who want an omni upgrade on a router. Worth noting on the listing: low price.",
     "specs": [
       "10 dBi omni, dual band",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KoosZ04RL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY474GJZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY474GJZ?tag=rvgearlab-amz-20",
     "description": "The eifagur 9 dBi antenna covers 2.4 GHz and 5 or 5.8 GHz and is described as built for outdoor conditions, with uses including RV cameras and security gear. On the plus side, outdoor-ready build.\n\nIt sits between the 10 dBi TREADALT and the 7 dBi eifagur in gain and states an outdoor build. The connector is not named in the listing text.\n\nGood for outdoor mounts on a rig. Worth noting on the listing: low price.",
     "specs": [
       "9 dBi dual-band omni",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31YA4f7B87L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLRC738D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLRC738D?tag=rvgearlab-amz-20",
     "description": "The eifagur 7 dBi antenna covers 2.4, 5 and 5.8 GHz with an omni pattern and an RP-SMA connector. The listing notes use with IP cameras, routers and RV rear-view cameras.\n\nIt has the lowest gain in the group and the clearest connector statement. It costs the least among the Wi-Fi antennas.\n\nA fit for owners who want a simple RP-SMA upgrade. Buyers also get this: works with cameras.",
     "specs": [
       "7 dBi omni, dual band",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31voTm9MoYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ6CSL23?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ6CSL23?tag=rvgearlab-amz-20",
     "description": "The Maswell is a 4G and 5G directional 2x2 MIMO antenna at 10 dBi covering 700 to 3800 MHz with a 10 km range figure. It boosts cellular reception for a router or hotspot with matching ports.\n\nIt is a cellular antenna, not a Wi-Fi one, and it only helps devices with antenna ports for cellular. It carries the broadest frequency range in the group.\n\nBest for owners with a cellular router and a distant tower. On the plus side, outdoor use.",
     "specs": [
       "10 dBi cellular 2x2 MIMO",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uE4TMAVHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BHTNSHT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BHTNSHT4?tag=rvgearlab-amz-20",
     "description": "This magnetic antenna is a 5 dBi unit with a 5 foot cable and an SMA connector listed for the Sierra Wireless AirLink RV55 LTE router. Its frequency range covers 690 to 960, 1710 to 2170 and 2500 to 2700 MHz.\n\nIt is the narrowest pick, built for one router, so it suits owners of that model only. It is cheaper than the Maswell.\n\nA fit for RV55 owners wanting a magnetic replacement. Buyers also get this: matched to RV55.",
     "specs": [
       "5 dBi magnetic, SMA",

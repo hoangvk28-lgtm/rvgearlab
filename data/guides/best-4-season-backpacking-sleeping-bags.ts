@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yCYEzJDyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSFBP8MQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSFBP8MQ?tag=rvgearlab-amz-20",
     "description": "The TANSTRIDER XXL measures 40 by 91 inches, with a printed temperature rating of 41 to 50 degrees F and a recommended limit of 23 degrees F. It has a draft collar, a zipper guard, a two-way zipper to vent feet and a compression sack.\n\nIt prints the coldest limit of the five and the largest size, ahead of the KANYAK's 32 degree limit. The waterproof outer wipes clean and the bag is machine washable.\n\nIt suits tall or large hikers who want room and a colder survival figure. Plan around the 41 degree comfort end.",
     "specs": [
       "41 to 50F, limit 23F",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kXZue5u0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MMX7SBW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MMX7SBW?tag=rvgearlab-amz-20",
     "description": "The KANYAK is an 86.6 by 32.48 inch bag weighing 4 lb, with a printed comfort figure of 41 degrees F and a 32 degree F limit. It has three zippers, a 210T anti-tearing shell and compressed dimensions of 11 to 14.2 inches.\n\nIt prints weight, pack size and both ratings, which gives it more detail than the OBTANIM or tuphen. The splicable design lets two bags join.\n\nIt suits hikers who want straight numbers and a foot zipper. It is a cool-weather bag.",
     "specs": [
       "Comfort 41F, limit 32F",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41szQlJyvZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8MZXZH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8MZXZH9?tag=rvgearlab-amz-20",
     "description": "The TANSTRIDER 3-4 Season is an 86.6 by 31.5 inch bag weighing 4 lb, with a comfort range of 40 to 70 degrees F and an extreme limit of 30 to 70 degrees F. It has anti-snag two-way zippers and a waterproof polyester shell.\n\nIt prints weight and both figures, and it opens flat. It is slimmer than the TANSTRIDER XXL.\n\nIt suits hikers who want a flat-opening bag for adults and teens. The printed 30 degree limit is the cold end.",
     "specs": [
       "40 to 70F comfort range",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JlF8-BXNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0851H1K7C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0851H1K7C?tag=rvgearlab-amz-20",
     "description": "The tuphen has a microfiber liner, a rated temperature of 5 to 25 degrees C (41 to 77 degrees F) and a comfort range of 17 to 24 degrees C. It measures 29.5 by 86.6 inches, with a two-way zipper to vent feet and a carry bag.\n\nIt is cheaper than the KANYAK and TANSTRIDER bags. It prints no weight.\n\nIt suits warm-weather hikers on a budget. It can be wiped clean or machine washed.",
     "specs": [
       "5 to 25C rated",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3156C4XF1+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWN9Q4HM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWN9Q4HM?tag=rvgearlab-amz-20",
     "description": "The OBTANIM has a waterproof double-layer build, a double microfiber fill and a polyester lining. The listing says it keeps you warm close to the freezing point.\n\nIt is the cheapest in the group and prints no temperature rating or weight. It is aimed at kids and adults.\n\nIt suits starter campers and emergency kits. Do not count on it in real cold.",
     "specs": [
       "Double microfiber fill",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xcbScsYQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09B1BLTHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09B1BLTHR?tag=rvgearlab-amz-20",
     "description": "The CURT 51526 is a quick-plug wiring harness listed for select Jeep Wrangler JL and Gladiator model years. It uses 12-gauge wires and a slit-loom sleeve, and the listing says it needs no cutting or splicing.\n\nIts sibling the CURT 51527 carries nearly identical listing text at a lower price, so the practical difference is which connector and model-year set matches your Jeep, which the listing does not spell out in detail. Against the third-party harnesses below, the CURT parts come from the brand that also sells the controllers they plug into.\n\nBest for a Gladiator owner pairing the harness with a CURT controller. It is a harness only, so you still need a controller, and you should confirm your year against CURT's fitment lookup.",
     "specs": [
       "12-gauge wires",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Ilb8WXy2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVYJ7R3H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVYJ7R3H?tag=rvgearlab-amz-20",
     "description": "The TAZSOK harness is listed for Jeep Gladiator 2020 to 2022 and Wrangler 2018 to 2022 and is sold as a replacement for part TPH-022. The listing highlights a sealed connector design meant to reduce the effect of rain and mud.\n\nCompared with the Fozipamy TPH-022, it shares that part number but states a shorter Gladiator year range, ending at 2022. Compared with the CURT 51526, it is a third-party part with no controller-brand compatibility list on the listing.\n\nBest for a 2020 to 2022 Gladiator towing in wet or muddy conditions. Because no compatible controller models are named, check that your controller's plug matches the TPH-022 style first.",
     "specs": [
       "Gladiator 2020-2022 fit",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31TXocn6YcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H29QBR7L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H29QBR7L?tag=rvgearlab-amz-20",
     "description": "The Fozipamy harness is listed for Jeep Gladiator from 2019 to present and Wrangler from 2018 to present, as a replacement for TPH-022. Its listing names REDARC Tow-Pro Liberty and Elite controllers as compatible.\n\nThat named pairing is what separates it from the TAZSOK Harness, which shares the part number but lists no controller brands. It also states the widest Gladiator year range of the picks here, which helps if you have a 2019 truck.\n\nBest for a Gladiator owner buying a REDARC Tow-Pro controller. It uses copper wire with PVC insulation and a nylon braid, but it is still only the wiring and controls nothing alone.",
     "specs": [
       "Gladiator 2019-present",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31PlGaoJIbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX2127J9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX2127J9?tag=rvgearlab-amz-20",
     "description": "The Wsays adapter is listed for Gladiator 2020 to 2024 and Wrangler 2018 to 2024, with a four-pin standard plug. Its listing names Draw-Tite Activator I, II and III and Tekonsha PowerTrac, Prodigy and P2 controllers as compatible.\n\nIt reaches to 2024 models, a later year than the TAZSOK Harness or Vaticas 307300 list. It also targets a different connector family than the Fozipamy TPH-022, since its listed controllers are Tekonsha and Draw-Tite models.\n\nBest for a newer Gladiator owner with a Tekonsha or Draw-Tite controller. Its price sits between the budget harnesses and the CURT parts, and you still need a controller.",
     "specs": [
       "Gladiator 2020-2024",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41okNC5B4AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086HLWYT9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086HLWYT9?tag=rvgearlab-amz-20",
     "description": "The CURT 51527 is another quick-plug harness listed for select Jeep Wrangler JL and Gladiator years, with 12-gauge wires and a slit-loom sleeve. Its listing text is nearly identical to the CURT 51526.\n\nBecause both CURT parts use the same description, the model number is what to match, not the wording, so compare the part number against CURT's lookup for your exact truck. It is lower priced than the CURT 51526, which makes it the cheaper CURT route if your lookup shows it fits.\n\nBest for a Gladiator owner who wants the CURT brand name and a lower price, with a CURT controller. Do not buy both numbers; one will not fit your connector.",
     "specs": [
       "12-gauge wires",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OlSCwmepL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3772Z8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3772Z8P?tag=rvgearlab-amz-20",
     "description": "The Vaticas 307300 is a third-party harness listed for Jeep Gladiator 2020 to 2022 and Wrangler 2018 to 2023, as a replacement for part 307300. It describes a foolproof interface meant to prevent misconnection, with automotive-grade wire.\n\nIt is the lowest-priced pick here and sits at the thin end of the documentation: it names no compatible controllers, unlike the Wsays Adapter and Fozipamy TPH-022. Its Gladiator years end at 2022.\n\nBest for a shopper on a tight budget with a 2020 to 2022 Gladiator who has confirmed the connector style. The listing itself says to confirm compatibility before purchase, so do so.",
     "specs": [
       "Gladiator 2020-2022",

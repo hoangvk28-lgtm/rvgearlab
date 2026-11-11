@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Klv0dDzsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G9379BC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G9379BC6?tag=rvgearlab-amz-20",
     "description": "The OGERY pad inflates to 79 by 27.5 by 6 inches, weighs 2.4 pounds and packs to 5.9 by 5.9 by 11 inches. It is made from 50D polyester with a TPU waterproof coating and has a built-in foot pump.\n\nNext to the foam pads, it gives far more cushion and works as a bed. Against the Wakeman 0.75 Inch, it packs smaller and weighs less, which is rare for a thicker pad.\n\nIt suits car campers who want a real mattress feel on a tight budget. Buttons on the side let it connect to another compatible pad.",
     "specs": [
       "6 inch thick, 2.4 lb",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518MbYtN3ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C84Z17CV?tag=rvgearlab-amz-20",
     "description": "The THINTON pad is a foldable closed cell mat measuring 72.8 by 23.6 by 0.7 inches and weighing 396 grams. It uses IXPE foam with an aluminum film on the back that the listing says reflects body heat.\n\nCompared with the Wakeman rolls, it folds into 23.6 by 5.5 by 5.5 inches, so it stacks in a pack easily. Against the OGERY, it will never leak and needs no setup.\n\nIt suits backpackers and hikers who want a light, no-fail pad with a foil layer. It also works as a seat on a log.",
     "specs": [
       "Foldable closed cell IXPE foam",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hXcEzyacL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XZSMVLB?tag=rvgearlab-amz-20",
     "description": "The Wakeman Outdoors foam pad is 72 by 24 by 0.75 inches, made of NBR foam with a grippy waterproof face. It weighs 3 pounds, rolls to 24 by 9 by 9 inches, and includes a carrying strap.\n\nIt is thicker than the THINTON foam pad and heavier, and the non-slip face stays put on a tent floor. Against the 0.6 pound Wakeman EVA pad, it carries more cushion and takes more room.\n\nIt suits car campers who want a cheap, durable pad for a cot, an RV bed or a floor. It also doubles as a gym or yoga mat.",
     "specs": [
       "72 x 24 x 0.75 inch NBR foam",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313JmPXYHkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LW97F6T?tag=rvgearlab-amz-20",
     "description": "The Wakeman EVA pad weighs only 0.6 pounds and measures 72 by 24 inches, rolling to 24 by 7 by 7 inches. It is made of EVA foam with a grippy waterproof face, plus a carrying strap.\n\nCompared with the Wakeman 0.75 Inch, it is far lighter and smaller when rolled. Against the THINTON, it rolls instead of folding and costs less.\n\nIt suits day hikers and campers who need a light pad under a cot pad or for a yoga session. It is the lowest-cost, lowest-weight choice here.",
     "specs": [
       "0.6 lb EVA foam",

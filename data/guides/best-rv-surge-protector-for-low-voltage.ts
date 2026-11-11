@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-Ou7g1qtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQP936JK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQP936JK?tag=rvgearlab-amz-20",
     "description": "The Kohree 30 Amp absorbs up to 18,000 joules and carries a circuit analyzer with a large LED display. Its listing states auto power off when voltage drops below 104V or exceeds 132V, which is the specific threshold information most competitors leave out.\n\nAt $55.98 it is $11.99 above the Kohree 14000J and $18.11 below the Losrik 30A. The extra 4,000 joules matter for lightning-prone sites. Pick this if you camp at 30A pedestals; the caveat is that reconnect delay is not listed, so an AC could restart too quickly.",
     "specs": [
       "30A, 18,000 joules",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tJkMQEQvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5PLS31Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5PLS31Q?tag=rvgearlab-amz-20",
     "description": "The Kohree 30 Amp 14000J is the same family with the same stated 104V low and 132V high cutoffs and an LED line voltage display. It is upgraded from an earlier 10,000 joule model and sells for $43.99.\n\nIt saves $11.99 against the Kohree 18000J and gives up 4,000 joules of surge capacity, which is the only real difference on the listing. Pick this if low voltage is the worry and lightning is not; the caveat is the smaller surge reserve.",
     "specs": [
       "30A, 14,000 joules",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41er0RZdfHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5N7T53C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5N7T53C?tag=rvgearlab-amz-20",
     "description": "The Losrik 30A shows real-time kWh, voltage and current on a large LED screen and advertises over and under voltage protection. The screen is designed to differ from most protectors on the market, with usage tracking beyond a plain voltage readout.\n\nAt $74.09 it costs $18.11 more than the Kohree 18000J and does not state the exact cutoff numbers or joule rating. Pick this if you want kWh tracking for campground electric bills; the caveat is that thresholds are not listed.",
     "specs": [
       "30A, LED display",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51D-tGqN9LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCL244KM?tag=rvgearlab-amz-20",
     "description": "The AMEHO 50 Amp offers 19,000 joules, IP67 waterproofing and a large LED screen with smart auto shutoff. It is the only 50A model here and the highest joule rating on the list.\n\nAt $79.99 it is $24.01 above the Kohree 18000J, and it covers 50A coaches that the 30A models cannot plug into. Pick this for a 50A motorhome; the caveat is that the low-voltage cutoff number is not listed.",
     "specs": [
       "50A, 19,000 joules",

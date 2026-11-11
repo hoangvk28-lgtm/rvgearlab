@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515uiB+cDcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLHT4DG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLHT4DG?tag=rvgearlab-amz-20",
     "description": "This is a full shower station in one box: a 6.6-gallon foldable bucket, a 6000mAh rechargeable pump, an immersion heater with a digital display, and a 5.9-foot pop-up privacy tent with LED lights. Everything you need to wash up at a remote site ships together.\n\nCompared with the Motivekit and BSEED kits, it is the only one that bundles the tent, so you skip buying a separate enclosure. The tent has a double-zipper door, side pockets and windproof ropes with stakes.\n\nIt suits car campers who want a private, warm shower right at the site and have trunk space for a bucket and tent. Families will appreciate the extra bucket volume.",
     "specs": [
       "6.6 gal bucket with heater",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5151QYa4krL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F242W1BX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F242W1BX?tag=rvgearlab-amz-20",
     "description": "Motivekit pairs a 6.6-gallon foldable bucket with a 6000mAh pump and a 1500W immersion heater. The pump senses water temperature across 32 to 140 degrees F, and the shower head has three spray modes plus an extra spray gun.\n\nAgainst the Zappyway kit it drops the tent and costs far less, and next to BSEED it adds the spray gun and an IPX7 waterproof rating. It is the middle ground for people who already own a shower tent.\n\nA strong pick for campers who want hot water, flexible spray modes and a pump built to handle splashes. The adjustable head makes rinsing off the dog or the boots easy too.",
     "specs": [
       "1500W immersion heater",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QayTdkhPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DWMWGCQZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DWMWGCQZ?tag=rvgearlab-amz-20",
     "description": "BSEED lists a 2000W immersion heater, the strongest in this group, with a stainless steel protective cover and a 6000mAh rechargeable pump. An LED display shows battery status and water temperature at a glance.\n\nThe higher wattage should bring a bucket up to temperature faster than the 1500W Motivekit heater, and it costs less than both bigger kits. It keeps the quiet-motor design while skipping extras like a tent.\n\nBest for campers who want the quickest heat and a clear readout without paying for a full kit. The simple setup keeps the cost sensible.",
     "specs": [
       "2000W immersion heater",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wOkNZfdoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F242GYSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F242GYSD?tag=rvgearlab-amz-20",
     "description": "This Zappyway kit gives you a 5.3-gallon foldable bucket, a 6000mAh rechargeable pump with a digital display and a shower head with three modes. It charges over Type-C, so a power bank or car port can top it up.\n\nIt is the cheapest of the pump kits and a step down in capacity from the 6.6-gallon heated options, which matters more for a couple than a solo camper. You use a camp kettle or a sun-warmed bucket for temperature.\n\nA smart pick for solo campers, beach days and rinsing muddy gear when heated water is optional. Type-C charging keeps it easy to power up on the road.",
     "specs": [
       "5.3 gal foldable bucket",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VAAtUK6dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4CSRLHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4CSRLHV?tag=rvgearlab-amz-20",
     "description": "Wolfwise is a stand-alone pop-up tent made from 190T polyester with UPF protection and a galvanized steel frame. It unfolds in seconds and comes with 8 stakes and 4 wind ropes for staying put in breezy sites.\n\nUnlike the kits above, it makes no water system at all, so it works with any shower you already own, including a DkOvn solar bag. It doubles as a changing room or a portable toilet enclosure.\n\nPick it when privacy is the missing piece at crowded campgrounds or trailheads. It also doubles as a changing room at the beach.",
     "specs": [
       "190T polyester, UPF fabric",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-+9UeMTaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPG2Z6NL?tag=rvgearlab-amz-20",
     "description": "DkOvn sells a 2-pack of 5-gallon (20L) solar shower bags, each with an on/off switch, a hanging hook sling and a sturdy handle belt. Fill them in the morning, set them in the sun, and you have a gravity rinse by afternoon.\n\nIt is the lightest and cheapest way to get water flowing, with no battery, charger or heater to manage. Two bags mean two people can rinse back to back, which the pump kits do not offer at this price.\n\nA good fit for sunny trips, rafting, fishing and anyone who values simplicity over hot water on demand. Hang them from a branch and you are done.",
     "specs": [
       "2-pack, 5 gallon each",

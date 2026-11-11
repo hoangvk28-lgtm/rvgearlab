@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iVuf2yK2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004G6U3J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004G6U3J2?tag=rvgearlab-amz-20",
     "description": "The Napier Sportz 9x9 is a 9 by 9 foot SUV tent with over 7 feet of headroom, a full rainfly and an awning. It sleeps 5 adults, uses vertical walls to give about 20 percent more headroom than a dome, and sets up in under 10 minutes with a pole hub design.\n\nIt fits all CUVs, SUVs and minivans and lets you reach the cargo area from inside the tent. Compared with the 10x10 version it skips the screen room and sets up quicker, with a more compact footprint than the WildFinder.\n\nIt suits families who want a proven SUV tent sleeve with a moderate footprint. Unzipping the vehicle sleeve converts it into a freestanding ground tent for smaller campsites.",
     "specs": [
       "9x9 ft, over 7 ft headroom",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ThLKlZdSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004O74Z0G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004O74Z0G?tag=rvgearlab-amz-20",
     "description": "The Napier Sportz 10x10 is a 10 by 10 foot tent for 6 adults with an attached 6 by 7 foot floorless screen room. Wall cover panels add privacy and extra weather protection, and the listing calls it the largest SUV tent on the market.\n\nIt adds the screen room that the 9x9 lacks, with a setup time under 15 minutes. Against the WildFinder it has a more defined sleeve and a bug-free lounging area inside the footprint.\n\nIt suits groups that want a sheltered seating space with the sleeping tent. It converts to a freestanding ground tent like the smaller Napier.",
     "specs": [
       "10x10 ft, sleeps 6 adults",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDKnEHY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 14.1 by 9.2 by 6.9 foot SUV tent listed for 5 to 9 people. It has a screen porch, an extra awning, PU3000 waterproofing, UPF 50+ sun protection and mesh windows with drainage mesh.\n\nIt offers the widest capacity of the four, ahead of the 10x10 Napier at 6 adults, and it costs far less. It can also be set up independently, and the listing says it fits SUVs, Jeeps and standard trucks.\n\nIt suits large groups that want maximum floor and an awning for dining or storage. The seamless vehicle connection is highlighted in the listing.",
     "specs": [
       "14.1 x 9.2 x 6.9 ft, 5-9 people",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fxHnkP6fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT2K2QBH?tag=rvgearlab-amz-20",
     "description": "The Fanttik Beta C6 Apex is a 6-person instant cabin SUV tent with pre-attached poles and a seamless structure. The listing promises setup in about 60 seconds, attaches to the tailgate of most CUVs and SUVs, and adds dual ground vents plus a detachable canopy.\n\nIt is the quickest to pitch of the four, ahead of the Napiers at under 10 and 15 minutes. Where the Napiers use a pole hub, this uses a pre-attached frame, and the listing notes two people are needed to set it up.\n\nIt suits campers who arrive late and leave early, or families with kids who tire of pitching. Ground vents let you reduce cool air loss from the car.",
     "specs": [
       "6 person instant cabin",

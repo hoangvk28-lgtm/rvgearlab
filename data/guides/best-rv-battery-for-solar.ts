@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gOwWXBgML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR5L3LGS?tag=rvgearlab-amz-20",
     "description": "The HQST 12V 100Ah is a compact Group 22NF LiFePO4 battery weighing 21 pounds, with a built-in LED meter and 1,280 watt-hours nominal. Its listing gives the cold limits a solar owner needs: charging is suspended below 23°F or above 140°F, and discharge stops below 5°F. It supports 100A continuous discharge, series or parallel connection, and a ten-year commitment with 4,000 plus cycles.\n\nAt $159.99 it costs $151.10 less than the LiTime Group 24 and $159.60 less than the LiTime Xtra Mini, both of which stop charging at 32°F, so the HQST's 23°F threshold is actually the more tolerant of cold mornings. Cost is about $125 per nominal kilowatt-hour, the lowest among the lithium picks. Its listing does not state a maximum charge current, which is the number to ask the seller before connecting a large array.\n\nPick it for a small to mid-size solar setup where budget matters and you want cold numbers in writing. The caveat is that the Group 22NF case is unusual and may need a new tray, and the excerpt does not say what charge voltage the maker prefers.",
     "specs": [
       "1,280Wh, 21 lb",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418WoL4kf6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3XP375R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3XP375R?tag=rvgearlab-amz-20",
     "description": "The LiTime Xtra Mini measures 9.02 by 5.43 by 8.62 inches and weighs 19.13 pounds including handles, with Bluetooth 5.0 showing real-time voltage and charge level. A 100A battery management system carries more than 20 protections, including a low-temperature cutoff that pauses charging below 32°F. The listing quotes 4,000 plus deep cycles and expansion to 4P4S, 20.48kWh, with five-year service support.\n\nAt $319.59 it is $8.50 more than the LiTime Group 24 and $159.60 more than the HQST, so you pay for the smallest case and the app. Its cost per nominal kilowatt-hour is about $250. Compared with the HQST, it gives up 9 degrees of cold tolerance (32°F versus 23°F), which matters for solar because winter mornings are when panels are cool and productive.\n\nPick it when space is the constraint, such as an under-bench battery in a van or a compact bay, and you want the app. The caveat is the price, which is roughly double the HQST for the same 1,280Wh.",
     "specs": [
       "19.13 lb, 5.43 inch wide",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qLYCRMdTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYQ371X4?tag=rvgearlab-amz-20",
     "description": "The LiTime Group 24 is a 12V 100Ah LiFePO4 battery in the standard Group 24 case, with Bluetooth 5.0 pairing by QR code, a 100A battery management system and a low-temperature cutoff that stops charging at freezing temperatures. LiTime lists a ten-year lifespan with 4,000 plus deep cycles, a five-year warranty and 4P4S expansion to 20.48kWh for growing a solar bank later.\n\nAt $311.09 it is $8.50 under the Xtra Mini, which is the same capacity in a smaller case, and $151.10 above the HQST. If you are replacing a Group 24 lead-acid battery in an existing tray, this saves you refitting and costs less than the Xtra Mini, which is the key reason it ranks above the smaller sibling for most owners. Cost is about $243 per nominal kilowatt-hour.\n\nPick it for a plug-in swap in a Group 24 tray with an app and a stated five-year warranty. The caveat is the same one as every cut-off battery: there is no heater, and the listing does not publish the exact freezing threshold beyond saying it stops at freezing temperatures.",
     "specs": [
       "Group 24, 100Ah",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rltUYpeuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FSYCXGS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FSYCXGS?tag=rvgearlab-amz-20",
     "description": "The Power Queen 12V 200Ah PLUS stores 2,560 watt-hours with a 200A battery management system and roughly 51.61 watt-hours per pound, which puts it around 55 pounds. The listing claims up to 95 percent usable capacity, 2 percent self-discharge and more than 20 protections, and it supports up to four in series for 48V or four in parallel for 800Ah. It is the only 200Ah option in this solar comparison.\n\nAt $439.99 it costs $120.40 more than the LiTime Xtra Mini but stores twice the energy, so cost per nominal kilowatt-hour is about $172, versus roughly $250 for the Xtra Mini. That makes it the best fit when your array is large enough to refill a 100Ah battery before noon. A 400-watt array at five peak sun hours can produce around 1,500 watt-hours after typical losses (an estimate), which is more than a single 100Ah battery can store.\n\nPick it for 400 watts or more of panels, or for off-grid stays beyond a night or two. The caveat is that the excerpt gives no cold-charging threshold, and the 55-pound weight is heavy for a single-person install.",
     "specs": [
       "2,560Wh, 200A BMS",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31soCn59teL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075RFXHYK?tag=rvgearlab-amz-20",
     "description": "The Renogy 12V 100Ah AGM is a sealed lead-acid battery rated for 1100A for five seconds, with discharge performance listed from minus 4°F to 140°F and self-discharge below 3 percent a month at 77°F. It allows unlimited series connections and up to four in parallel. Nominally it holds about 1,200 watt-hours, and a common 50 percent limit leaves about 600 usable.\n\nAt $174.99 it costs $15.00 above the HQST lithium yet delivers roughly half the usable energy, around $292 per usable kilowatt-hour at a 50 percent limit against about $156 for the HQST at 80 percent. Where it wins is the cold, since lead-acid batteries accept charge below freezing when the LiTime batteries will not. It is $5.00 above the Weize AGM,, which publishes charge temperatures where the Renogy excerpt does not.\n\nPick it for an unheated bay with solar, where winter charging matters more than weight. The caveat is that Renogy's excerpt does not state a maximum charge current or an absorption voltage, so use the maker's data sheet to set your controller.",
     "specs": [
       "12V 100Ah AGM",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bqV6Wt2oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SW353M8?tag=rvgearlab-amz-20",
     "description": "The Weize 12V 100Ah AGM is a sealed lead-acid battery measuring 12.99 by 6.73 by 8.43 inches. Its listing is the only AGM here to state a charging temperature range, 14°F to 122°F, plus a discharge range of 5°F to 122°F, a 1 to 3 percent monthly self-discharge and a 1100A five-second maximum discharge current. The title says 1150A while the bullet says 1100A, so confirm the figure if it matters for your inverter.\n\nAt $169.99 it is $5.00 under the Renogy AGM and $10.00 above the HQST lithium. Against the Renogy AGM, the Weize gives you charge-temperature numbers on paper, whereas the Renogy lists discharge temperatures only. The warranty is one year, which is short for a bank you plan to cycle daily with solar.\n\nPick it when you want AGM for cold-weather solar and need the written charging range for planning. The caveat is the one-year warranty and the same 50 percent usable limit that halves its practical capacity.",
     "specs": [
       "Charges 14°F to 122°F",

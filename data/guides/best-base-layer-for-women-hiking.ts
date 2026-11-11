@@ -33,7 +33,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314DCCGu3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GC8TL1NY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GC8TL1NY?tag=rvgearlab-amz-20",
     "description": "The Cuddl Duds Lightweight is a 170 GSM two-piece active set with a close-to-body fit, stretch fabric and a set-in long sleeve top with a curved hem. The listing describes moisture wicking, odor resistance, UV protection and a tag-free design. At $32.99 it is the best all-round trail pick.\n\nAgainst the Cuddl Duds Heavyweight, it is lighter and more breathable, which makes it better for climbs and long days where you generate heat. Compared with the Merino.tech set, it uses a synthetic stretch fabric and costs less than half as much while still offering wicking, odor resistance and UV protection.\n\nIt is the pick for hikers who want one versatile layer for cool-to-mild trail days and who prefer a light, breathable set that is easy to layer under a shell.",
     "specs": [
       "170 GSM lightweight",
@@ -63,7 +63,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ETJhhEb0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C4LGKKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C4LGKKS?tag=rvgearlab-amz-20",
     "description": "The Merino.tech set is offered in lightweight at 165 g/m², midweight at 250 g/m² and heavyweight at 320 g/m². The listing describes superfine 17.5 micron merino fibers, natural odor resistance and a free pair of merino hiking socks. It costs $79.99, the highest price in this guide.\n\nAgainst the Cuddl Duds Lightweight, it uses natural merino and lets you pick the weight, so you can tune the set to your climate and activity. The merino fiber is soft and itch-free, and its odor resistance makes it suited to multi-day trips where you cannot wash every night.\n\nIt is the pick for backpackers, long-trip RV campers and anyone who values natural fiber, odor control and a choice of weights, and who will wear the same set over several days.",
     "specs": [
       "Merino in three weights",
@@ -93,7 +93,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ViQfULMkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJWSZCP1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJWSZCP1?tag=rvgearlab-amz-20",
     "description": "The Cuddl Duds Heavyweight is a 235 GSM brushed-fleece set with stretchy fabric, a modern-rise waistband and a smooth outer finish. The brushed interior adds warmth and softness for cold days. At $26.24 it is the warmest and one of the lowest priced options.\n\nAgainst the Cuddl Duds Lightweight, it is warmer and heavier, which suits cold starts and static activities. Compared with the SIMIYA 2 Pack, it states a fabric weight, 235 GSM, which makes it easier to judge warmth against other sets.\n\nIt is the pick for cold-weather hikers, winter campers and anyone who spends long periods outdoors at low temperatures and wants a smooth outer that slides under a shell.",
     "specs": [
       "235 GSM heavyweight",
@@ -123,7 +123,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sX7lPleSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC4VS432?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC4VS432?tag=rvgearlab-amz-20",
     "description": "The SIMIYA 2 Pack is a set of two fleece-lined thermal sets with four-way stretch and a snug, not-bulky fit. The listing says they work under jeans or ski pants and are machine washable. At $28.48 for two sets, the price per set is low.\n\nAgainst the Cuddl Duds Heavyweight, it gives two sets, which is practical on a multi-day trip where one set dries while you wear the other. Compared with the Ekouaer, it adds a snug no-bulk fit and a second set at a modest price increase.\n\nIt is the pick for hikers who need a warm layer for cold mornings and campsite evenings and want a spare set for travel.",
     "specs": [
       "2 pack, fleece lined",
@@ -153,7 +153,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hGVcJLiHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB7YN9BK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB7YN9BK?tag=rvgearlab-amz-20",
     "description": "The Ekouaer fleece set is an 87 percent polyester, 13 percent spandex fleece-lined top and tights. The listing describes wicking, four-way stretch and uses such as hiking, biking and skiing. It costs $9.22, the lowest price in this guide.\n\nAgainst the SIMIYA, it is a single set at a lower price, so it suits owners who want an inexpensive warm layer. Compared with the Cuddl Duds sets, it gives a clear fiber blend and a very low cost, which makes it an easy way to try thermal layering.\n\nIt is the pick for casual hikers, campers on a tight budget and anyone who wants a warm layer that doubles as pajamas.",
     "specs": [
       "87% polyester, 13% spandex",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oFLJKsBVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVSVNSF6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVSVNSF6?tag=rvgearlab-amz-20",
     "description": "This stove-ready bell tent measures 16.4 feet across with a high central pole and fits 4 to 8 people plus gear. It has a reinforced stove jack, lightweight Oxford fabric and multiple mesh windows and bug-proof doors.\n\nIt gives the largest floor in the group for roughly 300 dollars, which is far under the inflatables. A separate rainfly is offered for wet weather.\n\nIt suits big groups who want a heated shelter that is easy to carry. The mesh doors keep it usable in summer too.",
     "specs": [
       "16.4 ft wide, high center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61SDisFETxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQHRQQJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQHRQQJH?tag=rvgearlab-amz-20",
     "description": "The QIFA is an inflatable tent with a 74 square foot floor of 9.8 by 7.6 feet for 4 to 6 campers, with a stove jack, sealed seams and 600D Oxford fabric. A hand pump inflates it in 8 to 15 minutes with no poles.\n\nIt deflates in 5 to 10 minutes and packs into a carry bag. It costs nearly double the bell yet sets up faster than any pole tent.\n\nIt suits families who dread pole threading and want a quick stove tent. It holds several queen air mattresses.",
     "specs": [
       "74 sq ft floor, 600D Oxford",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s1MdOIU7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CDBYTG89?tag=rvgearlab-amz-20",
     "description": "Naturehike's Ranch Fire pairs a double-wall tipi shell with a mesh inner tent, a snow skirt, two doors and two top vents. It is made from 210T flame-retardant polyester and weighs about 10.6 pounds.\n\nIt costs about a quarter of the QIFA for a similar standing height. Its footprint is smaller than the Oxford bell.\n\nIt suits campers who want a cozy four-season tipi at a low price. The inner tent keeps bugs and drafts out.",
     "specs": [
       "About 10.8 ft square, 6.9 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The POMOLY Chalet 70 Pro is an 8.2 by 6.56 foot cabin tent in 70D plaid ripstop rated 2500mm, with two aluminum poles, two guy line sets and eight tie-downs. Side rain curtains cover both doors.\n\nIt is the toughest-built tent here and the cheapest after the Naturehike. It trails the larger tents on floor space.\n\nSmall winter parties wanting a rugged cabin will get the most from it. The two-pole pitch is quick.",
     "specs": [
       "70D ripstop, 2500mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ODvR3FqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFJW2RX4?tag=rvgearlab-amz-20",
     "description": "The Ytaoeo is an inflatable two-room tent with a floor close to 13.8 by 10.5 feet and a 6.9 foot center height. PU3000mm Oxford covers the shell with UPF50+, and a hand pump fills the beams in about five minutes.\n\nIt gives the largest enclosed floor of any pick here and costs the same as the QIFA. Four large mesh windows and a dual door add airflow.\n\nIt suits large families who want separate sleeping and living rooms. Look at the stove jack details before planning a hot setup.",
     "specs": [
       "13.8 x 10.5 ft two-room floor",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IyhOGva1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GVD9L71?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM2000i lists 2,000 starting and 1,600 running watts from a 79.7 cc engine at under 3 percent THD, weighs 34 pounds with a sturdy carry handle, and claims noise as low as 60 dBA and 8 hours at 50 percent load on a 1 gallon tank. Its panel has 120V 20A outlets and two USB ports, and it has low oil and overload alarms, a CO detect shutdown, parallel readiness and a 3-year warranty with lifetime support.\n\nIt ranks first because it balances weight and output best: 34 lb for 1,600 running watts is about 21.3 pounds per 1,000 watts, and its price of $329.99 is $50.70 above the AIVOLT 1750 for 250 more rated watts. Against the Efurden 2800 it costs $30.00 more and is 6 pounds lighter with 400 fewer rated watts. It also states its runtime at a clear load.\n\nPick it if you need to lift it into a trunk or up stairs and want enough power for a refrigerator, lights and electronics. The caveat is that 1,600 running watts will not start a rooftop air conditioner, and the 1 gallon tank means a refill in a long night.",
     "specs": [
       "1,600W running, 2,000W start",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IfSnOTHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 1750W lists 1,750 peak and 1,350 running watts with a pure sine wave under 3 percent THD, weighs 26.5 pounds with a compact footprint and top handle, and claims 52 dBA. It has a 0.66 gallon tank with ECO mode claimed at 7 hours, a CO detection sensor with auto shutoff, low-oil and overload protection. The seller pitches it as carryable with one hand.\n\nIt ranks second because at 26.5 lb and $279.29 it is the lowest priced and nearly the lightest, and its 52 dBA figure is the lowest noise claim here. Against the GENMAX 1200 it costs $0.70 less, weighs 1.2 lb more, and adds 350 running watts. Against the Westinghouse 1500 it costs $69.71 less and gives 350 more running watts, though the Westinghouse lists a longer 12 hour runtime.\n\nChoose it if you need the lightest unit that still runs a CPAP, laptops and a small fridge, or if you will carry it a long way. The caveat is the 0.66 gallon tank, whose 7 hour claim means a refill before morning.",
     "specs": [
       "1,350W running, 1,750W peak",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qudFo2eHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F837ZZXV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F837ZZXV?tag=rvgearlab-amz-20",
     "description": "The Efurden 2800W lists 2,800 starting and 2,000 running watts, parallel readiness, two 120V outlets, a USB-C outlet, a USB outlet and a 12V DC outlet. It weighs 40 pounds with a built-in handle, claims 58 dBA at 23 feet, up to 10 hours at 25 percent load on a 1.1 gallon tank in ECO mode, and has a fuel gauge and under 3 percent THD.\n\nIt ranks third because it offers the most power per dollar at $299.99, which is $30.00 less than the GENMAX 2000 with 400 more rated watts, but it weighs 6 pounds more and its weight per 1,000 running watts is 20 pounds. Against the Evernexta 3000 it costs $20.00 less, runs 350 fewer rated watts and is 1.8 lb lighter. A fuel gauge on a unit this small is useful.\n\nChoose it if you want to run a 2,000 watt load such as a small microwave or a well-fed refrigerator and can carry 40 pounds. The caveat is the weight, which is a two-handed carry up steps.",
     "specs": [
       "2,000W running, 2,800W start",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WOidyzwaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1PWB9ZW?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 1500 lists 1,500 peak and 1,000 rated watts at under 3 percent THD, weighs 32 pounds, and has two 120V 20A outlets and two USB outlets. It claims noise as low as 52 dBA and 12 hours on a 0.79 gallon tank in Economy Mode, a CO sensor, parallel capability with other Westinghouse units and a 3-year warranty with a nationwide service network.\n\nIt ranks fourth because it costs $349, the most of the six, and weighs 32 lb for 1,000 rated watts, which is 32 pounds per 1,000 watts and the worst ratio here. Its 12 hours on 0.79 gallons is the best runtime per tank in this group, and it costs $69.01 more than the GENMAX 1200 with the same rated watts. It trades weight and power for runtime and service.\n\nChoose it if you want a long runtime at a very light load, such as overnight charging and a CPAP, or you value a service network. The caveat is that 1,000 rated watts is the lowest of the group, and the 12 hour claim does not state its load.",
     "specs": [
       "1,000W rated, 1,500W peak",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ODNQh6i+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09GTKMG2F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09GTKMG2F?tag=rvgearlab-amz-20",
     "description": "The GENMAX GM1200i lists 1,200 starting and 1,000 running watts from a 57 cc engine at under 3 percent THD and weighs 25.3 pounds, the lightest here. It claims 58 dBA at 23 feet at 25 percent load and 6.5 hours at 50 percent load on a 0.66 gallon tank, and has a 120V 20A outlet, two USB ports, a CO detect shutdown, parallel readiness and a 3-year warranty with lifetime support.\n\nIt ranks fifth because its weight per 1,000 rated watts, 25.3 pounds, is the worst of the group other than the Westinghouse, and at $279.99 it costs $0.70 more than the AIVOLT 1750 with 350 fewer running watts. Its case is size: it is the lightest and the smallest in engine, ideal for a backpack-style carry.\n\nChoose it if the absolute lowest weight matters, for charging devices, a laptop, or a camping fridge. The caveat is that 1,000 running watts does not go far.",
     "specs": [
       "1,000W running, 1,200W start",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4161THDoHGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCNM426T?tag=rvgearlab-amz-20",
     "description": "The Evernexta 3000W lists 3,000 starting and 2,350 running watts from a 97.7 cc engine at under 3 percent THD, weighs 41.8 pounds at 20.08 by 13.39 by 19.69 inches, and claims 53 to 56 dB at 23 feet. The panel has two 120V 20A outlets, USB-A, USB-C 5V/3.6A, a 12V DC outlet, parallel connection and an AC reset, with an optional care plan extending coverage to 3 years. The tank size is not given.\n\nIt ranks last because its tank and runtime are not listed, though it delivers the most watts per pound: 41.8 lb for 2,350 running watts is about 17.8 pounds per 1,000 watts, the best ratio here. At $319.99 it costs $20.00 more than the Efurden 2800 and $10.00 less than the GENMAX 2000, with 750 more rated watts than the latter. It is the strongest unit here, but also the least documented.\n\nChoose it if you want the most power you can carry in one hand and fit in the trunk. The caveat is the unlisted tank and runtime, so check the manual before depending on it overnight.",
     "specs": [
       "2,350W running, 3,000W start",

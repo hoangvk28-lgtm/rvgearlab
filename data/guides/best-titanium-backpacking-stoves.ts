@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lWy3ULTBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B007VLFI6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B007VLFI6W?tag=rvgearlab-amz-20",
     "description": "The Snow Peak LiteMax is a titanium canister stove weighing 2 ounces and measuring 3 by 2.7 by 1.3 inches. It threads directly onto a fuel canister and needs no pump or priming.\n\nAgainst the BRS-3000T it adds foldable arms that double as a windscreen and an adjustable flame that runs from a simmer to a rolling boil. The wide pot arms hold pots up to 5.5 inches and 2 pounds.\n\nIt suits solo hikers who want real flame control without carrying much more than the BRS. A carry bag is included.",
     "specs": [
       "2 ounces",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MP+LromxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NNMF70U?tag=rvgearlab-amz-20",
     "description": "The BRS-3000T is a 25 gram titanium alloy canister burner rated at 2700 W. Its listing states about 2 minutes 58 seconds to boil 1 liter of water and a fuel draw of roughly 140 grams per hour.\n\nNext to the Snow Peak LiteMax it gives up the wind-folding arms and fine flame control, and in return it weighs a fraction as much and costs less. It tucks into a 750 ml pot with a small canister.\n\nIt fits gram counters who boil water for dehydrated meals and nothing more elaborate. The low price also makes it a handy backup burner.",
     "specs": [
       "25 g titanium, 2700 W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419DTdY5IqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01I4FMPQY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01I4FMPQY?tag=rvgearlab-amz-20",
     "description": "The TOAKS Titanium wood stove weighs 151 grams and collapses to 3.75 by 3.75 inches so it stores inside a TOAKS 750 ml pot. A vent system burns wood gases for secondary combustion, which the listing ties to a cleaner, more efficient burn.\n\nCompared with the flat Kuvik and Stöker, it is a round chamber about 2.9 inches wide and 3.6 inches tall, a shape that holds a sustained fire and nests with a pot. It trades flat packing for a deeper fire.\n\nIt suits trekkers who would rather gather twigs than carry canisters. It is best if you already own a 750 ml pot.",
     "specs": [
       "151 g titanium",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aPJtKsHJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NLVKHPP?tag=rvgearlab-amz-20",
     "description": "The Kuvik is built from Grade-1 titanium and is 0.2 inch thick when collapsed. Its tabs lock into a self-standing firebox about 6.25 by 5 by 5 inches in size.\n\nIt is thinner in the pack than the round TOAKS, so it slides in against the pack frame. The TOAKS adds secondary-combustion venting, while the Kuvik keeps a plain fire box.\n\nIt suits minimalists who value flat storage. The tab-and-slot setup needs no tools.",
     "specs": [
       "Grade-1 titanium",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RDQNXAGFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F76M4Z6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F76M4Z6C?tag=rvgearlab-amz-20",
     "description": "The Stöker is a titanium wood stove of five interlocking panels weighing 7.7 ounces and packing flat to about 6 by 6 by 0.5 inches. It includes a Köchen-X grill grate and a waxed canvas sleeve that can double as a tinder pouch.\n\nBeside the Kuvik it weighs more and costs the most in this list, and the extra buys a dedicated grill grate for cooking over flame. The canvas sleeve is a real convenience for sooty storage.\n\nIt suits bushcraft-minded campers who want to grill a bit rather than just boil. The canvas sleeve keeps soot off the rest of the pack.",
     "specs": [
       "7.7 oz titanium",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411DE7iKrHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1Y3LKNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1Y3LKNQ?tag=rvgearlab-amz-20",
     "description": "The Odoland kit bundles a 750 ml titanium pot with lid, a 1900 W titanium camping stove, a titanium spork and a mesh bag, with the whole set listed at 192 grams. The pot is described as pure titanium with foldable handles.\n\nUnlike every other pick, it gives you a pot, so one purchase covers a basic ultralight cook set. The stove is rated lower than the BRS-3000T and lacks the Snow Peak wind arms, and the kit makes up for it in completeness.\n\nIt suits first-time ultralight buyers who need a pot as well as a burner. The mesh bag keeps the pieces together.",
     "specs": [
       "750 ml pot, 1900 W stove",

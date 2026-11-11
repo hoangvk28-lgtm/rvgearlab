@@ -1,4 +1,4 @@
-﻿export const AMAZON_TAG = "rvgearlab-20";
+﻿export const AMAZON_TAG = "rvgearlab-amz-20";
 
 /**
  * Central URL builder - swap out AMAZON_TAG once your Associates account is approved.

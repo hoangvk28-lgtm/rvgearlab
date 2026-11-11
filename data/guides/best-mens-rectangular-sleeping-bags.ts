@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51s2Z1boayL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N33DYXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N33DYXD?tag=rvgearlab-amz-20",
     "description": "REDCAMP makes this XL bag at 91 x 35 inches for adults up to 6 ft 6 in, with an 80% cotton flannel lining and a 210T polyester ripstop shell. A 2 lb fill option is comfortable at 50F and spans 41 to 59F, and a 3 lb fill is listed for comfort at 41F.\n\nIt is longer and wider than the MEREZA Flannel, and it offers a choice of fill weights so you can match it to your nights. Two-way zippers let it join a second bag, and an internal stuff pocket keeps small items close.\n\nA strong match for tall or broad men who like space. It can also grow into a double. It packs to about 18 x 8 x 8 inches in its sack.",
     "specs": [
       "91 x 35 inch XL cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TINwVGGVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62PLVS7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62PLVS7?tag=rvgearlab-amz-20",
     "description": "MEREZA rates this 86.6 x 32.3 inch rectangle from 32 to 50F, with a genuine flannel lining and a windproof 210T tear-resistant polyester shell. The box adds a 220 g plush pillow along with a compression sack.\n\nIt reaches lower on the thermometer than the REDCAMP Flannel XL 2 lb option, and it prints one clean range. It is shorter and fits sleepers only up to 6 ft, so tall men should look at the REDCAMP.\n\nBest for campers around 6 ft who want a pillow and a clear range in one purchase. The compression sack keeps the pack small.",
     "specs": [
       "86.6 x 32.3 inch rectangle",

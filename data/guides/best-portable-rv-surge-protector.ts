@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z5nA8S4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N0W4CZ8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT30X is rated for 30 amp, 120V and 3,600W, and absorbs surges up to 1,790 joules. Its fault list is long: over and under voltage, open ground and neutral, reverse polarity, miswired pedestal, accidental 240V and AC frequency issues. It has a Lexan housing with an all weather shield and is made in the USA.\n\nAt $148 it costs $8.01 more than the Power Watchdog PWD30 and $48.01 more than the GEARGO, which lists far more joules. The difference is protection logic, not raw surge size. Pick this if you want the broadest listed fault coverage. The caveat is a modest joule rating and no app.",
     "specs": [
       "30A, 120V, 3,600W",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X serves 50 amp rigs at 120-240V and 12,000W, absorbing surges up to 3,580 joules. It detects over and under voltage, reverse polarity and surge failure, and the listing includes an all weather shield, thermal protection and a Lexan housing.\n\nAt $174 it costs $118.01 more than the TGJOR 50A ($55.99) but lists far fewer joules. The extra money buys proven fault logic and U.S. build. Pick this if you want a trusted brand for a 50 amp coach. The caveat is price and a lower joule rating than the cheaper 50A options.",
     "specs": [
       "50A, 120-240V, 12,000W",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412ycC0+gKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0791RW8M2?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD30 is a 30 amp unit with 3,000 joules of protection and Bluetooth, so you can read voltage, amperage and wattage on your phone. It adds LED park power diagnostics, wireless fault alerts and customizable alert thresholds, and is described as heavy duty.\n\nAt $139.99 it costs $8.01 less than the Progressive EMS-PT30X and $40.00 more than the GEARGO. The extra spend buys live data and alerts, handy if you sleep through a brownout. Pick this if you want to watch power from the couch. The caveat is that cutoff voltages and weather rating are not listed.",
     "specs": [
       "30A, 3,000 joules",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zq5+JZeaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZLGGMP?tag=rvgearlab-amz-20",
     "description": "The GEARGO 30 amp unit lists 16,000 joules, an LED voltage display, an IP68 protective cover and automatic power cutoff and reset. It comes with a 3-year warranty, longer than most rivals mention.\n\nAt $99.99 it costs $48.01 less than the Progressive EMS-PT30X and $40.00 less than the Power Watchdog PWD30. The joule rating is much higher, but the fault list is shorter. Pick this if you want strong surge capacity on a budget. The caveat is no app and unstated fault coverage.",
     "specs": [
       "30A, 16,000 joules",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ee8JfWN0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6HK6QQT?tag=rvgearlab-amz-20",
     "description": "The TGJOR 50 amp protector lists 20,000 joules, automatic power disconnect and 110 degree C overheat protection. A built in circuit analyzer checks for high or low voltage, open ground or neutral, reversed wiring and missing L1/L2, and the LCD shows fault codes with a 103V to 132V normal range.\n\nAt $55.99 it costs $118.01 less than the Progressive EMS-PT50X. The fault code display is the standout, since it tells you what went wrong. Pick this if you want a cheap 50A with a diagnostic screen. The caveat is a shorter track record than Progressive and no warranty listed.",
     "specs": [
       "50A, 20,000 joules",

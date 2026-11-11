@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fe1rEMrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C10 Pro measures 168 inches by 120 inches and sets up in under 60 seconds thanks to pre-attached poles. The listing is frank about capacity, stating 10 people for sleeping only and 5 with camping gear, and 2 queen air mattresses.\n\nAgainst the Coleman it costs about half as much, and against the budget tents it adds an instant frame and a door drainage channel. Compared with the Wakeman it has mesh windows on all four sides.\n\nIt suits groups that want a fast pitch and an honest capacity figure. The base has a tub-style drainage design.",
     "specs": [
       "168 x 120 in footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-RX3ibUGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QHX9V7?tag=rvgearlab-amz-20",
     "description": "The Coleman instant tent has a screened porch that adds 35 percent more space than comparable 6-person dome tents. Welded corners with inverted seams from WeatherTec, an included rainfly and reflective Illumiline guy lines are listed.\n\nIt is the most expensive tent here, and the only one with a screened porch. Against the Fanttik it adds the porch and a brand-name weather system.\n\nIt suits families that want bug-free lounging next to the sleeping area. The listing also says it reduces heat inside for comfortable rest.",
     "specs": [
       "Screened porch, instant setup",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KkPNz3gdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7XVSSRF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7XVSSRF?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 168 by 120 by 84 inch cabin tent that fits 4 queen-size mattresses and has a zippered room divider, an extension cord port and two organizer pockets. It has 4 screened windows, 2 D-style doors and an 800MM taffeta fly.\n\nAgainst the UNP and HIKERGARDEN it has a taller 86 inch center and a cord port. Next to the Fanttik it uses poles rather than an instant frame.\n\nIt suits families who want a divider and power access at a mid price. The packed size is 25 by 12 by 12 inches.",
     "specs": [
       "168 x 120 x 84 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yAgGDXWxS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NWR54PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NWR54PC?tag=rvgearlab-amz-20",
     "description": "The UNP 10-person tent is 18 ft by 9 ft by 78 inches and fits 10 sleeping bags or 3 queen mattresses. A hanging privacy divider curtain makes it a two-room tent with 2 doors, a large mesh roof, and a vestibular awning on the rainfly.\n\nIt is the second-least expensive tent here and has a vestibule awning that the Wakeman lacks. Against the HIKERGARDEN it is longer and has two doors.\n\nIt suits budget groups that want a two-room layout. Two people set it up in about 10 minutes.",
     "specs": [
       "18 x 9 x 78 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310aBNU-eLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09PFVY2T9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09PFVY2T9?tag=rvgearlab-amz-20",
     "description": "The HIKERGARDEN is a 168 by 132 inch dome tent with a 74 inch center height and 20.5 lb weight. A 185T polyester shell with PU1000mm waterproofing, an E-port, a divider curtain, 1 large mesh door and 4 mesh windows are listed.\n\nPriced lowest of the five, it has the widest listed floor. Against the UNP it is heavier and lower.\n\nIt suits groups who want the lowest cost per square foot. Setup takes about 10 minutes.",
     "specs": [
       "168 x 132 in, 74 in center",

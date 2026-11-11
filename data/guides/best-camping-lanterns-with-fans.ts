@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31mp4lQXC7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJLT55TM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJLT55TM?tag=rvgearlab-amz-20",
     "description": "The Elomavapa has an 8000mAh battery with USB-C fast charging in about 4 hours, 6 to 12 hours of fan runtime and 9 to 24 hours of light. A detachable 3-blade fan, a remote with 10 to 100 percent dimming, 4 wind speeds and a 1 to 8 hour timer give full control.\n\nIt carries the largest battery here and the most controls, ahead of the 1500mAh DIBMS. It is also CE certified and costs less than the Gaiatop.\n\nIt suits campers who want a remote and a dimmer from the sleeping bag. The fan detaches to use the lantern alone.",
     "specs": [
       "8000mAh, USB-C 4 hour charge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YudlPWbSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQP23DVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQP23DVV?tag=rvgearlab-amz-20",
     "description": "The Gaiatop lists 5 to 17 hours on a single charge, 3 fan speeds, 8 LED beads, 360 degree manual adjustment and a foldable hook. It supports working while charging and uses an upgraded motor and aerodynamic grille for lower noise.\n\nIt sits between the Elomavapa and the small solar units, with more runtime than the DIBMS and fewer controls than the Elomavapa. The hook stands the fan on a table.\n\nIt suits tent campers who want a simple, quiet lantern fan. It works while plugged into a power bank.",
     "specs": [
       "5 to 17 hours per charge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vjpsXYk7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CVV1LMMP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CVV1LMMP?tag=rvgearlab-amz-20",
     "description": "The DIBMS 2-pack has a collapsible lantern with 6 LED chips at 350 lumens, a 1500mAh battery, 7 hours of fan runtime and 5 hours of lantern runtime. It charges by USB in 5 hours or by sun in 9 hours, and has an IP44 rating at 11.23 oz.\n\nIt is the only solar-charging pick and it ships as a pair. Compared with the Elomavapa it has a smaller battery and no remote.\n\nIt suits campers who want solar top-ups and two units for two tents. The collapsible body packs small.",
     "specs": [
       "350 lumens, 1500mAh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415YWnvsftL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B016HM7QRE?tag=rvgearlab-amz-20",
     "description": "The Odoland lists 18 ultra-bright LEDs, a 2-speed brushless fan at up to 10 ft/s and 2 D batteries that are not included. It lists up to 20 hours of light and 15 hours of fan, with a collapsible body and a hanging hook.\n\nIt needs no charging, which the rechargeable picks cannot offer. Compared with the SZJIEIFR it uses larger cells and a brushless motor.\n\nIt suits storm kits and long storage where a charged pack would go flat. The collapsible body slips into a pack.",
     "specs": [
       "2 D batteries, 18 LEDs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D0cCA9o2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBJWPF8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBJWPF8Q?tag=rvgearlab-amz-20",
     "description": "The SZJIEIFR runs on 3 AAA alkaline batteries, has a 180 degree adjustable foldable fan, 360 degree soft lighting that dims by pulling the lantern, and weighs about 385 g. The listing sells it as an emergency lantern with a fan and a phone charging claim.\n\nIt is the second cheapest pick and uses easy-to-find AAA cells. Compared with the Odoland it is lighter, with a smaller battery supply.\n\nIt suits kits where AAA cells are already in stock. The pull-to-adjust design raises and lowers brightness.",
     "specs": [
       "3 AAA batteries, 385 g",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tSNNnj4AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCS1P5MS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCS1P5MS?tag=rvgearlab-amz-20",
     "description": "The WMM has a USB charging cable, a solar panel charging option and a battery slot for external batteries. It weighs about 330 g, has a foldable hook that doubles as a stand, and is listed as a collapsible flashlight lantern with a fan.\n\nIt is the cheapest and offers the most ways to charge, with USB, solar and external batteries. Compared with the DIBMS it is a single unit with fewer named specs.\n\nIt suits campers who want a low-cost backup with flexible power. It works indoors and out.",
     "specs": [
       "USB, solar and battery slot",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517F0UVsNUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS7P4RZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS7P4RZS?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 is an 8 inch RV navigator with a bright high-resolution touchscreen that works in landscape or portrait. It offers custom routing based on the size and weight of your RV or trailer, map updates for North America, and a preloaded directory with KOA, Ultimate Public Campgrounds and national parks content.\n\nAgainst the Garmin RV 895 Bundle, it is the plain unit with the same maps, routing and screen. Against the Garmin Drive 53, it adds RV size and weight routing, BirdsEye satellite imagery and the larger display.\n\nBest for RV owners who want Garmin's RV routing without paying for extra accessories. The standard choice for a motorhome or trailer driver.",
     "specs": [
       "8 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51qSCgAxxLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3LZG85M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3LZG85M?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 Bundle packs the 895 MT-S navigator with a 64GB microSDXC Ultra card, a cleaning kit, a USB card reader, a USB charging adapter and a USB car adapter. It keeps the 8 inch edge-to-edge touchscreen and the custom routing based on RV size and weight.\n\nCompared with the plain Garmin RV 895, it adds the memory card, reader and power adapters in the box. Compared with the Garmin Drive 53, it includes road warnings for steep grades, sharp curves and weight limits.\n\nBest for buyers who want the card, reader and charging parts included so nothing extra needs ordering. A good starter kit for a first dedicated RV unit.",
     "specs": [
       "RV 895 MT-S, 8 inch",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C0TWi9qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BSVQ37CB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BSVQ37CB?tag=rvgearlab-amz-20",
     "description": "The Garmin Drive 53 is a 5 inch GPS navigator with a bright glass capacitive touchscreen. It alerts you to school zones, speed changes and sharp curves, shows food, fuel and rest areas along the route, and carries a U.S. national parks directory with Tripadvisor ratings.\n\nAgainst the Garmin RV 895, it is a car navigator with a much smaller screen at a fraction of the cost. Against the Garmin RV 895 Bundle, it keeps the Garmin interface and trip features without the RV routing.\n\nBest for a tow vehicle or van where RV size and weight routing is not needed. A compact backup or a car unit that follows you between rigs.",
     "specs": [
       "5 inch glass touchscreen",

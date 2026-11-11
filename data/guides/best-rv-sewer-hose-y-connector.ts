@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CnByMvYpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBBLMCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBBLMCM?tag=rvgearlab-amz-20",
     "description": "The Camco Revolution Wye is built for motorhomes with two separate holding tank valves, and it lets two sewer hoses with lug fittings connect to the same dump station inlet. All three ends swivel 360 degrees, two ends carry bayonet fittings and one has a lug fitting, and built-in gaskets give an odor-tight connection. It costs about $22.\n\nCompared with the Lippert below it, the Camco puts its emphasis on swivel: with all three ends free to rotate, two hoses can lie where they naturally fall without twisting the fitting or pulling a gasket out of line. Against the fixed Y connectors further down, such as the Buachois and CHEOTIME, the swivel ends are the difference when your hoses are stiff or the dump port sits at an awkward angle. The built-in gaskets mean no loose rings to lose in the bay.\n\nIt suits motorhome and fifth wheel owners who dump both tanks at every stop, anyone who finds a rigid Y fights the hoses, and campers who want the odor-tight seal handled by the part itself.",
     "specs": [
       "Two bayonet ends and one lug end",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yL4krytcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY219W7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY219W7R?tag=rvgearlab-amz-20",
     "description": "The Lippert wye measures 8 inches long by 8 1/4 inches wide and has a clear body so you can see when the system is fully flushed, reinforced ears for strength during repeated setup and takedown, and gaskets for a leak-free connection. It lets two hoses merge into one dump outlet and costs about $25, the highest price in this group.\n\nCompared with the Camco above it, the Lippert trades swiveling ends for a clear body and reinforced ears, which are the parts that take the abuse when you twist the fitting onto a dump port. Against the CHEOTIME and Buachois below it, the Lippert stands out with the named reinforcement on its ears, where cheaper clear wyes simply say sturdy. The listing says the 8 inch by 8 1/4 inch size is compatible with most RV sewer systems, and the clear body lets you confirm a full rinse before you disconnect.\n\nIt makes sense for full-timers who dump often, owners who want to see the water run clear before they pack up and anyone who has cracked an ear on a cheaper wye.",
     "specs": [
       "8 x 8 1/4 inch clear body wye",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V52p8mImL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFMCM4HL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFMCM4HL?tag=rvgearlab-amz-20",
     "description": "The Hooaim is a wye kit in corrosion-resistant ABS plastic with built-in gaskets for odor control, a 90 degree removable elbow adapter, and UV resistance. The kit includes one straight hose adapter with a bayonet fitting, one lug connector fitting and two hose clamps, so you can connect two standard 3 inch camper sewer hoses and adapt the angle at the dump port. It costs about $23.\n\nCompared with the Lippert above it, the Hooaim gives you the elbow and the extra adapters in the box, which helps when a dump port sits flush with the ground and a straight fitting would kink the hose. Against the Camco above, it uses a threaded design that the listing says is less prone to leakage, and its clamps make it a more complete kit, while the Camco is the simpler single part with swivel ends. The ABS body is described as corrosion-resistant and not easily broken in harsh outdoor weather.\n\nIt works for campers with low dump ports, owners who want the adapters in one kit and anyone who wants flexibility to adjust the angle of the hose.",
     "specs": [
       "ABS wye with removable 90 degree elbow",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xrXnu3Q3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FT1ZHHZD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FT1ZHHZD?tag=rvgearlab-amz-20",
     "description": "The CHEOTIME is a Y-shaped sewer hose connector made from transparent PC that lets you see when discharge is complete. It has two bayonet fittings with built-in gaskets that help prevent leaks and odors, a 3 inch interface that the listing says fits most RV, motorhome, camper and travel trailer waste systems, and a twist connection for quick attachment. It costs about $24.\n\nCompared with the Buachois below it, the CHEOTIME costs about $6.50 more and the listings are nearly alike, so the extra is for the gaskets described as built in. Against the Lippert above it, the CHEOTIME has no reinforced ears but costs about $0.60 less, with a similar clear body. The Y shape is described as connecting black and gray tank discharge lines at once, so water from both flows through a single outlet.\n\nIt suits owners who want a clear wye without the premium price, campers who care about odor control and anyone who wants simple twist-on connections.",
     "specs": [
       "Transparent PC Y connector",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xrXnu3Q3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GPWHZCSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GPWHZCSD?tag=rvgearlab-amz-20",
     "description": "The Buachois is a Y-shaped connector made of clear polycarbonate that allows two discharge lines, such as black and gray, to connect at once. It uses dual bayonet-style fittings with integrated sealing rings to prevent leaks and contain odors, follows a standard 3 inch interface for most RV, motorhome and trailer waste systems, and costs about $18, the lowest price here.\n\nCompared with the CHEOTIME above it, the Buachois saves about $6.50 and offers similar clear polycarbonate and sealing rings, which makes it the value pick for anyone who only dumps a few times a month. Against the Titan below it, the Buachois has a documented description of its materials and its gasket system, which the Titan listing leaves out. The transparent material lets you watch the flow and avoid disconnecting too early.\n\nIt works for weekend campers, owners of a second rig and anyone who wants a clear wye to try before paying more for a swivel or reinforced model.",
     "specs": [
       "Clear polycarbonate Y connector",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eMpHRIiVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GNHVKFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GNHVKFR?tag=rvgearlab-amz-20",
     "description": "The Titan wye is a plain sewer adapter listed with a universal fit type and a weight of 0.67 lb, sold as a single item for about $19. It is a basic wye intended to merge two sewer hoses into one outlet, and the listing refers to the Thetford name in its descriptive copy.\n\nCompared with the Buachois above it, the Titan sits about $1.35 higher and has far less detail about its materials, seals and fittings, which makes it the plain option rather than the better-documented one. Against the Camco Revolution above, the Titan is a simpler body with no stated swivel, so it suits an owner who just wants a basic wye and already knows what fits their hoses. At 0.67 lb it is light and easy to pack in a bay.\n\nIt makes sense as a spare wye for an older rig, a replacement for a cracked fitting or a backup in the sewer kit when you already know your hoses fit a universal wye.",
     "specs": [
       "Universal fit wye adapter",

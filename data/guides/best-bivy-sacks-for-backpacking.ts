@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cmsfLjXOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WZL9G5?tag=rvgearlab-amz-20",
     "description": "The 3F UL GEAR cover is made from DuPont Tyvek and comes in two sizes: Type A at 180 x 80 cm weighs 130 g, and Type B at 230 x 90 cm weighs 200 g. Both pack to 16 x 8.5 cm, and the listing says it prevents condensation, ventilates and adds a little warmth.\n\nIt carries the lowest stated weight of the five and is the only pick sold in two lengths. The listing notes that it is for use with a sleeping bag, not on its own, and it complements a tent or tarp rather than replacing it.\n\nIt suits ultralight hikers who want a condensation barrier for a bag at almost no weight. Choosing Type B gives extra length for tall users.",
     "specs": [
       "130 g or 200 g, two sizes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+z3JoyfEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQFR42NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQFR42NP?tag=rvgearlab-amz-20",
     "description": "The Deecam emergency bag unfolds to 83 x 35 inches and weighs 0.26 pounds, about 4 ounces. It comes in a 2 pack with a storage bag, and the listing says it reflects up to 90% of body heat and doubles as a ground mat, rain poncho or sun shade.\n\nIt is the lightest mylar option with a clear weight figure and the lowest price in the list. The Noamus is close in size and lists 4.5 oz with a smaller folded size.\n\nIt suits hikers who carry a lightweight backup in the pack in case a night goes wrong. Two bags let a partner share the load.",
     "specs": [
       "83 x 35 inches, 0.26 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51a+BIB0oDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6X4V3NR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6X4V3NR?tag=rvgearlab-amz-20",
     "description": "The Noamus set has six aluminized PE bags and six whistles, each bag measuring 83 x 35 inches at 4.5 oz. They fold to 4 x 2.75 inches, and the high-visibility orange color is meant to help rescuers.\n\nIt states weight and folded size for each bag, which matches the Deecam on information and beats the NovaMedic. The six-pack covers a hiking party, where the Deecam covers two people.\n\nIt suits group leaders and hiking clubs who want each member to carry a bag and a whistle. The small folded size fits a first-aid pouch.",
     "specs": [
       "Six bags, six whistles",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lR9wQvGUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Y1L2DQ?tag=rvgearlab-amz-20",
     "description": "The NovaMedic bivy is an 84 x 36 inch thermal mylar sack sold as two individually packed bags. It folds small enough for a pack, glove box or bug-out bag and works as a shell layer against wind, rain and cold.\n\nAt 84 inches it is the longest bag among the foil options, which helps taller hikers. The listing gives no weight, so it ranks below the Deecam and Noamus on data.\n\nIt suits tall hikers who want a longer emergency sack in the pack. A second bag can stay in the car.",
     "specs": [
       "84 x 36 inch thermal mylar",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51riPyGNlWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1NJWB3Z?tag=rvgearlab-amz-20",
     "description": "The USGI Gear kit packs two sleeping bags, a Patrol and an Intermediate Cold Weather model, along with a waterproof outer cover and a stuff sack that compresses the lot. Its fabric is 210T ripstop with DWR, and the comfort range reads 50 F to minus 50 F.\n\nIt is the only option here that provides sleeping bags, so it suits a longer cold-weather trip better than the foil bags. It is also the heaviest of the five.\n\nIt suits backpackers who want one modular set for winter or varied conditions and accept the bulk. The compression sack helps reduce the volume.",
     "specs": [
       "Patrol and ICW bags included",

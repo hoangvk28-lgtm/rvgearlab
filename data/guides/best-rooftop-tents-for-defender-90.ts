@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vEJ37AM-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPZKMNS?tag=rvgearlab-amz-20",
     "description": "The TOPOAK Nebula XL is an aluminum hard shell with a 10,000mm waterproof rating, a 420D oxford rainfly and 320G blackout fabric. Its X-frame and U-bar design expands the space by 50 percent, and it has a 2 inch memory foam mattress, LED lighting and Stabilus gas springs with a lifetime assurance.\n\nIt lists the highest waterproof rating here, double that of the JOYINRUTE. It is also slim enough for low-clearance garages.\n\nIt suits Defender campers who want the strongest weather rating and a premium sleep system. The memory foam topper and velvet cover add comfort.",
     "specs": [
       "10,000mm waterproof rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YWEI4dMhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHYQN18N?tag=rvgearlab-amz-20",
     "description": "The BVWBCR Triangle pairs an ABS shell and aluminum frame with a duct opening for an air conditioner hose and a thermal liner that comes off. It sleeps two adults and a child.\n\nIt is the only pick with an air conditioner duct hole. Compared with the Nebula XL it adds a winter liner and costs more.\n\nIt suits campers who run a cooling line in summer and want insulation in winter. The title mentions an included solar panel.",
     "specs": [
       "AC duct hole",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RakULc07L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5SNPPC?tag=rvgearlab-amz-20",
     "description": "The JOYINRUTE is an aluminum hard shell with a removable winter thermal liner, 320G polyester with a blackout coating and 5000mm water resistance. It uses four high-strength hydraulic support rods, has four windows and a flocked-lining floor.\n\nIt costs far less than the Nebula XL and offers a winter liner that the Nebula lacks. Compared with the Triangle it lacks the AC duct hole.\n\nIt suits Defender owners who want a winter-ready shell at a mid price. Wind resistance up to grade 6 is listed.",
     "specs": [
       "5000mm waterproof, grade 6 wind",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CNo00J3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4WJPH9H?tag=rvgearlab-amz-20",
     "description": "The Naturnest Sirius 1 Plus XL is a 4 person hard shell with an ABS shell, aluminum frame and honeycomb panels that add sound and thermal insulation. It includes roof crossbars and a 1.97 inch mattress.\n\nIt is the only tent here sold for four, and it has the thickest mattress. The Nebula XL has a stronger rating and a lower sleeper count.\n\nIt suits family builds where insulation and capacity matter more than packed size. The tear-resistant fabric is replaceable if it wears.",
     "specs": [
       "4 person hard shell",

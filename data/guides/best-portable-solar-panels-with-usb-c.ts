@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqznkn6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09H6GGK55?tag=rvgearlab-amz-20",
     "description": "The FlexSolar 40W has a QC3.0 USB-A port and a PD2.0 USB-C port, each rated 18W max, plus a 19V DC output. It uses monocrystalline cells listed at 24% with an IP67 rating, an LED charge indicator and two carabiners.\n\nIt has more than double the wattage of the 15W Soshine and a faster USB-C rating than the SOLUPUP. The smart IC chip adapts output to the connected device.\n\nIt suits campers who charge a phone and a tablet at the same time, or feed a small power bank. The listing advises a 45 degree tilt toward direct sun.",
     "specs": [
       "40W, 18W PD2.0 USB-C",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q-DQbi4kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6VRQ4VQ?tag=rvgearlab-amz-20",
     "description": "The SOLUPUP 30W gives a USB-A socket and a Type-C socket, each 5V 3A with 15W max, on 23% or higher monocrystalline cells. It weighs 2.4 lbs, folds to 10.63 inches and includes carabiners, a USB-to-Type-C cable and a smart safety chip.\n\nIt is lighter than the FlexSolar 40W and costs less, with a port rating a little lower at 15W. It beats the Soshine on wattage by twice the amount.\n\nIt suits hikers and backpackers who want a clip-on charger for a phone and a power bank. Two devices can charge in ample sunlight.",
     "specs": [
       "30W, 15W max per output",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MQbDtHGxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMK6M6F9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMK6M6F9?tag=rvgearlab-amz-20",
     "description": "The Soshine 15W 5V Solar Panel 2.0 is a flexible, waterproof panel with a USB-C port plus Type-C and Lightning-friendly cabling. It lists no-reverse-current protection, a 4-core high-current cable and an LED power indicator.\n\nIt is the smallest here, with half the SOLUPUP wattage, and it bends to fit a pack or tent surface. It also costs the least.\n\nIt suits campers who want a lightweight patch for a phone, a camera or a small fan. The flexible shape clings to curved surfaces.",
     "specs": [
       "15W, 5V flexible panel",

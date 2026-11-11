@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jN02v8NNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W6XLRX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W6XLRX?tag=rvgearlab-amz-20",
     "description": "The CHUANGSEED 6 inch white roll costs $29.95 and uses a PDA film with a butyl adhesive layer, rated as UV and chemical resistant. A 6 inch width across 50 feet gives generous coverage for a topper tear.\n\nAgainst the 4 inch WELLUCK at $21.95, it widens the overlap by 2 inches, which gives more adhesive surface on each side of a split. Compared with the PAULINN 6 inch at $33.93, it saves about $4 and keeps a similar footprint, which makes it a sensible middle choice for repairs that need width without a self priming claim.\n\nOwners patching a moderate topper tear or a seam near the slide room edge will find the width and price balance works well.",
     "specs": [
       "6 in x 50 ft white",
@@ -57,7 +57,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RExkpDzWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099S3NV67?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099S3NV67?tag=rvgearlab-amz-20",
     "description": "The PAULINN 6 inch roll is natural rubber tape at $33.93, finished with a silicone UV coating and described as self priming, so it bonds without a separate primer. The 6 inch by 50 foot size matches the widest rolls in the group.\n\nCompared with the CHUANGSEED 6 inch at $29.95, the self priming surface helps on uneven edges, corners and old, rough sealant where butyl can struggle to find purchase. Next to the narrower PAULINN 4 inch, it doubles as a wide patch for larger splits and seam lines, adding two inches of coverage.\n\nIt fits owners dealing with uneven seams, textured old repairs or tears near corners who want the strongest first grab from the adhesive.",
     "specs": [
       "Natural rubber, 6 in x 50 ft",
@@ -85,7 +85,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V0yk3+4fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DXQCKD9T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DXQCKD9T?tag=rvgearlab-amz-20",
     "description": "The second CHUANGSEED listing at $39.95 is a white butyl and PDA film tape described as waterproof, airtight and UV resistant, on a 50 foot roll. The listing is the priciest butyl roll in the lineup and is positioned for large tears.\n\nIts price sits $10 above the 6 inch CHUANGSEED, and it carries the same butyl and PDA film build, so the draw is potential extra width if the stated size is confirmed. Compared with the PAULINN 6 inch at $33.93, it brings a similar coverage story with butyl adhesive instead of natural rubber.\n\nIt makes sense for larger tears and for owners who prefer a butyl base, once the width on the packaging has been checked against what the repair needs.",
     "specs": [
       "PDA film with butyl",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fnlAUJ7AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099S2QJ4D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099S2QJ4D?tag=rvgearlab-amz-20",
     "description": "The PAULINN 4 inch roll costs $24.99 and uses natural rubber with a self priming seal and a silicone UV coating, in a 50 foot length. It keeps the self priming advantage of the 6 inch roll at a lower price.\n\nCompared with the WELLUCK 4 inch at $21.95, it adds the self priming surface for $3 more, which helps on rough or slightly dusty edges. Against the 6 inch PAULINN, it trims about $9 and suits repairs where a 4 inch band is enough overlap.\n\nIt works for narrow edges, vent flanges and short cracks near the slide room perimeter where a modest strip with a self priming bond is what the job needs.",
     "specs": [
       "Natural rubber, 4 in x 50 ft",
@@ -141,7 +141,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ClRlepZzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JM1652N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JM1652N?tag=rvgearlab-amz-20",
     "description": "WELLUCK sells a white roll, 4 inches wide and 50 feet long, at $21.95, made without binders or fillers and described as UV resistant. The listing emphasizes that no extra sealing is needed and that installation is simple.\n\nAt $21.95 it undercuts the self priming PAULINN 4 inch by about $3, and it sits $8 below the CHUANGSEED 6 inch, which makes it the lowest cost way to get a 4 inch overlap in this guide. Compared with the Kohree 2 inch at $17.99, it gives double the width for only $4 more.\n\nIt is a practical match for budget edge repairs, small cracks and seams where a 4 inch band covers the damage and a roll is likely to be used up on a few patches over time.",
     "specs": [
       "4 in x 50 ft white",
@@ -169,7 +169,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314ZtdOZUlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08X1MYLJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08X1MYLJG?tag=rvgearlab-amz-20",
     "description": "The Kohree is a 2 inch by 50 foot butyl tape in white, priced at $17.99, the lowest in the group. It is described as super sticky, flexible around curves, UV resistant and self priming.\n\nNarrower than every other roll here, it fits places where wider tapes would not lie flat, such as a thin trim seam, a curved edge or around a small fitting. Compared with the WELLUCK at $21.95, it saves about $4, and its flexibility helps it follow rounded corners that stiffer wide tapes resist.\n\nIt is best for narrow trim seams, small hairline cracks and quick touch ups where a thin strip of butyl is all the repair needs.",
     "specs": [
       "Butyl, 2 in x 50 ft",

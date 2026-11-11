@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51RI7MrNxhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XZVLC9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XZVLC9H?tag=rvgearlab-amz-20",
     "description": "The WEN GN400i has a 212cc 4-stroke OHV engine producing 4,000 surge watts and 3,500 rated watts, with a TT-30R RV receptacle, two 120V NEMA 5-20R receptacles and two 5V USB ports. It measures 19.8 by 13.8 by 18.9 inches, weighs 66.1 pounds, and is rated for 26.6 amps. The panel is parallel ready, so any two WEN inverter generators can be linked for more output, and the listing describes clean power for phones, tablets, televisions and computers.\n\nAt $447.51 it is $187.52 more than the All Power 5-Gallon ($259.99) and lists a lower peak (4,000 versus 4,375 watts), though both list 3,500 rated or running watts. What the extra money buys is a native TT-30R and a documented size and weight, plus an inverter design. It costs $455.11 less than the Champion 4500 Dual Fuel ($902.62) and lacks propane operation, and it weighs 66.1 pounds, the heaviest listed single-fuel weight here.\n\nPick this if you want a plain gasoline unit with the plug that fits a trailer cord and 3,500 rated watts at a mid price. The caveat is the weight, which needs a cart or a second person for lifting, and the listing does not publish a decibel figure.",
     "specs": [
       "3,500 rated, 4,000 surge",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418DDztUFCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPQX6FZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPQX6FZW?tag=rvgearlab-amz-20",
     "description": "This All Power America generator lists 3,500 running watts and 4,375 peak watts from a 208cc 4-stroke OHV engine with an overcurrent protector. It has a 5-gallon fuel tank that the listing says gives up to 13 hours at 50 percent load and 8.5 hours at full load, one 20 amp 120V plug and one RV-ready 30 amp outlet, rubber covers on all outlets, and a CO sensor.\n\nIt costs $259.99, the lowest price in the guide and $187.52 below the WEN GN400i, with a larger peak figure (4,375 versus 4,000 watts) at the same 3,500 running or rated watts. Compared with the All Power 3-Gallon it is $19.01 cheaper ($259.99 versus $279) with a bigger tank, 5 gallons versus 3. It is $642.63 below the Champion 4500 ($902.62 versus $259.99) but runs on gasoline only and does not claim a noise figure.\n\nPick this if you want sustained 3,500 watts on the smallest budget and do not mind a larger open-frame body. The caveat is that the listing does not state weight, noise or whether the 30 amp outlet is a TT-30R, so check these and the warranty on the product page.",
     "specs": [
       "3,500 running, 4,375 peak",
@@ -84,7 +84,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MUWLm4HAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6WTL5BJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6WTL5BJ?tag=rvgearlab-amz-20",
     "description": "This listing is the same 3,500 running and 4,375 peak watt output as the 5-gallon version, with a 208cc 4-stroke OHV engine, one 20 amp 120V plug, one RV-ready 30 amp outlet and rubber outlet covers. Its tank is 3 gallons, giving up to 8.5 hours at 50 percent load, and the title lists a CO sensor and open-frame design.\n\nAt $279 it costs $19.01 more than the All Power 5-Gallon despite the smaller tank, which makes it the harder pick to justify unless a smaller package is the goal. Fuel use works out to about 0.35 gallons per hour at half load, against about 0.38 for the 5-gallon version, so the real difference is how often you refill. It is $168.51 under the WEN GN400i ($447.51 versus $279).\n\nPick this if the 3-gallon tank's lighter fuel load matters more to you than runtime, or if the 5-gallon listing is out of stock. The caveat is that it is the same unlisted weight, noise and outlet shape as its sibling, at a higher price.",
     "specs": [
       "3,500 running, 4,375 peak",
@@ -113,7 +113,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RTwnbwRFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT83MTV?tag=rvgearlab-amz-20",
     "description": "The Champion 4500 Dual Fuel lists 4,500 starting watts and 3,500 running watts on gasoline, 3,150 running watts on propane, 61 dBA and up to 14 hours of runtime. It has electric start, an EZ Start Dial, an Intelligauge that shows voltage, frequency and hours, and CO Shield carbon monoxide shutoff. An optional parallel kit is sold separately and the listing includes a three-year warranty with lifetime technical support.\n\nAt $902.62 it is $455.11 above the WEN GN400i and $166.38 below the Generac iQ5200. It adds propane, a published noise level that the WEN does not list, but it loses 350 watts on propane (3,150 versus 3,500), which drops it below the 3,500 mark on that fuel. The listing does not state weight or the RV outlet type.\n\nPick this if you want a quiet inverter that can run on a propane tank with electric start and accept paying double the WEN's price for it. The caveat is that 3,500 watts holds only on gasoline, and the outlet list is not in the feature bullets, so confirm a TT-30R is on the panel.",
     "specs": [
       "3,500 running watts on gas",
@@ -142,7 +142,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TVHdt3N1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT7PQLPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT7PQLPQ?tag=rvgearlab-amz-20",
     "description": "The Generac iQ5200 Dual Fuel lists 3,900 running and 5,200 starting watts on gasoline and 3,500 running and 4,700 starting watts on propane, so it meets the 3,500 mark on propane and exceeds it on gas. Its panel has a 120V 30A L5-30R outlet, two 120V 20A GFCI outlets, USB-A and USB-C ports and an LED display, and COsense shuts it down if carbon monoxide rises. At 107 pounds with a folding handle and never-flat wheels it is the heaviest pick.\n\nAt $1,069 it is the most expensive, $166.38 above the Champion 4500 and $621.49 above the WEN GN400i, though it gives 400 more running watts than either on gasoline (3,900 versus 3,500). Runtime is listed at 9 hours on gas or 11 hours on a 20-pound propane tank at 50 percent load. Two units can be parallel linked using a kit for up to 7,800 running watts, and the warranty is three years.\n\nPick this if you want headroom beyond 3,500 watts and also the 3,500 watt propane rating, and you will roll it on wheels rather than lift it. The caveat is the L5-30R outlet, which likely needs an adapter for a trailer cord, and the 107-pound weight.",
     "specs": [
       "3,500 running watts on propane",

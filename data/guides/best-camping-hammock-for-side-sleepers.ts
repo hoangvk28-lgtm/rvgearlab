@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41la9txdAxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7GL8DBH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7GL8DBH?tag=rvgearlab-amz-20",
     "description": "The Night Cat flat lay hammock tent is built to let you rest flat like on a bed, a design it states for side and back sleepers. It hangs from three trees in a triangle, and has a mosquito net and a waterproof rainfly in 150D nylon with a 330 pound capacity.\n\nCompared with the Sunyear, it is a flatter bed that needs three anchor points. Against the single hammocks, it adds a net and a rainfly.\n\nIt suits side sleepers who want a bed-like hang and bug protection. The three-point system adds stability.",
     "specs": [
       "Flat lay design, 3-point hang",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rpuRqsV2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXG9P5BL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXG9P5BL?tag=rvgearlab-amz-20",
     "description": "The Sunyear hammock tent uses a patented trapezoidal net that creates a tent-like interior. It comes in 106 by 55 inch and 118 by 71 inch sizes with 500 pound capacity, and the listing says the extra-wide bed avoids neck squeeze.\n\nCompared with the Night Cat, it hangs from two trees and offers more width. Against the Wise Owl, it adds a net and a wider bed.\n\nIt suits side sleepers who want extra width and a bug net. The packed bag is about 14.8 by 5.3 inches.",
     "specs": [
       "Trapezoidal net, 500 lb capacity",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PVu2VphzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N45NNCL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N45NNCL?tag=rvgearlab-amz-20",
     "description": "The Wise Owl single hammock measures 9 by 4.5 feet in durable nylon with triple-stitched seams and a 400 pound capacity. It comes as a kit with 9 foot tree straps, carabiners and a built-in stuff sack, with 5-loop straps for adjustable hang.\n\nCompared with the Kootek, it includes a full kit with adjustable straps. Against the Night Cat, it is simpler and lacks a net.\n\nIt suits side sleepers who want a long, simple hammock. The 9 foot length gives room for a diagonal lay.",
     "specs": [
       "9 x 4.5 ft nylon, 400 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411zazsiCqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082X3S4SR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082X3S4SR?tag=rvgearlab-amz-20",
     "description": "The Kootek single hammock unfolds to 105 by 54 inches, supports 400 pounds and weighs 1.8 pounds. It bundles to 8.3 by 4.7 by 4.7 inches and includes tree-friendly straps and carabiners.\n\nCompared with the Wise Owl Single, it is lighter and packs smaller. Against the PUPTILY, it names weight and bundle size.\n\nIt suits side sleepers who also hike. It is easy to set up with the straps.",
     "specs": [
       "105 x 54 inch, 400 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uRQURQwnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8L2DWG?tag=rvgearlab-amz-20",
     "description": "The PUPTILY parachute hammock lists support of up to 600 pounds and comes in single or double sizes with two tree straps. The listing calls it extra large and says it works for couples or solo use.\n\nCompared with the Kootek, it has a higher capacity and a larger size option. Against the Wise Owl, it lists a double option for more width.\n\nIt suits larger side sleepers who want a wider hammock. Choose the double size for diagonal sleeping.",
     "specs": [
       "Up to 600 lb, single or double",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ci9awdSGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B128F6KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B128F6KM?tag=rvgearlab-amz-20",
     "description": "The Grevosea set contains 20 round mesh patches, each about 4 inches (10 cm) across, with an adhesive back. The listing names door and window screens, patio door net, tent mesh, RV screens and camping tarps.\n\nAt 4 inches across, each patch covers more than the Tondiamo's 3.15 inch rounds, and the set costs less. It is described as waterproof and lightweight, with strong adhesion.\n\nIt suits a camper with a screen house or a family tent with big mesh panels. Twenty patches also cover home screens.",
     "specs": [
       "20 pieces, 4 inch rounds",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51A+6UoxaML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P55YZNG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P55YZNG?tag=rvgearlab-amz-20",
     "description": "The Tondiamo kit includes 20 round mesh patches, each about 8 cm (3.15 inches) across. The listing says the patches keep good air permeability so airflow is not blocked.\n\nThey are smaller than the Grevosea rounds and cost more per pack. The listing calls them simple enough for amateurs and says they work on tents, screen tents and RV awnings.\n\nIt suits a camper who wants smaller patches for pinholes. Airflow stays open at the patch.",
     "specs": [
       "20 pieces, 3.15 inch rounds",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41akSES+wcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPJ86NHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPJ86NHT?tag=rvgearlab-amz-20",
     "description": "The Coghlan's pack holds four self-adhesive fine-net patches for mosquito netting, bug screens and camping gear. The listing says the fine mesh keeps out even no-see-ums.\n\nIt is the cheapest pack here and the only one that names no-see-um protection. Each patch can be used whole for a large hole or cut in half for a small one.\n\nIt suits a camper who wants a small pack for a gear bag. Coghlan's is a familiar camp brand.",
     "specs": [
       "4 patches, fine net",

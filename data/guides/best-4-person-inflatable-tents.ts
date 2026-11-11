@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+PfLzRJVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXV2LVS1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXV2LVS1?tag=rvgearlab-amz-20",
     "description": "The Everfire is a 4 to 6 person inflatable with a 118 by 83 by 83 inch interior and 67.8 sq ft. The listing says it fits 2 to 4 sleepers or 6 seated, with 420D Oxford, PU3000mm+ and UPF50+ protection.\n\nIt has the tallest peak of the group at 83 inches, and a stove jack with a curtain. Compared with the BravArrk it offers six screened windows and an 83 inch peak against 78, at a higher price.\n\nIt suits families of four who want standing room and strong ventilation. One camper can pitch it in about 5 minutes.",
     "specs": [
       "4-6 person, 118 x 83 x 83 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N-b2tUpFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSGGVM5S?tag=rvgearlab-amz-20",
     "description": "The HUDEX measures 9.8 by 6.9 by 6.6 ft with 68 sq ft of floor. Its stainless steel stove jack has a mesh filter and fits most 3 to 4 inch wood stoves, and the frame uses TPU beams with a replaceable zip cover.\n\nIt has the most detailed stove jack of the six and a replaceable beam cover that guards against punctures. Against the Everfire it has a lower peak and a panoramic skylight.\n\nIt suits families who plan real cold-weather camping. A wide PVC skylight and a full privacy set round it out.",
     "specs": [
       "4-6 person, 68 sq ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H500CMuTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HL9R23Z5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HL9R23Z5?tag=rvgearlab-amz-20",
     "description": "The BravArrk measures 118 by 83 by 78 inches with about 68 sq ft and sleeps 4 adults comfortably or accommodates 6. It has an inflatable beam frame, PU3000mm Oxford, a stove jack and 360 degree mesh ventilation.\n\nIt costs less than the HUDEX and the Everfire and sets up in under 5 minutes. Compared with the Gouyu it costs slightly more and names its stove jack outright.\n\nIt suits families who want a mid-price hot tent. A skylight and dual doors complete the layout.",
     "specs": [
       "4-6 person, 118 x 83 x 78 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w7ivn-nbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY7FSZWT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY7FSZWT?tag=rvgearlab-amz-20",
     "description": "The Gouyu has a panoramic skylight with a privacy cover, 420D Oxford with PU3000mm and UPF30+, and PVC air beams wrapped in a protective cover. Dual doors, mesh windows and a pre-drilled socket for a grill add function.\n\nIt costs less than the BravArrk and has a skylight that extends across one side of the roof. Compared with the Everfire it lists a protective beam cover.\n\nIt suits stargazing families. The 5 minute setup uses built-in air beams and dual valves.",
     "specs": [
       "4-6 person, panoramic skylight",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5178XtVyLwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BX76DD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BX76DD?tag=rvgearlab-amz-20",
     "description": "The Al waha measures 118 by 83 by 79 inches with about 68 sq ft and uses 300D Oxford with PU3000mm and UPF50+. A panoramic PVC skylight with a privacy cover, a stove jack and a 5-minute air-beam setup complete the build.\n\nIt is the second-cheapest of the six and lists UPF50+ protection. Against the BravArrk it costs less and names its fabric as 300D Oxford.\n\nIt suits families who want a skylight and stove jack at a modest price. A 360 degree ventilation layout keeps air moving.",
     "specs": [
       "4-6 person, 118 x 83 x 79 in",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z-2HofqKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H712DHSQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H712DHSQ?tag=rvgearlab-amz-20",
     "description": "The Ziziella is a 2 to 4 person inflatable measuring 6.6 by 6.6 by 4.6 ft. TPU air columns, 300D Oxford with PU3000mm and UPF30+ protection and taped seams make up the shell.\n\nThe cheapest of the six, it has a door curtain that props up into a sunshade canopy. Against the others it is smaller, and the listing says you cannot stand fully.\n\nIt suits budget campers who want a compact air tent. Three mesh panels provide airflow.",
     "specs": [
       "2-4 person, 6.6 x 6.6 ft",

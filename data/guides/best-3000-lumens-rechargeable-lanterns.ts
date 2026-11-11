@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31j733mVWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D11BJHG8?tag=rvgearlab-amz-20",
     "description": "The Cullaby lists 3000 lumens, a 7500mAh battery with a USB-C power bank port and five light modes with stepless dimming. Warm, cool and natural white sit alongside a red light and a red COB strobe.\n\nIt carries the largest battery of the three, well above the Durapower 2800 and the CAPETRONIX 3200. The dimming runs smoothly from soft to full, so the peak is a tool rather than the only setting.\n\nIt suits a car camper or storm-prep household that wants a single big lantern doing double duty as a phone charger. A removable diffuser cap and a dual hanging design let it work as a tent, ceiling or work light.",
     "specs": [
       "3000 lumens, 7500mAh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EYSwx1tSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B5WKNNFP?tag=rvgearlab-amz-20",
     "description": "The CAPETRONIX uses double COB light panels for 3200 lumens and a 4600mAh battery that also charges a phone. It offers five modes (high, medium, low, red steady and red strobe), collapsible hooks and IPX4 water resistance at roughly 1.2 lb.\n\nIt lists the highest peak output here, ahead of the Cullaby 3000 Lumen by 200 lumens. The collapsible hooks and compact 7 by 4 inch body make it smaller to pack than its brightness suggests.\n\nIt suits backpack-adjacent campers and emergency kits that need a very bright, small lantern. The red steady and strobe modes also serve as a signal or a night-vision-friendly light.",
     "specs": [
       "3200 lumens, double COB panels",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ndl1Nz0VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B8ND8XBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B8ND8XBV?tag=rvgearlab-amz-20",
     "description": "The Durapower lists 2800 lumens with a 360 degree beam, a 5400mAh built-in battery and USB input and output. Its stepless dimming starts at a minimum of 30 lumens, and the body carries an IP44 rating.\n\nAt 2800 lumens it sits just under the CAPETRONIX 3200 and the Cullaby 3000 Lumen, so it is the nearest fit to this guide's target rather than an exact match. Its battery lands between the other two, larger than the CAPETRONIX and smaller than the Cullaby.\n\nIt suits campers who mostly want a low, steady glow with a bright option in reserve. The 30 lumen floor makes it easy to leave on through an evening.",
     "specs": [
       "2800 lumens, 360 degree beam",

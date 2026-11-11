@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411VseDpEXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DR8CYKJQ?tag=rvgearlab-amz-20",
     "description": "The Naturehike 0 Degree line uses RDS-certified 650 fill down and mixes a mummy upper with an envelope lower body. The CW700 lists an ISO comfort rating of 29°F and an extreme of 18°F, and the CW1000 lists 12°F and negative 2°F.\n\nCompared with the Naturehike 650FP, it names ISO figures for both models, which makes the warmth easy to compare. Against the SYWSKW, it gives sizes in a clear medium and large with listed dimensions of up to 86.61 by 33.46 inches.\n\nIt suits backpackers who want real ISO figures in a down bag. Choose the CW1000 for the coldest numbers.",
     "specs": [
       "ISO comfort 12°F, CW1000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31B5xuTZfEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG5CMQXX?tag=rvgearlab-amz-20",
     "description": "The Naturehike 650FP weighs 1.67 pounds in medium and 1.95 pounds in large. It uses 650 fill duck down in a 400T 20D ripstop shell with YKK zippers and a mummy-over-envelope shape.\n\nIt is lighter than the Naturehike CW1000 and the BISINNA, and it ships with a storage bag and compression sack. Against the SYWSKW, it undercuts on weight and lists the 3-4 season label.\n\nIt suits backpackers who want the lightest down option for cool to cold nights. It works as a cold-weather layer in a bigger system.",
     "specs": [
       "1.67 lb medium, 1.95 lb large",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MQKZNAfSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ4T3Z6M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ4T3Z6M?tag=rvgearlab-amz-20",
     "description": "The SYWSKW pairs 680 fill RDS-certified duck down with a 32.28 inch shoulder width and an integrated 80 gram detachable pillow. The listing mentions 800 grams of down filling.\n\nCompared with the Naturehike CW1000, it adds a pillow and a widened shoulder cut. Against the SYWSKW Large, it is the standard width at 32.28 inches.\n\nIt suits backpackers who want bag and pillow in one system. The envelope cut makes it easier to turn over.",
     "specs": [
       "680 fill RDS duck down",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31d97oh-wkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJ2VZZ3K?tag=rvgearlab-amz-20",
     "description": "The SYWSKW Large uses the same 680 fill RDS duck down and an 80 gram detachable pillow, with a widened 33.5 inch shoulder design. It targets cold weather use and extended trips.\n\nCompared with the SYWSKW 800g, it adds 1.2 inches of shoulder room for broad sleepers. Against the Naturehike 650FP, it includes a pillow and a roomier cut.\n\nIt suits tall or broad backpackers who find narrow mummies restrictive. The pillow adds comfort on longer trips.",
     "specs": [
       "680 fill RDS duck down",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ihNiFP0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F5Q92K35?tag=rvgearlab-amz-20",
     "description": "The BISINNA mummy has a 40D nylon shell with a durable water-repellent coating and stretches to 7 feet, fitting users up to 6 ft 1 in. It weighs 1.8 kg and compresses to 15.7 by 11 inches, with an adjustable drawstring hood and a full-length zipper.\n\nCompared with the Naturehike down bags, it uses synthetic fill and weighs more. Against the SYWSKW, it is a classic mummy with a hood and no pillow.\n\nIt suits backpackers who prefer synthetic insulation for damp trips. The water-repellent shell helps in light moisture.",
     "specs": [
       "1.8 kg, packs to 15.7 x 11 inches",

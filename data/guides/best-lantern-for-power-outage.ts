@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VtI8SJexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09329QHWN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09329QHWN?tag=rvgearlab-amz-20",
     "description": "The Energizer PRO-360 puts out 500 lumens on high with all-around LED illumination bright enough to fill a large room. It is IPX4 water resistant, impact resistant up to 1 meter and has a shatterproof lens.\n\nIt is the brightest brand-name pick, with more output than the Etekcity and Eveready lanterns. It is described as up to 10 times brighter than standard LEDs.\n\nIt fits households that want a dependable emergency lantern for the kitchen table. It is also fine for camping.",
     "specs": [
       "500 lumens on high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NTgrb8iFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082HD5JDH?tag=rvgearlab-amz-20",
     "description": "The Consciot lantern gives up to 1,000 lumens in a 360 degree glow with four modes (cool white, warm white, combined and strobe) and dimming. It runs on three D cells and has an IPX4 rating.\n\nWarm white is easier on the eyes at night than the cool-only Eveready or Etekcity lanterns. It has a top handle and a recessed hook for hanging.\n\nIt fits families who want the brightest lantern for a living room. The diffuser cap comes off for a brighter, more direct light.",
     "specs": [
       "Up to 1,000 lumens, 360 degrees",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517Fd8eCAAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01C5QSENQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01C5QSENQ?tag=rvgearlab-amz-20",
     "description": "The Etekcity set has four collapsible lanterns with 30 LED bulbs each, up to 154 lumens in a 360 degree glow. Batteries are included, and each lantern runs up to 50 hours on 3 AA batteries.\n\nFour lanterns light four rooms, which a single bright lantern cannot do. They collapse to a flat shape that stores in a drawer.\n\nIt fits households who want a light in every room for the cost of one big lantern. Each unit folds flat for storage in a drawer.",
     "specs": [
       "Four lanterns, 154 lumens each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RuWoXX6CL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW4QLRPQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW4QLRPQ?tag=rvgearlab-amz-20",
     "description": "The Eveready X-250 comes as a pair of lanterns with 250 lumens of 360 degree light and up to 100 hours on area mode. They are IPX4 water resistant, impact resistant up to 1 meter and have a top handle for carrying and hanging.\n\nIt lasts longer than the Etekcity lanterns and gives more light than they do. A pair lights two rooms.\n\nIt fits households that prefer a long burn on a pair of lanterns. The top handle makes hanging easy.",
     "specs": [
       "250 lumens, up to 100 hours",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4105+8kDSkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00XM8HTIS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00XM8HTIS?tag=rvgearlab-amz-20",
     "description": "The Etekcity 2-pack has two collapsible lanterns with 30 LED bulbs each, up to 154 lumens and a runtime of up to 50 hours on 3 AA batteries. A strengthened ABS body keeps it water resistant.\n\nIt is the smaller version of the 4-pack, sized for a household that needs just a pair. The collapsible design stows in a drawer.\n\nIt fits apartments and small homes. Two lanterns cover a bedroom and a kitchen.",
     "specs": [
       "Two lanterns, 154 lumens each",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YON-RlPCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8B6J7ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8B6J7ML?tag=rvgearlab-amz-20",
     "description": "The Consciot CL1 Mini has two light sources, a 6500K cool white LED and a 2700K warm filament, with stepless dimming. It lists 4.5 hours on cool white high and 200 hours on warm white, with three AA batteries not included.\n\nIt is the best lantern for a cozy room, with a retro look and a handle for hanging. The warm filament lasts 200 hours on low.\n\nIt fits bedrooms and tables where comfort matters more than brightness. The handle hangs it from a hook.",
     "specs": [
       "Cool and warm light sources",

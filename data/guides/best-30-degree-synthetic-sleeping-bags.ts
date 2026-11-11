@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Y8mzcd8ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3YH7GY2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3YH7GY2?tag=rvgearlab-amz-20",
     "description": "CORE sells this adult extra-large bag with a comfort level of 30 to 50F, a polyester shell and lining, and synthetic hollow fiber fill. The listing says the fill retains insulation when wet, dries quickly and offers more heat retention and loft than standard fills.\n\nIt is the only adult pick with a named synthetic fill and a stated comfort band, so it is easy to read. An interior accessory pocket and machine washing make it practical for family trips.\n\nA good fit for adults who want a roomy, forgiving synthetic bag for three-season camping. Wash it at home after a muddy weekend.",
     "specs": [
       "30 to 50F comfort band",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21ukctDQI2S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6Q79X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6Q79X?tag=rvgearlab-amz-20",
     "description": "Kelty's Callisto Kids is a 30 degree bag with Cloud Loft synthetic insulation and a soft 190T polyester taffeta shell. It unzips completely to work as a blanket and packs into its own stuff sack.\n\nIt is the only kid-sized bag in the group, which makes it the choice for young campers, and its soft shell is easy to snuggle. The adult-sized CORE and Retrospec do not fit children well.\n\nChoose it for boys and girls at campground sleepovers and scout trips. It stuffs back into its own sack with little fuss.",
     "specs": [
       "30 degree kids bag, Cloud Loft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ju9H8ETeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ1WCL8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ1WCL8T?tag=rvgearlab-amz-20",
     "description": "Retrospec sells the Dream 30 as an insulated mummy with a 30 degree label. Both shells resist water, a collar and tube block drafts, and weights are listed at 2 lb 8 oz for regular and 2 lb 10 oz for long. A stuff sack comes with it.\n\nIt is the lightest adult bag in the group on paper, and its tapered cut holds heat better than a rectangle. Differentiated draw cords and a zipped stash pocket add convenience.\n\nChoose it for hikers who want a light 30F mummy at a low price. The stash pocket keeps a phone handy.",
     "specs": [
       "30 degree insulated mummy",

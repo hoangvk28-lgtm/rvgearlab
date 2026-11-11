@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OvU3Ch-ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9KMWW9Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9KMWW9Z?tag=rvgearlab-amz-20",
     "description": "The Grbsy 14 inch is a hybrid short queen at 60 by 75 inches with seven zones of support and three types of pocket spring. It has a graphene infused Euro top and reinforced edges, and it comes with a 365-night trial and a 10-year warranty.\n\nAgainst the Grbsy 12 Inch, it adds coils and two inches of height, which gives the bed a bouncier, more supportive feel and better edge strength for sitting or sleeping near the side. Compared with the 8 inch and 4 inch foam mattresses in this guide, the zoned pocket springs reduce motion transfer, so a partner moving in the night is less likely to wake you.\n\nIt suits couples and full-time RVers who want a home bed feel and have the clearance for 14 inches. If the camper is your main residence and you want the most supportive, longest-lasting mattress in this guide, the hybrid build and the long trial period are the strongest reasons to choose it.",
     "specs": [
       "14 inch hybrid, 60x75",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ypRytpYWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F6D331YQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F6D331YQ?tag=rvgearlab-amz-20",
     "description": "The Grbsy 12 inch is an all foam short queen with a cooling layer and HEXACELL hex honeycomb foam. It is CertiPUR-US certified, and the honeycomb pattern lets the foam flex to your body while keeping airflow moving through the mattress.\n\nCompared with Grbsy 14 Inch Hybrid, it has no coils and costs less, about $116 less, while still giving 12 inches of depth for a thick, supportive feel. Against the 8 inch hoggisleep and MLILY mattresses, it adds four inches of foam, which means better pressure relief and less chance of feeling the platform beneath you.\n\nIt suits hot sleepers wanting foam, and owners who prefer the quiet, motion-absorbing feel of memory foam over springs. If you want a sizable upgrade for nightly use without paying for a hybrid, and your platform has room for 12 inches, this is the best balance in the guide.",
     "specs": [
       "12 inch memory foam",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51QkuR0wIKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMRNKWVF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMRNKWVF?tag=rvgearlab-amz-20",
     "description": "The hoggisleep is an 8 inch short queen at 60 by 74 inches with AquaSoft memory foam and a 10 year warranty. It is made in the USA with CertiPUR-US foams, which gives buyers a domestic-made option with a clear foam certification in a camper-friendly thickness.\n\nNext to the Grbsy 12 Inch, it is thinner and cheaper, saving about $83 and two inches of height that many platforms cannot spare. Compared with the MLILY mattress, it offers the long 10 year warranty and a medium firm feel, while the Zenzy 4 Inch is thinner still and less supportive for nightly use.\n\nIt suits owners wanting an American made mattress with strong warranty coverage. If you want a sensible 8 inch bed that clears most platforms and slides, with a manufacturer that stands behind the foam for a decade, this is a smart middle-of-the-road choice.",
     "specs": [
       "8 inch foam, 60x74",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wZLqjxKKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQWMFN7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQWMFN7?tag=rvgearlab-amz-20",
     "description": "The MLILY is an 8 inch short queen with green tea memory foam and gel infusion. It is rated around 5 out of 10 on firmness and is CertiPUR-US, so it lands in the soft-to-medium range that many side sleepers prefer, and it ships compressed in a box.\n\nCompared with hoggisleep 8 Inch, it is softer and lower priced, about $21 less, with the same 8 inch height. Gel infusion adds cooling, and the green tea foam is meant to keep the bed fresh. Against the Zenzy 4 Inch, it doubles the foam depth for the same sort of money, which makes it far better for regular sleeping.\n\nIt suits side sleepers who want a softer surface and a gentler feel on shoulders and hips. If you have a standard platform, want an 8 inch bed at a mid price and prefer a plush top, it delivers a comfortable sleep in a camper at a friendly price.",
     "specs": [
       "8 inch gel foam",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gunQeu5vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYR8619S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYR8619S?tag=rvgearlab-amz-20",
     "description": "The Zenzy is a 4 inch short queen at 60 by 75 inches built for Class A and trailers. It has medium firmness and a washable cover, so it can be refreshed between trips without handling the foam itself.\n\nCompared with MLILY 8 Inch, it is thinner and cheapest, saving about $16 while leaving more headroom under cabinets and slides. It is also the best match here for low platforms, where a thick mattress would leave you too close to the ceiling. Against the thicker Grbsy options, it is a replacement bed instead of a luxury upgrade.\n\nIt suits owners who need an inexpensive replacement for a guest bed or occasional use. If the camper only sleeps visitors, or you want a simple swap for a worn factory foam block at the lowest price, this mattress does the job in the exact 60 by 75 inch size.",
     "specs": [
       "4 inch foam, 60x75",

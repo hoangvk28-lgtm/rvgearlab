@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51JrfNK6Y5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3ZH1GX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3ZH1GX7?tag=rvgearlab-amz-20",
     "description": "The AquaNPT with gauge is a 90 degree elbow regulator in lead-free brass with a built-in 0 to 120 psi gauge, so you can read the line pressure at the spigot without a separate gauge. The title says preset 50 to 55 psi and a bullet says 40 to 55 psi, so the gauge is what tells you what your hookup is actually doing. It costs about $30.\n\nCompared with the other AquaNPT below it, this version adds the gauge for about three dollars more, and the same kit of PTFE thread tape, stainless screen filters and replacement rubber washers comes in the box. Against the Roastove next to it, the gauge is the difference: the Roastove regulates but gives you no reading, so you only learn about a bad hookup when something leaks. The 90 degree elbow keeps the hose from kinking at the spigot and takes strain off the connection.\n\nIt suits full-timers, owners of older rigs and anyone who has ever wondered what a campground was really delivering, since the gauge turns the regulator into a diagnostic tool as well as a protector.",
     "specs": [
       "0 to 120 psi gauge, 90 degree elbow",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rfceCFGbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJD65C?tag=rvgearlab-amz-20",
     "description": "This AquaNPT regulator is a solid lead-free brass unit preset to 50 to 55 psi with a 90 degree hose elbow built in. It threads on with standard 3/4 inch garden hose thread, male to female, and includes a removable stainless steel screen filter, a rubber washer and Teflon tape. At about $27, it is the middle of the price range and the cleanest 50 to 55 psi listing in the group.\n\nCompared with the gauge model above it, you give up the dial and save about three dollars, and the pressure claim is stated once and consistently. Against the Valterra just below it, the AquaNPT adds the elbow, which angles the hose down along the trailer instead of pushing it straight out and kinking it, and it bundles the tape and washer instead of leaving them to you. The removable stainless screen blocks sand, rust and debris from reaching your inlet.\n\nIt works for weekend campers and snowbirds who want a no-fuss elbow regulator with the right spare parts in the box, and for anyone who wants a clear rating and a drinking-water-safe brass body.",
     "specs": [
       "Preset 50 to 55 psi, 90 degree elbow",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fjXdnQGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003YJJHI0?tag=rvgearlab-amz-20",
     "description": "The Valterra Hi-Flow is a straight lead-free brass regulator that holds 50 to 55 psi and attaches between the campground spigot and the hose. The listing says it is rust resistant, has a screened washer that removes debris, and that its lead-free construction conforms with federal and state laws for drinking water fixtures. It costs about $19.\n\nCompared with the AquaNPT elbow regulators above it, the Valterra is the plain in-line design: no angle at the spigot, no extras, and a lower price. Against the Wadoy below it, the Valterra is nearly identical on paper, with the same 50 to 55 psi band and the same note that it leaves pressure untouched when the incoming supply is below 50 psi, and it leans on a longer-established name. The screened washer needs a quick rinse now and then, which the listing says to do as needed.\n\nIt suits most travel trailer and camper owners who want a no-nonsense regulator at about twenty dollars. The listing says it is not recommended for older RVs, so check your plumbing's age before buying.",
     "specs": [
       "50 to 55 psi, lead-free brass",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hgzOaq5NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08KT97PY8?tag=rvgearlab-amz-20",
     "description": "The Wadoy is a high-flow inline brass regulator that holds 50 to 55 psi, with a double-layer stainless steel mesh screen that stops sediment from going through. The listing says it is designed for maximum flow rather than the choked flow of many regulators, and it connects to standard garden hose female inlets. At about $14, it is the lowest-priced regulator here.\n\nCompared with the Valterra above it, the Wadoy costs about $5.70 less and adds a double-layer mesh screen where the Valterra has a single screened washer. Both share the same behavior of passing low supply pressure through unchanged. Against the Roastove below it, the Wadoy is a straight in-line unit rather than a hose-saving elbow, which makes it lighter and simpler to stow, and its high-flow focus helps shower pressure on marginal hookups.\n\nIt suits buyers on a tight budget, owners who want a spare regulator in the storage bay, and campers who often face silty or rusty spigots and want the extra mesh layer in front of the valve.",
     "specs": [
       "50 to 55 psi, lead-free brass",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415V4X2NJdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZDQH9ML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZDQH9ML?tag=rvgearlab-amz-20",
     "description": "The Roastove is a lead-free brass regulator with a 90 degree hose saver design, set to 50 to 55 psi, aimed at strong flow for showers, faucets and everyday freshwater use. The angled body reduces hose bending, kinking and stress at the RV water inlet, and it has a grip designed for quick, tool-free installation. It costs about $30.\n\nCompared with the AquaNPT gauge model above it, the Roastove offers the same elbow geometry at about the same price but without the dial, so the value rests on its high-flow emphasis. Against the Rvhouse below it, the Roastove is a brass elbow with a hose saver shape, while the Rvhouse is a compact straight unit with an inlet filter, so the Roastove protects the hose and the Rvhouse protects the inlet screen. Both are sold with a 3/4 inch garden hose thread.\n\nIt makes sense for campers who prioritize shower flow and hose longevity, and for owners with tight spigot clearance where a straight regulator would bend the hose sharply.",
     "specs": [
       "50 to 55 psi, 90 degree hose saver",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416LneRt4yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSJP3Q2Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSJP3Q2Y?tag=rvgearlab-amz-20",
     "description": "The Rvhouse is a compact lead-free brass regulator holding a steady 50 to 55 psi, with standard 3/4 inch hose thread that fits most RVs, campers, travel trailers, boats and outdoor water setups without extra adapters. A built-in inlet filter screen blocks sand, rust, sediment and debris, and installation needs no tools. It costs about $14.\n\nCompared with the Roastove above it, the Rvhouse swaps the elbow for a compact body, so it packs into a storage bay and moves between a trailer, a boat and a backyard hose with ease. Against the Wadoy beside it in price, the Rvhouse lists a built-in inlet filter and specific protection for hoses, faucets and water heaters, and it makes a point of working for potable water when installed correctly. The listing calls the body compact and built for regular camping and home use.\n\nIt suits casual campers, boaters, and anyone who wants an inexpensive regulator that also protects a garden hose at home, with a clean tool-free install.",
     "specs": [
       "Steady 50 to 55 psi, lead-free brass",

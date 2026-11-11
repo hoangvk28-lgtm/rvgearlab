@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EbCbJFMoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9NMH18Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9NMH18Z?tag=rvgearlab-amz-20",
     "description": "This GENMAX runs on gas or propane, with 9000 peak and 7600 rated watts, a 6.9 gallon tank, and a remote key fob. It lists 62 dBA at 23 feet with 25% load, a low idle mode, CO detect, and is EPA and CARB compliant, at $1,699.99.\n\nIt costs $85.00 more than the non-CARB dual fuel model, which only matters if you live in or travel to California. It is also $100.00 less than the gas-only model, which has no propane. Pick this if you want both fuels and legal sale everywhere. The caveat is weight, which is not listed.",
     "specs": [
       "9000W peak, 7600W rated",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aH0pjS8KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QGFR3D4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QGFR3D4?tag=rvgearlab-amz-20",
     "description": "This is the same 458cc dual fuel GENMAX with 9000 peak and 7600 rated watts, gas or propane, a 6.9 gallon tank, remote start, and the 62 dBA at 23 feet rating. The listing says EPA compliant but not CARB, and it costs $1,614.99.\n\nIt is the cheapest of the three, $85.00 under the CARB version and $185.00 under the gas-only model. Pick this if you are outside CARB states and want the lowest price. The caveat is that it may not be sold or registered in California, so check your destination.",
     "specs": [
       "9000W peak, 7600W rated",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HeXOMeniL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QQDQS78?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QQDQS78?tag=rvgearlab-amz-20",
     "description": "The gas-only GM9000iE lists 9000 peak and 7600 rated watts from a 458cc engine with 62 dBA at 23 feet quarter load. The panel has four 120V GFCI outlets and a 120V 30A twist lock, and the unit has a CO alarm and parallel capability, at $1,799.99.\n\nIt costs $185.00 more than the GENMAX Dual Fuel and $100.00 more than the CARB model, and it removes propane rather than adding anything. Pick this only if you want its exact panel and never use propane. The caveat is that the price premium has no stated benefit.",
     "specs": [
       "9000W peak, 7600W rated",

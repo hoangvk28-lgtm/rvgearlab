@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316qDSmExmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FD9Z5F3S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FD9Z5F3S?tag=rvgearlab-amz-20",
     "description": "The DJI Power 1000 V2 is a 1,024Wh LFP station with 2,600W of output, an 80 percent charge in 37 minutes and about 26 dB operation. It has dual 140W USB-C ports for laptops.\n\nIt costs about $400, around $100 less than the EcoFlow Delta 3 Classic, and it charges faster and runs quieter than any other pick here. It stores half of what the Anker SOLIX S2000 holds.\n\nIt suits campers and van-lifers who sleep near the unit and want a fast refill between stops. The compact body keeps it easy to carry.",
     "specs": [
       "1,024Wh LFP, 2,600W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F8BqUk3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQVC4RF5?tag=rvgearlab-amz-20",
     "description": "The EcoFlow Delta 3 Classic stores 1,024Wh of LiFePO4 and delivers 1,800W of AC with a 3,600W X-Boost surge. It reaches 80 percent in 45 minutes and has a UPS switch under 10ms.\n\nIt costs about $499, roughly $100 more than the DJI Power 1000 V2, and the extra money buys an established brand and a mature app ecosystem. Its 1,800W output is lower than the DJI's 2,600W.\n\nIt suits buyers who want a well-supported product with solar and expansion options. It handles most camp kitchens.",
     "specs": [
       "1,024Wh LiFePO4, 1,800W AC",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RMFsLYB-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42CSQWG?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 packs 1,024Wh with 1,800W of rated output and a 2,700W Power Lifting mode. It reaches 80 percent in 45 minutes, weighs 25 pounds and has a 30 dB silent mode.\n\nIt costs about $499, the same as the EcoFlow Delta 3 Classic, and it weighs less than the Anker SOLIX S2000 by a wide margin. It adds app control with OTA updates.\n\nIt suits campers who want strong output and portability in one unit. The silent mode helps near the tent.",
     "specs": [
       "1,024Wh, 1,800W rated",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+D1tNXreL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7PPG25F?tag=rvgearlab-amz-20",
     "description": "The Jackery Explorer 1000 v2 holds 1,070Wh and outputs 1,500W with 3,000W surge on a LiFePO4 pack rated for 4,000 cycles to 70 percent health. A one-hour emergency charge takes it from empty to full.\n\nIt costs about $499, level with the EcoFlow Delta 3 Classic, and it has the biggest battery of the 1 kWh group at 1,070Wh. It outputs less than the DJI or the BLUETTI.\n\nIt suits campers who want a familiar name and full recharge in an hour. Three AC ports let you plug in several devices.",
     "specs": [
       "1,070Wh, 1,500W AC",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oUWN32k+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY4TQ2P8?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX S2000 stores 2,010Wh in LFP cells, outputs 1,500W with a 3,000W peak and accepts up to 400W of solar. It is rated for 10,000 cycles.\n\nIt costs about $650, around $150 more than the EcoFlow or BLUETTI, and it holds twice the energy of any other pick here. It gives lower AC output than the DJI Power 1000 V2.\n\nIt suits long stays, fridge backup and anyone who wants a decade-long battery. The cycle rating is the highest in this guide.",
     "specs": [
       "2010Wh LFP, 1500W output",

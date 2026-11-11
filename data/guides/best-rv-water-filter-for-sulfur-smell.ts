@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316v+DtccTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4DWM495?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4DWM495?tag=rvgearlab-amz-20",
     "description": "Envig is an inline hose filter with catalytic carbon and KDF behind a sediment pre-layer. Its listing names chloramine and hydrogen sulfide, and states an 8,500-gallon capacity at 4.5 GPM, with 3/4 inch hose threads and a hose protector.\n\nAgainst The Sulfur Eliminator below, it is a small, cheap, portable filter instead of a whole-system install. Compared with RVGUARD 4-Pack, it uses catalytic carbon rather than plain GAC, which is the difference that matters for sulfur.\n\nIt is the practical choice for campers meeting occasional sulfur smell. Very strong rotten-egg water may exceed what an inline filter can handle, and the listing mentions an operating pressure window to respect.",
     "specs": [
       "Catalytic carbon formula",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x-WEj8U9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MS02UCM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MS02UCM?tag=rvgearlab-amz-20",
     "description": "The Sulfur Eliminator is built for well water and is described as eliminating rotten egg and sulfur smell, and addressing iron, rust and sediment. It installs on a well spigot with a garden hose thread, using aerated mist, and is called maintenance-free.\n\nCompared with Envig Catalytic above, it treats the water source rather than your RV hookup, at a very high price. Against the carbon systems below, it uses a different principle, so it is not a cartridge swap.\n\nIt makes sense for someone who has their own well and RV at one property. It is not an RV-specific travel filter, and the listing says it suits wells 4 inches and above.",
     "specs": [
       "Aerated mist design",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qgo9uU5UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZ6MRL94?tag=rvgearlab-amz-20",
     "description": "PUREPLUS is a dual-stage system with a 5-micron PP10 sediment cartridge and a second stage, in stainless steel 3/4 inch ports on a bracket for ground or wall. The listing says one cartridge set handles 13,000 gallons in about 3 to 6 months.\n\nCompared with Envig Catalytic above, it has no hydrogen sulfide claim, so it is a metals and sediment system rather than a sulfur one. Against H&G GAC Canister below, it is smaller and pairs sediment with a metals stage.\n\nIt works as an upstream sediment and metals stage ahead of a sulfur-aware filter. The listing makes no explicit sulfur claim.",
     "specs": [
       "5-micron sediment stage",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LMAhgB6rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6X76Z9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6X76Z9F?tag=rvgearlab-amz-20",
     "description": "H&G's portable system uses 2 kg of GAC and 1 kg of KDF with a 3/4 inch GHT brass adapter and a carry handle. The listing claims up to 300,000 gallons of capacity and reduction of fluoride.\n\nAgainst PUREPLUS Dual-Stage above, it focuses on a big carbon bed rather than a sediment cartridge. Compared with Envig Catalytic, the carbon here is plain GAC and KDF, not catalytic.\n\nIt suits RVers who want a big, refillable-feeling carbon unit for taste and chlorine. The listing does not mention sulfur, so do not expect it to beat rotten egg smell.",
     "specs": [
       "2 kg GAC and 1 kg KDF",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-LIR9FL4S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07SX5RPG6?tag=rvgearlab-amz-20",
     "description": "Clearsource Ultra is a three-stage system with a 5-micron sediment filter, a 0.5-micron coconut shell carbon stage and VirusGuard filtering aimed at viruses, bacteria and cysts. It comes in a powder-coated metal chassis with stainless steel fittings.\n\nCompared with Envig Catalytic above, it focuses on microbial protection and sediment rather than sulfur. Against H&G GAC Canister, it is a premium, tightly engineered system with a very high price.\n\nBuy it if pathogens are your main worry and smell is secondary. The listing does not name hydrogen sulfide.",
     "specs": [
       "VirusGuard filter",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UHT56HLAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QMC54XK?tag=rvgearlab-amz-20",
     "description": "RVGUARD sells four inline filters certified by IAPMO R&T against NSF/ANSI 42 for material safety and aesthetic chlorine reduction. It uses KDF and GAC, with a stated 0.5 gpm flow, 15,000 gallon capacity, 60 psi working pressure and three-month life per filter.\n\nAgainst Envig Catalytic above, it is general carbon, so it handles chlorine and taste but makes no sulfur claim. Compared with the larger systems, it is cheap per filter.\n\nA fine spare-filter set for general taste work. Do not count on it for rotten egg smell.",
     "specs": [
       "NSF/ANSI 42 listing",

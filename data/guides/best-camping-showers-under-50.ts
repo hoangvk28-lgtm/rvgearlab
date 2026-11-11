@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315b8EaZEvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8VLJMT2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8VLJMT2?tag=rvgearlab-amz-20",
     "description": "The Spopal kit combines a 6000mAh pump rated for 120 to 150 minutes with a collapsible 20L bucket that has a handle. An LED display shows battery power and water temperature from 32F to 140F, the motor runs quietly, and output adjusts between high and low.\n\nAt about $36 it costs $3 more than the vignuto and is the only pick that includes the bucket, so you do not have to find one at camp. It does not heat water, so the shower is only as warm as what you pour in.\n\nIt suits campers who want everything in one box and a display that shows the water temperature. The bucket folds flat for the car.",
     "specs": [
       "6000mAh, 120 to 150 minutes",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W4T80WAfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZPBH6V3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZPBH6V3?tag=rvgearlab-amz-20",
     "description": "The vignuto kit has a 6000mAh battery rated for 150 minutes that charges in 4 to 6 hours over Type-C. It adds an LED display for battery and water temperature (50F to 140F), a multi-mode shower head, a spray gun head and a 6.7 foot water pipe.\n\nAt about $33 it sits $3 below the Spopal and offers two heads, with a STOP knob and up to 8 liters per minute. It leaves out a bucket, which you supply.\n\nIt suits campers who want to wash dishes, dogs and gear as well as themselves. The spray gun head makes rinsing quick.",
     "specs": [
       "6000mAh, 150 minutes",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AZPmUfZGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN58LG1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN58LG1Q?tag=rvgearlab-amz-20",
     "description": "The WADEO kit has a 6000mAh battery rated for 120 to 180 minutes and charges in 3 to 4 hours. Its base has a suction cup that grabs the bottom of a bucket, plus 3-in-1 hooks, and the colored lights show full, medium and low power.\n\nAt about $30 it costs the least of the pump kits and weighs only 2.3 lb. It gives up the temperature display of the Spopal Bucket Kit and the second head of the vignuto Spray Kit.\n\nIt suits campers who want a pump shower for the lowest money. The mesh bag keeps the kit tidy.",
     "specs": [
       "6000mAh, 120 to 180 minutes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OTySm1j0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRW7D3FD?tag=rvgearlab-amz-20",
     "description": "The Cothb X pairs a 1500W immersion heater with an LCD temperature control and a dual LCD pump display. It heats 5 gallons to 100F in about 5 minutes, with anti-dry-burn protection that cuts the heater if it runs without water.\n\nAt about $50 it is the priciest of the group and the only one that makes hot water. The 6800mAh pump runs up to 90 minutes, and a 5.3 gallon collapsible bucket is in the box.\n\nIt suits campers with shore power or a generator who want a hot shower. The heater cut-off adds a layer of protection.",
     "specs": [
       "1500W heater, LCD control",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NfV2czF2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJTVZ3GS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJTVZ3GS?tag=rvgearlab-amz-20",
     "description": "The FUN ESSENTIALS kit packs a pop-up shower tent, four ropes, eight ground stakes, four sand bags, a 5 gallon solar shower bag and a carry bag into 5 lb. The tent works as a shower, a changing room or a camp toilet screen.\n\nAt about $50 it costs the most and is the only pick that gives privacy as well as water. The bag heats by sun, so there is no battery to charge, and a hanging rope with a hook is included.\n\nIt suits campers at busy campgrounds and beaches who want a private shower. The tent folds into a 23 inch bag.",
     "specs": [
       "Pop-up tent plus solar bag",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oZcWsZMwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9PCWQ59?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9PCWQ59?tag=rvgearlab-amz-20",
     "description": "The ActiveStart SoftStart 50 Amp Wired SoftStarter has terminal blocks for incoming and outgoing wires, and the listing says it can run up to 4 RV air conditioners on a single generator or limited power supply. It is described as easier than a standard install because no modification is required.\n\nAgainst the ActiveStart Plug and Play, it is the wired alternative that states a four-A/C ceiling. Against the SoftStartRV SoftStartUp, it handles a bigger rig with several roof units.\n\nBest for large fifth wheels and motorhomes with multiple roof air conditioners. A permanent install suits owners who plan to keep the rig.",
     "specs": [
       "50 amp wired soft starter",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+u7ZJem-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCK6DRQD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCK6DRQD?tag=rvgearlab-amz-20",
     "description": "The ActiveStart SoftStart 50 Amp Plug and Play unit is described as a true plug-and-play design that needs no permanent modification. It lowers the initial power surge when the air conditioner starts and includes Bluetooth connectivity for control.\n\nCompared with the ActiveStart Wired, it trades the four-A/C capacity statement for easy install. Compared with the ActiveStart Programmable, it is a larger 50-amp box with a full description.\n\nBest for owners who want a 50-amp solution without opening panels. It also works with most RV air conditioners and home HVAC systems.",
     "specs": [
       "50 amp plug and play",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313lSEpASnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYJDQ4X1?tag=rvgearlab-amz-20",
     "description": "The SoftStartRV SoftStartUp is a plug-and-play soft start for travel trailers, Class B and Class C RVs. It works with 30-amp and 50-amp sources and small generators as low as 2200 watts, and cuts startup inrush by up to 50 percent.\n\nAgainst the ActiveStart units, it is the lowest priced of the plug-and-play options. Against the ActiveStart Wired, it handles one air conditioner rather than four.\n\nBest for smaller RVs on 50-amp pedestals. The overload protection and generator compatibility make it a flexible entry unit.",
     "specs": [
       "Plug and play, 30A and 50A",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313HCthBpvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CK8NJQ9R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CK8NJQ9R?tag=rvgearlab-amz-20",
     "description": "The ActiveStart SoftStart ACS20PIM-S lists starting current reduction and programmable startup power, with a Bluetooth-enabled app for iOS and Android. It includes built-in surge protection and a waterproof, UV-proof module.\n\nAgainst the ActiveStart Plug and Play, it costs a fraction as much. Against the SoftStartRV SoftStartUp, it adds a programmable app and UV-proof housing.\n\nBest for owners who want ActiveStart branding and app control at the lowest price. The listing calls it a 50-amp plug and play unit.",
     "specs": [
       "Programmable startup power",

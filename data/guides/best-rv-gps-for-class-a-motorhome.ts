@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517F0UVsNUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZK4LN92?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 895 has an 8 inch high-resolution touchscreen that works in landscape or portrait and gives custom routing based on your RV size and weight. It carries a preloaded directory of RV parks and services with Tripadvisor traveler ratings and Ultimate Public Campgrounds content.\n\nAgainst the Garmin RV 795 below it, the 895 adds a larger 8 inch display for a cockpit viewed from a distance. Against the HINYFVOZ 9 inch, it adds RV-specific routing and park directories.\n\nIt is the best match for Class A owners who want a big, bright screen and a navigator designed around RVs. Think of it as the pick for class a cockpit viewing.",
     "specs": [
       "8 inch touchscreen",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410Z4j+txtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBN9ZWNH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBN9ZWNH?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 Bundle includes the RV 795 portable navigator, a USB car adapter and a screen cleaner. The 795 considers your RV size and weight, saves profiles for multiple vehicles or trailers and shows steep grades, sharp curves and weight limits ahead.\n\nCompared with the standalone Garmin RV 795, it adds the cable and cleaning accessory. Compared with the Garmin RV 895, it offers a 7 inch screen at a lower price.\n\nA fit for Class A owners who tow a car or switch between vehicles and want saved profiles. Buyers focused on multiple vehicle profiles will find it a sensible match.",
     "specs": [
       "RV 795 with USB adapter",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing for your RV size and weight and a preloaded directory of RV parks. It adds BirdsEye satellite imagery and trendy place suggestions along your route.\n\nAgainst the bundle, it is the same unit without the extras. Against the Garmin RV 895, it gives the same routing logic on a smaller screen.\n\nIt is the right choice for Class A owners who want Garmin routing at a mid-level price. It earns its slot for mid-priced garmin routing.",
     "specs": [
       "7 inch touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oWXkvptqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HGFPY6HW?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ is a 9 inch HD touchscreen GPS for cars, trucks and RVs with 2026 North American maps and free lifetime updates. The listing says you can enter vehicle dimensions to avoid low bridges, weight-restricted roads and narrow paths.\n\nAgainst the Garmin RV 895, it offers a larger screen at a far lower price. Against the Garmin RV 795, it brings a bigger display and an FM transmitter for sound.\n\nA smart fit for a Class A driver who wants a big, low-cost screen and will double-check every route. It is a natural fit for budget big screen.",
     "specs": [
       "9 inch HD touchscreen",

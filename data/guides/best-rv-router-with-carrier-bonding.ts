@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L1XUqMy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT4VH5M7?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-E5800 MUDI 7 is a 5G tri-band Wi-Fi 7 travel router powered by a Qualcomm Dragonwing X72 modem, with up to 4.67 Gbps 5G download. It has a built-in eSIM plus two nano-SIM slots and runs quad-path multi-WAN failover across 2.5G Ethernet, Wi-Fi repeater, USB tethering and 5G, so one router can juggle four different internet sources.\n\nNext to the GL.iNet Spitz Plus in this guide, the MUDI 7 steps up in every direction: 5G instead of LTE, Wi-Fi 7 instead of Wi-Fi 6, a 2.5 Gbps Ethernet port, a 10 Gbps USB-C connection, and three SIM options instead of two. The eSIM means you can add a plan from a carrier without physically swapping a card, which is handy when you want a second network activated from your phone.\n\nIt is the best match for remote workers and full-timers who want the largest number of links ready at once and the fastest modem available in this class. Anyone who streams, uploads video, or runs a home office from the coach will use that extra headroom, and the router's four-path failover gives a sturdy answer to campground Wi-Fi that comes and goes.",
     "specs": [
       "5G with Wi-Fi 7",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BorPSicpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMNB4VZ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMNB4VZ3?tag=rvgearlab-amz-20",
     "description": "The GL.iNet GL-X2000 Spitz Plus is a 4G LTE Cat 12 Wi-Fi 6 router with dual SIM and AT&T and T-Mobile certification. Its multi-WAN mode combines Ethernet, repeater, cellular and tethering, with load balancing and OpenVPN and WireGuard preinstalled, giving a lot of networking control in a compact travel-friendly box.\n\nCompared with the MUDI 7, it costs far less and stays on 4G, with single standby for the two SIMs, so one SIM is active at a time. What you keep is the part that matters for reliability: multi-WAN failover, load balancing across connections, and the same VPN clients, which protect your traffic on public campground networks.\n\nThis pick suits RVers who want real multi-WAN control without a premium price. Weekend travelers, part-time workers and anyone pairing campground Ethernet with a cellular SIM will find that the Spitz Plus covers the practical needs, and the carrier certification gives extra confidence when setting up a data plan with AT&T or T-Mobile.",
     "specs": [
       "4G LTE Cat 12, Wi-Fi 6",

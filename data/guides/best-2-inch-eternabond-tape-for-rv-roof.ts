@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l+ZDeFYeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00ER9P4FQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00ER9P4FQ?tag=rvgearlab-amz-20",
     "description": "The EternaBond RoofSeal Gray 2 inch by 50 foot roll pairs a MicroSealant core, 35 mil thick, under a UV-stable aluminum skin. The listing states that no extra sealer is needed and the tape bonds to a wide range of surfaces including metal, boat and trailer roofs.\n\nIt is the brand-name pick that the other 2 inch tapes are priced against. The gray backing also suits metal edges where a white tape would stand out.\n\nIt fits owners who want the original MicroSealant system for narrow seams and vent flanges. On 2 inch eternabond tape for rv roof, narrow seams is where it fits.",
     "specs": [
       "2 in x 50 ft roll",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FLOJRix1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP9QJ2Y2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP9QJ2Y2?tag=rvgearlab-amz-20",
     "description": "The FastSeal 2 inch by 50 foot white tape is an industrial-grade rubber repair tape for roofs, windows and vents. It lists a high coefficient of expansion that lets the tape stretch and conform, and its title calls it an EternaBond equivalent.\n\nIt costs less than the brand-name roll while keeping the same width. It is white, which blends with many roofs.\n\nIt suits owners who want an EternaBond-style tape in white on a smaller budget. Under 2 inch eternabond tape for rv roof, expect white roof seams to suit it.",
     "specs": [
       "2 in x 50 ft white",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ndBTHsgXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1NSCMXD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1NSCMXD?tag=rvgearlab-amz-20",
     "description": "The PAULINN 2 inch by 50 foot natural rubber tape has a self-priming surface that can cover corners and uneven surfaces. It carries a protective silicone coating, resists UV and works in any temperature, per the listing.\n\nIt leans on a natural pure white color that is closer to the RV roof. Against Kohree, it adds silicone UV protection.\n\nIt fits owners with an uneven surface who want a white tape that blends in. For 2 inch eternabond tape for rv roof, it suits uneven surfaces.",
     "specs": [
       "Natural rubber, 2 in x 50 ft",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314ZtdOZUlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08X1MYLJG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08X1MYLJG?tag=rvgearlab-amz-20",
     "description": "The Kohree 2 inch by 50 foot tape is a white premium butyl sealant that is super sticky and flexible. Its listing calls it UV and weather resistant with a self-priming seal on most flat, curved or corner surfaces.\n\nIt is the lowest-cost roll in this list. It covers RV roofs, motorhomes, trailers, boats and fifth wheels.\n\nIt suits owners who just need a cheap roll for small repairs. For 2 inch eternabond tape for rv roof, it suits small cheap repairs.",
     "specs": [
       "Butyl, 2 in x 50 ft",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XzNTvjYCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B008HMYZKO?tag=rvgearlab-amz-20",
     "description": "The 25 foot white 4 inch RoofSeal from EternaBond uses the same 35 mil MicroSealant layer and UV-stable backing as the 2 inch roll. It is wider and shorter, so it covers more area per foot.\n\nIt is not a 2 inch tape, so it offers more overlap on wider tears. Against EternaBond Gray 2in, it is white and shorter.\n\nIt fits owners with a wider crack or a single patch rather than a long seam. With 2 inch eternabond tape for rv roof, single wide patch fits it best.",
     "specs": [
       "4 in x 25 ft white",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31oUMZmG7jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDB11L93?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDB11L93?tag=rvgearlab-amz-20",
     "description": "The JIADING 2 inch seam roller is a 304 stainless steel roller with an ergonomic TPE handle. Its listing names EternaBond, RV roof repair, PVC and TPO as uses, and it has a radius edge to prevent material damage.\n\nIt is an accessory, not tape. Pressing a 2 inch tape down with a roller is a key step for a good bond.\n\nBuy it alongside any tape here. It helps owners get bubble-free adhesion.",
     "specs": [
       "2 in stainless steel roller",

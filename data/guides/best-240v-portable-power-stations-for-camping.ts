@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415i1uvAWBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F42JY551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F42JY551?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Apex 300 stores 2,764.8Wh in LFP cells with 3,840W of output, and its listing describes switching from 120V to 240V through the app or onboard controls. It expands with B300K or B500K batteries and takes add-ons such as a Hub D1 for RV 12V loads.\n\nIt is the only pick that describes 240V from one unit, while the GROWATT HELIOS 3600 and Anker SOLIX F3000 each need a second station for 240V. It carries less capacity than either of them, which is the trade for the simpler setup.\n\nIt suits RV owners and cabin builders who want 240V for a heavier appliance without buying two stations. Its expansion path lets the system grow after the first purchase.",
     "specs": [
       "2,764.8Wh LFP, 3,840W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41x7AJfYL4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF7SZJWY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF7SZJWY?tag=rvgearlab-amz-20",
     "description": "The GROWATT HELIOS 3600 pairs 3,600Wh of LFP storage with 3,600W of output, and two units in parallel are listed as delivering 240V and 7,200W. Solar input is listed at 2,000W for a 2.8 hour full charge, and the EPS switchover is under 15ms.\n\nIts 3,600Wh is the largest capacity here, ahead of the 3,072Wh Anker SOLIX F3000 and the 2,764.8Wh BLUETTI Apex 300. A pair gives 7,200Wh behind a 240V circuit, which no other pick matches on paper.\n\nIt suits households and off-grid cabins that want a transfer-switch backup for 240V items such as a well pump or dryer. The second unit is the price of entry to that 240V mode.",
     "specs": [
       "3,600Wh LFP, 3,600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31twHXJikJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8BC2LFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8BC2LFS?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX F3000 holds 3,072Wh with 6,000W listed and offers 120V output on its own, or 240V when two stations are paired. It lists 3,600W pass-through charging from a 120V generator and 2,400W of solar input.\n\nIt sits between the other two on capacity and tops them on listed output at 6,000W. The standby draw is low, with 125 hours of AC idle time listed, which matters for a fridge-and-lights cabin.\n\nIt suits owners who want 120V day to day and 240V occasionally, with the option to expand to 24kWh. The pass-through charging keeps appliances running while a generator tops it up.",
     "specs": [
       "3,072Wh, 6,000W listed",

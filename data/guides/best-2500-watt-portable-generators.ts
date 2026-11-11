@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41H-QDANxVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPT6WY76?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPT6WY76?tag=rvgearlab-amz-20",
     "description": "The Champion lists 2500 starting watts and 1850 running watts at 53 dBA from 23 feet, with up to 11.5 hours on a tank. It weighs 39.7 pounds, offers a 120V 15.4A duplex outlet with under 3 percent THD, plus a 12V automotive-style outlet.\n\nIt states the lowest noise figure of the five, 53 dBA, ahead of the 59 dB AMERISUN and the 62 dB Aceup. The optional parallel kit links it to another 2500 watt Champion, which none of the other listings spell out the same way.\n\nIt suits campers who value a quiet generator with a brand support network. It carries a 3-year warranty with lifetime technical support.",
     "specs": [
       "2500 start, 1850 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wFmLbeWAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNV2TFPT?tag=rvgearlab-amz-20",
     "description": "The WEN 56250i uses an 80cc engine for 2500 surge watts and 1900 rated watts at 37.5 pounds. It has two 120V receptacles, two 5V USB ports, an hour meter and a fuel shutoff that burns off the carburetor fuel before stopping.\n\nIt is the lightest of the five and rates 50 watts above the Champion 2500 on running output. The fuel shutoff helps with storage between trips.\n\nIt suits campers who carry the generator in and out of a car often. The hour meter keeps track of maintenance.",
     "specs": [
       "2500 surge, 1900 rated watts",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XRGRwZluL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJM98BLM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJM98BLM?tag=rvgearlab-amz-20",
     "description": "The AMERISUN states 2500 surge watts and 1900 rated watts in a 39 pound frame sized 19.3 x 12 x 20 inches. It includes two 120V receptacles, a USB port, a 12V DC port, parallel capability and CO detection with low oil and overload shutoffs.\n\nThe listing names a built-in CO sensor, which suits a camp where it is easy to place a generator too close to people. Its 59 dB(A) rating sits between the Champion and Aceup.\n\nIt suits families who want built-in CO shutdown as an extra layer, along with parallel expansion later. It is RV ready by the listing.",
     "specs": [
       "2500 surge, 1900 rated watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41U7avjMVcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B089FDFDH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B089FDFDH5?tag=rvgearlab-amz-20",
     "description": "The PowerSmart lists 2500 peak and 1900 rated watts with a 1.06 gallon tank for up to 8 hours at 25 percent load. Noise is 52 dBA from 23 feet at 25 percent load, and the panel includes a 120V 20A duplex outlet, a 12V 8A DC port and dual 5V 2.1A USB ports.\n\nIt states an overnight runtime at light load and a quiet 52 dBA figure, and it costs far less than the Champion 2500. A 1.06 gallon tank keeps refills infrequent.\n\nIt suits overnight camping on a tight budget. A 2-year warranty and lifetime technical support back it.",
     "specs": [
       "2500 peak, 1900 rated watts",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kpKUj59XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS94JHJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS94JHJ3?tag=rvgearlab-amz-20",
     "description": "The Aceup lists 2500 peak and 1900 rated watts with a 120V 20A outlet, a dedicated RV receptacle and a USB port. Noise is about 62 decibels in Eco mode at 23 feet under 25 percent load, and a digital gauge shows voltage, runtime, fuel level, hertz and output.\n\nIt is the only pick with a dedicated RV receptacle and a digital gauge, which suits hooking up a trailer. Its parallel-ready design links two units for double power, like the Champion 2500.\n\nIt suits campers who plug a small trailer in directly. A 3-in-1 control knob combines start, run and choke.",
     "specs": [
       "2500 peak, 1900 rated watts",

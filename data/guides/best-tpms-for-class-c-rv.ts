@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AXxZCU4aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B078HYJXY9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B078HYJXY9?tag=rvgearlab-amz-20",
     "description": "TST's 507 six-sensor kit uses flow-through sensors with user-replaceable CR2032 batteries and a 3.5 inch color display. TST's 507 six-sensor kit uses flow-through sensors with user-replaceable CR2032 batteries and a 3.5 inch color display with a rechargeable battery. The listing says the system can monitor a towing truck and up to four towable vehicles, and the title notes metal valve stems are required.\n\nIt covers six tires, unlike TST 507 4 Flow-Thru, and costs more than the LETOURWM kits. Its title notes metal valve stems are required.\n\nBest for a Class C with six tires and metal valve stems. Check that your valve stems are metal before ordering a flow-through system.",
     "specs": [
       "6 flow-thru sensors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OL8iU7SIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08W3QZ499?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08W3QZ499?tag=rvgearlab-amz-20",
     "description": "TST's 507 four-sensor kit uses the same flow-through sensors and display. TST's 507 four-sensor kit uses flow-through sensors with user-replaceable CR2032 batteries and the same 3.5 inch color display as the six-sensor kit. The title states that metal valve stems are required.\n\nIt costs less than TST 507 6 Flow-Thru and covers only four wheels. It can expand later.\n\nBest for a smaller chassis or a trailer with four tires. It fits a single-axle trailer or a four-wheel setup, with more sensors sold separately.",
     "specs": [
       "4 flow-thru sensors",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HgzAuf-oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098JJ177D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098JJ177D?tag=rvgearlab-amz-20",
     "description": "VESAFE's kit includes a booster and 10 anti-theft sensors and can observe up to 17 tires. VESAFE's kit includes a signal booster and 10 anti-theft sensors and can observe up to 17 tires with five alarm modes. The monitor scrolls through each tire every 5 seconds and the listing cites about 5,000 miles per full charge.\n\nIt has more sensors than TST 507 6 Flow-Thru and states a booster. Its sensor mounting type is not stated.\n\nBest for a Class C with a toad or trailer. It is a ten-sensor kit with a booster, but the listing does not state the sensor mounting type.",
     "specs": [
       "10 anti-theft sensors, booster included",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41OKA9GX2fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077T5HLFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077T5HLFM?tag=rvgearlab-amz-20",
     "description": "TST's 507 display is a monitor-only replacement for TST 507 kits. TST's 507 display is a monitor-only product for TST 507 kits, with a 3.5 inch color screen, a rechargeable battery, a Micro-USB charger and suction cup and dash mounts. It is not a complete system and includes no sensors.\n\nIt is not a complete system and includes no sensors. It costs far less than a kit.\n\nBest for replacing a lost or broken TST 507 monitor. Buy it only to replace or add a monitor for an existing TST 507 system.",
     "specs": [
       "Replacement color display only",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Sm+yC4iZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZMG13NG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZMG13NG?tag=rvgearlab-amz-20",
     "description": "LETOURWM's four-sensor kit has a 3.6 inch display and a 0 to 87 psi range. LETOURWM's four-sensor TPMS has a 3.6 inch color display, solar and Type-C charging, automatic brightness and a 3-in-1 chip that integrates pressure, temperature and signal booster functions. The title lists a 0 to 87 psi range.\n\nIt costs far less than TST 507 4 Flow-Thru but its 87 psi ceiling is low for many RV tires.\n\nBest only if your tires run under 87 psi. The 87 psi range limits it to lower-pressure tires.",
     "specs": [
       "4 sensors, 3.6 inch color display",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lH2A6ijQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY74168Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY74168Q?tag=rvgearlab-amz-20",
     "description": "LETOURWM's six-sensor kit lists a 0 to 144 psi range and six alarm modes at a very low price. LETOURWM's six-sensor TPMS lists a 0 to 144 psi range, six alarm modes, a high-definition display with auto brightness and voice alerts, and solar plus USB charging. The sensors screw onto the valve per the listing.\n\nIt has a higher range than LETOURWM 4-Sensor and covers six wheels. Confirm warranty.\n\nBest for a budget Class C with six tires. It covers six wheels at a very low price, so confirm warranty and support.",
     "specs": [
       "6 sensors, 0 to 144 psi",

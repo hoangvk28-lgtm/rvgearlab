@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wmJXfhg+S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B095BSGWPC?tag=rvgearlab-amz-20",
     "description": "The AKMAX is the one bag here whose listing names goose down as the fill. It is a mummy-shaped bag with a water-resistant nylon shell and a printed temperature range of -13 to 23 degrees F.\n\nIt lists a weight of 2.37 kg (5.2 lb), and the snug mummy cut wastes less air than the two OMVMO rectangular bags. That tighter shape is what lets it claim the coldest range of the three.\n\nIt suits winter campers and backpackers who want goose down specifically and are happy to trade roominess for warmth. The shell is rated water-resistant for damp mornings.",
     "specs": [
       "Goose down fill named",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+zD-sMB4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B2WFZ6DC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B2WFZ6DC?tag=rvgearlab-amz-20",
     "description": "The OMVMO rectangular bag is rated 0 degrees F in the title and is built from over 80 independent rectangular insulation chambers that the listing says give more loft than most down bags. The shell is 400T 20D nylon with a DWR coating, and the details include draft tubes at the shoulder and along the zipper, a Velcro securing strap and a half-circle detachable hood.\n\nAgainst the AKMAX it gives up the mummy shape for a roomy rectangle, which lets you shift position without fighting the bag. A left zipper and a right zipper bag also join into a double, which the AKMAX does not describe.\n\nIt suits car campers and cold-weather sleepers who toss and turn and want a bag that opens flat as a quilt. The detachable hood adds warmth when the temperature drops.",
     "specs": [
       "0 degrees F rated",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JS2m6dKxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BW139J46?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BW139J46?tag=rvgearlab-amz-20",
     "description": "The OMVMO arm-hole bag keeps the same 400T 20D DWR nylon shell as its pricier sibling and adds zippered chest pockets, buttons at the waist and foot, and openings for your arms. The detachable half-circle hood and draft tubes around the shoulder and zipper carry over.\n\nIt undercuts both other bags on price, and the arm holes make it the only one you can read or use a phone in without unzipping. Next to the OMVMO Rectangular Down it trades the headline temperature figure for a lower price and extra convenience.\n\nIt suits cool-weather campers who want a down-filled bag that doubles as a wearable blanket by the fire. The chest pockets hold a phone or headlamp.",
     "specs": [
       "Arm holes and chest pockets",

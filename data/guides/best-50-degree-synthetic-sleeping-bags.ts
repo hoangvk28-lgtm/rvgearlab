@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21xOwMW+c8S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5Y6SZ?tag=rvgearlab-amz-20",
     "description": "Kelty builds the Rambler 50 around Cloudloft synthetic insulation, with a semi-rectangular cut and a lower limit of 50 degrees. Numbers on the page include 11.3 oz of fill, 2 lb 12 oz overall and a 7 x 11 inch stuffed bundle.\n\nThat is the fullest set of facts among the three, and the shell and liner are 260T polyester. A J-shaped zipper lets a foot out, and the bag unzips into a blanket for two.\n\nA solid match for warm-weather campers who want a roomy synthetic bag that stuffs small. It also suits newer campers who dislike a tight mummy.",
     "specs": [
       "50 degree limit, Cloudloft fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qaYaPc56L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3YDQM8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3YDQM8P?tag=rvgearlab-amz-20",
     "description": "CORE prints 50 degree on this extra-large bag, which lists a 50 to 70F comfort level. Synthetic hollow fiber fill is said to hold insulation when wet and dry quickly, and polyester forms both shell and lining.\n\nIt costs less than the Kelty Rambler 50 and is machine washable, with an interior accessory pocket for a phone or keys. The XL size gives more room than the regular Kelty.\n\nA fit for casual campers, sleepovers and indoor use who want a synthetic 50F bag at a lower price. It is rated for warm 3-season weather.",
     "specs": [
       "50 to 70F comfort level",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319sFnqrvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P5VGGT?tag=rvgearlab-amz-20",
     "description": "The Kelty Cosmic Synthetic is a 40 degree bag with 24 oz of Cirroloft synthetic fill and a 2 lb 6 oz total weight. The regular fits sleepers up to 6 feet and stuffs to 15 x 8 inches with an integrated compression sack.\n\nIt is rated ten degrees colder than the Rambler 50, so it gives a margin on cool summer mornings, and it has a spacious footbox and a stash pocket. It is a mummy-style backpacking bag, where the Rambler is roomier.\n\nA good pick for backpackers who want synthetic insulation with printed numbers and some cold margin. It suits damp climates.",
     "specs": [
       "40 degree, 24 oz Cirroloft fill",

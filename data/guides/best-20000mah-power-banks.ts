@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N5U6ekY4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSZKKJTK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSZKKJTK?tag=rvgearlab-amz-20",
     "description": "The Anker 20,000mAh bank lists 45W output, dual built-in USB-C cables rated for over 10,000 bends, a USB-C port and a USB-A port. It weighs 12.85 oz, lists 4 full charges for a typical phone and can charge four devices at once.\n\nIt has 15W more output than the Anker Zolo 20K and a second built-in cable, for the same price. Compared with the INIU 45W, it adds a second built-in cable and a USB-A port.\n\nIt suits campers who share power across a couple of phones and a tablet. The built-in cables keep the pack cord-free.",
     "specs": [
       "20,000mAh, 45W output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41glK5k1v8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCZ56QNL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCZ56QNL?tag=rvgearlab-amz-20",
     "description": "The INIU 20000mAh model uses TinyCell battery technology to be 30 percent smaller than comparable banks, with 45W output and a built-in braided USB-C cable tested for 10,000 plus bends. It is TSA compliant and lists about 4 full phone charges.\n\nIt is the lowest priced 45W bank here, and its small size sets it apart from the Anker and NOBIS. Unlike the Anker it carries a single built-in cable.\n\nIt suits travelers who want 20000mAh without the bulk. The listing says 45W output saves 15 minutes over traditional 22.5W banks.",
     "specs": [
       "20,000mAh, 45W, TinyCell",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I0Ym5iexL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ9LH53B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ9LH53B?tag=rvgearlab-amz-20",
     "description": "The Anker Zolo 20K gives 30W output, 20W input and a built-in 5.98 inch USB-C cable rated for 10,000 plus bends. ActiveShield 2.0 monitors temperature 3 million times a day, and the pack lists about 4 iPhone 15 charges.\n\nIt trails the Anker 45W by 15W and drops the second cable, at the same price. Compared with the INIU, it adds temperature monitoring.\n\nIt suits campers who want Anker's temperature management and a simple one-cable layout. Samsung phones are listed at 3.79 charges.",
     "specs": [
       "20,000mAh, 30W two-way",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/316bUJGWcCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D63HF7Z4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D63HF7Z4?tag=rvgearlab-amz-20",
     "description": "The NOBIS bank has 20000mAh, PD 3.0 and QC 4.0 protocols, two USB-A outputs and two Type-C ports. The Type-C port supports 45W both in and out, and it can charge four devices at once.\n\nIt has no built-in cable, so it relies on your own cords, unlike the Anker and INIU. It costs less than the Anker 45W.\n\nIt suits campers who already carry good cables and want four ports. Two-way 45W lets the bank refill from a fast charger.",
     "specs": [
       "20,000mAh, PD 3.0 and QC 4.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zOMTEIFBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9KZR2BB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9KZR2BB?tag=rvgearlab-amz-20",
     "description": "The Orfeika bank carries 4 built-in cables (3 output and 1 input), 6 outputs in all and 20W PD charging. The listing says it is 35 percent heavier than a standard bank while doubling the capacity, and it can charge six devices at once.\n\nIt has the most outputs here and the most built-in cables, unlike the 45W models. Its 20W PD sits below the Anker and INIU.\n\nIt suits families who charge many devices at one time. An iPhone 16 reaches 50 percent in about 45 minutes.",
     "specs": [
       "20,000mAh, 6 outputs",

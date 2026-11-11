@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415+l1ypidL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1HR1HWW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1HR1HWW?tag=rvgearlab-amz-20",
     "description": "The Orthofeet Dakota is a women's orthopedic hiking boot with premium waterproof leather and a moisture-venting membrane. It includes an orthotic insole with anatomical arch support and multilayer cushioning, and the listing names plantar fasciitis, bunions, flat feet and heel pain.\n\nIt is the only pick that ships a premium orthotic insole in the box and states a true-to-size fit with a wide toe box. Against the OrthoComfoot Waterproof, it adds a lug sole built for mountain use and a membrane that vents moisture.\n\nIt suits a woman who hikes real trails and needs both orthotic support and a boot built for streams, mud and rocks. The all-terrain lug sole grips rock and wet surfaces.",
     "specs": [
       "Waterproof leather, venting membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41T1Wg3mMYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPQWWW7Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPQWWW7Q?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Waterproof is a women's orthopedic hiking boot with a waterproof upper rated for up to four hours of static water exposure. It has a mid-ankle cut, a cushioned insole and slip-resistant rubber outsoles, and the listing names flat feet and plantar fasciitis.\n\nIt is the lowest-priced orthopedic boot in this group and keeps a waterproof build, which the OrthoComfoot Breathable does not claim. A mid-ankle cut adds stability on uneven ground.\n\nIt suits a woman who wants arch support and waterproofing in one affordable boot for day hikes and camp walks. The cushioned insole absorbs shock on descents.",
     "specs": [
       "Waterproof up to 4 hours static",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KBlKCGoLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3L638L4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3L638L4?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot Breathable is a women's orthopedic hiking boot with a wide toe box, a contoured orthotic insole and a thick EVA midsole. The upper mixes structured PU overlays and mesh panels, with deep multidirectional lugs, a reinforced toe cap and a structured heel.\n\nIts wide toe box is explained in the listing as relief for bunions, hammertoes and swelling, which the OrthoComfoot High-Top and Waterproof do not spell out. The mesh upper breathes better than their weather-focused builds.\n\nIt suits a woman who gets foot swelling and bunion rub on warm-weather hikes. Adjustable laces fine-tune the fit.",
     "specs": [
       "Wide toe box, adjustable laces",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wnjvwgBFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H83L8PTM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H83L8PTM?tag=rvgearlab-amz-20",
     "description": "The OrthoComfoot High-Top is a women's orthopedic waterproof high-top boot with professional arch support for plantar fasciitis and heel soreness. It has a spacious toe box, a padded collar with pull tabs, reinforced ankle overlays and a quick-fit metal lacing system.\n\nA mid-top collar with reinforced overlays gives more ankle protection than the OrthoComfoot Waterproof and the Breathable. The pull tabs also make it the easiest to pull on after a long day.\n\nIt suits a woman who wants arch support plus protection against ankle rolls on uneven trails. The layered midsole disperses impact.",
     "specs": [
       "Mid-top, reinforced ankle overlays",

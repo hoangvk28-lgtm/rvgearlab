@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R9G-rvSKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8HHNM4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8HHNM4?tag=rvgearlab-amz-20",
     "description": "The Swibow beach tent is about 6.5 ft long, 5.4 ft wide and 4.3 ft tall, sized for two or three people. Its silver-coated fabric carries a UPF 50+ rating and is stated to block 98 percent of UV rays, and the floor extends about 40 inches in front for extra sitting room.\n\nIt packs to a compact carry bag and sets up in minutes, which makes it easier to haul than the VEVOR canopy or the Etto cross-frame tent. One large mesh window supplies cross breeze, and the extended floor keeps sand off your gear.\n\nCouples and parents with one child who want an easy, cheap shade shelter will like it. Add sandbags or stakes on windy days.",
     "specs": [
       "About 6.5 ft long, 4.3 ft tall",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41b5s+kFDdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPMMS8P4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPMMS8P4?tag=rvgearlab-amz-20",
     "description": "The Etto cross-frame tent is about 8.2 ft long, 4.9 ft wide and 5.25 ft tall, with an 8.0mm fiberglass frame in a cross design. The silver-coated fabric stops as much as 98 percent of UV, and the tent sets up in three steps.\n\nIt is the tallest tent in the list, which lets adults sit up without hitting the roof and beats the Swibow on headroom. It also comes in four sizes, so you can scale up for a bigger group.\n\nFamilies who plan to spend a long day under shade will like the standing-friendly height. The cross frame spreads wind load.",
     "specs": [
       "About 8.2 ft long, 5.25 ft tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aF25-QxIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHQQTSBV?tag=rvgearlab-amz-20",
     "description": "The VEVOR pop-up canopy covers 7.5 ft by 7.5 ft at 6.6 ft tall using 180 g/m2 Lycra fabric rated UPF 50+. Four large sandbags, two thickened aluminum poles and elastic top cords anchor it, and either sandbags or stakes can be used.\n\nIt offers the most shaded ground in the list and the tallest roof, which beats the enclosed tents for airflow. The open sides give no privacy for changing.\n\nGroups of two to four who want shade for chairs and a cooler will like it. The Lycra is breathable and stretches.",
     "specs": [
       "7.5 by 7.5 ft, 6.6 ft tall",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uRpXfnSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ72DVBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ72DVBC?tag=rvgearlab-amz-20",
     "description": "The WEMOH is a pop-up shelter with UPF 50+ fabric, a breathable mosquito net with tie cords and a rear mesh vent for cross-breeze. It comes with three sand pockets and four lengthened stakes.\n\nIt is sized for a baby or toddler, which makes it the smallest pick here, and it opens instantly for nursing breaks or naps. The maker recommends filling the pockets fully and angling the stakes.\n\nParents with infants who need a shady nook will like it. The net keeps bugs away.",
     "specs": [
       "Pop-up baby shelter, UPF 50+",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41StENuJB5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHY3F64X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHY3F64X?tag=rvgearlab-amz-20",
     "description": "The Etto 2-6 person shelter uses silver-coated fabric said to stop as much as 98 percent of UV, with a dual-door layout that lets air move from both sides. An extended front floor gives sitting room, and sandbags, stakes and wind ropes are included.\n\nIt costs less than every other pick and includes the full anchoring kit. The Swibow has a larger carry bag and a bit more stated space.\n\nSolo beachgoers, parents with a child or kids' shade breaks suit it. It is the easiest shelter to afford.",
     "specs": [
       "UPF 50+ silver-coated fabric",

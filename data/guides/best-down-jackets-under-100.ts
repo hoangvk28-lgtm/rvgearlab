@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31-JxlhSjkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9LCSSTL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9LCSSTL?tag=rvgearlab-amz-20",
     "description": "The Pioneer Camp 700FP is a women's puffer with 700 fill power, 90% premium duck down, a recycled nylon shell that repels light rain and resists wind. An adjustable hood, elastic cuffs, two zip pockets and an internal waist drawcord complete it.\n\nIt costs about $30, which undercuts every other jacket on the page, and none of the others names a fill power. The 700 number puts its down in the premium range, well above the synthetic fills of the 33,000ft Packable and fit space Ripstop, and the waist drawcord shapes the fit.\n\nIt suits women who want real down for cold camps, ski trips and commutes without paying for a brand name. The water-repellent shell handles light snow.",
     "specs": [
       "700 fill power, 90% duck down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HmisryMmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08YF4Y216?tag=rvgearlab-amz-20",
     "description": "Think of the 33,000ft Packable as the synthetic answer to down: ultra light soft nylon outside, polyester insulation inside and a 3000mm DWR finish on top. Everything stows inside the left hand zipper pocket, and elastic-bound cuffs and hem hold the heat in.\n\nIt costs about $55, nearly twice the Pioneer Camp 700FP, and the premium buys water-resistance rating and synthetic fill that keeps insulating in damp weather. It is lighter and more compressible than the CREATMO Parka.\n\nBackpackers and weekend travelers get an insulating layer that survives damp air and vanishes in a pack. It works as a mid layer under a shell.",
     "specs": [
       "Windproof nylon, DWR 3000mm",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oXlXaQDzS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JH5BD1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JH5BD1X?tag=rvgearlab-amz-20",
     "description": "The CREATMO Parka is a men's insulated parka with a down alternative cotton fill and a DWR finish that sheds moisture and wet snow. It has a windproof SBS zipper, a detachable adjustable hood, stretch cuffs and a waterproof chest zipper pocket for a ski pass.\n\nIt costs about $70, the middle of this guide, and the parka length and fleece hand-warmer pockets give far more warmth at rest than the 33,000ft Packable. It is also bulkier and heavier, so it stays in the car rather than the pack.\n\nIt suits car campers, skiers and winter commuters who want an all-day parka. Take the hood off for mild days.",
     "specs": [
       "Down-alternative parka fill",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h5vLlr3BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BJQ6JCZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BJQ6JCZK?tag=rvgearlab-amz-20",
     "description": "The fit space Ripstop is a men's puffer with 200 grams of cotton insulation all around, a 20-denier 100% nylon ripstop shell and a weight of about 450 g in size M. A chest pocket, two zippered hand-warmer pockets and two big inner pockets give it storage.\n\nIt costs about $38, close to the Comfitude Collarless, and its ripstop nylon resists snags and abrasion better than the thin shell of the 33,000ft Packable. It serves as a mid layer under a shell in extreme cold.\n\nIt suits hikers and campers who scrape through brush and want a tough, light layer. Wear it as a three-season jacket or as insulation under a shell.",
     "specs": [
       "200 g insulation, ripstop nylon",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aQDe-jimL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XXW8V5N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XXW8V5N?tag=rvgearlab-amz-20",
     "description": "The BINACL Fur Parka is a women's parka with a thick down alternative fill, a non-removable faux fur trim hood and three pockets, two deep lined side pockets and an interior security pocket. It comes in sizes XS through 3XL and nine colors, and the length covers the waist and hips.\n\nIt costs about $96, the highest price here, and it is the warmest cut of the group for standing in cold, with the fur hood blocking wind. It is far heavier than the Pioneer Camp 700FP and is not a packable layer.\n\nIt suits women who want a full winter parka for cold-weather travel and snowy mountain days. It is machine washable on a gentle cycle.",
     "specs": [
       "Thick down alternative fill",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uVJxAC7bL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZNYYM8K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZNYYM8K?tag=rvgearlab-amz-20",
     "description": "The Comfitude Collarless is a women's lightweight puffer with an open crew neckline, quilted channels, a button front and two side pockets. It folds into an included bag for a tote or carry-on.\n\nIt costs about $32, close to the Pioneer Camp 700FP, and it is the one jacket here made to slip under a blazer or wool coat without a bulky collar. It is thinner than the Pioneer Camp 700FP, so it works as an inner layer.\n\nIt suits women who want a packable mid layer for cold commutes and trips. Wear it under a coat, or alone in mild weather.",
     "specs": [
       "Collarless quilted puffer",

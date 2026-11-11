@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411icCcIT7S._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XJBSRTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XJBSRTP?tag=rvgearlab-amz-20",
     "description": "The Forceatt 2 person tent has an interior floor of 88.6 by 53.1 inches and a 43.3 inch peak. It weighs 5.5 lb and carries a 3000mm waterproof index, a welded floor, 7001 series aluminum poles and reflective guy lines.\n\nIt is the only listing in the group with a stated weight and it has the best stated rain rating after the Hewolf's 4500mm. Compared with the COSMITTO it adds a second vestibule and roughly twice the waterproof number.\n\nIt suits couples who hike short distances and want storage on both sides. The 3 minute setup claim and No. 8 zippers make pitching straightforward.",
     "specs": [
       "5.5 lb, 88.6 x 53.1 in floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ztbU+XByL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08T1MQZRH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08T1MQZRH?tag=rvgearlab-amz-20",
     "description": "The OneTigris COSMITTO is a freestanding 3 season tent for two, made of 20D plaid ripstop polyester over a 75D nylon floor with a 1500mm coating. It has aluminum alloy poles, two zippered entrances and two gear organizer pockets.\n\nIt has the toughest stated floor of the three and a more typical hiking-tent frame. Compared with the Forceatt it gives up the 3000mm rating and a vestibule.\n\nIt suits backpackers who want a sturdy floor for rocky pitches. Its stuff sack and quick pole assembly keep the setup simple.",
     "specs": [
       "20D ripstop, 75D nylon floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IyBLi19ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D76YC1GY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D76YC1GY?tag=rvgearlab-amz-20",
     "description": "The Hewolf is a hexagonal pop-up dome sold in 2, 3 and 4 person sizes, listed as 3-season. It lists a 4500mm waterproof grade, an SBS zipper, a 210T floor, sealed seams, two doors and a mesh screen.\n\nIt posts the highest waterproof number in the group and the fastest setup, since the frame opens by lifting the top. Compared with the Forceatt it trades poles for a pop-up mechanism and offers larger size options.\n\nIt suits casual campers who want a tent up in minutes at a campground. Two doors circulate air and a mesh screen keeps mosquitoes out.",
     "specs": [
       "2/3/4 person size family",

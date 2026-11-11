@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31k8Bz6NJ8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DW8RBD?tag=rvgearlab-amz-20",
     "description": "Lippert 1010 Non-Sag Sealant is made for vertical, uneven areas such as sidewalls, end rails and roof edging. The listing says it helps prevent water and air from leaking in and comes in beige, gray, almond and white.\n\nAgainst RVSHARK 4 Pack, it is the pick for vertical seams while RVSHARK is self-leveling. Against Liquid Rubber Lap, it is non-sag and names edges.\n\nIt is the best match for sidewall seams and roof edging. Think of it as the pick for vertical seams.",
     "specs": [
       "Non-sag sealant",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yNJm315HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G634LDH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G634LDH5?tag=rvgearlab-amz-20",
     "description": "RVSHARK 4 Pack is a white self-leveling lap sealant that levels within 30 seconds and stays flexible from -40 to 200 degrees F. It includes replaceable nozzles and gloves and has a low odor formula.\n\nAgainst Ziollo 4 Tubes, it adds nozzles and gloves. Against Lippert 1010 Non-Sag, it is for horizontal laps.\n\nIt suits flat roof seams where you need four tubes. Buyers focused on flat roof seams will find it a sensible match.",
     "specs": [
       "4 tubes, self-leveling",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nem2YwiUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PMSZBZW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PMSZBZW?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Lap Sealant 4 Tubes is a self-leveling EPDM caulk for rubber roofs, seams and vents, in four 10 ounce tubes. The listing says each tube covers about 25 linear feet and the formula is non-hazardous with no solvents.\n\nAgainst Ziollo 1 Tube, it is the multi-tube order for a whole roof. Against RVSHARK 4 Pack, it names EPDM and a linear coverage rate.\n\nIt suits an EPDM roof with 100 linear feet of seams. It earns its slot for whole-roof epdm seams.",
     "specs": [
       "4 x 10 oz self-leveling tubes",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21zX9N4YUEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083PXD7JF?tag=rvgearlab-amz-20",
     "description": "Ziollo RV Roof Lap Sealant 1 Tube is a single 10 ounce self-leveling EPDM caulk for rubber roofs, seams and vents. The listing says it flows around vents, along edges and into seams.\n\nAgainst Ziollo 4 Tubes, it is the small order. Against Lippert 1010 Non-Sag, it is self-leveling for flat seams.\n\nIt suits a single short seam repair. It is a natural fit for short seam fixes.",
     "specs": [
       "Self-leveling EPDM caulk",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DQZAi5GYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX2Q56ZY?tag=rvgearlab-amz-20",
     "description": "Liquid Rubber RV Lap Sealant is a white 2 pack self-leveling sealant for horizontal details such as vents, skylights, AC units and seams. The listing says it is not for vertical surfaces or open gaps, and it pairs with Liquid Rubber seam tape and coating.\n\nAgainst RVSHARK 4 Pack, it states its limits and links to larger seam systems. Against Lippert 1010 Non-Sag, it is for horizontal use only.\n\nIt suits owners building a seam-tape and coating system. Think of it as the pick for seam-tape systems.",
     "specs": [
       "2 tubes, self-leveling",

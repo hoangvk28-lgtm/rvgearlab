@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dP3ZCwEFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075X5R67T?tag=rvgearlab-amz-20",
     "description": "Katadyn's BeFree AC folds down from a 1 liter soft bottle and screws on a hollow fiber element rated at 0.1 micron, with a carbon stage for taste. Its listing quotes 2 L/min of flow and a life of about 1,000 liters.\n\nIt is the cheapest here by a wide margin and the easiest to maintain, because you shake or swish it clean with no tools. It packs flat, which neither the TRAILGO Pro nor the MSR MiniWorks EX can do.\n\nBest for solo hikers who fill from streams and skip the pumping. The carbon stage takes the edge off flavor.",
     "specs": [
       "1 L collapsible bottle, 0.1 micron",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51U5YkHN7BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZF46VG2?tag=rvgearlab-amz-20",
     "description": "The TRAILGO Pro is worked by hand and runs water through three stages, starting with a 5 micron screen and ending at an ultrafiltration membrane. Listed at 1.5 liters a minute for 4 to 6 people, it arrives with tubes, clamps and a carry bag.\n\nWhere the Katadyn BeFree AC serves one person, this one is built for a group, and the washable pre-filter extends the cartridge. It costs about twice the BeFree and a third less than the MSR MiniWorks EX.\n\nA fit for family trips and shared camps where several people drink at once. Spare cartridges can be bought when the first one wears out.",
     "specs": [
       "Hand pump, 1.5 L per minute",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413SXT-Qh1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQRVKT6C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQRVKT6C?tag=rvgearlab-amz-20",
     "description": "The MSR MiniWorks EX is a microfilter pump with a replaceable carbon and ceramic cartridge. It pumps one liter per minute, meets NSF protocol P231 for 99.9999% of bacteria and 99.9% of protozoa, and one cartridge treats up to 2,000 liters.\n\nIt is the only filter here with a named test protocol, and it can be serviced and rebuilt for years, which spreads the higher cost across many trips. It is the priciest of the three at 1 pound and 7.5 x 2.75 inches.\n\nBest for backpackers who want a durable, serviceable pump with a tested standard behind it and a limited lifetime warranty. It rewards frequent use.",
     "specs": [
       "1 L per minute, NSF P231",

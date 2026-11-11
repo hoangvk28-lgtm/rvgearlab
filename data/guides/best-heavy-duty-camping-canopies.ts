@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aU6upPRSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9YTDD9Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9YTDD9Y?tag=rvgearlab-amz-20",
     "description": "The Quictent is a 10x20 pop-up canopy with a wheeled bag and a frame that adjusts up to 124 inches. Its listing cites a test at 35 mph winds for 2.5 hours, a 60 degree steep-peak roof tested at 8 inches of rain per hour and UPF 50+ fabric.\n\nIt covers twice the ground of the 10x10 picks and has the most specific stress claims of the four. Compared with the Garvee, it stands taller and larger, and the Garvee states a 25 mph wind limit by comparison.\n\nGroups that camp for several days with a shared kitchen and table use that 200 sq ft well. The steep roof sheds rain instead of letting it pool.",
     "specs": [
       "10x20 ft, wheeled bag",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TcaAX7ZiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVSLY57X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVSLY57X?tag=rvgearlab-amz-20",
     "description": "The COBIZI uses a 420D PU-coated oxford top that blocks 99 percent of UV and is listed at a waterproof pressure of 2.1 psi. An updated truss frame, three thumb-latch heights and four removable netting sidewalls complete it.\n\nThe 420D top is the heaviest fabric among the 10x10 picks, while the Garvee uses 210D and the Sannwsg names no denier. Next to the Quictent it is smaller and swaps wind testing for bug protection.\n\nCampers who want rain cover on the roof and netting on the sides get both in one setup. One or two people can pitch it with no tools.",
     "specs": [
       "420D PU oxford, 2.1 psi",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41O-PKv3rWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY3RM1H5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY3RM1H5?tag=rvgearlab-amz-20",
     "description": "The Sannwsg is 10 x 10 x 9.2 ft and covers 100 sq ft for 8 to 10 people. A one-touch lock opens it in seconds, and two-way vents work against gust lift.\n\nIt includes three detachable sidewalls that block 95 percent of views, more privacy than the COBIZI nets and more coverage than the one-wall Garvee. The upgraded bag has wheels and a full-size zipper.\n\nEvent vendors and families who want privacy with ventilation get a good balance. Three height settings make it adaptable for uneven pads.",
     "specs": [
       "10 x 10 x 9.2 ft, 100 sq ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414y-SK374L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G79DD7TF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G79DD7TF?tag=rvgearlab-amz-20",
     "description": "The Garvee has a 210D silver-coated Oxford top that blocks 99 percent of UV and carries a flame-retardant certification and heat-sealed seams. A thickened, waterproof-coated steel frame is listed for winds up to 25 mph.\n\nIt is the least costly canopy here and includes 4 sandbags. Against the Sannwsg it brings one removable wall instead of three, while adding the heat-sealed seams and the stated wind figure.\n\nCasual campers and market stall owners can use it as a durable, affordable base. The legs adjust from 7.5 to 9 ft.",
     "specs": [
       "210D, heat-sealed seams",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Jk0hJRLZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BY39M8GY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BY39M8GY?tag=rvgearlab-amz-20",
     "description": "The LifeStraw Go is a BPA-free filter bottle with a membrane microfilter listed for 99.999999 percent of bacteria including E. coli and Salmonella, 99.999 percent of parasites and microplastics. A carbon filter reduces chlorine, odor and organic matter.\n\nIt has the strongest stated protection against bacteria and parasites of the six and adds a carbon stage for taste. It costs the most.\n\nIt suits hikers who want a proven brand and a simple bottle. It also works for travel taps.",
     "specs": [
       "Membrane microfilter, carbon filter",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31DEy6plmkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DT5X98ND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DT5X98ND?tag=rvgearlab-amz-20",
     "description": "The Membrane Solutions C3 is a 32 oz 304 stainless steel bottle with a replaceable ACF plus UF filter cartridge rated 0.1 microns. The listing says it was tested by SGS against NSF/ANSI standards 42, 53 and P231.\n\nIt is the only bottle with a named standard and a steel body, which gives it a long life. It costs less than the LifeStraw Go.\n\nIt suits hikers who want a durable body and a replaceable cartridge. The steel is heat resistant.",
     "specs": [
       "32 oz 304 stainless steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410hyGvCHeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCLBSWT4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCLBSWT4?tag=rvgearlab-amz-20",
     "description": "The AXEN is a 1000 ml collapsible TPU bottle with a 0.1 micron hollow fiber filter cartridge made for the standard 42mm opening. The listing says the cartridge has a long lifespan and the bottle folds when empty.\n\nIt holds the most of the six and packs flat, which the LifeStraw and Membrane Solutions do not. It states a pore size that matches the best here.\n\nIt suits hikers who want a large, packable bottle. The standard thread suits other 42mm fittings.",
     "specs": [
       "1000 ml collapsible TPU",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gfcnqMixL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CNTKLKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CNTKLKJ?tag=rvgearlab-amz-20",
     "description": "The SurviMate uses a 5-stage composite filter with a 0.01 micron hollow fiber UF membrane and a built-in compass on top. It is BPA-free and the listing says the filter removes 99.99 percent of harmful substances.\n\nIt states the finest pore size of the group, 0.01 micron, and adds a compass. It costs less than the LifeStraw Go.\n\nIt suits hikers who want a fine filter and a compass. The 5-stage design covers taste as well.",
     "specs": [
       "5-stage filter, 0.01 micron UF",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A9mb8BxQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYX32DVC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYX32DVC?tag=rvgearlab-amz-20",
     "description": "The YUECHCASES 22 oz bottle uses a multi-layer filter with a carbon layer that helps reduce odors and improve taste. The listing positions it for hiking, camping, backpacking and travel.\n\nIt improves taste and states no microbe removal, so it suits treated tap water rather than streams. It costs less than the LifeStraw Go.\n\nIt suits hikers who refill from taps and want better-tasting water. It is light and easy to carry.",
     "specs": [
       "22 oz, multi-layer carbon filter",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21SoBRBP0NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FSBNYQC?tag=rvgearlab-amz-20",
     "description": "The Brita Hard-Sided bottle is a 26 oz BPA-free plastic bottle with an activated carbon block filter that reduces chlorine taste and odor and particulates. The filter lasts about two months or 40 gallons.\n\nIt is the cheapest filter bottle here and the best known for tap water. It does not treat microbes.\n\nIt suits day hikers and travelers who refill from city taps. It replaces many single-use bottles.",
     "specs": [
       "26 oz BPA-free hard-sided bottle",

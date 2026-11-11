@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41np3Hs7vBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V4482W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V4482W1?tag=rvgearlab-amz-20",
     "description": "The Camco Double Battery Box holds two 6V Group GC2 batteries or two 12V Group 24/24M batteries. Inner dimensions are 21.5 by 7.375 by 11.19 inches, and it includes two straps and four strap clamps with screws.\n\nAgainst the Camco Large box, it takes a pair of batteries, which is the layout for 12V from two 6V golf-cart cells. The listing says it meets USCG CFR 183.420 and ABYC E-10.7 specifications with two GC2 batteries.\n\nIt suits trailer and truck-camper owners with a two-battery bank. The corrosion-resilient polymer shell is made in the USA.",
     "specs": [
       "Holds 2 GC2 or 2 Group 24",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ufSOUQISL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00EOX2OKS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00EOX2OKS?tag=rvgearlab-amz-20",
     "description": "The Camco Large Battery Box fits group size 27, 30 and 31 batteries, with inside dimensions of 7.25 by 13.25 by 8.625 inches. It includes a lift-off lid, a woven hold-down strap, foot clamps and stainless steel screws, and the shell is lightweight polypropylene.\n\nCompared with the Attwood, it fits a wider group range and costs a little less. The lid lifts off for full access.\n\nIt suits trailer tongues and truck beds with a single large lead-acid battery. The listing says it meets USCG CFR 183.420 and ABYC E-10.7.",
     "specs": [
       "Fits Group 27, 30 and 31",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P+K4CybtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B001O0D6QK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B001O0D6QK?tag=rvgearlab-amz-20",
     "description": "The Attwood 9067-1 fits Group 27 batteries up to 10.5 inches high, with interior measures of 13.06 by 6.9 by 10.5 inches. The polypropylene shell is impact rated from -20F to +120F, and a vented design lets battery gases escape.\n\nAgainst the Camco Large, it adds a stated vent and a stronger 40 inch strap rated for 350 lbs of force. It is built for one battery size, so the fit is precise.\n\nIt suits boat, trailer and camper owners with a flooded Group 27 battery that needs ventilation. The listing says it complies with ABYC E-10 and USCG 183.420.",
     "specs": [
       "Fits Group 27 up to 10.5 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rK2xAS0FL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2K7HL64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2K7HL64?tag=rvgearlab-amz-20",
     "description": "The POWO Carlife box holds 30, 20, 18, 16 or 10Ah batteries, with dual QC3.0 and PD ports, a 30A overload protection and an Anderson plug for solar charging. The listing describes a waterproof, dustproof seal.\n\nCompared with the Camco boxes, it is a powered portable box, not a plain tray. It suits small lithium batteries at a higher price.\n\nIt suits campers who want a ready power hub for lights, phone charging and a solar input. The listing names camping, fishing and photography among the uses.",
     "specs": [
       "Fits 10 to 30Ah batteries",

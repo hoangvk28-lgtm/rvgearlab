@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314zYavx-2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV736NT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV736NT?tag=rvgearlab-amz-20",
     "description": "The Lamicall 24g uses TAC HD polarized lenses with 99.9% UV400 protection and a TR90 frame that weighs 24g. Three-level adjustable nose pads and adjustable temples set the fit, and the cylindrical lens wraps for a wide field of view.\n\nCompared with the suoso TR90, it adds three-level nose pads and a hardshell case with a clip. Against the Foliful 3-Pack, it is a single, better-detailed pair.\n\nIt suits runners, cyclists and anglers who want adjustability. The set includes a hardshell case, cloth and pouch.",
     "specs": [
       "24g TR90, TAC HD polarized",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-QrZAFy5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1XWFPPH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1XWFPPH?tag=rvgearlab-amz-20",
     "description": "The suoso TR90 lists 99.99% UV400 protection, a flexible TR90 frame and polarized HD lenses that are scratch-resistant. Soft rubber nose pads and non-slip hydrophilic rubber temple arms keep it in place when you sweat.\n\nCompared with the Lamicall 24g, it relies on hydrophilic rubber arms for grip. Against the WEAROYO Narrow Fit, it suits more face sizes and adds rubber temples.\n\nIt suits cyclists, runners and drivers who move a lot. The listing names baseball and hiking as well.",
     "specs": [
       "99.99% UV400, polarized HD lenses",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411mcjriMJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F28L5GK5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F28L5GK5?tag=rvgearlab-amz-20",
     "description": "The QALLY Hydrophobic lists TAC HD polarized lenses with 99% UV400 protection and a featherlight, heat-resistant flex frame. Non-slip nose pads, a waterproof and smudge-resistant hydrophobic coating and CAT.3 lenses are named.\n\nAgainst the Lamicall 24g, it adds a hydrophobic coating and a stated lens category. Compared with the suoso TR90, it uses a heat-resistant flex frame.\n\nIt suits anglers and cyclists in bright, wet conditions. The listing names golf and baseball as well.",
     "specs": [
       "TAC HD polarized, CAT.3",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aMD8nV5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NN8271T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NN8271T?tag=rvgearlab-amz-20",
     "description": "The WEAROYO Narrow Fit uses TAC HD polarized lenses and a lightweight, shock-resistant, non-allergenic wraparound frame. The listing states frame width of 140mm and says it fits standard and narrow face shapes and not wide ones.\n\nCompared with the Foliful 3-Pack, it states face-fit limits clearly. Against the Lamicall 24g, it offers no adjustable nose pads and adds a precise size note.\n\nIt suits narrow or standard faces who fish, boat or run. The listing names sailing and jet skiing.",
     "specs": [
       "TAC HD polarized lens",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414gMGZfvgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D97BWLZ4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D97BWLZ4?tag=rvgearlab-amz-20",
     "description": "The Foliful 3-Pack contains three polarized wraparound pairs in mixed colors, with a glasses case, a cleaning cloth and a pouch. The listing says the lenses block harmful UV rays, are scratch-resistant and the streamlined design suits fishing, running and golf.\n\nCompared with the Lamicall 24g, it offers three pairs with fewer stated specs. Against the suoso TR90, it adds a case and pouch.\n\nIt suits families, clubs and anyone who loses glasses. The mixed colors let you match activities.",
     "specs": [
       "Three polarized wraparound pairs",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MJLnruu1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BQ6868M8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BQ6868M8?tag=rvgearlab-amz-20",
     "description": "The DUCO Youth is a kids' wraparound with TAC polarized lenses, 100% UV protection and a TR90 frame weighing 22g. The listing gives lens width 64mm, lens height 50mm and bridge width 17mm for ages 8 to 16.\n\nCompared with the Lamicall 24g, it is sized for young faces. Against the suoso TR90, it adds a size table for youth.\n\nIt suits parents of young athletes who play baseball, softball or cycle. It is the only youth-sized pair in this list.",
     "specs": [
       "TR90 frame, 22g",

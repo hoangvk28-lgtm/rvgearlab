@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s+5kNtJFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CXDXP8VR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CXDXP8VR?tag=rvgearlab-amz-20",
     "description": "The Anker 20,000mAh bank shares 87W across three devices, with a single device receiving up to 65W, and it has a built-in USB-C cable rated for over 10,000 bends. The cable charges an iPhone 15 Pro to 58 percent or a MacBook Air to 52 percent in 30 minutes.\n\nIt carries about twice the capacity of the Anker Prime and a built-in cable that the INIU and JUOVI lack. It costs more than the 20K banks without a cable.\n\nIt suits campers who run a laptop and a phone from the same bank. The 87W total keeps both reasonably fast.",
     "specs": [
       "20,000mAh, 87W total, 65W single",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31iG5Iq928L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ9J3QMY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ9J3QMY?tag=rvgearlab-amz-20",
     "description": "The Anker Prime is a 9,600mAh bank with 65W output, a built-in AC plug so it doubles as a wall charger, a charging cable in the box and a 1.3 inch smart display. It weighs 10.76 oz, and the 65W peak applies to a single port.\n\nIt gives half the capacity of the Anker 20K and costs the most. Against the INIU and JUOVI, it saves carrying a separate wall brick.\n\nIt suits travelers who want one device for the wall and the trail. The display shows live power details.",
     "specs": [
       "9,600mAh, 65W, AC plug",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NGDcnTEcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DB86W481?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DB86W481?tag=rvgearlab-amz-20",
     "description": "The INIU Laptop Power Bank crams 20,000mAh into a body smaller than a standard wallet, with 65W triple-port charging and a detachable 4.7 inch lanyard cable. It lists a MacBook, HP, Lenovo or Dell laptop reaching 50 percent in about 30 minutes.\n\nIt is smaller than the JUOVI and NOBIS and costs a little more. Its cable detaches, unlike the fixed cable on the Anker 20K.\n\nIt suits campers who want 20K laptop power in a wallet-size pack. The listing names Steam Deck charging at full speed.",
     "specs": [
       "20,000mAh, 65W triple port",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SF-03ibkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWR7Y3G6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWR7Y3G6?tag=rvgearlab-amz-20",
     "description": "The JUOVI delivers 65W through dual USB-C ports with PD 3.0 and a 20,000mAh battery, charging four devices at once. It has a smart digital display and a dual-mode setup with a trickle mode for low-power gadgets.\n\nIt costs less than the INIU and Anker, and it adds a trickle mode for earbuds and watches. Its output matches the NOBIS at the same price.\n\nIt suits budget laptop campers who also carry small gadgets. The display reads live power.",
     "specs": [
       "20,000mAh, 65W PD 3.0",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JOyJtoJlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FWC73CM3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FWC73CM3?tag=rvgearlab-amz-20",
     "description": "The NOBIS lists 65W bi-directional PD charging, 2 USB-C and 2 USB-A ports, 20,000mAh and an LED power display. The bidirectional port refills the bank with a 65W charger.\n\nIt matches the JUOVI on price and wattage, and it adds two USB-A ports for older gadgets. Its bidirectional port also accepts 65W input.\n\nIt suits campers with a mix of USB-A and USB-C devices. The LED display reports charging information.",
     "specs": [
       "20,000mAh, 65W bidirectional",

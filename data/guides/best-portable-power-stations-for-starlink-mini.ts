@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31eIf4rHOuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GLY6B9BY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GLY6B9BY?tag=rvgearlab-amz-20",
     "description": "The GENDOME StarGrid is a 288Wh LiFePO4 battery built for Starlink Mini, listed at up to 8 hours of runtime depending on usage. Its USB-C and DC ports both support 60W in and out, a full charge takes about 5 hours from one port, and using both cuts that to about 2.5 hours.\n\nIt stores 99Wh more than the ROVEDGE, which is 189Wh, and adds a custom carry case. LiFePO4 cells and a BMS guard against overcharge, overheating and short circuits.\n\nIt suits campers who want the most stored energy and a case that keeps the dish and cables together. Solar and car charging are listed.",
     "specs": [
       "288Wh LiFePO4, up to 8 h",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Bk3qHCecL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7J8XTX7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7J8XTX7?tag=rvgearlab-amz-20",
     "description": "The ROVEDGE MK-1 holds 189Wh (51,300mAh) in nine cells and is listed at up to 8 hours for Starlink Mini under typical conditions. It delivers 30V DC directly, has a built-in fold-out tripod and a visible orange status ring.\n\nIts IP67 housing with an aluminum frame operates from -20C to 50C, a protection level the GENDOME does not state. Pass-through charging is supported and the battery doubles as the stand.\n\nIt suits campers who face rain, dust or cold and want battery and tripod in one body. The status ring shows charging and output at a glance.",
     "specs": [
       "189Wh, 51,300mAh",

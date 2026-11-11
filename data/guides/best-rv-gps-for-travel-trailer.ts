@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fDsjEbFNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3LYFLYT?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 SD Bundle includes the RV 795, a microSDXC Ultra 64GB card, a cleaning kit, a USB card reader and USB charging adapters. The listing describes custom routing for the RV size and weight and an RV parks and services directory.\n\nAgainst the standalone Garmin RV 795, it adds a 64GB memory card, a card reader and chargers. Against any phone-based app, it is a dedicated screen with an RV-specific profile.\n\nIt is the better pick for travel trailer owners who want the card and cables for extra maps. Buyers focused on owners who want extra storage will find it a sensible match.",
     "specs": [
       "RV 795 with 64GB card",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WEtc8c5jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJXYL6W?tag=rvgearlab-amz-20",
     "description": "The Garmin RV 795 is a 7 inch RV navigator with custom routing based on the size and weight of your RV or trailer. It adds BirdsEye satellite imagery and a preloaded RV park directory.\n\nAgainst the bundle, it is the same unit at a lower price without the card and cables. Against a phone, it keeps a dedicated screen with a saved trailer profile.\n\nIt is the best fit for travel trailer owners who want the core navigator at the lowest price. It earns its slot for core trailer navigation.",
     "specs": [
       "7 inch touchscreen",

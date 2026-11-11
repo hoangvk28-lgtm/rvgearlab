@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416X6KCtLkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLXD1MSC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLXD1MSC?tag=rvgearlab-amz-20",
     "description": "Feelfunn 61 Quart is a 12 volt refrigerator with two independently controlled zones from minus 4 to 68 degrees F. It is listed to cool from 77 degrees F ambient to 32 degrees F in about 15 minutes with a compressor system.\n\nThe two zones let you run a freezer side and a fridge side at once, which the single-zone EUHOMY models cannot. It runs at about 45dB and includes four fixing holes to secure it in a vehicle.\n\nOverlanders and families on long trips will like having both frozen and chilled space. The tie-down holes make it a good fit for truck beds and SUVs.",
     "specs": [
       "61 qt dual zone",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rbgMN-IvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYZNH4NX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYZNH4NX?tag=rvgearlab-amz-20",
     "description": "EUHOMY 48 Quart is a 12 volt portable fridge and freezer with a range of minus 4 to 68 degrees F. A compressor cools from 68 degrees F to 32 degrees F in about 15 minutes.\n\nIt includes both 12/24V DC and 110/240V AC adapters, so you can power it from a car or from a wall at home. It is a step smaller and cheaper than the Feelfunn 61 quart.\n\nWeekend campers and van travelers will like the capacity for more than a few cans. The AC adapter doubles it as a home cooler.",
     "specs": [
       "48 qt compressor fridge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Yb8mFqcKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLX846J2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLX846J2?tag=rvgearlab-amz-20",
     "description": "Feelfunn 40 Quart keeps the dual-zone design with separate temperature control from minus 4 to 68 degrees F. The compressor cools from 77 degrees F to 32 degrees F in about 15 minutes and runs at 45dB.\n\nIt brings the freezer-plus-fridge layout of the 61 quart in a package that fits more cars. It also has four fixing holes to secure it for travel.\n\nCouples on road trips will like carrying frozen meat and fresh drinks together. The mid-size body leaves room for a cooler bag beside it.",
     "specs": [
       "40 qt dual zone",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41riJKW7TvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BPM7C8RT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BPM7C8RT?tag=rvgearlab-amz-20",
     "description": "BougeRV CR28 is a 30 quart 12 volt fridge with a range of minus 8 to 50 degrees F. Its ECO energy-saving mode brings operating power to about 60W, and the listing says it cools to 32 degrees F in about 15 minutes.\n\nIt carries a 2-year tech support and runs on a smaller battery draw than larger models like the EUHOMY 48 quart. The wider freezer range goes lower than the others.\n\nSolo campers and weekend travelers will like the low power draw. It is easier on a vehicle battery.",
     "specs": [
       "30 qt, -8F to 50F range",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kzk0bVX8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7XCBHY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7XCBHY7?tag=rvgearlab-amz-20",
     "description": "EUHOMY 23 Quart is a compact 12 volt cooler with app control, a powerful compressor and a magnetic lid seal. It ships with 100/240V AC and 12/24V DC adapters and 2-year tech support.\n\nThe app lets you check and change temperature from your phone, which none of the larger picks list. The magnetic lid closes tight for good insulation.\n\nCouples and day trippers will like the phone control. It fits between seats.",
     "specs": [
       "23 qt compressor cooler",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wBkBJy0tL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C4H82CHZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C4H82CHZ?tag=rvgearlab-amz-20",
     "description": "EUHOMY 19 Quart shares the app control, compressor and magnetic lid design of the 23 quart in a smaller body. It includes both AC and DC adapters and 2-year tech support.\n\nIt is the smallest and cheapest here and fits under a seat or in a tight cargo area. The cooling system keeps drinks and snacks cold.\n\nSolo travelers, commuters and lunch-and-drinks users will like the small footprint. It slides easily onto a back seat footwell.",
     "specs": [
       "19 qt compressor cooler",

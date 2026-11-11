@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ArDnmRqPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZKY1228?tag=rvgearlab-amz-20",
     "description": "A brass water pressure regulator headlines the Camco Freshwater Kit, which also packs a TastePURE filter with flexible hose protector, a 25 ft EvoFlex drinking water hose and a basket. CSA lead-free certification to NSF/ANSI 372 covers the hose.\n\nIt is the only kit that names a brass regulator and includes a hose basket. The cost is far below the rVandtt kits.\n\nNewcomers wanting a ready setup get a basket sized for up to 75 ft of hose. Everything arrives in one box.",
     "specs": [
       "Kit with 25 ft hose",
@@ -53,7 +53,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KGjxdz6wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHTTGQSD?tag=rvgearlab-amz-20",
     "description": "The rVandtt Fresh Water Kit with drinking hose includes a regulator with gauge, an exterior filter, hose connectors, a leak repair kit, a carrying case and a 35 ft drinking water hose. The gauge lets you read the pressure.\n\nIt adds a gauge and a longer hose than the Camco kit and costs more. It is cheaper than the version with a sanitation hose.\n\nIt suits owners who want a gauge-equipped complete kit. The carrying case keeps parts together.",
     "specs": [
       "Regulator with gauge",
@@ -80,7 +80,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51yLaKdijwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKKHHZGX?tag=rvgearlab-amz-20",
     "description": "The rVandtt Fresh Water Kit adds a sanitation hose to the drinking hose, regulator with gauge, filter, connectors, leak repair kit and carrying case. It lists a 35 ft drinking hose.\n\nIt is the most complete and the most expensive kit here. It is the only one with two hose types.\n\nIt suits owners who want every water job covered in one case. The gauge helps you spot high pressure at a glance.",
     "specs": [
       "Regulator with gauge",
@@ -107,7 +107,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hG+IAXAHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BDJW6R2W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BDJW6R2W?tag=rvgearlab-amz-20",
     "description": "The rVandtt Fresh Water Kit without hoses includes a regulator, an inline filter, a hose splitter, a brass elbow, a flexible connector, hose quick connects, a leak repair kit and a case. It suits owners who already have a hose.\n\nIt is the lowest priced rVandtt kit and adds the splitter and elbow. It does not include a hose.\n\nIt suits owners with a hose who need a regulator and fittings. The quick connects speed up setup.",
     "specs": [
       "Regulator and inline filter",
@@ -134,7 +134,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N2NZUObpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJ59L635?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJ59L635?tag=rvgearlab-amz-20",
     "description": "The Sulythw kit includes a pressure regulator, an inline filter with NSF 42 certification, a hose splitter, a brass elbow, a flexible connector and hose quick connects. It also adds a blowout adapter with a shut-off valve.\n\nIt is the lowest priced kit and the only one with a blowout adapter for winterizing. It does not list a hose.\n\nIt suits owners who want a regulator and winterizing in one kit. The shut-off valve on the adapter adds control.",
     "specs": [
       "Regulator, filter, splitter",

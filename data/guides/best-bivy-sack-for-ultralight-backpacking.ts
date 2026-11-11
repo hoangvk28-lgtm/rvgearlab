@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JZN9-nAJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CYTKW4JH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CYTKW4JH?tag=rvgearlab-amz-20",
     "description": "The SOL Escape Bivvy is an 84 by 31 inch hooded shell made from ThermaShell, a quiet, tear-resistant fabric that blocks rain, snow and wind while reducing condensation. The listing says it reflects 70 percent of body heat while staying breathable, which is why it works both as a cold-weather add-on and as part of an emergency kit, at about $86.\n\nCompared with the 3F UL Gear Tyvek cover below it, the SOL Escape is the more thermal, more enclosed option: the hood and the heat-reflecting fabric add warmth where the Tyvek mostly guards against water and dirt. Against the mesh bivy tents below it, it has no poles and no bug netting, which is exactly why it packs so compactly and sets up in seconds. The 84 inch length leaves room for a sleeping bag and a pad together.\n\nIt makes sense for ultralight backpackers adding a few degrees to a bag, winter campers who want extra protection, and anyone who wants a dependable emergency shelter that doubles as a regular sleeping cover.",
     "specs": [
       "84 x 31 inch hooded bivvy",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XRNA7CQfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D9GFWBJ8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D9GFWBJ8?tag=rvgearlab-amz-20",
     "description": "The 3F UL Gear bivy is made of DuPont Tyvek, a water-resistant and air-permeable material, and comes in two styles. Style A is semi-enclosed and covers the foot area at 145 by 180 cm, weighing 135 g, while Style B is fully enclosed at 90 by 230 cm and weighs 200 g. Both pack down to about 16 by 9 cm and cost around $41.\n\nCompared with the SOL Escape above it, the 3F is far lighter, at 135 to 200 g, and roughly half the price, while it offers water resistance and dirt protection rather than a heat-reflecting shell. Against the HIKEBURGER below it, the 3F is a cover that goes over a sleeping bag, and it needs no poles. Style A focuses protection on the foot area, where heat loss strongly affects overall warmth, and Style B gives full coverage for the sleeping bag.\n\nIt is an excellent match for ultralight hikers, thru-hikers fighting tent condensation and anyone who wants a cheap cover to protect a down bag from damp mornings and dirty ground.",
     "specs": [
       "DuPont Tyvek, water resistant and breathable",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BYBUl79+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY3JGMD4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY3JGMD4?tag=rvgearlab-amz-20",
     "description": "The Genma0 is a one-person mesh bivy shelter weighing 1.5 lb including poles and stakes, and it packs to 14 by 4 inches. It uses 40D mesh walls for airflow and insect protection, a 210D Oxford floor rated at PU4000, aviation aluminum poles and pre-attached guylines, and the interior measures 86 by 35 by 20 inches. It costs about $47.\n\nCompared with the HIKEBURGER below it, the Genma0 adds a sturdier floor rating and a 35 inch width, and it is heavier, at 1.5 lb versus 0.56 lb, yet it offers more room to sit up and shift. Against the SOL Escape above it, the Genma0 is a ventilated bug shelter rather than a warmth layer, so it does a different job: keeping mosquitoes away on a warm night.\n\nIt suits summer backpackers, hammock-free sleepers in buggy forests, and anyone who wants a tent-like space with a netted roof overhead for a very low cost and a light pack.",
     "specs": [
       "1.5 lb with poles and stakes",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21bXdYDVeCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3CYG69T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3CYG69T?tag=rvgearlab-amz-20",
     "description": "The HIKEBURGER sits between an inner tent and a bivy bag, built from mesh, 20D breathable nylon and single-sided silicone 40D nylon, and it weighs only 0.56 lb. The product size is 78.74 by 23.62 by 19.68 inches, and it packs to roughly 7.87 by 3.93 by 3.34 inches, small enough to disappear into a pack side pocket. It costs about $43.\n\nCompared with the Genma0 above it, the HIKEBURGER is nearly a pound lighter and packs much smaller, at the cost of an interior only 23.6 inches wide, which fits a pad and bag snugly. Against the 3F cover above it, the HIKEBURGER adds mesh insect protection and a defined shelter shape, so you are not relying on a cover over a bag alone. It includes traction ropes at the head and foot, and it can double as an inner tent if you pair it with a fly.\n\nIt makes sense for ultralight hikers in bug season, minimalist campers who already carry a tarp, and anyone who wants the lowest possible weight in a bug-proof sleeping space.",
     "specs": [
       "0.56 lb mesh and nylon bivy",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41E4nA-5TnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CSG115QV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CSG115QV?tag=rvgearlab-amz-20",
     "description": "The ALOEU is a one-person ultralight bivy tent with a high-strength aviation aluminum pole to hold the roof up off your face. The listing gives a bottom rating of PU3000 and an outer rating of PU2000, and it describes the shelter as windproof, rainproof, mosquito-proof, breathable and warm for use in all seasons. It costs about $57.\n\nCompared with the NUOYAQI below it, the ALOEU documents its waterproof ratings and its pole material, which makes it easier to plan around. Against the Genma0 above it, the ALOEU is a tent-like pole bivy aimed at weather protection rather than a pure mesh bug shelter, and its PU2000 outer is a rain rating suited to light to moderate wet weather. A pole that lifts the fabric off your head reduces the feeling of a wet bag against your face.\n\nIt suits solo backpackers, bike campers and anyone who wants a shelter that is more enclosed than a mesh bivy and still light enough to carry on a multi-day trip. A footprint or ground cloth is a sensible addition.",
     "specs": [
       "One-person pole-supported bivy tent",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31y74uT-64L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7MCYMKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7MCYMKD?tag=rvgearlab-amz-20",
     "description": "The NUOYAQI is a one-person rectangular backpacking tent made of polyester that the listing describes as waterproof, breathable and rainproof, and it includes a bivy sack, which makes it a two-piece shelter system. It is meant for campers and backpackers who want a private shelter by the mountains or by the river at roughly $57.\n\nCompared with the ALOEU above it, the NUOYAQI gives you a rectangular footprint with a separate bivy sack, which means you can leave the tent behind and carry just the bivy on lighter trips. Against the Genma0, the NUOYAQI is a closed polyester design instead of a mesh bug shelter, so it offers more wind and rain cover and less airflow. The listing is brief on specs, so check the packed size and dimensions on the product page before you rely on it.\n\nIt makes sense for casual solo campers, scouts and beginners who want a tent and a bivy in one inexpensive set, and for anyone who wants one purchase to cover two different carrying modes.",
     "specs": [
       "One-person rectangular polyester tent",

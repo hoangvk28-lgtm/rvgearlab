@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EL2+rhpnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZ78NBL3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZ78NBL3?tag=rvgearlab-amz-20",
     "description": "The Sinvimes lists an IPX7 rating with a reinforced rubber seal on the charging port, 95 hours of battery life, USB-C charging in 3 to 5 hours and a 125 degree adjustable head. Its five modes include a strobe and an SOS signal, and it adds zoom and red light.\n\nIPX7 covers brief immersion, which is three levels above the IPX4 of the Lepro, LHKNL and VAVOFO. Its listed 95 hours is also the longest runtime among the four.\n\nIt suits anglers, kayakers and wet-weather hikers who risk a dunk. The sealed port keeps rain and dirt out of the charge socket.",
     "specs": [
       "IPX7, sealed charging port",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D2kMMPwqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y21GMKQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y21GMKQ?tag=rvgearlab-amz-20",
     "description": "The Lepro 2-pack lists 6 lighting modes (spot and flood, high and low, red steady and red flash), a beam up to 500 feet (150 meters), up to 15 hours on one charge and a USB-C cable. Each weighs 2.65 ounces, with a sweat-proof band, a 45 degree angle and an IPX4 rating.\n\nIt lists the longest runtime among the IPX4 lamps and a separate spot and flood. It weighs more than the 1.87 ounce LHKNL.\n\nIt suits partners who want two lamps for rainy camp chores. The sweat-proof band suits long wear.",
     "specs": [
       "6 modes, spot and flood",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51g49iIPQAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCVD27XL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCVD27XL?tag=rvgearlab-amz-20",
     "description": "The LHKNL pair weighs 1.87 ounces per lamp, with 8 modes, a motion sensor, a long press that shuts it off from any mode and a 60 degree locking head. The shell carries an IPX4 rating and the listing describes it as sealed and leak-proof for rain and snow.\n\nIt is lighter than the Lepro and adds a motion sensor that the Lepro lacks. Its water rating matches the Lepro and VAVOFO, below the Sinvimes.\n\nIt suits runners and campers who want a light, sensor-controlled pair for rainy trips. The long press saves fumbling in the dark.",
     "specs": [
       "1.87 oz, 8 modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41erQ1zdOFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FVWX7V5C?tag=rvgearlab-amz-20",
     "description": "The VAVOFO lists 500 lumens, a zoom from a 5 degree spotlight reaching 100 meters to a 120 degree flood, stepless dimming and 5 modes including a red and side light. A 500mAh battery charges in 2 to 4 hours from any USB port and runs 3 to 7 hours, with an IPX4 rating.\n\nIts price is the smallest here and its zoom range the widest, while its small battery gives the shortest runtime. A soft sponge-padded rear bracket aids comfort.\n\nIt suits budget campers and walkers who want a zoom beam in light rain. Auto-off helps protect the battery.",
     "specs": [
       "500 lumens, 5 to 120 degree zoom",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vc6JlUBEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWRSFWP9?tag=rvgearlab-amz-20",
     "description": "The POMOLY Chalet 70 Pro is a 2 to 3 person cabin tent in 70D plaid ripstop polyester rated at 2500mm. It pitches on two 7001 aluminum poles with two guy line sets and eight tie-downs, and side rain curtains cover both doors.\n\nAt 8.2 by 6.56 feet it gives a squarer floor than the CampRavox 2P and the Cabin Hot Tent. It costs the most here, and its 4.9 foot peak is lower than the VEVOR tipi.\n\nA fit for two or three campers who prefer a cabin layout with rain curtains and a stove jack. Opposing doors improve airflow.",
     "specs": [
       "70D ripstop, 2500mm",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QJXQy4TtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9SCNXC?tag=rvgearlab-amz-20",
     "description": "The CampRavox 2P is a two-person tent with an inner compartment, a separate vestibule, two large doors and a Y-pole structure. It uses 70D ripstop with a waterproof coating, and the stove jack arrives uncut so you can cut it to your own pipe.\n\nIt separates gear from sleeping space, which the POMOLY and CampRavox Chalet do not. It costs a little less than the POMOLY.\n\nIt suits first-time winter campers who want a simple shelter with a porch for boots. The Y-pole design makes setup easy.",
     "specs": [
       "70D ripstop with coating",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+069M4-eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GF9WVY81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GF9WVY81?tag=rvgearlab-amz-20",
     "description": "The CampRavox Chalet uses 70D ripstop polyester rated 3000mm and sleeps two adults in a 7.42 by 5.25 by 4.25 foot space. It has two high-carbon steel poles, 10 guy lines, 13 pegs and an adjustable chimney vent.\n\nIt has the best rain rating in the group and costs less than the POMOLY. Its smaller floor trails the Cabin Hot Tent and VEVOR tipi.\n\nA fit for pairs who want sturdy structure at a modest price. Symmetrical double doors have side rain curtains.",
     "specs": [
       "70D ripstop, 3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EGdbrUTGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K56DB1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K56DB1?tag=rvgearlab-amz-20",
     "description": "This cabin-style hot tent is nearly 10 feet long and 6.6 feet tall, which fits 2 to 4 adults, and has a built-in stove jack and a double-door design. The 210T polyester shell carries a PU3000mm coating and rides on 2 aluminum poles with 12 guy lines and 18 stakes.\n\nIt gives about a foot more headroom than the CampRavox chalets and a roomier floor than the POMOLY at a lower price. The PU3000 rating matches the CampRavox Chalet and beats the PU2500 tipi.\n\nIt suits small groups who want a boxy hot tent with real standing height. Double doors bring in light and airflow.",
     "specs": [
       "Nearly 10 ft long, 6.6 ft tall",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JLaMPP3EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FLTYMVL8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FLTYMVL8?tag=rvgearlab-amz-20",
     "description": "The VEVOR 4-6 tipi is 15.09 feet across and 8.53 feet tall with a flame-retardant stove jack. It uses 210T polyester at PU2500mm, weighs 9.7 pounds and includes 20 stakes and 10 guy ropes.\n\nIt is the roomiest tent here by a wide margin and costs a third of the POMOLY. It uses thinner fabric than the ripstop chalets.\n\nIt suits groups of four to six who value space over a premium shell. Add a ground mat and inner mesh.",
     "specs": [
       "15.09 ft wide, 8.53 ft tall",

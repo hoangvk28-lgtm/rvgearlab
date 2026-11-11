@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61gK5Md7dzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSGHNQ1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSGHNQ1H?tag=rvgearlab-amz-20",
     "description": "The Clear2o CRV1005-3 is a 3-pack of RV and marine inline filters built around a full-length 5 micron solid carbon block. The listing says it reduces sediment, chlorine, lead and VOCs while keeping a wide body for strong flow.\n\nCompared with the granular-based hose filters on this list, solid carbon contacts the water along the whole length, which Clear2o describes as superior reduction. The three-pack also covers more than one trip.\n\nBest for RVers who want a true 5 micron carbon block and good flow for showers and cooking. It also suits those who change filters seasonally.",
     "specs": [
       "5 micron solid carbon block",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SNRnGKQPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFJWJB4M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFJWJB4M?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts 5-Pack supplies 5 micron activated carbon cartridges for standard 2.5 by 10 inch housings. The listing gives an operating range of 40 to 176 F and a flow of 11,000 gallons at 2.6 GPM.\n\nUnlike the Clear2o CRV1005-3, these are drop-in cartridges, specifically named to replace the FRE-10F and CCI-10-CLW found in many factory RV housings. Five cartridges at once cut the per-change cost.\n\nA fit for owners of factory RV housings who want to stock a season's worth of replacements. It is also a good bulk buy for rental fleet owners.",
     "specs": [
       "5 micron carbon cartridges",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311CvpjVxaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07R3DWWZS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07R3DWWZS?tag=rvgearlab-amz-20",
     "description": "The AO Smith 5-Micron Carbon Wrap Sediment Filter is a 2.5 by 10 inch pair that fits AO-WH-PRE systems and many other brands. It is IAPMO tested and certified to NSF/ANSI 42 for materials, with a suggested 3-month replacement.\n\nWhere the Pro Water Parts pack is RV-specific, this one is a household-style refill that suits a standard housing in an RV bay. The carbon wrap reduces sediment smaller than the eye can see and rinses clean of fine dust.\n\nSuited to RVers who want a name-brand refill with a named certification. It drops into any standard 2.5 by 10 housing.",
     "specs": [
       "5 micron carbon wrap",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ZhUtZby9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9YRJB1T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9YRJB1T?tag=rvgearlab-amz-20",
     "description": "The GoBluTech Trio is a 3-stage recharge pack for R3 and AR3 systems with a sediment Longevity filter, a 0.2 micron high-flow filter and a Tasty granular carbon filter. The listing cites an extended filter life of 3 to 4 months.\n\nIt sits finer than the 5 micron picks above, which makes it the step up for buyers who want to go below 5 micron. The sediment pre-filter protects the finer stage.\n\nA natural purchase for GoBluTech R3 and AR3 owners who want a complete refill. It also appeals to van builders using small filters.",
     "specs": [
       "Sediment, 0.2 micron, carbon",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418iXBhxvGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08P7XMGRC?tag=rvgearlab-amz-20",
     "description": "The GLACIER FRESH four-pack ships with two flexible hose protectors and uses GAC and KDF media in food-grade housings. The listing reports a lab-verified 97.9 percent chlorine reduction and a three-month camping-season life.\n\nIt does not name a micron rating, so it fits taste filtering rather than the defined 5 micron stage of the Clear2o CRV1005-3. For a four-pack of hose filters, the flexible protectors reduce strain at the spigot.\n\nRight for campers who want an easy, disposable hose filter with spares included. It is also handy for families that use several hookups.",
     "specs": [
       "GAC and KDF media",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CY82OVmiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BX8M7G8N?tag=rvgearlab-amz-20",
     "description": "The Beckacher 2-Pack Advanced RV Inline Water Filter uses lead-free, BPA-free GAC and KDF media and includes a flexible hose protector. The listing states about 1,350 gallons and three months of use per filter.\n\nIt is simpler than the GLACIER FRESH 4-Pack and installs by hand in about five minutes with no tools. Its media list also reduces sand, rust and visible debris.\n\nA good first filter for new campers who want a low-cost, easy-to-install option. It also works as a spare on the shelf.",
     "specs": [
       "GAC and KDF media",

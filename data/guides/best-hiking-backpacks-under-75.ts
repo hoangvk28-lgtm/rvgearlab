@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41N4SRxjjHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CM5LHPL1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CM5LHPL1?tag=rvgearlab-amz-20",
     "description": "The IX INOXTO is a 26L or 40L hiking daypack in water-resistant, tear-resistant high-density polyester. It includes a 3 liter leak-proof water bladder with a switch valve and a rain cover, a breathable 3D back system and multiple compartments.\n\nIt costs about $46, roughly $7 less than the Loowoko 50L, and it alone ships with a hydration bladder. The bladder alone saves about $15 over buying one separately.\n\nIt suits day hikers and weekenders who want hydration, a rain cover and padding in one box. The 40L size also fits an overnight.",
     "specs": [
       "26L or 40L daypack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51tHsFlkBOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P1HZRXH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P1HZRXH?tag=rvgearlab-amz-20",
     "description": "The Maelstrom 40L is a rip-stop 210D nylon pack with a rain cover, a padded back, thick shoulder straps and reflective prints. It is a 40 liter lightweight camping daypack.\n\nIt costs about $36, about $10 under the IX INOXTO 26L/40L, and it holds the same 40 liters. It gives no bladder, so you pay extra for hydration.\n\nIt suits overnighters and weekend hikers who want volume at a low price. The reflective prints help at dusk.",
     "specs": [
       "40L rip-stop 210D nylon",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41P8U3KBtuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MNBM44W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MNBM44W?tag=rvgearlab-amz-20",
     "description": "The WoneNice is a 50L (45+5) pack in polyester and nylon with a main compartment, a sleeping bag compartment, two zipped front pockets and mesh side pockets. It comes with a rain cover, adjustable chest and waist belts and padded S-type shoulder straps.\n\nIt costs about $43, $10 less than the Loowoko 50L, and it adds a sleeping bag compartment. It carries more than the IX INOXTO 26L/40L, which tops out at 40L.\n\nIt suits weekend backpackers with a tent and sleeping bag. The adjustable belts fit men and women.",
     "specs": [
       "50L (45+5) pack",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DkmlxeXiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FR2HF77?tag=rvgearlab-amz-20",
     "description": "The Loowoko is a 50L pack weighing 2.8 pounds, with a rain cover pouch at the base, a shoe divider and six external pockets. It has no internal frame.\n\nIt costs about $53, the highest in the group and $10 above the WoneNice 50L, and it is organized, with a shoe compartment. It is lighter than most 50L packs.\n\nIt suits light packers who want a 50L bag with plenty of pockets for sorting gear. It fits a 3 to 5 day trip.",
     "specs": [
       "50L with rain cover",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31m0mJbZDQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Y1RV3BC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Y1RV3BC?tag=rvgearlab-amz-20",
     "description": "The Ziliyy is a 70L pack in 600D Oxford fabric with a large main compartment with a drawstring closure, a laptop compartment, a front pocket, side pockets and external MOLLE webbing. It has widened mesh shoulder straps with thick sponge padding.\n\nIt costs about $32, less than the IX INOXTO 26L/40L, and it holds 30 liters more than any other pack here. It is a tactical-style pack.\n\nIt suits campers who carry bulky gear for a long weekend. MOLLE webbing lets you attach pouches.",
     "specs": [
       "70L, 600D Oxford",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TskQml1fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKLHR7XR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKLHR7XR?tag=rvgearlab-amz-20",
     "description": "The G4Free is a 20L packable pack in water-repellent Taslan nylon that weighs 0.64 lb and folds to 6.3 by 7.1 inches. It has a zippered main compartment, inner pockets and a phone pocket on the strap.\n\nIt costs about $25, the lowest in the group, and it weighs a fraction of the Maelstrom 40L Rain Cover. It folds into its own pocket for travel.\n\nIt suits travelers who want a spare day pack or a summit bag. It stows inside a bigger pack.",
     "specs": [
       "20L Taslan nylon",

@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zeP-tfA5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B14M1FZ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B14M1FZ6?tag=rvgearlab-amz-20",
     "description": "The Crown CR-GC150 4-Pack contains four 12V 150Ah flooded GC12 batteries at 81 lb each. Each lists 103 minutes of reserve capacity at 75 amps, a polypropylene case and SAE automotive posts with a threaded stud.\n\nAt $1,219.99 for the pack it is $290.00 less than the Trojan T-1275 4-Pack in the same GC12 size, about $169 per nominal kWh. Pick this if you want a plain 12V flooded bank at the lowest price here; the caveat is that the listing states no warranty term.",
     "specs": [
       "12V 150Ah GC12, 81 lb each",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VIo5tYGiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081TJ4TXF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081TJ4TXF?tag=rvgearlab-amz-20",
     "description": "The Trojan T-105 6-Pack is six 6V 225Ah flooded batteries in GC2H size at 62 lb each, measuring 10.30 x 7.13 x 11.07 inches. The listing includes an 18 month replacement warranty, the only warranty term in this roundup.\n\nAt $1,524.98 it costs $304.99 more than the Crown CR-GC150 4-Pack but holds 8.1 kWh against 7.2 kWh, about $188 per kWh. Pick this if you want a classic 6V golf cart bank; the caveat is that you must pair batteries in series for 12V.",
     "specs": [
       "6V 225Ah GC2H, 62 lb each",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tb8FgZ8PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083W38C5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083W38C5J?tag=rvgearlab-amz-20",
     "description": "The Trojan T-1275 4-Pack is four 12V 150Ah flooded GC12 batteries at 85 lb each, sized 12.96 x 7.13 x 11.13 inches. They are listed for RV, marine, cabin and solar use.\n\nAt $1,509.99 it costs $290.00 more than the Crown CR-GC150 4-Pack for the same 150Ah and a similar footprint, and weighs 4 lb more per battery. Pick this if you specifically want the Trojan name in 12V; the caveat is that the listing shows no warranty term.",
     "specs": [
       "12V 150Ah GC12, 85 lb each",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gMhxY-GYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B083WPQ44R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B083WPQ44R?tag=rvgearlab-amz-20",
     "description": "The Trojan T-875 6-Pack is six 8V 170Ah flooded GC8 batteries at 63 lb each, sized 10.27 x 7.10 x 11.14 inches. Total stored energy is about 8.16 kWh, and the per-battery cost is about $243.\n\nAt $1,459.99 it costs $64.99 less than the Trojan T-105 6-Pack but runs at 8V, so it cannot make a 12V bank without a converter. Pick this only for a 24V or 48V system; the caveat is that it is the wrong voltage for a standard 12V RV.",
     "specs": [
       "8V 170Ah GC8, 63 lb each",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hx4ZhVW8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZTSVTYX?tag=rvgearlab-amz-20",
     "description": "The CAMPLUX 6 Gallon Black is a propane and electric hybrid water heater that works as a direct replacement for most Suburban and Dometic 4 to 6 gallon models. It offers three heating modes and one-click temperature adjustment from an interior control panel. The tank is porcelain-lined and uses an anode rod to fight corrosion, and propane operation means hot water is available when you are dry camping. It costs $399.99.\n\nAgainst the KINGRVER 6 Gallon, which uses a handheld remote, the CAMPLUX puts the controls on an interior panel, so there is no remote to lose or run out of batteries. Against a true tankless heater, it stores a reserve of hot water, which keeps installation simple because it fits the same opening as the heater it replaces. The three modes let you choose propane, electric or both depending on what you have available.\n\nThis is the best match for owners who want a drop-in 6 gallon hybrid with a clear, fixed control panel inside the coach. It suits travel trailer and motorhome owners swapping a failed heater who value simple installation and dry-camping capability.",
     "specs": [
       "6 gallon propane and electric",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zLGxCIHoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GBWPZ46Q?tag=rvgearlab-amz-20",
     "description": "The KINGRVER 6 Gallon is a gas, electric or hybrid heater with a remote controller that sets water temperature between 104 and 140 degrees Fahrenheit. In gas mode the burner uses 12 volt DC ignition, and the unit fits common Suburban, Atwood and Dometic setups. It costs $399.99, the same as the CAMPLUX.\n\nAgainst the CAMPLUX Black, which uses an interior panel, the KINGRVER hands you a remote, so you can adjust the temperature from anywhere in the coach, including the shower or the couch. Against a true tankless heater, it stores a reserve of hot water, which keeps the installation familiar and the cutout unchanged. The remote also lets you pick gas, electric or hybrid mode without reaching for a wall panel.\n\nThis pick suits owners who like the convenience of remote control, such as those who want to preheat water before they reach the sink or who keep the heater cabinet in an awkward spot. It is a natural fit for owners replacing a heater in a trailer where reaching the interior panel is inconvenient.",
     "specs": [
       "6 gallon hybrid",

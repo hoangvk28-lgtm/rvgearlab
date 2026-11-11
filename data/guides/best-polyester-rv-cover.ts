@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zGuYaxFoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01L2JRHFS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01L2JRHFS?tag=rvgearlab-amz-20",
     "description": "The SavvyCraft 29 to 32 ft Class C cover uses polyester with a PU coating, UV-treated for sun, rain and snow. Rollable zippered panels open the door and side areas, and air vents on both sides let trapped moisture escape.\n\nAgainst the 32 to 34 ft SavvyCraft, it shares the same fabric and strap design but covers the more common mid-length Class C range, which makes it the broadest fit in this group. It suits owners of a mid-size Class C who want vents and access panels in one cover.",
     "specs": [
       "Polyester with PU coating",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zGuYaxFoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01L2JRIBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01L2JRIBG?tag=rvgearlab-amz-20",
     "description": "The SavvyCraft 32 to 34 ft version keeps the same polyester PU build, double-stitched seams and tie-down straps, scaled for longer motorhomes. Quick-release buckles and lighter fabric make installation faster than on many heavier covers.\n\nNext to the 29 to 32 ft sibling, the only real difference is the length range, so it is the choice for owners of the largest Class C rigs here. It suits long Class C owners who want the same vented, zippered design.",
     "specs": [
       "32 to 34 ft fit",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51onBx3HiWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFRH5J45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFRH5J45?tag=rvgearlab-amz-20",
     "description": "The Leader Accessories 20 to 22 ft cover measures 270 by 102 by 104 inches and uses 9-layer 185G ripstop polyester with a built-in waterproof membrane and silver UV coating. A weighted toss bag helps one person route straps, and the 30-piece kit adds tire, tongue jack, ladder cap and gutter covers.\n\nCompared with the 18 to 20 ft version, it covers a slightly longer trailer with identical features, and it out-kits the SavvyCraft motorhome covers by bundling accessories. It suits travel trailer owners who want a complete kit.",
     "specs": [
       "9-layer 185G ripstop",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51onBx3HiWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFRM5BQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFRM5BQ9?tag=rvgearlab-amz-20",
     "description": "The Leader Accessories 18 to 20 ft cover measures 246 by 102 by 104 inches and carries the same 9-layer ripstop polyester, waterproof membrane and silver UV coating. It also ships with a weighted toss bag and the same 30-piece accessory kit.\n\nAgainst the 20 to 22 ft model, the cut is trimmer, which gives a tighter fit on shorter campers and a lower price. It suits owners of compact travel trailers and teardrop-class campers.",
     "specs": [
       "246 inch length",

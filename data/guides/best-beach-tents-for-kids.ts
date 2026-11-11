@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TvCgO-e1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS1BBWHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS1BBWHC?tag=rvgearlab-amz-20",
     "description": "The WhiteFang kids tent measures 70.9 by 45.3 by 43.3 inches and fits two or three children with toys and blankets. It has a silver-coated UPF 50+ interior, three large mesh windows, a wide front door, a 3.13 lb weight and built-in sandbags with stakes and guy lines.\n\nCompared with the WEMOH it is bigger and lists a three-window layout, while the WEMOH adds mosquito netting. A second WhiteFang version has two windows and a slightly lower price.\n\nIt suits families with two or three young children who want play room and a tunnel port for fun. The weight is low enough for a kid to help carry.",
     "specs": [
       "70.9 x 45.3 x 43.3 in",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51CS1BdtJvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09DRDW5N4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09DRDW5N4?tag=rvgearlab-amz-20",
     "description": "The Ocean World tent measures 7 ft 10 in by 4 ft 7 in by 4 ft and fits three to four people. It uses 190T polyester with UPF 50+ and PU800 waterproofing, and its package is only 16 inches long, with full-length side ventilation screens.\n\nIt has a printed ocean pattern and the PU800 layer, which the other listings do not state. Against the SUMELAY it is longer, and against the WhiteFang it fits more people.\n\nIt suits families who want one tent for both kids and parents, with a fun theme. It sets up in about five minutes.",
     "specs": [
       "7'10\" x 4'7\" x 4'",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51uRpXfnSEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJ72DVBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJ72DVBC?tag=rvgearlab-amz-20",
     "description": "The WEMOH is a pop-up tent with UPF 50+ fabric, a breathable mosquito net with tie cords and a rear mesh vent for cross-ventilation. It comes with 3 sand pockets and 4 lengthened stakes, and the listing says it reduces interior temperature by about 10%.\n\nIts mosquito net sets it apart from the other tents here, and its pop-up setup is faster than the WhiteFang. It is positioned for babies and toddlers, so it is smaller than the family tents.\n\nIt suits parents of toddlers at campsites and lakes with biting insects. The listing suggests staking at a 45 degree angle.",
     "specs": [
       "UPF 50+ with mosquito net",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51etYed+ncS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B091SG3XQ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B091SG3XQ9?tag=rvgearlab-amz-20",
     "description": "The SUMELAY opens to about 64.9 by 59 by 43.3 inches and folds to about 17.7 inches in diameter. It uses 190T silver-coated polyester with UPF 50+, a steel beam frame, six metal stakes, interwoven back mesh and a mesh window.\n\nIt sits between the baby tents and the family tents in size, and its automatic pop-up needs no assembly. Against the WhiteFang it is quicker to open and shorter in length.\n\nIt suits a parent with one or two kids who wants a quick pop-up for the beach or park. The mesh keeps insects out.",
     "specs": [
       "64.9 x 59 x 43.3 in",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415FsLRP0yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BWQKHZ7L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BWQKHZ7L?tag=rvgearlab-amz-20",
     "description": "The Wilhiker is a pop-up toddler tent measuring 48 by 32.2 by 22.8 inches with a double zipper door, mesh panels, a roll-up curtain and UPF 50+ silver coating on 190T nylon. The listing describes non-toxic, tasteless material.\n\nIt sells for the least here and has the smallest floor, aimed at a baby or young toddler. Against the WEMOH it drops the mosquito net and adds a roll-up curtain.\n\nIt suits parents wanting an inexpensive pop-up for a young child on a short outing. The double zipper allows quick access.",
     "specs": [
       "48 x 32.2 x 22.8 in",

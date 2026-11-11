@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zmdz++XFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08JSMQ1KF?tag=rvgearlab-amz-20",
     "description": "The Clostnature is a freestanding 2-person tent with a PU 5000 coating on the fly, floor and bathtub, factory-sealed seams and snow flaps that seal out spindrift. It weighs 6.28 pounds and comes with 14 aluminum stakes and a pole repair kit.\n\nIt carries the highest waterproof coating number in the group and adds two D-shaped doors with two vestibules. Its listed floor is 7 feet 3 inches by 4 feet 11 inches, longer than the BISINNA and about level with the Underwood.\n\nIt suits two cold-weather campers who want a freestanding tent with dual doors and gear storage. The mesh and fabric double doors let you adjust ventilation.",
     "specs": [
       "PU 5000 fly and floor",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31I3g7NKMML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7CJSBSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7CJSBSB?tag=rvgearlab-amz-20",
     "description": "The Underwood Aggregator is a 2-person 4-season tent with a snow skirt, a 45.3 inch center height and a 59.1 by 86.6 inch floor. Aircraft grade aluminum poles, a full-cover rain fly, a lantern hook and a mesh pocket complete the interior.\n\nCompared with the Clostnature, it sits at a lower price with a similar floor size, and compared with the BISINNA it has a similar spec sheet at a slightly lower price. The two-way zipper and lantern hook add everyday convenience.\n\nIt suits budget campers who want a snow skirt and full rain fly in a 2-person tent for winter trips. The lantern hook and mesh pocket help keep a small interior organized.",
     "specs": [
       "Snow skirt, full rain fly",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mZpJbhQRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZKB6VK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZKB6VK?tag=rvgearlab-amz-20",
     "description": "The BISINNA 2-person tent has a snow skirt, a 210T fly, a floor of 82.6 by 59 inches with a 43.3 inch height and a rollable design. Listed weight is 6.4 pounds and the packed bundle is 18 by 7 by 7 inches, with two doors and two windows.\n\nAgainst the Clostnature it has a shorter floor, and compared with the Underwood it lists an exact weight and pack size. Its double layer of mesh and fabric reduces condensation.\n\nIt suits backpackers and cyclists who want a compact, listed-weight winter tent with a foyer for gear. The rollable design packs small for bike and motorcycle travel.",
     "specs": [
       "Snow skirt, 6.4 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31wcJnn9ueL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F53FRPNC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F53FRPNC?tag=rvgearlab-amz-20",
     "description": "The OneTigris Stella is a 1-person 4-season tent weighing 4.2 pounds, with 20D nylon walls, a 40D nylon floor and a 3000 mm waterproof rating. It sets up at 6.9 by 4.1 feet and 3.7 feet tall and includes 10 stakes and 4 guy lines.\n\nIt is the lightest listed tent here and the only one for one person, and the removable blackout outer tent adds flexibility between ventilation and warmth. Against the 2-person tents it gives up floor space for a lower weight.\n\nIt suits solo hikers and winter campers who want a light shelter and a mesh inner tent that works in humid weather too. The 40D nylon floor adds durability underneath.",
     "specs": [
       "1 person, 4.2 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kB+eWpqsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5835GD7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5835GD7?tag=rvgearlab-amz-20",
     "description": "The catnaoa is an inflatable 4 to 6 person tent measuring 118 by 87 by 79 inches with 3-layer air tubes, a skylight and a stove jack. It is rated 3000 mm with UPF 50+ on 210D Oxford and has 2 doors and 7 mesh windows.\n\nNothing else in this group is inflatable or has a stove jack, and the floor is the largest by a wide margin. Where the other four are backpacking-sized, it targets families who camp from a vehicle.\n\nIt suits families who want a roomy 4-season tent that inflates in about five minutes and adds heat with a stove. The seven mesh windows keep summer use comfortable too.",
     "specs": [
       "118 x 87 x 79 in interior",

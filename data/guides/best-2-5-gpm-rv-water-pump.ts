@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41up0RNCKPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GH6B59JS?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN RV Water Pump 3.5 GPM is a 12V pump rated 3.5 GPM at 45 PSI, sold to replace the 2088-554-144. It uses a three-chamber diaphragm with an automatic pressure switch and is described as self-priming, so it starts itself whenever a tap opens in a van, teardrop or small trailer. The listing reads as a clear small-rig option.\n\nIt carries the lowest flow among the full-size RV pumps here, so it sits nearest to a 2.5 GPM target while leaving a gallon of headroom. The 5.0 GPM WASSERMANN above it in the list adds flow and pressure for a modest price step, and the 1.2 GPM G Ganen pump runs well under it. That headroom absorbs the gap between a spec on paper and real flow at the tap.\n\nA strong pick for owners of a small trailer or teardrop who want a 2088-series match and a gentle 45 PSI shut-off. It moves a gallon in about 17 seconds at open flow, which fills a kettle or rinses a plate quickly while staying modest on battery current, the right balance for a rig with one small tank. It is the practical default for a small rig. That suits a typical weekend camper.",
     "specs": [
       "3.5 GPM at 45 PSI on 12V DC",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PHHA9AoRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF9VYCK8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF9VYCK8?tag=rvgearlab-amz-20",
     "description": "The WASSERMANN RV Water Pump 5.0 GPM is a 12V pump listed at 5.0 GPM and 55 PSI as a replacement for the 4008-101-A65. The box adds two 1/2 inch barb adaptors, a male-thread adaptor and a strainer, so a small rig that has outgrown its original pump gets the parts for a clean swap. The kit makes the first install smoother.\n\nIt carries well beyond a 2.5 GPM target, which makes it the headroom pick for a rig with a second tap or a rain-style head. Against the WASSERMANN 3.5 GPM it adds flow and pressure for a modest price step, and against the VEVOR 5 GPM it swaps the adjustable range for a fixed, familiar 55 PSI and a ready-to-plumb kit. That makes it a clean step for anyone upgrading.\n\nA good fit for owners whose small rig has grown beyond a single tap, such as a camper van that gained an outdoor shower. The included strainer and adaptors save a hardware store trip, and the 4008-101-A65 match makes it the easiest large-flow swap in this comparison for anyone starting from an A65 pump. That includes buyers who simply want a kit.",
     "specs": [
       "5.0 GPM at 55 PSI on 12V DC",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41el3npeVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DK8RRBKH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DK8RRBKH?tag=rvgearlab-amz-20",
     "description": "The VEVOR 5 GPM is a five-chamber 12V pump delivering 5.0 GPM at a steady 70 PSI, with a switch range reaching from 40 through 100 PSI. A pure copper motor, overheat and overload protection and CE and ROHS certification marks are all named on the listing. It reads as a pump written for tinkerers.\n\nIts adjustable range is the widest on this list, which lets a high-flow pump be dialed down closer to the needs of a small rig. It comes in under the WASSERMANN 5.0 on price and offers more switch range than the DC HOUSE 5.5, whose adjustment stops at 70 PSI. The five chambers also give a smoother stream than a three-chamber unit. Both offer a built-in switch and a copper motor.\n\nA fit for owners who like to tune pressure with a screwdriver and want a five-chamber pump at a friendly price. A van builder with custom plumbing can set the switch low enough for thin lines and raise it later if a spray nozzle needs more, which makes this the most flexible 5 GPM choice here.",
     "specs": [
       "5.0 GPM, 12V, five-chamber diaphragm",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Qg2eqPmuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWL3MV9S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWL3MV9S?tag=rvgearlab-amz-20",
     "description": "The DC HOUSE RV Fresh 5.5 GPM pump is a 12V on-demand booster rated 5.5 GPM and 70 PSI with a 9.8 foot self-priming height and a 131 foot vertical lift. Its built-in pressure switch adjusts from 40 to 70 PSI, and thermal and dry-run protection are listed on the page. That mix of lift and switch range is unusual.\n\nIt lists the strongest self-priming figures of the group and a stated adjustable range, which gives a way to lower the 70 PSI default. It sits above the VEVOR 5 GPM in flow and below it in switch range, trading the VEVOR's 100 PSI ceiling for a lift number that suits low tanks. A strainer and fittings arrive in the box.\n\nA fit for rigs where the tank sits well below the pump, such as a van with a floor-level fresh tank or a teardrop with a bench-mounted pump. The 9.8 foot figure gives real margin for priming from that position, and the included strainer and fittings let the whole installation come together from one box. Overall it suits a builder who values reach.",
     "specs": [
       "5.5 GPM at 70 PSI, 12V on-demand pump",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418kv6hb7wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087BZLJJ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087BZLJJ2?tag=rvgearlab-amz-20",
     "description": "The G Ganen is a 12V diaphragm pump rated 4.5 L/min, about 1.2 GPM, with a built-in pressure switch and self-priming. Its listing says it draws low current, can mount above a tank and can run dry, a combination that suits the small batteries found in vans and tiny campers. That makes it a natural fit for modest rigs.\n\nIt is the lone pump here under a 2.5 GPM target, aimed at a van or tiny camper with a single tap. It costs far less than the full-size pumps, and at 1.2 GPM it takes about 50 seconds to move a gallon, which is plenty for a sink, a rinse and a dish bowl. Two hose clamps in the box start the install. The saving is real.\n\nA good fit for single-tap setups in a van or tent trailer. Its low current draw is friendly to small solar and battery systems, and its price lets a builder test a plumbing layout before spending on a bigger pump. Anyone who values battery life and a quiet-footed install over shower flow should start here.",
     "specs": [
       "1.2 GPM (4.5 L/min), 12V diaphragm pump",

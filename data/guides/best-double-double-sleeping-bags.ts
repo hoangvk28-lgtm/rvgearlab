@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UBS1hLyUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BRQPSK4Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BRQPSK4Z?tag=rvgearlab-amz-20",
     "description": "The Kelty Tru.Comfort Doublewide is a 20F double with Cloud Loft synthetic insulation, independent ventilation for each sleeper, a removable top layer, two built-in blankets and foot vents. It offers 64 inches of shared shoulder space and 84 inches of length.\n\nIt is the only double here with independent ventilation for each sleeper. It costs the most of the six, well above the Naturehike.\n\nIt suits frequent camping couples and families with a child. The oversized hood fits two heads.",
     "specs": [
       "20F synthetic double",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A10DO5fJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B072V7RBC2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B072V7RBC2?tag=rvgearlab-amz-20",
     "description": "The TETON Canvas Mammoth is a 20 degree double measuring 94 by 62 inches, larger than a queen mattress, with a poly-flannel lining and zipper and shoulder draft tubes. It unzips on each side and includes a stuff sack.\n\nIt is longer than the Kelty and wider in the shoulders than the Amazon Basics. It prints no comfort figure.\n\nIt suits families and couples who want the most room and draft tubes. Fluff it before bed.",
     "specs": [
       "20F double, 94 x 62 in",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419vmBl5dgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTQJSG18?tag=rvgearlab-amz-20",
     "description": "The Naturehike double unfolds to 87 by 63 inches and works in three modes: a double cover with a wrap-around zipper, an inner single cover with buttons for summer, and a full-winter setting. It includes two pillows and a backpack-style carry design.\n\nIt is the only double with a summer inner cover, so the same bag stretches across seasons. It costs less than the Kelty and more than the flannel budget bags.\n\nIt suits couples who camp across seasons and want one bag. The pillows add comfort.",
     "specs": [
       "87 x 63 inch, three modes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41tm-bVTTvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1YDWWFP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1YDWWFP?tag=rvgearlab-amz-20",
     "description": "The SWTMERRY is a rectangular queen XL double stated for a comfort of 5 to 25 degrees C with an extreme of 0 degrees C, fitting two people up to 7 ft. It includes two pillows, a 3D hood with drawstrings and a compression sack with a handle.\n\nIt prints the clearest range of the budget doubles and splits into two single bags. It costs far less than the Kelty.\n\nIt suits tall couples on a budget. The comfort range in Fahrenheit is about 41 to 77.",
     "specs": [
       "Comfort 5 to 25C, extreme 0C",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m4pkcR39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFZ2ZS1B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFZ2ZS1B?tag=rvgearlab-amz-20",
     "description": "The ShinHye double measures 92 by 62 inches, compresses to 17 by 13 inches and uses hollow cotton fill with a poly-flannel lining and 210T polyester shell. Its bottom has a small Velcro tail to block wind, and two pillows are included.\n\nIt is larger than the Amazon Basics and cheaper than the SWTMERRY. It prints no comfort rating.\n\nIt suits couples who want a roomy flannel double that opens flat into a blanket. The wind-blocking bottom tail is unusual.",
     "specs": [
       "92 x 62 inch, hollow cotton",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yeRB9j-XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKKW1CV6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKKW1CV6?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics double is rated for 40 degrees F with hollow fiber insulation, a polyester shell, a brushed tricot liner and a stuff sack. It measures 87 by 59 inches, fits sleepers up to 6 ft 3 in and splits into two singles.\n\nPriced under every other double, it still prints a rating. It is smaller than the ShinHye and TETON.\n\nIt suits couples who want a splittable budget double. Taller sleepers will want something larger.",
     "specs": [
       "40F double, 87 x 59 in",

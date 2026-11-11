@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oxxXzHvsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HPHR30U?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 20 ft kit includes two 10 foot hoses with pre-attached swivel fittings, a clear elbow with a 4-in-1 adapter and four storage caps. The hose is 23 mil polyolefin reinforced with steel wire, and each 10 foot section compresses to about 39 inches.\n\nAgainst the DUMPMAN 20ft, it costs more but gives steel wire reinforcement and a shorter packed length. Against the Camco Deluxe 10ft extension, it is a full starter kit rather than an add-on.\n\nBest for owners who want one complete kit from a long-established brand. The 20 feet is two sections joined, so check that two 10 foot lengths reach your dump.",
     "specs": [
       "20 ft kit, two 10 ft hoses",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VhDN69JqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46F149Y?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 20 ft kit has two 10 foot hoses with rotating fittings, a clear removable elbow with a 4-in-1 adapter and four end caps. It uses TPE with a 24 mil vinyl layer for puncture and abrasion resistance, and each 10 foot hose collapses to about 45 inches.\n\nCompared with the Camco RhinoFLEX 20ft, it costs less but packs longer and does not mention wire reinforcement. Compared with the DUMPMAN 15ft, it adds 5 feet and two more caps.\n\nBest for budget buyers who want the same kit contents as the leading brand. Confirm the seal and bayonet fit on your outlet.",
     "specs": [
       "20 ft kit, two 10 ft hoses",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y+l3BX3HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D46DTNF8?tag=rvgearlab-amz-20",
     "description": "The DUMPMAN 15 ft kit has one 15 foot hose, a clear removable elbow with a 4-in-1 adapter and two end caps. It uses the same TPE and 24 mil vinyl construction and collapses to about 67 inches.\n\nVersus the DUMPMAN 20ft, it is shorter, cheaper and a single piece, which means fewer joints. Versus the Camco RhinoFLEX 20ft, it gives less reach and lacks wire reinforcement.\n\nBest for sites where the dump sits within about 12 feet and you prefer one hose without a joint. A 15 foot hose is awkward to store, so measure your bay.",
     "specs": [
       "15 ft single hose kit",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+Hv64M39L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FGZPGKV?tag=rvgearlab-amz-20",
     "description": "The Camco Deluxe 10 ft extension is made of 18 mil HTS vinyl with pre-attached REVO swivel fittings and included caps. It needs no tools or clamps and stores in a 4 inch square bumper.\n\nAgainst the Camco RhinoFLEX 5ft, it adds 5 more feet but the hose is thinner at 18 mil. Against the Valterra 5ft, it gives double the length with a lower mil rating.\n\nBest as a 10 foot add-on to an existing hose. An 18 mil wall is thinner than the 23 mil hoses here, so check for wear often.",
     "specs": [
       "10 ft extension",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KK+55UdqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002OUMVSS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002OUMVSS?tag=rvgearlab-amz-20",
     "description": "The Camco RhinoFLEX 5 ft extension is 23 mil polyolefin with steel wire reinforcement, a swivel bayonet fitting and a swivel lug fitting. It works with any sewer hose that has a bayonet fitting and compresses to about 24 inches.\n\nCompared with the Valterra Dominator 5ft, it costs a little less and packs larger, but states bayonet and lug ends. Compared with the Camco Deluxe 10ft, it is shorter but thicker walled.\n\nBest for adding a few feet to a Camco-style hose. Verify your existing hose uses a bayonet fitting.",
     "specs": [
       "5 ft extension",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ww+2Rop9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B002UC4WOG?tag=rvgearlab-amz-20",
     "description": "The Valterra Dominator 5 ft extension is 23 mil poly with UV protection that stays flexible down to -20°F and is rated to 150°F. It holds its position for drainage and collapses from 5 feet to 12.5 inches.\n\nVersus the Camco RhinoFLEX 5ft, it is the more compact and names a temperature range, but costs more. Versus the Camco Deluxe 10ft, it gives half the length with a thicker wall.\n\nBest for cold-weather campers who want a stated temperature range in a small package. Check the fitting style against your hose.",
     "specs": [
       "5 ft extension",

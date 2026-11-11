@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xUREHEfqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM5WW54Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM5WW54Q?tag=rvgearlab-amz-20",
     "description": "The KENUOS 4 Gallon Water Heater has a 1500W upgraded L-shaped 316 stainless steel heating tube and an enamel-coated glass-lined tank. The listing says it passed UL, CE and DOE certification and includes a 3-way diverter valve.\n\nIt is the only pick that names UL, CE and DOE approvals, and the 3-way diverter splits flow for two outlets. It costs less than the YONOOQ and Baococo.\n\nBest for buyers who care about named certifications and want two outlets. It also suits conversion builds.",
     "specs": [
       "1500W 316 stainless element",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pvzLnAm4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5K7B9FH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5K7B9FH?tag=rvgearlab-amz-20",
     "description": "The YONOOQ 4 Gallon Electric Water Heater uses a thickened 304 stainless steel inner tank and a 1500W 110V element. It heats in 5 to 10 minutes per the listing and includes anti-leak, overheat and dry-burn protection.\n\nIt adds a pressure relief valve, a digital control and a 31.5 inch power cord with standard 1/2 inch NPT connections. A stainless tank is the main step up over the glass-lined options.\n\nA great choice for buyers who want a rust-resistant tank and a digital controller. It also suits under-sink installs.",
     "specs": [
       "304 stainless steel tank",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21c7mz+lXjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBZYC5J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBZYC5J?tag=rvgearlab-amz-20",
     "description": "The Baococo 4 Gallon Mini Tank has a 1500W heating tube and over 90 percent thermal efficiency, with temperature adjustable from 50 to 167 F. Its compact 19.69 by 9.84 by 10.24 inch body fits under most sinks.\n\nIt covers the widest temperature range here and lists overheating and other protections. It costs about the same as the YONOOQ.\n\nBest for tight cabinets and users who want a wide thermostat range. It also suits RV galleys.",
     "specs": [
       "1500W rapid heating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312eVVcb7LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQTM5S9V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQTM5S9V?tag=rvgearlab-amz-20",
     "description": "The Fisoceny 4 Gallon Tank Water Heater uses a 304 stainless steel tank body with seamless welding and an L-shaped heating tube. It lists 95 percent thermal efficiency and hot water in 5 to 10 minutes.\n\nIt includes a pressure release valve, an adapter water hose and fits a 1/2 inch FIP connection. It targets kitchen and RV use.\n\nA good fit for kitchen sinks and RV galleys that want a stainless tank and the included hose. It also suits first-time installs.",
     "specs": [
       "304 stainless steel tank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+LbckYcIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D1K8CWMS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D1K8CWMS?tag=rvgearlab-amz-20",
     "description": "The VEVOR Electric Mini-Tank Water Heater has a 4 gallon tank, a 1440W 310S stainless steel heater and a temperature pressure safety valve. The listing says it delivers hot water continuously for 24 hours.\n\nIt is simple, lightweight and low cost, and the TPR valve is a safety plus. It trades the digital extras of the YONOOQ for a lower price.\n\nBest for budget buyers who want a straightforward 4 gallon heater. It also suits space-tight installs.",
     "specs": [
       "1440W 310S stainless heater",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fspZiFHSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCH6SXHH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCH6SXHH?tag=rvgearlab-amz-20",
     "description": "The GEARPASS 4 Gallon Electric Mini Tank is a 120V 1500W heater with an LED panel for temperature control from 55 to 145 F. It can be mounted on a wall or placed on the floor.\n\nIt is the lowest-priced pick and the only one with a flexible wall or floor install in its listing. The LED panel makes the temperature easy to read.\n\nA smart choice for budget buyers who want an LED display. It also suits shed or workshop use.",
     "specs": [
       "1500W with LED panel",

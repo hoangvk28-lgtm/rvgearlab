@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q+3J3lV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR3T9QGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR3T9QGT?tag=rvgearlab-amz-20",
     "description": "This BESTEK delivers 300W continuous and 700W peak as pure sine wave, with an 11 to 17V input range and a 40 amp fuse. Its Type-C port is listed at 38W with PD 20W and QC 18W options.\n\nCompared with the older BESTEK model it swaps two plain USB ports for a faster Type-C. Against the BMK it keeps a pure sine claim and a named fuse that the BMK listing does not state.\n\nIt fits drivers who charge a laptop and phone together and want cleaner power. The 11 to 17V range also covers newer electric vehicles.",
     "specs": [
       "300W pure sine, 700W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412rMoe7qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KQ4Q2L5?tag=rvgearlab-amz-20",
     "description": "This BESTEK model offers 300W continuous and 700W peak pure sine wave output through two AC sockets and two smart USB ports at 2.4A each. A 40 amp fuse and an 11 to 17V input range are both named.\n\nIt trails the PD version on fast charging because its ports are plain USB, yet it keeps two AC sockets for a laptop and a camera charger at once. Against the cheaper PiSFAU and ALLWEI it adds a pure sine claim.\n\nIt suits campers who want two wall-style plugs and have no need for fast USB-C. An 18-month warranty is listed.",
     "specs": [
       "300W pure sine, 2 AC outlets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RrPlb0myL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKSSZJ12?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKSSZJ12?tag=rvgearlab-amz-20",
     "description": "The BMK has two 36W USB-C PD ports and two USB-A QC 3.0 ports alongside two AC outlets with independent switches. An LCD tracks input and output voltage.\n\nIt beats every other pick here on fast-charging ports and is the only one with a voltage readout. Compared with the BESTEK pair it gives up the pure sine claim for a stackable, shockproof ABS PC case.\n\nIt suits drivers who charge a MacBook, an iPad and two phones from one unit. Switches on each AC outlet reduce idle battery drain.",
     "specs": [
       "Two 36W USB-C PD ports",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MchErnX8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PP1RLB2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PP1RLB2?tag=rvgearlab-amz-20",
     "description": "The ALLWEI uses an aluminum alloy housing with two AC outlets, a 27W USB-C PD port and an 18W USB-A QC port. A 33 inch cord and a fastening tape strip help keep it in place.\n\nIt undercuts the BESTEK pair on price and keeps a metal shell, while the PiSFAU in this list is plastic. Against the BMK it has fewer fast ports.\n\nIt suits budget buyers who want a rugged-feeling unit. The cooling fan adjusts its speed with ambient temperature.",
     "specs": [
       "Aluminum alloy housing",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-KedJShYL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8J7XHM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8J7XHM2?tag=rvgearlab-amz-20",
     "description": "The PiSFAU gives six ports in a shell that measures 2.7 by 1.4 by 5.3 inches and weighs about 10 oz. Two USB-C ports at 24W sit beside USB-A ports and the AC outlets.\n\nIt is a compact 10 oz unit that adds more USB-C power than the ALLWEI's single port. Against the BMK it drops the display and per-outlet switches.\n\nIt fits travelers with limited console space who still want six ports. A fully insulated ABS shell is part of the design.",
     "specs": [
       "6 ports incl. two 24W USB-C",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418rRpOAbFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1Q81BJ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1Q81BJ3?tag=rvgearlab-amz-20",
     "description": "The FT feiteeng provides two US-standard outlets with a Type-C and a USB port and a list of six protections. Its listing describes 300W with peak surge during load startup.\n\nIt is the cheapest pick here, below the ALLWEI and PiSFAU, with fewer ports than both. It leaves out the pure sine wave and metal shell found higher up.\n\nIt suits occasional road-trippers who plug in a laptop charger and a phone now and then. Low voltage, overload and short circuit protections are all named.",
     "specs": [
       "Two AC outlets",

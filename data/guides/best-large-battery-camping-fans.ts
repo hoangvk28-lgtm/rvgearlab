@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ljz4JbY3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQWBPTTP?tag=rvgearlab-amz-20",
     "description": "The Warmco D4 lists a 20,000mAh battery with 48 hours on low and 15 hours on high, and a slim 1.77 inch body at 1.72 lbs. It stays under 45 dB on its lowest speed with a brushless motor, and adds an LED lantern, a hanging hook, a foldable stand and an LED display for battery and speed.\n\nIt gives clearer runtime numbers than the FRIZCOL and a lighter, slimmer build than the iLiving-style fans. Its 5V 2.4A output allows emergency phone charging.\n\nIt suits campers who want a pack-friendly fan that doubles as a lantern. The detachable cover helps with cleaning.",
     "specs": [
       "20,000mAh, 48H low, 15H high",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51fuC7He8AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBFW1ZK?tag=rvgearlab-amz-20",
     "description": "The FRIZCOL lists a 24,000mAh battery for 11 to 60 hours, 4 speeds, a 3950 rpm motor and noise under 30 dB. It adds 3 timers, 2 LED light levels, vertical adjustment and an ABS body with non-slip pads.\n\nIt has the biggest listed pack here and the lowest noise figure, at under 30 dB. It costs less than the Warmco and carries a larger battery.\n\nIt suits campers who want the most capacity at a modest price. Timers keep the fan from running all night.",
     "specs": [
       "24,000mAh, 11 to 60 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-syCJQf7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DY77JFJN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DY77JFJN?tag=rvgearlab-amz-20",
     "description": "The KopBeau lists a 20,000mAh pack that charges in about 8 to 9 hours and can run for 60 hours or more on low. It has an airflow of 2600 RPM, a carry handle, a hanging hook and a cotton pad for essential oil in the front cover.\n\nIt is the cheapest fan here, at roughly half the Warmco. It gives up the lantern and display, in exchange for the lowest price and a fragrance option.\n\nIt suits budget campers and beach-goers who want a big pack and a simple fan. The handle makes it easy to carry.",
     "specs": [
       "20,000mAh, up to 60 hours",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F1gxdijDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXVDDMP6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXVDDMP6?tag=rvgearlab-amz-20",
     "description": "The HZTzone lists a 20,000mAh battery with up to 20 hours of airflow, a hand crank, a Type-C input and a USB output. It adds an FM radio from 87.5 to 108MHz, a Bluetooth speaker, white and RGB lighting, 7 blades with a brushless motor and a twist-off grille.\n\nIt has the shortest listed runtime here, 20 hours, and the most extras. It adds the hand crank that no other pick has.\n\nIt suits campers who want a radio, music and ambient light with the fan. The hand crank offers a backup charge.",
     "specs": [
       "20,000mAh, 20 hours, hand crank",

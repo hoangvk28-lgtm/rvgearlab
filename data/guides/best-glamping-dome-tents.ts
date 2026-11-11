@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514cp3JFUdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPX2WGGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPX2WGGX?tag=rvgearlab-amz-20",
     "description": "The VEVOR Pop-Up Bubble Tent in the 11 x 10.2 ft size uses clear TPU panels, 300D Oxford fabric and a steel-wire and fiberglass frame for a 540 degree view. It deploys quickly, and two roll-up windows let you manage airflow.\n\nAgainst the 10 x 9.2 ft VEVOR it adds a wider floor, and it costs far less than the VEVOR Garden Dome with its rigid frame. The listing names luminous ground stakes, wind ropes and a carry bag in the package.\n\nIt suits couples or small groups who want a clear glamping room on a patio, lawn or campsite with minimal fuss. Choose it for stargazing evenings and daytime lounging.",
     "specs": [
       "11 x 10.2 ft, 540 degree view",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51upjxGOFDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNY271X8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNY271X8?tag=rvgearlab-amz-20",
     "description": "The VEVOR Garden Dome is a 9.5 ft wide, 5.7 ft tall geodesic dome made of thick, high-transparency PVC and rated for 2 to 4 adults. Its rustproof PC poles and upgraded PBT connectors support a rigid frame, and the listing quotes use between -15 and 40 degrees Celsius.\n\nIt is the most structured dome here, where the pop-up VEVOR models are quicker and less rigid. It adds heat-sealed seams, dual-layer zippered edges and specially treated triangle windows, and winds up to 31 mph are quoted.\n\nIt fits buyers who plan a longer stay on a patio or at a base camp and want a semi-permanent clear room. Furniture, string lights and a small table all fit under the dome.",
     "specs": [
       "9.5 ft wide, 5.7 ft tall",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZqaK539ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCH8VK23?tag=rvgearlab-amz-20",
     "description": "The Vidalido is a 12 x 10 x 8 ft dome with a conical profile for 5 to 6 people. It uses 190T patterned polyester, 150D Oxford and reinforced steel poles, and the listing says you can stand inside it.\n\nIt trades the clear panoramic view of the VEVOR domes for a normal opaque shell with mesh doors and windows. It costs about the same as the VEVOR Pop-Up Bubble Tent while housing a full family.\n\nChoose it when glamping means room for a family and cots instead of a patio bubble. Its 8 ft peak gives it the most standing room of the four.",
     "specs": [
       "12 x 10 x 8 ft tipi dome",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51nxq5nta8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSC814YG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSC814YG?tag=rvgearlab-amz-20",
     "description": "The VEVOR Pop-Up Bubble Tent in the 10 x 9.2 ft size has the same clear TPU panels, 300D Oxford fabric and dual roll-up windows as its larger sibling. It folds down into a carry bag and includes luminous ground stakes.\n\nCompared with the 11 ft version it gives up a little floor area, and compared with the Garden Dome it has a lighter, quicker pop-up frame. It sits at the lowest price of the four.\n\nIt suits a couple who wants a small clear lounge for a campsite or a backyard, not a full family shelter. It is easiest to love as a small, sunny sitting room.",
     "specs": [
       "10 x 9.2 ft, clear TPU",

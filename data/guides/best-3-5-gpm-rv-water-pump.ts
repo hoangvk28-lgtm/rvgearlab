@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411Cnb-1wGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00C1M6B1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00C1M6B1C?tag=rvgearlab-amz-20",
     "description": "The Precitrade 2088-554-144 is a 12V, 3.5 GPM, 45 PSI pump with a positive displacement three-chamber diaphragm and a one-way check valve. Its permanent magnet motor is thermally protected.\n\nIt is the only pick that matches the 3.5 GPM size exactly, and it is the OEM-style part number that many 2088 series pumps use. It costs more than the generic 4 to 5 GPM models.\n\nA natural choice for owners who need a straight swap for a 2088 pump. The check valve helps stop backflow.",
     "specs": [
       "3.5 GPM at 45 PSI",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HYgAEBZrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GL1JLPPC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GL1JLPPC?tag=rvgearlab-amz-20",
     "description": "The FCNP is a 12V pump at 4.0 GPM and 55 PSI with an adjustable pressure switch, a strainer and universal 1/2 inch quick-connect fittings. It can install vertically or horizontally, and a one-piece diaphragm design is said to cut noise by 40 percent.\n\nIt lists the flexibility the Precitrade lacks, with orientation freedom and quick connects at a lower price. The dry-run and thermal overload protection are named.\n\nA good fit for owners with an awkward pump bay. The quick-connect fittings make the swap quick.",
     "specs": [
       "4.0 GPM at 55 PSI",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413d0gvUxZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGGJ53TC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGGJ53TC?tag=rvgearlab-amz-20",
     "description": "The Gidrox 5.0 is a 12V pump rated 5.0 GPM at a preset 55 PSI, and trims anywhere from 30 up to 80 PSI. It lists a 40 dB noise level, a 10 foot self-prime, 125 foot head and 158 degree F overheating protection.\n\nIt brings the widest pressure adjustment and a stated noise level of the group, at a mid price. The extra 1.5 GPM over the Precitrade gives headroom for a second fixture.\n\nA fit for owners who want a quiet pump that can be tuned. The damping base keeps vibration off thin panels.",
     "specs": [
       "5.0 GPM, 55 PSI preset",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Nvr7TOM7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H1CFBQH3?tag=rvgearlab-amz-20",
     "description": "The Bokkee 5.0 is a 12V pump rated 5 GPM at 45 PSI with a smart pressure switch that starts at 15 PSI and shuts off at 45 PSI. It lists a pure copper motor, NSK ball bearings, stainless steel seal ring and a 10 foot self-prime.\n\nIt keeps the Precitrade's 45 PSI shut-off while adding half again more flow, which is a rare mix. NSK bearings and the copper motor are the quality points.\n\nA good fit for owners who want the gentler 45 PSI setting with high flow. It suits showers and a toilet at once.",
     "specs": [
       "5 GPM at 45 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bS9VaS2HL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09879SQZ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09879SQZ7?tag=rvgearlab-amz-20",
     "description": "The Kohree 5.5 is a 12V, 5.5 GPM pump with a 55 PSI switch and self-priming to 3 meters. Run-dry and thermal overload protection, and a leak-tested build, are listed.\n\nIt is the cheapest way to get high flow here, undercutting the Gidrox and the Bokkee. It lists less detail on noise than they do.\n\nA good fit for owners who want maximum flow at a budget price. The self-priming reach is generous.",
     "specs": [
       "5.5 GPM at 55 PSI",

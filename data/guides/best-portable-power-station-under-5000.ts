@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
     amazonQuery: "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41kxtROuwFL._SL500_.jpg",
     specs: ["Capacity: 5,120Wh","Continuous output: 1,800W","Listed weight: 112 lb","Runtime claim: Up to 2.2 hours"],
     specList: [{"label":"Capacity","value":"5,120Wh"},{"label":"Continuous output","value":"1,800W"},{"label":"Listed weight","value":"112 lb"},{"label":"Runtime claim","value":"Up to 2.2 hours"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "STARYLINE 1000W Portable Power Station 1024Wh LiFePO4",
     amazonQuery: "STARYLINE 1000W Portable Power Station 1024Wh LiFePO4",
-    amazonUrl: "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0GVJ6DVL9?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41gOB71FB5L._SL500_.jpg",
     specs: ["Capacity: 1,024Wh","Continuous output: 1,000W","Runtime claim: Up to 8 hours","Battery chemistry: LiFePO4"],
     specList: [{"label":"Capacity","value":"1,024Wh"},{"label":"Continuous output","value":"1,000W"},{"label":"Runtime claim","value":"Up to 8 hours"},{"label":"Battery chemistry","value":"LiFePO4"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "Jackery Explorer 300 Portable Power Station,292Wh",
     amazonQuery: "Jackery Explorer 300 Portable Power Station,292Wh",
-    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B082TMBYR6?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41-Ey75o-WL._SL500_.jpg",
     specs: ["Capacity: 292Wh","Continuous output: 300W","Surge output: 600W","Listed weight: 7.5 lb"],
     specList: [{"label":"Capacity","value":"292Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"600W"},{"label":"Listed weight","value":"7.5 lb"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
     amazonQuery: "Jackery Explorer 5000 Plus Power Station, 5040Wh, 7200W AC Output",
-    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DFGLG35L?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41f6WDjPR0L._SL500_.jpg",
     specs: ["Capacity: 5,040Wh","Continuous output: 14,400W","Runtime claim: Up to 2 hours","Buyer check: Verify current model compatibility"],
     specList: [{"label":"Capacity","value":"5,040Wh"},{"label":"Continuous output","value":"14,400W"},{"label":"Runtime claim","value":"Up to 2 hours"},{"label":"Buyer check","value":"Verify current model compatibility"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "Portable Power Station 300W MARBERO 237Wh Camping Solar Generator Backup Lithium Battery",
     amazonQuery: "Portable Power Station 300W MARBERO 237Wh Camping Solar Generator Backup Lithium Battery",
-    amazonUrl: "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0CJHNCZ8T?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41ZtLxeqjXL._SL500_.jpg",
     specs: ["Capacity: 237Wh","Continuous output: 300W","Surge output: 375W","Listed weight: 4.6 lb"],
     specList: [{"label":"Capacity","value":"237Wh"},{"label":"Continuous output","value":"300W"},{"label":"Surge output","value":"375W"},{"label":"Listed weight","value":"4.6 lb"}],
@@ -171,7 +171,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "P5000 Plus 5120Wh Portable Power Station, 3600W Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0GTCZLRWY?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

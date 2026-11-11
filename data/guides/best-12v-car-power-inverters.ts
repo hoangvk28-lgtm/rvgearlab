@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XMXUHbkEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B469YQ6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B469YQ6J?tag=rvgearlab-amz-20",
     "description": "The TOPBULL delivers 3000W continuous and 6000W peak from a 12V battery connection. The listing names a modified sine wave output, an oversized color LED screen, an aviation aluminum alloy housing and protections including over current, overload, over voltage, under voltage, high temperature, short circuit and reverse polarity.\n\nIt carries ten times the continuous output of the BESTEK 300W and is the only pick connected by cable to a battery rather than a socket. That connection is what lets it support larger loads that an accessory socket cannot.\n\nIt suits vehicles with a proper battery bank or an upgraded electrical system for tools and appliances. The listing adds a lifetime consultation service and product liability insurance.",
     "specs": [
       "3000W continuous, 6000W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MNF0L0feL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDGXT5H?tag=rvgearlab-amz-20",
     "description": "The Pro Chaser gives 400W continuous with 800W peak through two 110V AC sockets, two 3.1A USB ports and 4.8A dual USB charging. It comes with a 30 inch cord, a fan that starts at 113 degrees F and an overload, voltage and overheating protection set.\n\nIt is the more powerful of the two plug-ins, with 100W more continuous output than the BESTEK 300W. Compared with the TOPBULL it needs no wiring and fits a cup holder.\n\nIt suits drivers who charge a laptop or camera gear from the vehicle. The listing recommends a cool, dry environment and calls out handling cautions.",
     "specs": [
       "400W continuous, 800W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEeE+OZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-amz-20",
     "description": "The BESTEK provides 300W continuous with two 110V AC outlets and two 4.8A USB ports, a built-in 40 amp fuse and an aluminum housing. Input runs from 11 to 17V, and the cord that plugs into the socket is 32 inches long.\n\nIt costs the least of the three and has a named fuse, which the Pro Chaser listing does not. Against the TOPBULL it is a fraction of the power, which is what a 12V socket can usually supply.\n\nIt suits drivers who want a dependable device charger with a longer cord. Its input range also covers vehicles with higher charging voltages.",
     "specs": [
       "300W continuous, 40A fuse",

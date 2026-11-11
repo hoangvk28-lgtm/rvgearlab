@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MJucwTUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4TK364?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4TK364?tag=rvgearlab-amz-20",
     "description": "The HOBIBEAR Seam-Sealed is a women's mid-calf snow boot with a seam-sealed waterproof membrane bootie, a faux fur collar and a moisture-wicking fleece lining. Leather reinforcement on the toe and heel and an adjustable lacing system finish the build.\n\nIt costs about $50, the priciest of the five, yet no other pair here names a seam-sealed membrane, which keeps meltwater from seeping through stitching. That sealed construction is what the lower-priced WYGRQBN Buckle and DREAM PAIRS Thinsulate skip.\n\nIt suits women who work or camp in wet snow and want dry feet for hours. The leather toe and heel guards resist scuffs.",
     "specs": [
       "Seam-sealed membrane bootie",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NXVNSJ5wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08BFHK551?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08BFHK551?tag=rvgearlab-amz-20",
     "description": "The mysoft Thermolite is a women's mid-calf snow boot with Thermolite insulation, a waterproof and windproof textile and PU upper and a plush fur lining. A cushioned footbed and traction outsole round it out.\n\nIt costs about $50, close to the HOBIBEAR Seam-Sealed, and Thermolite insulation is built to mimic the fibers of down in a lighter, quick-drying form. The windproof upper is a step up on the open fur collars of the others.\n\nIt suits women who go skiing, snowmobiling or walk windy lakeside trails. Pull-on style makes it quick to wear.",
     "specs": [
       "Thermolite insulation",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zt4nJCTrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKBC5V9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKBC5V9Q?tag=rvgearlab-amz-20",
     "description": "The DREAM PAIRS Thinsulate is a women's mid-calf snow boot with 3M Thinsulate insulation, a faux fur lining and a waterproof shell. A lace-up closure and grippy outsole keep it on firm footing.\n\nIt costs about $40, about $10 less than the HOBIBEAR Seam-Sealed, and it carries a branded insulation the WYGRQBN Buckle does not. Lacing gives a custom fit that the buckle strap on the WYGRQBN Buckle cannot match.\n\nIt suits women who want branded warmth at a lower price, and who order a size up for socks. It handles snow and slush on winter commutes.",
     "specs": [
       "3M Thinsulate, faux fur lining",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31sKkoPjpzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GBWWZSY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GBWWZSY?tag=rvgearlab-amz-20",
     "description": "The DREAM PAIRS High-Top is a women's snow boot with a 10.5 inch shaft, thick faux fur lining, a cushioned insole and a TPR outsole for grip. It comes in several colors.\n\nIt costs about $47, between the DREAM PAIRS Thinsulate and the HOBIBEAR Seam-Sealed, and its 10.5 inch shaft is the tallest here, which covers the calf and keeps deep snow out. It does not name an insulation or a waterproof membrane.\n\nIt suits women who walk through deep snow or want warm calves for sitting at a winter campsite. Wear it with leggings or jeans.",
     "specs": [
       "10.5 inch shaft",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w7HUYisrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HD7D68FP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HD7D68FP?tag=rvgearlab-amz-20",
     "description": "The WYGRQBN Buckle is a women's mid-calf snow boot with a plush faux fur cuff, a water-resistant fabric upper and a wave-pattern rubber outsole with a low wedge. An adjustable buckle strap tightens the shaft.\n\nIt costs about $40, the same as the DREAM PAIRS Thinsulate, and it adds a wedge platform and a buckle that closes in one motion. It lacks a named insulation and a membrane, so its water resistance is lighter than the HOBIBEAR Seam-Sealed.\n\nIt suits women who want a stylish winter boot for walks and light snow at a low price. The wedge adds a little height.",
     "specs": [
       "Plush faux fur cuff",

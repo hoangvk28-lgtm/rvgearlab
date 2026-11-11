@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vtB9fIGQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFWHVQ3C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFWHVQ3C?tag=rvgearlab-amz-20",
     "description": "The VVBE offers a 14 by 11 foot footprint with a 7.2 foot peak, fitting 8 to 10 people with beach gear. It has 8 integrated sandbags, four thickened aluminum poles, four windproof ropes, UPF 50+ Lycra fabric blocking 98% of UVA and UVB, and an included sand shovel.\n\nIt is the biggest footprint in this list and the only one with eight integrated sandbags, and it undercuts both canopies on price. Compared with the Easthills, it offers a far larger floor.\n\nIt suits large groups who want maximum covered area at a moderate price. One person can set it up without tools.",
     "specs": [
       "14 x 11 ft, 7.2 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yCOPxL-9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRV85H8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRV85H8W?tag=rvgearlab-amz-20",
     "description": "The BESTSET covers 10 by 10 feet and weighs 7.8 lb, with a small carrying bag. It uses UPF 50+ fabric with a 45D55S high-density weave, an adjustable strap length to reduce its footprint on a crowded beach, and adjustable sunshade angle control.\n\nIts price is below every other tent here, and the 7.8 lb weight is a listed figure the canopies do not give. Compared with the VVBE it covers less area while being simple to carry.\n\nIt suits groups who share a crowded beach and need a flexible footprint. Angle control lets you follow the sun without moving.",
     "specs": [
       "10 x 10 ft, 7.8 lb",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31zsaJW3YuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07MBG4LY8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07MBG4LY8?tag=rvgearlab-amz-20",
     "description": "The Easthills Instant Shader has an interior of 99 by 53 by 57 inches with a 53 inch front porch, and double silver coating that blocks 97.5% of UVA and UVB. It uses a patent-pending opening mechanism, large mesh windows and a front that zips for changing.\n\nThis is the smallest footprint here, built around a patent-pending opening mechanism instead of poles to thread. The listing says four adults can sit and lay down comfortably.\n\nIt suits families who want a bigger-than-average pop-up that still sets up quickly. The porch adds covered space.",
     "specs": [
       "99 x 53 x 57 in, 53 in porch",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vyu697h3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B087C9KNCC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B087C9KNCC?tag=rvgearlab-amz-20",
     "description": "The SUN NINJA is a 10 by 10 foot pop-up beach tent for up to eight people, with UPF 50+ fabric, stability poles and ground pegs, and a carry bag. It is positioned as a beach cabana for sand and also for picnics and backyard use.\n\nIt is priced close to the CROWN SHADES yet lists fewer frame and anchoring details. Against the BESTSET it adds a pop-up design at a much higher price.\n\nIt suits groups who want a mid-sized beach cabana with a straightforward UPF 50+ claim. Its easy-up design speeds setup.",
     "specs": [
       "10 x 10 ft, 8 person",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ayt9tEGmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09KLVB9X7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09KLVB9X7?tag=rvgearlab-amz-20",
     "description": "The CROWN SHADES is a 10 by 10 foot pop-up canopy with one side wall, a patented one-push CenterLOK hub and a Sto-N-Go system that stores the canopy fabric on the frame. It has 150D fabric with a silver interior for UPF 50+ and a corrosion-resistant steel truss frame.\n\nIt covers 100 sq ft and has over 9 feet of interior height, a taller interior than the other tents here. It is the priciest tent in the list, which pays for the steel truss, side wall and sandbag pocket.\n\nIt suits groups who want a canopy that stands taller and sets up in one push. A pocket keeps four sandbags, eight stakes and four guy lines together.",
     "specs": [
       "10 x 10 ft, 100 sq ft",

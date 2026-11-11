@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51S-zdH3uRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6Z6SB55?tag=rvgearlab-amz-20",
     "description": "The RVMATE 15FT lists a UL Listed heating cable at 7 watts per foot, so a 15 foot hose draws roughly 105 watts while heating. RVMATE lists this 15FT hose with -20°F antifreeze protection and a UL Listed heating cable running at 7 watts per foot.\n\nThat stated figure lets you size the inverter directly, which the REHOSEUP and Camco listings do not give. It also costs far less than either Camco hose.\n\nThe connectors are lead-free copper nickel plated parts instead of aluminum, joined with compression technology to reduce leaks. It suits owners who want a known, small load for an inverter.",
     "specs": [
       "15 ft, -20°F protection",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/519YdRB3nuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FL1ZVVK1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FL1ZVVK1?tag=rvgearlab-amz-20",
     "description": "A self-regulating external thermostat on the RVSNAIL 15ft shuts the heat off when it is not needed. Freeze protection is stated down to -45°F, the deepest rating among the short hoses.\n\nThat self-regulating design helps limit the energy drawn. The hose is also the lowest priced of the five.\n\nDouble washers, a 3/4 GHT thread and food-grade, lead and BPA free materials come standard. Budget buyers who want automatic control on a short run are the target.",
     "specs": [
       "15 ft, -45°F protection",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t1i9oXp4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ABONAWE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ABONAWE?tag=rvgearlab-amz-20",
     "description": "The Camco 12 ft hose has a 5/8 inch ID, NSF/ANSI 61 certified drinking water hose and a thermostat-controlled heating cable. Camco's 12 ft heated hose has a 5/8 inch ID, NSF/ANSI 61 certified drinking water hose and freeze protection down to -20°F.\n\nAt 12 feet it has the least cable of the five, so it should draw the least power. It carries a recognised RV brand name.\n\nThe thermostat-controlled heating cable is energy-saving. It suits owners who want a short certified hose and a small load.",
     "specs": [
       "12 ft, 5/8 inch ID",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51VV16gtr5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDF16ZFD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDF16ZFD?tag=rvgearlab-amz-20",
     "description": "The REHOSEUP 50FT is rated to -45°F with a smart self-regulating external thermostat and double washers. REHOSEUP's 50FT hose is rated to -45°F, with a smart self-regulating external thermostat and double washers at both ends.\n\nIt gives far more reach than the short picks and costs less than the 50 ft Camco. A longer cable means a bigger inverter load.\n\nIt keeps the same drinking water hose build as its shorter siblings. It suits owners who need 50 feet and have a strong inverter.",
     "specs": [
       "50 ft, -45°F protection",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Lt1rIMgVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01ABONAS8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01ABONAS8?tag=rvgearlab-amz-20",
     "description": "The Camco 50 ft hose has a 5/8 inch ID, NSF/ANSI 61 certified hose and a thermostat-controlled, energy-saving heating cable. Camco's 50 ft heated hose has a 5/8 inch ID, NSF/ANSI 61 certified drinking water hose and freeze protection down to -20°F.\n\nIt carries the certification the REHOSEUP does not mention, at the highest price here. It is rated to -20°F.\n\nAn energy-saving, thermostat-controlled heating cable runs only when needed. It suits owners who want a certified 50 ft hose and have a generous power supply.",
     "specs": [
       "50 ft, 5/8 inch ID",

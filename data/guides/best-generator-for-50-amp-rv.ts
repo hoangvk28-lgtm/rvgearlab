@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QozbxH6mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSDKNY3N?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 8000W dual fuel inverter generator costs $1,433.52 and lists 8,000W surge and 6,100W running on gas. It weighs 129 lbs, runs at 62 dBA from 23 feet and switches between gasoline and propane automatically. A low-temperature lithium starter battery works from -4F to 140F.\n\nAgainst the GENMAX 7250W it costs $133.53 more and adds about 100 running watts, plus propane auto-switching. It sits $463.47 below the AIVOLT 11250W. Pick this if you want a 50A rig with one air conditioner and moderate loads. The caveat is that the outlet type is only listed as 50A, so check for 14-50R or L14-50R.",
     "specs": [
       "6,100W running, 8,000W surge",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EH-da0UdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F87T361D?tag=rvgearlab-amz-20",
     "description": "The GENMAX 7250W digital dual fuel inverter generator is $1,299.99 and gives 7,250 starting and 6,000 running watts on gas, 6,000 and 5,500 on propane. Its panel shows hours, load, fuel level and amps used, and it has a 50A socket, CO detect shutdown and parallel capability.\n\nIt is the cheapest here, $133.53 below the AIVOLT 8000W, with about 100 fewer running watts. It also lists no noise figure or weight. Pick this if budget matters and you may add a second unit later. The caveat is that you should verify the 50A outlet type and the weight yourself.",
     "specs": [
       "6,000W running on gas",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51POF0PFgpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG1NXJ5X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG1NXJ5X?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 11250W dual fuel inverter generator is $1,896.99 with 11,250 starting and 9,000 running watts on gas, or 10,570 and 8,540 on propane. It lists a heavy-duty 50A outlet, 60 dBA at 23 feet, 19 hours on a 7.1 gallon tank and an 80 foot remote fob.\n\nIt costs $463.47 more than the AIVOLT 8000W and $596.98 more than the GENMAX 7250W. The extra headroom runs two air conditioners and a microwave together, and it supports home backup through an ATS. Pick this if you run two units or want house backup. The caveat is price, and the weight is not listed.",
     "specs": [
       "9,000W running, 11,250W starting",

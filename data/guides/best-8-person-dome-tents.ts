@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3117JdBW9NL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H397CWMN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H397CWMN?tag=rvgearlab-amz-20",
     "description": "The EchoSmile is an 8-person dome with 300D Oxford fabric, PU5000mm waterproofing and fully taped seams. The 180 cm ceiling, four sealed PVC windows and a screen porch give it more living space than a plain dome.\n\nIt lists a millimeter rating of 5000, the highest here, where the Coleman Skydomes list welded corners instead. Against the CAMPROS it adds a screen porch and a higher rain rating, at a much higher price.\n\nIt is the pick for large families who want rain protection and a bug-proof porch. The double-layer vents help airflow, and the listing says it comfortably fits 6 and accommodates 8.",
     "specs": [
       "8 person, 300D Oxford",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vL5iJg+EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QJL13S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QJL13S?tag=rvgearlab-amz-20",
     "description": "The Skydome 4/6/8 includes a 13 ft by 4 ft weatherproof screen room that can convert into a sleeping area for two or into storage or lounge space. The tub-like floor, welded corners and taped seams on the rainfly and body form the shell, and the interior fits two queen airbeds.\n\nAgainst the plain Skydomes it adds the porch room, while the EchoSmile lists a millimeter rating that this one does not. The frame is listed as tested to 35 mph winds.\n\nIt suits groups that want an attached room for sleeping, gear or sitting out of the sun. The poles come attached, so the pitch stays quick.",
     "specs": [
       "4/6/8 person size family",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cfPepWytL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL7VKD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL7VKD?tag=rvgearlab-amz-20",
     "description": "The Skydome 2/4/6/8 on this listing adds mesh storage pockets and a gear loft to the standard frame. Poles are attached to the body for a quick pitch, and the wider door makes it easier to move air beds and bags.\n\nIt costs more than the basic Skydome and adds the loft and pockets, while the screen-porch model costs more again. Where the CAMPROS lists a millimeter rating, this one lists a wind-tested frame.\n\nIt suits families who want shelves and pockets to keep the floor clear. The walls rise nearly straight up, adding headroom over older Coleman designs.",
     "specs": [
       "2/4/6/8 person size family",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31w3dnjC5pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QL1LHC?tag=rvgearlab-amz-20",
     "description": "This Skydome comes in 2, 4, 6 and 8 person sizes, and its attached poles shorten the pitch. Nearly vertical walls give extra headroom, and WeatherTec welded corners and inverted seams handle rain.\n\nIt is the plain version, without the loft, vestibule or screen room, and sits in the middle on price. Against the CAMPROS it adds wind testing, while the CAMPROS lists a millimeter rating.\n\nIt suits campers who want the Skydome frame with a wide door for loading. A strong frame is listed as tested up to 35 mph.",
     "specs": [
       "2/4/6/8 person size family",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41v2ULxqeDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP2RJQK7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP2RJQK7?tag=rvgearlab-amz-20",
     "description": "The CAMPROS CP 8-Person is a tall cabin-style dome whose center stands 76 inches high, with a 1000mm waterproof rating. It has fully taped seams, a full-coverage fly, a large mesh roof and an extra-wide D-shaped door, and pre-attached poles pitch in about 5 minutes.\n\nIt is the lowest priced of the five and the tallest center height listed. Against the Skydomes it lists a millimeter rating and a mesh roof for stargazing.\n\nIt suits budget campers who want standing room and a documented rain shell. The wide D door eases air bed loading.",
     "specs": [
       "8 person, 76 in center",

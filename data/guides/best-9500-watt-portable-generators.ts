@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/513h7YRvMpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CX7DQKBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CX7DQKBG?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP9500iH is a dual fuel inverter generator rated at 9,500 peak and 7,600 running watts, running on gasoline or propane. It has remote start, CO Alert auto shutdown and inverter power that the listing says suits televisions and computers.\n\nIt states the same 9,500 and 7,600 watt ratings as the XP9500iHT and costs less, since it skips natural gas. The listing positions it for emergency home power, job sites and RV camping.\n\nIt suits RV owners and households that want large-capacity inverter power with CO shutdown without paying for a third fuel. A remote start makes starting easy.",
     "specs": [
       "9,500 peak, 7,600 running watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ELA7wR3+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62VGTCP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62VGTCP?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP9500iHT is a tri-fuel inverter generator rated at 9,500 peak and 7,600 running watts on gasoline. It runs on gasoline, propane or natural gas, has remote electric start, a 50 amp outlet and a built-in CO Alert shutdown.\n\nIt adds natural gas and a 50A plug for transfer switch or interlock kit connection, which the dual fuel XP9500iH does not name. The listing says it gives low total harmonic distortion for sensitive electronics.\n\nIt suits households that want whole-home backup with a natural gas supply. A key fob start and CO shutdown add convenience and a safety layer.",
     "specs": [
       "9,500 peak, 7,600 running watts",

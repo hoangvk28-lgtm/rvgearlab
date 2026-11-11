@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DAAQFvafL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4W8F84N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4W8F84N?tag=rvgearlab-amz-20",
     "description": "The FOSSiBOT F1800 delivers 1800W continuous pure sine power with 3600W surge from 1024Wh of LiFePO4. It has dual 140W USB-C PD 3.1 ports, an 18W USB-A, a 12V/10A car outlet, a 68 minute full charge through 1200W AC input, 500W MPPT solar and a UPS switchover of about 10ms.\n\nIt states the highest USB-C wattage of the six, two 140W ports, and 4000-plus cycles with a 5-year warranty. Against the CTOLITY XP1000 it adds a stated surge and a faster solar input.\n\nIt suits campers who run laptops and a kitchen appliance from one box. The app and ECO mode round out the controls.",
     "specs": [
       "1800W, 3600W surge, 1024Wh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31QO9wVU+QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCBYMC9D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCBYMC9D?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 lists 1024Wh and 1800W, a full charge in 56 minutes through 500W solar and 1500W AC input, and expansion up to 5kWh with DELTA Pro 3 or DELTA 2 Max batteries. It powers 13 appliances at once, uses LiFePO4 rated 4000 cycles to 80 percent and X-Boost supports resistive appliances above the rating.\n\nIt is the only pick that states an expansion path to 5kWh inside a brand ecosystem. The listing includes a 5-year customer service promise.\n\nIt suits campers and homeowners who plan to add capacity later. Thirteen ports mean fewer adapters.",
     "specs": [
       "1800W, 1024Wh LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CfVZK5vaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GS9B9VYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GS9B9VYQ?tag=rvgearlab-amz-20",
     "description": "The EcoFlow DELTA 3 Classic delivers 1800W continuous and 3600W surge, with 0 to 80 percent in 45 minutes through X-Stream AC charging and a 500W solar recharge in about 2.5 hours. A UPS switch in under 10ms and LiFePO4 cells rated for 10-plus years are listed, and it ships with a bag.\n\nIt states 3600W surge and a quicker 80 percent time than the EcoFlow DELTA 3, and it costs less. It runs refrigerators, microwaves and laptops.\n\nIt suits campers who want the EcoFlow name with a carry bag and a lower price. The UPS handles PCs, servers and medical equipment according to the listing.",
     "specs": [
       "1800W, 3600W surge",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JhxkMNB3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHWFXYM5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHWFXYM5?tag=rvgearlab-amz-20",
     "description": "The BLUETTI Elite 100 V2 lists 1024Wh, 1800W AC output and 2700W Lifting Power with 11 ports. It is 35 percent smaller at 25 pounds and 17 liters with a concealed handle, and it charges to 80 percent in about 45 minutes through 1200W TurboBoost AC.\n\nIt is the lowest priced of the brand-name stations here and it ships with a solar charging cable. The listing says it protects a WiFi router and a PC during a power outage.\n\nIt suits home-office and camp users who want a compact one-hand carry. A grounding screw and manual come in the box.",
     "specs": [
       "1024Wh, 1800W, 2700W Lifting",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w6c1Xl83L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HC6K52WC?tag=rvgearlab-amz-20",
     "description": "The CTOLITY AP1000 lists 1800W output, 1024Wh of LiFePO4 and HyperFlash charging that reaches 80 percent in 45 minutes through AC. It supports AC, solar and car charging, switches to UPS in under 20ms and weighs under 25 pounds.\n\nIt states the same 45 minute 80 percent time as the BLUETTI Elite 100 V2 at a lower price. It has the compact body and the UPS listed.\n\nIt suits budget-minded campers who want fast turnaround. The listing positions it for outages and camping.",
     "specs": [
       "1800W, 1024Wh LiFePO4",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Z2808ErGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H36XG378?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H36XG378?tag=rvgearlab-amz-20",
     "description": "The CTOLITY XP1000 offers 1800W continuous output and 1024Wh of LiFePO4 rated for 4000-plus cycles, with 1000W AC fast charging that reaches 80 percent in 45 minutes and full in an hour. It has 10 output ports including a 100W USB-C PD and a 20ms UPS.\n\nNothing else in the six costs less, and it still states a 4000-cycle rating, which the AP1000 listing does not. The 100W USB-C PD port charges laptops quickly.\n\nIt suits first-time buyers who want the most output for the least money. Ten ports cover camp gear.",
     "specs": [
       "1800W, 1024Wh, 4000+ cycles",

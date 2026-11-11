@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Y+Ohuil6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H7X2ZQ5Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H7X2ZQ5Q?tag=rvgearlab-amz-20",
     "description": "The DREAM PAIRS Classic Duck Boot is lined with 3M Thinsulate insulation and has a seamless one-piece rubber shell that fends off snow, slush and puddles. A deep-lug TPR outsole, a stretchy knitted collar and a plush faux shearling cuff are listed.\n\nNamed Thinsulate insulation and a molded rubber shell give it more specific warmth and waterproof detail than the fabric-upper ziitop Fur Lined or SHIBEVER Fur Ankle. The deep lugs are a step above the polyurethane soles on the Ablanczoom Fur Boot and Aomigoct Plush.\n\nIt suits a woman who wants a classic duck-boot look that handles slush and snowy sidewalks. The quilted shaft and cuff keep cold air out at the ankle.",
     "specs": [
       "3M Thinsulate insulation",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lnww5zfiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TKRQB2N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TKRQB2N?tag=rvgearlab-amz-20",
     "description": "The ALEADER Winter Boot for men is waterproof and insulated, with a cushioned footbed, a seam-sealed waterproof outsole and an easy pull-on entry using both a drawstring and an ankle hook-and-loop strap. It is sold for outdoor winter activities and town wear.\n\nIt is the only men's boot of the six, and its dual closure gives more fit control than the pull-on SHIBEVER Fur Ankle and Aomigoct Plush. The cushioned footbed supports longer walks than the thin soles on the Ablanczoom Fur Boot.\n\nIt suits a man who wants a straightforward warm, waterproof boot for snow shoveling, commuting and errands. The sizing guidance is on the listing.",
     "specs": [
       "Insulated, cushioned footbed",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51dEFZl5aAS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09C8KKV1G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09C8KKV1G?tag=rvgearlab-amz-20",
     "description": "The ziitop Fur Lined Snow Boot is a high-top with a full fur lining, a waterproof cloth and leather upper described as windproof and cold-proof, and a large-tooth non-slip sole. Adjustable lace-up fit and a duck-style tongue are listed.\n\nA full fur lining and lace-up closure give it more warmth and fit adjustment than the SHIBEVER Fur Ankle. The large-tooth tread is deeper than the polyurethane sole on the Aomigoct Plush.\n\nIt suits a woman who wants a taller, warmer boot for walking the dog, school drop-offs and snowy yard work. The lacing seals out snow better than pull-ons.",
     "specs": [
       "Full fur lining, high-top",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RwYfQwohL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H8BVHPDB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H8BVHPDB?tag=rvgearlab-amz-20",
     "description": "The SHIBEVER Fur Ankle Boot has a water-resistant upper, a cozy faux fur lining and a hook-and-loop closure with an elastic lace-up. A durable rubber outsole is listed for grip on snow, ice and wet roads.\n\nThe hook-and-loop and elastic lace give it faster entry than the ziitop Fur Lined, and its rubber outsole is more durable than the polyurethane sole on the Ablanczoom Fur Boot. It costs less than the DREAM PAIRS and ziitop boots.\n\nIt suits a woman who wants a short, casual winter boot for commutes and errands that goes on in seconds. The elastic lace takes the work out of tight cuffs.",
     "specs": [
       "Faux fur lining, ankle height",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51d87YYmoML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9GC7WTY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9GC7WTY?tag=rvgearlab-amz-20",
     "description": "The Ablanczoom Fur Lined Boot has a plush faux fur interior with a cushioned footbed, a waterproof Oxford fabric upper and an adjustable lace closure. A flexible polyurethane outsole is described as durable and non-slip.\n\nIt costs less than all four boots above while still listing a waterproof upper and lace-up fit. The lining and footbed are listed as plush and cushioned, which the Aomigoct Plush describes less fully.\n\nIt suits a woman who needs a basic, waterproof winter boot at a very low price for school runs and light snow. The adjustable laces let her tune the collar.",
     "specs": [
       "Plush faux fur lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gqWG3u6+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CKQBRCYQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CKQBRCYQ?tag=rvgearlab-amz-20",
     "description": "The Aomigoct Plush Snow Boot has an artificial short plush lining, a premium Oxford cloth waterproof vamp and a wear-resistant polyurethane sole with textured grip. A hook-and-loop closure holds the fit and makes it easy to put on.\n\nAt the bottom of the price range, it still lists a snowproof, waterproof vamp, which gives it better value than the SHIBEVER Fur Ankle on pure cost. It is simpler than the Ablanczoom Fur Boot and uses a strap rather than laces.\n\nIt suits a woman who wants a very cheap winter boot for short, occasional snow days or as a second pair. The strap closure goes on quickly with cold hands.",
     "specs": [
       "Short plush lining",

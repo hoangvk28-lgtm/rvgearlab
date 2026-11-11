@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31deuAGajeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BF8FPH5L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BF8FPH5L?tag=rvgearlab-amz-20",
     "description": "The CIVIVI Mini Praxis has a 2.98 inch D2 steel blade in a stonewashed finish, a G10 handle and a ceramic ball-bearing pivot. The listing describes it as a compact knife for a purse, backpack or pocket.\n\nIt has the smoothest-described pivot of the six and carries a recognized brand. Against the KLAKEN Virex, it has a shorter blade and a more compact build.\n\nIt suits campers who want a small, refined EDC and camp knife. The G10 handle resists moisture and temperature swings.",
     "specs": [
       "2.98 inch D2 steel blade",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pIsNdHn8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMFT54WN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMFT54WN?tag=rvgearlab-amz-20",
     "description": "The KLAKEN Virex has a 3.54 inch D2 blade, an ergonomic G10 handle with a non-slip texture and a ball-bearing opening system. The listing describes a military-grade locking mechanism and corrosion-resistant steel.\n\nIt has the longest blade of the six and costs less than the CIVIVI. It uses the same D2 steel as the Mini Praxis in a longer blade for camp tasks.\n\nIt suits campers who want a larger folder for food prep and cord. The textured G10 grips well in rain.",
     "specs": [
       "3.54 inch D2 blade",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31utO6gWRhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GB7NPTZP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GB7NPTZP?tag=rvgearlab-amz-20",
     "description": "The VIRENKNIFE has a 2.95 inch 14C28N stainless steel blade, a G10 handle, a crossbar lock and a ceramic ball-bearing pivot. A pocket clip carries it in a pocket or backpack.\n\nIt uses 14C28N steel, a stainless option that the listing credits for strong cutting, and it uses a crossbar lock instead of a liner lock. It costs less than the CIVIVI and KLAKEN.\n\nIt suits campers who want a stainless blade that resists rust near water. The crossbar lock suits one-handed use.",
     "specs": [
       "2.95 inch 14C28N stainless blade",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zdLMjiNkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09T8YPT1X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09T8YPT1X?tag=rvgearlab-amz-20",
     "description": "The Kershaw Appa has a 2.75 inch reverse tanto plain-edge blade in black-oxide stainless steel and a glass-filled nylon handle. A nylon sheath with straps is included for belt carry.\n\nIt is the only knife here with a sheath, which suits a belt carry or a pack. It has a simpler handle than the G10 folders.\n\nIt suits campers who want a tactical-style blade on a belt. The reverse tanto point handles box and rope cuts.",
     "specs": [
       "2.75 inch reverse tanto blade",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RodfTUYUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GV3GLG92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GV3GLG92?tag=rvgearlab-amz-20",
     "description": "The cckk 9000R is listed with a 3.3 inch CPM-MagnaCut steel blade and an anodized aluminum handle with a clip. The listing describes it as a sharp folding EDC knife for camping and hiking.\n\nIt names the highest-tier steel of the six, and it costs about the same as the CIVIVI. It has less handle detail than the G10 knives.\n\nIt suits campers who want a premium steel on paper. The aluminum handle is light.",
     "specs": [
       "3.3 inch CPM-MagnaCut steel",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ty6OGPYFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B000KSCEH4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B000KSCEH4?tag=rvgearlab-amz-20",
     "description": "The Gerber Paraframe Mini has a 2.2 inch plain-edge stainless steel clip point blade with a nail nick, a pocket clip and a safety lock. It measures 5.25 inches overall and weighs 1.6 oz.\n\nIt is the smallest and lightest of the six and the cheapest. The clip point blade is fine for light cuts.\n\nIt suits campers who want a tiny knife that stays in a pocket all day. The weight is hard to notice.",
     "specs": [
       "2.2 inch clip point blade",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31n-nqBmwmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4XV7W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4XV7W1?tag=rvgearlab-amz-20",
     "description": "The Electrolux Electric Tank Water Heater is an 8 gallon 120V plug-in unit with a thick enamel-coated inner tank. The listing says it includes a 5VA UL-certified fireproof cover and a T&P relief valve.\n\nIt needs only a 120V outlet and no gas line, and the listing names RV use alongside kitchens and garages. Compared with the Feelrogast units, it adds a known brand.\n\nBest for buyers who want a recognizable brand and a UL-certified cover. It also suits DIY installers.",
     "specs": [
       "8 gallon enamel-lined tank",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bCj1xLXXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJDCPYX4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJDCPYX4?tag=rvgearlab-amz-20",
     "description": "The ThermoMate 8 Gallon is a 120V 1500W hard-wired heater with an Incoloy-800 heating element and a porcelain enamel glass tank. It is 20.75 inches tall for a low-profile fit.\n\nUnlike the plug-in Electrolux, it is hard-wired and can work independently or as a booster. The element is more corrosion resistant than copper at higher temperature per the listing.\n\nA solid choice for permanent installs and booster use. It also suits low-profile spaces.",
     "specs": [
       "1500W Incoloy-800 element",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21sQzrlV8rL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCBZPTG5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCBZPTG5?tag=rvgearlab-amz-20",
     "description": "The Baococo 8 Gallon Mini Tank has a 1500W heating tube, over 90 percent thermal efficiency and a temperature range of 50 to 167 F. Its dimensions are listed at 23.62 by 13.39 by 13.39 inches.\n\nIt has the widest range among these and multiple safety protections including overheating. It costs less than the ThermoMate and Electrolux.\n\nBest for buyers who want a wide thermostat range at a lower price. It also suits under-sink spaces.",
     "specs": [
       "1500W rapid heating",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/315We2G43iL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D6GFL5JM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D6GFL5JM?tag=rvgearlab-amz-20",
     "description": "The Feelrogast Electric Tank Water Heater is an 8 gallon 1440W unit with a 1.88 mm thick stainless steel tank and CE, ROHS and FCC certification. It can mount on a wall, rack or floor with a hidden install.\n\nIt lists leakage protection, a high-temperature limiting device and a maximum 109 psi pressure. It costs less than the Baococo.\n\nA great pick for flexible mounting and a stainless tank. It also suits budget builds.",
     "specs": [
       "1440W stainless tank",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31waZ0XdThL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDB8WRCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDB8WRCB?tag=rvgearlab-amz-20",
     "description": "The Feelrogast 8 Gallon Electric Tank Water Heater lists a 16.93 by 14.17 by 17.72 inch body, 1/2 inch NPT connectors and 1440W at 110/120V. Its double-layer enamel coating and medical-grade tank wall are described alongside CE, ROHS and FCC certification.\n\nIt comes with a safety valve and PVC drain pipe, a fuller accessory set than the wall-mount version. It sits about $20 above that unit.\n\nBest for first-time installers who want accessories included. It also suits under-sink installs.",
     "specs": [
       "8 gallon, 1440W",

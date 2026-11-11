@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NOF9lyLLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D668HJQ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D668HJQ5?tag=rvgearlab-amz-20",
     "description": "SolaMr's CM-50A is the best-documented 50A here: 180V PV input, 600W at 12V and up to 99.9% tracking. SolaMr's CM-50A is a 50A MPPT controller that supports a maximum 180V solar input, 600W at 12V and 1200W at 24V, and auto-detects 12V, 24V, 36V or 48V systems. It offers five battery modes (USE, FLD, GEL, SLD, Li) and lists eight protections plus up to 99.9% tracking.\n\nIt states more than MECCANIXITY 50A MPPT and iSunergy 50A MPPT and lists five battery modes. It costs several times more than the budget units.\n\nBest for a big 12V to 48V roof with series strings. It is a documented, high-voltage 50A choice for a larger RV roof.",
     "specs": [
       "50A MPPT, 12V to 48V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DA3pASQwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B081GRMXHR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B081GRMXHR?tag=rvgearlab-amz-20",
     "description": "iSunergy's 50A PWM auto-identifies 12V to 48V and shows daily generation on a backlit LCD. iSunergy's 50A PWM controller automatically identifies 12V, 24V, 36V and 48V systems and uses a three-stage charge. A backlit LCD shows battery power, voltage, current, daily generation and statistics, and the listing says it supports lead-acid and lithium batteries.\n\nIt costs far less than SolaMr 50A and lists lithium support, but PWM cannot recover extra panel voltage. It has no stated PV limit.\n\nBest for parallel 12V panels on a multi-voltage bank. It is the PWM choice for a large current at a modest price when you want a multi-voltage unit.",
     "specs": [
       "50A PWM, 12V to 48V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41n7w2IVE8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DM25KGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DM25KGQ3?tag=rvgearlab-amz-20",
     "description": "MECCANIXITY's 50A MPPT lists a 20A load output, a 170 by 92 by 45 mm body and operation down to -31F. MECCANIXITY's 50A MPPT controller auto-adapts to 12V or 24V and lists a rated charging current of 50A with a 20A discharge current. The listing gives a 170 by 92 by 45 mm size, an operating temperature of -31F to 176F and an LCD for mode switching.\n\nIt costs far less than SolaMr 50A but does not state PV limits. Confirm them before wiring.\n\nBest for a budget 50A where you verify specs. It is a low-priced 50A MPPT, so confirm the PV voltage limit and warranty with the seller.",
     "specs": [
       "50A MPPT, 12V/24V auto",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51paw4y1PgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08GCKHSQQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08GCKHSQQ?tag=rvgearlab-amz-20",
     "description": "iSunergy's 50A MPPT lists efficiency of 99.5% or better with dual USB but a 23V PV cap on 12V. The 50A iSunergy carries the same 99.5%-or-better efficiency claim and large LCD as its 40A sibling, with generation totals and light-control timing. The listing gives a 23V maximum panel input for a 12V battery and mentions dual USB outputs.\n\nIt costs less than MECCANIXITY 50A MPPT but cannot take a series string. It is framed for lead-acid batteries.\n\nBest for a lead-acid 50A with panels wired in parallel. That input limit makes it a match for parallel panels on a lead-acid bank only, so plan wiring around it.",
     "specs": [
       "50A MPPT, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312kGQT5fsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XR9CXM2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XR9CXM2?tag=rvgearlab-amz-20",
     "description": "Suuonee's 50A PWM is the lowest-cost unit with a large LCD and a three-stage charge. Suuonee's 50A controller is a PWM unit for 12V or 24V systems with a large LCD and a three-stage charge. The listing mentions short-circuit, open-circuit, reverse polarity and overload protection.\n\nIt undercuts iSunergy 50A PWM but covers only 12V and 24V. Battery chemistry details are thin.\n\nBest for a budget 12V or 24V lead-acid bank. It is the cheapest 50A option here, so check chemistry support before pairing it with lithium.",
     "specs": [
       "50A PWM, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31N+yUDS9VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK22ZSR4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK22ZSR4?tag=rvgearlab-amz-20",
     "description": "CFTGIW's 50A listing mixes PWM and efficiency language and gives few specs beyond the LCD and 12V/24V support. CFTGIW's 50A controller covers 12V and 24V systems with a large LCD, adjustable settings and a reverse-current system. The listing describes auto PWM tracking and high efficiency without giving a tracking figure.\n\nIt sits near Suuonee 50A PWM on price but is less clear about regulation type. Ask the seller what it uses.\n\nBest for a very cheap 50A where you can accept uncertainty. It is very inexpensive and thin on numbers, so ask the seller for the charging method and PV limit.",
     "specs": [
       "50A, 12V/24V adjustable",

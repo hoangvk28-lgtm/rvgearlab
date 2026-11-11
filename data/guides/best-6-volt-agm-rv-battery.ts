@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a7knWIp3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJXJ1JNP?tag=rvgearlab-amz-20",
     "description": "The Weize GC2 is a sealed 6V 240Ah battery in the golf-cart GC2 size, measuring 10.24 by 7.09 by 9.92 inches, with a total height of 10.79 inches including the post and a weight of 67 pounds each. The listing describes AGM-GEL technology, a double separator layout for cycle life, anti-vibration construction, low self-discharge and SAE post and M8 terminals. A pair stores 2,880Wh at 12 volts.\n\nIt ranks first because it has the most amp-hours of the group at the second-lowest price. At $254.99 each, $509.98 a pair, it costs $15 more than the Casil but adds 20Ah, and its estimated cost works out to about $354 per usable kilowatt-hour, the lowest on this list. Against the Go Power 224Ah it saves $65 per battery and offers 16Ah more capacity, though the Go Power has a longer track record in RV channels.\n\nChoose it for a standard GC2 battery tray in a travel trailer where you want maximum amp-hours for the money. The caveat is that 67 pounds each means 134 pounds for a pair, so check the tongue weight and the tray rating before you load it.",
     "specs": [
       "6V 240Ah, 67 lb",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ANhge9gML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBHR98D3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBHR98D3?tag=rvgearlab-amz-20",
     "description": "The Casil is a sealed 6V 220Ah AGM battery listed for RVs, solar storage, marine use, golf carts and off-grid power, with a spill-proof, leak-proof case and a vibration-resistant build. The listing gives a size of roughly 10.43 by 7.48 by 12 inches, which makes it taller than the other GC2-size batteries here. A pair stores 2,640Wh at 12 volts.\n\nIt ranks second because it costs $239.99 each, $479.98 a pair, which is $15 less than the Weize and $20 more than the Mighty Max while offering 20Ah more than the Mighty Max. By our 50 percent estimate it works out to about $364 per usable kilowatt-hour. It loses to the Weize on capacity and to the Mighty Max on height, since 12 inches is tall for tray lids sized for a 10.8-inch GC2.\n\nPick it if the Weize is out of stock or you want to save $30 a pair. The caveat is height, so measure from the tray floor to the underside of the lid before ordering.",
     "specs": [
       "6V 220Ah sealed AGM",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HiKYS8E6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07F7QVX1L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07F7QVX1L?tag=rvgearlab-amz-20",
     "description": "The Mighty Max ML200-6 is a UL-certified 6V 200Ah sealed lead acid AGM battery measuring 12.05 by 6.65 by 8.94 inches. The listing states a spill-proof design, mounting in any position, and a full one-year warranty, and says the battery comes with screws only, not a wire harness. A pair stores 2,400Wh at 12 volts.\n\nIt ranks third because it is the cheapest per battery at $219.99, or $439.98 a pair, and the only one here that is shorter than a standard golf-cart battery at 8.94 inches high. Against the Casil it costs $20 less and gives up 20Ah. At about $367 per usable kilowatt-hour it is close to the Casil and well below the Go Power. Its footprint is longer at 12.05 inches, though, so it may not fit a GC2 tray built for 10.25 inches.\n\nChoose it for a low compartment, such as under a bed or inside a short cabinet, where a taller GC2 battery will not fit. The caveat is the one-year warranty and the lower 200Ah capacity.",
     "specs": [
       "6V 200Ah, UL certified",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IX5Xm14mL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GT39CSX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GT39CSX?tag=rvgearlab-amz-20",
     "description": "The Go Power GP-AGM-224-6V is a sealed 6V AGM rated 224Ah at the C20 rate, built for solar, inverter and off-grid use in RVs and campers. The listing mentions maintenance-free sealed construction, integrated carrying handles and series pairing with a second 6V battery to replace a single 12V lead-acid battery. A pair stores 2,688Wh.\n\nIt ranks fourth because it costs $319.99 each, $639.98 a pair, which is $65 more per battery than the Weize that stores 16Ah more. Its estimated cost is about $476 per usable kilowatt-hour. What you pay for is a name sold into the RV solar market and integrated handles, which help when each battery likely weighs over 60 pounds, though the listing excerpt does not state weight.\n\nPick it if you want an RV-focused brand that pairs with a Go Power solar kit. The caveat is the premium, which buys brand fit more than capacity.",
     "specs": [
       "6V 224Ah at C20",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nuCYRi-1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F63WLRZC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F63WLRZC?tag=rvgearlab-amz-20",
     "description": "The Interstate GC2 is a sealed 6V 210Ah AGM battery with 475 minutes of reserve capacity at 25 amps, measuring 10.25 by 7.0625 by 10.8125 inches with top-post terminals. The listing calls its extreme cycle line the longest-running in the golf cart range and promotes high reserve capacity and long runtime. A pair stores 2,520Wh.\n\nIt ranks fifth because it costs $439.95 each, $879.90 a pair, a premium of $120 per battery over the Go Power with 14Ah less capacity. Its estimated cost is about $698 per usable kilowatt-hour. The reserve capacity figure, 475 minutes at 25 amps, is the one runtime number that is easy to compare with other batteries, so it is the clearest data point in the group.\n\nPick it if the brand name and a stated 475-minute reserve matter more than cost. The caveat is price: the Weize pair gives 30Ah more per battery for $370 less per pair.",
     "specs": [
       "6V 210Ah, 475 min RC",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51pII0NQJlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00QSJT0PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00QSJT0PS?tag=rvgearlab-amz-20",
     "description": "The Fullriver DC224-6 is a 6V 224Ah AGM battery measuring 10.24 by 7.09 by 9.88 inches. The listing is sparse, giving voltage, amp-hours, chemistry and dimensions but no cycle, weight or reserve capacity claims. A pair stores 2,688Wh at 12 volts.\n\nIt is last because it costs $467.99 each, $935.98 a pair, which is $28.04 more per battery than the Interstate and $213 more than the Weize with 16Ah less capacity. At about $696 per usable kilowatt-hour it is among the most expensive ways to buy energy here. It is also the shortest GC2-size battery at 9.88 inches, which can help in a tight tray.\n\nChoose it if you already run Fullriver batteries or want a 9.88-inch height. The caveat is that this listing gives no weight, cycle or warranty details, so you are paying a premium for a thin spec sheet.",
     "specs": [
       "6V 224Ah AGM",

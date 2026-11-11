@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eYvt2pK8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F13LXMG2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F13LXMG2?tag=rvgearlab-amz-20",
     "description": "The Redodo lists 12V 300Ah capacity at 3.84kWh, with 2560W continuous output and five BMS protections. It is designed to replace six 12V 100Ah AGM batteries in a Group 6D size battery box, and up to 16 units can be linked for a 61.44kWh system.\n\nAgainst the TEMGO 300Ah, it states a continuous output figure and a clear drop-in size reference. Compared with the ECOBOSS 300Ah, it focuses on fridge runtime and appliance loads rather than cycle count.\n\nIt suits a camper replacing a stack of lead-acid batteries who wants one drop-in bank. The listing's 3-day fridge runtime example makes the capacity easy to picture.",
     "specs": [
       "12V 300Ah, 3.84kWh",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lene1Uy0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6XK8GBG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6XK8GBG?tag=rvgearlab-amz-20",
     "description": "The TEMGO lists 12V 300Ah LiFePO4 at 3840Wh with a 200A BMS, Bluetooth and app monitoring, and low-temperature protection. It weighs 54.67 lbs, about a third of a lead-acid battery of similar capacity, and can mount in any position.\n\nCompared with the Redodo 300Ah, it adds Bluetooth monitoring and costs less. Against the ECOBOSS 300Ah, it lists a weight figure and mounting flexibility.\n\nIt fits a camper who wants to watch state of charge from a phone. The any-position mount helps in tight van or boat installs.",
     "specs": [
       "12V 300Ah, 3840Wh",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nrsRXnc+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSZVNTD6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSZVNTD6?tag=rvgearlab-amz-20",
     "description": "The ECOBOSS lists 15000+ cycles with a 200A smart BMS and 3840Wh of capacity. It stops charging below 32F and resumes at 41F, supports up to 4S4P expansion to 51.2V 1200Ah and carries an IP65 rating.\n\nCompared with the TEMGO 300Ah, it lists a stated cold-charge cutoff temperature and IP65 protection. Against the NebuQuic 300Ah, it lists a larger cycle count figure and costs more.\n\nIt suits a camper in a variable climate who wants clear cold-weather behavior. The IP65 rating suits boat and trailer-tongue mounting.",
     "specs": [
       "12V 300Ah, 3840Wh",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41sYUd3LV0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCZQHML8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCZQHML8?tag=rvgearlab-amz-20",
     "description": "The ECIENWELL lists 12V 300Ah at 3840Wh with a 200A BMS. It measures 15.12 x 7.64 x 10.03 inches, weighs about 54.45 lbs and supports 4P4S expansion to a 61.44kWh system.\n\nCompared with the TEMGO 300Ah, it lists full dimensions and costs less. Next to the NebuQuic 300Ah, it lists an automotive grade cell claim and recycled-material content.\n\nIt suits a camper who wants to measure the fit before ordering. The dimensions let you measure a bay or box in advance.",
     "specs": [
       "12V 300Ah, 3840Wh",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AsY1Y5-5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G5JW1KXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G5JW1KXQ?tag=rvgearlab-amz-20",
     "description": "The NebuQuic lists 12V 300Ah with a 200A BMS, EV-grade A+ cells and a 4P4S internal layout. Low-temperature protection activates below -20C, and the case measures 7.59 x 9.84 x 15.04 inches.\n\nCompared with the ECIENWELL 300Ah, it lists a 10-year lifespan and cycle figures at several depths. Its price is the lowest in this group.\n\nIt suits a budget-minded camper building a first big bank. The depth-of-discharge cycle figures help estimate lifespan.",
     "specs": [
       "12V 300Ah, 200A BMS",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PraBBELnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H86NLHSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H86NLHSK?tag=rvgearlab-amz-20",
     "description": "The CYCCLEVOLT is a 24V 300Ah (314Ah) LiFePO4 battery with 8038Wh, a 200A BMS, Bluetooth 5.0 app control and low-temperature cut-off. It can be wired up to 2S4P for larger capacities.\n\nCompared with the 12V picks, it doubles the voltage, which halves current for the same power and pairs with a 24V inverter. It is the only 24V option in the group.\n\nIt suits a large camper, van or cabin that runs a 24V system. The 8038Wh capacity is far above the 12V models.",
     "specs": [
       "24V 300Ah (314Ah)",

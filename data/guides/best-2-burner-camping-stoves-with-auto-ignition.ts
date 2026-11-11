@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419LlWjjo4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBHGLQ5P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBHGLQ5P?tag=rvgearlab-amz-20",
     "description": "The GasOne is a two-burner propane stove rated at 22,000 BTU with an auto twist-turn ignition. The case lid holds two wind guards, and the listing describes a compact, heavy-duty body made for travel.\n\nUnlike the glass-top stoves, it closes into its own case, and it carries the lowest price tag here. The twist-turn igniter lights the burner as you turn the knob rather than needing a separate push.\n\nIt suits campers and tailgaters who want auto ignition in a stove that actually fits a trunk. Two independently adjustable burners handle two pots at once.",
     "specs": [
       "22,000 BTU, two burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418vVFJDLIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FF4HDDTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FF4HDDTT?tag=rvgearlab-amz-20",
     "description": "The BESTFIRE is a two-burner stove with 30,000 BTU, a 0.28 inch tempered glass surface and piezo ignition. It weighs 16.53 lb and measures 29.23 by 16.54 inches, and it ships with a CSA-certified regulator and hose.\n\nIt states the highest output among the camping-sized stoves here and wipes clean in seconds, which the stainless XtremepowerUS stove cannot match. The regulator and hose in the box mean it is ready for a propane tank on day one.\n\nIt suits car campers and RV travelers who want a tidy, flat cooktop and plenty of heat. The upgraded heavy-duty frame adds stability.",
     "specs": [
       "30,000 BTU, tempered glass",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41m5CpDIGUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNQWMFDS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNQWMFDS?tag=rvgearlab-amz-20",
     "description": "The Horynar is a stainless steel two-burner stove with 26,000 BTU, piezo ignition and a 5 foot propane hose. A small extra ring on one burner is designed to hold a pot as small as 3.5 inches, and the listing mentions a CSA group mark.\n\nThat small ring is the feature the XtremepowerUS stoves do not describe, and it stops a coffee pot from sliding. The 360 degree oxygen intake aims for a full burn.\n\nIt suits campers who brew coffee and heat small pans alongside a big pot. The 5 foot hose lets the tank sit away from the flame.",
     "specs": [
       "26,000 BTU, stainless steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a1Ph2nzuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0151ZK9TU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0151ZK9TU?tag=rvgearlab-amz-20",
     "description": "The XtremepowerUS is a two-burner stove with 25,516 BTU total and 12,758 BTU per burner, listed at 28.5 by 15.75 by 5 inches. It has a tempered glass top, a stainless steel finish, auto ignition and an LPG regulator.\n\nA near twin with a 27.5 by 16 inch stainless body is listed alongside it. Both undercut the BESTFIRE on output and are a step above the GasOne in stated body size.\n\nIt suits campers and tailgaters who want a flat glass cooktop and a stated per-burner figure. The regulator is included.",
     "specs": [
       "25,516 BTU, 12,758 per burner",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418OjMWqt0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7XT9YKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7XT9YKM?tag=rvgearlab-amz-20",
     "description": "The Bonnlo is a two-burner outdoor cooker rated at 150,000 BTU with auto ignition, a wide shelf and rolling wheels. The stove detaches from its stand, and the listing mentions woks, stockpots and grill pans.\n\nIt is a different class from the portable folders, built for big boils and stir fry rather than packing small. The shelf holds ingredients, which no other stove here includes.\n\nIt suits tailgaters, backyard cookouts and car campers with a truck or van. Wheels make it easy to roll around a campsite.",
     "specs": [
       "150,000 BTU, two burners",

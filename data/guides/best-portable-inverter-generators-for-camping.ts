@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IfSnOTHlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXXZT82D?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 1750W delivers 1350 running and 1750 peak watts at under 3 percent THD in a 26.5 pound body. It runs at 52 dBA, has CO detection with auto shutoff and a 0.66 gallon tank that gives up to 7 hours at 25 percent load with ECO mode.\n\nIt is the lightest and quietest of the four, at 26.5 pounds and 52 dBA. Compared with the AIVOLT 1600W, it adds a stated CO sensor and a lower noise figure.\n\nIt suits backpack-to-trunk campers who need phone, light and laptop power with minimal weight. The one-hand lift makes loading easy.",
     "specs": [
       "1350 running, 1750 peak watts",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51koa2UZ87L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B6NPLQH7?tag=rvgearlab-amz-20",
     "description": "The AIVOLT 1600W uses a 60cc 4-stroke OHV engine with copper windings, under 3 percent THD and a 28 pound body at 57 dBA from 23 feet. It runs 8 hours at 25 percent load or 2 hours at full load, with two 120V outlets, two USB ports (Type-A and C), parallel capability and CO protection.\n\nIt is the lowest priced of the four and states a full-load runtime, which the AIVOLT 1750W does not give. The parallel capability lets two units add up for bigger loads.\n\nIt suits budget campers who may add a second unit later. USB-C charging suits modern phones.",
     "specs": [
       "1600W, 28 lb, 57 dBA",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yjv-sIONL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085828BQ6?tag=rvgearlab-amz-20",
     "description": "The WEN 56235i produces 2350 surge and 1900 rated watts at 39 pounds, with a fuel shutoff that burns the carburetor dry before stopping. The listing stresses super quiet operation and clean power for electronics.\n\nIt states 1900 rated watts, 550 above the AIVOLT 1750W, and a fuel shutoff for storage. It weighs about 12 pounds more than the lightest unit here.\n\nIt suits car campers who need chargers, lights and a small appliance, and store the unit between trips. The shutoff reduces carburetor gumming.",
     "specs": [
       "2350 surge, 1900 rated watts",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EIFoZ5I7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQXF2RKM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQXF2RKM?tag=rvgearlab-amz-20",
     "description": "The Oxseryn 2800W lists 2000 running and 2800 peak watts with under 58 dBA at 23 feet, a 40 pound body and 9 hours at 25 percent load. It includes a USB-C port with USB and two 120V outlets, Eco mode and a parallel option.\n\nIt states 100 running watts more than the WEN 2350W and a decibel figure the WEN lacks. The 1.1 gallon tank runs 9 hours at light load.\n\nIt suits campers with moderate loads, such as a fridge and a fan, who still want a lightweight unit. USB-C is handy for laptops.",
     "specs": [
       "2000 running, 2800 peak watts",

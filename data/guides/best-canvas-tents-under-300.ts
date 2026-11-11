@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41klbMZXfBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXX8WR2R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXX8WR2R?tag=rvgearlab-amz-20",
     "description": "The Roveity is a 13.12 foot bell tent with an 8.2 foot center height for 4 to 6 people. It uses 210GSM poly-cotton TC fabric with a PU3000 waterproof coating, a 32mm steel center pole with two 7001 aluminum side poles and double-stitched seams.\n\nIt is the biggest and tallest tent in the group, with room to stand almost everywhere and more floor than the 10 foot VANFOND or WaldZimmer. A stove jack, two mesh doors, four windows and four top vents are part of the design, and a 12 month warranty backs it.\n\nBest for households of four to six wanting a stove-ready canvas tent at a price well under the premium brands. The tall center makes cots and a small table practical.",
     "specs": [
       "13.12 ft, 8.2 ft center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z+i5celcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CTTCVGJ9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CTTCVGJ9?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 3 meter, 9.8 foot bell made from TC technical cotton, sold for up to 4 people. It has a 3 inch stove hole under a 43 by 43 cm flame-resistant flap, four mesh windows and 10 reflective ropes with aluminum tensioners.\n\nIt costs about a third less than the Roveity and carries a stove hole and a rain cap while sleeping fewer people. Against the Dream House pyramid it adds a bell shape and a full fitting kit with stakes, a hammer and a bag.\n\nIt suits couples or a small family who want a cold-weather canvas tent without paying for size they do not need. Check that your stove pipe fits the 3 inch hole.",
     "specs": [
       "3 m bell, TC cotton",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kWwU5iPQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NSWS6W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NSWS6W1?tag=rvgearlab-amz-20",
     "description": "The Dream House is a square pyramid, 215 by 215 by 200 cm, built from 285 gsm cotton canvas with a PU coating on four galvanized steel poles. It has two doors, four ventilation holes, 8 pegs and a carry bag.\n\nIt is the only pure cotton canvas tent here, which gives it heavier weight and a stiffer feel than the poly-cotton bells. It lacks the stove jack on the Roveity and VEVOR 3 m Bell, so it is a three-season pick.\n\nA classic fit for solo campers and small parties wanting a cotton canvas shelter for fair-weather trips. The simple pyramid pitches with few guy lines.",
     "specs": [
       "215 x 215 x 200 cm pyramid",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3196BeyG5dL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CGX6CQTX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CGX6CQTX?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is a 3 meter polycotton bell with a 6.6 foot top and a 5.9 foot door, sold for 2 to 3 people. It has double-layer windows in cotton and mesh, a pre-cut chimney opening and a removable zipped floor.\n\nIt offers more door height than the VANFOND and a floor you can unzip for summer, which the VEVOR 3 m Bell lacks. The polycotton has no PU coating to protect breathability, so rain tolerance is lower than the Roveity.\n\nIt suits campers who want a flexible tent that works with the floor in for cool nights and without it for summer. Add a stove with a safe setup for the chimney opening.",
     "specs": [
       "3 m polycotton, 6.6 ft top",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31024JUkfJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F937C77P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F937C77P?tag=rvgearlab-amz-20",
     "description": "The VANFOND bell is 10 feet across with a 6.6 foot top, a 4.8 foot door and 23.6 inch side walls. It comes with a stitched-in PVC floor, a 5 inch stove jack opening, four windows, roof vents and a setup time of about 25 minutes.\n\nThe 5 inch jack takes a wider stovepipe than the 3 inch hole on the VEVOR 3 m Bell. It runs smaller than the Roveity, which means less standing space and a low profile that warms faster.\n\nIt suits couples and solo winter campers who want a compact heated tent. The roll-up walls give 360 degree airflow when the stove is off.",
     "specs": [
       "10 ft, 6.6 ft top",

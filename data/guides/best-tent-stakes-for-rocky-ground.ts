@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HciIQ2GaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BH98NRPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BH98NRPD?tag=rvgearlab-amz-20",
     "description": "The Tialero Forged kit is 12 stakes of S45C forged steel, each 10 inches long and weighing 4.7 ounces, packed with a camping hammer and a pouch. The listing says the stakes work on hard or rocky surfaces, and fluorescent rubber rings make them easy to spot.\n\nWhere the 12 Inch Forged Pegs offer more length, this kit gives you the hammer and a larger count in the same box. The hammer includes a hook for pulling stakes out, which none of the other forged sets include.\n\nIt suits campers who want one box that handles driving, removal and storage on stony pitches. The 480D Oxford pouch keeps the points from poking through a pack.",
     "specs": [
       "10 inch S45C forged steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418KyHT3+pL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07M9F27Q5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07M9F27Q5?tag=rvgearlab-amz-20",
     "description": "The 12 Inch Forged Pegs set is eight S45C forged steel pegs, each 12 inches long and 0.31 inches thick, at 4.43 ounces each. The listing names rocky places, desert and snowfield as suitable ground, and the large head and sharp end help them start in firm soil.\n\nAt 12 inches, they are the longest stake here, which means they can reach down past a loose stone layer to firmer soil, where the Tialero Forged tops out at 10 inches. They weigh little more than the 8 Inch Forged Pegs despite the extra length.\n\nIt suits campers on gravelly or stony pitches who need depth more than count. Eight stakes is enough for a standard dome tent.",
     "specs": [
       "12 inch S45C forged steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41wDtQOPxDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7ZFY31H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7ZFY31H?tag=rvgearlab-amz-20",
     "description": "The Drill-In Screw Stakes set is 12 eight inch carbon steel screw anchors with a galvanized coating. The box includes a hexagonal head socket and a storage case, and the stakes drive in with a drill or impact driver.\n\nA threaded shaft can bore through compacted gravel and clay that a hammer would bend a straight pin in, a different approach from the Tialero Forged and 12 Inch Forged Pegs. It also pulls out cleanly in reverse, with no stake puller needed.\n\nIt suits car campers who carry a cordless drill and camp on stony or hard-baked sites. The case keeps the points covered.",
     "specs": [
       "8 inch galvanized carbon steel",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eh35tUCvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P2SGPZ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P2SGPZ2?tag=rvgearlab-amz-20",
     "description": "The 8 Inch Forged Pegs set is eight S45C forged steel pegs that are 8 inches long and weigh 3.03 ounces each. The listing names rocky places, desert and snowfield, with the same 0.31 inch thickness as the longer 12 Inch Forged Pegs.\n\nIt trades 4 inches of length for about 1.4 ounces per stake in weight compared with the 12 inch version, which suits trips where you carry the kit. Against the Cheardia Galvanized, the forged build is thicker and less likely to bend.\n\nIt suits campers who hike a short distance to a stony site and want forged strength without extra bulk. Eight stakes covers a small tent.",
     "specs": [
       "8 inch S45C forged steel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QupF8FMeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9T339WK?tag=rvgearlab-amz-20",
     "description": "The Cheardia Galvanized set is 20 galvanized iron stakes, each 9.75 inches long and 7 millimeters in diameter. A T-shaped top and a round milled point make them easy to hammer, and a hook stops the stake from going too deep and gives a pull hole.\n\nYou get 20 stakes where the forged sets offer eight to 12, which suits a tarp, canopy and tent all together. Compared with the 8 Inch Forged Pegs, the stake is thinner at 7 mm and made of iron instead of forged steel.\n\nIt suits campers who pitch many anchor points on mixed stony soil and want a deep stake in volume. The hook helps pulling them out.",
     "specs": [
       "9.75 inch galvanized iron",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414jkKJw+AL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DP8Y6MHF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DP8Y6MHF?tag=rvgearlab-amz-20",
     "description": "The FEED GARDEN 18 Pack is 18 hot-dip galvanized steel stakes that are 7.1 inches long and 4 mm thick, with a curved hook top. The hook makes them easy to spot and pull, and the listing recommends them for tents, tarps, canopies and shelters.\n\nIt is the thinnest and shortest stake in this guide, so it sits last behind the 8 Inch Forged Pegs and Cheardia Galvanized. The 18 count makes it a useful spare set to keep in the trunk.\n\nIt suits campers who keep a backup bag of stakes for rock-free soft patches and for tying down tarps. The galvanized coating resists rust.",
     "specs": [
       "7.1 inch galvanized steel",

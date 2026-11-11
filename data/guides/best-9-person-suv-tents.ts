@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eDKnEHY5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3VFSYDV?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 5-9 person SUV tent measuring 14.1 by 9.2 by 6.9 ft, the largest floor of the three. It uses a multi-layered fabric with a PU3000 coating and UPF 50+ sun protection, plus an extra camping awning for dining.\n\nAgainst the TIMBER RIDGE it adds a higher stated waterproof coating and sun rating, and against the VEVOR it offers a wider floor and a porch. Large mesh windows and drainage mesh give all-around airflow, and the listing names SUVs, Jeeps and standard trucks.\n\nIt suits groups that want the largest listed footprint plus a sheltered place to eat. It packs in a carry bag and can stand on its own when the car leaves.",
     "specs": [
       "Largest floor, 6.9 ft peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41npgroHzZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSJ1NLZ1?tag=rvgearlab-amz-20",
     "description": "The TIMBER RIDGE offers a 13 by 10 ft floor, 87 inches of height at the center and a screened porch and awning measuring 6 by 8 ft. Its listing says it fits up to five campers with room for two air mattresses or five sleeping bags, and it uses PU2000 polyester with double doors and windows.\n\nIt has the tallest ceiling of the three and the only measured screen porch, which the WildFinder and VEVOR do not give. The wider 5-9 label should be read as a size family, since the floor math points to about five sleepers.\n\nIt suits a family of four or five that wants a bug-free porch for shoes, coolers and chairs. It connects to the trunk and also stands alone.",
     "specs": [
       "13 x 10 ft, 87 inch center",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41QLLYmhxAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GJMSMZ8H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GJMSMZ8H?tag=rvgearlab-amz-20",
     "description": "The VEVOR is a 10.6 by 8 by 7.22 ft tailgate tent with thickened support poles, guy lines and ground stakes. Its listing describes use in Force 3 to 4 winds and light rain, and it has a ventilated door and mesh windows with PU3000mm fabric.\n\nIt is the smallest footprint here and the only pick to describe a wind force, which makes it a steadier choice for exposed sites. It costs less than the WildFinder and TIMBER RIDGE and works as a dual-use tent attached to the tailgate or alone.\n\nIt suits groups that want a sturdy, less expensive attached tent. The reinforced frame and extra stakes are aimed at breezy campgrounds.",
     "specs": [
       "10.6 x 8 x 7.22 ft footprint",

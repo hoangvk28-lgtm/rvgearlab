@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411FqrNufmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DLKP7BNY?tag=rvgearlab-amz-20",
     "description": "The Cantonape is a 3000W continuous, 6000W surge inverter with four AC outlets, four USB ports, an LCD display and a remote controller. The listing names a modified sine wave output, six protections, an aluminum body, a temperature-controlled fan and an isolated ground neutral.\n\nIt offers the most continuous watts of the four, 1000W above the BESTEK 2000W, and the only remote. That headroom matters for power tools or a larger fridge, while the plug-in pair cannot get near it.\n\nIt suits camp setups with a battery bank and heavier loads. The LCD shows input and output voltage, battery level, load and frequency.",
     "specs": [
       "3000W continuous, 6000W surge",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F9D0CEAQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00T93K9KU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00T93K9KU?tag=rvgearlab-amz-20",
     "description": "The BESTEK 2000W provides 2000W continuous with a 2300W maximum that is not continuous and 4600W peak for starting loads. It has three 110V AC outlets, six external 50A fuses with spares, an aluminum housing and an ETL Listed label.\n\nIt sits between the Cantonape and the two plug-in inverters. It has less power than the Cantonape, is rated for far bigger loads than the VANSOET, and comes with four battery terminal cords.\n\nIt suits campers with a deep-cycle or lithium battery who want a fridge or a few small appliances. The listing includes a 12-month warranty.",
     "specs": [
       "2000W continuous, 4600W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ia+11m5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-amz-20",
     "description": "The VANSOET plugs into a 12V socket and delivers 400W through two US AC outlets, with a 30W PD USB-C port and a 15W USB port. It has a dedicated AC switch, a green and red LED for faults and is designed for cars, SUVs, trucks and RVs.\n\nAgainst the PiSFAU it adds the USB-C PD port and the AC switch. Compared with the BESTEK and Cantonape, it plugs in with no wiring, which suits quick phone and laptop charging.\n\nIt suits campers who want a light inverter in the glove box for devices. The LED tells you at a glance whether the unit has tripped.",
     "specs": [
       "400W, 2 AC outlets",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TnIJVNvzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CFB6T2QN?tag=rvgearlab-amz-20",
     "description": "The PiSFAU is a 200W plug-in inverter that puts two standard AC sockets and a bank of four USB ports in a phone-sized body, listed at 8.5 oz. The shell is a fully insulated ABS, and the protections named cover overheating, undervoltage, overvoltage, overload and short circuits.\n\nIt is the lowest-priced and smallest pick, and it carries the most USB ports of the plug-in pair. Compared with the VANSOET it gives up USB-C PD and 200W of headline power.\n\nIt suits campers who need a basic phone and tablet charger in the car. The listing also mentions quiet, high-efficiency operation.",
     "specs": [
       "200W, 2 AC plus 4 USB",

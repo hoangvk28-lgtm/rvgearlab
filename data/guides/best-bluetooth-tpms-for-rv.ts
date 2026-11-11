@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41F+mI2MZIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QNXV4K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QNXV4K?tag=rvgearlab-amz-20",
     "description": "B-Qtech's six-sensor Bluetooth kit sends readings to a phone app and offers switchable 2, 3, 4 and 6 wheel modes. B-Qtech's six-sensor Bluetooth TPMS sends pressure and temperature to a phone app and offers switchable 2, 3, 4 and 6 wheel modes with a 0 to 95 psi range. The external sensors are IP67 rated and the listing mentions replaceable batteries.\n\nIt covers more wheels than the four-sensor B-Qtech kits, but its 95 psi ceiling limits heavy tires.\n\nBest for a six-tire rig with moderate pressures. The 95 psi ceiling needs checking against your tires.",
     "specs": [
       "6 external sensors, Bluetooth app",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RB-qkLZIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSRMYZ2X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSRMYZ2X?tag=rvgearlab-amz-20",
     "description": "B-Qtech's DJTPMS kit has four external sensors with replaceable CR1632 batteries and copper alloy nozzles. B-Qtech's four-sensor Bluetooth RV TPMS works with iOS and Android through the DJTPMS app and allows alert thresholds to be changed in the app. The external sensors have copper alloy nozzles and replaceable CR1632 batteries.\n\nIt lists a range near 100 psi, higher than B-Qtech BT 4-Sensor 95, and costs less.\n\nBest for a four-tire trailer wanting replaceable batteries. It is the lowest-priced B-Qtech app kit.",
     "specs": [
       "4 external sensors, DJTPMS app",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KyrBNyQbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5QGQXSK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5QGQXSK?tag=rvgearlab-amz-20",
     "description": "B-Qtech's four-sensor kit has six alarm modes, a 95 psi range and plus or minus 1.5 psi precision. B-Qtech's four-sensor Bluetooth TPMS offers switchable 2, 3 and 4 wheel modes and a 0 to 95 psi range with plus or minus 1.5 psi precision. The sensors are external and IP67 rated.\n\nIt costs more than B-Qtech DJTPMS 4-Sensor with a lower stated range. It lists replaceable batteries.\n\nBest for a four-wheel setup at moderate pressure. It suits a four-tire setup with moderate pressures.",
     "specs": [
       "4 external sensors, Bluetooth app",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31SkfKjKAaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FS91VRSG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FS91VRSG?tag=rvgearlab-amz-20",
     "description": "Schrader's 29501 is a single internal Bluetooth sensor for extra wheels or spares. Schrader's 29501 is a single internal Bluetooth Low Energy sensor that adds monitoring for extra wheels or spares within the AirCheck BLE ecosystem. It reports pressure, temperature and sensor battery status to a smartphone app and expands up to four axles.\n\nIt is not a complete system and needs tire dismounting. It works within the AirCheck BLE ecosystem.\n\nBest for adding a spare or an extra wheel to a Schrader system. Buy it as an add-on to an existing Schrader system, not as a standalone.",
     "specs": [
       "Single internal BLE sensor",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JrUzVaVCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G42G9GNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G42G9GNP?tag=rvgearlab-amz-20",
     "description": "Easesuper's Bluetooth TPMS uses a mobile app with custom thresholds and real-time alerts. Easesuper's Bluetooth TPMS connects through a mobile app for real-time tire status and custom thresholds, with notifications for pressure, leak, temperature and low battery. The listing says it works with iOS and Android.\n\nIt costs less than every B-Qtech kit and states little about sensor count or range.\n\nBest for a very low-cost app trial. The listing is thin on sensor count and range, so confirm both with the seller.",
     "specs": [
       "Bluetooth app TPMS",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dVgRKEODL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CRBGJQN2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CRBGJQN2?tag=rvgearlab-amz-20",
     "description": "AKTV8's Commercial Vehicle Kit is a Bluetooth range extender for Pressuretech systems. AKTV8's Commercial Vehicle Kit is a Bluetooth signal booster for RVs, trucks and trailers that must be used with Pressuretech TPMS. It installs with the included kit and needs no further configuration once powered.\n\nIt is not a TPMS and only works with Pressuretech. It costs far more than any sensor kit here.\n\nBest for a Pressuretech owner whose signal drops out. It helps only an existing Pressuretech owner and costs far more than a typical sensor.",
     "specs": [
       "Bluetooth range extender kit",

@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hkbOy2sPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP8F1Y64?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP8F1Y64?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Greystone is a traditional down mummy built around 600-fill DownTek insulation, and the regular size weighs just 1 lb 13 oz while compressing to roughly 7.5 by 8 inches. At about $142 it sits in the middle of this price range yet carries the lowest weight of any bag on the list, which is the headline reason it leads the ranking.\n\nAgainst the ZTTENLLY below it, the Greystone trades extra down weight for a tighter, more efficient cut. The ZTTENLLY packs 33.5 ounces of down and weighs 3.4 lb, while the Big Agnes reaches a similar rating at nearly half that mass because the contoured hood, insulated hood tube and two-way anti-snag zipper keep heat from leaking out. Compared with the Marmot above it in price, you give up the short and long size choices and the second zipper, but the weight difference is real on a long hike.\n\nThe Greystone suits solo backpackers up to 6 feet tall who want a bag that disappears into a pack, and it includes both a storage sack and a stuff sack plus exterior loops for hang drying. It is also a sensible first down bag for someone moving up from synthetic fill.",
     "specs": [
       "600-fill DownTek, 1 lb 13 oz regular",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21q1TjvooRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR2VCQHQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR2VCQHQ?tag=rvgearlab-amz-20",
     "description": "The Marmot Mad River is a 3-season mummy filled with RDS-certified duck down that has a quick-dry treatment, wrapped in 100 percent recycled polyester shell and lining. It is the most expensive bag here at about $289, and the money buys sizing breadth: it comes in short, standard and long, and the Long version is the one shown in this listing.\n\nWhere the Big Agnes Greystone uses a single full-length zipper, the Marmot adds a second, short right-side zip that folds down for extra ventilation. That means you can open a vent at your chest on a mild night without losing the whole bag, which is a real comfort gain when a 30F label meets a 45F evening. It also ships with both storage and compression sacks, so the bag lives uncrushed at home and compresses for the car or trail.\n\nPick it if you are on the tall side and need a true long cut, if you run warm and value fine ventilation control, or if you want a recycled-material build from a brand with a long outdoor-retail history.",
     "specs": [
       "Duck down with quick-dry treatment",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BupbElWhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC1S3VYK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC1S3VYK?tag=rvgearlab-amz-20",
     "description": "The BUERTS carries 680 fill power RDS-certified down and holds 1.43 lb of it, which is the highest fill power on this list apart from the Marmot's unstated figure. The whole bag weighs about 2.62 lb in an 82.7 by 31.5 inch cut, and it compresses to 7.5 by 14 inches in the included sack, all for roughly $149.\n\nCompared with the Big Agnes Greystone above it in the ranking, the BUERTS has the higher fill power and the longer body, yet it adds close to 13 ounces of weight to reach a similar label. Compared with the Kelty Galactic below it, it gives up the roomy rectangular layout in exchange for a mummy hood and a pack size that fits a rucksack. The listing also describes a silk-thread lining and an inner phone pocket, and the bag can zip to a second one for a double setup.\n\nIt makes sense for the shopper who wants down numbers that look like a premium brand at a mid-range price, and for taller backpackers who need the extra length of 82.7 inches.",
     "specs": [
       "680FP RDS down, 1.43 lb fill",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KUCskCT3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SYGLMF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SYGLMF?tag=rvgearlab-amz-20",
     "description": "The Kelty Galactic is a rectangular 30F bag filled with 23 ounces of 550-fill treated duck down inside a 50D polyester shell with a PFC-free water-repellent finish. It measures 76 inches long, weighs 2.9 lb and stuffs into a 15 by 7.5 inch sack, so it is small enough for a short trail night yet clearly designed for the campground.\n\nNext to the BUERTS mummy above it, the Galactic swaps the tapered body for a box cut that lets you stretch your legs and roll over, and it adds a top cinch cord plus a draft tube along the zipper. The rectangular layout is also what makes two bags zip together cleanly, which is why this is the one to buy as a pair. Versus the ZTTENLLY below it, the Kelty is shorter and heavier on paper, but the 50D shell is a tougher fabric than the thin 20D used on lighter bags.\n\nChoose it if you camp from a car or a trailer, share a bed with a partner, or simply hate feeling squeezed inside a mummy.",
     "specs": [
       "550-fill duck down, 23 oz fill",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410vOwDTOjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9DQVF34?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9DQVF34?tag=rvgearlab-amz-20",
     "description": "The ZTTENLLY is the least expensive bag here at about $110, and its listing is unusually open about the rating: for the 30F model, comfort is 41F and the limit is 30F, with a risk figure of 5F. It carries 33.5 ounces of 550 to 600 fill duck down in a semi-rectangular shape and comes in regular, for sleepers up to 5 ft 11 in, and long sizes.\n\nCompared with the OmniCore above it in price, the ZTTENLLY uses a thinner 20D water-repellent shell instead of 75 denier ripstop, which saves weight but gives up some abrasion resistance. The regular weighs 3.4 lb and the long 3.9 lb, with a packed size of about 11.4 by 7.4 by 7.4 inches, so it is bulkier than the Big Agnes but much cheaper. The semi-rectangular cut also opens the foot area, and the sleeping bag can be unzipped to work as a quilt.\n\nIt fits first-time down buyers and cool-season car campers who prefer to know the real comfort number and still keep the cost under $120.",
     "specs": [
       "550/600 FP duck down, 33.5 oz fill",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MV7JCsYAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JCQZ8PC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JCQZ8PC?tag=rvgearlab-amz-20",
     "description": "The OmniCore Designs bag layers 650-fill duck down with its own StratusLoft synthetic fill, so a few grams of damp resilience come built in. It is wrapped in a 75-denier diamond ripstop shell with a DWR finish and uses 3D box construction that lets the insulation stay lofted while you shift around. The listing states the temperature ranges are validated by independent labs to the European EN13537 standard.\n\nCompared with the ZTTENLLY below it in price, the OmniCore carries a shell more than three times the denier, and it adds a pillow pocket and a sleeping pad sleeve that keeps you from sliding off your mat. Next to the Big Agnes above it, it is a rectangular-leaning hooded cut with a 4-point compression sack, aimed more at comfort and durability than at gram counting.\n\nThe lineup spans several ratings on one title, from -10F to 30F, each shown by a different lining color, so pick the one matching 30F when ordering. It is a strong match for campers who sleep on air pads, camp near the water or want a rugged outer fabric.",
     "specs": [
       "650 duck down plus StratusLoft fill",

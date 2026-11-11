@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+KMcA842L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKF41658?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKF41658?tag=rvgearlab-amz-20",
     "description": "Taimster's Ta6 has six sensors, a solar display with a booster and separate pressure alarm reference values for each axle. Taimster's Ta6 is a six-sensor solar TPMS with a booster and a 0 to 188 psi range, six alarm modes and the ability to set separate pressure alarm reference values for each axle on a dual-axle setup.\n\nIt states a 0 to 188 psi range and the per-axle feature, which GUTA GT20 4-Sensor does not. It costs more than the four-sensor kits.\n\nBest for a dual-axle trailer where the axles carry different loads. It is the dual-axle-friendly solar kit here.",
     "specs": [
       "6 sensors, solar, booster",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bIXek2vGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FC2JBM65?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FC2JBM65?tag=rvgearlab-amz-20",
     "description": "B-Qtech's solar kit has six sensors, switchable 4 or 6 tire modes and independent alarm values for dual axles. B-Qtech's upgraded solar TPMS has six sensors with anti-theft features, solar and USB power, a 1100mAh battery, switchable 4 or 6 tire modes and independent alarm values for dual-axle setups. It uses an Infineon SP40 chip.\n\nIt costs less than Taimster Ta6 and states a 1100mAh battery. Its pressure range is not in the headline.\n\nBest for a tandem trailer that may add a third axle. It suits a dual-axle trailer.",
     "specs": [
       "6 external sensors",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rxK4QEhSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW998285?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW998285?tag=rvgearlab-amz-20",
     "description": "GUTA's GT20 four-sensor kit reads 0 to 188 psi and handles up to 24 tires on its display. GUTA's GT20 four-sensor kit reads 0 to 188 psi and -40F to 221F with six alert modes and a display that handles up to 24 tires.\n\nIt covers exactly four tires and costs more than B-Qtech 6-Sensor Solar for fewer sensors. It has no per-axle feature listed.\n\nBest for a simple four-tire tandem. It covers one tandem axle and can expand later.",
     "specs": [
       "4 sensors, 0 to 188 psi",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41h6tODdx-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DKZZLN1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DKZZLN1M?tag=rvgearlab-amz-20",
     "description": "TireMinder's solar kit includes two transmitters and monitors up to four tires from 0 to 70 psi. TireMinder's solar trailer TPMS includes two transmitters, a monocrystalline solar panel with backup battery and a color LCD that shows pressure and temperature for up to four tires from 0 to 70 psi. The listing says it is designed for trailers 25 ft or less.\n\nIt is aimed at trailers 25 ft or less and needs two more transmitters for a four-tire tandem. Its 70 psi ceiling is low.\n\nBest for a small tandem that runs low pressure. It is aimed at small trailers, so check psi and length before ordering.",
     "specs": [
       "2 transmitters, up to 4 tires",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ozia1ujAL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9WZBVHT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9WZBVHT?tag=rvgearlab-amz-20",
     "description": "Liwogi's kit has a 7 inch screen, copper sensors and 4, 6, 8 and 10 wheel modes. Liwogi's TPMS has a 7 inch HD display showing up to 10 tires per page, pure copper sensors and customizable 4, 6, 8 and 10 wheel modes. The listing says it can monitor up to 18 tires with manual brightness and sleep and awake modes.\n\nIt covers far more tires than a tandem needs and costs less than Taimster 10-Sensor. Its brightness is manual.\n\nBest for a tandem owner who may add axles or a tow vehicle. It is a large-screen ten-sensor kit.",
     "specs": [
       "7 inch display, pure copper sensors",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510C0dmTXhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHJW92G2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHJW92G2?tag=rvgearlab-amz-20",
     "description": "Taimster's 10-sensor kit has a 4.5 inch solar monitor, a booster and anti-theft locking nuts. Taimster's TPMS pairs 10 sensors with a 4.5 inch solar monitor and a signal booster, with a 0 to 188 psi range, six alerts and IP67 sensors with anti-theft locking nuts. Solar plus Type-C charging gives about 15 days maintenance-free.\n\nIt states 0 to 188 psi and costs the most here. It is far more than a tandem needs.\n\nBest for a tandem trailer plus a tow vehicle. It suits a long rig, and the locking nuts help against theft.",
     "specs": [
       "10 sensors, 0 to 188 psi",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/3177pWrjfXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G62HZL33?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics mummy is rated for temperatures down to 20 degrees F, with synthetic fill, an integrated hood and a 90 by 34 inch size. It comes with a compression carry sack, is machine washable and can unzip into a blanket.\n\nIt is longer than the Wakeman at 83 inches and carries a colder single rating than Bessport's. It uses recycled consumer polyester and costs less than the TETON Trailhead.\n\nIt suits shoppers who need a long mummy with a plain 20F rating. Plan on a comfort range above that.",
     "specs": [
       "Rated to 20F, synthetic fill",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31HtpgF5i4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D47YFZGW?tag=rvgearlab-amz-20",
     "description": "Marketed as a 20 degree mummy, the TETON Trailhead packs microfiber insulation, vaulted footboxes and zipper draft tubes. Its hood closes gaps around the face, and the kit adds a compression sack and hang loops.\n\nIt is the highest-priced pick here and the one aimed squarely at backpacking, while the Amazon Basics is more of a car-camp bag. It prints no weight or pack size.\n\nIt suits budget hikers who want a hooded mummy with draft tubes. Hang it up between trips to keep loft.",
     "specs": [
       "20F mummy, microfiber",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4140srSsjFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJSSQYDG?tag=rvgearlab-amz-20",
     "description": "The Wakeman is a 3 season mummy rated down to 25 degrees F, weighing 2.98 lb and rolling to 17 by 8 inches. It measures 83 by 28 inches with a 210T water-resistant shell and polyester fiber cotton fill.\n\nIt prints weight and rolled size, which the Amazon Basics and TETON do not. Its detail table lists a 10 to 20 degree F rating while the bullet says 25, so the rating figures are inconsistent.\n\nIt suits budget hikers who want a stated weight and compact roll. Plan around the warmer 25 degree F figure.",
     "specs": [
       "25F rated, 2.98 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41kGiiAVfWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07XBJ9C6D?tag=rvgearlab-amz-20",
     "description": "The Bessport is a quilted mummy with a 210T ripstop polyester shell, a taffeta liner, double SBS zippers and an insulated footbox. The title names a 15 to 45 degree F extreme range, and shoulder, hip and foot girth are listed as 63, 50.3 and 33 inches.\n\nIt lists the most fit detail and fits adults 6 ft 1 to 6 ft 6 in. It costs more than the Wakeman, and the comfort range in its details is warmer than the title suggests.\n\nIt suits taller budget campers who want a washable mummy with printed girth. Treat 15F as the extreme end.",
     "specs": [
       "15 to 45F extreme in title",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41WejkQeOdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07FD2C811?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07FD2C811?tag=rvgearlab-amz-20",
     "description": "The Sportneer is a wearable bag with arm zippers, built for 32 to 65 degrees F with hollow fiber filling, a 220T taffeta outer and a 190T pongee lining. It weighs 4.4 lb, compresses to 15.7 by 9.5 inches and is machine washable.\n\nIt is the only bag in the group you can walk around in, which suits stadiums and camp chores. The 32F figure makes it the mildest rated of the five.\n\nIt suits people who want to move around in the bag. It is a cool-weather bag, not a winter one.",
     "specs": [
       "Wearable with arm zippers",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41q+3J3lV-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR3T9QGT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR3T9QGT?tag=rvgearlab-amz-20",
     "description": "BESTEK is a 300W pure sine wave inverter with a 38W Type-C port, an 11 to 17V input range suited to Tesla and other newer vehicles, a built-in 40A fuse and a fan that changes speed with load. Pure sine wave output is the cleaner waveform for sensitive electronics.\n\nAt about $47 it is the only pure sine wave pick here, so it costs more than the 500W modified sine units and gives gentler power for laptops and camera chargers. The POTEK has more watts, and this one has cleaner ones.\n\nChoose it for a laptop, camera batteries and a CPAP-class device where waveform matters. It suits car camping and road trips.",
     "specs": [
       "300W pure sine wave",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51gBELlyaCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N1033XI?tag=rvgearlab-amz-20",
     "description": "POTEK delivers 750W continuous and 1500W peak through two AC outlets and a USB port, with battery clamps, a cigarette lighter adapter and two fuses in the box. Protection covers overvoltage, overload, overcurrent, undervoltage, overheating and short circuit.\n\nAt about $50 it gives 450W more than the BESTEK and 250W more than the 500W units, for $3 more than the BESTEK. It is modified sine wave and needs the battery clamps for anything above about 150W.\n\nChoose it for a power tool, a small blender or a TV from the car battery. Run the engine while using high loads.",
     "specs": [
       "750W continuous, 1500W peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51u1gxOhj5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ2K7THP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ2K7THP?tag=rvgearlab-amz-20",
     "description": "EFFORTWAY gives 500W continuous and 1000W peak through two AC outlets and a 2.1A USB port. It measures 6.7 by 3.5 by 2 inches, comes with a cigarette lighter adapter and battery clamps, and runs devices under 150W from the lighter socket.\n\nAt about $40 it sits between the VANSOET and the POTEK on price and power, and it is the simplest unit without a PD port. The MOVFFGGRM costs $5 less with a third outlet.\n\nChoose it for a laptop and lights from the lighter, with the option of more from the battery. It fits in a glove box.",
     "specs": [
       "500W continuous, 1000W peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bBP872gBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YNBNP1J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YNBNP1J?tag=rvgearlab-amz-20",
     "description": "MOVFFGGRM offers 500W with a 1000W peak, three AC outlets and four 2.4A USB ports in an aluminum heat-dissipating body. It connects by clip or plug.\n\nAt about $35 it is cheaper than the EFFORTWAY by $5 and adds a third AC outlet and four USB ports. It is modified sine wave like the others.\n\nChoose it for a family car with several phones and a laptop. The aluminum body sheds heat.",
     "specs": [
       "500W, 1000W peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IIFS-bifL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF53SYNT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF53SYNT?tag=rvgearlab-amz-20",
     "description": "BESTEK's 200W inverter offers 500W peak, two AC outlets, a PD 30W USB-C port, a QC 18W USB-A port and a 12V socket, so five devices can run at once. It measures 3.18 by 2.94 by 5.6 inches, weighs 0.97 lb and fits a cup holder, with a 25A fuse.\n\nAt about $40 it has the fastest USB-C of the six and a cup-holder shape that the larger units lack. It gives up 300W of AC compared with the 500W units.\n\nChoose it for phones, a tablet and a small laptop in the cabin. It stays within the lighter socket's limit.",
     "specs": [
       "200W continuous, 500W peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ia+11m5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-amz-20",
     "description": "VANSOET is a 400W inverter with two AC outlets, a 30W PD USB-C port, a 15W USB-A and USB-C and a separate AC on/off switch. Green and red LEDs show status or fault.\n\nAt about $30 it is the cheapest pick and a third less than the BESTEK 300W. The switch saves idle draw, which matters when the car is off.\n\nChoose it for the lowest price with 400W of power and a laptop-capable USB-C. It suits spare-use roles.",
     "specs": [
       "400W, two AC outlets",

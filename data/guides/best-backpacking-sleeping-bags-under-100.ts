@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pfBY+ln-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B071XXR2Y8?tag=rvgearlab-amz-20",
     "description": "The Naturehike envelope bag weighs 1.68 lb and packs into a small compression sack. It measures 80.7 by 33.5 inches, and it is filled with an imitation silk cotton at 80 grams per square meter.\n\nAgainst the NewDoar, it is wider and roomier, with a rectangular shape that suits restless sleepers. Compared with the MalloMe, it weighs about half as much.\n\nIt suits backpackers who want a roomy, light bag for spring through early fall. The title lists 59F and 32F as its temperature figures.",
     "specs": [
       "1.68 lb, compressible",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "The NewDoar is a 1.5 lb bag with a packed size of 11.8 by 6.5 inches and a 380T ripstop nylon shell. Two-way zippers let two bags link into a double, and a heavy-duty compression sack is included.\n\nNext to the Naturehike, it is a touch lighter and more compact, with the added trick of linking bags. Against the BORULL, it stays in the same weight class and adds the zipper-link feature.\n\nIt works for backpackers on warm routes who want to save pack space. Its 50F to 70F range makes it a summer bag.",
     "specs": [
       "1.5 lb, packs 11.8 x 6.5 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BG+Vm+T2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GZN8VB71?tag=rvgearlab-amz-20",
     "description": "The BORULL bag weighs 1.5 lb and packs to 7.9 inches, about the size of a soccer ball. It measures 79 by 30 inches, 4 inches longer than a standard bag, and has a comfort range of 50F to 77F.\n\nCompared with the NewDoar, it is longer and lists a 32F limit. Against the Naturehike, it is a narrower cut that fits taller hikers.\n\nIt is the right pick for tall backpackers who need a long ultralight bag. The whole-piece insulation avoids clumping after washing.",
     "specs": [
       "1.5 lb, packs to 7.9 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TnRkxW-6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B077XQDZW4?tag=rvgearlab-amz-20",
     "description": "MalloMe sells this bag with a 50F to 77F temperature range for spring through summer. At about 3 lb it fits a 6 foot adult, and the shell cleans with a damp cloth before a trip to the washer.\n\nAgainst the BORULL, it is heavier and a bit less compact. Compared with the OBTANIM, it names a clear rating range and a weight, which makes it easy to plan around.\n\nIt suits car-to-trail campers who share one bag across kids and adults. It also doubles as a guest bag at home.",
     "specs": [
       "About 3 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Qa8INgMbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09P9YLL8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09P9YLL8W?tag=rvgearlab-amz-20",
     "description": "The OBTANIM is a polyester bag with double microfiber fill and a waterproof double-layer design. It is listed for all seasons and for use close to freezing.\n\nNext to the MalloMe, the OBTANIM claims a wider seasonal range for a lower price. Against the Naturehike, it is the lower-price alternative with a similar envelope idea.\n\nIt fits beginners who want the cheapest way to carry a bag on a short trip. It is also sold for kids and adults.",
     "specs": [
       "Double microfiber fill",

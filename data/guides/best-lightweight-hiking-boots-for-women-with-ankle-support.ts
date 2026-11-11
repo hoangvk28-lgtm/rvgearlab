@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517yr9y3fVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09M8YVR18?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09M8YVR18?tag=rvgearlab-amz-20",
     "description": "The Foxelli High-Cut is a waterproof women's boot with a KingTex waterproof membrane, a suede leather and breathable mesh upper and a high-cut design for ankle support. The listing adds a roomy toe box, wide sizes, removable insoles, shock-absorbing midsoles and a deep-lug slip-resistant outsole.\n\nAgainst the ANJOUFEMME Mid-Cut, it has a higher collar and a cushioned tongue and collar. Compared with the NORTIV 8 Lightweight Ankle, it is fully waterproof and offers wide sizing.\n\nIt suits women who want the most support and a roomy fit without a break-in. The listing claims no break-in time is needed.",
     "specs": [
       "KingTex waterproof, high-cut",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410knL1bxfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6JZNWXN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6JZNWXN?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME Mid-Cut is a waterproof boot with a sealed membrane, a mid-cut collar and a structured heel for ankle support. A cushioned EVA midsole keeps it light, and the rubber outsole has deep, aggressive lugs.\n\nCompared with the Foxelli High-Cut, it is lighter and cheaper with a mid-height collar. Against the NORTIV 8 Suede Ankle, it adds a structured heel and abrasion-resistant materials with reinforced stitching.\n\nIt suits women who want stability on rocky paths in a light, waterproof boot. The listing mentions durable materials for years of outdoor use.",
     "specs": [
       "Sealed waterproof membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xsFzvIYyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C9J9H41B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C9J9H41B?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Toe-Cap is a waterproof women's boot with a waterproof membrane, a soft suede upper, a protective toe cap and a textured rubber outsole. The flexible insole has a heel cup and micro arch support, with a padded collar that adds ankle comfort.\n\nCompared with the Foxelli High-Cut, it has a lower cost and a toe cap, with less stated ankle structure. Against the ANJOUFEMME Mid-Cut, it adds a rubber toe cap and a padded collar.\n\nIt suits hikers on rocky or rooty trails who need toe protection and some ankle padding. The listing says the toe cap shields from rocks, stones and roots.",
     "specs": [
       "Waterproof membrane, suede upper",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41S+yVs7otL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DX789B3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DX789B3Q?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Suede Ankle is a waterproof women's boot with a lightweight durable midsole, an advanced traction rubber sole and a suede leather ankle-boot structure. A durable mesh tongue adds breathability, and the slightly firm sole gives support.\n\nIt is more fashionable than the Foxelli High-Cut, with contrasting colors and soft suede. Compared with the ANJOUFEMME Mid-Cut, it has a breathable tongue and a firmer sole.\n\nIt suits women who want an ankle boot with a trail-capable sole for hikes and town. The listing describes slip-resistant soles on rugged terrain.",
     "specs": [
       "Waterproof, suede ankle boot",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SxkNRuklL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BFPVY6HX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BFPVY6HX?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Lightweight Ankle is a women's ankle hiking boot in suede leather with a breathable mesh lining and a lightweight EVA midsole. Hooks at the top keep the laces secure, and a rubber outsole with Multi-Directional Traction grips mud and rock.\n\nIt is the lightest pick here and skips the waterproof membrane of the Foxelli High-Cut. Compared with the NORTIV 8 Suede Ankle, it has a removable insole with arch support and lace hooks.\n\nIt suits women who want a light, breathable ankle boot for dry hikes and camping. The listing covers hiking and everyday activities.",
     "specs": [
       "Suede leather, breathable mesh lining",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51rWa8E-r3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0928LG8M3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0928LG8M3?tag=rvgearlab-amz-20",
     "description": "The ANJOUFEMME Plaid Ankle is a waterproof PU outer ankle boot with a flexible, wear-resistant TPE outsole and a removable insole with a plaid fabric lining. Reinforced eyelets prevent lace breakage, and the lace-up closure secures the fit.\n\nIt is the most casual pick, aimed at town walks and light trails. Compared with the NORTIV 8 Suede Ankle, it has a plaid lining and a more flexible TPE sole.\n\nIt suits women who want a budget ankle boot for cool days and short walks. The lining adapts to spring and fall.",
     "specs": [
       "Waterproof PU outer, TPE outsole",

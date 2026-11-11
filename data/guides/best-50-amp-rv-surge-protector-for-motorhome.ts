@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ensq4+TmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B003AN1UA8?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-HW50C is a hardwired 50 amp unit rated for 120 to 240 volts and 12,000 watts. It absorbs surges up to 3,580 joules and its listing names a long fault list: over and under voltage, open ground and neutral, reverse polarity, a miswired pedestal, accidental 240 volts, surge failure and AC frequency problems. It has thermal protection and an integrated display, and it is made in the USA.\n\nIt takes first place because it wires into the coach, so it cannot be stolen from the pedestal or left behind, and it costs only $2 less than the portable EMS-PT50X despite the permanent install. Against the Power Watchdog PWD50EPOH it is $178 cheaper and gives up Bluetooth and a replaceable surge module, but it publishes a more detailed fault list.\n\nChoose it for a motorhome you travel in often, where you do not want to carry or reconnect a protector at every stop. The caveat is installation: it needs a wiring job inside the coach, which is a task for a qualified electrician if you are not experienced with 50 amp panels.",
     "specs": [
       "Hardwired, 50A, 12,000W",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nZA1uuVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPOH is a hardwired 50 amp protector with an emergency power-off function that cuts power during extreme voltage swings. Its listing highlights Bluetooth and wireless fault alerts, an optional RVWhisper add-on for monitoring over Wi-Fi or cellular, and a replaceable surge module, so a spent module can be swapped without replacing the whole protector.\n\nIt ranks second because it costs $349.99, about $178 more than the Progressive hardwired unit, and the listing does not publish a joule figure or a detailed fault list. What you get for the money is remote visibility: if the pedestal browns out while you are away from the coach, you get an alert, and the replaceable module lowers long-term cost.\n\nPick it if you leave the motorhome plugged in at a storage lot or seasonal site and want phone alerts. The caveat is that the best monitoring features need the optional RVWhisper add-on, which is extra cost.",
     "specs": [
       "Hardwired 50A with EPO",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LI7swlzyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01N9MOY7B?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries EMS-PT50X is the portable version of the same protection, with 50 amp, 120 to 240 volt and 12,000 watt ratings and 3,580 joules of surge absorption. It protects against over and under voltage, reverse polarity and surge failure, uses an all-weather shield with a Lexan housing, thermal protection, and an integrated display with LED indicators.\n\nIt ranks third because it costs about the same as the hardwired EMS-HW50C but sits at the pedestal where it can be unplugged or stolen, and its listed fault coverage is shorter, with no mention of open ground or neutral. It is $196 cheaper than the Power Watchdog PWD50EPO, though without the app. Versus the SSP-50XL it offers more than double the joule rating.\n\nChoose it if you cannot or do not want to hardwire and you want a trusted EMS style protector you can move between rigs. The caveat is theft and rain exposure at the pedestal, so use a lock if the park allows it.",
     "specs": [
       "Portable 50A, 12,000W",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Vjd4PQ-EL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07PMJ2K95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07PMJ2K95?tag=rvgearlab-amz-20",
     "description": "The Power Watchdog PWD50EPO is a portable 50 amp unit offering 6,100 joules of surge protection, circuit analysis that shuts power off in an emergency, and a free phone app that shows voltage, amperage and wattage in real time. The listing says it runs a power-on analysis in about 4 seconds and adds a 90-second delay after a fault clears, and it has LED park-power diagnostics and wireless fault alerts. It is rated IP65.\n\nIt ranks fourth because it costs $369.99, about $196 more than the portable Progressive. For that you get more than 1.7 times the joules, the app, and a faster power-on check, but the listing does not publish a fault list as detailed as the Progressive's. Against the hardwired Power Watchdog it saves the install but gives up the theft protection.\n\nChoose it if you want to see real-time load and voltage on your phone, for example to know when two roof air conditioners are pushing 50 amps. The caveat is price, and at the pedestal it is exposed to theft.",
     "specs": [
       "Portable 50A, 6,100 joules",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xaBDuq-yL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B015Y9A4HU?tag=rvgearlab-amz-20",
     "description": "The Progressive Industries SSP-50XL costs $68.39 and carries the same 50 amp, 120 to 240 volt and 12,000 watt ratings as the pricier models. It absorbs 1,650 joules and its listing names over and under voltage, open ground and neutral, reverse polarity, surge failure and AC frequency protection, with a Lexan housing, all-weather shield and LED indicators.\n\nIt ranks fifth because the surge energy is lower and the display is a set of LEDs only, but the fault list is nearly as long as the EMS-PT50X's, and it costs $105 less. It is about $27 less than the GEARGO, and a US-made name brand with a documented fault list.\n\nThis fits owners who want real fault shutdown at a low price and accept lower surge energy. The caveat is that 1,650 joules is a smaller buffer than the 3,580 on the EMS models, so it is better for pedestal faults than for a lightning-prone location.",
     "specs": [
       "Portable 50A, 12,000W",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411DIUD1nNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2F3DN8T?tag=rvgearlab-amz-20",
     "description": "The GEARGO 3rd-Gen 50 Amp protector is a plug-and-play unit at $94.99 with an 18,000 joule rating, red and green LED indicators for open ground, reverse polarity and similar wiring faults, an IP68 waterproof design, flame-retardant construction, a waterproof cover and a three-year after-sales service promise.\n\nIt ranks last because joules are not a reliable comparison across brands, and the listing describes an analyzer with indicator lights but does not publish voltage cutoff thresholds the way the Progressive models do. It costs about $27 more than the SSP-50XL, which has a documented fault list and a lower joule number, so the big joule figure is its main selling point rather than proof of better protection.\n\nChoose it if you want a cheap, weather-sealed unit and treat it as a basic analyzer plus surge absorber. The caveat is that for a motorhome with expensive electronics, a unit that publishes its cutoffs is a safer bet.",
     "specs": [
       "Portable 50A, 18,000J claimed",

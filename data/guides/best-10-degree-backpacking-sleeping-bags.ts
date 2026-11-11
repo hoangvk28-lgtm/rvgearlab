@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ghlgseeBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08TQYGG1N?tag=rvgearlab-amz-20",
     "description": "ZOOOBELIVES prints 10 degree on the title and packs 35 oz of down rated 550+ fill power into this four-season mummy. The shell is 20D ripstop nylon with a YKK anti-snag zipper, and the listing gives a contoured hood with a face draft collar.\n\nAgainst the TETON Altos-S, it is the only pick that names its fill, its fill weight and its shell fabric, which makes the warmth claim easy to weigh. The insulated draft tube and 3D foot box are the features that cut heat loss on a cold ridge.\n\nA strong match for backpackers who want a literal 10 degree down bag without paying for an ultralight brand. It packs to about 10 x 7 x 15 inches with the compression straps.",
     "specs": [
       "35 oz of 550+ fill down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311MLWC3MPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B075JD2WGZ?tag=rvgearlab-amz-20",
     "description": "TETON sells the Altos-S as a 0 degree mummy with a built-out footbox and extra shoulder and leg room. The shell is described as water resistant, and a compression sack comes in the box.\n\nIt trades the named down fill of the ZOOOBELIVES for a roomier cut, so side sleepers and anyone who feels boxed in by a narrow mummy get more space to move. The label sits colder than 10 degrees, which gives a margin on borderline nights.\n\nGood for cold-weather hikers who want hood warmth without a tight squeeze. Keep the compression sack for the trail and store the bag loose at home.",
     "specs": [
       "0 degree label, mummy hood",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312iGouSCvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CMRBPY2L?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CMRBPY2L?tag=rvgearlab-amz-20",
     "description": "The MOSLIGHTING is a 4-in-1 folding lantern with a Bluetooth speaker, a flashlight on top and a 90 degree foldable LED bar. It lists a 10,000mAh battery with a USB output for charging phones, IP54 protection and a flashlight with warm, white, cool and SOS modes.\n\nIt carries the largest battery here, and it is the only pick with a separate flashlight. It costs more than the JWEX and WIN FUNNY LIFE.\n\nIt suits campers who want a lantern, a speaker and a phone charger in one. The 180 day replacement policy is listed.",
     "specs": [
       "10,000mAh with USB output",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xFQwYvJ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGPL9D14?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGPL9D14?tag=rvgearlab-amz-20",
     "description": "The JWEX Revonext lists 10W full-range drivers, Bluetooth 5.3, True Wireless Stereo pairing for two units, a 4000mAh battery and IPX4 water resistance. It has warm white and cool white modes with adjustable brightness in a vintage lantern style.\n\nIt has the strongest named audio specs here and the newest Bluetooth version. It costs less than the MOSLIGHTING and has a smaller battery.\n\nIt suits campers who care about sound and want a pair for stereo. The vintage styling suits a picnic table.",
     "specs": [
       "10W drivers, Bluetooth 5.3",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31aI71fP7jL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DRFH91K3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DRFH91K3?tag=rvgearlab-amz-20",
     "description": "The WIN FUNNY LIFE is a 3-in-1 lantern, speaker and RGB light with 3 warm white brightness levels, 11 RGB color modes and TWS pairing. It weighs 0.85 lbs with a 1800mAh battery that lists up to 10 hours.\n\nIt offers the most color modes and a light 0.85 lb body. Compared with the JWEX it has a smaller battery.\n\nIt suits campers who want colorful ambiance for a group and a warm night light for the tent. The lightweight body hangs easily.",
     "specs": [
       "11 RGB modes, 3 white levels",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MdJuPqXgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQYHRGH7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQYHRGH7?tag=rvgearlab-amz-20",
     "description": "The JinXiHua is a waterproof Bluetooth 5.2 speaker with a flame-effect light that flickers like a dancing flame. It supports TWS pairing for stereo, and the listing describes clear highs and deep lows.\n\nIt is the lowest priced pick, at about 40 percent of the MOSLIGHTING. It gives up the bright lantern light for a flame effect.\n\nIt suits campers who want a fire-like glow and music at the table. The waterproof build is listed.",
     "specs": [
       "Bluetooth 5.2, TWS pairing",

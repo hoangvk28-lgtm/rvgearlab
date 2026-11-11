@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413sWGNdInL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082QJ7H1R?tag=rvgearlab-amz-20",
     "description": "The TireMinder i10 comes with 4 transmitters and a signal booster, and the listing says it monitors up to 40 tires from 0 to 199 psi with plus or minus 1 psi accuracy. The 3.15 inch color LCD shows PSI or temperature at once, and the listing says it checks for slow leaks, blowouts and high temperature every 6 seconds.\n\nIt ranks first because it covers a tandem trailer with a booster and the widest stated range here. It costs far more than the Tymate TM12 6-Set below, which gives six sensors for under half the price.\n\nBest for a tandem-axle trailer with high-pressure tires or a long hitch-to-axle distance. The listing does not state a sensor type, so confirm fit with your valve stems.",
     "specs": [
       "4 transmitters, booster included",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fmzo85qfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1JZZ9X?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 6-Set comes with 6 IP67 waterproof external sensors and a display that shows up to 12 tires across four zones. The listing says the range is 50 ft, extendable past 100 ft with the Tymate Repeater, and the display charges by USB-C or solar.\n\nCompared with the TireMinder i10 4-Pack above, it ships two more sensors for much less money, which covers a triple-axle trailer. It has no included booster, and the listing does not state a pressure range.\n\nBest for a triple-axle trailer or a tandem with spare tires. Confirm the psi range against your tires first.",
     "specs": [
       "6 external sensors",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EiAIXjCoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GHRNZHFN?tag=rvgearlab-amz-20",
     "description": "The Masoll RV kit comes as a set of 4 sensors with a booster that the listing says lifts the transmission distance up to 120 ft, and a color LCD with 4 brightness levels. The listing says it is sold with 2, 4, 6 or 8 sensors to match your tire count.\n\nCompared with the Tymate TM12 6-Set it gives only four sensors but includes a booster for long trailers. It is cheaper than the TireMinder i10 4-Pack and lists no pressure range.\n\nBest for a tandem trailer with a long distance between axle and cab. Confirm the pressure range with the seller.",
     "specs": [
       "4 sensors with booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51V52cyuULL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVJ7KWDL?tag=rvgearlab-amz-20",
     "description": "The Flydew 6-Wheel kit reads 0 to 144 psi with plus or minus 1.5 psi accuracy, and the listing says the sensors update every 0.3 seconds. It has 6 alarm modes with custom thresholds, an auto-dimming color LCD and solar and USB-C charging.\n\nIt costs less than the Tymate TM12 6-Set and has a stated range, but the listing does not mention a booster. Against the Masoll RV Booster Kit it gives six sensors and a stated psi range.\n\nBest for a triple-axle trailer on a budget with tires under about 120 psi. A long trailer may need to test the signal range before relying on it.",
     "specs": [
       "6 sensors, 0-144 psi",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MvQZ30D7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D943S8NW?tag=rvgearlab-amz-20",
     "description": "The Masoll M13 comes with 4 sensors and a solar-charged color LCD, and the listing says it reads 0 to 87 psi with plus or minus 1.5 psi accuracy. It says it suits vehicles with 4 tires, including a travel trailer less than 38 ft.\n\nIt is cheaper than the TireMinder i10 4-Pack but its 87 psi range stops far below it. It also covers only four tires and has no booster.\n\nBest for a small tandem trailer under 38 ft with tires under 87 psi. For a heavier trailer, choose a higher-range kit.",
     "specs": [
       "4 sensors, 0-87 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0hx+PWPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-amz-20",
     "description": "The Tymate TM7 set comes with 4 sensors reading 0 to 144 psi, with accuracy of plus or minus 1.5 psi or 3 F. The listing says it plugs into the cigarette lighter and charges over dual USB, and sets up in 5 minutes.\n\nIt matches the price of the Masoll M13 and reads higher, to 144 psi. It has no booster and covers only four tires, so a long or triple-axle trailer needs a bigger kit.\n\nBest for a tandem trailer on a tight budget with a short hitch distance. Add a booster if you struggle with signal.",
     "specs": [
       "4 sensors, 0-144 psi",

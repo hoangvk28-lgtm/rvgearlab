@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Jb2F3TlRL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QPZKSCT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QPZKSCT?tag=rvgearlab-amz-20",
     "description": "The OneTigris is a mesh half tipi that weighs only 1.5 lbs. It uses 70D nylon with a 3000mm bathtub bottom and fully taped seams, and it offers a 6.5 by 2.8 foot sleep space and 3.7 feet of height.\n\nIt is the lightest pick, and it costs less than the Camppal and the Night Cat. It has a mesh body, so it keeps bugs out and gives airflow, while the pole tents give more weather cover.\n\nIt suits solo hikers who want the lowest weight and plan to pair it with a tarp or a poncho shelter. An elastic cord at the top lets you hang it from other gear.",
     "specs": [
       "1.5 lbs, 70D nylon",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/311SmL-vilL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0813M3VWZ?tag=rvgearlab-amz-20",
     "description": "The Camppal is a single-pole one-person tent with an 8.2 foot inner length and a 3500 to 4000mm water rating. It lists a 3-minute setup, and the listing calls it an ultralight tent.\n\nIt has the longest floor of the four and the strongest water numbers. The OneTigris is lighter, and the Night Cat sets up faster.\n\nIt suits taller hikers who want weather margin. The extra length leaves room for a pack at the foot.",
     "specs": [
       "8.2 ft inner length",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41POIor4EoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CT8H39HS?tag=rvgearlab-amz-20",
     "description": "The Night Cat is a pop-up one-person tent that opens in about three seconds when thrown. It weighs 1.5 kg, packs to a 21 inch square disc and has a 7.7 foot inner length with a porch.\n\nIt is the fastest to set up and fits a twin-size mattress, and it weighs more than the OneTigris. The Camppal beats it for rain numbers.\n\nIt suits solo campers who want speed over weight. One door and two windows give airflow.",
     "specs": [
       "1.5 kg, folds 21x21x2 in",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41VHXwNqr-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07LBGFNL6?tag=rvgearlab-amz-20",
     "description": "The Sutekus is a one-person tent that weighs 3 lbs and measures 78.7 by 39.4 by 33.5 inches. It uses 180D Oxford fabric and ships with two poles, four pegs and a storage bag.\n\nIts price is the lowest here and its weight the highest, which makes it the entry-level pick. The OneTigris halves its weight for a similar price.\n\nIt suits a solo camper on a budget who does not count ounces. The single entrance keeps the design simple.",
     "specs": [
       "3 lbs, 180D Oxford",

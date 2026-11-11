@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31RH3g1XkNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RBV936R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RBV936R?tag=rvgearlab-amz-20",
     "description": "The Joopin Oversized Butterfly has polarized HD lenses and UV400 protection that the listing says blocks 99 to 100 percent of UVA and UVB radiation. The oversized frame provides more coverage, and the lenses are scratch resistant with a one-piece nose pad design.\n\nCompared with the OWL Cateye, its large lens covers more around the eye, and the frame reads as the most protective shape here. Next to the FIMILU 2-Pack, it adds a lens test card, a bag and a box.\n\nA big lens gives wide cover for driving, beach days and long errands. Pinch-free nose pads let you push the pair up onto your head.",
     "specs": [
       "UV400, blocks 99-100% UVA/UVB",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L5vFfzbWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMTXZFLK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTXZFLK?tag=rvgearlab-amz-20",
     "description": "The FIMILU 2-Pack gives two pairs of large-frame polarized sunglasses with UV400 lenses that block UVA and UVB. The frame is described as not overly huge and still large enough for most women, and TAC polarized lenses reduce glare from roads, water and snow.\n\nTwo pairs mean a spare for the car and the bag, which the single-pair picks cannot offer. Compared with the Joopin Oversized Butterfly, the frame is a little smaller and the extra pair adds value.\n\nIt is a practical choice for women who keep sunglasses in more than one place. Customer service is listed.",
     "specs": [
       "Two polarized UV400 pairs",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31civ74dx9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQL87D9Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQL87D9Q?tag=rvgearlab-amz-20",
     "description": "The Joopin Acetate Cat Eye has a vintage 1950s cat-eye shape, TR90 frame, acetate temples and a spring hinge. Polarized lenses with UV400 protection are named, and a hard case, soft box, bag, lens cloth and polarized testing card come in the set.\n\nAcetate temples and a spring hinge give it a sturdier feel than the plastic OWL Cateye. Compared with the WOWSUN Large Cat Eye, it adds a full accessory set and a test card.\n\nIt suits women who want a cat-eye with the best hardware here. The hypoallergenic acetate is listed for comfort.",
     "specs": [
       "Polarized UV400 lenses",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VN58BPvmL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP8VN5SQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP8VN5SQ?tag=rvgearlab-amz-20",
     "description": "The WOWSUN Large Cat Eye has polarized lenses with UV400 protection and a retro cat-eye frame inspired by the 1950s and 60s. Solid metal hinges, curved temples and a 55 mm lens height with a 50 mm lens width are named, along with a 147 mm frame length.\n\nIts 55 mm lens height gives more vertical coverage than the Colrea Oval Cat Eye, and the listing gives the full set of measurements. Compared with the Joopin Acetate Cat Eye, it offers metal hinges and a slightly lower price.\n\nIt works for women who want a large cat-eye with measured fit data. The curved temples keep the arms from pressing.",
     "specs": [
       "Polarized UV400 lenses",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31hrtpGZSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8HHGDGX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8HHGDGX?tag=rvgearlab-amz-20",
     "description": "The Colrea Oval Cat Eye 2-Pack gives two pairs of small oval cat-eye sunglasses in shatterproof polycarbonate with 100 percent HD UV400 lenses. The listing says the lightweight frame filters stray light, and a microfiber cloth and wrapping box come with the set.\n\nIt is the best fit for a petite face, since the small frame rests close to the cheeks. Compared with the OWL Cateye, it adds a second pair and a shatterproof frame.\n\nPick it when you want a spare pair and a small style. Lens coverage is lower than the oversized frames.",
     "specs": [
       "100% HD UV400 lenses",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JKHR0bujL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07HGVS1QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07HGVS1QC?tag=rvgearlab-amz-20",
     "description": "The OWL Cateye is a classic 1950s cat-eye in an all-black frame with smoke lenses, and the listing calls the fit smaller and more petite than standard frames. Polycarbonate lenses with UV400 protection block UVA and UVB, and the plastic frame is lightweight.\n\nIt costs less than the other cat-eye picks and offers the smoke lens that gives natural color. Compared with the Joopin Acetate Cat Eye, it has a plain plastic build.\n\nIt is a good first pair for driving and vacations on a tight budget. The shape works for casual outfits and costumes.",
     "specs": [
       "UV400 polycarbonate smoke lenses",

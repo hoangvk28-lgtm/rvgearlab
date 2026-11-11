@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413q6loDz0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3WRF3KM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3WRF3KM?tag=rvgearlab-amz-20",
     "description": "The DaranEner kit lists a 576Wh LiFePO4 battery with 600W continuous output and 1,200W peak, bundled with a 100W foldable monocrystalline panel rated at 25 percent efficiency. It recharges fully in 1.1 hours from 550W AC and has 7 ports with two fast USB-C charging ports, a car socket and a built-in UPS.\n\nIt stores double the 288Wh of the Daran 80W kit and ships with a bigger panel than that kit. Its single AC outlet is the trade for that size, where the other two give more outlets.\n\nThis kit is for campers wanting the most solar input and battery in the 600W class. Cells are rated for 3,500-plus cycles.",
     "specs": [
       "576Wh LiFePO4, 600W, 1,200W peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RxbMjWhZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9RWG765?tag=rvgearlab-amz-20",
     "description": "The LIBRIDS C600 packs 640Wh of automotive-grade LiFePO4 with 600W rated AC output, up to 1,200W surge, 4 AC outlets and a 10ms UPS. It recharges in about 1.5 hours and accepts a solar panel through an XT60 port, a car port or a gas generator.\n\nIt holds more energy than either Daran kit and costs the least, with four AC outlets where the 576Wh kit has one. It ships without a solar panel, so panels are an added cost.\n\nIt suits home backup and camping buyers who already own panels or plan to buy their own. The 4,000-plus cycle rating suits regular use.",
     "specs": [
       "640Wh LiFePO4, 600W, 1,200W surge",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517QK0tC86L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6352TK4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6352TK4?tag=rvgearlab-amz-20",
     "description": "The Daran kit combines a 288Wh LiFePO4 battery with an 80W solar panel, delivering 600W continuous with 1,200W surge across 2 AC outlets, USB-C at up to 100W, extra USB ports and a 120W car outlet. It recharges to 80 percent in about 2 hours on 120W AC and to full in 4 to 5 hours on the panel.\n\nIt is the smallest battery of the three, at half the 576Wh kit, yet it is the only one of the trio whose listing names a 60W car refrigerator as a load. The LIBRIDS C600 offers more storage for less money.\n\nIt suits car campers and short trips who want the lightest setup with a panel in the box. The 3,500-plus cycle cells rate it for ten years of regular use.",
     "specs": [
       "288Wh LiFePO4, 600W, 1,200W surge",

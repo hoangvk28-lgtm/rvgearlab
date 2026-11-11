@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KRgnuHaDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQNHJHXC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQNHJHXC?tag=rvgearlab-amz-20",
     "description": "The HINSTANT 10-person tent has a 14 ft by 10 ft floor and an 83 inch peak, with pre-attached galvanized metal poles that raise it in about 60 seconds. Its 190T taffeta with a 2000mm PU coating sits under a taped rainfly, and two doors, six large mesh windows and two bottom vents give airflow.\n\nIts 83 inch peak is the tallest here, which beats the CORE and Fanttik on headroom. The 2000mm rating is lower than the Night Cat inflatable.\n\nBig families will like the volume and the speed. Mesh windows and vents help with condensation.",
     "specs": [
       "14 ft by 10 ft, 83 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jSOOwLwTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H14MPMLT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H14MPMLT?tag=rvgearlab-amz-20",
     "description": "The Night Cat inflatable tent inflates in about 60 seconds with a hand pump. PVC air beams hold the frame, the Oxford shell has PU 5000mm waterproofing, and a blackout coating darkens the interior. Two mesh windows and dual doors provide airflow.\n\nIt has the best rain rating here at 5000mm, and the air beams replace poles. It sleeps four, which is smaller than the HINSTANT.\n\nCampers who want a weatherproof, blackout shelter will like it. Setup needs a pump.",
     "specs": [
       "PVC air beams, 60-second inflate",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rG0TUkNoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FX2TXDN4?tag=rvgearlab-amz-20",
     "description": "The Portal tunnel tent stretches about 20 ft with a 6 ft screen room, spans 8 ft across and rises to 76 inches. Its quick-pitch frame opens smoothly, a 66D water-resistant fabric sits under a rainfly, and improved fiberglass poles add strength.\n\nIt offers a screened lounge that no other tent here has, and its fabric is thinner than the HINSTANT. Two full-size air beds fit inside.\n\nFamilies who want a bug-free sitting area will like it. An e-port lets a cord in.",
     "specs": [
       "20 ft long with 6 ft screen room",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Fe1rEMrPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CR19JW7M?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C10 Pro spreads over 168 by 120 inches and its attached poles let it go up in less than a minute. Mesh sits on four sides and the ceiling, vents run along the floor, and a channel at the door drains water.\n\nFanttik is honest about capacity, quoting 10 for sleeping only and 5 with gear. Its airflow beats the CORE's.\n\nFamilies in hot climates will like it. A tub-style base helps on wet ground.",
     "specs": [
       "168 by 120 in, one-minute pitch",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Zj-W5I+ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00VFH1RQS?tag=rvgearlab-amz-20",
     "description": "CORE's nine-person instant cabin stretches 14 ft by 9 ft under a 78 inch peak and holds two queen air beds. Its attached poles lock in around two minutes, while H2O Block 1200mm fabric, a taped fly and sealed seams shed rain.\n\nSeam sealing is the most thorough here, and the interior pockets keep small items organized. The HINSTANT pitches faster and stands taller.\n\nFamilies wanting a dependable cabin will like it. Steel stakes and guylines come in the box.",
     "specs": [
       "14 by 9 ft, 78 in peak",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "Coleman offers this instant tent in four sizes, and the 4-person version is 8 ft by 7 ft. It combines attached poles, an integrated fly and Polyguard 2X double-thick fabric, and a pitch that can finish in a minute.\n\nIt is the most compact tent in this list and has thicker fabric than most. The CORE and HINSTANT offer far more space.\n\nBeginners who want a trusted brand will like it. Spare parts are easy to find.",
     "specs": [
       "8 ft by 7 ft",

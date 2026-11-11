@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Hn0REwb7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FP2FD2VH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FP2FD2VH?tag=rvgearlab-amz-20",
     "description": "This 20 inch pit is dual-wall stainless steel with a 360 degree airflow design, bottom air inlets and upper vents. At 16.5 lb it comes with a removable ash pan, a 304 stainless grill grate, a fire poker, a heat-resistant glove, a carry bag and built-in handles.\n\nAt about $120 it costs $48 more than the Ridge Smokeless and brings stainless steel, a bigger bowl and the full accessory kit. It carries a grill grate, so you can cook on it.\n\nIt suits RV and camper owners who want one durable stainless pit for cooking and warmth. It packs in its own bag.",
     "specs": [
       "20 inch dual-wall stainless",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ikfTTMuiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08H4XH1B2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08H4XH1B2?tag=rvgearlab-amz-20",
     "description": "The Hykolity is a 31 inch pit, 24 inches high, with a 21.06 inch swivel cooking grate that turns 360 degrees. Powder-coated heavy-duty steel handles heat, it comes together in four pieces with no extra tools, and a one-year warranty covers the build.\n\nAt about $99 it costs $21 less than the Stainless Smokeless 20 inch and is the most compact of the grill-top models, which suits smaller yards. It has one grate, not two.\n\nIt suits backyards that want a real cooking surface. Setup is quick, with four pieces.",
     "specs": [
       "31 inch powder-coated steel",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61pZEVS54oL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C64VCSKN?tag=rvgearlab-amz-20",
     "description": "The OutVue 36 inch comes with two height-adjustable, 360 degree swivel cooking grills, a lid and a tabletop, plus a waterproof round cover and a poker. It holds up to 20 lb of wood and sets up in about 20 minutes with detailed instructions.\n\nAt about $100 it costs a dollar more than the Hykolity and offers two grills instead of one. The lid doubles as a tabletop for a usable work surface.\n\nIt suits families that cook over the fire. The cover protects the pit outdoors.",
     "specs": [
       "36 inch pit, two swivel grills",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p0ddWepgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3JLH629?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3JLH629?tag=rvgearlab-amz-20",
     "description": "The Pamapic is a propane fire pit rated at 60,000 BTU with a 304 stainless burner and natural lava rocks, weighing 16.7 lb with height-adjustable legs. A fully adjustable regulator knob sets flame height, and it makes a smokeless flame with no ash.\n\nAt about $150 it costs the full cap and trades wood for gas, which means no smoke, no ash and no splitting. It costs $30 more than the Stainless Smokeless 20 inch.\n\nIt suits campers and patios that want instant flame and easy shutoff. Use it outdoors with proper ventilation.",
     "specs": [
       "60,000 BTU propane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31FMhExRBKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NTQJGSL?tag=rvgearlab-amz-20",
     "description": "The Ridge is a 15.76 by 12.49 inch smokeless pit whose airflow system feeds hot air back through the fire, so it takes wood, pellets or both and runs past 1,400F. A carry bag, spark screen and screen lift come with it.\n\nAt about $72 it carries the lowest price here, $48 below the Stainless Smokeless 20 inch. It is smaller than the grill-top pits and packs into a bag.\n\nIt suits beach trips, tailgates and camps where space is tight. The powder-coated steel body is light.",
     "specs": [
       "15.76 inch wide, 12.49 inch high",

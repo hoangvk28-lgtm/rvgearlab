@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31fK8g9MDIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLY5N3W1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLY5N3W1?tag=rvgearlab-amz-20",
     "description": "The Farfly footprint is 94 by 94 inches in 210D polyester Oxford with a PU3000 coating and 8 elastic loops plus metal grommets. It weighs 1.38 pounds and packs to about 9.8 by 8.7 by 2 inches in a drawstring sack.\n\nIt covers a three or four person tent and has more anchor points than the other universal sheets here. Compared with the OneTigris it is bigger and heavier, and compared with the Clostnature it is smaller and lighter.\n\nIt suits car campers with a mid-size family tent who want a durable, simple ground cloth. Use the loops to stake out under the tent.",
     "specs": [
       "94x94 in, 210D Oxford, PU3000",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21-H7SimTwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C5QWV2XV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C5QWV2XV?tag=rvgearlab-amz-20",
     "description": "The OneTigris 2 person footprint is 78.7 by 47.24 inches in 70D ripstop polyester with a 2000 millimeter waterproof rating. It weighs 0.2 kilograms (0.45 pounds) and packs to about 9.8 by 7.9 by 1.4 inches.\n\nIt fits OneTigris Cosmitto, Stelle and Stella tents, and the PU coated side faces up. It is the lightest sheet in this group by a wide margin and the smallest.\n\nIt suits backpackers with a OneTigris tent or any two-person tent of similar size. It also works as a door mat at the tent entrance.",
     "specs": [
       "78.7x47.24 in, 70D ripstop",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41up0Qv+ItL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09QCRSC3X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09QCRSC3X?tag=rvgearlab-amz-20",
     "description": "The Clostnature footprint is 118 by 118 inches in ripstop 210T polyester with a waterproof coating, weighing 22 ounces. It is sold to fit the Clostnature 6 person tent and folds into a drawstring bag.\n\nIt is the biggest sheet in this guide, with about 55 percent more coverage than the Farfly, and costs about $2 less. Its 210T fabric is thinner, so it prefers smooth sites.\n\nIt suits families with a six-person tent who need extra coverage. Fold extra fabric under so edges stay inside the tent.",
     "specs": [
       "118x118 in, ripstop 210T",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31F4o328qxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPQRCF3R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPQRCF3R?tag=rvgearlab-amz-20",
     "description": "This Frelaxy footprint is 104 by 80 inches and weighs 0.9 pounds. It uses 190T PU3000 waterproof ripstop polyester with high-duty grommets and thickened straps.\n\nIt sits between the OneTigris and Farfly in size and weight, and its ripstop weave and PU3000 rating are more than the OneTigris offers. It is available in six sizes, so you can match it to your floor.\n\nIt suits two to three person tents that need more width than a solo sheet. Order the size closest to your tent floor.",
     "specs": [
       "104x80 in, 190T PU3000 ripstop",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NiBMoeEqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096SWZQ3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096SWZQ3N?tag=rvgearlab-amz-20",
     "description": "The Kelty footprint fits the Kelty Discovery Trail 1 person tent and sits completely beneath the tent floor without overhang. It is meant to protect the floor from abrasion and dirt.\n\nIt costs about $8 less than the Farfly and is the only one here made for a particular tent. The Kelty brand builds its tents with DWR and PFC-free fabrics.\n\nIt suits owners of the Discovery Trail 1 who want a perfect fit. It is no use for other tents.",
     "specs": [
       "Fits Kelty Discovery Trail 1",

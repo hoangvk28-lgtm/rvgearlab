@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ia+11m5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7HHMR8B?tag=rvgearlab-amz-20",
     "description": "The VANSOET is a 400W plug-in inverter with two standard US AC outlets, a 30W PD fast-charging USB-C port and an extra 15W USB port. A dedicated AC switch lets the outlets turn off without unplugging the cigarette-socket adapter.\n\nNext to the BESTEK it adds the USB-C PD port, so a laptop that charges over USB-C can skip the AC brick completely. Against the FOVAL it offers twice the headline wattage and an LED that turns red on over-voltage, under-voltage or overload faults.\n\nIt suits the camper who carries one modern laptop and a phone and wants a single device on the dash. The switch for the AC side keeps the unit from idling when only USB charging is needed.",
     "specs": [
       "400W with 2 AC outlets",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hEeE+OZhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B004MDXS0U?tag=rvgearlab-amz-20",
     "description": "The BESTEK gives 300W continuous through two 110V AC outlets plus two 4.8A USB ports. The listing names an 11 to 17V input range, a built-in 40 amp fuse, an aluminum housing and a 32 inch cord.\n\nWhere the VANSOET leans on USB-C, the BESTEK leans on the AC outlets, which is the right fit for a laptop with its original barrel-plug brick. Compared with the FOVAL it adds a named fuse and a metal case that handles bumps in a gear-packed car.\n\nIt is the sensible default for a mid-size laptop plus a tablet at a camp table in the back seat. The longer cord also lets the inverter sit on a console or seat instead of dangling from the dash.",
     "specs": [
       "300W with 40A fuse",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RosmIn4JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B074KWP2HJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B074KWP2HJ?tag=rvgearlab-amz-20",
     "description": "The FOVAL is a credit-card-sized 200W inverter that measures 3.2 x 2.5 x 1.5 inches and weighs 8 oz, with two AC sockets and four USB ports. The listing says it supplies up to 180W for laptops and tablets and backs it with a 24 month warranty.\n\nNothing else here packs as small or weighs as little, so it tucks into a glove box when the VANSOET or BESTEK would not. Against both, it gives up wattage in exchange for the four USB ports that keep phones and cameras charged at the same time.\n\nIt works for a light work setup with a thin laptop and a phone on a road trip. The warranty and the low price make it a low-commitment starter inverter.",
     "specs": [
       "200W, up to 180W output",

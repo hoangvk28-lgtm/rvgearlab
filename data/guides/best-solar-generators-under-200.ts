@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TVp+OAYBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQMP7CC6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQMP7CC6?tag=rvgearlab-amz-20",
     "description": "This kit includes a 288Wh LiFePO4 power station with 350W pure sine wave AC output (600W surge), a 40W foldable solar panel and an MPPT controller. Outputs are two AC outlets, a 60W USB-C PD port, two 18W QC USB-A ports and a 12V 120W car port.\n\nAt about $200 it gives the most capacity of the five with a LiFePO4 battery that lasts several times longer than lithium-ion. The ZeroKor and MARBERO kits have bigger panels, and this one has better cells and more storage.\n\nWeekend campers and van users who want a long-lasting battery for CPAP-class loads will like it. It also suits home backup.",
     "specs": [
       "288Wh LiFePO4, 350W pure sine",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51C455Z70IL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKGJQ5HD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKGJQ5HD?tag=rvgearlab-amz-20",
     "description": "DaranEner combines a 192Wh LiFePO4 station weighing 5.84 lb and measuring 8.4 by 5.3 by 7.4 inches with a 30W solar panel. The cells carry a 3,500 or higher cycle rating, and it powers eight devices with two 110V AC outlets (300W), a 60W USB-C PD port, a 30W USB-C, an 18W quick-charge USB-A and a 12V car socket.\n\nAt about $200 it costs the same as the 350W kit with a quarter less capacity, and its edge is size and weight. It recharges from a wall outlet at up to 90W in about 2 hours.\n\nBackpackers with a car and campers who want a compact LiFePO4 kit will like it. It suits tent corners and small cars.",
     "specs": [
       "192Wh LiFePO4, 3,500+ cycles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Rfqfec41L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZDX262N?tag=rvgearlab-amz-20",
     "description": "MARBERO pairs a 237Wh (64,000mAh) lithium-ion station with a 60W foldable solar panel at 21.5 to 23.5 percent efficiency. It has two pure sine wave AC outlets at 300W rated (375W peak) and an LED flashlight with strobe and SOS modes.\n\nAt about $180 it costs $20 less than the LiFePO4 kits and doubles the panel wattage. The 60W panel recovers about 200Wh on a clear day, close to the full battery.\n\nAnyone planning several nights off-grid with a larger panel in the mix is the target buyer. The kit travels well in a car or RV.",
     "specs": [
       "237Wh lithium-ion, 300W pure sine",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51N0Qi-dPkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CHFM3V8Q?tag=rvgearlab-amz-20",
     "description": "ZeroKor combines a 280Wh battery with a 300W pure sine wave inverter and a 60W solar panel. It has two 300W AC outlets, a DC port, three USB ports at 5V/3A, a quick-charge USB port, an SOS flashlight and a built-in MPPT controller with battery protection.\n\nAt about $171 it is the cheapest of the 60W kits and holds more energy than the MARBERO 237Wh for $9 less. It uses lithium-ion cells, so its battery wears out faster than the LiFePO4 kits.\n\nCampers who want the largest panel and the lowest price will like it. It suits weekends and light off-grid use.",
     "specs": [
       "280Wh, 300W pure sine",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51OSwyfZg2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F8J39B45?tag=rvgearlab-amz-20",
     "description": "ZeroKor sells a 280Wh 300W power station with a 40W foldable solar panel plus a second 100W portable power pack with its own AC outlet. The main station has two 110V 300W AC outlets, a DC port, three USB ports, a quick-charge port and an SOS flashlight.\n\nAt about $200 it is the most expensive pick and the only one that includes two power units, so one can charge while the other is in use. The ZeroKor 60W kit gives a bigger panel for $29 less.\n\nFamilies who want a second pack for phones and lights will like the bundle. It suits group camping.",
     "specs": [
       "280Wh 300W station, 40W panel",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MjOXXzYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00NB1J0ZQ?tag=rvgearlab-amz-20",
     "description": "The CURT 17063 is a round bar weight distribution hitch that includes sway control kit 17200. The listing gives a 10,000 to 14,000 lb gross trailer weight range and a 1,000 to 1,400 lb tongue weight range, limited by the lowest-rated component, with an adjustable 2 inch shank and a 2-5/16 inch ball.\n\nIt ranks first because it names the sway kit and gives full rating ranges, which the FAHKNS and Dollate listings do not. It also adds grease zerk fittings, so it needs more upkeep than the others.\n\nBest for a travel trailer owner who wants a documented sway bar and clear ratings. Expect to grease the head as the listing instructs.",
     "specs": [
       "10,000-14,000 lb GTW, 1,000-1,400 lb TW",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21TrMy3EWUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41PWBVX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41PWBVX?tag=rvgearlab-amz-20",
     "description": "The FAHKNS Weight Distribution Hitch with Sway Control lists up to 14,000 lb towing capacity and tongue weights up to 1,200 lb. The listing says it includes a trailer sway control bar, spring-loaded bars and a pre-installed head ball, with a square shank that has 6 holes for height adjustment.\n\nCompared with the CURT 17063 Kit above, it costs less and states both limits, but gives a single tongue weight cap instead of a range. Against the FAHKNS Heavy 12K below, it adds 2,000 lb of capacity for a slightly lower price.\n\nBest for a large travel trailer that needs a 14,000 lb capacity at a mid price. Confirm the ball size and shank size with the seller, since the listing does not state them.",
     "specs": [
       "14,000 lb towing, 1,200 lb tongue",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21jppVXhxpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DZCSYDFT?tag=rvgearlab-amz-20",
     "description": "The Dollate weight distribution hitch with sway control bar lists a pre-installed head ball, a square handle with 6 holes for quick adjustment, and spring bars that increase resistance to trailer sway. The listing's rated towing capacity figure is cut off.\n\nCompared with the FAHKNS Sway 14K above, it costs a little more and does not state a capacity or tongue weight limit. That makes it harder to match to a trailer.\n\nBest for a travel trailer owner who values quick adjustment. Do not buy it before the seller confirms the towing and tongue weight ratings.",
     "specs": [
       "Weight distribution with sway bar",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Vd60aw5SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6T5HZFG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6T5HZFG?tag=rvgearlab-amz-20",
     "description": "The FAHKNS Heavy Duty Travel Trailer Towing Hitch Bar Kit lists a towing capacity up to 12,000 lb, spring bar components that add sway resistance, and six height adjustments with a pre-installed head ball. It uses alloy steel with a rust-proof coating.\n\nIt costs more than the FAHKNS Sway 14K and Dollate Sway Bar above while rating lower than the 14K model, and it does not state a tongue weight limit. The extra price buys nothing in the listing.\n\nBest only if the seller confirms the tongue weight limit and a sway bar is included. Otherwise the FAHKNS Sway 14K gives a higher stated rating for less.",
     "specs": [
       "Up to 12,000 lb towing capacity",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21RGx+w5dWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D41KYVTT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D41KYVTT?tag=rvgearlab-amz-20",
     "description": "The FAHKNS Weight Distribution Hitch for Travel Trailer Camper lists a 12,000 lb towing capacity and tongue weights up to 1,200 lb, with spring-loaded bars, a pre-installed head ball and six height adjustment holes. The listing describes the materials as rust and corrosion resistant coated.\n\nIt is the cheapest kit here and states both limits, which the Dollate Sway Bar and FAHKNS Heavy 12K do not. It lists spring-loaded bars rather than naming a sway bar included, unlike the FAHKNS Sway 14K.\n\nBest for a travel trailer under 12,000 lb on a budget. Confirm whether a sway control bar is in the box, since the listing talks about spring-loaded bars only.",
     "specs": [
       "12,000 lb towing, 1,200 lb tongue",

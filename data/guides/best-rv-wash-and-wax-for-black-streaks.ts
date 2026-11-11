@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41YDUnOdWHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GRJRYXCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GRJRYXCH?tag=rvgearlab-amz-20",
     "description": "LIQUISHINE RV Complete Care Bundle is a four-piece kit with Wash and Wax, Bug and Tar, Black Streak and Roof Cleaner. The listing says it is safe for fiberglass, painted surfaces, decals, TPO and PVC roofs when used as directed and is not recommended for ceramic-coated surfaces.\n\nAgainst Thetford 32oz, it adds a dedicated black streak cleaner. Against Spray & Forget Combo, it covers bugs, tar and the roof too.\n\nIt is the best match for RV owners who want a whole routine with a named streak cleaner. It earns its slot for full cleaning routines.",
     "specs": [
       "4-piece RV cleaning kit",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+e-9GmKcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0002F69B2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0002F69B2?tag=rvgearlab-amz-20",
     "description": "Thetford Premium RV Wash and Wax is a 32 ounce 2-in-1 detergent and wax. The listing says it cleans black streaks, dried bugs, bird droppings, dirt and road film and leaves a non-oily, anti-static, water-repellent finish with UV protection.\n\nAgainst LIQUISHINE Care Bundle, it is a single wash rather than a kit. Against Gel Gloss Gallon, it names black streaks directly.\n\nIt suits owners who want one RV wash that names black streaks. It is a natural fit for routine washes.",
     "specs": [
       "32 oz detergent and wax",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iQQgCMCzL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CWVN7VRV?tag=rvgearlab-amz-20",
     "description": "Spray & Forget RV and Camper Wash and Wax Combo includes a 1 quart wash and a 1 quart wax that attach to a hose. The listing describes foaming action, streak-free shine and water-beading technology.\n\nAgainst Thetford 32oz, it adds a separate wax step. Against LIQUISHINE Care Bundle, it lacks a streak cleaner.\n\nIt suits owners who want hose-end spray wash and wax. Think of it as the pick for hose-end washing.",
     "specs": [
       "1 qt wash and 1 qt wax",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yKYvnpvkL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0027M3A1U?tag=rvgearlab-amz-20",
     "description": "Gel Gloss RV Wash and Wax is a concentrated carnauba formula in a gallon bottle, mixed at 2 ounces per 5 gallons. It cleans, polishes and protects with UV protection and a streak-free finish.\n\nAgainst Thetford 32oz, it is a concentrate with more washes per bottle. Against Spray & Forget Combo, it is one bottle.\n\nIt suits owners who wash often and want a concentrate. Buyers focused on frequent washes will find it a sensible match.",
     "specs": [
       "Concentrated carnauba, 1 gallon",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310XUWFFiDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IOX7VSE?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IOX7VSE?tag=rvgearlab-amz-20",
     "description": "Aero Cosmetics Wash ALL is a ready-to-use heavy-duty degreaser that cuts baked-on grease, brake dust, road grime and exhaust residue. The listing says it is pH-balanced, lab-tested to Boeing and Airbus cleaning specs and safe on bare aluminum, paint and glass.\n\nAgainst the wash and wax bottles, it is a spray cleaner for stubborn grime without wax. Against Thetford 32oz, it names exhaust residue.\n\nIt suits owners with heavy grime who will wax separately. It earns its slot for heavy grime.",
     "specs": [
       "Ready-to-use degreaser",

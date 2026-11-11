@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Rscin7aaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQZT4SP8?tag=rvgearlab-amz-20",
     "description": "The EBL Acc2400 holds 1,843.2Wh in lithium iron phosphate cells and delivers 2,400W through four AC ports. The listing quotes over 3,500 cycles and a 10-year service life, and an emergency mode that switches to backup in 0.1 seconds.\n\nIt carries about six times the energy of the 300Wh-class boxes and is the only pick that names a cycle count above 3,000. At 55 pounds and 16.9 by 11.8 by 11 inches it is also the heaviest.\n\nIt suits RV and base-camp users who want long cell life for a household-scale load. It charges 12 devices at once.",
     "specs": [
       "1,843.2Wh LiFePO4, 2,400W",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rkQTd8ICL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY97PKHJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY97PKHJ?tag=rvgearlab-amz-20",
     "description": "This 192Wh station uses a stable lithium iron phosphate battery with 300W output and a 600W surge through two AC outlets, a 45W USB-C and two 18W USB-A ports. It comes in a water-resistant backpack with double zippers and an LED indicator that includes SOS.\n\nIt is the only LiFePO4 pick that ships with a carry bag, and its chemistry is named where the ENOFLO and EnginStar listings only say lithium. It stores less energy than the 296Wh units.\n\nIt suits hikers and beach campers who carry the station on their back. An 80% charge takes about 3 hours from the wall.",
     "specs": [
       "192Wh LiFePO4, 300W / 600W",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-2snYZSvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BN38DH9F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BN38DH9F?tag=rvgearlab-amz-20",
     "description": "The ENOFLO holds 296Wh in a lithium-ion pack and offers two pure sine wave AC outlets at 600W max, two USB-C at 18W, two QC 3.0 USB-A ports and an LED light. It recharges fully in about 3 hours from the wall, and the BMS covers overload, over-voltage and over-temperature.\n\nIt beats the unbranded LiFePO4 for capacity and the EnginStar for recharge speed, at a modest price. The chemistry is lithium-ion, so cycle life is lower than the LiFePO4 picks.\n\nIt suits occasional campers who want quick refills and 600W of AC capacity. The emergency LED light doubles as a tent lantern.",
     "specs": [
       "296Wh lithium-ion, 600W max",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411K6EBF2ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FKMF2JSB?tag=rvgearlab-amz-20",
     "description": "The EnginStar 296Wh weighs 6.5 pounds in a 9 by 5.5 by 7.5 inch body, with two 110V pure sine wave AC outlets, a built-in LED light and a large LCD. Protections cover overloading, over-discharge, overcharge, overheating and short circuits, and a full wall charge takes about 7 hours.\n\nIt holds about the same energy as the ENOFLO and takes four hours longer to recharge from the wall. The listing suggests fully charging it every 2 to 3 months to keep the battery healthy.\n\nIt suits budget campers who carry the box a short distance and charge overnight. The pack includes a home charger and a car charger cable.",
     "specs": [
       "296Wh lithium, 6.5 lb",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41TQRbhEFxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CLVHPGDZ?tag=rvgearlab-amz-20",
     "description": "The ZeroKor 120W has a 97.6Wh, 26,400mAh lithium-ion pack with two 120W max AC outlets, a 12V to 16.8V DC port, QC and USB-C ports and a screen display. Its battery management system lists protection against shorts, surges and heat.\n\nIt is the second smallest of the six and carries more energy than the HOWEASY. Its 97.6Wh falls just under the 100Wh line that airlines commonly use for carry-on batteries, per general guidance.\n\nIt suits solo campers and flyers who want a laptop and phone charger with an AC outlet. Recharging works from a USB-C wall adapter, solar or car.",
     "specs": [
       "97.6Wh lithium-ion, 120W max",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JkdSPMuML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09YLWLFLF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09YLWLFLF?tag=rvgearlab-amz-20",
     "description": "The HOWEASY holds 88Wh and offers 120W with a 240W peak through two AC sockets, an 18W USB-C, two QC 3.0 ports and an LED light with SOS. It weighs 2.3 pounds in a 6.6 by 4 by 3 inch body with a hidden handle, and comes with a 24-month warranty.\n\nNothing else in the group is smaller or lighter, and it holds a little less energy than the ZeroKor. In return it carries a 24-month warranty.\n\nIt suits day trips and light phone, tablet and light charging. The AC adapter and car charger are in the box.",
     "specs": [
       "88Wh lithium, 120W / 240W peak",

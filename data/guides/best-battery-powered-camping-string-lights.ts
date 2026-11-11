@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514waGKJgKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XRB4PS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XRB4PS?tag=rvgearlab-amz-20",
     "description": "The OGERY 5400mAh pairs 49.2 ft of warm and cool white LEDs with a built-in 5400mAh battery that also works as a power source. It lists 11 lighting modes, splash-proof construction and a 4-in-1 design with camping, string, work and flashlight modes.\n\nIt is the longest string here and carries by far the biggest battery. Against the other OGERY reel, it adds length and capacity, while the AA strings need spare cells.\n\nIt suits campers who want one string for a big awning and a phone charger. The compact reel stores the cord.",
     "specs": [
       "5400mAh, 49.2 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51f2NnGgc7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJC7JD7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJC7JD7V?tag=rvgearlab-amz-20",
     "description": "The Bylitodt packs 32.8 ft of fairy lights into a reel with a 2200mAh battery that charges via Type-C in 2 hours. It lists 19 lighting modes, including 4 music-synced modes and 8 dynamic modes, with 3.5 to 10 hours of runtime.\n\nIt offers many more modes than the OGERY 4-in-1, and the quick-wind handle takes seconds. Compared with the Mocalido globes, it charges by cable and needs no AA cells.\n\nIt suits campers who want party lighting that also works as a bedroom night light. Type-C charging makes it simple to top up.",
     "specs": [
       "2200mAh, 3.5 to 10 hours",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51H6fMSi88L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYDJ87KH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYDJ87KH?tag=rvgearlab-amz-20",
     "description": "The Mocalido strings 80 crystal globes on 40 ft of clear wire, powered by 3 AA batteries (not included). It has a remote, brightness control, a timer that runs 6 hours on and 18 hours off, and 8 color-change modes.\n\nIt is the only globe-style string here and the only one with a clear wire. Compared with the Solhice stars, it has twice the length and more LEDs.\n\nIt suits campers who want a classic patio look without a charging cable. Swapping AA cells is easy on the road.",
     "specs": [
       "40 ft, 80 globes",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bSO-Ez3TL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D5HTW1NB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D5HTW1NB?tag=rvgearlab-amz-20",
     "description": "The OGERY 4-in-1 reel has 32.8 ft of lights, 8 modes (5 plus 3), a 7.4 ounce body and splash-proof ABS and PC with a magnet. It combines a camping light, string light, work light and flashlight.\n\nIt costs less than the 5400mAh model. Next to the KUQIHUG, it adds the magnet for sticking to metal.\n\nIt suits backpackers who want one multi-use light. The reel stores the cord quickly.",
     "specs": [
       "32.8 ft, 8 modes",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51l-m1LbKCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F3HZZNNP?tag=rvgearlab-amz-20",
     "description": "The KUQIHUG offers 32.8 ft of RGB string lights with a 2000mAh battery that charges in about 5 hours. It lists 5 to 12 hours of use, up to 30 hours on string lights alone, and a battery indicator.\n\nIt is the lowest-priced reel here and states a runtime figure for lights only. Against the OGERY 4-in-1, it lists battery size and charge time.\n\nIt suits budget campers who want a lantern and string in one. A storage reel keeps the cord tidy.",
     "specs": [
       "2000mAh, 5 hour charge",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51vFy6gqFqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0B9391ZPD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0B9391ZPD?tag=rvgearlab-amz-20",
     "description": "The Solhice has 20 ft of string with 40 stars, 16 steady colors and 3 AA batteries (not included). It includes a remote, a timer and IP44 water resistance.\n\nIt costs the least and runs the shortest, and the star shape suits a kids' tent. Compared with the Mocalido globes, it lights a smaller space.\n\nIt suits families who want a playful light for a child's sleeping area. The remote handles colors and timers.",
     "specs": [
       "20 ft, 40 stars",

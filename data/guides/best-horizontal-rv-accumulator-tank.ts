@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/312HcMlvlVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNVY3SRV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNVY3SRV?tag=rvgearlab-amz-20",
     "description": "The Orceed 182-200 lists 1/2 inch male thread ports, a 9.1 by 4.8 by 3.8 inch body and a 125 PSI maximum rating. Its non-slip rubber base and adjustable internal control are described, along with a valve stem that faces upward on installation.\n\nThat published footprint puts it ahead of the Flngr and Dreyoo tanks for planning a horizontal run, because you can lay a tape measure along 9.1 inches. It is also the only listing here to state valve stem direction.\n\nA good fit for owners swapping a Shurflo-style accumulator in a low cabinet. Its stated size lets you plan the shelf before it arrives.",
     "specs": [
       "9.1 x 4.8 x 3.8 in body",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B+el8-U9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09VKQWR7R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09VKQWR7R?tag=rvgearlab-amz-20",
     "description": "The Flngr tank is a 0.75 L unit measuring 7.95 by 4.92 by 4.84 inches, with a 1/2 inch MNPT port, a 10 PSI factory precharge and a 125 PSI maximum. Its shorter body lies easily along a pump bay.\n\nAgainst the Orceed 182-200 it is more than an inch shorter lengthwise and costs much less, while the Orceed documents its base and valve direction. The Dreyoo adds volume at a longer size.\n\nA strong pick for small horizontal runs where every inch of length counts. The low price makes it a painless first tank.",
     "specs": [
       "7.95 x 4.92 x 4.84 in",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SBIy3PEGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DD3L38T4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DD3L38T4?tag=rvgearlab-amz-20",
     "description": "The Dreyoo tank holds 1 L (33.8 oz) with a 10 to 125 PSI range and a 1/2 inch MNPT port. Its listing describes a flow control liner that works without regulation.\n\nIt carries a third more nominal volume than the Flngr and KENCIT 0.75 L bodies, which makes it the capacity pick among the generic tanks. The step up in size is modest next to the 2 gallon Pro Water Parts unit.\n\nSuits owners who want a bit more buffer than a 0.75 L tank without a wall-mount rework. It drops into the same 1/2 inch MNPT plumbing as the smaller units.",
     "specs": [
       "1 L (33.8 oz) volume",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jNCXXjMDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BYWFCX4N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BYWFCX4N?tag=rvgearlab-amz-20",
     "description": "The KENCIT tank is a 0.75 L unit with a 10 to 125 PSI range and a 10 PSI factory precharge. Its instructions say to adjust the tank's air pressure below the pump's cut-in setting.\n\nThat setting guidance helps in horizontal installs, where the air side is easy to reach from above. It matches the Flngr on volume and adds clearer tuning steps.\n\nBest for buyers who will set precharge themselves with a gauge. The top-side air valve is easy to reach once the tank is on its side.",
     "specs": [
       "0.75 L, 10 to 125 PSI",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313bUzekIqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IRFW38W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IRFW38W?tag=rvgearlab-amz-20",
     "description": "The Pro Water Parts unit is a 2 gallon expansion-style tank with a 1/2 inch female NPT port, custom wall brackets included and a 130 PSI maximum liquid pressure. Its 30 PSI pre-pressurized air charge is listed.\n\nIt is the capacity pick, with far more volume than any 0.75 L or 1 L tank here, and the bundled bracket gives a defined mounting method. That extra size needs a real wall or panel to carry it.\n\nA fit for owners with a solid mounting surface who want a large buffer in a fixed spot. The bracket in the box removes the hunt for hardware.",
     "specs": [
       "2 gallon, 130 PSI max",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fdh3F7BML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GYVQ4NKC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GYVQ4NKC?tag=rvgearlab-amz-20",
     "description": "The AxleyHub kit pairs a 12V DC pump rated 3.0 GPM at 45 PSI with a 0.75 L accumulator tank. The listing includes full fittings and an inlet strainer.\n\nWhere the others are tank-only buys, this one solves the matching problem by shipping both parts together. It costs more than any single tank and skips the compatibility check.\n\nSuited to owners replacing a worn pump who want the whole assembly in one box. The included strainer and fittings cover the usual first-day extras.",
     "specs": [
       "12V pump, 3.0 GPM, 45 PSI",

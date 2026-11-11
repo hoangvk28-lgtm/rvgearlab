@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31qfz18XNvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079MJBP21?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079MJBP21?tag=rvgearlab-amz-20",
     "description": "The Leatherman Wave+ is an 18-in-1 stainless steel multi-tool made in Portland, Oregon, with a 25-year warranty. The listing calls it a best-selling all-rounder with a saw and spring-action scissors.\n\nIt costs about three times as much as the value tools here and is the only one with a 25-year warranty. It leaves out the hammer and wrench of the HANSHI and Fesasn.\n\nIt suits handymen who want one tool for decades. The warranty covers the long haul.",
     "specs": [
       "18-in-1 stainless steel",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41W5AiwitbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C6PT5JYX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C6PT5JYX?tag=rvgearlab-amz-20",
     "description": "The HANSHI 18-in-1 has an adjustable spanner with a laser scale, a hammer, a nail puller and replaceable YG10 tungsten steel wire cutters. Physical vapor deposition treatment finishes the main body.\n\nIt has replaceable cutters, which the Fesasn does not list. It costs a bit more than the Fesasn.\n\nIt suits handymen who hang pictures, tighten bolts and cut wire. The scale helps size nuts.",
     "specs": [
       "18-in-1, adjustable wrench scale",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nhKFccKoL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CQT24873?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CQT24873?tag=rvgearlab-amz-20",
     "description": "The Fesasn 18-in-1 combines an adjustable wrench, a hammer, a nail puller and PH1, SL4.5 and PH2 screwdrivers with wire cutters. The main body is YG10 tungsten steel with vacuum titanium plating.\n\nIt lists the exact screwdriver sizes, which the HANSHI does not, and costs slightly less. Its replaceable cutter is not listed.\n\nIt suits handymen who want named driver sizes. The folding design has holes and bumps for easy opening.",
     "specs": [
       "18-in-1, hammer and wrench",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vpefFlrLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDKJH45K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDKJH45K?tag=rvgearlab-amz-20",
     "description": "The WETOLS 27-in-1 has needle nose and regular pliers, soft and hard wire cutters, a wire stripper, a hammer and a window breaker. It measures 4.37 inches closed, 6.65 inches overall and weighs 9.38 oz.\n\nIt carries the most functions of the six, plus a hammer and a window breaker. At 9.38 oz it is built like a truck tool.\n\nIt suits handymen who want a hammer, soft and hard wire cutters and an emergency tool. It suits the truck.",
     "specs": [
       "27-in-1, hammer, window breaker",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kABQ5aW-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HCY82LNQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HCY82LNQ?tag=rvgearlab-amz-20",
     "description": "The MDK 25-in-1 pairs 15 built-in functions with a 10-piece screwdriver bit set, in 440A stainless steel. It measures about 4.1 x 1.5 inches closed and comes with an EDC sheath.\n\nIt states the steel and includes a bit set, which the RAK does not. Its selected fold-out tools lock open.\n\nIt suits handymen who want bit-driven work. The compact size fits a pocket.",
     "specs": [
       "25-in-1, 10-piece bit set",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ZsKqJR5ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C78P4BC4?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C78P4BC4?tag=rvgearlab-amz-20",
     "description": "The RAK 12-in-1 has a serrated knife, saw, wire cutter, prying claw, nail file and bottle opener in hardened stainless steel. It has a camping hammer and is described as compact and lightweight.\n\nIt is the lowest-priced pick here and carries fewer tools than the 18-in-1 kits. It works as a light hammer tool for travel.\n\nIt suits handymen who want a light tool for travel. The claw handles prying.",
     "specs": [
       "12-in-1, hammer and prying claw",

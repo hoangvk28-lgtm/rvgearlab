@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41w98igSnWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B079T9CBH9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B079T9CBH9?tag=rvgearlab-amz-20",
     "description": "The zero-G 4001-50 is a 5/8 inch by 50 foot hose that the listing says is 50 percent lighter than commercial vinyl hoses. It describes kink-free handling, crush-proof aluminum couplings and drinking water safe, lead free materials.\n\nAgainst Camco EVOFlex 25ft, it offers double the length and aluminum couplings. Against Nilight 50ft, it carries the original zero-G name.\n\nThe best choice for owners who want the lightest and easiest 50 ft hose. Think of it as the pick for light, easy handling.",
     "specs": [
       "50% lighter than vinyl",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51hQkgwKClL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6VPFWD?tag=rvgearlab-amz-20",
     "description": "Camco EvoFlex2 50ft has a polyester fabric outer layer and molded strain reliefs. The listing says it stores in 70 percent less space than traditional PVC hoses and is CSA lead-free certified to NSF/ANSI 372.\n\nAgainst zero-G 50ft, it packs smaller and names a certification. Against Camco EVOFlex 25ft, it doubles the length at a lower price.\n\nA fit for owners who need compact storage and a named standard. Buyers focused on compact stowing will find it a sensible match.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51xc6W1kgLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MWM8MH8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MWM8MH8?tag=rvgearlab-amz-20",
     "description": "Camco EVOFlex 25ft is a 5/8 inch Professional Plus hose with zero memory retention and diamond-hatch reinforcement. The listing says it is 20 percent thicker than premium hoses and CSA lead-free certified to NSF/ANSI 372.\n\nCompared with EvoFlex2 50ft, it is a thicker PVC hose in a shorter length. Compared with zero-G 50ft, it is the heavier but named-certified option.\n\nA solid pick for short runs where a coil that lies flat matters. It earns its slot for flat-laying short runs.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FUTLFAYwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFSJD3VL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFSJD3VL?tag=rvgearlab-amz-20",
     "description": "Nilight 50ft is a 3-layer hose with food-grade synthetic rubber layers and solid 3/4 inch aluminum fittings. It ships with a storage bag and the listing states a -4 to 176 degree F range.\n\nCompared with zero-G 50ft, it adds a bag and a stated range. Compared with CircleRiver 50ft, it is similar in length with a different bag-in-the-box approach.\n\nA fit for owners who want the hose and a tidy way to store it. It is a natural fit for tidy storage.",
     "specs": [
       "50 ft, 3-layer build",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41woIgrbS7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4TMLN51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4TMLN51?tag=rvgearlab-amz-20",
     "description": "CircleRiver 50ft is a 5/8 inch hose described as NSF 372 tested lead-free with aluminum fittings and a sealing ring. The listing gives a -22 to 158 degree F range and a three layer hybrid polymer build.\n\nAgainst Nilight 50ft, it names NSF testing and a lower cold limit. Against zero-G 50ft, it is a plain-priced alternative with a stated range.\n\nA good pick for chilly seasons and a named test. Think of it as the pick for cold-season fills.",
     "specs": [
       "50 ft, 5/8 inch ID",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41eXnGBBSVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GFTLF1V6?tag=rvgearlab-amz-20",
     "description": "Nilight 15ft is the short version of the same three layer hose with solid aluminum fittings and a storage bag. The listing says it remains flexible in freezing conditions.\n\nCompared with Nilight 50ft, it is easier to carry and stow. Compared with CircleRiver 50ft, it is shorter and cheaper.\n\nA great backup or a close-spigot hose. Buyers focused on close spigots and backups will find it a sensible match.",
     "specs": [
       "15 ft, 3-layer build",

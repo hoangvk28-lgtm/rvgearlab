@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I-Q4YSrFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07G1PL1B9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07G1PL1B9?tag=rvgearlab-amz-20",
     "description": "Renogy's Wanderer Li is the most complete 12V PWM here, with a four-stage charge that lists lithium alongside lead-acid chemistries. Renogy's Wanderer Li is a 12V 30A four-stage PWM controller whose listing names lithium, AGM, gel and flooded batteries. It measures 5.5 by 3.9 by 1.8 inches and carries an IP32 waterproof rating, so it suits an indoor or protected compartment.\n\nIt lists more battery types than AeternaSol 20A and has more amps than HilapriSol 10A, though it costs a little more than the generic 30A units. Against OrinClavon 30A it gives up 24V support but adds a lithium-aware profile.\n\nBest for a 12V RV with one to three panels and a lithium or AGM bank. It is 12V only, so a 24V bank needs a different model, and Bluetooth needs the separate BT-1 module.",
     "specs": [
       "30A PWM, 12V only",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51LI1lUmw8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4VHPDR1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4VHPDR1?tag=rvgearlab-amz-20",
     "description": "AeternaSol's 20A model targets 12V LiFePO4, AGM and gel systems with a zero-idle-drain design. AeternaSol's 20A PWM controller is a 12V-only unit for LiFePO4, AGM and gel batteries, with an LCD, LED indicators and Type-C plus USB output ports. The listing claims zero idle drain and reverse-current protection from an upgraded core circuit.\n\nIt undercuts Renogy Wanderer Li 30A on capacity but adds Type-C and USB ports that Rolokit 20A lacks. Its 20A ceiling means it works with a smaller array than OrinClavon 30A.\n\nBest for a small trailer or van with 200 to 250W of panels. Choose it for a small 12V system where the Type-C port is handy, but note that 20A caps the panel wattage you can connect.",
     "specs": [
       "20A PWM, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FbRpkteML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5BK3ZGG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5BK3ZGG?tag=rvgearlab-amz-20",
     "description": "Rolokit's 20A controller pairs a bright LCD and battery level indicator with 12V LiFePO4, AGM and gel support. Rolokit's 20A model is a 12V PWM controller whose listing calls it compatible with lithium (LiFePO4), AGM and gel batteries. It pairs a bright LCD and battery level indicator with six listed protections and a stay-cool design.\n\nIt matches AeternaSol 20A on amps but swaps the USB ports for an easier-to-read screen. Compared with HilapriSol 10A it doubles the current.\n\nBest for owners who want to see battery status at a glance. It suits a small 12V trailer system, but a single 20A PWM output limits how many panels you can connect.",
     "specs": [
       "20A PWM, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41xojwpr2nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HFSBX1QC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HFSBX1QC?tag=rvgearlab-amz-20",
     "description": "OrinClavon's 30A controller covers both 12V and 24V lead-acid systems with a three-stage charge. OrinClavon's 30A PWM controller regulates charging in three stages (bulk, boost and float) for 12V or 24V lead-acid, AGM and gel systems. An LCD shows charging status, battery voltage and load status, with adjustable settings and dual USB ports.\n\nIt offers more flexibility than Renogy Wanderer Li 30A on voltage but lists lead-acid, AGM and gel only. It also adds dual USB and timer settings that the 12V-only units here omit.\n\nBest for a 24V bank or a mixed 12V and 24V workshop. It is a straightforward lead-acid unit, so lithium owners should look at the lithium-profile models in this list instead.",
     "specs": [
       "30A PWM, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413HLcOKnrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H9PT2CDJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H9PT2CDJ?tag=rvgearlab-amz-20",
     "description": "HilapriSol's 10A model is the least expensive and smallest of the group, with an LCD and six protections. HilapriSol's 10A PWM controller runs a three-stage charge (bulk, absorption, float) with auto 12V/24V recognition. Its LCD tracks charging and discharging current, total power generation, temperature and system status, and six protections are listed.\n\nIt costs less than Rolokit 20A and fits smaller panels only. Next to Depvko 30A PWM it gives up a lot of amps but adds the LCD detail on total generation.\n\nBest for a single small panel on a pop-up camper. It is a low-cost starter for a small panel, not a pick for an RV roof array.",
     "specs": [
       "10A PWM, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41opvkWthjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08NFSCZ4V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08NFSCZ4V?tag=rvgearlab-amz-20",
     "description": "Depvko's 30A PWM gives a lot of amp capacity at a very low price, with a lead-acid-only warning in the listing. Depvko's 30A PWM controller adapts automatically to 12V and 24V systems and carries an LCD with auto parameter setting. The listing states it is only suitable for lead-acid batteries (open, sealed, colloid) and lists overcurrent, short-circuit, reverse and low-voltage protection.\n\nIt beats HilapriSol 10A on rating, but unlike Renogy Wanderer Li 30A it does not support lithium. That limits it to flooded, sealed or gel banks.\n\nBest for a budget lead-acid system where 30A of headroom is wanted. Pick it only for flooded or AGM banks, and never for a lithium battery.",
     "specs": [
       "30A PWM, 12V/24V auto",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5157GClqzeL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9P8R5DT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9P8R5DT?tag=rvgearlab-amz-20",
     "description": "The ooLALoo holds 100 LEDs on a 33 ft string, with a 2000mAh battery that fills in 8 hours of direct sun or 4 hours by the included USB-C cable. Nine modes and a timer sit alongside three brightness levels and a crank for quick storage.\n\nIt carries a larger battery than the 1800mAh TuoPuLife and costs less than any other pick on this list. Compared with the patio strings, it winds up like a camping reel and packs into a bag.\n\nIt suits tent and car campers who want a real camp reel with solar. The included cable means you can fill it from a power bank on grey days.",
     "specs": [
       "2000mAh, 33 ft, 100 LEDs",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/512okePZGXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6XMGDYY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6XMGDYY?tag=rvgearlab-amz-20",
     "description": "The OGERY pairs 49.2 ft of warm and cool white LEDs with a 5400mAh battery that also serves as a power source. Eleven modes, splash-proof construction and a 4-in-1 camping light, string, work light and flashlight come in a compact body.\n\nIt has the biggest battery here, nearly three times the 1800mAh TuoPuLife, and a longer string than any camp-style reel. The patio strings reach farther and skip the multi-use lantern body.\n\nIt suits campers who need hours of light and an occasional device charge. The split of warm and cool white covers both relaxing and working.",
     "specs": [
       "5400mAh, 49.2 ft",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51EAqKXHprL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHZSVZWD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHZSVZWD?tag=rvgearlab-amz-20",
     "description": "The TuoPuLife has 32.8 ft of lights with a 1800mAh battery, charging in 8 hours of sun or 4 hours by USB-C. A remote, timers of 4, 6 or 8 hours, 3 brightness levels and 5 modes are included, and a USB port can charge a phone.\n\nNo other pick combines a remote, timers and a phone-charging port in one body. Against the ooLALoo, it adds the remote while carrying a slightly smaller battery.\n\nIt suits campers who want control from the sleeping bag. The timer switches it off so the battery lasts more evenings.",
     "specs": [
       "1800mAh, 32.8 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gkr2KdUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FYPGR48K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FYPGR48K?tag=rvgearlab-amz-20",
     "description": "The Brightown strings 15+1 shatterproof ST38 bulbs along 52 ft, with solar and USB charging, IP65 waterproofing and a stated runtime of 30+ hours. A remote adjusts four brightness levels and several modes, and a sensor turns it on at dusk.\n\nIt runs far longer than the camp reels and keeps working in rain, which the splash-proof reels do not claim. It is a patio-style string, so it does not fold into a lantern.\n\nIt suits RV campers and anyone with an awning or fixed site. Auto on and off lets it run unattended.",
     "specs": [
       "52 ft, 15+1 ST38 bulbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51+tKa66OQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FPWD3R4H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FPWD3R4H?tag=rvgearlab-amz-20",
     "description": "The Skoiuc covers 100 ft with shatterproof ST38 bulbs, a solar panel and a USB-C backup for cloudy days. It lists up to 18 hours, a remote with timer, a dimmer and steady, breathing and flashing modes.\n\nIt is the longest string here by a wide margin, double the OGERY. The runtime figure is shorter than the Brightown, so the extra length trades off against hours.\n\nIt suits large group sites, pavilions and fenced areas. The dusk-to-dawn sensor handles the switching.",
     "specs": [
       "100 ft, ST38 bulbs",

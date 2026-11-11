@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nZA1uuVLL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09NRXXTDZ?tag=rvgearlab-amz-20",
     "description": "The PWD50EPOH is a 50A hardwired protector with emergency auto power-off during extreme voltage swings and Bluetooth. It installs inside the RV and connects to the electrical system, so the unit cannot be unplugged at the pedestal.\n\nCompared with the plug-in Festicreamy 50A, it adds a mounted, theft-resistant install and a brand with a replaceable surge module. It supports an optional RVWhisper add-on for Wi-Fi or cellular monitoring.\n\nIt suits full-timers who want a permanent protector inside the coach. The replaceable module keeps long-term costs down after a big surge.",
     "specs": [
       "50A hardwired with EPO",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/517d9nX2JbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3NDLWWZ?tag=rvgearlab-amz-20",
     "description": "The RVShield is a 30A surge protector and power manager with a 200 degree Fahrenheit thermal auto-shutoff, ground fault protection and an adjustable 0, 30 or 180 second air conditioner delay. It has a bright LED screen, a NEMA 3R weatherproof body rated from minus 40 to 140 degrees Fahrenheit and a 1-year warranty.\n\nWhere the 30A GEARGO and AMEHO focus on voltage cutoff, the RVShield adds heat and ground-fault protection plus an A/C restart delay. It costs more than both.\n\nIt suits 30A owners worried about overheating plugs and compressor short-cycling. The lock slot adds theft resistance.",
     "specs": [
       "30A with 200F thermal shutoff",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41FL6hH-izL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GWMDRDBR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GWMDRDBR?tag=rvgearlab-amz-20",
     "description": "The 4th-generation GEARGO is a 30A protector with 15,000 joules, an HD LED display and smart circuit analysis. It monitors power continuously and has an IP68 waterproof body.\n\nCompared with the AMEHO, it has a lower joule figure and a smaller price gap. It sits between the budget Bluetooth units and the RVShield on features.\n\nIt suits 30A campers who want a readout and analysis at mid-price. The IP68 housing handles wet pedestals.",
     "specs": [
       "15,000J, 30A with HD LED",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kyHYWamjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCLTYWMR?tag=rvgearlab-amz-20",
     "description": "The AMEHO is a 30A protector rated 16,000 joules with a large LED screen showing six real-time data points including voltage. It has IP67 waterproofing, an extra-large cover that fits more plug types and smart auto shutoff with reconnect.\n\nIt lists more joules than the GEARGO 4th-Gen and costs less. The auto reconnect function restores power once the anomaly passes.\n\nIt fits 30A owners who want a big screen and auto reconnect at a modest cost. The wide cover fits many plug sizes.",
     "specs": [
       "16,000J, 30A with large screen",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zBvLZH3wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GT1R1195?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GT1R1195?tag=rvgearlab-amz-20",
     "description": "The Festicreamy P2S Bluetooth 50A protector lists EPO, a kWh meter and app control. It monitors voltage three times per second, cuts power on abnormal voltage and uses V-1 flame-retardant material with an ergonomic handle.\n\nIt is the only plug-in 50A unit on the page and costs far less than the hardwired Watchdog. Compared with its 30A twin, it covers the larger service.\n\nIt suits 50A campers who want Bluetooth monitoring on a budget. The built-in circuit analyzer checks the pedestal.",
     "specs": [
       "50A with Bluetooth and EPO",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31v255t+VJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTDZBXYR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTDZBXYR?tag=rvgearlab-amz-20",
     "description": "The Festicreamy 30A version has the same P2S Bluetooth app, kWh meter and EPO as the 50A unit. It checks voltage three times per second and cuts power when voltage goes out of range, with V-1 flame-retardant material.\n\nIt is the lowest-priced pick on the page. Compared with the AMEHO, it offers an app and kWh data rather than a big screen.\n\nIt suits 30A campers who want an app and a power meter for the lowest cost. The circuit analyzer checks the pedestal first.",
     "specs": [
       "30A with Bluetooth and EPO",

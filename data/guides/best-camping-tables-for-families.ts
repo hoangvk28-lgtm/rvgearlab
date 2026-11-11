@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31m4zHg8Q2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08PDZBQ3N?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08PDZBQ3N?tag=rvgearlab-amz-20",
     "description": "BestOffice is a full 6 foot folding table with powder-coated steel legs, frame joint locks and non-slip rubber feet. It comes fully assembled, has a side lock and a handle, and folds for storage.\n\nIt is the biggest surface in this group, seating a family at once, which the small tables cannot. The plastic top wipes clean after a messy meal.\n\nChoose it if you feed three or more people and have trunk space. It also works as a prep table.",
     "specs": [
       "6 foot plastic folding table",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41u8eQ2VMBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B097P2XB6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B097P2XB6S?tag=rvgearlab-amz-20",
     "description": "Monsiter uses waterproof canvas on an aluminum frame, with 4 cup holders and a double shelf design. It comes with a carry bag and supports 55 lbs when set up.\n\nThe lower shelf stores snacks away from the sun, which a plain 6 foot table lacks. It fits easily into cars and RVs.\n\nIt suits families on short trips who want a smaller, lighter table with cup holders. Kids can use it for drinks and snacks.",
     "specs": [
       "Waterproof canvas top",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41LYTJB4INL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GCDTYX7V?tag=rvgearlab-amz-20",
     "description": "hediya sells two aluminum folding tables, each weighing 2.46 lb with a 16.5 x 13.9 inch tabletop. Triangular support structures and 14 mm legs are listed.\n\nTwo tables can sit side by side for more room, which a single table cannot do. Each sets up without tools and comes with instructions.\n\nIt suits families who want a spot for each child or a table beside each chair. The two together weigh less than one big table.",
     "specs": [
       "Two tables, 2.46 lb each",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419UZ2egB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09FJT72DJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09FJT72DJ?tag=rvgearlab-amz-20",
     "description": "ROCK CLOUD is an ultralight aluminum table at 2.2 lbs with a 16 x 14 x 11.5 inch unfolded size and a 60 lb capacity. Its nylon hinge replaces the bungee connection on other tops.\n\nIt is lighter than the hediya, and it carries a 60 lb rating. The package size is 17 x 6 x 3 inches.\n\nIt suits families who want a small extra table that travels easily. A one-handed setup helps with kids in tow.",
     "specs": [
       "2.2 lbs, 60 lb capacity",

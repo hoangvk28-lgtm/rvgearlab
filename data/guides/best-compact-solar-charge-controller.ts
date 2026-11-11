@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31rthQ-IpBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HK4FSGD5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HK4FSGD5?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 2 is a 20A MPPT that the listing calls 53% smaller than the previous generation, with Bluetooth and an LCD. The Rover 2 is a compact 20A MPPT controller that reads status on an LCD or over Bluetooth and pairs with arrays up to 100V Voc (300W on 12V, 600W on 24V). Renogy says it is 53% smaller than the previous generation and lets you link several units in parallel.\n\nIt offers far more capacity than Morningstar Sunguard 4.5A and Bateria Power 10A and tracks as MPPT. It costs more than the PWM options.\n\nBest for a van or camper that needs 20A in a small body. It fits a small van or camper roof well, but a bigger array needs a second unit linked in parallel.",
     "specs": [
       "20A MPPT, 12V/24V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dVeknKT-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00IYO7WR8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00IYO7WR8?tag=rvgearlab-amz-20",
     "description": "Morningstar's Sunguard is a 4.5A PWM with solid-state parts and epoxy encapsulation. Morningstar's Sunguard is a 4.5A PWM controller with fully solid-state components and epoxy encapsulation. It is rated for 25% over-current without derating and has a test button and LED indicator to verify the install.\n\nIt is the smallest in capacity here and costs less than Renogy Rover 2 20A. It has a test button and an LED but no display.\n\nBest for a tiny panel on a rugged install. It is the tiny, rugged choice for a small panel and battery.",
     "specs": [
       "4.5A PWM, solid-state",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417EzLj4qSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BNKGC5SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BNKGC5SM?tag=rvgearlab-amz-20",
     "description": "Bateria Power's 10A MPPT is a mini portable unit with a 150W limit and a 30V Voc ceiling. This Bateria Power model is a 10A MPPT controller designed for 12V batteries only, with a 150W maximum PV input and a 30V Voc limit. The listing says panel Voc must be at least 15V, and it includes an LCD and LED indicator in a compact body.\n\nIt adds MPPT to a small body and costs more than Newpowa 10A. It is 12V only.\n\nBest for suitcase panels. At 150W it is a portable-panel or small-trailer solution, not a roof-array controller.",
     "specs": [
       "10A MPPT, 12V only",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gwt83fbVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFRKK433?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFRKK433?tag=rvgearlab-amz-20",
     "description": "Qigreesol's 20A controller adds a Bluetooth app and an LCD to a 12V/24V unit. Qigreesol's 20A controller uses Bluetooth low energy and the LM Solar app (iOS or Android) to show PV input voltage and battery state, with 12V/24V auto-detection. It runs a three-stage charge with an LCD and a USB port, and the listing names LiFePO4, lithium and gel compatibility.\n\nIt costs less than Renogy Rover 2 20A and lists the same 20A rating. It adds a USB port.\n\nBest for a small system that wants an app and a screen. Follow the wiring order in the listing (battery first, then panel) or detection of system voltage can go wrong.",
     "specs": [
       "20A, 12V/24V auto-detect",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/514WitupZ6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07CK2PCC7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07CK2PCC7?tag=rvgearlab-amz-20",
     "description": "HUINE's 20A is a small IP68 PWM with short cables and a heat-sink base that mounts on a panel frame. This is a 20A four-stage PWM controller rated IP68, with short cables for panel, battery and load and a heat-sink base with two mounting holes. It senses a 12V or 24V battery automatically and runs in a 24-hour working mode.\n\nIt is cheaper than Qigreesol 20A Bluetooth and has no display. The cables are short.\n\nBest for a panel-frame install. Three LEDs show charge, battery and load status but no numbers, so add a separate meter if you want to see actual amps.",
     "specs": [
       "20A PWM, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JFwAE+j8L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09MVYXQ1P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09MVYXQ1P?tag=rvgearlab-amz-20",
     "description": "Newpowa's 10A is a compact PWM that fits almost anywhere and shows settings on an LCD. Newpowa's 10A controller is a compact PWM unit that detects 12V or 24V systems automatically and shows status and settings on an LCD. It uses a three-stage charge (equalize, boost, float) and the listing names AGM, gel, flooded and lithium batteries.\n\nIt is the cheapest here and supports 12V or 24V. It has fewer amps than HUINE 20A.\n\nBest for a small lithium or AGM install. It is a straightforward PWM choice for one panel when you want an LCD and a lithium mention.",
     "specs": [
       "10A PWM, 12V/24V auto",

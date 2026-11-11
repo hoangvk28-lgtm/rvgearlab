@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mpqP2KpjL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07W4RYFHV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07W4RYFHV?tag=rvgearlab-amz-20",
     "description": "Camco EVOFlex 50ft is a 5/8 inch PVC hose with stainless steel strain relief ends and zero memory retention. The listing says it is 20 percent thicker than premium hoses and CSA lead-free certified to NSF/ANSI 372.\n\nAgainst Camco EvoFlex2 25ft, it is the full-length, thicker build. Against Beaulife, it is a standard fill hose with steel ends, not a steel-braided short hose.\n\nThe best choice for a long fill run that needs steel at the stress points. It earns its slot for long fills with steel ends.",
     "specs": [
       "Stainless strain relief ends",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ROLY+VjsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09Z6X4RVV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09Z6X4RVV?tag=rvgearlab-amz-20",
     "description": "Camco EvoFlex2 25ft is a 5/8 inch hose with a polyester fabric outer layer and molded strain reliefs. The listing says it stores in 50 percent less space than traditional PVC hoses.\n\nCompared with Camco EVOFlex 50ft, it trades length for compact storage. Compared with Beaulife, it is a fabric-covered fill hose.\n\nA fit for tight bays and short hookups. It is a natural fit for small storage bays.",
     "specs": [
       "25 ft, 5/8 inch ID",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zbf1VEwcL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D581T1Y8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D581T1Y8?tag=rvgearlab-amz-20",
     "description": "Atlantic RV Drinking Water Hose is a 6 foot hose with a food-grade silicone inner tube and washer and 304 stainless steel fittings. The listing says it is PVC-free and 30 to 40 percent lighter than heavy hoses.\n\nAgainst Beaulife, it is a silicone-lined short hose with steel fittings. Against BobbleT 5ft, it adds silicone and a wider -70 to 200 degree F range.\n\nA fit for connecting a filter or regulator to the pedestal. Think of it as the pick for filter and regulator leads.",
     "specs": [
       "Silicone tube, 304 steel fittings",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51aXmhoSgHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0894D2SV3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0894D2SV3?tag=rvgearlab-amz-20",
     "description": "Beaulife is a 15 foot 304 stainless steel metal hose with a hybrid polymer inner tube that the listing calls drinking water safe and lead, BPA and phthalate free. It has a 3/8 inch inner diameter and 5/8 inch outer diameter.\n\nCompared with Camco EVOFlex 50ft, it is a rugged short hose that resists chewing and puncture. Compared with Atlantic, it is longer and braided.\n\nA good pick for rough sites, pet areas and short, tough runs. Buyers focused on rugged short runs will find it a sensible match.",
     "specs": [
       "15 ft 304 stainless hose",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5106p9DRC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4W8JYB6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4W8JYB6?tag=rvgearlab-amz-20",
     "description": "BobbleT 5ft is a 3/8 inch ID connector with 304 stainless steel build and lead-free, BPA-free materials. The listing gives a -22 to 212 degree F range and compression fittings with rubber washers and PTFE tape.\n\nAgainst BobbleT 1ft, it adds reach for a mid-range filter run. Against Atlantic 6ft, it is the steel braid option.\n\nGreat for linking a regulator, filter or inlet at the RV. It earns its slot for filter links.",
     "specs": [
       "304 steel, 5 ft",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/5106p9DRC+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4VPNSND?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4VPNSND?tag=rvgearlab-amz-20",
     "description": "BobbleT 1ft is a 1 foot version of the same 304 stainless steel connector with 3/8 inch ID and 3/4 inch GHT fittings. It reduces strain on fittings and helps protect filters and regulators.\n\nAgainst BobbleT 5ft, it is the shortest, cheapest form for direct inlet work. Against Atlantic 6ft, it is lower cost.\n\nA tidy pick for stress relief on a regulator or filter. It is a natural fit for pedestal pigtail.",
     "specs": [
       "1 ft 304 steel connector",

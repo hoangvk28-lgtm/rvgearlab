@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51prSXmo6VL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099KR6PTG?tag=rvgearlab-amz-20",
     "description": "The Westinghouse 4650 Dual Fuel delivers 3,600 rated watts on gasoline and 3,240 on propane, with a 4650 peak. A 4-gallon tank with a fuel gauge gives up to 14 hours per tank, and a 212cc cast-iron-sleeve engine includes low oil and CO shutdown.\n\nPriced below every other unit here, it still carries an RV-ready TT-30R outlet, a 5-20R duplex and an L5-30R twist-lock, all with rubber covers. Compared with the WEN DF475T it gives up electric start and 240V, in exchange for a smaller price.\n\nIt suits RV owners who want a 30A hookup, propane flexibility and a three-year limited warranty without paying for extras. It ships with oil and a tool kit, so setup is quick.",
     "specs": [
       "3,600W gas, 3,240W propane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KdBRQJSQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D3WR4CFR?tag=rvgearlab-amz-20",
     "description": "The WEN DF360iX produces 2,900 rated and 3,600 surge watts on gasoline, or 2,600 rated and 3,500 surge on propane. It lists a CO Watchdog shutdown sensor, a TT-30R RV receptacle, two 120V outlets, a 12V DC port, two USB ports and a tool-free LPG quick-connector.\n\nIts listing describes the sound as comparable to a normal conversation, and the inverter output is clean for phones and laptops. Against the PowerSmart it adds an RV receptacle, where the PowerSmart gives more running watts.\n\nIt suits campers who want dual fuel, a quiet inverter and a TT-30R for a travel trailer. A fuel shut-off cuts carburetor maintenance when it sits between trips.",
     "specs": [
       "2,900W gas, 2,600W propane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pN78FIAdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FSD2SJJP?tag=rvgearlab-amz-20",
     "description": "The PowerSmart 3800 gives 3,300 running watts on gasoline and 3,100 on propane, with 3,800 and 3,500 starting watts. The listing quotes 59 dBA at 25% load in Eco Mode, 8 hours on 1.3 gallons of gas, or a full day on a 20-pound tank of propane.\n\nIt has the longest quoted runtime in the group and more running watts than the WEN DF360iX. It is certified per ANSI/PGMA G300, ANSI/UL2201 and EPA, and has an L5-30R twist-lock outlet, a 5-20R duplex, a 12V 8A DC port and two USB ports.\n\nIt suits long weekend campers who want a propane tank to carry a quiet inverter through a full day. Overload, short circuit, CO sensor and low oil shutdown protections are all listed.",
     "specs": [
       "3,300W gas, 3,100W propane",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G43h8vW5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DN69P3Z9?tag=rvgearlab-amz-20",
     "description": "The BILT HARD gives 3,500 rated watts on gasoline and 3,200 on propane from a 141cc air-cooled engine, with 4,500 and 4,150 peak. Its listing quotes under 3% THD, a fully enclosed body at 58 dBA from 23 feet, and a CO sensor that shuts the engine down.\n\nIt is the one pick here with a parallel option, joining two units with a kit sold separately to double output. Against the Westinghouse 4650 Dual it is quieter and cleaner, while the Westinghouse costs less.\n\nIt suits campers who want to start small and add a second unit later for an air conditioner. The listing names RV-ready and 30A outlets for a travel trailer.",
     "specs": [
       "3,500W gas, 3,200W propane",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HWHsGifML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07M8FFS51?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07M8FFS51?tag=rvgearlab-amz-20",
     "description": "The WEN DF475T runs on gasoline at 4,750 surge and 3,800 running watts or on propane at 4,350 and 3,500, switched with a selection dial. A 224cc four-stroke engine starts with a key, and a 4-gallon tank gives up to 11 hours at half load.\n\nIt offers 120V and 240V output through an L14-30R twist-lock, which the Westinghouse 4650 Dual does not list, and a wheel and handle kit. Compared with the BILT HARD 4500W it has more running watts and electric start, in a louder open-frame body.\n\nIt suits campers who want key-start convenience and a 240V output for transfer-switch use at home. A 47-inch LPG hose and bottle of oil come in the box.",
     "specs": [
       "3,800W gas, 3,500W propane",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51F4pNLvoBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B086Z452V9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B086Z452V9?tag=rvgearlab-amz-20",
     "description": "The DuroMax XP13000HX is a 13,000-watt dual fuel generator on a 500cc OHV engine with all copper windings and a push-button start. Its panel has four 120V GFCI outlets, a 120V 30A outlet, a 120/240V 30A twist-lock and a heavy-duty 120/240V 50A outlet, and a CO Alert shuts it down.\n\nIt has about three times the output of the 4,500-watt class and is the only 50A-capable pick here. A front interface switches between gasoline and propane in seconds, which the WEN DF475T does with a dial.\n\nIt suits base camps, big motorhomes and group events that need whole-camp power. It doubles as a home backup that is transfer-switch ready.",
     "specs": [
       "13,000W, 500cc engine",

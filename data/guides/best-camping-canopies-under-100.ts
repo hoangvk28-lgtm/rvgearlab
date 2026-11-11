@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JmXRQY+kL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6DPMKSM?tag=rvgearlab-amz-20",
     "description": "Here is a 10 by 10 foot canopy from Vinabilia with four removable sidewalls, a one-push center lock and three height settings. The main frame uses 25 by 25 millimeter tube with 22 by 11 millimeter crossbars, and it packs under 31 pounds in its carry bag.\n\nIt is the only pick here that gives full sidewalls on a 10 by 10 frame, which turns shade into a windbreak and a privacy screen. The NatureNook beats it on floor area, while the open-top models beat it on price.\n\nIt suits campers who want shade plus the option to close it up for wind or low sun. Two people can raise it in under five minutes, and it fits a table and chairs for six to eight.",
     "specs": [
       "Four removable sidewalls",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zuxIMY8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F247JGQ3?tag=rvgearlab-amz-20",
     "description": "The NatureNook is a 12 by 12 foot pop-up gazebo made from 300D polyester that is waterproof to 5000 millimeters. It has an awning, sidewalls and roll-up wind panels on traction ropes, with zipper vents for airflow.\n\nIt covers about 44 more square feet than the Vinabilia and adds the awning and screen panels, which turns it into a small outdoor room. The extra size is also why it costs the most in this list and weighs more to carry.\n\nIt suits families of up to eight who want a seating area that copes with sun, light rain and bugs. Zip the vents open on hot days to keep the air moving.",
     "specs": [
       "12x12 ft, 300D polyester",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FYJgFT32L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDRQ6XGL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDRQ6XGL?tag=rvgearlab-amz-20",
     "description": "This 10 by 10 foot open canopy has a center-lock frame one person can open, a white 210D Oxford top rated UPF 50+ and a powder-coated steel frame. In the kit you get eight steel stakes, four guy ropes and four sandbags.\n\nIt costs less than the Vinabilia and gives up the sidewalls, so you get airflow and clear sightlines on every side. It is also lighter at 35 pounds folded to a 4 foot bundle, which helps if you carry it by hand.\n\nIt suits solo campers and picnic-style stops where the sun is the main concern. Add sidewalls later only if you plan to camp in cooler weather.",
     "specs": [
       "10x10 ft, UPF 50+ white top",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+vrRmdKIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GTLN7LJ1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GTLN7LJ1?tag=rvgearlab-amz-20",
     "description": "This 10 by 10 foot canopy uses a slant-leg steel frame, a 210D Oxford top with a silver-coated underside and push-button height settings on all four legs. The version here has an American flag print and includes a carrying bag, ground stakes and ropes.\n\nIt is the cheapest pick with a distinctive look, and it pairs the same fabric class as the Pop-Up White with a wider leg stance. It does not include sandbags, which the Pop-Up White and the Vinabilia handle better.\n\nIt suits tailgates, parades and holiday camping where a print matters. Other colors exist for the same listing.",
     "specs": [
       "Slant-leg steel frame",

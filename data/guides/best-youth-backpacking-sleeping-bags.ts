@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BOM8FuMnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSQXGVC9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSQXGVC9?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Little Red is sized for young campers up to 4 ft tall, with recycled Fireline Core Eco synthetic insulation that stays warm when wet. A PadLok system keeps squirmy sleepers on their pad, and a contoured hood and draft collar add warmth.\n\nIt is the only genuinely kid-sized bag in this list and carries the coldest label at 20 degrees. The REM storage sleeve doubles as a stuff sack that cannot be lost.\n\nIt suits kids on family backpacking trips who need a bag that fits their frame. Kids can adjust their own hood and zipper.",
     "specs": [
       "Fits kids up to 4 ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41929YIcptL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CL3BQWKJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CL3BQWKJ?tag=rvgearlab-amz-20",
     "description": "The HTMEYBG lists a comfort range of 50 to 68F and a limit of 41 to 77F. It measures 86.6 by 31.5 inches, weighs about 3.3 lb and includes a compression bag.\n\nIt is the cheapest in the guide and the only adult-length pick that prints both a comfort and a limit range. A bottom zipper vents warm nights, and the bag opens fully as a blanket.\n\nIt suits teenagers and older kids on summer trips who need a cheap bag. The shell wipes clean.",
     "specs": [
       "50 to 68F comfort range",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41D5OIW3qtL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQNPR4VD?tag=rvgearlab-amz-20",
     "description": "The Sportneer bag measures 31.5 by 87 inches and is sold for adults and kids. A two-way separating zip at the bottom frees the feet, and the build uses a 190T polyester taffeta shell and a pongee lining.\n\nCompared with the HTMEYBG, it is slightly longer and states no temperature range. It costs less than the Big Agnes and gives families one bag that works for a teen or a parent.\n\nIt suits families who want one inexpensive bag to share among older kids and adults. The foot vent lets sleepers cool off.",
     "specs": [
       "31.5 x 87 inch size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41vAZ5ucejL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BV9YZS9H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BV9YZS9H?tag=rvgearlab-amz-20",
     "description": "The JEAOUIA measures 31.5 by 86.6 inches and is built from 210T nylon with a polyester pongee lining. The listing gives a design range of 59 to 77F, a drawstring hood and a foot zipper.\n\nIt is the warmest-weather pick of the group, and a little wider than the ECOOPRO bags that fill other lists. A compression sack comes in the box, and the listing names boys, girls and youth as users.\n\nIt suits older kids on summer trips who need a roomy shell. The foot zipper helps on hot nights.",
     "specs": [
       "31.5 by 86.6 in, 210T nylon",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31M1soehZbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSLZ579Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSLZ579Y?tag=rvgearlab-amz-20",
     "description": "The Big Agnes Copper Spur UL 4 is a four-person freestanding backpacking tent built on the HyperBead fabric line. It has awning-style doors, a TipLok buckle that handles pole tips, fly attachment and stakes, and an interior pocket system.\n\nIt is the only pick built around an ultralight fabric, and it costs about four times what the Kelty does. The Kelty is simpler and cheaper, while the TETON gives more mesh.\n\nIt suits groups that count ounces and will pay for a premium frame. Roomy volume and protected doors help in wet camps.",
     "specs": [
       "Four-person freestanding",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314y+8S2TML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B082P6XWN2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B082P6XWN2?tag=rvgearlab-amz-20",
     "description": "The Kelty Grand Mesa 4 is a freestanding backpacking tent with two aluminum press-fit poles and 68D polyester for the floor and fly. The listing quotes 4 lbs 1 oz for the 2-person size, and the tent has Quick Corners, an EZ-Zip vestibule and fully taped seams.\n\nIt costs about a quarter of the Big Agnes and still uses aluminum poles. The four-person weight is not quoted, so the Big Agnes keeps the edge for weight.\n\nIt suits groups who want a proven backpacking design at a fair price. Color-coded clips speed up setup.",
     "specs": [
       "Freestanding with aluminum poles",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31COGJizQ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B085WV6HJR?tag=rvgearlab-amz-20",
     "description": "The TETON Mountain Ultra is a four-person backpacking dome with a full mesh top for stargazing and a micro-mesh inner. The waterproof rainfly includes a 360-degree ventilation system, and the footprint is sold separately.\n\nIt leans on mesh and airflow more than the Kelty and costs less than it. The listing is silent on weight, so the Big Agnes remains the lighter option.\n\nIt suits warm-weather groups who want a view and a cool night. The tent packs down tight for hiking.",
     "specs": [
       "Four-person dome",

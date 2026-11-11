@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/61+hBnE7enL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FXG6S4VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FXG6S4VQ?tag=rvgearlab-amz-20",
     "description": "The KingCamp cabin tent has a TC poly-cotton roof, a 210D Oxford floor rated PU3000mm and a fire-resistant stove jack with a fireproof mat. It measures 11.2 x 7.9 ft with a 6.9 ft center height, and has two windows, two doors and roof ventilation.\n\nIt is the only tent here with a TC canvas roof, which the listing says reduces condensation, and the only one with a fireproof mat. Compared with the inflatable it costs less than half and pitches on poles.\n\nIt suits families who want a roomy cabin that tolerates stove heat better than thin synthetic fabric. Hanging loops and storage pockets help with organization.",
     "specs": [
       "TC poly-cotton roof",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZtnV6XVQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G2M8TG4R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G2M8TG4R?tag=rvgearlab-amz-20",
     "description": "The SENLEETO inflatable hot tent has a 13.78 x 9.84 ft floor, an 8.53 ft roof and three doors with six windows. It uses a silver-coated rainfly over an airtight layer and a mesh layer, with a stove jack for four-season use.\n\nIt is the largest shelter in the list and the only one that skips poles, and it also costs the most. The KingCamp is the better choice for canvas fabric, while the SENLEETO is the pick for space.\n\nIt suits large families who want a premium, quick-pitch shelter for 8 to 10 people. The company also promotes a free-replacement guarantee on verified defects.",
     "specs": [
       "13.78 x 9.84 ft floor",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31dkuQq3E0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08R7JC8FZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08R7JC8FZ?tag=rvgearlab-amz-20",
     "description": "The OneTigris TEGIMEN is a 12.5 x 6.6 x 6.2 ft hammock hot tent in 70D ripstop nylon rated at 3000mm. It adds YKK zippers, a sod skirt and a folded size of 20.8 x 5.9 x 5.9 inches, with 14 stakes and 10 guy lines in the kit.\n\nIt uses 70D ripstop nylon where the Soulchen uses 210T polyester, and names its zipper brand, a detail the Soulchen listing leaves out. The Soulchen is the better pick for ground sleepers.\n\nIt suits hammock hangers who want a rugged shell that folds to a very small bundle. The sod skirt traps heat around the edges.",
     "specs": [
       "70D ripstop nylon, 3000mm",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51DAxUBrn6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FR4YZCJ7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FR4YZCJ7?tag=rvgearlab-amz-20",
     "description": "The Soulchen is a 2 to 3 person hot tent in 210T polyester rated at 2500mm. It measures about 8.2 x 6.56 x 4.9 ft, weighs about 11.5 lb and comes with two aluminum poles, 12 stakes, two guy lines and a fireproof cloth.\n\nIt costs half the KingCamp and comes with a fireproof cloth, which the TEGIMEN listing does not mention. Its low 4.9 ft peak sits well below the Ranch Fire teepee.\n\nIt suits hikers, anglers and bushcrafters who want a packable cabin with a stove jack and a fireproof cloth. The 11.5 lb weight makes it easy to carry.",
     "specs": [
       "210T polyester, 2500mm",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31+Cw-K99UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCVPVKNN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCVPVKNN?tag=rvgearlab-amz-20",
     "description": "The Naturehike Ranch Fire is a four-season teepee hot tent with a fire-retardant stove jack, a snow skirt and a 4 to 6 person listing. The Ranch Fire line uses flame-retardant 210T polyester, a mesh inner tent and two doors.\n\nIt is the most affordable of the five and has a central pole space for a stove. The KingCamp offers a canvas roof, and this one offers a lower cost.\n\nIt suits groups who want a teepee with a flame-retardant jack and a snow skirt. Two doors improve entry and airflow.",
     "specs": [
       "Fire-retardant stove jack",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51iT5zPvYaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52HN2MS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52HN2MS?tag=rvgearlab-amz-20",
     "description": "The Kitvance 12V pump is rated 6.0 GPM at 70 PSI and uses a one-piece four-chamber diaphragm with genuine NSK double ball bearings. The listing names smart bypass protection and an adjustable pressure switch for tankless heater and multi-fixture use.\n\nIt carries the most complete feature description among the 12V pumps, and the adjustable factory 70 PSI setting lets a careful owner trim it for lighter plumbing. The VEVOR 6 GPM lists a similar flow with a different switch story.\n\nA strong all-rounder for dry campers who want 6 GPM straight off the house battery. It also stands out because suited to tankless heater supply.",
     "specs": [
       "6.0 GPM at 70 PSI, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AK+esQwaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSGGS6X6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSGGS6X6?tag=rvgearlab-amz-20",
     "description": "The Kitvance 110V pump delivers 6.0 GPM at 70 PSI with a power plug, a smart bypass and a one-piece four-chamber diaphragm. The pressure is described as adjustable to prevent spikes.\n\nIt is the AC counterpart of the 12V Kitvance and the only 6 GPM pump here that avoids battery draw entirely. That makes it the natural choice over the 12V models when an outlet is always close.\n\nBest for hookup campers and mobile-home style setups where a tankless heater runs all day. Buyers also get this: four-chamber diaphragm smooths flow.",
     "specs": [
       "6.0 GPM at 70 PSI, 110V AC",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41MpA3cU6LL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FY3K67GQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FY3K67GQ?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12V pump is rated 6 GPM (22.7 L/min) at 70 PSI with a four-chamber diaphragm, a 10 foot self-priming height and a pure copper motor. Its pressure switch is described as tested over 200,000 cycles with a bypass valve.\n\nIt undercuts the Kitvance 12V on price and puts a cycle-count figure on its switch, which few listings do. A stainless-clamped 1/2 inch hose adapter is part of the box.\n\nA good pick for owners who want a recognized tool brand behind a 6 GPM 12V pump. Another reason it earns a slot: lower price than other 6 GPM 12V pumps.",
     "specs": [
       "6 GPM at 70 PSI, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419fecv11sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1F77R4F?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1F77R4F?tag=rvgearlab-amz-20",
     "description": "The YIXWZAS pump is a 12V five-chamber unit rated 7 GPM with an adjustable 15 to 70 PSI switch, overload and overheating protection and a 100 percent copper motor. A heavy-duty switch and filter come with it.\n\nIt gives a full gallon more flow than the 6 GPM pumps and the widest adjustment range here, which suits owners who may grow into a second shower. Its galvanized mounts are rated against rust.\n\nBest for larger rigs that want headroom above 6 GPM on 12V. Another reason it earns a slot: filter included.",
     "specs": [
       "7 GPM, 12V, five chambers",

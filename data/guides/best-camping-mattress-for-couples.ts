@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4196pLG7TnL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BVLY5W6K?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BVLY5W6K?tag=rvgearlab-amz-20",
     "description": "The OhGeni queen is an 18 inch raised air mattress with coil-beam support and a built-in pump. It lists an 800 lb capacity, 40 percent thicker PVC and 10 years of product support.\n\nNext to the Intex queen, it is taller and includes a pump. Compared with the double pads, it is a true queen bed.\n\nIt suits couples who car camp and want a home-style bed. Firmness is adjustable.",
     "specs": [
       "18 inch raised queen",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ak221hQ5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3T2PP8Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3T2PP8Q?tag=rvgearlab-amz-20",
     "description": "The OGERY double pad is 6 inches thick with tubular air columns for stability. It weighs 4.8 lb and packs to 6.6 by 6.6 by 12.5 inches, with 50D polyester and TPU.\n\nCompared with the Seektain, it is thicker and has a more supportive build. Against the OhGeni, it is far smaller and lighter.\n\nIt suits couples who want a double that fits a backpack or a small car. The air columns reduce roll-together.",
     "specs": [
       "6 inch double pad",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31bF8hD9RZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BBF4KZBV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BBF4KZBV?tag=rvgearlab-amz-20",
     "description": "The TOBTOS double pad measures 6 inches thick and has an integrated foot pump and pillow. It fills in 2 to 3 minutes by foot and is described as made from tough materials.\n\nCompared with the OGERY, it adds a pillow and a foot pump. Against the Seektain, it is thicker.\n\nIt suits couples who want an all-in-one double. The foot pump needs no batteries.",
     "specs": [
       "6 inch double pad",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41aJfbe7pEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F7XVHPH5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F7XVHPH5?tag=rvgearlab-amz-20",
     "description": "The Seektain double pad is 79 by 51 by 4 inches inflated, weighs 3.3 lb and folds to 12.6 by 6 inches. It has a built-in foot pump with dual-layer check valves.\n\nCompared with the TOBTOS, it is thinner and lighter. Against the OGERY, it is lower priced with a pump included.\n\nIt suits couples who want a light double at a low price. The check valves keep air in overnight.",
     "specs": [
       "79 x 51 x 4 inch double",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31h4sqfJO6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0768LQLGH?tag=rvgearlab-amz-20",
     "description": "The Intex 64103E is a 10 inch queen with a 600 lb capacity, Fiber-Tech beams and a velvety top. A 2-in-1 valve with an extra wide opening speeds inflation.\n\nCompared with the OhGeni, it is shorter and lower priced. Against the double pads, it is a true queen with a raised height.\n\nIt suits couples who want the lowest-cost queen. The beam construction resists sagging.",
     "specs": [
       "Queen size, 10 inch height",

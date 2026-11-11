@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313zzaBzrHL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B084DB36KW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B084DB36KW?tag=rvgearlab-amz-20",
     "description": "The LiTime is a 12V 100Ah Group 31 LiFePO4 battery with a 100A BMS that guards against overcharge, over-discharge, short circuit and over-temperature. It weighs 22.05 lb, about a third of a comparable lead acid battery, and the listing claims 15000 or more cycles.\n\nAgainst the AGM dual-purpose batteries, it gives full 100Ah use and a fraction of the weight, with no cranking claim in the listing. Compared with the flooded US Battery pair, it needs no watering and no venting routine.\n\nIt suits campers and van owners swapping a heavy Group 31 lead acid for a lighter house battery. The 5 year warranty and tech support add a layer of assurance.",
     "specs": [
       "12V 100Ah LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AQrCOTTqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G7LQ87LG?tag=rvgearlab-amz-20",
     "description": "The Mighty Max MM-G31M is a 12V 110Ah Group 31M AGM that lists 825 CCA, 1000 MCA and 240 minutes of reserve capacity. It is spill-proof, maintenance free and rated for up to 700 cycles at 50% depth of discharge.\n\nAgainst the Weize it states a cycle rating, which gives a better view of its deep cycle life. Compared with the LiTime, it can crank an engine and run house loads at a much higher weight.\n\nIt suits truck campers and boat owners who want one battery to start an engine and run lights. The sealed design avoids acid leaks in a vehicle.",
     "specs": [
       "12V 110Ah, 825 CCA",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41y5-nzWEhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CJVHQRHB?tag=rvgearlab-amz-20",
     "description": "The Weize is a 12V 110Ah Group 31M AGM with 825 CCA and 240 minutes of reserve capacity for starting and deep cycling. Its listing highlights leak-proof construction, specialised safety valves and quick-charge capability at 14.4V.\n\nIts price is the lowest in this comparison, and it matches the Mighty Max on cranking figures. Against the Banshee it lists a higher capacity of 110Ah and names a charge voltage.\n\nIt suits budget trucks and campers that need a Group 31M that can start an engine and power a few accessories. A sealed leak-proof case suits use in a vehicle.",
     "specs": [
       "12V 110Ah, 825 CCA",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41p8SPbpBQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07D7HWMZZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07D7HWMZZ?tag=rvgearlab-amz-20",
     "description": "The Banshee is a Group 31 marine deep cycle with top posts, 105Ah, 800 CCA and dual post terminals. Its listing says it replaces the Optima D31M 8052-161 SC31DM.\n\nAgainst the Weize and Mighty Max it lists slightly less capacity at 105Ah and 800 CCA. Next to the LiTime lithium it is much heavier, while its terminals suit a typical truck or boat layout.\n\nIt suits owners replacing an existing D31M-style battery who want a direct match. The dual posts simplify mixed accessories.",
     "specs": [
       "12V 105Ah Group 31",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41l9u3oriCL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GM4VJXLD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GM4VJXLD?tag=rvgearlab-amz-20",
     "description": "The US31DC XC2 pair is rated 130Ah at the 20 hour rate with runtime ratings of 59 minutes at 75 amps and 225 minutes at 25 amps. It uses flooded lead acid cells with Diamond Plate Technology, dual SAE and bolt terminals and a heat-sealed polypropylene case.\n\nAgainst the AGM dual-purpose batteries, it lists far more deep cycle capacity at 130Ah per battery and publishes runtime ratings. Next to the LiTime, it costs much more as a pair and weighs more.\n\nIt suits a fixed camper or cabin bank where long deep cycle life matters more than weight. Two batteries wired in parallel give 260Ah.",
     "specs": [
       "12V 130Ah flooded pair",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ntprn1juL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0006VORDY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0006VORDY?tag=rvgearlab-amz-20",
     "description": "Camp Chef Explorer is a two-burner propane stove with dual 30,000 BTU cast-aluminum burners for 60,000 total BTUs. A three-sided windscreen and detachable steel legs come with an included hose.\n\nIt brings the most balanced mix of power and wind protection here, with a sturdier frame than the budget Flame King. It sets up fast at camp or tailgates.\n\nFamily campers who cook breakfast and dinner every day will find it the most dependable pick. The legs come off for packing.",
     "specs": [
       "Two 30,000 BTU burners",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41t0XfUrwIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B093N8JYTR?tag=rvgearlab-amz-20",
     "description": "Gas One B-4545 is a propane double burner with two burner heads and an adjustable 0-5 PSI regulator hose. The build is rugged and designed to last.\n\nIt costs less than the Camp Chef Explorer and keeps things simple with a plain, open top. The adjustable regulator lets you set flame strength.\n\nCampers who cook with a large pot or skillet will like the open top and sturdy frame. The sturdy frame keeps big pots steady.",
     "specs": [
       "Two burner heads",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410UoHTfj9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NZ5PGZB?tag=rvgearlab-amz-20",
     "description": "ROVSUN lists two separate burners at 75,000 BTU each for 150,000 BTU total. The flame is adjustable through a CSA listed regulator and a front knob.\n\nIt is the highest-output stove here, far beyond the Camp Chef at 60,000 BTU. Legs come off in minutes for transport.\n\nLarge group cooks, boil-pot fans and fish fry crews will like the sheer power. It is better for big pots than quick breakfasts.",
     "specs": [
       "Two 75,000 BTU burners",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rbKhLjh4L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0844HH4TL?tag=rvgearlab-amz-20",
     "description": "Flame King VT-101 is a two-burner portable stove with 20,000 BTUs total, two wind guards on the sides and a lid that converts into a third wind panel. It is built to be lightweight and compact.\n\nIt is the lightest two-burner here and carries a lower price than the Camp Chef. The lid doubles as wind protection when open.\n\nCouples and small families who want a compact two-burner for car camping will like the size. It tucks into a small trunk with room to spare.",
     "specs": [
       "20,000 BTU two burners",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "Gas One portable butane stove delivers 7,650 BTU with automatic piezo ignition and a safety shut-off. It carries CSA approval and comes with a case.\n\nIt is the best choice in the list for tabletop cooking and picnics, with precise heat control that suits simmering. It costs far less than any two-burner here.\n\nCamping couples and tailgaters will like how simple it is. The included case keeps it clean in a gear bin.",
     "specs": [
       "7,650 BTU butane",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hybCmWPwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NJYV3NP?tag=rvgearlab-amz-20",
     "description": "AOTU is a small backpacking burner with a lightweight aluminum alloy base and piezo ignition. An adjustable control valve takes the flame from maximum heat down to a simmer.\n\nIt is the lowest-cost pick in the group and the only one built for carrying on foot. Its fire board suits a 20 cm pot for one to three people.\n\nHikers and backpackers who need a cheap, compact backup burner will like it. It packs into the corner of a bag.",
     "specs": [
       "Aluminum alloy burner base",

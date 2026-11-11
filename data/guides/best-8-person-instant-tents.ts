@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GpYiitqdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G6L25DQ6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G6L25DQ6?tag=rvgearlab-amz-20",
     "description": "The DMH OUTDOORS 8 Person tent measures 12 by 10 ft with an 80 inch standing height, and the listing says it fits three queen air mattresses. A built-in porch adds what DMH calls 70 percent more outdoor space than a standard 8 person tent.\n\nAgainst the Romswi Tent it has a covered activity area, and it is cheaper than the PEAK Tent while offering a stated floor. Five mesh windows, a D-shaped door and a mesh roof handle airflow.\n\nIt suits families who want a living area as well as a bedroom. The generous floor also suits gear storage.",
     "specs": [
       "12 x 10 ft, 80 in peak",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31s+b3tO2GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVHFYNZB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVHFYNZB?tag=rvgearlab-amz-20",
     "description": "The PEAK OUTDOORS 6/8 Person tent measures 153 by 106 by 86 inches and sleeps eight, or a king air mattress with gear. Its 190T polyester has a PU 2000mm coating, a taped rainfly, galvanized metal poles and a large mesh roof.\n\nIt has the tallest roof of the group at 86 inches and the clearest waterproof number. Compared with the DMH Porch Tent it gives up the porch and costs more.\n\nIt suits tall campers and wet-weather trips. Choose the 8 person option on the listing, since the page also sells 6 person.",
     "specs": [
       "153 x 106 x 86 inches",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41I1b-hfC1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJ2DCGBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJ2DCGBQ?tag=rvgearlab-amz-20",
     "description": "The Romswi 8 Person tent has a 112.2 by 157.5 by 78.7 inch interior and sets up in about 60 seconds. It ships with a rainfly and a sturdy structure aimed at windy weather.\n\nIt is the least expensive 8 person tent here, and it keeps a 78.7 inch ceiling that is close to the DMH Porch Tent's 80. That makes it the budget route to standing height.\n\nIt suits groups that want the most standing room per dollar. The included rainfly covers the basics.",
     "specs": [
       "112 x 157 in interior",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418qs2Ew95L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDSP52WX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDSP52WX?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 8-Person tent has a telescoping frame that pitches in about 60 seconds, a removable rainfly with sealed seams and an adjustable ground vent. It includes storage pockets and pre-attached guy lines.\n\nNext to the Romswi Tent it adds sealed seams and a vent that adjusts from inside. It costs more than the DMH Porch Tent and lists fewer dimensions.\n\nIt suits first-time buyers who want a recognizable brand and an easy pitch. The pockets keep small gear tidy.",
     "specs": [
       "Telescoping frame, 60 seconds",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31L0KLn93SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QFR2WQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QFR2WQ?tag=rvgearlab-amz-20",
     "description": "Coleman's 4/6/8/10 family listing, in its 8 person size, uses a WeatherTec system with welded floors and inverted seams. Pre-attached poles and an integrated rainfly let it set up in about 60 seconds.\n\nCompared with the Amazon Basics Tent it names a patented floor and seam design, and it is the most expensive tent here. The DMH Porch Tent offers more stated floor for less.\n\nIt suits buyers who value brand reputation and weather features over price. The floor design is its main selling point.",
     "specs": [
       "WeatherTec welded floor",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ESb6SWLIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2FL6333?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2FL6333?tag=rvgearlab-amz-20",
     "description": "The Bashafo Sun Hoodie is a UPF 50+ long-sleeve shirt in lightweight fast-drying fabric that the listing says is certified material. The hood guards the head and neck, and thumb holes keep the sleeves in place while covering more of the hand.\n\nA ponytail opening in the hood adds ventilation and cuts heat build-up, which the Willit Hoodie and Roadbox Hoodie lack. Hiking, fishing, golfing, sailing, camping and fitness are all named on the listing.\n\nIt is the right pick for women who want a hood that works with long hair and warm weather. It balances coverage and airflow.",
     "specs": [
       "UPF 50+ certified material",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31GRf1gImpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GP3CWPYW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GP3CWPYW?tag=rvgearlab-amz-20",
     "description": "The Spyder Sun Hoodie is a long-sleeve UPF 50 hoodie with pockets, designed as a lightweight layer that moves from trail to town. The listing names hiking, fishing and everyday wear, and describes the cut as sun-smart coverage built for movement.\n\nIt is the only pick here from a known outdoor brand and the only one to list pockets in its title. Compared with the Bashafo Sun Hoodie, it has a lifestyle look and a UPF 50 rating rather than 50+.\n\nIt suits women who want a sun hoodie that also works as an everyday layer. Pockets give it a casual feel.",
     "specs": [
       "UPF 50 long-sleeve hoodie",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21geKhLLsBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07TNGHSWF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07TNGHSWF?tag=rvgearlab-amz-20",
     "description": "The Willit Sun Hoodie is a UPF 50+ long-sleeve hoodie in silky, breathable fabric that the listing says wicks moisture and dries quickly. Flat lock seams and a no-tag collar minimize friction, and thumb holes hold the sleeves in place.\n\nCompared with the TBMPOY Hoodie, it adds a fitted cut that is not tight and a softer feel. Against the Bashafo Sun Hoodie, it skips the ponytail opening and costs less.\n\nIt works for women who want a quiet, comfortable hoodie for hiking, running and cycling. The fabric feels smooth on skin.",
     "specs": [
       "UPF 50+, silky quick-dry fabric",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ejYRiuQSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09R1JNYWQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09R1JNYWQ?tag=rvgearlab-amz-20",
     "description": "The TBMPOY Sun Hoodie is a UPF 50+ long-sleeve hoodie in lightweight fabric that wicks moisture and dries quickly. Low-profile thumbholes hold the sleeves in place, and flatlock seams with a no-tag collar reduce chafing.\n\nIts thumb holes sit lower than those of the Bashafo Sun Hoodie, and the listing says they help trap warmth. Next to the Willit Sun Hoodie, it is simpler and costs a little less.\n\nIt suits women who want a basic hoodie for hiking, running, sailing and camping. The cut is straightforward.",
     "specs": [
       "UPF 50+, lightweight wicking",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gXa0kOOUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DTH8G18H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DTH8G18H?tag=rvgearlab-amz-20",
     "description": "The Roadbox Sun Hoodie is a UPF 50+ long-sleeve hoodie in lightweight, breathable fabric. A functional hood protects the neck, thumb holes keep sleeves in place, and flatlock seams with a tag-free collar reduce friction.\n\nIt has a relaxed yet flattering fit that gives more room than the Willit Sun Hoodie. Hiking, fishing, camping, running, cycling, beach walks and travel are all named on the listing.\n\nIt suits women who want a roomy layer that works from beach to town. The relaxed cut is easy to wear over a tee.",
     "specs": [
       "UPF 50+, hood, thumb holes",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31JziQIC0aL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSBM7PQ3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSBM7PQ3?tag=rvgearlab-amz-20",
     "description": "The G Gradual Sun Hoodie pairs UPF 50+ fabric with a hood, and the listing calls the material ultra-soft, light and quick-dry. Hidden thumb holes, side slits on a rounded high-low hem and a ponytail opening finish the design.\n\nIt matches the Bashafo Sun Hoodie on the ponytail opening and adds a longer back hem and side slits. It costs less than the Bashafo, Spyder and Willit hoodies.\n\nIt suits women who want a budget hoodie with thoughtful details. The hem covers the lower back.",
     "specs": [
       "UPF 50+ quick-dry fabric",

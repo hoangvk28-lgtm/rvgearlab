@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31A28rECxxL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CC1S21VG?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CC1S21VG?tag=rvgearlab-amz-20",
     "description": "The Mengnessly is a 28-inch hanging fan with five blades, a remote and three speeds with three timer settings. It runs from DC 12V and also from AC 110V through the supplied 2-pin US plug.\n\nAgainst the NPKRRSK and Yipgou it moves to a much larger blade span and adds a remote, which the two smaller 12V fans do not list. It is also the only one of the three with a plug for house or campground power.\n\nIt suits a car camper with a 12V battery who also wants to hang the same fan from a gazebo with an outlet. The plug-in blades come off for storage.",
     "specs": [
       "28 inch, five blades",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41943Jp7RaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CD7PB15Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CD7PB15Q?tag=rvgearlab-amz-20",
     "description": "The NPKRRSK is a 19.7-inch DC 12V ceiling fan with a brushless motor and a 2.5 m (98 inch) cord. It connects directly to a 12 volt storage battery and has an on/off switch and a hang clip.\n\nIt sits between the Mengnessly and the Yipgou on size and price, with a roomier blade span than the Yipgou and a lower cost than the Mengnessly. The blades insert for use and pull out for packing, so it travels flat.\n\nIt is the pick for a tent, a gazebo or an RV awning where a battery sits close by. The long cord lets the battery stay outside the sleeping area.",
     "specs": [
       "DC 12V, 19.7 inch",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/319Yc01A8-L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRPFM49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRPFM49?tag=rvgearlab-amz-20",
     "description": "The Yipgou is a mini hanging 12V DC fan with a 2.5 m power cord, an on/off switch and a hang clip. It connects directly to a 12 volt battery for use when the grid is off.\n\nPriced under the NPKRRSK, it keeps the same cord length and switch. The listing text names a 200 mm diameter while the title says 19.7 inches, so treat its coverage as modest.\n\nIt fits a solo camper or a small tent where one gentle, quiet breeze is enough. The silent design and hang clip keep it simple.",
     "specs": [
       "12V DC, 2.5 m cord",

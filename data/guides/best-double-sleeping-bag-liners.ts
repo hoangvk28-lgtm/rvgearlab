@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41f4QRpwjUL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DGXWQHQ2?tag=rvgearlab-amz-20",
     "description": "The Friendly Swede double liner is a silky polyester sack measuring 59 by 79 inches. It weighs 12 ounces, folds to 6 by 8 inches and opens fully down one side with a long double zipper.\n\nIt is the lightest and smallest-packing of the five, well under the 2.4 lb Exermil, and it sells at a moderate price. A lifetime warranty backs it, and it machine washes.\n\nIt suits backpacking couples and hostel travelers who count ounces. The full-length opening makes entry easy in the dark.",
     "specs": [
       "12 oz polyester",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417eC29E6ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CS285G75?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CS285G75?tag=rvgearlab-amz-20",
     "description": "Exermil makes this liner from 100 percent cotton with full-length zippers on three sides, and the unzipped size is 87 by 75 inches. French seams enclose the raw edges, and the weight is 2.4 lb.\n\nIt is the biggest and the heaviest of the five, and it is wide enough to stretch over a king bed. Cotton breathes and feels like bedding from home.\n\nIt suits couples who want a hotel-friendly sheet and a camp liner in one. The carrying bag keeps it tidy in luggage.",
     "specs": [
       "100 percent cotton",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WSbfxk5eL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BLZ2RCRJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BLZ2RCRJ?tag=rvgearlab-amz-20",
     "description": "The Frelaxy double liner measures 84.6 by 70.8 inches and fits two people up to 7 feet. It is 100 percent polyester microfiber with double-ended zippers on both sides and a pillow pocket.\n\nIt is wider than a queen bed and a touch longer than the Friendly Swede. Machine wash and tumble dry low keep care simple.\n\nIt suits tall couples who need length and a pillow pocket. It also works as a travel sheet in hostels.",
     "specs": [
       "84.6 x 70.8 inch microfiber",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ygrzbtgKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B005EPRN9M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B005EPRN9M?tag=rvgearlab-amz-20",
     "description": "The TETON Mammoth liner is a brushed poly-flannel sheet sold to fit the Mammoth and Fahrenheit Mammoth double sleeping bags. The listing says it adds about 10 degrees of warmth and is machine washable.\n\nIts flannel feels warmer than the Friendly Swede's silky polyester and it is the only liner here with a stated warmth gain. The listing also suggests using it as a guest sheet or travel blanket.\n\nIt suits owners of a TETON double who want a washable layer and a modest warmth boost. It costs about the same as the Frelaxy.",
     "specs": [
       "Brushed poly-flannel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RWC5pxWTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09V7W1HN8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09V7W1HN8?tag=rvgearlab-amz-20",
     "description": "The MongByYa liner is made from sanded polyester that the listing calls silky and quiet, weighing as low as 1.7 lb and folding into a pouch. Two buckles on top open one or both sides, and an invisible bottom zipper vents the feet.\n\nIt claims to add 10 to 15 degrees F of warmth inside a winter bag, a stronger claim than the TETON's 10. It comes in single and double versions at a budget price.\n\nIt suits budget backpackers who want a liner that also works as a summer sheet. Pick the double version when ordering.",
     "specs": [
       "Sanded polyester",

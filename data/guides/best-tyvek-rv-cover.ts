@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/317clKtS72L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JBKF8RQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JBKF8RQ?tag=rvgearlab-amz-20",
     "description": "The Camco ULTRAGuard Supreme for Class C fits RVs 23 to 26 feet and uses a three layer DuPont Tyvek top with two layer non woven sides, front and back. It adds zippered entry doors and covered air vents.\n\nAgainst the Camco ULTRAGuard Trailer, it is the same build in a Class C cut, so the choice comes down to body style. It suits Class C owners who want roof grade Tyvek and door access without removing the cover.",
     "specs": [
       "3-layer DuPont Tyvek top",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31AJ80XeszL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07JBK3LPM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07JBK3LPM?tag=rvgearlab-amz-20",
     "description": "The Camco ULTRAGuard Supreme for travel trailers fits 20 to 22 feet and shares the three layer DuPont Tyvek top with zipper doors and covered vents. It is described as a near custom fit.\n\nNext to the Umbrauto Trailer Cover, it covers a shorter range with a brand name Tyvek top and a named fit type. It suits owners of mid size trailers who want a dependable, simple cover.",
     "specs": [
       "3-layer DuPont Tyvek top",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kTDiM+5ZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07RL939SJ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07RL939SJ?tag=rvgearlab-amz-20",
     "description": "The Classic Accessories SkyShield Class B cover has a bonded DuPont Tyvek top and a three year warranty. The listing gives a 20 foot length and a 117 inch maximum height, with air vents to reduce wind lofting.\n\nCompared with the Camco ULTRAGuard Class C, it is built for smaller Class B vans and adds tension panels and an elastic hem for a custom feel. It suits van owners wanting Tyvek in a smaller size.",
     "specs": [
       "Bonded DuPont Tyvek top",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/313OiRl+waL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CM5RZDS6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CM5RZDS6?tag=rvgearlab-amz-20",
     "description": "The Umbrauto cover fits travel trailers 27 to 30 feet and uses DuPont Hi-Teflon Tyvek on the top with four layer non woven sides. It lists a double PU coating rated at 5000mm and six vents.\n\nWhere the Camco ULTRAGuard Trailer stops at 22 feet, this one reaches 30 feet at a much lower price. It suits owners of long trailers and toy haulers who want three rollable doors and windproof ropes.",
     "specs": [
       "DuPont Hi-Teflon Tyvek top",

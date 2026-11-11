@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41DKmGDLfTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDD6KNW6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDD6KNW6?tag=rvgearlab-amz-20",
     "description": "The SENSORY4U is a top quilt with 850 fill power down, a printed weight of 1.9 lb, a comfort rating of 30F and a survival rating of 20F. A foot box and pad straps are included.\n\nCompared with the Naturehike, it is the only one that prints temperature figures and the only one with a known fill power. It weighs more than the Naturehike, and it gives you a real rating to plan around.\n\nIt suits backpackers who want down warmth at a moderate price. The straps keep it from sliding off your pad.",
     "specs": [
       "850 fill power down",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31MBnHUaB6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GVY2Q33Z?tag=rvgearlab-amz-20",
     "description": "The Naturehike CW-EXT is filled with RDS-certified goose down and wrapped in a thin 10D nylon shell free of PFAS. It weighs 1.09 lb in size L and 0.94 lb in size M.\n\nIt is the lightest pick here by more than half a pound, and it can open out as a down blanket or slip inside a bigger bag as a warm layer. Next to the SENSORY4U, it trades printed ratings for lower weight.\n\nIt suits ultralight hikers who want a layer for summer and shoulder season. Pair it with warm clothing for cool nights.",
     "specs": [
       "0.94 lb M, 1.09 lb L",

@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Aq+TLpItL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FZT4QT3M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FZT4QT3M?tag=rvgearlab-amz-20",
     "description": "The cismorvex is a 50 foot 10/3 SJTW outdoor cord with an LED power indicator on one end, oversized plugs and a vinyl jacket that resists moisture, abrasion and sunlight. Both ends have reinforced strain relief, and the jacket stays flexible to -50 degrees Celsius.\n\nIt costs about $43, around $7 less than the LifeSupply 50 ft and $2 less than the POWGRN 50 ft 12/3, and it has the thickest wire of the three. Ten gauge loses less voltage over 50 feet than the POWGRN's 12 gauge.\n\nIt suits campers who run a fridge, a space heater or power tools to a far site. The lighted end shows the cord is live.",
     "specs": [
       "50 ft, 10/3 SJTW",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ii6a1lnwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01LX8KDW9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01LX8KDW9?tag=rvgearlab-amz-20",
     "description": "The LifeSupply is a 50 foot, 10/3 gauge SJTW cord rated for 15 amps and 125 volts, with a lighted end and a bright yellow vinyl jacket. The jacket resists oil, grease, moisture and abrasion, and the cord stays flexible in the cold.\n\nIt costs about $50, $7 above the cismorvex, and it is the top of the budget with the same wire thickness. The extra money buys a tougher oil-resistant jacket and a longer-established brand.\n\nIt suits campers and tradesmen who plug into heavy loads at remote sites. It also works for yard tools and holiday lights.",
     "specs": [
       "50 ft, 10/3 SJTW, 15A 125V",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41woXrTpnEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BMTJLMCK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BMTJLMCK?tag=rvgearlab-amz-20",
     "description": "The POWGRN is a 50 foot 12/3 SJTW cord rated 15 amps, 125 volts and 1,875 watts and listed by ETL and cETL. It has a lighted end, a hook-style socket for hanging and an IP65 weather-resistant jacket that tolerates 158 degrees Fahrenheit.\n\nIt costs about $45, around $5 under the LifeSupply, and it is lighter than the 10 gauge cords with the same length. It has ETL and cETL listing, which adds a third-party safety check.\n\nIt suits campers who want 50 feet of reach with a lighter cord than 10 gauge. Storage straps come in the box.",
     "specs": [
       "50 ft, 12/3 SJTW, 1,875W",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CuEOdQdgL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP2SSZXS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP2SSZXS?tag=rvgearlab-amz-20",
     "description": "The Klein Tools EXC2515 is a 25 foot 12/3 SJEOW cord with dual lighted ends, 99.9 percent copper wire and a rating of 15A, 125V and 1,875W. Its jacket stays pliable down to -58 degrees Fahrenheit.\n\nIt costs about $49, nearly $23 more than the HUANCHAIN 25 ft, and it is the only cord with both ends lit and the only SJEOW jacket. It is half the length of the 50 foot cords.\n\nIt suits tradespeople and campers who value a rugged jacket and visible ends on a short run. Daytime visibility is a real plus.",
     "specs": [
       "25 ft, 12/3 SJEOW",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41z05LlPUQL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09WQNRN9P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09WQNRN9P?tag=rvgearlab-amz-20",
     "description": "The HUANCHAIN is a 25 foot 12 AWG outdoor cord rated 15 amps, 125 volts and 1,875 watts with a lighted end. The PVC jacket is flame-resistant, waterproof and cold resistant to -50 degrees Celsius, and a hook socket supports hanging.\n\nIt costs about $27, the lowest in the group and $22 under the Klein Tools EXC2515. It gives you 12 gauge wire for the price of many 16 gauge cords.\n\nIt suits campers who want a sturdy 25 foot cord for a fridge or fan. The maker advises using it fully extended and uncoiled.",
     "specs": [
       "25 ft, 12 AWG, 1,875W",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AmC34UokL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPDYR195?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPDYR195?tag=rvgearlab-amz-20",
     "description": "The PlugSaf is a 25 foot 12/3 SJTW cord with a three-outlet end, a lighted indicator and ETL/cETL listing. It is rated 15A, 125V and 1,875W and tolerates -40 to 140 degrees Fahrenheit.\n\nIt costs about $29, only $2 above the HUANCHAIN 25 ft, and it splits one outlet into three, which neither HUANCHAIN nor Klein Tools does. The shared load is still limited to 1,875W.\n\nIt suits campers who want to plug a lamp, a fan and a charger into one point at the tent. The yellow jacket is easy to see.",
     "specs": [
       "25 ft, 12/3 SJTW",

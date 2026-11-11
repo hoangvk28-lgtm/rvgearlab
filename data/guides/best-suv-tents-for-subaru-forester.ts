@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413s2sEMh+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQTGMKP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQTGMKP?tag=rvgearlab-amz-20",
     "description": "The JMJGHSRGTY tailgate tent is written for the Subaru Forester Sport 2019 to 2026 and is also described as suiting SUVs, hatchbacks, crossovers and minivans. It is made from 210D Oxford fabric with a water-resistant surface for light rain and dew, and it costs about $170, the second lowest price in the group.\n\nWhat sets it apart from the optrcn below it is how clearly the listing explains attachment. You expand the tent, place it over the open hatch, secure the elastic hooks and adjust the fit, and built-in magnets help hold the fabric to the car body. The rear door is double layer, with a fabric panel and a mesh screen, so you can choose airflow or cover. Compared with the unbranded pole-supported tent below it, the JMJGHSRGTY lets the door panel extend outward on poles and guy lines to make a covered area behind the car.\n\nIt suits Forester owners from 2019 on who want a quick pitch, a mesh door for warm nights and an awning for cooking or sitting out of the rain.",
     "specs": [
       "Forester Sport 2019 to 2026 fitment",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41enhb63WdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H6996V4Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H6996V4Y?tag=rvgearlab-amz-20",
     "description": "The optrcn tent is listed for the Subaru Forester from the 1998 through 2026 model years and positioned as compatible with most SUVs, crossovers and hatchbacks. Its water-resistant fabric is meant for light rain, dust and leaves, and it uses a three-door layout, two side doors and a front door, for about $329.\n\nCompared with the JPLBDL below it, the optrcn adds a flexible setup: the listing says you can connect it to the rear hatch to extend covered space during travel or use it independently when vehicle attachment is not needed. That makes it useful on days when you drive off and leave the tent in camp. Against the JMJGHSRGTY above it, the optrcn gives a larger three-door footprint and stand-alone use, in exchange for a price roughly twice as high.\n\nIt works for families, road-trippers and picnic or tailgate use where the extra covered area beside the vehicle matters, and for campers who want the shelter to serve as a free-standing room as well as a hatch sleeve.",
     "specs": [
       "Three doors: two side, one front",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412FPX6G9XL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HMBT6WF1?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HMBT6WF1?tag=rvgearlab-amz-20",
     "description": "The JPLBDL SUV tent is designed for rear-vehicle attachment so you can step between the tent and the cargo area without going outside in rain or wind. Its three-door design has two side doors and a front door to improve airflow, the listing names the Forester 1998 to 2026, and it costs about $369, the highest price in the group.\n\nCompared with the optrcn above it, the JPLBDL puts its emphasis on the rear attachment and on the walk-through from car to tent, with a lightweight design that folds to a compact carry size. Against the MWKHZIL below it, the JPLBDL claims a much wider range of years, while the MWKHZIL is specific to the 1998 to 2002 generation. The listing itself advises checking vehicle dimensions before purchase, which is good advice for any hatch tent.\n\nIt makes sense for road-trip campers who sleep in the cargo area and use the tent as a private dressing room, families who want a covered space beside the car, and buyers who value a name-brand listing over the unbranded copies.",
     "specs": [
       "Forester 1998 to 2026 listed",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318a+sj4G7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HN45NT7H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HN45NT7H?tag=rvgearlab-amz-20",
     "description": "This tailgate tent is listed as compatible with the Subaru Forester and costs about $146, the lowest price in the group. The kit is complete: the tent, support poles, guy lines, ground stakes and a storage bag, which means everything needed for setup is in the box. The support poles and guy lines give the structure real stability once it is pitched.\n\nCompared with the JMJGHSRGTY above it, the unbranded tent costs slightly less and brings a pole-and-guy-line frame rather than elastic hooks and magnets, which can hold its shape better in a breeze. Against the 3-door tents, it is a simpler single-opening design with a lower price, and it folds down compactly into its storage bag. The listing describes it as suitable for SUV camping, road trips, tailgating, fishing and picnics.\n\nIt suits cost-conscious Forester owners, weekend anglers and picnickers, and anyone who wants a tent they can set up with stakes and poles and then forget about. The listing names the Forester without a year range, so confirm the fit for your generation.",
     "specs": [
       "Includes support poles, guy lines, stakes",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41UpLGHbTOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HHX6T9GW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HHX6T9GW?tag=rvgearlab-amz-20",
     "description": "The MWKHZIL is the one listing here that restricts itself to a narrow year range, the Subaru Forester 1998 to 2002, which is the first-generation body. It uses Oxford fabric with a waterproof coating to reduce exposure to rain, moisture and wind, wraps around the open rear hatch and creates a space for sleeping, changing clothes or storing gear. It costs about $330.\n\nCompared with the JPLBDL above it, the MWKHZIL narrows the claim instead of stretching it across twenty-plus years, which is exactly what an owner of an early Forester wants to see. Against the unbranded pole-supported tent, it is a hatch-wrap design with large openings for access and airflow, and it folds into a compact size for storage. The Oxford fabric and waterproof coating are a step above the light-rain wording on several other listings.\n\nIt is a good fit for owners of early Foresters, weekend campers and anglers, and anyone who prefers a tent that names the exact generation it is built around over a broad all-years claim.",
     "specs": [
       "Forester 1998 to 2002 fitment",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41uf8GyzxWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HNJ3YFDH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HNJ3YFDH?tag=rvgearlab-amz-20",
     "description": "This unbranded hatchback tent shares nearly the same listing as the JPLBDL: a three-door arch design for the Subaru Forester 1998 to 2026, with two side doors and a front door, sold for about $367. Its fabric is described as durable and water-resistant for everyday outdoor use, helping reduce exposure to light rain, dust and leaves.\n\nCompared with the JPLBDL above it in this group, the two read almost word for word the same, with the price a couple of dollars lower here, so the choice comes down to which seller you prefer. Against the optrcn, this one offers the same three-door layout without a stand-alone mode in its copy. It is pitched for families, road trips, picnics, cycling trips and outdoor gatherings, with the rear hatch sleeve creating a covered space beside the vehicle.\n\nIt works for campers who want a three-door tent with an arch roof and who are comparing prices across sellers. Treat the Forester year range as something to confirm against your own tailgate opening before you order.",
     "specs": [
       "3-door arch tent, Forester 1998 to 2026",

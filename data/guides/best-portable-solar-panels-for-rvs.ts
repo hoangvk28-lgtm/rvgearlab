@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31gDKduKSiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GY8JYQT7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GY8JYQT7?tag=rvgearlab-amz-20",
     "description": "The Anker SOLIX PS400 is a 400W bifacial foldable panel that weighs 22 lbs with its stand, about 10% lighter than the previous version. N-type cells rated 25% or higher, a dual-sided output claim of up to 10% more power and IP68 protection come with a five-year warranty.\n\nIt offers lower rated output than the 480W ZOUPW and a lower listed bifacial gain, in exchange for a named warranty and a lighter build. Against the Renogy 200W it doubles the output.\n\nIt suits RV owners who recharge a large power station from a parked rig. The box includes two 8.2 ft cables and a 1.6 ft XT-60i lead.",
     "specs": [
       "400W bifacial, N-type 25%+",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JiOFXoSdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G3PJF9W8?tag=rvgearlab-amz-20",
     "description": "The ZOUPW 480W panel uses N-type 16BB cells with a 25% conversion claim and a bifacial design with up to 30% extra gain. It weighs 22.5 lbs at a listed 21.3 W/lb density and uses a 42.5V high-voltage design for large power stations.\n\nIt lists 80W more than the Anker and a larger bifacial gain, which makes it the highest-output pick here. Compared with the Renogy 200W it more than doubles the wattage.\n\nIt suits RV owners with a large high-voltage power station and room to set a big panel. The IP68 rating covers wet camps.",
     "specs": [
       "480W bifacial, N-type 16BB",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41CvFaQf-fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CNPHD4VY?tag=rvgearlab-amz-20",
     "description": "The Renogy 200W uses 16BB N-type cells at 25% efficiency and weighs 13.89 lbs, folding to 23.72 by 22.99 by 1.97 inches with a magnetic closure. It adds a USB-C PD 45W port and two USB-A ports, MC4 output for stations and UL 61730 certification.\n\nIt is a step below the 400W panels in output and lighter at about 14 lbs. Next to the DOKIO 150W it uses MC4 output and has built-in USB charging.\n\nIt suits RV owners with a midsize power station and a need for phone and laptop charging at the panel. Four kickstands give 40, 50 and 60 degree angles.",
     "specs": [
       "200W, 25% N-type",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51SyNN01llL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y8CT1W9?tag=rvgearlab-amz-20",
     "description": "The DOKIO 150W kit folds to 19.3 by 20.9 by 1.1 inches at 7.3 lbs and includes a standalone PWM controller for 12V batteries with reverse polarity, overcharge, overload and short-circuit protection. A 9.8 ft cable keeps the controller in shade, and USB ports offer emergency phone charging.\n\nIt is the one pick built to charge a 12V house battery directly, with a replaceable controller. Compared with the Renogy 200W it is lighter at 7.3 lbs and cheaper.\n\nIt suits RV owners who want to feed a 12V house or camper battery from a portable panel. The listing notes that some power stations cap solar input at 60 to 100W.",
     "specs": [
       "150W, PWM controller included",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41pp4boWHrL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CP2ZDRBM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CP2ZDRBM?tag=rvgearlab-amz-20",
     "description": "The Cummins 60W panel outputs up to 60W at 14.85V with USB-C at 27W, USB-A at 18W and a DC 5521 port at 60W. It names compatibility with Cummins PS160, PS200, PS300, PS600 and PS1000 stations.\n\nIt is the lightest power commitment here and one of the cheapest. The listing says you can parallel it with the SP100 for up to 160W.\n\nIt suits RV owners who carry a small Cummins station or phones and tablets. The USB-C port runs at 27W, enough for many tablets.",
     "specs": [
       "60W, 14.85V output",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416LI2vG8UL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H4QVVBG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H4QVVBG7?tag=rvgearlab-amz-20",
     "description": "The Drawup 5W is a 12V monocrystalline panel measuring 135 by 140 by 15 millimeters, with a 300 cm cable. It is listed for charging batteries in cars, boats and RVs, and for powering small DC devices and low-light conditions.\n\nIt is the smallest and cheapest panel here, with a small fraction of the Anker wattage. That makes it a maintainer and not a source of RV power.\n\nIt suits RV owners who want to keep a starter battery topped up during storage. A 300 cm cable lets it sit on a dash or sill.",
     "specs": [
       "5W 12V monocrystalline",

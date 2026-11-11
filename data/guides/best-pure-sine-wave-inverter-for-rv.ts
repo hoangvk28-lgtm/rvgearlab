@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BlRic066L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DL5KRBHL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DL5KRBHL?tag=rvgearlab-amz-20",
     "description": "The Renogy PUH is a 3000W pure sine inverter with a built-in on-grid transfer switch, Bluetooth and a wired remote. The listing claims over 92% efficiency and under 51dB of noise, which makes it the most RV-ready option here at $390.98.\n\nIt costs $68.00 more than the Renogy P2 3000, and that money buys the transfer switch and monitoring, not extra watts. Pick this if you want shore power to flip to battery without a separate switch. Caveat: the 12V full-load draw still demands heavy cable.",
     "specs": [
       "3000W pure sine",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410qSJHDO5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B096MKPQ1M?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B096MKPQ1M?tag=rvgearlab-amz-20",
     "description": "The Renogy P2 gives 3000W continuous and 6000W peak surge, with three AC outlets, one AC terminal block and a 5V/2.1A USB port. LED indicators flag under-voltage, over-voltage and over-temperature faults at $322.98.\n\nAgainst the Renogy PUH 3000 you save $68.00 but lose the transfer switch and Bluetooth, so you manage shore power yourself. Against BELTTT 3000 it costs $73.00 more. Pick this if you want the Renogy name and 6000W surge for a roof AC or microwave. Caveat: LED lights only, no numeric display.",
     "specs": [
       "3000W, 6000W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51-Ti3gPxFL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJL6P5Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJL6P5Y?tag=rvgearlab-amz-20",
     "description": "The BELTTT 3000W pure sine inverter delivers 3000W continuous and 6000W peak, with a high-brightness LCD showing real-time status and protections for under-voltage, over-voltage and overload. It sells for $249.99.\n\nThat is $73.00 less than the Renogy P2 3000 for the same headline watts, so the savings come from brand support and extras. Compared with ZETAWALE 2500, it adds 500W but costs $20.00 more and lacks a built-in ATS. Pick this if you want full power on a budget. Caveat: warranty terms are not listed.",
     "specs": [
       "3000W, 6000W peak",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41cnDn+zwSL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DMVGNW95?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DMVGNW95?tag=rvgearlab-amz-20",
     "description": "The ZETAWALE is a 2500W pure sine inverter with a built-in ATS that switches between shore power and battery, and a hardwired 3-wire AC input terminal block. It lists at $229.99 and targets RV electrical systems directly.\n\nIt is $20.00 cheaper than BELTTT 3000 and gives up 500W, yet it includes the automatic transfer switch that BELTTT lacks. Against the Renogy PUH 3000 you save $161.00. Pick this if 2500W covers your loads and you want auto switching cheaply. Caveat: surge rating is not listed here.",
     "specs": [
       "2500W pure sine",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/4198d8rC5uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DCJPTVMW?tag=rvgearlab-amz-20",
     "description": "The BELTTT 2000W unit gives 2000W continuous and 4000W surge, with dual AC sockets, a 20A outlet, a 5V 2.1A USB port and a hardwire option. An LCD screen shows status for $179.99.\n\nIt is $70.00 less than BELTTT 3000 and $50.00 less than ZETAWALE 2500, but it has no transfer switch. At 2000W, full load pulls about 180A from a 12V bank, easier on wiring than 3000W. Pick this for a coffee maker and microwave. Caveat: skip it for roof air conditioners.",
     "specs": [
       "2000W, 4000W surge",
@@ -160,7 +160,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51T6iQY3SpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F1T6K58R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F1T6K58R?tag=rvgearlab-amz-20",
     "description": "The LANDERPOW is a 2000W pure sine inverter with 4000W surge, three AC outlets, USB and USB-C ports, a hardwired AC terminal and included 2AWG battery cables. It is the cheapest here at $169.99.\n\nIt saves just $10.00 over BELTTT 2000, so the choice comes down to the included cables and USB-C. Against the Renogy P2 3000 you save $153.00 but lose 1000W. Pick this if you want a plug-and-go kit. Caveat: efficiency and idle draw are not listed, so check before sizing your bank.",
     "specs": [
       "2000W, 4000W surge",

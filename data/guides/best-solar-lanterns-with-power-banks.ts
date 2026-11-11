@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/21+mjkaDI9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09XM4DC8W?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09XM4DC8W?tag=rvgearlab-amz-20",
     "description": "The Lepwings pairs a 6000mAh battery rated up to 80 hours with dual solar panels and a USB port that recharges it in as little as 3 hours. A touch dimmer runs from 60 to 280 lumens and covers a 300 square foot area, and the pack doubles as a solar-powered power bank.\n\nIt states the biggest battery of the five and the only dimming range in lumens, ahead of the 100 lumen Xynover 4-Pack. Dual panels and a 3 hour USB route give it two ways to refill.\n\nIt suits campers who want a single, strong lantern that also charges a phone from the sun. A warm, dimmable glow suits a tent or kitchen.",
     "specs": [
       "6000mAh, up to 80 hours",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/419xkXPe-cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DYV7KX92?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DYV7KX92?tag=rvgearlab-amz-20",
     "description": "The Xynover 4-Pack lists triple charging by solar, USB (cable included) or 3 AA batteries, with a power bank function and 100 lumens from 360 degree LEDs. A magnetic base and hanging hook allow tent, work-light and emergency use.\n\nIt gives each lantern the AA fallback that the Lepwings 6000mAh lacks, and it adds a magnetic base the others do not list. Compared with the Lichamp 4-Pack, it states a lumen figure.\n\nIt suits families and work-light users who want four collapsible lanterns with magnets. Brightness adjusts by extending the lantern.",
     "specs": [
       "Solar, USB or 3 AA",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410w1AkpevL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW47WDML?tag=rvgearlab-amz-20",
     "description": "The Lichamp 4-Pack gives four pop-up lanterns, each running on USB, solar or AA batteries. The listing names military-grade ABS, overcharge protection and three light modes, with a rechargeable battery that acts as a power bank.\n\nIts three power routes mirror the Xynover 4-Pack, and it adds named overcharge protection. It also collapses to roughly smartphone size for a glove box or go-bag.\n\nIt suits households that want a lantern in every room with a spare power route. If the sun is out, solar works, and if it is not, AA cells still do the job.",
     "specs": [
       "USB, solar or AA power",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rc3BHlyWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DW48CVCY?tag=rvgearlab-amz-20",
     "description": "The Lichamp Collapsible has solar and USB charging, a USB output port for phones and overcharge protection. It joins a flashlight to a collapsible 360 degree lantern in a military-grade ABS body.\n\nIt names a phone output port, which the Vegoran does not describe in the same way, and it costs far less than the Lichamp 4-Pack as a whole. A folding handle doubles as a flashlight grip.\n\nIt suits campers who want one tool for hiking and tent lighting. It suits a lighter budget and a pack with limited space.",
     "specs": [
       "Solar and USB charging",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EdQJZ7D5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FDKXH87Z?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FDKXH87Z?tag=rvgearlab-amz-20",
     "description": "The Vegoran offers six modes (Turbo, High, Medium, Low, SOS and Strobe), IPX4 splash protection and dual solar and USB charging. A power bank function, LED battery indicators at 25, 50, 75 and 100 percent and a 90 degree adjustable head complete the build.\n\nIt is the lowest-priced pick and has the most mode variety, and it adds a four-step battery indicator. The foldable design packs to palm size.\n\nIt suits budget-minded hikers and tent campers who want a simple light with a battery gauge. The multi-mount options give several ways to place it.",
     "specs": [
       "Six modes including SOS",

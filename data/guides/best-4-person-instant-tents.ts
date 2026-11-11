@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41bRFMna9QL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHWTMXFM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHWTMXFM?tag=rvgearlab-amz-20",
     "description": "The Fanttik Zeta C4 Pro measures 96 by 96 inches and the listing says it fits a queen air mattress. It pitches in under 60 seconds with pre-installed poles, has a door zipper with a drainage channel and a bathtub-style floor.\n\nNext to the Fanttik Alpha Tent it gives up the X-frame and premium finishes and costs far less, and it has more mesh than the Amazon Basics Tent. Screened panels on every wall, low floor vents and a screened roof keep air moving.\n\nIt is the best fit for families who want a roomy, ventilated tent at a fair mid price. The tall walls also help with changing clothes.",
     "specs": [
       "96 x 96 in footprint",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41qtFPpYBlL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2W12RYZ?tag=rvgearlab-amz-20",
     "description": "Fanttik's Alpha C4 Ultra comes as a 94 by 94 inch four-wall tent with an X-frame structure, integrated eave poles and a removable rain cover. The bottom fabric is 300D, and sealed seams are named at the doors and windows.\n\nCompared with the Zeta Tent it uses heavier floor fabric and a different frame, and its 57.8 inch packed length is 9.8 inches shorter than typical tents, per the listing. It costs more than every other pick here.\n\nIt suits campers who want boxy walls and a tougher floor, and are willing to pay more for the build. It is best for car campers who pitch often.",
     "specs": [
       "94 x 94 in, X-frame",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31NsFyuHaWL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D7QK1N81?tag=rvgearlab-amz-20",
     "description": "The Coleman 4/6/8/10 Person Instant Tent is an 8 by 7 ft design in the 4 person size, with an integrated rainfly and Polyguard 2X double-thick fabric. Pre-attached poles let it go up in as fast as one minute.\n\nCompared with the Purebox Tent and Amazon Basics Tent it comes from an established camping name and has a durable fabric called out by name. The 8 by 7 ft floor is smaller than both Fanttik tents.\n\nIt suits campers who want a known brand and a tent that fits a small car. The integrated rainfly means fewer loose parts.",
     "specs": [
       "8 x 7 ft floor",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41i0yAesF5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GD6Z2HCS?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GD6Z2HCS?tag=rvgearlab-amz-20",
     "description": "The Purebox 4 Person tent is 8.04 by 8.04 ft with a 59 inch center height and a 2000mm PU-coated fabric, taped seams, a reinforced PE floor and a removable rainfly. It sets up in about 50 seconds.\n\nIt is the one budget tent here that names both a waterproof number and taped seams, which the Amazon Basics Tent does not give as a number. Its 59 inch peak means you cannot stand upright inside, unlike the Alpha Tent.\n\nIt suits budget families who care about rain protection more than headroom. The removable rainfly adds flexibility on warm nights.",
     "specs": [
       "8.04 x 8.04 ft, 59 in peak",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jHyvGNUpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DDT2R9DW?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DDT2R9DW?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics 4-Person Instant Tent has a pre-attached telescoping frame for a 60-second setup, a removable rainfly and sealed seams. It adds an adjustable ground vent and pre-attached guy lines for windy nights.\n\nIt is the lowest-priced tent here, and it undercuts the Purebox Tent while giving up that tent's stated waterproof number. Mesh windows and a mesh ceiling provide ventilation.\n\nIt suits first-time campers who want a simple instant tent at the lowest cost. Telescoping legs keep the pitch simple.",
     "specs": [
       "Telescoping frame, 60 seconds",

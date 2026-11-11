@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41soPGgHvfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D8SVXQ6S?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D8SVXQ6S?tag=rvgearlab-amz-20",
     "description": "The DANCHEL is a 13 ft (4 m) canvas yurt with a 135 sq ft floor, an 8.2 ft center height and 23.6 inch sidewalls. Its 300GSM cotton has a 3000mm PU coating, backed by a galvanized steel frame and a precut 5.9 inch stove jack with rain flap.\n\nThe wood stove is part of the package, so you buy the shelter and the heat together, unlike the other three tents. Against the WildFinder it is smaller, and it adds four large mesh windows and a 6 inch side vent for summer.\n\nWinter glampers who want one purchase for a heated tent will find it the most ready to use. The stove has a 19.4 L wood volume and shelves that fold for transport.",
     "specs": [
       "13 ft yurt, 135 sq ft",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51WjVLiipdL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G52BR9LM?tag=rvgearlab-amz-20",
     "description": "The WildFinder is a 16.5 ft canvas yurt-style bell whose straight walls stand 55 inches tall under a 9.2 ft peak. Its roof is 210G TC cotton that reduces condensation, and 8 large mesh windows and doors, a removable floor and a pre-installed stove jack cover the seasons.\n\nIt has the biggest footprint and highest peak of the four, and a positioning sheet that helps you lay out the pegs. Against the ShinHye it gives much more standing room and a removable floor, while the ShinHye states a PU 5000mm rating.\n\nLarge families and glamping groups who live in the tent get the most from the height. Roll-up sidewalls give an open-air feel in summer.",
     "specs": [
       "16.5 ft, 9.2 ft peak",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ua9AXzfVL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F91B82YD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F91B82YD?tag=rvgearlab-amz-20",
     "description": "The ShinHye 4M bell tent is 13.1 ft across with an 8.2 ft peak and 1.9 ft sidewalls. Its breathable canvas carries a PU 5,000mm waterproof rating over a PE bottom, and a sewn-in groundsheet, stove jack, windows, roof vents, poles and tool kit come in the box.\n\nIt states the highest waterproof figure of the four canvas tents, and costs far less than the DANCHEL. Compared with the WaldZimmer, the PU coating means you can leave it up in rain.\n\nFamilies camping in unsettled weather who want a classic bell shape will like the sealed floor and vents. It comes in four sizes, so check the 4M model.",
     "specs": [
       "13.1 ft, 8.2 ft peak",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ahVWjmrwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C1GJJTG7?tag=rvgearlab-amz-20",
     "description": "The WaldZimmer is a 4 m (13 ft) polycotton canvas bell tent for 4 to 5 people with an 8.2 ft top and a 5 ft door. Four double-layer windows pair cotton and mesh, tension regulators on the guylines are included, and a pre-cut chimney opening takes a stove.\n\nIt is the least costly canvas tent here and comes with a removable floor. Against the ShinHye it has no PU coating, which gives gentler temperature changes and better breathing.\n\nCampers who want classic canvas insulation and will keep the tent dry in storms will like the price. It also works as a private tent for the yard.",
     "specs": [
       "13 ft, 4 to 5 person",

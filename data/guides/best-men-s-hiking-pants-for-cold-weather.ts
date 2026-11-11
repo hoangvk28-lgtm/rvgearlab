@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XYantrr6L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H69332B7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H69332B7?tag=rvgearlab-amz-20",
     "description": "The baleaf Fleece Softshell pants pair a 250g bonded fleece interior with a wind-resistant softshell outer. The Level 4 water-repellent outer layer sheds light rain and snow, and articulated knees with a gusseted crotch support long strides.\n\nNext to the TACVASEN Fleece Cargo, it keeps a slimmer straight-leg cut with six pockets instead of nine. Against the baleaf Thermal Pants, it adds a wind-blocking softshell shell rather than a plain knit exterior.\n\nIt suits hikers who want warmth without a puffy feel. Snap-adjustable cuffs close the hem to block drafts around boots.",
     "specs": [
       "250g bonded fleece interior",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31r+9PhZ0PL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07KSPYQN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07KSPYQN5?tag=rvgearlab-amz-20",
     "description": "The TACVASEN Fleece Cargo pants use a polyester and softshell fabric with a fleece lining and a water-repellent coating. Nine pockets include two large-opening front pockets, two thigh cargo pockets and zippered side pockets.\n\nCompared with the baleaf Fleece Softshell, it carries three more pockets and a wide belt loop setup for an adjustable waist. Against the FREE SOLDIER Softshell, it offers a more tactical, cargo-style layout.\n\nIt suits hikers and hunters who carry a lot and want everything in reach. Articulated knees and an elastic design keep steps easy.",
     "specs": [
       "Nine functional pockets",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31XHqq4A6GL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08QZ3C3WM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08QZ3C3WM?tag=rvgearlab-amz-20",
     "description": "The FREE SOLDIER Softshell pants are cut from 94% polyester and 6% spandex with a 100% polyester lining. A water-repellent coating repels rain and snow while cutting wind, and five zippered pockets with a drawstring secure small items.\n\nAgainst the MAGCOMSEN Snow Pants, it leans on stretch from the spandex blend and a side elastic waist. Compared with the TACVASEN Fleece Cargo, it has fewer pockets and a simpler profile.\n\nIt suits hikers who want a flexible, no-fuss winter pant. The wide belt loops accept belts of different widths.",
     "specs": [
       "94% polyester, 6% spandex shell",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31IPMbkO97L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5VJNSH2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5VJNSH2?tag=rvgearlab-amz-20",
     "description": "The MAGCOMSEN Snow Pants use a stretch softshell outer for windproof, water-resistant performance over a soft fleece interior. Four zip pockets include two side pockets, one rear pocket and a thigh cargo pocket.\n\nCompared with the FREE SOLDIER Softshell, it stresses abrasion-resistant fabric all over the pants. Against the 4ucycling Fleeced Pants, it is built for walking and scrambling rather than a bike saddle.\n\nIt suits hikers who brush through scrub, rock and snow crust. The stretchy waist makes pulling them on over layers easy.",
     "specs": [
       "Stretch softshell outer",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ppdm4W5zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B00AQDTTDU?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B00AQDTTDU?tag=rvgearlab-amz-20",
     "description": "The 4ucycling Fleeced Pants use a windproof shield and a thermal fleece lining, with articulated knees and a gusseted crotch. Two zippered hand pockets, adjustable ankle cuffs with zippers and reflective details round out the design.\n\nNext to the MAGCOMSEN Snow Pants, it uses ankle zippers that let the cuff slip over boots. Against the baleaf Thermal Pants, it adds a windproof shield and reflective trim.\n\nIt suits hikers who move fast, run or ride in the cold. The listing names winter hiking and snowshoeing as uses.",
     "specs": [
       "Windproof shield, thermal fleece",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31x8Iv8hrOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B099RLJHJ5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B099RLJHJ5?tag=rvgearlab-amz-20",
     "description": "The baleaf Thermal Pants use a soft knit fleece inner layer that the listing rates for 20 to 50 degree Fahrenheit weather. Four pockets include a left zipper pocket for a phone and a rear pocket for a wallet.\n\nAgainst the baleaf Fleece Softshell, it is a lighter, knit-style pant with a straight leg and 3D front knees. Compared with the FREE SOLDIER Softshell, it trades some wind resistance for a softer feel.\n\nIt suits hikers in cool to cold conditions who value comfort and a low price. The adjustable elastic waist has an internal drawstring.",
     "specs": [
       "20 to 50 degree F rating",

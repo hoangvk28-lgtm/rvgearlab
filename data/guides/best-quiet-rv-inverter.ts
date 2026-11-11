@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31thxmm37hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CZR4LVB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CZR4LVB5?tag=rvgearlab-amz-20",
     "description": "The Renogy PUH 2000 is a 2000W pure sine inverter with a UPS transfer switch, Bluetooth and a wired remote. It claims over 92% efficiency and under 51dB noise at $314.99, the only stated noise figure in this group.\n\nIt costs $404.01 less than AIMS 2500 and lacks the AIMS built-in charger. Against ALLWEI 1000 it costs $205.00 more but doubles the watts and adds a transfer switch. Pick this if you want a stated noise number and shore switching. Caveat: the 51dB claim lists no distance or load.",
     "specs": [
       "2000W pure sine",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hvxfW-XbL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B076Y9J512?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B076Y9J512?tag=rvgearlab-amz-20",
     "description": "The AIMS 2500 is a 2500W pure sine inverter charger with 7500W surge for 20 seconds, a transfer switch, a charge current dial and auto generator start. A direct-connect AC terminal block makes it a hardwire unit at $719.\n\nIt costs $404.01 more than Renogy PUH 2000, and that money buys a built-in battery charger and bigger surge. No noise figure is listed. Pick this if you want inverter, charger and transfer switch in one box. Caveat: quiet is unverified, so ask before mounting near sleeping areas.",
     "specs": [
       "2500W, 7500W surge",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414jpbca9vL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKG3CXNF?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKG3CXNF?tag=rvgearlab-amz-20",
     "description": "The ALLWEI 1000W pure sine inverter is ETL listed to UL 458, has 8-fold protection and auto cooling fans that adjust speed by load and temperature. It costs $109.99.\n\nIt is $205.00 less than Renogy PUH 2000 and gives half the watts, with no transfer switch. Against OLTEANP 600 it adds 400W for $40.00 more. Pick this if you run a laptop, TV and small appliance. Caveat: variable fans mean noise rises with load, and no decibel figure is listed.",
     "specs": [
       "1000W pure sine",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ny1TN6E3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CN2SZ9TK?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CN2SZ9TK?tag=rvgearlab-amz-20",
     "description": "The OLTEANP 600W pure sine inverter delivers 600W continuous and 1200W peak, with a smart LCD showing status and full protections. It connects directly to a 12V battery and sells for $69.99.\n\nIt is $40.00 below ALLWEI 1000 and gives 400W less, so it suits phones, a laptop and a small TV. A smaller inverter draws less current, which helps when the battery bank is small. Pick this if loads stay under 500W. Caveat: no noise figure or certification is listed.",
     "specs": [
       "600W, 1200W peak",

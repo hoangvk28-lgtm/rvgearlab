@@ -21,7 +21,7 @@ export const products = withAmazonUrls([
     badge: "Best overall",
     name: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
     amazonQuery: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0DCJV9LTB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DCJV9LTB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41jpH1mooIL._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Continuous output: 2,600W","Runtime claim: Up to 10 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Continuous output","value":"2,600W"},{"label":"Runtime claim","value":"Up to 10 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -36,7 +36,7 @@ export const products = withAmazonUrls([
     badge: "Best heavy-duty option",
     name: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
     amazonQuery: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0FN7TSJ14?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FN7TSJ14?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41HtKg8EDgL._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Continuous output: 2,600W","Runtime claim: Up to 10 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Continuous output","value":"2,600W"},{"label":"Runtime claim","value":"Up to 10 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -51,7 +51,7 @@ export const products = withAmazonUrls([
     badge: "Best compact option",
     name: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
     amazonQuery: "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator",
-    amazonUrl: "https://www.amazon.com/dp/B0DCJXQQYH?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0DCJXQQYH?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/415doPRAxLL._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Continuous output: 2,600W","Runtime claim: Up to 10 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Continuous output","value":"2,600W"},{"label":"Runtime claim","value":"Up to 10 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -66,7 +66,7 @@ export const products = withAmazonUrls([
     badge: "Best value pick",
     name: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
     amazonQuery: "BLUETTI Elite 200 V2 Solar Generator & 2x200W Solar Panel Included 2073.6Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FSJM6NZC?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41Q6JjGYa7L._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Included panel: 200W","Runtime claim: Up to 5.5 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Included panel","value":"200W"},{"label":"Runtime claim","value":"Up to 5.5 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -81,7 +81,7 @@ export const products = withAmazonUrls([
     badge: "Best backup pick",
     name: "BLUETTI Elite 200 V2 Solar Generator & 2x100W Solar Panel Included 2073.6Wh",
     amazonQuery: "BLUETTI Elite 200 V2 Solar Generator & 2x100W Solar Panel Included 2073.6Wh",
-    amazonUrl: "https://www.amazon.com/dp/B0FY2VZSDL?tag=rvgearlab-20&linkCode=osi&th=1&psc=1",
+    amazonUrl: "https://www.amazon.com/dp/B0FY2VZSDL?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1",
     imageUrl: "https://m.media-amazon.com/images/I/41DR3uvwKVL._SL500_.jpg",
     specs: ["Capacity: 2,073.6Wh","Included panel: 100W","Runtime claim: Up to 13.5 hours","Battery cycle claim: 6,000 cycles"],
     specList: [{"label":"Capacity","value":"2,073.6Wh"},{"label":"Included panel","value":"100W"},{"label":"Runtime claim","value":"Up to 13.5 hours"},{"label":"Battery cycle claim","value":"6,000 cycles"}],
@@ -183,7 +183,7 @@ export const relatedGuides = [
 export const sources = [
   {
     "title": "BLUETTI Elite 200 V2 Portable Power Station 2073.6Wh 2600W Solar Generator product page",
-    "href": "https://www.amazon.com/dp/B0DCJV9LTB?tag=rvgearlab-20&linkCode=osi&th=1&psc=1"
+    "href": "https://www.amazon.com/dp/B0DCJV9LTB?tag=rvgearlab-amz-20&linkCode=osi&th=1&psc=1"
   },
   {
     "title": "CPSC carbon monoxide safety center",

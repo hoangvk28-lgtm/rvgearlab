@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JjB9mbnJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GKNYL6DC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GKNYL6DC?tag=rvgearlab-amz-20",
     "description": "The MEYULMOL is a 24V 100Ah LiFePO4 battery listed at 2560Wh with a 100A smart BMS and Bluetooth app monitoring. It supports expansion to 2S4P, uses A-grade cells and lists 5000 plus cycles.\n\nIt is the only full-size deep-cycle battery of the six, with far more stored energy than the 111Wh OANSER or other small packs. Built-in low-temperature protection pauses discharge below -4F and resumes charging above 32F.\n\nIt suits 24V RV, solar or trolling systems that need real capacity and monitoring. The app and expansion option suit a growing off-grid setup.",
     "specs": [
       "24V 100Ah, 2560Wh LiFePO4",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HflD2PPPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G4GTNVK2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G4GTNVK2?tag=rvgearlab-amz-20",
     "description": "The SEFEPODER pack is two 24V 9Ah LiFePO4 batteries, each with a 30A BMS and a listed 3000 plus cycle life. The listing names uses from lighting and RV or outdoor camping to riding toys, solar and UPS loads of 400W or less.\n\nIt is the only small pack here that uses LiFePO4 chemistry, which the Qwenoer, OANSER, rapthor and Xeanerol do not. Two batteries come in the box with a 12 month warranty.\n\nIt suits campers with light 24V loads who prefer LiFePO4 chemistry. The listing advises a LiFePO4 charger since an automatic SLA charger may not fill it.",
     "specs": [
       "Two 24V 9Ah LiFePO4",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41PDvtEs8uL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H44PR29J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H44PR29J?tag=rvgearlab-amz-20",
     "description": "The Qwenoer is a 22.2V to 24V 10Ah lithium-ion pack made from 21700 cells, listed at 5.5 x 2.95 x 1.96 inches and 1.76 lb. It retains over 80 percent after 1000 cycles and includes a 25.2V 2A charger.\n\nIts 10Ah doubles the 5Ah packs from OANSER, rapthor and Xeanerol. A BMS covers overcharge, over-discharge, overcurrent and short circuit.\n\nIt suits DIY and light-duty builds where the largest compact pack is useful. Bare leads and a DC5521 extension cord come in the box.",
     "specs": [
       "10Ah, 21700 cells, 1.76 lb",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41V0QscR+hL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GGH6BKL9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GGH6BKL9?tag=rvgearlab-amz-20",
     "description": "The OANSER delivers 5000mAh at 22.2V to 24V and states 111Wh of total energy. It includes a 25.2V charger, bare leads and a DC5521 extension cord, with a BMS covering overcharge, over-discharge, short circuit and overheating.\n\nIt is the only 5Ah pack that states watt-hours, which makes capacity comparison easy next to the rapthor and Xeanerol. It lists 1000 plus cycles.\n\nIt suits makers who want a stated energy figure and a ready-to-wire kit. Typical uses named include 24V motors and robots.",
     "specs": [
       "5Ah, 111Wh stated",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q7wA4o-KL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FHPST5TP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FHPST5TP?tag=rvgearlab-amz-20",
     "description": "The Xeanerol is a 5Ah 24V lithium-ion pack with a 2A fast charger, bare leads, a connector and a DC5521 extension cord. A safety board guards against overcharge, over-discharge, over-voltage, overcurrent, overheating and short circuit.\n\nIts 2A charger refills a 5Ah pack faster than the 1A chargers included with the OANSER and rapthor. It lists over 1000 charge cycles.\n\nIt suits makers who want a quick turnaround on a small 24V pack. Named uses include RC cars, solar panels and LED strips.",
     "specs": [
       "5Ah, 2A fast charger",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ETFNXIbGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F9KVTWBC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F9KVTWBC?tag=rvgearlab-amz-20",
     "description": "The rapthor is a 5Ah 24V lithium-ion pack with a 25.2V 1A charger, bare leads and a DC5521 input port. It targets DIY speaker boxes and small amplifier builds, plus gate openers, LED strips and CCTV.\n\nIt is the pack most clearly aimed at portable audio projects, unlike the OANSER and Xeanerol. Multi-layer protection covers overcharge, over-discharge, overcurrent, over-voltage, short circuit and overheating.\n\nIt suits DIY speaker and light-load builds that need a compact 24V source. It is not intended for scooters, per the listing.",
     "specs": [
       "5Ah 24V lithium-ion",

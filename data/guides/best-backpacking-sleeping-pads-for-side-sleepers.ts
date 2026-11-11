@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41gY2dMF+zL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DSW5VSX2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DSW5VSX2?tag=rvgearlab-amz-20",
     "description": "The Gear Doctors Ether weighs 17.5 oz and packs to 8.6 by 3.1 inches. Its ErgoCushion U-shape varies thickness to cradle side and back sleepers, with a detachable foot pump sack and an anti-leak valve system.\n\nCompared with the ZOOOBELIVES, it is lighter and shaped for the body. Against the Oxylus, it packs smaller and keeps weight under a pound and a half.\n\nIt suits side sleepers who care about weight. The 20D nylon with TPU keeps it light.",
     "specs": [
       "17.5 oz, 8.6 x 3.1 inch pack",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/417fpxbvIqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07GGZWRK6?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07GGZWRK6?tag=rvgearlab-amz-20",
     "description": "The Gear Doctors Oxylus is a self-inflating hybrid pad with a 4.3 R-value core. It goes from pack to sleep-ready in under 5 minutes and is built for use on grass, rock, snow and sand.\n\nNext to the Ether, it adds insulation and foam structure. Compared with the Oramoose pads, it has a listed R-value.\n\nIt suits side sleepers who camp in cooler weather and want insulation. Its foam core gives steady support.",
     "specs": [
       "4.3 R-value hybrid core",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41B-uHRkTvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07Y3511WY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07Y3511WY?tag=rvgearlab-amz-20",
     "description": "The ZOOOBELIVES pad has 4 inch full air chambers that spread body weight to keep hips and shoulders off the ground. It has an integrated foot pump and a secure valve with a quiet low-noise surface.\n\nAgainst the Oramoose pads, it uses full-air construction instead of segmented sections. Compared with the Ether, it is a thicker, simpler flat pad.\n\nIt fits side sleepers who often bottom out on thinner pads. The foot pump means no extra gear.",
     "specs": [
       "4 inch full air chambers",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ZTJx+35fL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GSQWM5RV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GSQWM5RV?tag=rvgearlab-amz-20",
     "description": "The Oramoose 4-inch pad has a true 4 inch air layer to keep side sleepers off the ground. It inflates with a foot pump in 30 to 60 seconds and uses 50D nylon with a TPU coating.\n\nCompared with the Oramoose 1.9 lb, it has a thicker fabric and a built-in pillow. Next to the ZOOOBELIVES, it is tougher in material.\n\nIt suits side sleepers who hike rough terrain. The 50D nylon resists rocks.",
     "specs": [
       "True 4 inch air layer",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IlbzbdQ3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FH1ZD15R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FH1ZD15R?tag=rvgearlab-amz-20",
     "description": "The Oramoose 1.9 lb pad is 4 inches thick and packs to 9.4 by 4.3 inches. It uses 40D nylon and a foot pump that fills in about 30 seconds, with a valve that holds air for 24 hours.\n\nCompared with the Oramoose 4-Inch Pillow, it is lighter and drops the pillow. Against the Ether, it adds a full 4 inches of air.\n\nIt suits budget side sleepers who still want 4 inches. The weight is under 2 lb.",
     "specs": [
       "4 inch pad, 1.9 lb",

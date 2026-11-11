@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412fVrV6NhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBM3NVGH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBM3NVGH?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Wide Fit is a low-top waterproof hiking shoe with a spacious toe box in a W width. It carries a built-in waterproof membrane, a reinforced toe cap, ankle support and a cushioned midsole that absorbs impact.\n\nAgainst the NORTIV 8 Wider Brown, it has the same wide intent in an army green and black finish with a clear width in the title. Compared with the HF Stride Barefoot, it offers traction, waterproofing and toe protection.\n\nIt suits wide-footed men who want a protective, waterproof trail shoe at a modest price. The rugged outsole is slip resistant on uneven ground.",
     "specs": [
       "Wide fit, waterproof membrane",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41owAQ25zvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CBM3F1FT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CBM3F1FT?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Wider Brown is a wider version of the NORTIV 8 hiking shoe, with waterproof PU and a waterproof membrane. It has a rubber toe cap, a reinforced heel, a removable flexible insole with arch support and a flexible MD midsole.\n\nNext to the NORTIV 8 Wide Fit, it adds a removable arch-support insole to the same wide idea. It is more versatile than the HF Stride Barefoot, since the listing covers hunting, camping and fishing.\n\nIt suits men who want a waterproof wide shoe in a brown tone for outdoor work and play. The reinforced heel adds stability.",
     "specs": [
       "Wider version, waterproof membrane",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412fVrV6NhL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07L5HSKY7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07L5HSKY7?tag=rvgearlab-amz-20",
     "description": "The NORTIV 8 Roomy is a low-top waterproof shoe whose listing describes extra toe room for wide feet. It includes a waterproof membrane, a rubber toe cap, a reinforced heel and a deep-lug rubber outsole.\n\nIt is the most affordable full waterproof shoe on this list. Compared with the NORTIV 8 Wide Fit, it says roomy where the other says W, so it suits those who need a little extra width rather than a full wide.\n\nIt suits men with slightly broad feet who want the lowest-cost waterproof option. The MD midsole absorbs shock for comfort.",
     "specs": [
       "Roomy toe box, waterproof",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41AkyVujwvL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G9NMBJKR?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G9NMBJKR?tag=rvgearlab-amz-20",
     "description": "The HF Stride Barefoot is a slip-on with a wide toe box, a zero-drop sole and a structured heel cup. The listing describes a lightweight, breathable build for all-day wear.\n\nUnlike the NORTIV 8 shoes, it has no laces, no waterproofing and a flat, flexible sole. It is the lightest option on the list and gives toes the most room to splay.\n\nIt suits men who prefer minimalist footwear for easy trails and daily wear. The listing suggests ordering one size up for the best fit.",
     "specs": [
       "Wide toe box, zero-drop sole",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IiJmc7YyL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B098KHW1V7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B098KHW1V7?tag=rvgearlab-amz-20",
     "description": "The Merrell Moab 3 Medium pairs a pigskin and mesh upper with a bellows tongue and a protective toe cap. The listing shows a medium width, with recycled laces, webbing and lining.\n\nIt is included as a well-known benchmark against the NORTIV 8 shoes. It breathes better than the waterproof picks and has the sturdiest upper of the group.\n\nIt suits men whose feet are only slightly wide and who can move to a wide version of the same shoe. The bellows tongue blocks debris from the trail.",
     "specs": [
       "Pigskin leather and mesh upper",

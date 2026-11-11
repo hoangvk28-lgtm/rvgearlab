@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-amz-20",
     "description": "The GasOne Butane stove is rated at 7,650 BTU and carries a CSA approval, auto ignition and a safety shut-off system. It comes with a carrying case and a manual and is described as quiet in operation.\n\nIt is the only stove here that lists CSA approval alongside a quiet burner, and it costs less than the SHINESTAR and the dual-fuel models. The SHINESTAR adds a porcelain grate, while this model keeps things simple.\n\nIt suits tailgaters, picnickers and emergency kit builders who want a reliable single burner. The listing says outdoor use only.",
     "specs": [
       "7,650 BTU, CSA approved",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41iwUW9W9ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FMXTY2WH?tag=rvgearlab-amz-20",
     "description": "The SHINESTAR is a butane stove rated at 7,800 BTU with a porous annular burner design and one-click piezo ignition. Its triple protection system includes cartridge ejection, and a removable porcelain-coated grate and rust-proof aluminum burner are listed.\n\nIt lists slightly more output than the GasOne Butane and a removable grate that wipes clean. A black carrying case is included.\n\nIt suits campers who want visible safety features and an easy-clean grate. Evenly distributed heat comes from the annular burner.",
     "specs": [
       "7,800 BTU, annular burner",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51HnBG25+wL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H5881DKX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H5881DKX?tag=rvgearlab-amz-20",
     "description": "The JoChef is a single-burner brass butane stove with a precision windshield, CSA certification and a triple-layer safety system. It weighs 3.1 pounds in a hard shell and carries a 3-year warranty.\n\nIts 3-year warranty is the longest cover named in this group. The windshield keeps heat steady, which the GasOne and SHINESTAR do not describe.\n\nIt suits campers who want sear-and-simmer control in breezy spots. Backpacks, car trunks and picnic baskets are all named.",
     "specs": [
       "Brass burner, windshield",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-amz-20",
     "description": "Fuel choice is the headline on the GasOne GS-3400P: one 8 oz butane cartridge or a propane cylinder both work. Automatic piezo ignition and a heat dial handle the cooking, while a pressure sensor ejects the cartridge and a gas flow cut-off protects butane use.\n\nBeing dual fuel, it gives you a way to keep cooking if butane is hard to find or cold, which the other butane models cannot do. It comes with a carrying case.\n\nIt suits campers who want fuel flexibility. Fuel is not included.",
     "specs": [
       "Butane or propane fuel",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Lp-nhy+YL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09RN22HDQ?tag=rvgearlab-amz-20",
     "description": "The GasOne GS-3900PB lists 15,000 BTU and works with 8 oz camping fuel or propane. Its Windblocker sits on all four corners of the burner head, and piezo ignition, a pressure sensor cartridge ejection and gas flow cut-off are included.\n\nIt has roughly double the output of the single-fuel stoves here, and the Windblocker protects the flame. It is the priciest stove in the group.\n\nIt suits campers who want to boil quickly or cook big pots. A protective carrying case comes with it.",
     "specs": [
       "15,000 BTU, dual fuel",

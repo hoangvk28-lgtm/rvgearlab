@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Dvanec4+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09ZJNSF1C?tag=rvgearlab-amz-20",
     "description": "The Garmin RV Cam 795 is a 7 inch RV navigator with custom routing for RV or trailer profile and a built-in dash cam. It also lists forward collision and lane departure warnings.\n\nIt is the only pick here with true RV routing from a brand that builds it, which puts it far above the sub-$100 units on routing depth. The dash cam adds recording that none of the budget units list in the same way.\n\nIt is the right pick when a budget is flexible and routing quality matters most. It suits owners who also want a dash cam from one device.",
     "specs": [
       "7 inch RV navigator",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41NGzpkL0sL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HJCWG7L9?tag=rvgearlab-amz-20",
     "description": "The HINYFVOZ 7 inch GPS accepts vehicle height, weight, length and width for custom routing. It carries 2026 North America maps, free lifetime updates and voice guidance in 25 plus languages on a bright touchscreen.\n\nIt undercuts the LONGRUF and Dizvgoy on cost while naming dimension entry directly. That makes it the best fit here for a trailer or motorhome owner who wants profile input.\n\nPick it as a low-cost RV navigator for occasional trips. It works for casual campers who want free updates.",
     "specs": [
       "7 inch HD touchscreen",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418wSumFBTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HB3KT2ZV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HB3KT2ZV?tag=rvgearlab-amz-20",
     "description": "The LONGRUF is a 9 inch touchscreen GPS with 2026 US, Canada and Mexico maps and free lifetime updates. It offers four route options (fast, green, short and easy) and search by postcode, address, coordinates or POI.\n\nIts large display sets it apart from the 7 inch budget units. It adds speed cameras and traffic light warnings, which the Dizvgoy also lists.\n\nIt fits drivers who want to read the map at a glance on a big windshield or dash. On budget rv gps, big-screen budget is where it fits.",
     "specs": [
       "9 inch touchscreen",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51BmTfY6zqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDSL6K7V?tag=rvgearlab-amz-20",
     "description": "The Dizvgoy 7 inch GPS offers 2026 North America maps, free lifetime updates and turn-by-turn voice guidance. It adds speed alerts, address, zip and POI search, and an FM transmitter.\n\nIt is close to the HINYFVOZ on price but lacks the dimension entry. It works for cars, trucks and buses, according to its listing.\n\nChoose it for a simple, inexpensive unit with free updates. It suits owners using a small towable and a basic route.",
     "specs": [
       "7 inch, 2026 maps",

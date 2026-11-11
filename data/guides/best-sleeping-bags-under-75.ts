@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31vFqjneCaL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BKKZ9VRB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BKKZ9VRB?tag=rvgearlab-amz-20",
     "description": "The Amazon Basics bag is rated for 30F cool weather, measures 75 by 33 inches and uses hollow fiber insulation with a tricot fiber liner. It converts to a quilt and comes with a stuff sack, and the zipper has extra webbing to prevent snags.\n\nIt sits in the middle of the budget and gives the best balance of warmth and price, with a real 30F rating that the cheaper bags lack. The Bessport goes colder and costs more, while the TANSTRIDER and NewDoar cover only warm nights.\n\nIt suits car campers and families who camp from early spring to late fall. At 75 inches long it suits adults near 6 feet tall.",
     "specs": [
       "30F cool weather rating",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e3bnxlOpL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07V5HSB91?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07V5HSB91?tag=rvgearlab-amz-20",
     "description": "The Bessport is a mummy bag with a 15 to 45F range for 3 to 4 seasons, a 210T ripstop polyester shell and quilted construction. It has an insulated footbox, double SBS zippers with an anti-snag slider and a girth of 63 inches at the shoulder, 50.3 at the hip and 33 at the foot.\n\nIt is the warmest bag on the list and the only one with a stated range reaching down to 15F. It costs about $13 more than the Amazon Basics and is cut for tall sleepers up to 6 feet 6 inches.\n\nIt suits cold-weather campers, hunters and fall hikers who want a snug mummy that traps heat. It is the bag to buy if nights drop below freezing.",
     "specs": [
       "15 to 45F, mummy cut",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41G70u6vjuL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0851GVCBX?tag=rvgearlab-amz-20",
     "description": "The tuphen is a 29.5 by 86.6 inch bag rated at 5 to 25C, roughly 41 to 77F, with a comfortable band of 17 to 24C. It has a microfiber liner, a two-way zipper and a carry bag.\n\nIt is one of the cheapest bags here and gives a long 86.6 inch cut, which the Amazon Basics at 75 inches lacks. Its temperature range stays on the warm side, so it works from late spring to early fall rather than in true cold.\n\nIt suits tall campers and families who want a long bag on a tight budget. Sleepers up to roughly 6 feet 3 inches have room.",
     "specs": [
       "5 to 25C rated, 86.6 inches",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ITLrJK8JL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F83BP6VQ?tag=rvgearlab-amz-20",
     "description": "Weight comes in at 1.5 lb for the NewDoar, which squeezes into a bundle of 11.8 by 6.5 inches. Its 380T ripstop nylon shell, heavy-duty compression sack and joinable two-way zippers come with a 50 to 70F range.\n\nThis is the lightest and smallest bag on the list, and it costs about $10 less than the Amazon Basics. It gives up the warmth of the Amazon Basics and the Bessport and carries a medium size only.\n\nIt suits summer backpackers who count every ounce. It is a poor choice for cool nights.",
     "specs": [
       "Packs to 11.8 x 6.5 inches",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41imdQSdq+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FQ4ZBCYC?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FQ4ZBCYC?tag=rvgearlab-amz-20",
     "description": "Cut at 31.5 by 86.6 inches, the TANSTRIDER lists a 55 to 60F comfort range and a 40F limit. It adds a draft collar, separate foot zippers, a water-resistant shell and a compression sack.\n\nIt is the cheapest bag in the five and the only budget pick with a draft collar and foot zippers. The Amazon Basics costs about twice as much and adds a real cool-weather rating.\n\nIt suits summer campers who want a roomy bag at the lowest price. Anyone up to about 6 feet 1 inch has room.",
     "specs": [
       "31.5 x 86.6 inch cut",

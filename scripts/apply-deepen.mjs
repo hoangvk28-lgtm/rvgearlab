@@ -18,7 +18,7 @@ if (!contentDir) {
 const LEAK = /not stated in the (text|facts)|the (excerpt|text|facts) we (saw|reviewed)|in the facts provided|not listed in the features|of the candidates we reviewed|the listing does not state|features we (saw|reviewed)|the pool\b/i;
 const TESTED = /\bwe (tested|tried|measured)\b|in our lab|hands-on test/i;
 const DASH = /[—–]/;
-const TAG = "rvgearlab-20";
+const TAG = "rvgearlab-amz-20";
 const J = (v) => JSON.stringify(v, null, 2);
 
 function existingBlock(src, name) {

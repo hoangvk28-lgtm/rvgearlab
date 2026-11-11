@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41KM-hpfy1L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQPYVJCQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQPYVJCQ?tag=rvgearlab-amz-20",
     "description": "The MRSXWPY 7 inch portable screen lists wireless Apple CarPlay and Android Auto over Bluetooth and Wi-Fi. It runs on 12 to 24V DC through a cigarette lighter and has a 1024 by 600 HD touchscreen.\n\nIt costs a little more than the Haudio and lists mirror link and multiple audio outputs. It lists real-time GPS navigation.\n\nIt suits owners who want a plug-and-play CarPlay screen on a dash. The 12 to 24V range suits vehicles of different voltages.",
     "specs": [
       "7 inch portable CarPlay",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Nk99nhEfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FNPXNWJL?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FNPXNWJL?tag=rvgearlab-amz-20",
     "description": "The Haudio portable car stereo lists wireless CarPlay and Android Auto, a 7 inch HD touchscreen, an integrated HD backup camera and dash cam. It has an adjustable adhesive bracket and several audio outputs.\n\nIt is the lowest priced CarPlay car screen and adds camera features. It lists AUX, FM and built-in speakers.\n\nIt suits owners who want CarPlay and a backup camera view. It installs without removing the stock radio.",
     "specs": [
       "7 inch portable CarPlay",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hA5aDJPML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0HDC1NXN5?tag=rvgearlab-amz-20",
     "description": "The LMCOWRE 7 inch GPS lists 2026 maps with lifetime updates and route planning by vehicle type and height, width and weight limits. It has a windshield mount and an FM transmitter.\n\nIt is not a CarPlay unit, and it is the pick for owners who want routing on the device. It costs less than the Jansite and Talkoala.\n\nIt suits owners who want RV-style routing without a phone. The windshield mount is included in the box.",
     "specs": [
       "7 inch GPS",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41nGVDZyTfL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GXD6TM7Y?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GXD6TM7Y?tag=rvgearlab-amz-20",
     "description": "The Jansite 7 inch is a motorcycle display that lists CarPlay, Android Auto, AirPlay and Android Cast. It lists dual Bluetooth, an IPS touchscreen and IP67 water and dust protection.\n\nIt is the largest of the motorcycle displays and is priced a little below the Talkoala. It includes mounts and tools.\n\nIt suits owners with a motorcycle on the rig. It is built for handlebars.",
     "specs": [
       "7 inch motorcycle display",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41arTtJZKTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0H3YWDL49?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0H3YWDL49?tag=rvgearlab-amz-20",
     "description": "The Talkoala 5-inch screen lists wireless Apple CarPlay and Android Auto, dual Bluetooth, Siri and Google Assistant and IP67 protection. It includes a bracket kit.\n\nIt is the highest priced pick and is a smaller screen than the Jansite. It lists voice assistant support.\n\nIt suits motorcyclists who want hands-free voice control. The bracket kit simplifies mounting.",
     "specs": [
       "5 inch motorcycle display",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ovDvtvCqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FJY19X36?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FJY19X36?tag=rvgearlab-amz-20",
     "description": "The YZW 5-inch motorcycle display lists wireless CarPlay and Android Auto, a 1000-nit 854 by 480 touchscreen and IP69K protection. It lists compatibility with Apple Maps, Google Maps and Waze through CarPlay or Android Auto.\n\nIt is the brightest listed screen and is priced below the Jansite. It lists custom boot logo service.\n\nIt suits motorcyclists who ride in bright light. The IP69K rating suits wet rides.",
     "specs": [
       "5 inch, 1000 nit",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41lAftGK8DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08FZN7NMH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08FZN7NMH?tag=rvgearlab-amz-20",
     "description": "The STAR BRITE Ultimate Aluminum Cleaner and Restorer is made for unpainted aluminum and strips grime, lime deposits, waterline stains and oxidation without harming the metal. The listing mentions pontoon boats, outdoor furniture and automotive parts and pairs with an Ultimate Aluminum Polish.\n\nAgainst the Socar Toonshine, it is the more widely described and slightly higher-priced restorer. Against the Escentile Restorer, it targets bare aluminum rather than painted metal.\n\nBest for owners with bare aluminum trim or an Airstream-style shell. A video guide on the listing helps with technique.",
     "specs": [
       "Unpainted aluminum restorer",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31kAblGjyDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG7LT2PM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG7LT2PM?tag=rvgearlab-amz-20",
     "description": "The Socar Chemical Toonshine Aluminum Cleaner and Restorer is a 1 gallon cleaner for aluminum from boats and pontoons to aircraft and Airstream trailers. The listing says it removes waterline stains, lime deposits and oxidation and pairs with Ultimate Aluminum Polish.\n\nAgainst the STAR BRITE Aluminum Restorer, it gives a full gallon at a lower price and names Airstream trailers. Against the Escentile Restorer, it is a rinse-style restorer for bare metal.\n\nBest for owners with a lot of bare aluminum to restore. A gallon goes further than a spray bottle.",
     "specs": [
       "1 gallon aluminum restorer",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51A7l-eezEL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFQCVK8P?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFQCVK8P?tag=rvgearlab-amz-20",
     "description": "The Escentile Aluminum Cleaner and Restorer brightens faded aluminum and painted metal, and leaves a protective coating that helps resist UV rays and rain. It is a wipe-on product applied with a microfiber cloth, made in the USA and suited to garage doors, patio furniture and mailboxes.\n\nAgainst the STAR BRITE Aluminum Restorer, it is gentler and wipe-on, aimed at painted metal. Against the 303 Black Streak, it restores faded metal rather than lifting streaks.\n\nBest for owners with painted or coated aluminum who want a quick wipe-on. The listing mentions garage doors and furniture, so test a spot on your RV.",
     "specs": [
       "Aluminum and painted metal",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31Frhiu1iDL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0971PFGN3?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0971PFGN3?tag=rvgearlab-amz-20",
     "description": "The 303 Black Streak Remover is a 32 ounce rinseless cleaner for RV and camper siding that removes black streaks caused by dirt and roof rubber. The listing names fiberglass, vinyl, metal and painted surfaces and says to spray, wait 2 to 3 minutes, scrub gently and wipe off.\n\nAgainst the STAR BRITE Aluminum Restorer, it targets black streaks rather than oxidation. Against the Escentile Restorer, it cleans streaks rather than brightening faded metal.\n\nBest for owners whose aluminum siding has runoff streaks. It works on several exterior surfaces.",
     "specs": [
       "32 oz rinseless streak remover",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51AOnQfKS0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DQVGH7VV?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DQVGH7VV?tag=rvgearlab-amz-20",
     "description": "The Clean Camper RV Toilet Bowl Cleaner is an enzyme-based, bleach-free cleaner for RV toilets, holding tanks and sensors. It is described as safe for seals, gaskets and plumbing and compatible with holding tank treatments.\n\nAgainst the aluminum cleaners here, it is a bathroom product and does not belong on metal. Against the Unique Scrub-It, it uses an enzyme and probiotic formula.\n\nBest for stocking an RV cleaning cabinet alongside aluminum cleaners. It is not an aluminum cleaner.",
     "specs": [
       "Enzyme RV toilet cleaner",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+lSQcpRTL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BP86NFPY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BP86NFPY?tag=rvgearlab-amz-20",
     "description": "The Unique Scrub-It Liquid RV Toilet Bowl Cleaner is a 24 ounce hybrid liquid-gel with a built-in squirt-top applicator. It is safe for porcelain, ceramic and plastic RV toilets and will not damage seals, valves or gaskets.\n\nAgainst the Clean Camper Toilet, it is a gel with enzymes at a lower price. Against the aluminum cleaners, it is a bathroom product.\n\nBest for RV owners who want a bowl cleaner while shopping for exterior supplies. It does not clean aluminum.",
     "specs": [
       "24 oz RV toilet bowl cleaner",

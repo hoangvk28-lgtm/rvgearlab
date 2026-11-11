@@ -25,7 +25,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EaRPVKoZL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GK2X2FFT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GK2X2FFT?tag=rvgearlab-amz-20",
     "description": "The Marhynchus monitor is a coulomb meter for 10 to 100V systems with a 400A shunt rating, which covers most RV inverters. It measures voltage, current, power, charge and discharge capacity, watt-hours and time. A buzzer and pop up notices alert you to preset low capacity or low voltage, and it works with LiFePO4, lithium ion, NiMH and other chemistries.\n\nAt $106.93 it is $28.94 above the Ymiko KM105F. The extra money buys a much higher current rating, which matters if an inverter pulls 100A or more. Pick this if you run a large inverter on a lithium bank. The caveat is that the listing does not explain calibration or how it corrects drift.",
     "specs": [
       "10 to 100V, 400A shunt",
@@ -52,7 +52,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41dwyHTaNNL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DNS7RLJH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DNS7RLJH?tag=rvgearlab-amz-20",
     "description": "The Ymiko KM105F pairs a shunt with a 2.4 inch HD color LCD that has dark and light modes. It measures voltage, current, power and discharge capacity, handles VRLA, LFP, lithium ion and NiMH from 10 to 100V, and has a buzzer with pop up alerts. The listing comes with a 1 meter red positive wire.\n\nIt costs $5.72 more than the Eujgoov Monitor, but the listing does not cap the current range at 50A, so check the shunt rating. Pick this if you want a readable screen at the battery and an app at the same time. The caveat is that the shunt current rating is not clearly stated.",
     "specs": [
       "10 to 100V, 2.4 inch LCD",
@@ -79,7 +79,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/418TLHU0OwL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DHSPY79X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DHSPY79X?tag=rvgearlab-amz-20",
     "description": "The Eujgoov monitor spans 10 to 100V but only 0 to 50A, which the listing states plainly. It supports 2.4G WiFi only, so the phone must be on the same 2.4GHz network during setup. The 2.4 inch HD LCD has dark and light modes, and it covers VRLA, LFP, lithium ion and NiMH.\n\nAt $72.27 it is $6.65 above the Aramox Monitor, and the 50A cap is the deciding detail. A 1000W inverter at 12V pulls well over 50A, so this fits only small loads. Pick this if you track a trailer with lights, a fridge and a pump. The caveat is that 50A is too low for inverter use.",
     "specs": [
       "10 to 100V, 0 to 50A",
@@ -106,7 +106,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41+0jVYdUOL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FGFC1W6J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FGFC1W6J?tag=rvgearlab-amz-20",
     "description": "The Aramox monitor uses a 2.4 inch HD color LCD with dark and light modes and covers VRLA, LFP, lithium ion and NiMH from 10 to 100V. It measures voltage, current, power, capacity and watt-hours, and has a buzzer with pop up reminders. Remote monitoring runs over WiFi and its app.\n\nAt $65.62 it is $18.88 above the Cwmiibili Monitor and $6.65 below the Eujgoov Monitor. It reads very similar to the Eujgoov on paper. Pick this if you want the common 2.4 inch interface at a lower price. The caveat is that the current range and warranty are not given.",
     "specs": [
       "10 to 100V, 2.4 inch LCD",
@@ -133,7 +133,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412pGnUg+DL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FRLV5M9X?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FRLV5M9X?tag=rvgearlab-amz-20",
     "description": "The Cwmiibili WiFi coulomb meter costs $46.74 and works with lead acid, ternary lithium and lithium iron phosphate batteries within its voltage range, identifying the type automatically. A built in storage chip prevents data loss during power outages, and a screen inversion function helps in bright light. The app shows dynamic charging effects.\n\nIt is $18.88 cheaper than the Aramox Monitor, the lowest price here. The listing says to choose a model, so confirm which shunt rating you are ordering. Pick this if you want the lowest cost WiFi monitor on a small system. The caveat is that voltage and current ranges are not stated.",
     "specs": [
       "Auto battery type detection",

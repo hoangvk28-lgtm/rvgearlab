@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31LJHCY0T9L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B08F7HQHXQ?tag=rvgearlab-amz-20",
     "description": "The Forceatt weighs 5.5 lb and has an 88.6 by 53.1 inch floor with a 43.3 inch interior height. It uses 7001 series aluminum poles, a welded floor and a 3000mm waterproof rating, with two D-shaped doors and two vestibules.\n\nAgainst the Night Cat it sleeps two instead of one and adds a second vestibule for gear. Compared with the BISINNA it prints an exact weight and a waterproof index, and it costs more than any other tent here.\n\nIt suits two hikers who want to count ounces without losing a door each. A large mesh window and two ceiling vents help it vent.",
     "specs": [
       "5.5 lb, 7001 aluminum poles",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41e2F-BIeiL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CCV98MM9?tag=rvgearlab-amz-20",
     "description": "The Night Cat is the lightest tent here at a stated 4.4 lb, and it packs to 16.5 by 4.7 by 4.7 inches. The 210T taffeta fly and 150D oxford floor are both rated PU 3000 with taped seams, and the poles attach with clips instead of sleeves.\n\nAgainst the Forceatt it saves over a pound, and it sleeps one adult plus, per the listing, one child. Compared with the BISINNA it has the smaller packed size and a faster clip pitch.\n\nIt suits a solo hiker or a parent and child on a short trail. The roof mesh and a rainfly looped to the roof cut bug and rain problems.",
     "specs": [
       "4.4 lb, packs 16.5 in long",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41jly-iZ5nL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GR4YJXTP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GR4YJXTP?tag=rvgearlab-amz-20",
     "description": "The OLIXIS is listed at 5.8 lb in the 2-person size and 8.7 lb in the 4-person size, and folds into a compact carry bag. It adds a mesh door, a side window, dual skylights and a ground vent to a classic dome with a 110 g PE groundsheet.\n\nIt is the cheapest here and weighs about 0.3 lb more than the Forceatt. Against the BISINNA it states its weight and uses fiberglass poles with 7 stakes and 6 guy ropes.\n\nIt suits car campers and fishing trips where price counts for more than ounces. A pole layout simple enough for a 3 to 5 minute pitch helps beginners.",
     "specs": [
       "5.8 lb in 2-person size",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31T6nIpD4XS._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07NVDNX3Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07NVDNX3Q?tag=rvgearlab-amz-20",
     "description": "The BISINNA uses a 190T polyester taffeta body, two aluminum poles and 10 aluminum pegs, and the listing calls it a lightweight hiking tent. It unfolds to roughly 102 by 83 by 47 inches, with two D-shaped doors and a free-standing design.\n\nAgainst the Forceatt it costs about 29 dollars less and shares the two-door layout. Compared with the OLIXIS it swaps fiberglass for aluminum poles and adds aluminum stakes.\n\nIt suits budget hikers who want a free-standing pitch that one person can manage. The bag holds the inner tent, flysheet, poles, ropes and stakes.",
     "specs": [
       "Two aluminum poles, 10 stakes",

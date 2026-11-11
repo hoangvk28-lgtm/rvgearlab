@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31KVl8uvTML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FBRH9928?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FBRH9928?tag=rvgearlab-amz-20",
     "description": "Ampinvt's 1200W is a 12V inverter with a 40A MPPT controller, an AC battery charger and an AC auto-transfer switch. Ampinvt's 1200W unit combines a pure sine wave inverter, an AC battery charger, a 40A MPPT solar controller and an AC auto-transfer switch in one box. Its AC charge current is adjustable from 0 to 15A, and the MPPT section lists up to 98% tracking efficiency for 12V lead-acid and LiFePO4 batteries.\n\nIt is the closest match to a 12V RV among the AC-capable units, with a lower AC charge current than Y&H 2200W but 120V output. It is smaller in output than the Y&H unit.\n\nBest for a small 12V RV wanting generator or shore charging. It is the closest match to a 12V RV when you want AC input and solar in one unit.",
     "specs": [
       "1200W inverter, 12V",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31CWmU6GKIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2D11LHD?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2D11LHD?tag=rvgearlab-amz-20",
     "description": "Y&H's 1000W lists four charging modes including mains first and solar first. The Y&H 1000W is a 12V hybrid inverter with a 40A MPPT solar charger and an AC charger. Four charging modes are listed (solar only, mains first, solar first, mains and solar), with a PV range of 20 to 150V and 600W maximum.\n\nIt has less output than Y&H 2200W and Ampinvt 1200W but gives mode control. Its output is 230V rather than 110V.\n\nBest for a 230V system with modest loads. Like the 2200W model, it outputs 230V and cannot output 110V, so check your loads.",
     "specs": [
       "1000W inverter, 12V",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BTWgxbpsL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0C537C875?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0C537C875?tag=rvgearlab-amz-20",
     "description": "Y&H's 2200W combines an 80A MPPT with an AC charger and 230V output. Y&H's 2200W solar hybrid inverter converts 12V DC to 220/230/240V single-phase AC and includes an 80A MPPT solar charger and an AC charger. The listing states a max PV input of 2000W with a voltage range of 55 to 450V.\n\nIt is larger than Y&H 1000W and cannot output 110V. Check voltage before using it with US appliances.\n\nBest for a 230V cabin or boat. The listing says it cannot output 110V, so it is not a drop-in match for US RV outlets.",
     "specs": [
       "2200W inverter, 12V",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31WU7yukW0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B07DNVW37B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B07DNVW37B?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 30A is a plain MPPT solar controller with no generator or AC input. The Rover 30A is a plain MPPT solar charge controller with an adjustable LCD, 12V/24V auto-detect and up to 400W on 12V. It lists multi-peak tracking, temperature compensation and four-stage charging with lithium recovery.\n\nIt is a good solar half if you add a separate AC charger, unlike Ampinvt 1200W which includes one. It has more capacity than Renogy Rover 20A.\n\nBest for pairing with a separate generator charger. It has no generator or AC input, so pair it with a separate AC charger if you want shore or generator charging.",
     "specs": [
       "30A MPPT, 12V/24V auto",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31jAWiM6l2L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B01MRWTAB5?tag=rvgearlab-amz-20",
     "description": "Renogy's Rover 20A is a smaller plain MPPT with no AC input. The Rover 20A is a 12V/24V auto-detecting MPPT unit that accepts up to 260W on 12V (520W on 24V) with Voc up to 100V. The listing cites multi-peak tracking for shade, temperature compensation, a 6kV surge diode and four-stage charging with lithium recovery.\n\nIt handles 260W on 12V, less than Renogy Rover 30A. It requires a separate charger for generator power.\n\nBest for a small solar-only battery that gets generator charging elsewhere. Bluetooth only works with the BT2 module sold separately, so budget for it if you want phone monitoring.",
     "specs": [
       "20A MPPT, 12V/24V auto",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/414ZhEvEtJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DG31JY1Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DG31JY1Q?tag=rvgearlab-amz-20",
     "description": "Wisoqu's unit is a wind turbine controller, not a fuel generator input. Wisoqu's unit is a wind turbine charge controller, not a solar controller. It is IP67 waterproof, matches 12V or 24V batteries automatically and uses an MPPT control method with overcharge, overdischarge and reverse-connection protection.\n\nIt is the only pick here for wind and has no AC charger. It is unrelated to Ampinvt 1200W in function.\n\nBest for charging a battery from a wind turbine. It only makes sense if your generator is a wind turbine; it does not accept a fuel-powered generator.",
     "specs": [
       "Wind turbine controller, MPPT",

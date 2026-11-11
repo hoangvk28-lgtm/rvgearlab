@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yOE4w1pIL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0F2TDBMJT?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0F2TDBMJT?tag=rvgearlab-amz-20",
     "description": "The E-POWO lists 23.5 percent cells, 7.73 kg (about 17 lbs) and a folded size of 24.09 x 23.23 x 1.3 inches. It offers 3 charging ports (USB-A, USB-C, QC3.0), a 7-in-1 solar adapter, IP67 ETFE and two kickstands with a built-in accessory pouch.\n\nIt has the most ports of the six and costs half the EcoFlow. It is about the same weight as the SOKIOVOLA.\n\nIt suits campers who want USB ports and a wide adapter set. The pouch keeps cables with the panel.",
     "specs": [
       "23.5%, 7.73 kg, 1.3 in folded",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mpjd1XS+L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G1XJ9M3J?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G1XJ9M3J?tag=rvgearlab-amz-20",
     "description": "This bifacial 220W panel lists double-sided cells, IP68, a complimentary 7-in-1 cable, 11 lbs and a folded size of 26.7 x 34.6 x 1.3 inches. The title cites 25.5 percent efficiency, while a bullet says 23.5 percent.\n\nIt weighs 6 lbs less than the E-POWO and 4 lbs less than the EcoFlow 220W, and costs half the EcoFlow. It is the only bifacial option under $200.\n\nIt suits campers who want bifacial gains at low weight. The 7-in-1 cable covers many stations.",
     "specs": [
       "Bifacial 220W, IP68",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31xUO2nhUPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D4QBQ3S9?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D4QBQ3S9?tag=rvgearlab-amz-20",
     "description": "The Renogy 220W is built for compatibility, with the listing naming the Jackery Explorer 1000 v2, EcoFlow DELTA 3, DELTA 3 Max and RIVER 3 Max and the Anker SOLIX S2000 among others. The title describes premium materials for decades of use.\n\nIt costs about $100 less than the EcoFlow and offers a longer named station list than any other pick. Other details are limited on the page.\n\nIt suits owners of the named stations who value brand support. The compatibility list removes guesswork.",
     "specs": [
       "220W, named station list",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41rvm6iv7cL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCS1577G?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCS1577G?tag=rvgearlab-amz-20",
     "description": "The SOKIOVOLA lists N-type 16BB cells, 17.08 lbs, a folded size of 23 x 22.24 inches and an IP68 rating. It includes a 10.49 ft 5-in-1 cable for XT60, DC5521, Anderson and DC sizes.\n\nIt matches the E-POWO on weight and has a longer cable, with an IP68 rating above the E-POWO's IP67. It costs slightly more.\n\nIt suits campers who keep the station away from the panel. The five connector types fit many brands.",
     "specs": [
       "N-type, 17.08 lbs",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XHNWlj9SL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0D2LQV6QN?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0D2LQV6QN?tag=rvgearlab-amz-20",
     "description": "The MHPOWOS lists monocrystalline cells at 23.5 percent, a 40V output, IP67 and a weight of 8.5 kg (about 18.7 lbs). It is a plug-and-play panel for stations that accept high-voltage solar input.\n\nIt carries the lowest price here and has the highest stated voltage. It weighs more than the E-POWO and SOKIOVOLA.\n\nIt suits owners with a high-voltage input. The listing stresses easy install.",
     "specs": [
       "23.5%, 40V, IP67",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31uzIbeoxJL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B09TKM8PBQ?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B09TKM8PBQ?tag=rvgearlab-amz-20",
     "description": "The EcoFlow 220W lists N-type cells, bifacial design, IP68, a 30 to 60 degree bracket with an angle guide and 15.4 lbs. It is geared for maximum efficiency with an EcoFlow station.\n\nIt is the priciest pick here by a wide margin, and it weighs less than the E-POWO. It pairs best with EcoFlow stations.\n\nIt suits EcoFlow owners who want a matched panel. The angle guide helps with aiming.",
     "specs": [
       "N-type bifacial, IP68",

@@ -26,7 +26,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41R0u12Mf0L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DPM1N92R?tag=rvgearlab-amz-20",
     "description": "The GUTA GT80 Flow-Thru comes with 10 flow-through sensors, a large vertical touchscreen and a range of 0 to 188 psi. The listing says the display shows up to 22 tires on one page, switches among 5 vehicle types and has 6 alarm modes.\n\nIt ranks first because ten sensors cover a pickup plus a tandem trailer with two to spare, and flow-through sensors let you add air without removing them. The Tymate TM12 Flow-Thru below ships only six sensors for far less money.\n\nBest for a truck and trailer or a motorhome with a toad on one screen. The listing says flow-through sensors suit metal valve stems, so confirm yours before buying.",
     "specs": [
       "10 flow-through sensors",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413zGKTVnKL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0GQ9M6SCH?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0GQ9M6SCH?tag=rvgearlab-amz-20",
     "description": "The Tymate TM12 Flow-Thru comes with 6 flow-through sensors and a display that shows up to 12 tires across four zones. The listing says sensors are IP67 waterproof, the range is 50 ft and can reach 100+ ft with the Tymate Repeater, and the display charges by USB-C or solar.\n\nCompared with the GUTA GT80 Flow-Thru above, it costs about a third as much and ships six sensors instead of ten, so a full truck and trailer needs more sensors. Against the Tymate TM3 Booster Kit below, it adds flow-through sensors but does not include a booster.\n\nBest for a motorhome with a toad or a trailer alone, where six tires cover the rig. The display can handle 12 tires, so check whether extra sensors can be added.",
     "specs": [
       "6 flow-through sensors",
@@ -82,7 +82,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411ynT45McL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DBZPH69Q?tag=rvgearlab-amz-20",
     "description": "The Tymate TM3 comes with 6 sensors and a booster, a solar lithium battery panel and a color LCD that adjusts its backlight. The listing says it has five alarm modes, low-power sensors and a power-saving mode after 10 minutes without motion.\n\nCompared with the Tymate TM12 Flow-Thru above it adds a booster for long rigs but does not list flow-through sensors. It costs a little more than the TM12 Flow-Thru.\n\nBest for a long travel trailer or fifth wheel where signal range matters more than adding air in place. Confirm the psi range, since this listing does not state it.",
     "specs": [
       "6 sensors and booster",
@@ -110,7 +110,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/416JYC5EnqL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CW9GXBCB?tag=rvgearlab-amz-20",
     "description": "The Tymate TM2 set comes with 4 external sensors and a display that detects 0 to 87 psi. The listing says it has six alarm modes, solar and USB charging, auto backlight and sensors designed for low power use.\n\nIt costs much less than the Tymate TM12 Flow-Thru, and covers only four tires. The 87 psi range matches the lowest in this guide and does not suit high-pressure RV tires.\n\nBest for a four-tire trailer or a car being towed with tires under 87 psi. It is not a full system for a truck and trailer.",
     "specs": [
       "4 external sensors",
@@ -138,7 +138,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41A0hx+PWPL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0CPPDR25B?tag=rvgearlab-amz-20",
     "description": "The Tymate TM7 set comes with 4 sensors that read 0 to 144 psi, with accuracy of plus or minus 1.5 psi or 3 F. The listing says it powers from the cigarette lighter socket with dual USB charging and sets up in about 5 minutes.\n\nCompared with the Tymate TM2 4-Set above it reads up to 144 psi instead of 87 and costs much less. It covers only four tires and has no solar charging in its listing.\n\nBest for a four-tire trailer with tires up to about 120 psi that you want to monitor cheaply. It does not cover a whole truck and trailer.",
     "specs": [
       "4 sensors, 0-144 psi",
@@ -166,7 +166,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/413EHRxnc5L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0DF2LJ4R2?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0DF2LJ4R2?tag=rvgearlab-amz-20",
     "description": "The Tymate TM8 set comes with 4 sensors that read 0 to 87 psi, with plus or minus 1.5 psi accuracy. The listing says it charges by solar, USB or cigarette lighter and has a color LCD that mounts on the windshield.\n\nIt is the cheapest item in this list, slightly below the Tymate TM7 4-Set, but its range stops at 87 psi. It also covers only four tires.\n\nBest for a small trailer or toad with low-pressure tires. Skip it for a motorhome or heavy trailer.",
     "specs": [
       "4 sensors, 0-87 psi",

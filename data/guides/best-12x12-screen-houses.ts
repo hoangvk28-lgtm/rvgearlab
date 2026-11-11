@@ -28,7 +28,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51plRp87gGL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FFTL64DP?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FFTL64DP?tag=rvgearlab-amz-20",
     "description": "The DMH 12x12 Screen House has an 84 inch center height and gives nearly 144 square feet of shade. It has all-around mesh panels, two zipper doors, side pockets, an overhead mesh loft and a ceiling hook for a lantern.\n\nIt is the best organized of the 12 by 12 ft rooms, with extra headroom panels on both sides. Next to the CAMPROS 12x12 Screen House it costs more and offers storage features.\n\nIt suits group campers who want a place for phones, lights and dry gear. Side headroom panels make the walls feel taller.",
     "specs": [
       "12 x 12 ft, 84 in center",
@@ -58,7 +58,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51y53KlRA3L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G13NL1SM?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G13NL1SM?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12x12 Gazebo is a six-sided pop-up that fits 8 to 10 people, with a 7.2 ft canopy, 300D Oxford with UV50+ and convertible door panels. Six reinforced roll-up wind panels and fiberglass poles add stability.\n\nCompared with the DMH 12x12 Screen House it adds roll-up wind panels and a pop-up hub. It folds into a 4.4 ft carry bag.\n\nIt suits groups who want a pop-up with wind and sun panels. The pop-up hub means no tools at setup.",
     "specs": [
       "12 x 12 ft, 7.2 ft high",
@@ -88,7 +88,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bxLXewsXL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G48SYWB8?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G48SYWB8?tag=rvgearlab-amz-20",
     "description": "The VEVOR 12x11 Screen House is rated for 10 to 12 people with a 12 by 11 by 7.55 ft pop-up structure. Its reinforced fiberglass and steel poles and 300D Oxford screening fabric are named, and a carry bag with ground stakes is included.\n\nIt is nearly the 12 by 12 footprint at a lower price than the VEVOR 12x12 Gazebo. It uses 360 degree mesh with a pop-up system and detachable poles.\n\nIt suits large families who want a roomy pop-up at a mid price. The 7.55 ft roof gives tall campers room to stand.",
     "specs": [
       "12 x 11 x 7.55 ft",
@@ -118,7 +118,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31ItHjfH0ML._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0BS3LSQZY?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0BS3LSQZY?tag=rvgearlab-amz-20",
     "description": "The CAMPROS 12x12 Screen House is 12 by 12 ft with a 92 inch center height and 144 square feet of shade. Its 190T polyester roof has one fixed sun wall, and the box adds a bag, stakes and tie downs.\n\nIt is the tallest of the true 12 by 12 ft models and the cheapest of them. CAMPROS says a three-person crew can pitch it in around ten minutes.\n\nIt suits budget groups who want the full 12 by 12 floor. Its tall 92 inch center helps taller campers.",
     "specs": [
       "12 x 12 ft, 92 in center",
@@ -148,7 +148,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Puuck83BL._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0FCFGJD1H?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0FCFGJD1H?tag=rvgearlab-amz-20",
     "description": "The CAMPROS 12x10 Screen House is 12 by 10 ft with a 90 inch center height and 120 square feet of shade. Like its larger sibling it has one fixed sun wall, and stakes and tie downs are included.\n\nIt is the lowest-priced pick and gives 24 fewer square feet than the CAMPROS 12x12 Screen House. The listing says three people can set it up in about 10 minutes.\n\nIt suits small groups who want a 12 ft long room. The 90 inch center height still allows standing.",
     "specs": [
       "12 x 10 ft, 90 in center",
@@ -178,7 +178,7 @@ export const products: GuideProduct[] = [
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51UnV6ymB7L._SL500_.jpg",
-    "amazonUrl": "https://www.amazon.com/dp/B0G515ZM2B?tag=rvgearlab-20",
+    "amazonUrl": "https://www.amazon.com/dp/B0G515ZM2B?tag=rvgearlab-amz-20",
     "description": "The VEVOR 15x13.8 Screen House is listed for 12 to 15 people with reinforced steel and fiberglass poles and a curved roof that prevents water pooling. Its 300D Oxford canopy has UPF 50+ protection, and it uses a tool-free pop-up system with detachable poles.\n\nIt is by far the biggest room here and the priciest. Compared with the VEVOR 12x12 Gazebo it offers about 40 percent more floor.\n\nIt suits reunions and teams that need a huge covered, bug-free room. The curved roof sheds water instead of pooling it.",
     "specs": [
       "15 x 13.8 ft footprint",
