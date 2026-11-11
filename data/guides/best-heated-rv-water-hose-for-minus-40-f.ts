@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51ljFbpPkcL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0H3FHW1Z7?tag=rvgearlab-20",
-    "description": "The Kohree 50 FT hose is rated to -40°F with NSF 372 lead-free certification, a high-density insulated jacket and a thermostat-controlled cable. Kohree's 50 FT hose is rated to -40°F with an NSF 372 certified lead-free build and a high-density insulated outer jacket.\n\nIt is the only 50 ft pick here with a named lead-free certification, and it costs less than the SZFY and FYSFLYA. The jacket helps hold heat.\n\nA thermostat-controlled heating cable activates only when temperatures drop. It suits owners who want a certified hose at -40°F.",
+    "description": "The Kohree 50 FT hose is rated to -40°F with NSF 372 lead-free certification, a high-density insulated jacket and a thermostat-controlled cable. Kohree's 50 FT hose is rated to -40°F with an NSF 372 certified lead-free build and a high-density insulated outer jacket.\n\nIt is the only 50 ft pick here with a named lead-free certification, and it costs less than the SZFY and FYSFLYA. The jacket helps hold heat.\n\nA thermostat-controlled heating cable activates only when temperatures drop. It suits owners who want a certified hose at -40°F.\n\nFifty feet of hose with a named lead-free certification, NSF 372, gives this Kohree a drinking-water credential that many heated hoses do not state. A high-density insulated jacket holds heat along the run, and the thermostat-controlled cable switches on as the temperature falls and rests when it rises, so power stays in reserve on mild days. Full-time winter campers will find it a strong fit.",
     "specs": [
       "50 ft, -40°F protection",
       "NSF 372 lead-free certified",
@@ -55,7 +55,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/516wNz4cT+L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0H6W4G5XH?tag=rvgearlab-20",
-    "description": "The RVshark 40FT is rated to -40°F with NSF/ANSI/CAN 372 lead-free certification and intelligent temperature control. RVshark's 40FT hose is rated to -40°F, with NSF/ANSI/CAN 372 lead-free certification and built-in intelligent temperature control.\n\nIt gives ten feet less than the 50 ft picks at a lower price. The light blue colour is easy to see in snow.\n\nIt is offered in four lengths and the light blue color is easy to spot in snow. It suits owners who need 40 feet and a certified hose.",
+    "description": "The RVshark 40FT is rated to -40°F with NSF/ANSI/CAN 372 lead-free certification and intelligent temperature control. RVshark's 40FT hose is rated to -40°F, with NSF/ANSI/CAN 372 lead-free certification and built-in intelligent temperature control.\n\nIt gives ten feet less than the 50 ft picks at a lower price. The light blue colour is easy to see in snow.\n\nIt is offered in four lengths and the light blue color is easy to spot in snow. It suits owners who need 40 feet and a certified hose.\n\nFour length options and NSF/ANSI/CAN 372 lead-free certification make the RVshark flexible: 40 feet suits a rig parked close to the spigot. Intelligent temperature control manages the heating, and the light blue colour stays visible against snow, which helps at night and when plowing or walking around the site. It rates to -40°F like the larger hoses.",
     "specs": [
       "40 ft, -40°F protection",
       "NSF/ANSI/CAN 372 lead-free",
@@ -83,7 +83,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51kvc3pWrRL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0D7HJS1CV?tag=rvgearlab-20",
-    "description": "The PBPHX 50FT is titled -40°F with a self-regulating external thermostat, and the text cites -45°F. PBPHX titles this 50FT hose at -40°F with a self-regulating external thermostat.\n\nIt costs about 5 dollars less than the Kohree and carries eight years of user feedback. It lacks a named certification.\n\nThe text cites -45°F, and the brand says it has gathered eight years of user feedback. It suits budget buyers who want 50 feet.",
+    "description": "The PBPHX 50FT is titled -40°F with a self-regulating external thermostat, and the text cites -45°F. PBPHX titles this 50FT hose at -40°F with a self-regulating external thermostat.\n\nIt costs about 5 dollars less than the Kohree and carries eight years of user feedback. It lacks a named certification.\n\nThe text cites -45°F, and the brand says it has gathered eight years of user feedback. It suits budget buyers who want 50 feet.\n\nA self-regulating external thermostat lets the heating cable respond to the weather without a manual switch, and the full 50 feet reaches most winter pedestals. The title lists -40°F, and the product text cites -45°F, a sign of margin for a cold snap. At $124.99, it sits in the middle of the 50 foot range and suits a seasonal winter setup.",
     "specs": [
       "50 ft, -40°F in title",
       "Self-regulating thermostat",
@@ -111,7 +111,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/511qOoCIi4L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0D99YVH4X?tag=rvgearlab-20",
-    "description": "The PBPHX 25FT has the same self-regulating thermostat and -40°F title rating as its 50 ft sibling. PBPHX titles this 25FT hose at -40°F, with a self-regulating external thermostat.\n\nIt is the cheapest of the six and gives 25 feet. The text cites -45°F.\n\nThe text cites -45°F and the brand has gathered eight years of user feedback. It suits budget buyers with a short run.",
+    "description": "The PBPHX 25FT has the same self-regulating thermostat and -40°F title rating as its 50 ft sibling. PBPHX titles this 25FT hose at -40°F, with a self-regulating external thermostat.\n\nIt is the cheapest of the six and gives 25 feet. The text cites -45°F.\n\nThe text cites -45°F and the brand has gathered eight years of user feedback. It suits budget buyers with a short run.\n\nAt 25 feet, this PBPHX hose keeps the heated length short for a rig parked near the spigot, and the same self-regulating external thermostat does the temperature management. A compact run means less cable to plug in and less hose to coil in spring. At $75.99, it is the lowest-priced route to a heated winter hose.",
     "specs": [
       "25 ft, -40°F in title",
       "Self-regulating thermostat",
@@ -139,7 +139,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51B9xVSoInL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0F6BJLH8G?tag=rvgearlab-20",
-    "description": "The FYSFLYA 50FT uses potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure and reinforced heating ends. FYSFLYA's 50FT hose is made from potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure.\n\nIt costs about 24 dollars less than the SZFY. The title does not state a freeze rating.\n\nThe ends of the heating section are reinforced for durability. It suits owners who value a reinforced build.",
+    "description": "The FYSFLYA 50FT uses potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure and reinforced heating ends. FYSFLYA's 50FT hose is made from potable-water hose free of lead, phthalates and bisphenol, with a 3D five-layer structure.\n\nIt costs about 24 dollars less than the SZFY. The title does not state a freeze rating.\n\nThe ends of the heating section are reinforced for durability. It suits owners who value a reinforced build.\n\nA potable-water hose free of lead, phthalates and bisphenol forms the core, wrapped in a 3D five-layer structure that adds strength and insulation. The ends of the heating section are reinforced where cables flex most. Fifty feet of length puts the water source well away from the rig. A harsh-climate winter hookup is the setting it fits well.",
     "specs": [
       "50 ft, potable water hose",
       "3D five-layer structure",
@@ -167,7 +167,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Y18YJ3R1L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0F283D7MQ?tag=rvgearlab-20",
-    "description": "The SZFY 50FT has food-grade inner tubing, a five-layer shell and an internal heating coil that changes with temperature. SZFY's 50FT hose has food-grade inner tubing, a five-layer shell and an internal heating coil that varies with temperature.\n\nIt sits at the premium end of the price range. The title says -45°F and the text -40°F.\n\nThe title says -45°F, while the text cites -40°F. It suits buyers who want the heaviest shell.",
+    "description": "The SZFY 50FT has food-grade inner tubing, a five-layer shell and an internal heating coil that changes with temperature. SZFY's 50FT hose has food-grade inner tubing, a five-layer shell and an internal heating coil that varies with temperature.\n\nIt sits at the premium end of the price range. The title says -45°F and the text -40°F.\n\nThe title says -45°F, while the text cites -40°F. It suits buyers who want the heaviest shell.\n\nFood-grade inner tubing carries the water through a five-layer shell, and the internal heating coil changes its output as the temperature moves, which adds warmth when the cold deepens. A male thread adapter is included, so the hose is ready to connect at the spigot. This 50 foot SZFY is the toughest-shelled hose in the group.",
     "specs": [
       "50 ft, five-layer shell",
       "Output varies with temperature",
@@ -254,7 +254,9 @@ export const howToChoose: HowToChooseSection[] = [
           "3D five-layer structure."
         ]
       ]
-    }
+    },
+    "intro": "Length decides how far from the rig the water source can sit, and a heated hose has to cover that distance in one run. Spigot to inlet distance plus a few feet of slack tells you which length to pick. A shorter heated hose uses less power and stores easier.",
+    "note": "PBPHX 25FT suits a nearby spigot, RVshark 40FT suits mid-range and Kohree 50 FT suits longer runs."
   },
   {
     "subheading": "By Budget",
@@ -277,7 +279,9 @@ export const howToChoose: HowToChooseSection[] = [
           "FYSFLYA 50FT or SZFY 50FT"
         ]
       ]
-    }
+    },
+    "intro": "Heated hoses run from about $76 to $170, and the price follows length, certification and shell construction. A named certification or a tougher shell is what extra money buys. Pay for what you will actually need through the winter.",
+    "note": "25FT Heated Water Hose for RV is the cheapest, and RVshark is the best value for a certified hose."
   },
   {
     "subheading": "Certified vs Uncertified",
@@ -291,7 +295,8 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Costs less but states fewer standards, as with the PBPHX 50FT and PBPHX 25FT."
       }
     ],
-    "note": "Most buyers should pick the Kohree 50FT, and the PBPHX 50FT only for budget."
+    "note": "Choose Kohree 50 FT or RVshark for certified hoses, and PBPHX for a lower-cost option.",
+    "intro": "A named certification, such as NSF 372 for lead-free materials, tells you the hose meets a standard for drinking-water contact. An uncertified hose may still be safe but offers no stated proof. If you drink from the tap, the certification is worth looking for."
   },
   {
     "subheading": "By Budget",
@@ -331,7 +336,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "In this comparison",
         "text": "The Kohree 50FT gives an insulated jacket and certified hose."
       }
-    ]
+    ],
+    "intro": "An arctic winter tests every part of the system: heating cable, insulation, plug and fittings. A -40°F rating, a thermostat, a thick jacket and a plan to wrap the fittings make up a sound setup. A hose can only protect the run, so protect the ends as well.",
+    "note": "Kohree 50 FT Heated Water Hose is the pick for extreme cold."
   },
   {
     "subheading": "When to Spend More",
@@ -344,7 +351,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "Save if",
         "text": "Save with the PBPHX 25FT or PBPHX 50FT."
       }
-    ]
+    ],
+    "intro": "A hose that is your winter water source for months justifies spending more, because certification and a reinforced shell matter over a long season. Save for a short trip or a nearby spigot. The longer the season, the more the extra cost pays off.",
+    "note": "Kohree 50 FT and SZFY's 50FT Heated Water Hose reward extra spend, while PBPHX 25FT is the savings pick."
   }
 ];
 
@@ -374,23 +383,23 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Is -40°F enough for extreme cold?",
-    "a": "For most sites, yes, with insulation. Wind can still freeze fittings. Wrap them."
+    "a": "For most sites, yes, with insulation. A heated hose rated to -40°F protects the water in the run, but wind can still freeze fittings and spigots, which are the weakest points. Wrap the connections at both ends with foam or an insulated cover, and shield the spigot from wind. In a colder or windier location, insulation around the whole run helps."
   },
   {
     "q": "What mistake do buyers make?",
-    "a": "They trust the title alone. Read the text for the rating."
+    "a": "They trust the title alone. Read the text for the rating: the PBPHX title says -40°F while its text cites -45°F, and the SZFY title says -45°F while its text says -40°F. Compare the full description, the certification wording and the length before you order. A listing that states its rating twice and agrees with itself is the safer buy."
   },
   {
     "q": "Is the Kohree worth the price?",
-    "a": "If certification matters, yes. Otherwise the PBPHX costs less."
+    "a": "If certification matters, yes. At $129.99 it names NSF 372 lead-free certification and a high-density insulated jacket, and it costs about $5 more than the PBPHX 50FT. Otherwise the PBPHX costs less and uses a self-regulating thermostat. For a hose that supplies drinking water all winter, the named certification is worth the small step up."
   },
   {
     "q": "How do I install it?",
-    "a": "Connect the hose to the spigot and the RV inlet, then plug it into a GFCI outlet. Wrap both fittings in foam, since they freeze before the hose does."
+    "a": "Connect the hose to the spigot and the RV inlet, then plug it into a GFCI outlet. Wrap both fittings in foam, since they freeze before the hose does. Lay the heated length out rather than bundling it while it is powered, and follow the maker's instructions on slack. Test the heating before the first freeze."
   },
   {
     "q": "How do I store it?",
-    "a": "Drain it fully after the season and coil it in wide loops. Store it dry and check the plug and jacket before the next winter."
+    "a": "Drain it fully after the season and coil it in wide loops. Store it dry and check the plug and jacket before the next winter. Look along the cable for cuts or kinks, and keep the ends capped to keep dirt out. A shelf in a dry bay beats a damp corner."
   }
 ];
 

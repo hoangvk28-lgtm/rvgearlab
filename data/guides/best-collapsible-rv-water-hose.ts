@@ -27,7 +27,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/510UhufmTFL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0C34ZNMTW?tag=rvgearlab-20",
-    "description": "The Clean Camper 35 ft hose lists a kink-free design that coils tightly for compact storage. It has 304 stainless steel food-grade fittings and is lead, BPA and phthalate free.\n\nIt is the pick that leads on coil size and it costs more than the Camco. It lists a 35 foot length.\n\nIt suits owners who want a space-saving coil. The stainless fittings resist rust.",
+    "description": "The Clean Camper 35 ft hose lists a kink-free design that coils tightly for compact storage. It has 304 stainless steel food-grade fittings and is lead, BPA and phthalate free.\n\nIt is the pick that leads on coil size and it costs more than the Camco. It lists a 35 foot length.\n\nIt suits owners who want a space-saving coil. The stainless fittings resist rust.\n\nThirty-five feet of kink-free hose coils into a tight bundle, which solves the problem of storing a long hookup line in a small bay. The 304 stainless steel fittings carry a food-grade claim and are free of lead, BPA and phthalates, a combination that suits owners who drink from the tap. It gives a camper plenty of reach with minimal storage.",
     "specs": [
       "35 ft, compact coil",
       "304 stainless steel fittings",
@@ -54,7 +54,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/518RwzPj8bL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B004VHXS20?tag=rvgearlab-20",
-    "description": "The Camco TastePURE 35-Foot is NSF/ANSI 61 certified and lists zero memory retention with diamond-hatch reinforcement. The wall runs 20 percent thicker than premium hoses, which matters once a hose is rolled and packed repeatedly.\n\nIt is priced just below the Clean Camper and coils without holding its shape. It is thicker than the Nilight.\n\nIt suits owners who want a thick, certified hose that still coils flat. The UV-stabilized PVC suits sunny sites.",
+    "description": "The Camco TastePURE 35-Foot is NSF/ANSI 61 certified and lists zero memory retention with diamond-hatch reinforcement. The wall runs 20 percent thicker than premium hoses, which matters once a hose is rolled and packed repeatedly.\n\nIt is priced just below the Clean Camper and coils without holding its shape. It is thicker than the Nilight.\n\nIt suits owners who want a thick, certified hose that still coils flat. The UV-stabilized PVC suits sunny sites.\n\nNSF/ANSI 61 certification is the headline for the Camco TastePURE, a standard applied to materials that touch drinking water. Zero-memory construction lets the hose lay flat and coil without keeping the bends from last trip, and diamond-hatch reinforcement resists kinking. UV-stabilized PVC suits long stays at a sunny site, and 35 feet of length reaches most pedestals.",
     "specs": [
       "5/8 inch, 35 ft",
       "NSF/ANSI 61 certified",
@@ -81,7 +81,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41mC5NsIJtL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0D582WWC7?tag=rvgearlab-20",
-    "description": "The Atlantic 8 ft hose is PVC-free and 30 to 40 percent lighter than heavy PVC or hybrid hoses. It uses a food-grade silicone inner tube and lists a range of -70°F to 200°F.\n\nIt is the lightest pick and the shortest of the hookup hoses. It costs more than the Nilight and RVSNAIL.\n\nIt suits owners who want the lightest hose at a short length. It stores in a small space.",
+    "description": "The Atlantic 8 ft hose is PVC-free and 30 to 40 percent lighter than heavy PVC or hybrid hoses. It uses a food-grade silicone inner tube and lists a range of -70°F to 200°F.\n\nIt is the lightest pick and the shortest of the hookup hoses. It costs more than the Nilight and RVSNAIL.\n\nIt suits owners who want the lightest hose at a short length. It stores in a small space.\n\nA PVC-free build with a food-grade silicone inner tube makes this the lightest hose in the group, 30 to 40 percent lighter than heavy PVC or hybrid hoses. The listed range of -70 to 200 degrees Fahrenheit handles hard freezes and hot sun. At 8 feet it is a good fit for a van or a short hookup where the spigot sits close to the rig.",
     "specs": [
       "8 ft, PVC-free",
       "30-40% lighter",
@@ -108,7 +108,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41chL9ufapL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0GFSS77SX?tag=rvgearlab-20",
-    "description": "The Nilight 25FT lists a 3-layer build, solid aluminum fittings and an included storage bag. Its usable temperature span runs from -4°F to 176°F.\n\nIt is priced lower than the Camco and Clean Camper and bundles a bag. It rolls up easily into its bag.\n\nA bag plus a mid-length hose makes it a fit for owners who pack light. It covers most pedestals at 25 feet.",
+    "description": "The Nilight 25FT lists a 3-layer build, solid aluminum fittings and an included storage bag. Its usable temperature span runs from -4°F to 176°F.\n\nIt is priced lower than the Camco and Clean Camper and bundles a bag. It rolls up easily into its bag.\n\nA bag plus a mid-length hose makes it a fit for owners who pack light. It covers most pedestals at 25 feet.\n\nA three-layer build, solid aluminum fittings and an included storage bag turn this Nilight into a complete package for owners who pack light. The 25 foot length covers most campground pedestals, and the -4 to 176 degree range handles typical camping seasons. At $29.99, the bag keeps the hose tidy in the storage bay.",
     "specs": [
       "5/8 inch, 25 ft",
       "Storage bag included",
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41a8tLORvrL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0H3JRZ17T?tag=rvgearlab-20",
-    "description": "The RVSNAIL 25FT is a food-grade rubber hose with a 360 degree swivel grip handle and 3-layer reinforced build. It lists aluminum fittings rated to 450 PSI.\n\nIt is the lowest priced of the 25 ft hoses and lists a swivel grip. It does not list a bag.\n\nIt suits owners who connect and disconnect often. The swivel grip reduces wrist strain.",
+    "description": "The RVSNAIL 25FT is a food-grade rubber hose with a 360 degree swivel grip handle and 3-layer reinforced build. It lists aluminum fittings rated to 450 PSI.\n\nIt is the lowest priced of the 25 ft hoses and lists a swivel grip. It does not list a bag.\n\nIt suits owners who connect and disconnect often. The swivel grip reduces wrist strain.\n\nA 360 degree swivel grip lets you spin the hose onto the spigot without twisting the line, which is a real wrist saver on stiff faucets. Food-grade rubber and a reinforced three-layer build back the 25 feet of reach, and the aluminum fittings are rated to 450 PSI. At $23.99 it is the budget choice among the 25 foot hoses.",
     "specs": [
       "5/8 inch, 25 ft",
       "360 degree swivel grip",
@@ -162,7 +162,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ddMEOgdUL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B07Y5L5J73?tag=rvgearlab-20",
-    "description": "The RecPro Fresh Water Fill Hose is a 1 1/4 inch, 10 ft hose with a 5 inch ribbed section and a 3 inch smooth section. It is cold and heat resistant.\n\nIt is priced near the RVSNAIL and is for the tank fill. The ribbed design bends in tight places.\n\nIt suits owners replacing a filler neck hose. The 1 1/4 inch bore suits common fill necks.",
+    "description": "The RecPro Fresh Water Fill Hose is a 1 1/4 inch, 10 ft hose with a 5 inch ribbed section and a 3 inch smooth section. It is cold and heat resistant.\n\nIt is priced near the RVSNAIL and is for the tank fill. The ribbed design bends in tight places.\n\nIt suits owners replacing a filler neck hose. The 1 1/4 inch bore suits common fill necks.\n\nA 5 inch ribbed section lets this 1 1/4 inch fill hose flex around tight corners, and a 3 inch smooth section seats against the fitting. For a replacement filler neck or a direct tank fill, this 10 foot length works, and the material resists both cold and heat. At $24.95, it is a straightforward repair for a fresh water tank fill.",
     "specs": [
       "1 1/4 inch, 10 ft fill hose",
       "Ribbed and smooth sections",
@@ -244,7 +244,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Easy hookup."
         ]
       ]
-    }
+    },
+    "intro": "Storage is the reason to choose a hose like these, so think about the bay it has to live in. A hose that coils tightly or comes with a bag saves space, while a long, stiff hose takes more room. Measure the space and the reach you need.",
+    "note": "Clean Camper coils tightest, Nilight includes a bag and Atlantic is the lightest and shortest."
   },
   {
     "subheading": "By Budget",
@@ -267,7 +269,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Camco TastePURE 35 or Clean Camper 35"
         ]
       ]
-    }
+    },
+    "intro": "Prices run from about $24 to $43 for hookup hoses, and the premium goes to certification, a tight coil and stainless fittings. A budget hose still delivers water. Pay more only for features you will use.",
+    "note": "RVSNAIL is the budget pick, and Camco TastePURE is the certified pick."
   },
   {
     "subheading": "Light vs bagged",
@@ -281,7 +285,8 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Nilight 25 FT includes a bag, and Clean Camper 35 coils tightly."
       }
     ],
-    "note": "Take Nilight 25 FT for a bag and Atlantic 8 ft for the lightest short hose."
+    "note": "Choose Atlantic for light weight, and Nilight RV Water Hose for the bag.",
+    "intro": "A lightweight hose is easy to carry and store, while a bagged hose keeps the line clean and bundled. The right choice depends on whether you value weight savings or tidy storage. Both approaches reduce clutter in a small bay."
   },
   {
     "subheading": "By feature",
@@ -308,7 +313,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Camco TastePURE 35"
         ]
       ]
-    }
+    },
+    "intro": "Feature priorities vary: certification for drinking water, a swivel grip for easy hookups, or a wide temperature range for cold camping. Pick the one that matters most to you and shop for it. No hose wins on every feature.",
+    "note": "Camco TastePURE for certification, RVSNAIL for the swivel grip and Atlantic for temperature range."
   },
   {
     "subheading": "For Vans and Small Campers Specifically",
@@ -321,7 +328,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "In this comparison",
         "text": "The Atlantic 8 ft is light, and the Clean Camper 35 coils tightly."
       }
-    ]
+    ],
+    "intro": "Vans and small campers have little storage, so a hose has to be light and compact. Short, tight coils or a hose with a bag meet this need. A shorter length keeps volume down if you camp near the spigot.",
+    "note": "Atlantic RV Drinking Water Hose 8 ft and Clean Camper RV Fresh Water Drinking Hose are the best fits."
   },
   {
     "subheading": "When to Spend More",
@@ -334,7 +343,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "Save if",
         "text": "Save with Nilight 25 FT or RVSNAIL 25 FT."
       }
-    ]
+    ],
+    "intro": "Drinking from the hose, camping in long seasons or wanting a hose that coils flat for years all justify spending more. A backup hose, or one that runs seldom, can be the cheap one. Think about how often it is used.",
+    "note": "Camco TastePURE and Clean Camper reward extra spend, while RVSNAIL is the savings pick."
   }
 ];
 
@@ -368,23 +379,23 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Is there a truly collapsible RV hose?",
-    "a": "These listings do not describe expandable fabric hoses. They coil small instead."
+    "a": "These listings do not describe expandable fabric hoses. They coil small instead, which is the practical way to store a drinking-water hose in an RV bay. Check the listing for a drinking-water rating before using any expandable hose on an RV. A flexible, kink-free hose such as Clean Camper or Camco coils into a compact bundle."
   },
   {
     "q": "What is the common mistake?",
-    "a": "Buying for storage and ignoring reach. Check the length."
+    "a": "Buying for storage and ignoring reach. Check the length: a 25 foot hose covers most pedestals, but a 35 foot hose gives margin when the spigot sits behind the rig. Distance from the spigot to your inlet plus a few feet for bends sets the length to buy. An 8 foot hose such as the Atlantic suits a short hookup only."
   },
   {
     "q": "Is Clean Camper worth it over Nilight?",
-    "a": "It coils tighter and has stainless fittings. Nilight includes a bag and costs less."
+    "a": "It coils tighter and has stainless fittings, and at 35 feet it reaches further. Nilight includes a bag and costs less, at $29.99 against $42.99, with aluminum fittings. If you need reach or stainless hardware, the extra $13 is reasonable. For a typical pad and a tidy bag, Nilight is enough."
   },
   {
     "q": "How do I store a hose compactly?",
-    "a": "Drain it fully before coiling. Coil it loosely and use a bag, as the Nilight 25 FT includes."
+    "a": "Drain it fully before coiling. Coil it loosely and use a bag, as the Nilight 25 FT includes, and cap the ends so dirt stays out. A loose coil keeps the hose from taking a permanent bend, while a tight wrap can kink it. Store it where it is shaded and dry."
   },
   {
     "q": "How do I look after a hose?",
-    "a": "Dry it before storing and keep it out of the sun. Replace washers when they harden."
+    "a": "Dry it before storing and keep it out of the sun, since UV and trapped moisture age the hose. Replace washers when they harden, because a hard washer leaks at the spigot. Flush the hose before each trip with a minute of running water. Inspect the fittings for dents."
   }
 ];
 

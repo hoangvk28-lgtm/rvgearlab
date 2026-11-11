@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51YNqhne5dL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0FBGD6YMB?tag=rvgearlab-20",
-    "description": "Rated at 20,000 BTU across two propane burners, the ODSD folds to 10.63 by 9.06 by 5.12 inches. The title lists a windshield, a frying pan, a coffee stand and a carry bag, and the listing describes a magnetic closure and 304 stainless steel.\n\nIt is the only two-burner here that comes with a pan and coffee stand, and at 3.98 lb it is easy to move from trunk to table. The Coleman Triton states a bit more output.\n\nIt suits families and weekend campers who want a ready-to-cook set. The windproof shield keeps the flame steady.",
+    "description": "Rated at 20,000 BTU across two propane burners, the ODSD folds to 10.63 by 9.06 by 5.12 inches. The title lists a windshield, a frying pan, a coffee stand and a carry bag, and the listing describes a magnetic closure and 304 stainless steel.\n\nIt is the only two-burner here that comes with a pan and coffee stand, and at 3.98 lb it is easy to move from trunk to table. The Coleman Triton states a bit more output.\n\nIt suits families and weekend campers who want a ready-to-cook set. The windproof shield keeps the flame steady.\n\nFolded, the ODSD measures about 10.63 by 9.06 by 5.12 inches and closes with a magnet, so it tucks beside a cooler in the trunk. The 304 stainless steel build and 20,000 BTU across two burners are enough to boil water and fry at the same time, and the included pan and coffee stand mean breakfast can start without extra shopping. Weekend campers get a ready-made kitchen.",
     "specs": [
       "20,000 BTU, two burners",
       "3.98 lb, magnetic closure",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31BW7+A0xXL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B09HN1C1YJ?tag=rvgearlab-20",
-    "description": "Two independently adjustable burners share 22,000 total BTU on the Coleman Triton, and revised knob rotation improves simmering. Two wind guards flank the burners, the chrome grate lifts out for washing and a sturdy latch locks the lid for the drive.\n\nIt lists more output than the ODSD and comes from a brand with deep camp-stove roots. The latch keeps it closed on the drive.\n\nIt suits families who want a familiar stove they can find parts and fuel for. Cleanup is easy with the removable grate.",
+    "description": "Two independently adjustable burners share 22,000 total BTU on the Coleman Triton, and revised knob rotation improves simmering. Two wind guards flank the burners, the chrome grate lifts out for washing and a sturdy latch locks the lid for the drive.\n\nIt lists more output than the ODSD and comes from a brand with deep camp-stove roots. The latch keeps it closed on the drive.\n\nIt suits families who want a familiar stove they can find parts and fuel for. Cleanup is easy with the removable grate.\n\nWith 22,000 BTU split between two burners that adjust independently, the revised knob rotation gives finer control at the low end, which is where simmering sauces and rice live. Two wind guards flank the burners to hold the flame steady at a breezy site. A chrome grate lifts out for washing, which suits a family that cooks full dinners every night of the trip.",
     "specs": [
       "22,000 BTU, two burners",
       "Heavy-duty latch",
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41JavTsgoZL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B01HQRD8EO?tag=rvgearlab-20",
-    "description": "The GasOne GS-3400P is a single-burner stove that runs on a butane cartridge or a propane cylinder. Piezo ignition, an adjustable dial and a built-in cartridge ejection system are listed.\n\nIt costs a fraction of the two-burners and still handles coffee and eggs. Fuel flexibility is its edge over the butane-only GasOne Butane.\n\nIt suits car campers who want a spare or a breakfast stove. A carrying case is included.",
+    "description": "The GasOne GS-3400P is a single-burner stove that runs on a butane cartridge or a propane cylinder. Piezo ignition, an adjustable dial and a built-in cartridge ejection system are listed.\n\nIt costs a fraction of the two-burners and still handles coffee and eggs. Fuel flexibility is its edge over the butane-only GasOne Butane.\n\nIt suits car campers who want a spare or a breakfast stove. A carrying case is included.\n\nRunning on either a butane cartridge or a propane cylinder makes this GasOne the flexible spare in the kit, since whichever fuel is in the truck will light it. Piezo ignition and a heat dial keep it simple, and the cartridge ejection safety gives peace of mind when swapping canisters. A carrying case rides in the bin, so the stove is always ready for a quick coffee.",
     "specs": [
       "Butane or propane fuel",
       "Piezo ignition, heat dial",
@@ -119,7 +119,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/310zJ+RVtBL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B08WTNVPB7?tag=rvgearlab-20",
-    "description": "The GasOne Butane stove lists 7,650 BTU, CSA approval, automatic ignition and a safety shut-off. It comes in a carrying case and is described as quiet in operation.\n\nIt is simpler than the dual-fuel GS-3400P and costs a little less. The CSA mark is the key difference from the BIG HORN.\n\nIt suits car campers who want a tidy, approved butane stove. The listing says outdoor use only.",
+    "description": "The GasOne Butane stove lists 7,650 BTU, CSA approval, automatic ignition and a safety shut-off. It comes in a carrying case and is described as quiet in operation.\n\nIt is simpler than the dual-fuel GS-3400P and costs a little less. The CSA mark is the key difference from the BIG HORN.\n\nIt suits car campers who want a tidy, approved butane stove. The listing says outdoor use only.\n\nCSA approval gives this 7,650 BTU stove a certification that matters to campers who want a recognized safety mark on the equipment they use near a tent. Automatic ignition and a safety shut-off handle the start-up and stop, and the quiet burner keeps early mornings peaceful. The included case and the $24.99 price make it a tidy butane stove for a couple of coffee-and-eggs mornings.",
     "specs": [
       "7,650 BTU, CSA approved",
       "Auto ignition, shut-off",
@@ -149,7 +149,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41C7BfhshqL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0FHW3G1RZ?tag=rvgearlab-20",
-    "description": "The BIG HORN is a bucket-style folding butane stove with one-touch ignition and a 2200 W (7500 BTU) output. Its burner mixes cast iron, copper and aluminum, and it carries SGS certification for North America.\n\nIt folds into a compact carry bag and is the least expensive butane stove in this list. The cast iron and copper burner adds heft and even heat.\n\nIt suits campers who want to save space and money. It also doubles as an emergency stove.",
+    "description": "The BIG HORN is a bucket-style folding butane stove with one-touch ignition and a 2200 W (7500 BTU) output. Its burner mixes cast iron, copper and aluminum, and it carries SGS certification for North America.\n\nIt folds into a compact carry bag and is the least expensive butane stove in this list. The cast iron and copper burner adds heft and even heat.\n\nIt suits campers who want to save space and money. It also doubles as an emergency stove.\n\nThe bucket-style body folds into a carry bag, so the stove stows into small gaps in a trunk or pantry box. A cast iron, copper and aluminum burner spreads the 7,500 BTU of heat evenly under a pan, and one-touch ignition lights it in a single press. At $20.89, it is a practical butane stove for a weekend or as a backup at home.",
     "specs": [
       "2200 W (7500 BTU)",
       "Bucket-style folding design",
@@ -179,7 +179,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31VcXqbraSL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0007L8108?tag=rvgearlab-20",
-    "description": "Coghlan's Folding Stove is a coated steel stove with a 6.5 by 6.5 inch surface that weighs 16 oz and folds flat. It burns condensed fuels such as fuel cubes and solidified alcohol, per the listing.\n\nIt is the cheapest stove here and weighs only 16 oz, with no regulator or hose. It handles small and medium pots only.\n\nIt suits campers who want an emergency or backup stove. Fuel is sold separately.",
+    "description": "Coghlan's Folding Stove is a coated steel stove with a 6.5 by 6.5 inch surface that weighs 16 oz and folds flat. It burns condensed fuels such as fuel cubes and solidified alcohol, per the listing.\n\nIt is the cheapest stove here and weighs only 16 oz, with no regulator or hose. It handles small and medium pots only.\n\nIt suits campers who want an emergency or backup stove. Fuel is sold separately.\n\nFolding flat, this coated steel stove weighs 16 oz and gives a 6.5 by 6.5 inch cooking surface for a small pot or a cup of coffee. It burns fuel cubes or solidified alcohol, which means there is no regulator, hose or canister to buy. At $16.49 it is a simple backup that sits in a glove box, ready for an emergency brew.",
     "specs": [
       "6.5x6.5 inch surface, 16 oz",
       "Folds flat",
@@ -263,7 +263,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Cheapest butane stove."
         ]
       ]
-    }
+    },
+    "intro": "Family size decides how much cooking you do at once. One or two people can manage with a single burner and cook in turns, while three or more benefit from two burners that boil and fry together. Choose a stove that matches your usual dinner.",
+    "note": "ODSD 2 Burner and Coleman Triton suit families, and the Gas One stoves suit couples."
   },
   {
     "subheading": "By Budget",
@@ -286,7 +288,9 @@ export const howToChoose: HowToChooseSection[] = [
           "ODSD 20K Folding or Coleman Triton"
         ]
       ]
-    }
+    },
+    "intro": "Prices run from about $16 to $90 in this roundup, and the gap is mostly burner count and output. A single-burner stove costs a fraction of a two-burner and handles simple meals. Compare the price with how many people you cook for.",
+    "note": "Coghlan's Portable Folding Camp Stove is the cheapest, and BIG HORN is the best-value butane stove."
   },
   {
     "subheading": "Two-Burner vs Single Burner",
@@ -300,7 +304,8 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "The GasOne GS-3400P Dual Fuel, GasOne Butane and BIG HORN Folding are small, cheap and quick."
       }
     ],
-    "note": "Most families should choose the ODSD 20K Folding or Coleman Triton."
+    "note": "Choose Coleman Triton for family cooking, and Gas One GS-3400P for a spare or a solo stove.",
+    "intro": "A two-burner stove lets you run a pot and a pan together, which makes group meals straightforward. A single burner is smaller, cheaper and easier to stash, but dinner is cooked one dish at a time. The decision is mostly about how many people you feed."
   },
   {
     "subheading": "By Fuel Preference",
@@ -327,7 +332,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Coghlan's Folding Steel"
         ]
       ]
-    }
+    },
+    "intro": "Fuel decides cost, availability and cold-weather performance. Butane canisters are cheap and compact but fade in the cold, while propane is widely available and works in lower temperatures. A dual-fuel stove gives you both options.",
+    "note": "Gas One GS-3400P runs on butane or propane, and Coleman Triton runs on propane."
   },
   {
     "subheading": "For Weekend Family Camping Specifically",
@@ -340,7 +347,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "In this comparison",
         "text": "The Coleman Triton lists two wind guards and 22,000 BTU, and the ODSD 20K Folding includes a pan."
       }
-    ]
+    ],
+    "intro": "A weekend family trip means a few full meals, hot drinks and breakfast. Look for two burners, wind protection and a grate you can clean at camp. A stove with included accessories saves a trip to the store.",
+    "note": "ODSD 2 Burner Camping Stove with its pan and coffee stand is the all-in-one pick."
   },
   {
     "subheading": "When to Spend More",
@@ -353,7 +362,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "Save if",
         "text": "Save with the GasOne Butane or BIG HORN Folding for simple trips."
       }
-    ]
+    ],
+    "intro": "Family meals, windy camps and finer simmer control all point to a bigger spend, because those benefits come from larger two-burner stoves. A spare or a quick breakfast stove can be the cheaper one. Your meals should set the spend.",
+    "note": "Coleman Triton rewards extra spend, while BIG HORN and Coghlan's are the savings picks."
   }
 ];
 
@@ -383,23 +394,23 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "Do I need a two-burner for car camping?",
-    "a": "It makes family meals much easier, since you can boil and fry together. A single burner works for one or two people if you cook in turns. Think about your usual dinner before you decide."
+    "a": "It makes family meals much easier, since you can boil and fry together. The ODSD at 20,000 BTU and the Coleman Triton at 22,000 BTU can run a pot of pasta and a pan of sauce at once, which a 7,500 BTU single burner cannot. A single burner works for one or two people if you cook in turns. Think about your usual dinner before you decide."
   },
   {
     "q": "Can I use butane in the cold?",
-    "a": "It struggles, because butane vaporizes poorly in cold air. Warm the cartridge in a pocket before use. A dual-fuel or propane stove copes better."
+    "a": "It struggles, because butane vaporizes poorly in cold air, and below about freezing the flame can sputter or fade. Warm the cartridge in a pocket before use and keep it off cold ground. A dual-fuel or propane stove copes better, which makes the GasOne GS-3400P or Coleman Triton the safer picks for shoulder-season trips."
   },
   {
     "q": "Are folding stoves stable?",
-    "a": "They are stable on a flat table if the legs and supports are locked. Check the listed pan fit before loading a heavy pot. Keep the stove out of wind."
+    "a": "They are stable on a flat table if the legs and supports are locked. Check the listed pan fit before loading a heavy pot, because a large pan on a small top-heavy stove can tip. Keep the stove out of wind and away from table edges. A windshield such as the ODSD's also helps keep the flame steady."
   },
   {
     "q": "How do I connect propane safely?",
-    "a": "Use the regulator that fits the stove and tighten the fitting by hand. Check for leaks with soapy water, since bubbles reveal a leak. Cook outdoors only."
+    "a": "Use the regulator that fits the stove and tighten the fitting by hand. Check for leaks with soapy water, since bubbles reveal a leak, and replace a damaged hose before you cook. Cook outdoors only, with the cylinder upright and away from the flame and from tent fabric. Turn the cylinder valve off when you finish."
   },
   {
     "q": "How do I clean the stove?",
-    "a": "Cool it fully, remove the grate and wipe the cooktop with a damp cloth. Brush off the burner ports. Dry it before closing the lid."
+    "a": "Cool it fully, remove the grate and wipe the cooktop with a damp cloth. Brush off the burner ports with a soft brush so the flame stays even, and avoid pushing debris into the openings. Dry it before closing the lid so that moisture does not sit inside during storage. A wipe after each trip keeps grease from building up."
   }
 ];
 

@@ -60,10 +60,19 @@ facts we reviewed", "not listed in the features", "of the candidates we reviewed
 Amazon star ratings or review counts. Invented specs, certifications or statistics: if the task file
 does not contain a fact, you do not have it. A bare URL path in prose. The brand is "RV Gear Lab".
 
-## Distinctness
-Across your slugs, no 8-word run may repeat. Two guides about similar products must not get the same
-added paragraph with the noun swapped. Vary the sentence structure, not just the names.
+## Distinctness — wording AND structure
+Across your slugs, no 8-word run may repeat, and no three-word sentence opener may be used more than
+twice in the whole batch. Two guides about similar products must not get the same added paragraph with
+the noun swapped.
+
+Structure repeats are the failure readers notice first, and the 8-word check cannot see them. Do not
+close paragraph after paragraph on "It suits owners who...", "It is the pick for...", "This is the
+pick for...", and do not open comparison after comparison on "Against the...", "Compared with...".
+Vary where the sentence starts: lead with the buyer, with the situation, with the consequence, with
+the spec, with a short imperative. `node scripts/structure-lint.mjs <PATCH_DIR>` names every sentence
+that breaks this; rewrite those sentences and never relax its thresholds.
 
 ## Finish
-Run `node scripts/apply-additions.mjs <PATCH_DIR>` (no --write), fix everything it reports, re-run
-until it says 0 failed. Then report one line per slug with the words added, and anything you skipped.
+Run both gates, fix everything they report, and re-run until both are clean:
+  node scripts/apply-additions.mjs <PATCH_DIR>      # must end "0 failed"; never pass --write
+  node scripts/structure-lint.mjs <PATCH_DIR>       # must end "clean" Then report one line per slug with the words added, and anything you skipped.

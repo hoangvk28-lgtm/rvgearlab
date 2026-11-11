@@ -29,7 +29,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51wEsOW1M-L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B07FLK7V3H?tag=rvgearlab-20",
-    "description": "DanForce Bold-S is a USB rechargeable headlamp with a Luminus LED rated at 1080 lumens and a red light mode. It has an adjustable headband and a lightweight fit for long outdoor use.\n\nThe red light and rechargeable battery put it a step above the AAA models, and its listed brightness tops the group. It is the best fit for trail use where you need to see far.\n\nNight hikers and campers who spend long evenings outside will like the output and comfort. The band stays put on a brisk walk.",
+    "description": "DanForce Bold-S is a USB rechargeable headlamp with a Luminus LED rated at 1080 lumens and a red light mode. It has an adjustable headband and a lightweight fit for long outdoor use.\n\nThe red light and rechargeable battery put it a step above the AAA models, and its listed brightness tops the group. It is the best fit for trail use where you need to see far.\n\nNight hikers and campers who spend long evenings outside will like the output and comfort. The band stays put on a brisk walk.\n\nA Luminus LED rated at 1080 lumens throws the strongest beam in this group, which makes it the lamp for walking a dark trail or searching a wide campsite. USB charging keeps it topped up from a power bank or the truck, and the red light mode keeps night vision intact when you read a map or check a tent mate. The adjustable, lightweight band holds the lamp steady on a brisk walk.",
     "specs": [
       "1080 lumens, Luminus LED",
       "USB rechargeable",
@@ -59,7 +59,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41EL2+rhpnL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CZ78NBL3?tag=rvgearlab-20",
-    "description": "Sinvimes is a rechargeable headlamp with five modes and a listed battery life of 95 hours. It charges by USB-C and has a 125 degree adjustable angle with a comfortable headband.\n\nThe runtime and USB-C charging set it apart from the AAA-powered lamps, and the price is lower than the DanForce. It adds five modes for different tasks.\n\nCampers who want long runtime and USB-C will like it for multi-day trips. One USB-C cable keeps it ready.",
+    "description": "Sinvimes is a rechargeable headlamp with five modes and a listed battery life of 95 hours. It charges by USB-C and has a 125 degree adjustable angle with a comfortable headband.\n\nThe runtime and USB-C charging set it apart from the AAA-powered lamps, and the price is lower than the DanForce. It adds five modes for different tasks.\n\nCampers who want long runtime and USB-C will like it for multi-day trips. One USB-C cable keeps it ready.\n\nA listed battery life of 95 hours means a long weekend of evenings can pass between charges, and USB-C fast charging tops it up from the same cable as a phone. Five modes and a 125 degree tilt let you aim the beam at a stove, a map or a path without tipping your head. It suits campers who want one lamp for several trips between outlets.",
     "specs": [
       "95 hour listed battery life",
       "USB-C fast charging",
@@ -89,7 +89,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41evvXVMkIL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0BN4HDWQ2?tag=rvgearlab-20",
-    "description": "Energizer Vision HD+ comes as a 2-pack of 260 lumen LED headlamps with a beam distance up to 80 meters. They are IPX4 water resistant and suit emergencies, outdoor use and work.\n\nEnergizer's name and the IPX4 rating add confidence, and a pair means one for you and one for a friend. It is brighter than the Eveready lamps.\n\nCamping couples will like having two lamps for the price of one good one. Hand one over and both of you can work hands-free.",
+    "description": "Energizer Vision HD+ comes as a 2-pack of 260 lumen LED headlamps with a beam distance up to 80 meters. They are IPX4 water resistant and suit emergencies, outdoor use and work.\n\nEnergizer's name and the IPX4 rating add confidence, and a pair means one for you and one for a friend. It is brighter than the Eveready lamps.\n\nCamping couples will like having two lamps for the price of one good one. Hand one over and both of you can work hands-free.\n\nTwo 260 lumen lamps in the box mean a couple or a parent and child can each have hands-free light, and an 80 meter beam reaches well down a campground road. An IPX4 rating shrugs off splashes and light rain, so a lamp left on a picnic table survives an evening shower. Energizer's name makes it an easy pick for a family emergency kit.",
     "specs": [
       "Two 260 lumen headlamps",
       "80 meter beam distance",
@@ -119,7 +119,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41ffOTBYoBL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0B9GVXLKB?tag=rvgearlab-20",
-    "description": "Blukar is a rechargeable headlamp with three light sources and five modes, including main light, side light and zoom adjustment. It charges by USB-C in about 5 hours.\n\nIt is the cheapest rechargeable pick, and the zoom lets you switch between wide and long beam. The side light is handy for close work.\n\nBudget campers who want rechargeable power will like it. It tucks into a glovebox for emergencies.",
+    "description": "Blukar is a rechargeable headlamp with three light sources and five modes, including main light, side light and zoom adjustment. It charges by USB-C in about 5 hours.\n\nIt is the cheapest rechargeable pick, and the zoom lets you switch between wide and long beam. The side light is handy for close work.\n\nBudget campers who want rechargeable power will like it. It tucks into a glovebox for emergencies.\n\nThree light sources and five modes give this rechargeable lamp more variety than its price suggests: a main beam with adjustable zoom for distance, a wide flood for camp chores and a side light for close work. USB-C charging reuses the same cable as other gear. At $17.99, it brings rechargeable convenience to a casual camper without a big spend.",
     "specs": [
       "Rechargeable, USB-C",
       "5 modes with adjustable zoom",
@@ -149,7 +149,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FNhD2hzLL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B09LDJGLWX?tag=rvgearlab-20",
-    "description": "Eveready Pro200 comes as a 5-pack of LED headlamps with a beam of 165 feet. Each uses three AAA batteries and is designed for hands-free outdoor and home projects.\n\nFive lamps cover a family, a scout troop or a car kit, which none of the other packs do. It is the best fit for emergencies.\n\nGroups and families will like the stack of lamps for the price. Keep a spare in every vehicle and tent.",
+    "description": "Eveready Pro200 comes as a 5-pack of LED headlamps with a beam of 165 feet. Each uses three AAA batteries and is designed for hands-free outdoor and home projects.\n\nFive lamps cover a family, a scout troop or a car kit, which none of the other packs do. It is the best fit for emergencies.\n\nGroups and families will like the stack of lamps for the price. Keep a spare in every vehicle and tent.\n\nFive headlamps in a single pack, each throwing a 165 foot beam on three AAA batteries, outfits a family, a scout group or a series of vehicle kits for about $5 a lamp. The AAA power makes them simple to refresh anywhere a store sells batteries. They are practical to keep in a tent, a glove box and a camper drawer.",
     "specs": [
       "Five LED headlamps",
       "165-foot beam",
@@ -179,7 +179,7 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410GOiXwCsL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0DYSWT59X?tag=rvgearlab-20",
-    "description": "Amazon Basics includes two headlamps with seven lighting modes and a red light for added safety. Each tilts up to 45 degrees.\n\nIt is the lowest-priced pair, and seven modes is more than the Energizer or Eveready lamps offer. It makes a good spare set.\n\nCasual campers will like the modes and the price. Toss them in a kit and forget them until needed.",
+    "description": "Amazon Basics includes two headlamps with seven lighting modes and a red light for added safety. Each tilts up to 45 degrees.\n\nIt is the lowest-priced pair, and seven modes is more than the Energizer or Eveready lamps offer. It makes a good spare set.\n\nCasual campers will like the modes and the price. Toss them in a kit and forget them until needed.\n\nSeven lighting modes and a red light give a pair of headlamps more range than the price suggests, and the 45 degree tilt aims the beam at a task or the path. Two lamps cost just $10.49, which makes them a sensible spare set for a camper's kit. They suit casual trips where light is needed for tasks rather than long hikes.",
     "specs": [
       "Two headlamps",
       "7 lighting modes",
@@ -268,7 +268,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Five lamps."
         ]
       ]
-    }
+    },
+    "intro": "The right headlamp follows the job you give it. Cooking and tent chores need soft, close light, night hiking needs distance and long evenings need runtime. List the three tasks you do most and match them to a lamp.",
+    "note": "DanForce Bold-S is for trails, and Amazon Basics 2-Pack is for camp chores."
   },
   {
     "subheading": "By Budget",
@@ -291,7 +293,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Sinvimes Rechargeable or DanForce Bold-S"
         ]
       ]
-    }
+    },
+    "intro": "Headlamps in this group run from about $10 to $36, and price follows brightness and rechargeable power rather than build quality. Multi-packs offer the lowest cost per lamp. Decide whether you want one great lamp or several decent ones.",
+    "note": "Amazon Basics 2-Pack is the cheapest, and Blukar is the cheapest rechargeable."
   },
   {
     "subheading": "Rechargeable vs Battery",
@@ -305,7 +309,8 @@ export const howToChoose: HowToChooseSection[] = [
         "text": "Easy refuel with spare cells. Energizer Pro 2-Pack and Eveready Pro200 5-Pack use batteries."
       }
     ],
-    "note": "Most campers should default to Sinvimes Rechargeable."
+    "note": "Choose Sinvimes for multi-day trips and Energizer or Eveready for emergency kits.",
+    "intro": "A rechargeable headlamp costs less to run and is easy to top up from a power bank. A battery lamp is easy to refresh anywhere and is not affected by a dead charger. The choice depends on how far you are from power and how long you stay out."
   },
   {
     "subheading": "By Feature",
@@ -328,7 +333,9 @@ export const howToChoose: HowToChooseSection[] = [
           "Energizer Pro 2-Pack"
         ]
       ]
-    }
+    },
+    "intro": "Features such as a red light, a zoom beam, USB-C charging or a long runtime each solve a different problem. No lamp has them all, so decide which you will use most. A single standout feature is often worth more than a long spec list.",
+    "note": "DanForce has red light and brightness, Blukar has zoom and Sinvimes has runtime."
   },
   {
     "subheading": "For Backpacking Specifically",
@@ -341,7 +348,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "In this comparison",
         "text": "DanForce Bold-S has red light, and Energizer Pro 2-Pack is IPX4."
       }
-    ]
+    ],
+    "intro": "Backpacking calls for a lamp that is light, runs a long time and charges from a small power bank. Look for USB-C charging, a long listed runtime and a comfortable band. Pack weight matters more than a bright peak setting.",
+    "note": "Sinvimes 99000 and Blukar are the best backpacking picks."
   },
   {
     "subheading": "When to Spend More",
@@ -354,7 +363,9 @@ export const howToChoose: HowToChooseSection[] = [
         "label": "Save if",
         "text": "Save with Amazon Basics 2-Pack."
       }
-    ]
+    ],
+    "intro": "Night hiking, or relying on the lamp for several evenings, justifies spending more, since brightness, runtime and comfort add up. A spare for the glove box can be a budget lamp. Tie the cost to how often you will wear it.",
+    "note": "DanForce Bold-S rewards extra spend, while Amazon Basics and Eveready are the savings picks."
   }
 ];
 
@@ -384,23 +395,23 @@ export const buyingCriteria = [
 export const faq = [
   {
     "q": "How many lumens do I need for camping?",
-    "a": "About 100 to 200 lumens covers cooking and tent tasks. Trail walking at night is better with 200 or more. Very high listed numbers usually apply only to a short burst."
+    "a": "About 100 to 200 lumens covers cooking and tent tasks. Trail walking at night is better with 200 or more, and the Energizer's 260 lumens and 80 meter beam suit that job. Very high listed numbers, such as the 1080 lumens on the DanForce, usually apply to a short burst on the top setting. Look at beam distance and runtime on the mode you will actually use."
   },
   {
     "q": "Is a red light mode worth having?",
-    "a": "Yes, because red light preserves your night vision and does not annoy tent mates. It is also good for reading a map. DanForce Bold-S and Amazon Basics 2-Pack both list a red mode."
+    "a": "Yes, because red light preserves your night vision and does not annoy tent mates. It is also good for reading a map or checking gear without blinding the person next to you. DanForce Bold-S and Amazon Basics 2-Pack both list a red mode. Use it around camp and keep white light for the trail."
   },
   {
     "q": "Is a rechargeable headlamp better than AAA?",
-    "a": "Rechargeable lamps save money and are easy to top up with a power bank. AAA lamps are simple to refresh with spare cells on a long trip. Carry whichever fuel you can replace."
+    "a": "Rechargeable lamps save money and are easy to top up with a power bank. Sinvimes lists 95 hours and Blukar charges by USB-C in about 5 hours. AAA lamps such as Energizer and Eveready are simple to refresh with spare cells on a long trip, and alkaline cells fade faster in the cold. Carry whichever fuel you can replace."
   },
   {
     "q": "How do I adjust a headlamp for comfort?",
-    "a": "Fit the band snugly across the forehead and back of the head, then tilt the lamp so the beam hits the ground ahead of you. Avoid overtightening, which causes headaches. Check the angle before leaving camp."
+    "a": "Fit the band snugly across the forehead and back of the head, then tilt the lamp so the beam hits the ground ahead of you. Avoid overtightening, which causes headaches. A lamp that slips forward during a walk is usually a sign that the rear strap needs to sit lower. Check the angle before leaving camp."
   },
   {
     "q": "How should I store a headlamp?",
-    "a": "Remove AAA batteries from battery lamps to prevent leaks and top up rechargeable ones to about half. Store it in a dry place. Keep it from switching on in a pack."
+    "a": "Remove AAA batteries from battery lamps to prevent leaks and top up rechargeable ones to about half. Store it in a dry place away from heat. Keep it from switching on in a pack, either by locking the switch or turning the lamp around in its band. A quick test before each trip saves surprises."
   }
 ];
 
