@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Highest cost per foot",
       "Wide roll is hard to reposition"
     ],
-    "bestFor": "White roofs"
+    "bestFor": "Sunny climates and white roofs, wanting the original brand and very high elongation."
   },
   {
     "id": "best-6-inch-eternabond-tape-for-rv-roof-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Black backing shows on white roofs",
       "Highest price in the list"
     ],
-    "bestFor": "Metal and dark roofs"
+    "bestFor": "Metal or dark roofs that need re-seaming with a permanent, watertight black tape."
   },
   {
     "id": "best-6-inch-eternabond-tape-for-rv-roof-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "No MicroSealant layer",
       "Basic listing details"
     ],
-    "bestFor": "Wide tears on budget"
+    "bestFor": "Wide tears on a budget, patched with self-priming butyl that stays flexible."
   },
   {
     "id": "best-6-inch-eternabond-tape-for-rv-roof-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Mid price among butyl tapes",
       "Less brand history"
     ],
-    "bestFor": "Visible wide seams"
+    "bestFor": "Wide seams that call for a natural white finish and silicone UV coating."
   },
   {
     "id": "best-6-inch-eternabond-tape-for-rv-roof-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Little brand history",
       "Basic documentation"
     ],
-    "bestFor": "Low-cost wide roll"
+    "bestFor": "Wide rolls at the lowest cost, with high expansion and a three-step install."
   },
   {
     "id": "best-6-inch-eternabond-tape-for-rv-roof-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Title and bullets disagree on width",
       "Priced above other butyl rolls"
     ],
-    "bestFor": "Large tears if verified"
+    "bestFor": "Covering broad areas with a chemical-resistant, airtight butyl and PDA film roll."
   }
 ];
 

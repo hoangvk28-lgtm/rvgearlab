@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Narrow 2 inch width",
       "Higher cost than generic rolls"
     ],
-    "bestFor": "Long narrow seams"
+    "bestFor": "Narrow seams along 50 ft runs, with 35 mil MicroSealant under UV-stable backing."
   },
   {
     "id": "best-eternabond-tape-for-epdm-rv-roof-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Sparse listing details",
       "Seller-sourced roll"
     ],
-    "bestFor": "Moderate seams"
+    "bestFor": "Mid-width seams on a roof or mobile home, using a long 50 ft roll."
   },
   {
     "id": "best-eternabond-tape-for-epdm-rv-roof-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Only 10 feet long",
       "Not for long seams"
     ],
-    "bestFor": "Single small repair"
+    "bestFor": "A one-off patch, where a small 3 inch by 10 ft white roll will do."
   },
   {
     "id": "best-eternabond-tape-for-epdm-rv-roof-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Only 10 feet long",
       "Color suits fewer roofs"
     ],
-    "bestFor": "Tan trim patches"
+    "bestFor": "Roof trim where tan matches the finish, with a 4 inch overlap for one patch."
   },
   {
     "id": "best-eternabond-tape-for-epdm-rv-roof-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Black shows on white roofs",
       "Not an EternaBond product"
     ],
-    "bestFor": "Dark wide seams"
+    "bestFor": "Dark roofs with wide seams, sealed with 6 inch self-priming black butyl."
   },
   {
     "id": "best-eternabond-tape-for-epdm-rv-roof-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Highest price in the list",
       "Wide tape is hard to place"
     ],
-    "bestFor": "Large tears"
+    "bestFor": "Big tears that need 12 inch coverage which conforms to curves."
   }
 ];
 

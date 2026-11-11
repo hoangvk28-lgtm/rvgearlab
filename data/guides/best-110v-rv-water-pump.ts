@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Needs an outlet or inverter",
       "No adjustable range stated"
     ],
-    "bestFor": "Moderate-pressure RVs"
+    "bestFor": "Shore-powered rigs wanting steady 50 PSI and water drawn from 9.8 feet below."
   },
   {
     "id": "best-110v-rv-water-pump-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Needs an outlet or inverter",
       "Newer brand"
     ],
-    "bestFor": "Lower-pressure plumbing"
+    "bestFor": "Tuning pressure between 17 and 50 PSI for a rig with three or four fixtures."
   },
   {
     "id": "best-110v-rv-water-pump-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Three-chamber design is noisier",
       "Needs an outlet or inverter"
     ],
-    "bestFor": "Older plumbing"
+    "bestFor": "Buyers who want the lowest 45 PSI shut-off on 110V at a bargain price."
   },
   {
     "id": "best-110v-rv-water-pump-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Not adjustable",
       "Needs an outlet or inverter"
     ],
-    "bestFor": "Long-run use"
+    "bestFor": "Long transfer jobs running over an hour, pulling water from up to 148 feet."
   },
   {
     "id": "best-110v-rv-water-pump-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "70 PSI may exceed your RV's limit",
       "Needs an outlet or inverter"
     ],
-    "bestFor": "High-flow needs"
+    "bestFor": "Households running several fixtures at once who want 5.5 GPM and quieter four-chamber operation."
   },
   {
     "id": "best-110v-rv-water-pump-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Not a 110 volt pump",
       "70 PSI may exceed your RV's limit"
     ],
-    "bestFor": "12 volt alternative"
+    "bestFor": "Off-grid campers running from a 12V battery, with fittings and strainer in the box."
   }
 ];
 

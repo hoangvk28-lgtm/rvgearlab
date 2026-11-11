@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "Many pieces to pack",
       "Nonstick needs gentle tools"
     ],
-    "bestFor": "Couples",
+    "bestFor": "Couples cooking real meals, with a 2 qt pot and a 0.8L kettle for coffee.",
     "take": "The most complete set for two people who cook real meals.",
     "catch": "More pieces than a solo trip needs."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "Heavier than mini sets",
       "Not for ultralight trips"
     ],
-    "bestFor": "Small families",
+    "bestFor": "Family camps needing a 1.70L pot, a 1.15L kettle and a 7 inch frying pan.",
     "take": "A roomy set that covers pan, pot and kettle.",
     "catch": "Weight adds up for hike-in trips."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Smaller kettle than rivals",
       "Fewer details on utensils"
     ],
-    "bestFor": "Pack-conscious cooks",
+    "bestFor": "Packing light into a tote or pack, since the 1.7L pot and 1.1L kettle nest together.",
     "take": "The tidiest-packing full set here.",
     "catch": "Check the contents list before you buy."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Nonstick coating can scratch",
       "Less known brand"
     ],
-    "bestFor": "Campfire cooks",
+    "bestFor": "Cooking over open flames, hanging the nonstick pot from a bar above the fire.",
     "take": "A budget set built for fire and stove.",
     "catch": "Use wooden or silicone tools."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Small for groups",
       "No kettle in listing"
     ],
-    "bestFor": "Solo hikers",
+    "bestFor": "One or two people backpacking and counting ounces, at 1.72 pounds with folding handles.",
     "take": "The lightest option here.",
     "catch": "Small volume limits meals."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "No pot size listed",
       "Basic build"
     ],
-    "bestFor": "Casual campers",
+    "bestFor": "Occasional campers wanting utensils, a sponge and a mesh bag at the lowest price.",
     "take": "The cheapest way to get cooking.",
     "catch": "Check the size before you buy."
   }

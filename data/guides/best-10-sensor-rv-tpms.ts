@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Priced at the top of the range",
       "Sensor type not stated"
     ],
-    "bestFor": "Touchscreen ten-sensor"
+    "bestFor": "Owners who want one color touchscreen page covering up to 22 tires."
   },
   {
     "id": "best-10-sensor-rv-tpms-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Sensor type not stated",
       "Priced near the top"
     ],
-    "bestFor": "46-tire display"
+    "bestFor": "Long combinations that need a signal repeater and room to grow toward 46 tires."
   },
   {
     "id": "best-10-sensor-rv-tpms-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Listing does not state sensor type",
       "Priced above most 10-sensor kits"
     ],
-    "bestFor": "Pre-paired"
+    "bestFor": "Anyone mounting ten sensors who wants them pre-marked and pre-paired, with no setup fuss."
   },
   {
     "id": "best-10-sensor-rv-tpms-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Only five alert modes",
       "Pressure range not in the headline"
     ],
-    "bestFor": "Solar external"
+    "bestFor": "Drivers who want a solar-charged 4.3 inch monitor and a loud 95 dB alarm."
   },
   {
     "id": "best-10-sensor-rv-tpms-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Large display needs space",
       "Sensor mount type not stated"
     ],
-    "bestFor": "7 inch solar"
+    "bestFor": "Rigs that swap between four and ten wheel setups and want a big 7 inch screen."
   },
   {
     "id": "best-10-sensor-rv-tpms-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Only four sensors",
       "Sensor type not stated"
     ],
-    "bestFor": "Four sensors, expandable"
+    "bestFor": "Starting small with four pre-paired sensors, then adding tires later, up to ten."
   }
 ];
 

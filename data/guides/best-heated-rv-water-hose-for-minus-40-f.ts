@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Costs more than PBPHX or RVshark",
       "Rated -40°F, not -45°F"
     ],
-    "bestFor": "Certified -40°F"
+    "bestFor": "Deep-freeze camping, with 50 ft of NSF 372 lead-free hose rated to -40°F."
   },
   {
     "id": "best-heated-rv-water-hose-for-minus-40-f-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Only 40 ft, not 50",
       "Priced above the PBPHX 25FT"
     ],
-    "bestFor": "40 ft certified"
+    "bestFor": "Mid-length hookups needing 40 ft of certified protection to -40°F with smart temperature control."
   },
   {
     "id": "best-heated-rv-water-hose-for-minus-40-f-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Title and text ratings differ",
       "Thin spec detail"
     ],
-    "bestFor": "50 ft with self-regulating thermostat"
+    "bestFor": "Winter sites needing 50 ft with an external self-regulating thermostat at a midrange price."
   },
   {
     "id": "best-heated-rv-water-hose-for-minus-40-f-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Title and text ratings differ",
       "Thin spec detail"
     ],
-    "bestFor": "Lowest cost short hose"
+    "bestFor": "Short hookups at the lowest price, using a self-regulating thermostat."
   },
   {
     "id": "best-heated-rv-water-hose-for-minus-40-f-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "No freeze rating in the title",
       "Little thermostat detail"
     ],
-    "bestFor": "Reinforced 50 ft"
+    "bestFor": "Drinking water lines where a five-layer reinforced build and lead-free hose matter."
   },
   {
     "id": "best-heated-rv-water-hose-for-minus-40-f-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Title says -45°F, text says -40°F",
       "Highest price of the six"
     ],
-    "bestFor": "Five-layer shell"
+    "bestFor": "Swinging temperatures, since heating output varies with the cold, in a five-layer shell with adapter."
   }
 ];
 

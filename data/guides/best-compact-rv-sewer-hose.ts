@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
       "Higher price than SheeChung",
       "Only one hose"
     ],
-    "bestFor": "Overall"
+    "bestFor": "A 15 ft hose that compresses to 53 inches, with an adapter fitting six sewer types."
   },
   {
     "id": "best-compact-rv-sewer-hose-2",
@@ -69,7 +69,7 @@ export const products: GuideProduct[] = [
       "Needs a hose support",
       "Not a hose"
     ],
-    "bestFor": "Odor Add-On"
+    "bestFor": "Campsites with sewer odor or flies, leaving the valve open behind a water seal."
   },
   {
     "id": "best-compact-rv-sewer-hose-3",
@@ -96,7 +96,7 @@ export const products: GuideProduct[] = [
       "Two sections add a joint",
       "Adapter details limited"
     ],
-    "bestFor": "Packability"
+    "bestFor": "Tight storage compartments that must hold 20 ft of hose collapsed to just 25 inches."
   },
   {
     "id": "best-compact-rv-sewer-hose-4",
@@ -123,7 +123,7 @@ export const products: GuideProduct[] = [
       "No elbow included",
       "Packed length not stated"
     ],
-    "bestFor": "Collapsible Extension"
+    "bestFor": "Extending an existing Camco hose by 10 ft, using a wire core that holds shape."
   },
   {
     "id": "best-compact-rv-sewer-hose-5",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
       "Collapsed length not stated",
       "Less brand history"
     ],
-    "bestFor": "Tough Compact"
+    "bestFor": "Owners wanting a thicker 24 mil TPE wall than vinyl, in one hose with no joint."
   },
   {
     "id": "best-compact-rv-sewer-hose-6",
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
       "Thin 12 mil wall",
       "Fittings not included"
     ],
-    "bestFor": "Budget"
+    "bestFor": "The cheapest 20 ft hose, with a wire core that suits threaded and slip fittings."
   }
 ];
 

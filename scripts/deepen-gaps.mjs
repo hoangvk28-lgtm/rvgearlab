@@ -13,6 +13,7 @@ import path from "node:path";
 const DESC_MIN = 130;   // words per product description
 const FAQ_MIN = 45;     // words per answer
 const HTC_MIN = 55;     // words per Decision guide sub-section
+const BESTFOR_MIN = 6;  // words in a product's "Best for" line
 
 const wc = (t) => (String(t).match(/[A-Za-z0-9][\w'’.$%-]*/g) || []).length;
 function locate(src, name) {
@@ -44,11 +45,12 @@ if (mode === "--audit") {
     const thinDesc = g.products.filter((p) => wc(p.description) < DESC_MIN).length;
     const thinFaq = g.faq.filter((e) => wc(e.a) < FAQ_MIN).length;
     const thinHtc = g.htc.filter((s) => wc(JSON.stringify(s)) < HTC_MIN).length;
-    rows.push({ slug: g.slug, products: g.products.length, thinDesc, thinFaq, thinHtc,
+    const thinBestFor = g.products.filter((p) => wc(p.bestFor || "") < BESTFOR_MIN).length;
+    rows.push({ slug: g.slug, products: g.products.length, thinDesc, thinFaq, thinHtc, thinBestFor,
       faqN: g.faq.length,
       descWords: g.products.reduce((a, p) => a + wc(p.description), 0),
       faqWords: wc(JSON.stringify(g.faq)), htcWords: wc(JSON.stringify(g.htc)),
-      gapScore: thinDesc * 60 + thinFaq * 35 + thinHtc * 40 });
+      gapScore: thinDesc * 60 + thinFaq * 35 + thinHtc * 40 + thinBestFor * 20 });
   }
   rows.sort((a, b) => b.gapScore - a.gapScore);
   fs.writeFileSync(process.argv[3], JSON.stringify(rows, null, 1));
@@ -56,6 +58,7 @@ if (mode === "--audit") {
   console.log(`thin product descriptions (<${DESC_MIN}w): ${rows.reduce((a, r) => a + r.thinDesc, 0)} across ${rows.filter((r) => r.thinDesc).length} guides`);
   console.log(`thin faq answers (<${FAQ_MIN}w): ${rows.reduce((a, r) => a + r.thinFaq, 0)} across ${rows.filter((r) => r.thinFaq).length} guides`);
   console.log(`thin decision-guide sections (<${HTC_MIN}w): ${rows.reduce((a, r) => a + r.thinHtc, 0)} across ${rows.filter((r) => r.thinHtc).length} guides`);
+  console.log(`label-only "Best for" lines (<${BESTFOR_MIN}w): ${rows.reduce((a, r) => a + r.thinBestFor, 0)} across ${rows.filter((r) => r.thinBestFor).length} guides`);
 } else if (mode === "--tasks") {
   const outDir = process.argv[3];
   fs.mkdirSync(outDir, { recursive: true });
@@ -68,8 +71,12 @@ if (mode === "--audit") {
       productNames: g.products.map((p) => p.name),
       needDescParagraph: g.products.filter((p) => wc(p.description) < DESC_MIN).map((p) => ({
         asin: /dp\/([A-Z0-9]{10})/.exec(p.amazonUrl)?.[1], name: p.name, price: p.price,
+        badge: p.badge, bestFor: p.bestFor, bestForWords: wc(p.bestFor || ""),
         specs: p.specs, pros: p.pros, cons: p.cons, words: wc(p.description),
         currentDescription: p.description })),
+      needBestFor: g.products.filter((p) => wc(p.bestFor || "") < BESTFOR_MIN).map((p) => ({
+        asin: /dp\/([A-Z0-9]{10})/.exec(p.amazonUrl)?.[1], name: p.name,
+        badge: p.badge, currentBestFor: p.bestFor || "", specs: p.specs, pros: p.pros })),
       needLongerAnswer: g.faq.filter((e) => wc(e.a) < FAQ_MIN).map((e) => ({ q: e.q, words: wc(e.a), currentAnswer: e.a })),
       faqCount: g.faq.length,
       needThickerSection: g.htc.filter((s) => wc(JSON.stringify(s)) < HTC_MIN).map((s) => ({

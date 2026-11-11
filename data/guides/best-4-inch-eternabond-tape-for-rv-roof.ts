@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Black backing shows on white roofs",
       "Highest price here"
     ],
-    "bestFor": "Permanent seams"
+    "bestFor": "Permanent seam repairs on mixed roof materials, with 35 mil sealant under UV-stable backing."
   },
   {
     "id": "best-4-inch-eternabond-tape-for-rv-roof-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Brand documentation is thin",
       "Not a MicroSealant tape"
     ],
-    "bestFor": "Mixed surfaces"
+    "bestFor": "Roofs with flat runs, curves and corners that need one white butyl tape."
   },
   {
     "id": "best-4-inch-eternabond-tape-for-rv-roof-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Higher price than other butyl tapes",
       "Less brand track record"
     ],
-    "bestFor": "Visible white seams"
+    "bestFor": "Repairs on uneven surfaces in any temperature, finished in a natural white."
   },
   {
     "id": "best-4-inch-eternabond-tape-for-rv-roof-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Basic documentation",
       "No named elongation figure"
     ],
-    "bestFor": "Budget white seams"
+    "bestFor": "White roofs where a sunlight-reflecting tape keeps seams cooler, with no extra sealing needed."
   },
   {
     "id": "best-4-inch-eternabond-tape-for-rv-roof-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Basic listing details",
       "No MicroSealant layer"
     ],
-    "bestFor": "Cheapest 4 inch"
+    "bestFor": "Low-cost butyl repairs along curved sections that need a flexible, self-priming white tape."
   },
   {
     "id": "best-4-inch-eternabond-tape-for-rv-roof-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Width stated inconsistently",
       "Little brand history"
     ],
-    "bestFor": "Budget buyers who verify size"
+    "bestFor": "Tight budgets where a waterproof, chemical-resistant butyl and PDA film tape will do."
   }
 ];
 

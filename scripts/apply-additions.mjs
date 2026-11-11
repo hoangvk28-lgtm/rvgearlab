@@ -11,6 +11,7 @@
 // Patch file: <patchDir>/<slug>.json
 // {
 //   "descAdd": { "<ASIN>": "one new paragraph, 45-90 words" },
+//   "bestFor": { "<ASIN>": "the use cases this pick is for, 6-16 words" },
 //   "faqA":    { "<existing question, verbatim>": "longer answer, 3-5 sentences" },
 //   "faqAdd":  [ { "q": "...", "a": "3-5 sentences" } ],
 //   "htc":     [ { "subheading": "<existing subheading, verbatim>",
@@ -62,15 +63,15 @@ for (const file of fs.readdirSync(patchDir).filter((f) => f.endsWith(".json"))) 
   let addedWords = 0;
 
   // ---- product descriptions: append one paragraph, facts untouched ----
-  if (patch.descAdd && Object.keys(patch.descAdd).length) {
+  if ((patch.descAdd && Object.keys(patch.descAdd).length) || (patch.bestFor && Object.keys(patch.bestFor).length)) {
     const loc = locate(src, "products");
     if (!loc) errs.push("no products block");
     else {
       let products;
       try { products = JSON.parse(loc.raw); } catch { errs.push("products block is not plain JSON (legacy shape, needs a hand edit)"); }
       if (products) {
-        const before = JSON.stringify(products.map((p) => ({ ...p, description: undefined })));
-        for (const [asin, para] of Object.entries(patch.descAdd)) {
+        const before = JSON.stringify(products.map((p) => ({ ...p, description: undefined, bestFor: undefined })));
+        for (const [asin, para] of Object.entries(patch.descAdd || {})) {
           const p = products.find((x) => (x.amazonUrl || "").includes(asin));
           if (!p) { errs.push(`descAdd ${asin}: no such product in this guide`); continue; }
           const w = wc(para);
@@ -82,8 +83,18 @@ for (const file of fs.readdirSync(patchDir).filter((f) => f.endsWith(".json"))) 
           p.description = `${p.description}\n\n${para}`;
           addedWords += w;
         }
-        const after = JSON.stringify(products.map((p) => ({ ...p, description: undefined })));
-        if (before !== after) errs.push("product facts changed; this script may only add description text");
+        for (const [asin, text] of Object.entries(patch.bestFor || {})) {
+          const p = products.find((x) => (x.amazonUrl || "").includes(asin));
+          if (!p) { errs.push(`bestFor ${asin}: no such product in this guide`); continue; }
+          const w = wc(text);
+          if (w < 5 || w > 18) errs.push(`bestFor ${asin}: ${w} words (need 6-16: the use cases, not a label)`);
+          const badge = (p.badge || "").replace(/^Best\s+/i, "").trim().toLowerCase();
+          if (badge && text.trim().toLowerCase() === badge) errs.push(`bestFor ${asin}: just repeats the badge`);
+          if (/[.!?]$/.test(text.trim()) === false) errs.push(`bestFor ${asin}: should end with a period`);
+          p.bestFor = text.trim();
+        }
+        const after = JSON.stringify(products.map((p) => ({ ...p, description: undefined, bestFor: undefined })));
+        if (before !== after) errs.push("product facts changed; this script may only add description and bestFor text");
         edits.push([loc.start, loc.end, JSON.stringify(products, null, 2)]);
       }
     }

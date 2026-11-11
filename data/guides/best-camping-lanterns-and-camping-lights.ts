@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "Batteries not included",
       "D cells are bulky"
     ],
-    "bestFor": "Table light",
+    "bestFor": "Table and tent lighting, with warm or cool white and dimming up to 1000 lumens.",
     "take": "A dependable lantern for family campsites.",
     "catch": "Buy fresh D cells before the trip."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "Solar charging is slow",
       "Lumen claim is optimistic"
     ],
-    "bestFor": "All-weather camps",
+    "bestFor": "Wet or long-stay camps, charged by sun or USB, with IP65 protection and red light.",
     "take": "A rechargeable lantern for rainy weekends.",
     "catch": "Charge by USB before you go."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Plastic build",
       "Many modes to cycle"
     ],
-    "bestFor": "Tent and work light",
+    "bestFor": "Tent lighting and workshop-style tasks, using seven modes and an angle-adjustable body.",
     "take": "A flexible lantern with plenty of modes.",
     "catch": "Cycling modes takes patience."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Less bright than big lanterns",
       "Small battery"
     ],
-    "bestFor": "Backpacking",
+    "bestFor": "Backpackers wanting a phone-size collapsible lantern charged by sun or USB.",
     "take": "A pocket-size lantern for light packers.",
     "catch": "Not the brightest option."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Needs batteries",
       "Basic brightness"
     ],
-    "bestFor": "Groups and power outages",
+    "bestFor": "Groups and power outages, with four collapsible lanterns each lighting about 97 square feet.",
     "take": "The cheapest way to light a whole camp.",
     "catch": "Uses batteries in each lantern."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "Lower brightness",
       "Single mode"
     ],
-    "bestFor": "Casual campers",
+    "bestFor": "Pocket carry, pulling up to light and pushing down to switch off.",
     "take": "A cheap, easy lantern for tents.",
     "catch": "Dimmer than other lanterns."
   }

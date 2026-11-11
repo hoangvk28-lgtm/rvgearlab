@@ -343,7 +343,7 @@ export function BuyButton({ href, name, label = "Check price on Amazon", compact
       href={href}
       target="_blank"
       rel={AMAZON_REL}
-      className={`inline-flex items-center justify-center gap-2 rounded-btn bg-cta font-semibold !text-white transition-colors hover:bg-cta-dark focus-ring ${compact ? "px-3 py-2 text-xs" : "w-full px-5 py-3 text-sm"}`}
+      className={`inline-flex shrink-0 items-center justify-center gap-2 whitespace-nowrap rounded-btn bg-cta !text-white transition-colors hover:bg-cta-dark focus-ring ${compact ? "px-4 py-2 text-xs font-bold" : "w-full px-5 py-3 text-sm font-semibold"}`}
     >
       {AMAZON_ICON}
       {label}

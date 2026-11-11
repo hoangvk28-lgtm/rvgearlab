@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { SafeImage } from "@/components/editorial/SafeImage";
+import { BuyButton } from "@/components/guide/editorial/GuideProductPick";
 
 export interface AtAGlanceItem {
   rank: number;
@@ -28,9 +29,7 @@ function Row({ item }: { item: AtAGlanceItem }) {
           <a href={`#${item.anchorId}`} className="line-clamp-2 block text-sm font-semibold leading-snug !text-ink hover:!text-cta-dark">{item.name}</a>
           <a href={`#${item.anchorId}`} className="mt-0.5 inline-block text-[11px] !text-ink-muted hover:!text-forest">↓ See why we picked it</a>
         </div>
-        <a href={item.affiliateUrl} target="_blank" rel="nofollow sponsored noopener noreferrer" className="shrink-0 whitespace-nowrap rounded-btn bg-cta px-4 py-2 text-xs font-bold !text-white transition-colors hover:bg-cta-dark">
-          Check price
-        </a>
+        <BuyButton href={item.affiliateUrl} name={item.name} label="Check price" compact />
       </div>
       {(item.pros.length > 0 || item.cons.length > 0) && (
         <>

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Fitting types need checking",
       "Plastic construction"
     ],
-    "bestFor": "Rotating and termination parts"
+    "bestFor": "Dump setups needing a rotating connection piece and a termination piece in one pack."
   },
   {
     "id": "best-3-inch-rv-sewer-hose-connector-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "PVC needs cement to seal",
       "Higher price than TonGass"
     ],
-    "bestFor": "PVC drain lines"
+    "bestFor": "Sites with permanent PVC drain lines where a bayonet hose must connect to rigid pipe."
   },
   {
     "id": "best-3-inch-rv-sewer-hose-connector-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Needs two hoses",
       "More parts to store"
     ],
-    "bestFor": "Dual-hose dumping"
+    "bestFor": "Rigs with two separate hoses that need to empty through one sewer inlet."
   },
   {
     "id": "best-3-inch-rv-sewer-hose-connector-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "No swivel",
       "Short extension only"
     ],
-    "bestFor": "Short extensions"
+    "bestFor": "Stretching a run a short distance with a straight adapter, reinforced ears and included seal."
   },
   {
     "id": "best-3-inch-rv-sewer-hose-connector-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Sparse listing details",
       "No gasket named"
     ],
-    "bestFor": "Plain couplers"
+    "bestFor": "Mobile home or RV owners joining pipe with a plain non-threaded 3 inch coupler."
   },
   {
     "id": "best-3-inch-rv-sewer-hose-connector-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Not a connector",
       "Plastic may flex"
     ],
-    "bestFor": "Tight bayonet fittings"
+    "bestFor": "Anyone who struggles to twist tight bayonet fittings and needs extra leverage."
   }
 ];
 

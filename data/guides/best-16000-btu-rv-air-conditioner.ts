@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Needs a strong power source",
       "Top price tier"
     ],
-    "bestFor": "Quiet heat pump"
+    "bestFor": "Quiet cooling plus shoulder-season heat from a heat pump on a 14.25 inch roof opening."
   },
   {
     "id": "best-16000-btu-rv-air-conditioner-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Same unit as white model",
       "Needs a strong power source"
     ],
-    "bestFor": "Black finish"
+    "bestFor": "Owners who want a black finish, 43 dB operation and a 23°F to 115°F range."
   },
   {
     "id": "best-16000-btu-rv-air-conditioner-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Cooling only",
       "Needs 115V AC and 12V DC"
     ],
-    "bestFor": "Non-ducted cooling"
+    "bestFor": "Rigs with no ceiling ductwork that want dual compressors under an impact-resistant shell."
   },
   {
     "id": "best-16000-btu-rv-air-conditioner-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Cooling only",
       "Needs 115V AC and 12V DC"
     ],
-    "bestFor": "Ducted install"
+    "bestFor": "Coaches with existing ceiling ducts that want dual compressors at about 59 dB."
   },
   {
     "id": "best-16000-btu-rv-air-conditioner-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Cooling figure inconsistent in listing",
       "Highest price of the six"
     ],
-    "bestFor": "Large rigs wanting heat"
+    "bestFor": "Large rigs wanting up to 12,000 BTU of heat and a wide automatic air swing."
   },
   {
     "id": "best-16000-btu-rv-air-conditioner-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Portable, not a rooftop unit",
       "Needs a window or vent exit"
     ],
-    "bestFor": "No rooftop install"
+    "bestFor": "Anyone who can't cut a roof opening, using a dual-hose inverter unit instead."
   }
 ];
 

@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
       "Strap quality not detailed",
       "Height range not listed"
     ],
-    "bestFor": "Overall"
+    "bestFor": "Campers who carry the support by strap and need it to bend around obstacles."
   },
   {
     "id": "best-15-ft-rv-sewer-hose-support-2",
@@ -69,7 +69,7 @@ export const products: GuideProduct[] = [
       "No strap included",
       "Same specs as orange"
     ],
-    "bestFor": "Plain Support"
+    "bestFor": "Quick setups with no assembly, a deep cradle and a black body that hides dirt."
   },
   {
     "id": "best-15-ft-rv-sewer-hose-support-3",
@@ -96,7 +96,7 @@ export const products: GuideProduct[] = [
       "No strap included",
       "Color may fade in sun"
     ],
-    "bestFor": "Visible Color"
+    "bestFor": "Campsites where a bright orange support is easy to spot and avoid kicking."
   },
   {
     "id": "best-15-ft-rv-sewer-hose-support-4",
@@ -123,7 +123,7 @@ export const products: GuideProduct[] = [
       "Ropes need staking",
       "Plastic grade not named"
     ],
-    "bestFor": "Adjustable"
+    "bestFor": "Uneven or windy pads where nine height settings and four guy ropes hold the slope."
   },
   {
     "id": "best-15-ft-rv-sewer-hose-support-5",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
       "Hose must be unfolded first",
       "No ropes or strap"
     ],
-    "bestFor": "Wide Base"
+    "bestFor": "Busy sites where the hose could get bumped, since the wide base resists tipping."
   },
   {
     "id": "best-15-ft-rv-sewer-hose-support-6",
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
       "Material not detailed",
       "Basic height range"
     ],
-    "bestFor": "Budget"
+    "bestFor": "Budget buyers with hoses up to 3.8 inches who want a band and strap included."
   }
 ];
 

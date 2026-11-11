@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Fixed pressure setting",
       "Check your plumbing's PSI limit"
     ],
-    "bestFor": "4008 series replacement"
+    "bestFor": "Owners swapping out a 4008 series pump who want a full kit with strainer."
   },
   {
     "id": "best-12v-rv-water-pump-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "70 PSI may exceed your RV's limit",
       "Higher power draw"
     ],
-    "bestFor": "Large rigs"
+    "bestFor": "Large rigs with several fixtures running at once, using 7.5 GPM and 70 PSI."
   },
   {
     "id": "best-12v-rv-water-pump-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Adjustable range reaches 80 PSI",
       "Newer brand"
     ],
-    "bestFor": "Quiet cabins"
+    "bestFor": "Quiet cabins, running about 40 dB with pressure set anywhere from 30 to 80 PSI."
   },
   {
     "id": "best-12v-rv-water-pump-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Lower flow than 5 GPM pumps",
       "Few model fit details"
     ],
-    "bestFor": "Budget replacements"
+    "bestFor": "A quick, low-cost swap of a worn pump, delivering 3.5 GPM at 45 PSI."
   },
   {
     "id": "best-12v-rv-water-pump-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Lower flow",
       "Short 6 foot priming"
     ],
-    "bestFor": "Model-matched swaps"
+    "bestFor": "Matching a known Seaflo 33 series model, with filter and fittings, for up to four fixtures."
   },
   {
     "id": "best-12v-rv-water-pump-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Lower flow than WASSERMANN",
       "55 PSI may exceed your RV's limit"
     ],
-    "bestFor": "Quiet replacement"
+    "bestFor": "Quiet swaps of an A65 or E65 pump, using twist-on fittings and a one-piece diaphragm."
   }
 ];
 

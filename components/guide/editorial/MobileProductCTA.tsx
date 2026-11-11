@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { BuyButton } from "@/components/guide/editorial/GuideProductPick";
 
 interface Item { id: string; name: string; amazonUrl: string }
 
@@ -31,7 +32,7 @@ export function MobileProductCTA({ items }: { items: Item[] }) {
     <div className="fixed inset-x-0 bottom-0 z-40 px-3 lg:hidden" style={{ paddingBottom: "max(env(safe-area-inset-bottom), 10px)" }}>
       <div className="flex items-center gap-3 rounded-xl border border-white/10 bg-brand/95 px-4 py-2.5 shadow-xl backdrop-blur-sm">
         <p className="min-w-0 flex-1 truncate text-sm font-semibold !text-white">{current.name}</p>
-        <a href={current.amazonUrl} target="_blank" rel="nofollow sponsored noopener noreferrer" className="shrink-0 rounded-btn bg-cta px-3 py-2 text-xs font-bold !text-white hover:bg-cta-dark">Check price</a>
+        <BuyButton href={current.amazonUrl} name={current.name} label="Check price" compact />
         <button type="button" onClick={() => setDismissed(true)} className="shrink-0 text-lg leading-none text-white/50 hover:text-white" aria-label="Dismiss">×</button>
       </div>
     </div>

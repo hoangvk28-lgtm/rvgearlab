@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "No ignition type is listed",
       "Smaller cooking surface than big stoves"
     ],
-    "bestFor": "Weekend family trips",
+    "bestFor": "Campers wanting a 20,000 BTU two-burner kit that arrives with a pan and coffee stand.",
     "take": "A ready-to-cook two-burner that packs small.",
     "catch": "The listing does not name an igniter, so bring a lighter."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "No built-in igniter listed",
       "Heavier than the folders"
     ],
-    "bestFor": "Family weekends",
+    "bestFor": "Cooks who simmer often and want a known brand, 22,000 BTU and two wind guards.",
     "take": "The classic that most campers know.",
     "catch": "You need a lighter to start it."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "One burner only",
       "No BTU is listed"
     ],
-    "bestFor": "Breakfast or backup stove",
+    "bestFor": "Cooks who may switch between butane and propane cartridges, with piezo ignition and a case.",
     "take": "A flexible single burner for coffee and eggs.",
     "catch": "It cooks only one pot at a time."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Butane only",
       "Single burner"
     ],
-    "bestFor": "Coffee and quick meals",
+    "bestFor": "Buyers who want a CSA approved, quiet butane burner with auto shut-off.",
     "take": "A low-cost approved butane stove.",
     "catch": "Butane output drops in the cold."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Single burner only",
       "SGS certification rather than CSA"
     ],
-    "bestFor": "Space-saving cooking",
+    "bestFor": "Tight storage, since the bucket-style folding 7500 BTU stove packs into a carry bag.",
     "take": "A budget folding butane stove for small trunks.",
     "catch": "The listing names SGS certification, not CSA."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "Small cooking surface",
       "Slow compared with gas"
     ],
-    "bestFor": "Emergency backup",
+    "bestFor": "Emergency kits and ultralight backup, a 1 lb folding stove burning fuel cubes with no regulator.",
     "take": "A featherweight backup that burns fuel cubes.",
     "catch": "It fits only small or medium pots."
   }

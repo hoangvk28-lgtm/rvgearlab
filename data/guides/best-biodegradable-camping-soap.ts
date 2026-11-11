@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "Scented formula",
       "Small bottle runs out on long trips"
     ],
-    "bestFor": "All-around camp use",
+    "bestFor": "Trail-size carry, washing dishes, hair and body from one 4 oz concentrate.",
     "take": "The simple choice for most campers.",
     "catch": "Smells stronger than scent-free options."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "Higher price than others",
       "Scent may linger"
     ],
-    "bestFor": "Beach and boat campers",
+    "bestFor": "Beach, boat or lake campers washing in hot, cold or salt water.",
     "take": "A versatile soap for mixed cleaning.",
     "catch": "Costs more per bottle."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Low suds feel unfamiliar",
       "Check use-rules at water sources"
     ],
-    "bestFor": "Backcountry and sensitive skin",
+    "bestFor": "Fragrance-sensitive campers who want a scent-free, low-suds soap that rinses with little water.",
     "take": "The no-fragrance pick for dry camps.",
     "catch": "Low suds can feel less cleaning."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Fewer details on size",
       "Not scent-free"
     ],
-    "bestFor": "Long hikes",
+    "bestFor": "Hikers who want one bottle for dishes, hands, clothes and hair.",
     "take": "One bottle for dishes and body.",
     "catch": "Check the bottle size before you buy."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Animal-based ingredient",
       "Low foam"
     ],
-    "bestFor": "Natural-soap fans",
+    "bestFor": "Campers who prefer a beef tallow base and a low-foam formula that rinses quickly.",
     "take": "A simple tallow soap for camp.",
     "catch": "Not suited to vegetarians."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "Targeted at hunters",
       "Small bottle"
     ],
-    "bestFor": "Hunting camps",
+    "bestFor": "Hunters who want odor control while washing dishes, gear, hands and body.",
     "take": "The scent-focused soap for hunters.",
     "catch": "Not marketed for general camping."
   }

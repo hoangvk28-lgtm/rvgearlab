@@ -20,9 +20,25 @@ Each `TASK_DIR/<slug>.json` lists only the thin spots:
   current intro, the table headers and row count or card labels.
 - `productNames[]` — the real picks, for naming in Decision guide rows.
 
+## Scope: the product review first
+The one thing every slug needs is **one more paragraph on each thin product review**, plus a real
+`Best for` line. FAQ answers and Decision guide sections are secondary: thicken them only where the
+task file flags them, and never at the cost of the product paragraphs.
+
+## The `Best for` line
+It is the one-line answer to "who is this for", shown above the review. It must name the actual uses
+or the buyer, not repeat the badge. The bar, from a reference article:
+
+    Best for: Large surfaces such as decks, boats and vehicles, plus polishing.
+
+So: 6-16 words, sentence case, ending in a period, naming concrete situations. "Overall", "Budget",
+"Packability" and "Night hiking" are labels, not answers, and they fail the gate. Derive it from the
+product's own specs and pros, and make each pick in a guide answer a different buyer.
+
 ## Output: `PATCH_DIR/<slug>.json`
 ```
 { "descAdd": { "<ASIN>": "one new paragraph, 45-90 words" },
+  "bestFor": { "<ASIN>": "Concrete uses or buyer, 6-16 words, ending in a period." },
   "faqA":    { "<question, copied verbatim from the task file>": "replacement answer, 3-5 sentences, longer than the current one" },
   "faqAdd":  [ { "q": "...", "a": "3-5 sentences" } ],
   "htc":     [ { "subheading": "<copied verbatim>", "intro": "2-3 sentences, longer than the current intro",

@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "Highest price here",
       "Full brightness drains fast"
     ],
-    "bestFor": "Night hiking",
+    "bestFor": "Trail walking in the dark, with 1080 lumens and a red mode that keeps night vision.",
     "take": "The brightest all-around lamp in the group.",
     "catch": "Use lower modes to stretch runtime."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "Brightness claims are optimistic",
       "Plastic build"
     ],
-    "bestFor": "Multi-day trips",
+    "bestFor": "Long stretches between charges, with a listed 95 hour battery and USB-C fast charging.",
     "take": "A rechargeable lamp that lasts a trip.",
     "catch": "Check lumen claims against modes."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Battery powered",
       "Not rechargeable"
     ],
-    "bestFor": "Couples",
+    "bestFor": "Two people sharing one pack: two 260 lumen lamps, IPX4 rated, with an 80 meter beam.",
     "take": "A dependable pair for the whole campsite.",
     "catch": "Carry spare batteries."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Five-hour charge time",
       "Plastic build"
     ],
-    "bestFor": "Budget campers",
+    "bestFor": "Rechargeable light on a tight budget, with a zoom beam and a side light.",
     "take": "The cheap way to go rechargeable.",
     "catch": "Slow to recharge."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Basic features",
       "Not rechargeable"
     ],
-    "bestFor": "Groups and car kits",
+    "bestFor": "Handing lamps out to a group or stashing one per vehicle, five per pack.",
     "take": "The best pack for outfitting many people.",
     "catch": "Needs batteries for each lamp."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "Brightness not stated",
       "Basic fit"
     ],
-    "bestFor": "Casual campers",
+    "bestFor": "Casual campers wanting two lamps with seven modes and a red light at the lowest price.",
     "take": "A cheap pair for spare lights.",
     "catch": "Check the brightness before relying on it."
   }

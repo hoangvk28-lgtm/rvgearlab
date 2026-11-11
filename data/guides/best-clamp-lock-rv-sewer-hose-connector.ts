@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Highest price in the list",
       "One-time ring installation"
     ],
-    "bestFor": "Frequent hookups"
+    "bestFor": "Hooking up again and again without tools: push to connect, then clamp, no twisting."
   },
   {
     "id": "best-clamp-lock-rv-sewer-hose-connector-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Fits WasteMaster only",
       "Plastic material"
     ],
-    "bestFor": "WasteMaster hoses"
+    "bestFor": "Replacing a worn Waste Master male bayonet connector that uses an NPT thread."
   },
   {
     "id": "best-clamp-lock-rv-sewer-hose-connector-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Twist lock, not clamp",
       "Needs two hoses"
     ],
-    "bestFor": "Two-hose setups"
+    "bestFor": "Watching flow through a clear wye with dual leak gaskets that joins two hoses."
   },
   {
     "id": "best-clamp-lock-rv-sewer-hose-connector-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Hub end needs solvent cement",
       "Pricier than the twin listing"
     ],
-    "bestFor": "Fixed drain pipes"
+    "bestFor": "Hooking to a 3 inch slip hub drain pipe, with a stainless clamp included."
   },
   {
     "id": "best-clamp-lock-rv-sewer-hose-connector-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Hub end needs solvent cement",
       "Listing matches the other Toldear"
     ],
-    "bestFor": "Budget drain pipe fits"
+    "bestFor": "Bargain hunters wanting the cheapest bayonet to hub adapter with a stainless clamp."
   },
   {
     "id": "best-clamp-lock-rv-sewer-hose-connector-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Brand has less history",
       "Clamps need a screwdriver"
     ],
-    "bestFor": "Joining two hoses"
+    "bestFor": "Lengthening a run by joining two standard 3 inch hoses, with two clamps included."
   }
 ];
 

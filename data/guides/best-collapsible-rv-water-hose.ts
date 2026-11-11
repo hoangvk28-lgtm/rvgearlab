@@ -42,7 +42,7 @@ export const products: GuideProduct[] = [
       "No certification named",
       "Price above Camco"
     ],
-    "bestFor": "Tight coil, stainless fittings"
+    "bestFor": "Small storage bays, since this 35 ft kink-free hose coils tight and has 304 stainless fittings."
   },
   {
     "id": "best-collapsible-rv-water-hose-2",
@@ -69,7 +69,7 @@ export const products: GuideProduct[] = [
       "Premium price for a hose",
       "Thick wall is bulkier"
     ],
-    "bestFor": "Premium PVC, zero memory"
+    "bestFor": "Drinking water hookups that call for NSF 61 certified hose coiling with zero memory."
   },
   {
     "id": "best-collapsible-rv-water-hose-3",
@@ -96,7 +96,7 @@ export const products: GuideProduct[] = [
       "Short at 8 ft",
       "Higher price per foot"
     ],
-    "bestFor": "PVC-free, 30 to 40% lighter"
+    "bestFor": "Short 8 ft hookups needing a light PVC-free hose usable from -70°F to 200°F."
   },
   {
     "id": "best-collapsible-rv-water-hose-4",
@@ -123,7 +123,7 @@ export const products: GuideProduct[] = [
       "No NSF wording",
       "Bag adds a little bulk"
     ],
-    "bestFor": "Bag included"
+    "bestFor": "Campers who want 25 ft of hose plus a storage bag that rolls up easily."
   },
   {
     "id": "best-collapsible-rv-water-hose-5",
@@ -150,7 +150,7 @@ export const products: GuideProduct[] = [
       "No bag listed",
       "Rubber is heavier"
     ],
-    "bestFor": "Swivel grip hose"
+    "bestFor": "Frequent hookups where a 360 degree swivel grip saves wrestling the spigot."
   },
   {
     "id": "best-collapsible-rv-water-hose-6",
@@ -177,7 +177,7 @@ export const products: GuideProduct[] = [
       "Not a hookup hose",
       "No clamps included"
     ],
-    "bestFor": "Bends in tight spaces"
+    "bestFor": "Filling the fresh tank through a 1 1/4 inch hose that bends in tight spaces."
   }
 ];
 

@@ -45,7 +45,7 @@ export const products: GuideProduct[] = [
       "Higher price",
       "Bulkier than small kits"
     ],
-    "bestFor": "Multi-day trips",
+    "bestFor": "Owners wanting the most complete 95 piece, vet-recommended kit in one bag.",
     "take": "The most complete kit for remote camping.",
     "catch": "Takes more pack space."
   },
@@ -75,7 +75,7 @@ export const products: GuideProduct[] = [
       "Higher price",
       "Larger than pouch kits"
     ],
-    "bestFor": "Road trips and RVs",
+    "bestFor": "Vehicle storage, where a water-resistant hard case protects the tick remover, saline and slip leash.",
     "take": "A tough case for car and RV use.",
     "catch": "Hard case is bulky in a pack."
   },
@@ -105,7 +105,7 @@ export const products: GuideProduct[] = [
       "Less wound-care focus",
       "Muzzle needs training"
     ],
-    "bestFor": "Frequent travelers",
+    "bestFor": "Dogs that need a thermometer, muzzle and feeding kit for everyday care.",
     "take": "A broad kit that covers daily care.",
     "catch": "Daily extras take space."
   },
@@ -135,7 +135,7 @@ export const products: GuideProduct[] = [
       "Fewer pieces",
       "Basic supply list"
     ],
-    "bestFor": "Hikers and backpackers",
+    "bestFor": "Trail walks with a dog, using a tick remover and a fur-friendly bandage.",
     "take": "A focused kit for the trail.",
     "catch": "Not a full wound-care kit."
   },
@@ -165,7 +165,7 @@ export const products: GuideProduct[] = [
       "Smaller supply list",
       "Not for remote trips"
     ],
-    "bestFor": "Car camping",
+    "bestFor": "Night walks and campsites where a reflective, water-resistant case is easy to find.",
     "take": "An easy-to-spot kit for the car.",
     "catch": "35 pieces suit short outings only."
   },
@@ -195,7 +195,7 @@ export const products: GuideProduct[] = [
       "Fewest supplies listed",
       "Not vet-approved listed"
     ],
-    "bestFor": "Budget buyers",
+    "bestFor": "Mixed households wanting a pill box and a kit suited to both pets and people.",
     "take": "A cheap kit for basic needs.",
     "catch": "Lacks the extras of bigger kits."
   }

@@ -43,7 +43,7 @@ export const products: GuideProduct[] = [
       "Needs a 600Ah battery",
       "Highest price of the six"
     ],
-    "bestFor": "Efficient off-grid RV cooling"
+    "bestFor": "Off-grid rigs running a 12V, 11,000 BTU unit with 4,500 BTU of heat at 35 dB."
   },
   {
     "id": "best-energy-efficient-rv-air-conditioner-2",
@@ -71,7 +71,7 @@ export const products: GuideProduct[] = [
       "Portable home unit",
       "Needs a window exit"
     ],
-    "bestFor": "Inverter portable"
+    "bestFor": "Anyone who can't cut a roof opening, wanting a 14,000 BTU dual-hose inverter that drains itself."
   },
   {
     "id": "best-energy-efficient-rv-air-conditioner-3",
@@ -99,7 +99,7 @@ export const products: GuideProduct[] = [
       "Portable home unit",
       "Needs a window exit"
     ],
-    "bestFor": "Small footprint"
+    "bestFor": "Cramped spaces that suit a 15 by 14 inch footprint with fan and dehumidifier modes."
   },
   {
     "id": "best-energy-efficient-rv-air-conditioner-4",
@@ -127,7 +127,7 @@ export const products: GuideProduct[] = [
       "Portable home unit",
       "Needs a window exit"
     ],
-    "bestFor": "Larger rooms"
+    "bestFor": "Large open areas up to 750 square feet, with a remote and 24 hour timer."
   },
   {
     "id": "best-energy-efficient-rv-air-conditioner-5",
@@ -155,7 +155,7 @@ export const products: GuideProduct[] = [
       "Home window unit, not RV-made",
       "Needs a window opening"
     ],
-    "bestFor": "Eco window unit"
+    "bestFor": "Window installs wanting Eco and Sleep modes plus filter alerts on 8,000 BTU."
   },
   {
     "id": "best-energy-efficient-rv-air-conditioner-6",
@@ -183,7 +183,7 @@ export const products: GuideProduct[] = [
       "Home window unit, not RV-made",
       "Needs a window opening"
     ],
-    "bestFor": "Small space, lowest cost"
+    "bestFor": "Cooling up to 150 square feet at the lowest cost, with a washable filter."
   }
 ];
 
