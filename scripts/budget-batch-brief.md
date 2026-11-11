@@ -44,6 +44,13 @@ export default {
                                                // on the way out; a module exporting
                                                // `buyingCriteria` fails validation.
   keyword: "<mainKeyword>",                     // required by the validator
+  silo: "<silo-slug>",                          // REQUIRED. gen-p2-batch silently defaults this
+                                                // to "power-electrical", which puts the guide at
+                                                // the wrong URL, breadcrumb and hub. tsc and the
+                                                // validator both pass anyway, so nothing catches
+                                                // it but loading the page. A 46-guide batch
+                                                // shipped 27 wrong this way once. Take the value
+                                                // from the orchestrator's silo.json, never guess.
   howToChoose: [ ...6 sections... ],
   faq: [{ q, a }],                          // 6 entries, 3-5 sentences each
   bottomLine: ["para 1", "para 2"],         // array, 45-75 words each
@@ -118,3 +125,16 @@ paragraph on "It suits owners who..." or open comparison after comparison on "Ag
 ## Finish
 Report one line per slug and anything you could not write without inventing a fact. Do not pass
 `--register`; the orchestrator registers the batch.
+
+
+## Say so instead of padding
+
+A slug's title is a promise the products have to keep. If it names a brand, a number, a
+contaminant or a product type, a pick only counts when its own listing backs that. Filling a
+short pool with near misses is worse than a short guide: an "800W" guide with one 800W unit, or
+a sewer hose guide whose picks are all fittings, misleads every reader it reaches.
+
+So when the pool runs out of genuine matches, stop and report the slug instead of writing around
+it. Report it with the count, for example "only 2 of 6 picks are 48V units". The orchestrator
+drops the slug. You lose nothing by reporting it, and a guide that keeps its promise is the only
+kind worth the tokens.
