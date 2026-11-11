@@ -1,113 +1,106 @@
 export const guideSlug = "best-camping-tarps-for-hammocks";
 export const guideTitle = "5 Best Camping Tarps For Hammocks in 2026";
-export const metaTitle = "Best Camping Tarps For Hammocks in 2026";
-export const metaDescription = "Best camping tarps for hammocks compared on coverage, waterproof rating, weight and tie-out points for rainy backcountry hammock camping.";
+export const metaTitle = "Best Camping Tarps for Hammocks (2026)";
+export const metaDescription = "Five hammock rain flys compared on ridgeline length, how far they overhang each end, hex versus rectangle cuts and storm-pitch tie-outs.";
 export const mainKeyword = "best camping tarps for hammocks";
 export const introParagraphs = [
-  "A hammock rain fly lives or dies on coverage. A tarp that only just spans the ridgeline leaves the hammock ends and the sleeper's shoulders wet as soon as wind shifts the rain.",
-  "Five tarps are here, ordered by documented coverage, waterproof ratings and how each handles the pitch. One bundle includes a hammock with the fly, and two weights of one popular fly are counted as one pick."
+  "A hammock tarp has a different job from a ground tarp, and the geometry explains why. The hammock hangs along a line, the sleeper lies along that line, and the rain arrives at an angle from either end. So the first number to look at is the ridgeline length: it needs to run past both ends of the hammock, not simply match its tied length. A 12 ft tarp over a hammock around 10 ft long leaves roughly a foot of cover beyond each end, which is what keeps blowing rain off the head and feet.",
+  "Width matters less than people expect, because a hammock hangs narrow, but cut matters a great deal. An asymmetric hex swells in the middle where the sleeper's shoulders sit and tapers toward the ends, covering the body with less fabric. A plain rectangle gives easy setup but wastes corners. Tie-outs complete the picture: six well-placed anchor points let you pull both ends down into a storm pitch, while four leave you with a basic A-frame.",
+  "We compared five tarps from $14.99 to $59.99, including a compact 7.55 ft sheet, a basic 11 x 9 ft rectangle, a 12 x 9 ft hex and a complete hammock kit with a net. Each listing was read for dimensions, seam treatment, tie-out count and what arrives in the box. The ranking leans toward tarps that overhang a full-size hammock with a margin, because a rain fly that stops at the ends invites a wet sleeping bag."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
-export const heroImage = "/images/editorial/home-golden-hour-campsite.webp";
-export const heroImageAlt = "Dome tent and hammock at a forest campsite at golden hour";
+export const heroImage = "https://m.media-amazon.com/images/I/41XXZGTrJ9L._SL500_.jpg";
 
 export interface GuideProduct {
   id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
   imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-  take?: string; catch?: string;
 }
 
 export const products: GuideProduct[] = [
   {
     "id": "best-camping-tarps-for-hammocks-1",
     "rank": 1,
-    "badge": "Best Overall",
+    "badge": "Best Hex Cut",
     "name": "Pro Venture Waterproof Hammock Rain Fly [12ft x 9ft]",
     "price": "$29.99",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41XXZGTrJ9L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0752XXW1L?tag=rvgearlab-20",
-    "description": "The Pro Venture is a 12 x 9 ft asymmetrical hex tarp in PU 3000 diamond ripstop nylon. Six tie-down loops and six reinforced grommet points hold the pitch, and the whole kit weighs 1.8 lbs in a 10 x 5 x 5 inch stuff sack.\n\nThe hex shape covers more ground than the 11 x 9 ft WINKAURA and gives much more room than the 7.55 x 4.59 ft Azarxis. Next to the Wise Owl, it trades the taped-seam claim for a larger asymmetrical cut and a 2-year warranty.\n\nBackpackers who want real coverage over a wide double hammock will use it well. The listing says no instructions are needed for the hex pitch.",
+    "description": "The Pro Venture is a 12 by 9 ft asymmetric hex in PU 3000 diamond ripstop, and the cut is the headline: it widens over the sleeper's body and tapers toward the ends, so a 12 ft ridge covers a typical hammock with overhang to spare. It weighs 1.8 lb and packs to 10 x 5 x 5 inches.\n\nAgainst the Wise Owl just below it, the Pro Venture offers more documented coverage and a straightforward six loops plus six grommets for staking and guying out. A 2-year warranty is stated on the listing, which adds reassurance at $29.99.\n\nIt is the sensible pick for someone who hangs a standard camping hammock and wants a tarp that is simply the right shape. A camper who values stated dimensions and a hex layout over extra accessories will find it the natural center of this comparison.",
     "specs": [
-      "12 x 9 ft asymmetric hex",
-      "PU 3000 diamond ripstop",
-      "1.8 lbs, 10 x 5 x 5 inch pack"
+      "12 x 9 ft asymmetric hex cut",
+      "PU 3000 diamond ripstop, 1.8 lbs",
+      "Six loops, six grommets, 10 x 5 x 5 pack"
     ],
     "pros": [
-      "Hex cut covers the hammock ends",
-      "PU 3000 ripstop sheds heavy rain",
-      "Six loops and six grommets",
-      "2-year warranty is stated"
+      "Hex cut covers the hammock ends nicely",
+      "PU 3000 ripstop sheds heavy rain well",
+      "Six loops and six grommets give pitch options",
+      "A 2-year warranty is stated on the listing"
     ],
     "cons": [
-      "Heavier than the Wise Owl lite",
-      "Seam taping is not mentioned"
+      "Heavier than the Wise Owl lite version",
+      "Seam taping is not mentioned in the listing"
     ],
-    "bestFor": "Wide hammocks, long wet trips",
-    "take": "Generous hex coverage at a fair weight for a wide hammock.",
-    "catch": "At 1.8 lbs with accessories it is heavier than the lightest options."
+    "bestFor": "Hammock campers who want full-length cover with a wide middle"
   },
   {
     "id": "best-camping-tarps-for-hammocks-2",
     "rank": 2,
-    "badge": "Best Lightweight",
+    "badge": "Best Light Option",
     "name": "Wise Owl Outfitters Hammock Rain Fly",
     "price": "$33.91",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41hefq5yrKL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B07ZPH8Q1D?tag=rvgearlab-20",
-    "description": "The Wise Owl fly is ripstop nylon with taped seams and a PU coating rated to withstand 3000 mm of water pressure. It ships with six 10-foot guy lines, aluminum stakes and a waterproof carry bag, and it comes in a 26 oz version and an 18.9 oz lite version.\n\nThe listing gives the taped seams and the lighter weight that the Pro Venture lacks. Against the WINKAURA, it adds a stated 3000 mm rating and a choice of two weights.\n\nUltralight backpackers who count ounces will like the lite version. The same shelter doubles as a standalone tarp.",
+    "description": "The Wise Owl is a 3000 mm PU ripstop nylon fly with taped seams, offered in an 18.9 oz lite version or a 26 oz standard weight. Six guy lines, aluminum stakes and a carry bag ship with it, so the shelter goes from stuff sack to ridgeline without a trip to the hardware aisle.\n\nCompared with the Pro Venture above, the Wise Owl lite version cuts several ounces from the carry, and the taped seams protect the stitch lines where leaks usually begin. It also pitches as a plain tarp for ground sleeping, which gives it a second life when the trees run out.\n\nIt suits a hiker who hangs for a night or two at a time and wants the lightest sheet that still has sealed seams. Anyone moving from a basic fly to a trail-weight setup will value the lite option.",
     "specs": [
-      "Taped seams, 3000 mm PU",
-      "18.9 oz lite or 26 oz",
-      "Six guy lines, aluminum stakes"
+      "3000 mm PU ripstop nylon with taped seams",
+      "18.9 oz lite or 26 oz standard",
+      "Six guy lines, aluminum stakes, bag"
     ],
     "pros": [
-      "Taped seams on ripstop nylon",
-      "Lite version weighs 18.9 oz",
-      "Stakes, six guy lines, bag included",
-      "Works as rain fly or plain tarp"
+      "Taped seams on ripstop nylon resist leaks",
+      "Lite version weighs just 18.9 oz",
+      "Stakes, six guy lines and bag included",
+      "Works as a rain fly or a plain tarp"
     ],
     "cons": [
-      "Coverage size is not listed as numbers",
-      "Priced above the basic tarps"
+      "Coverage is not given as plain dimensions",
+      "Priced above the basic tarps in this group"
     ],
-    "bestFor": "Ounce-counting backpackers",
-    "take": "A taped-seam fly with an 18.9 oz lite version for backpackers.",
-    "catch": "The listing does not give dimensions as numbers, so compare coverage before ordering."
+    "bestFor": "Hikers who hang a hammock and count ounces"
   },
   {
     "id": "best-camping-tarps-for-hammocks-3",
     "rank": 3,
-    "badge": "Best Value",
+    "badge": "Best Budget Rectangle",
     "name": "Hammock Tarp",
     "price": "$19.99",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/314qqRot95L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0DYCJJWQG?tag=rvgearlab-20",
-    "description": "The WINKAURA is an 11 x 9 ft ripstop nylon tarp with taped seams, reinforced corners, aluminum stakes and six guy cords with tensioners. The listing gives a 26 oz weight and a waterproof carry bag.\n\nIt is the next step up in coverage from the Azarxis and costs less than the Wise Owl or Pro Venture. Compared with the Pro Venture's hex cut it is a rectangle, so it gives simpler pitches with less corner coverage.\n\nBudget hammock campers who want a full-size fly with accessories included will find it hard to beat. A lighter version exists too.",
+    "description": "This Hammock Tarp is an 11 by 9 ft rectangle of ripstop nylon with taped seams, six guy cords, stakes and a carry bag, all at $19.99 and 26 oz. An 11 ft ridge is enough to overhang most hammocks at both ends, and the taped seams keep a steady shower from working through the stitching.\n\nLined up against the Wise Owl above it, this tarp offers a similar fabric and sealed construction at a lower price, giving up the lite-weight option in return. Against the Azarxis below, it provides a full-size roof for a sleeper and a pack of gear, where the compact sheet covers the sleeper alone.\n\nIt works for a weekend hammocker who hangs in friendly weather and wants a dependable roof at a friendly price. A backyard camper, a scout or a first-time buyer gets a lot of tarp for the money.",
     "specs": [
-      "11 x 9 ft ripstop nylon",
-      "Taped seams, six guy cords",
-      "26 oz with carry bag"
+      "11 x 9 ft ripstop nylon rectangle",
+      "Taped seams and six guy cords",
+      "26 oz with stakes and carry bag"
     ],
     "pros": [
-      "11 x 9 ft is enough for most hammocks",
-      "Taped seams on ripstop nylon",
-      "Stakes and tensioned guy cords included",
-      "Second-lowest price here"
+      "An 11 x 9 ft sheet suits most hammocks",
+      "Taped seams on ripstop nylon keep rain out",
+      "Stakes and tensioned guy cords are included",
+      "Second-lowest price of the five at $19.99"
     ],
     "cons": [
-      "Rectangle gives less corner coverage than hex",
-      "No millimeter rating is shown"
+      "Rectangle gives less corner coverage than a hex",
+      "No millimeter waterproof rating is shown"
     ],
-    "bestFor": "Budget full-size fly",
-    "take": "A full-size fly with stakes and cords for very little money.",
-    "catch": "No waterproof millimeter rating appears, so the nylon and taped seams must carry the claim."
+    "bestFor": "Casual hammock campers who want taped seams for about $20"
   },
   {
     "id": "best-camping-tarps-for-hammocks-4",
@@ -119,80 +112,79 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41yJRYAkGVL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B08TQNLWSP?tag=rvgearlab-20",
-    "description": "The Sunyear bundles a 500 lb capacity travel hammock with attached netting and a rain fly tarp. It uses 210T parachute nylon, includes two tree straps of 10 ft each with 16 plus 1 loops and two 12KN carabiners.\n\nIt is the only pick here that includes the hammock, bug net and straps, which makes it a complete setup rather than just a fly. Against the single-purpose tarps, its fly is only one part of the package.\n\nA first-time hammock camper who wants everything in one purchase gets a one-box setup. The tree straps adjust through the loops.",
+    "description": "The Sunyear is a full hammock system rather than a bare tarp: a hammock, a bug net, a rain fly and two tree straps arrive together, with a stated 500 lb capacity, 12KN carabiners and adjustable loops on the straps. The shelter is built from 210T parachute nylon.\n\nThe contrast with the Pro Venture above is scope. Where that pick delivers the roof alone, the Sunyear delivers the whole setup, so a beginner can hang, screen and cover a night's sleep from one purchase. The net keeps insects off the sleeper all night.\n\nIt makes sense for a camper starting from nothing who wants one order to cover hanging, bug protection and rain cover. Someone buying a first hammock, a gift for a new camper or a kit for a family trip will find the bundle practical.",
     "specs": [
-      "Hammock, net and rain fly",
-      "500 lb capacity",
-      "2 straps, 12KN carabiners"
+      "Hammock, bug net and rain fly bundle",
+      "500 lb stated capacity, 210T nylon",
+      "Two straps with 12KN carabiners"
     ],
     "pros": [
-      "Hammock, net, fly and straps included",
-      "500 lb stated capacity",
-      "210T parachute nylon",
-      "Adjustable loops on tree straps"
+      "Hammock, net, fly and straps all included",
+      "A 500 lb capacity is stated on the listing",
+      "210T parachute nylon is light and tear-resistant",
+      "Adjustable loops on the tree straps ease setup"
     ],
     "cons": [
-      "Highest price in this group",
-      "Rain fly coverage is less documented"
+      "Highest price of the five at $59.99",
+      "Rain fly coverage is thinly documented"
     ],
-    "bestFor": "First hammock kit",
-    "take": "A one-box hammock, net, fly and straps for beginners.",
-    "catch": "The tarp is only part of the package, so judge it as a kit and not as a dedicated fly."
+    "bestFor": "New hammock campers who want everything in one bundle"
   },
   {
     "id": "best-camping-tarps-for-hammocks-5",
     "rank": 5,
-    "badge": "Best Compact Budget",
+    "badge": "Lowest Price",
     "name": "Azarxis Hammock Camping Tarp Rain Fly Shelter Cover",
     "price": "$14.99",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31EHdCT+SxL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B07T337P8Z?tag=rvgearlab-20",
-    "description": "The Azarxis is a 7.55 x 4.59 ft 210T polyester tarp with a PU 2000mm waterproof rating. It packs to 6.69 x 4.33 inches and comes with 2 stakes and guylines of 3.94 ft and 5.58 ft.\n\nIt is the least expensive and smallest tarp here, and covers only one to three people as a shelter. Compared with the WINKAURA it brings far less coverage and a lower rating, yet packs into a pocket.\n\nSolo hammock campers on short trips or in light rain who prioritize space use it as a minimalist fly. It also works as a footprint or picnic mat.",
+    "description": "The Azarxis is a 7.55 by 4.59 ft sheet of PU 2000 mm fabric that packs to 6.69 x 4.33 inches, the smallest bundle of the five, and it costs just $14.99. Stakes and two guyline lengths come in the bag, which covers a quick pitch over a lone sleeper.\n\nAgainst the Hammock Tarp above it, the Azarxis gives up roof area in exchange for a pocket-size pack and a rock-bottom price. The compact sheet doubles as a ground footprint or a picnic mat, which gives it uses long after the hammock comes down.\n\nIt fits a minimalist who hangs in warm, mostly dry weather and wants a token of rain cover at almost no weight. A day-hiker setting up a siesta hammock, or a camper who needs a spare sheet for the car, will find it handy.",
     "specs": [
-      "7.55 x 4.59 ft, PU 2000mm",
-      "Packs to 6.69 x 4.33 in",
-      "Stakes and two guyline lengths"
+      "7.55 x 4.59 ft sheet, PU 2000 mm",
+      "Packs to 6.69 x 4.33 inches",
+      "Stakes and two guyline lengths included"
     ],
     "pros": [
-      "Lowest price in this guide",
+      "Lowest price of the five at $14.99",
       "Packs to a very small bundle",
-      "Doubles as footprint or picnic mat",
-      "Includes stakes and guylines"
+      "Doubles as a footprint or picnic mat",
+      "Includes stakes and guylines in the bag"
     ],
     "cons": [
       "Small for a hammock plus gear",
-      "Lowest waterproof rating listed"
+      "Lowest waterproof rating of the group"
     ],
-    "bestFor": "Minimalist short trips",
-    "take": "The pocket-size, cheapest tarp, suited to light rain only.",
-    "catch": "At 7.55 x 4.59 ft it barely covers a hammock, so wind-driven rain will reach you."
+    "bestFor": "Warm, dry trips and weight-first minimalists"
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Coverage vs hammock",
-    "description": "Listed dimensions were compared with the length and width of a typical hammock."
+    "title": "Ridgeline Length and Overhang",
+    "description": "We read each listing's length and compared it with the common hammock range of roughly 9 to 11 ft. The key question was whether the ridgeline leaves a margin beyond each end, since an overhang is what keeps slanted rain off the sleeper. Tarps without a stated size were treated cautiously."
   },
   {
-    "title": "Waterproofing",
-    "description": "Millimeter ratings and taped seams were weighed together."
+    "title": "Cut and Coverage Shape",
+    "description": "Hex, rectangle and compact sheet shapes cover a hammock differently. We looked at how each shape distributes fabric along the ridge and across the sleeper's width, favoring cuts that put the cover where the body lies."
   },
   {
-    "title": "Weight and pack",
-    "description": "Stated weights and stuff-sack sizes decide the backpacking fit."
+    "title": "Seams and Waterproof Ratings",
+    "description": "We noted millimeter ratings from 2000 to 3000 mm and whether seams are taped. Steady rain tests the stitching long before the fabric, so taped seams carried extra weight in the ranking."
   },
   {
-    "title": "Pitch options",
-    "description": "Tie-out points, grommets and included cord shape the setups."
+    "title": "Tie-Outs and Storm Pitches",
+    "description": "Six anchor points allow an A-frame with both ends pulled low, while four leave less flexibility. We counted loops, grommets and guy cords, since a storm pitch depends on being able to tie out each end. Reinforced loops sewn into the fabric were rated above bare grommets, which are the usual first point of failure in a gusty night."
+  },
+  {
+    "title": "Included Gear and Price",
+    "description": "Stakes, guy lines, carabiners and nets change the real purchase. We compared what ships in the bag against prices from $14.99 to $59.99, using product specs rather than popularity signals."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -200,129 +192,144 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By how you hammock",
+    "subheading": "By Hammock Length and Overhang",
+    "intro": "Subtract your hammock's length from the tarp's ridge to see the overhang at each end, then match it to your weather.",
     "table": {
       "headers": [
-        "Your situation",
-        "Recommended pick",
-        "Why"
+        "Hammock and trip",
+        "Ridge to aim for",
+        "Pick"
       ],
       "rows": [
         [
-          "Wide double hammock, long wet trips",
-          "Pro Venture 12 x 9 ft Hex Rain Fly",
-          "12 x 9 ft hex with 6 loops and 6 grommets"
+          "9 to 10 ft hammock, full overhang wanted",
+          "12 ft or longer",
+          "Pro Venture 12 x 9 ft hex"
         ],
         [
-          "Counting ounces",
-          "Wise Owl Outfitters Rain Fly",
-          "18.9 oz lite version with taped seams"
+          "10 ft hammock, ounce-counting hike",
+          "12 ft with light fabric",
+          "Wise Owl lite at 18.9 oz"
         ],
         [
-          "Budget, full-size fly",
-          "WINKAURA 11 x 9 ft Hammock Tarp",
-          "11 x 9 ft with taped seams and cords"
+          "9 ft hammock, mild weather",
+          "11 ft with a small margin",
+          "Hammock Tarp at 11 x 9 ft"
         ],
         [
-          "First time buying everything",
-          "Sunyear Hammock with Rain Fly",
-          "Hammock, net, fly and straps in one box"
+          "Short daytime hammock, warm dry day",
+          "About 7.5 ft, sleeper only",
+          "Azarxis Hammock tarp at 7.55 x 4.59 ft"
         ],
         [
-          "Short trips, light rain",
-          "Azarxis 7.55 x 4.59 ft Tarp",
-          "Pocket-sized at the lowest price"
+          "First kit, hammock included",
+          "Check fly length in the bundle",
+          "Sunyear Hammock bundle with net"
         ]
       ]
     }
   },
   {
     "subheading": "By Budget",
+    "intro": "The five prices span $14.99 to $59.99, and each step buys a distinct feature.",
     "table": {
       "headers": [
         "Budget",
-        "Recommended pick"
+        "Pick",
+        "What the money buys"
       ],
       "rows": [
         [
-          "$10 to $20",
-          "Azarxis 7.55 x 4.59 ft Tarp or WINKAURA 11 x 9 ft Hammock Tarp"
+          "Under $20",
+          "Azarxis Hammock tarp at $14.99 or Hammock Tarp at $19.99",
+          "A compact sheet or an 11 x 9 ft taped-seam rectangle"
         ],
         [
-          "$20 to $40",
-          "Pro Venture 12 x 9 ft Hex Rain Fly or Wise Owl Outfitters Rain Fly"
+          "$20 to $35",
+          "Pro Venture at $29.99 or Wise Owl at $33.91",
+          "A 12 x 9 ft hex or a taped-seam lite fly"
         ],
         [
-          "$50 to $60",
-          "Sunyear Hammock with Rain Fly"
+          "Over $55",
+          "Sunyear Hammock at $59.99",
+          "Hammock, net, fly and straps in one bundle"
         ]
       ]
     }
   },
   {
-    "subheading": "Hex cut vs rectangle",
+    "subheading": "Hex Cut vs Rectangle",
+    "intro": "The shape of the sheet shapes how much of your hammock stays dry in a slanting rain.",
     "cards": [
       {
-        "label": "Hex or asymmetric cut",
-        "text": "It angles the ends down and covers more rain angles for the same weight. Pro Venture 12 x 9 ft Hex Rain Fly is the hex here."
+        "label": "Hex cut",
+        "text": "A hex swells over the sleeper's body and tapers toward the ends, giving more protection per ounce. The Pro Venture is the clear example, with its 12 x 9 ft asymmetric hex and six loops."
       },
       {
         "label": "Rectangle",
-        "text": "It pitches quickly and doubles as a ground cover or lean-to. WINKAURA 11 x 9 ft Hammock Tarp and Azarxis 7.55 x 4.59 ft Tarp are rectangles."
+        "text": "A rectangle pitches without thinking and doubles as a ground tarp, at the cost of extra corner fabric. The Hammock Tarp at 11 x 9 ft and the Wise Owl both use a simple shape that is easy to set up."
       }
     ],
-    "note": "Choose Pro Venture 12 x 9 ft Hex Rain Fly for hammock coverage, and WINKAURA 11 x 9 ft Hammock Tarp when you want a lean-to as well."
+    "note": "Choose a hex for the best cover per ounce and a rectangle for simple setup and flexible uses."
   },
   {
-    "subheading": "By weight",
+    "subheading": "By Weather and Pitch Style",
+    "intro": "Wind and rain angle decide whether a basic A-frame is enough or a lower storm pitch is needed.",
     "table": {
       "headers": [
-        "If you want",
-        "Recommended pick"
+        "Conditions",
+        "Pitch style",
+        "Pick"
       ],
       "rows": [
         [
-          "The lightest option",
-          "Wise Owl Outfitters Rain Fly"
+          "Fair weather and a light shower",
+          "Open A-frame, ends high",
+          "Hammock Tarp with six guy cords"
         ],
         [
-          "A 1.8 lb kit with warranty",
-          "Pro Venture 12 x 9 ft Hex Rain Fly"
+          "Steady rain, moderate wind",
+          "A-frame with ends pulled low",
+          "Pro Venture with six loops and six grommets"
         ],
         [
-          "A pocket-size minimal tarp",
-          "Azarxis 7.55 x 4.59 ft Tarp"
+          "Long wet trip, lightweight carry",
+          "Low storm pitch with taped seams",
+          "Wise Owl lite at 18.9 oz"
         ],
         [
-          "A bundle with hammock",
-          "Sunyear Hammock with Rain Fly"
+          "Warm, dry, minimal setup",
+          "Short ridge over the sleeper",
+          "Azarxis Hammock tarp with two guyline lengths"
         ]
       ]
     }
   },
   {
-    "subheading": "For rainy backcountry hammock nights Specifically",
+    "subheading": "For Weekend Trail Hammockers Specifically",
+    "intro": "A two-night trip rewards a balanced tarp more than a specialist one.",
     "cards": [
       {
         "label": "Look for",
-        "text": "A tarp of at least 11 ft in length, taped seams and a stated waterproof rating."
+        "text": "A ridge of 11 to 12 ft, taped seams, six tie-outs and a carry bag, the way the Wise Owl Outfitters fly is equipped. Those four details cover rain at the ends and a fast pitch after a long hike."
       },
       {
         "label": "In this comparison",
-        "text": "Wise Owl Outfitters Rain Fly gives taped seams and 3000 mm, and Pro Venture 12 x 9 ft Hex Rain Fly gives 12 x 9 ft of hex coverage."
+        "text": "The Pro Venture and the Wise Owl both meet those marks, with the Hammock Tarp close behind at $19.99. Pick the Wise Owl lite for weight and the Pro Venture for the hex cut."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "The top of this price range buys convenience, and the middle buys fabric and shape.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more on Pro Venture 12 x 9 ft Hex Rain Fly or Wise Owl Outfitters Rain Fly if you hammock in sustained rain. Coverage and sealed seams matter far more than a bundle."
+        "text": "You are starting from scratch or want a stated warranty. The Sunyear Hammock bundle at $59.99 covers hammock, net and fly, and the Pro Venture at $29.99 adds a 2-year warranty and a hex cut."
       },
       {
         "label": "Save if",
-        "text": "Save with WINKAURA 11 x 9 ft Hammock Tarp for weekend trips, or Azarxis 7.55 x 4.59 ft Tarp when you only need a tiny shelter."
+        "text": "You camp in mild weather and already own the hammock. The Hammock Tarp at $19.99 and the Azarxis Hammock tarp at $14.99 supply cover at the lowest cost."
       }
     ]
   }
@@ -330,48 +337,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "Coverage beyond the ridgeline",
-    "explanation": "A hammock rain fly must cover the hammock's length and sit beyond each end to stop wind-driven rain. Short tarps leave the ends exposed. Look for the length and width in feet and compare with your hammock."
+    "criterion": "Ridgeline length and end overhang",
+    "explanation": "The ridgeline is the long dimension of the tarp, running above the hammock, and overhang is the stretch of cover past each end of the hammock. A typical camping hammock runs 9 to 11 ft, so a 12 ft tarp leaves about a foot of cover at each end, while a 7.5 ft sheet leaves the ends exposed. Rain that falls at an angle soaks the head and foot first. Find the length in the title or bullets and subtract the hammock's length to see your overhang."
   },
   {
-    "criterion": "Hex vs rectangle shape",
-    "explanation": "A hex or asymmetric cut covers diagonal rain and drops low at the ends, while a rectangle is simpler to pitch. Rectangle tarps need a wider overhang for the same protection. Check the shape and tie-out count in the listing."
+    "criterion": "Hex cut versus rectangle",
+    "explanation": "An asymmetric hex is widest over the sleeper's shoulders and tapers toward the ends, which concentrates fabric where it counts. A rectangle is cheaper to make and easier to pitch, but it carries extra corner fabric that adds weight without adding protection. At comparable lengths, a hex covers a hammock with less material. Look for the words hex or asymmetric in the listing, and check the photos for the outline."
   },
   {
-    "criterion": "Waterproof millimeter rating",
-    "explanation": "Figures like 2000mm and 3000mm show how much water pressure the coating resists before leaking. Taped seams matter as much as the number. Look for both on the listing."
+    "criterion": "Tie-out count and storm pitch",
+    "explanation": "With four corners and the ridge points you can build an A-frame and not much beyond it. Six or more tie-outs let you pull both ends down toward the ground, creating a storm pitch that blocks wind-driven rain. Reinforced loops outlast bare grommets, which can pull out of thin fabric. Count the loops and grommets in the bullets, and favor bartacked webbing."
   },
   {
-    "criterion": "Weight and stuff sack size",
-    "explanation": "A tarp that packs small and weighs under two pounds is easy to carry on trail. Heavier poly tarps suit car camping. Check the listed ounces or pounds and packed dimensions."
+    "criterion": "Seam taping and water column",
+    "explanation": "A 3000 mm rating handles steady rain, while a 2000 mm figure is closer to a light shower. The stitch lines are the weak point, and taped seams stop water from creeping through the needle holes. A tarp with taped seams and a modest rating usually beats one with a high rating and raw seams. Look for the word taped in the title or bullets."
   },
   {
-    "criterion": "Tie-outs and cord",
-    "explanation": "Reinforced loops or grommets let you stake out the corners and sides. Without enough points, a tarp flaps in wind. Look for the tie-out count and whether guylines and stakes are included."
+    "criterion": "Fabric weight and pack size",
+    "explanation": "Weight and pack size decide how the tarp rides on your back. A 1.8 lb hex in a 10 x 5 x 5 inch bundle suits a car-supported trip, while an 18.9 oz sheet suits a trail. Ripstop nylon and PU polyester both sag differently when wet, so retension in the morning. Compare listed ounces and stuffed dimensions for each candidate."
+  },
+  {
+    "criterion": "What ships in the box",
+    "explanation": "Stakes, guy lines and a carry bag add up to real money if purchased separately, and a missing item can end a trip early. A complete kit with straps and a net costs more but replaces three purchases. Read the included list closely, and confirm that the straps are rated for your weight."
   }
 ];
 
 export const faq = [
   {
-    "q": "How big should a hammock tarp be?",
-    "a": "It should extend past both ends of the hammock by at least a foot and cover the full width with room to spare. The Pro Venture at 12 x 9 ft and the WINKAURA at 11 x 9 ft fit most standard hammocks. Smaller tarps leave the ends exposed."
+    "q": "How long should a hammock tarp be?",
+    "a": "Longer than the hammock by a margin at each end. Most camping hammocks run 9 to 11 ft, so a 12 ft tarp leaves about a foot of cover beyond each end. A tarp near 7.5 ft covers the sleeper only, which works in a light shower but not in wind-driven rain."
   },
   {
-    "q": "What is the biggest hammock tarp mistake?",
-    "a": "Pitching it too high. A low ridgeline sheds wind-driven rain better, so keep the edges close to the ground. Check the tension before bed."
+    "q": "Is a hex tarp better than a rectangle for a hammock?",
+    "a": "A hex puts more fabric over the sleeper's body and less at the ends, so it protects better per ounce. A rectangle is simpler to pitch and works as a ground tarp as well. The Pro Venture hex at $29.99 and the Hammock Tarp rectangle at $19.99 show the contrast."
   },
   {
-    "q": "Is the Wise Owl worth it over the WINKAURA?",
-    "a": "If you want a lite 18.9 oz version and taped seams, the Wise Owl is the pick. The WINKAURA gives similar basics for less, and its dimensions are stated. Compare weight against price."
+    "q": "Is the Wise Owl worth $33.91 over the $19.99 Hammock Tarp?",
+    "a": "The Wise Owl adds a lite 18.9 oz option, aluminum stakes and a 3000 mm rating on its listing. The Hammock Tarp already has taped seams and six guy cords at 26 oz. Pay the extra for lower weight and a stated rating, and save otherwise. Both pitch the same way, with a ridgeline and stakes, so the difference shows in the pack and the rating rather than in the setup."
   },
   {
-    "q": "How do I pitch a tarp over a hammock?",
-    "a": "Run a ridgeline over the hammock, hang the tarp on it and stake out the corners. Keep the sides low for wind cover. Pull the guylines tight."
+    "q": "How do I pitch a storm configuration over a hammock?",
+    "a": "Run the ridgeline between two trees above the hammock, drape the tarp, and stake or guy out the end tie-outs low toward the ground. Pull both ends down so the opening narrows, and leave enough gap for air flow. Six tie-outs, as on the Pro Venture, make the job easy."
   },
   {
-    "q": "How do I dry the tarp after rain?",
-    "a": "Shake off water and hang it on a line or ridgeline. Dry it fully before packing so it does not mildew. Wipe stakes before storing."
+    "q": "How do I keep condensation off the underside of the tarp?",
+    "a": "Leave a gap between the sleeper and the fabric, and keep the ends open enough for air to move. Pull the sides taut so droplets run off rather than collecting. Wipe the tarp down in the morning and dry it before packing. A damp bundle left in a pack for several days can smell and weaken its coating, so shake it out at the first sunny stop and hang it from a branch for twenty minutes."
+  },
+  {
+    "q": "Can I use a small 7.5 ft tarp over a full-size hammock?",
+    "a": "It will shed light rain over the sleeper, but the ends of a 9 to 11 ft hammock will stick out. The Azarxis Hammock tarp at 7.55 x 4.59 ft suits warm, dry nights and a spare footprint role. Choose a 11 to 12 ft tarp when weather is uncertain, and keep the short sheet as a spare footprint, a gear cover or a seat pad for camp."
   }
+];
+
+export const bottomLine = [
+  "For most hammock campers the Pro Venture hex is the best match: 12 ft of ridge, a cut that follows the sleeper and six tie-outs for $29.99. Weight-conscious hikers can step to the Wise Owl lite, and anyone starting out can grab the Sunyear Hammock bundle.",
+  "Measure your hammock first and check the overhang the tarp leaves at each end. That one subtraction does more for a dry night than any waterproof rating on the label."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
