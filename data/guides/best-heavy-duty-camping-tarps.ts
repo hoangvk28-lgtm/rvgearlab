@@ -1,21 +1,20 @@
 export const guideSlug = "best-heavy-duty-camping-tarps";
 export const guideTitle = "6 Best Heavy Duty Camping Tarps in 2026";
-export const metaTitle = "Best Heavy Duty Camping Tarps in 2026";
-export const metaDescription = "Best heavy duty camping tarps compared on mil thickness, weight per square yard and grommet or webbing design, for camp shelter and ground cover.";
+export const metaTitle = "Best Heavy-Duty Camping Tarps in 2026";
+export const metaDescription = "Six heavy-duty camping tarps compared on mil thickness, grommet strength and long-term sun exposure, for base camps and hard use.";
 export const mainKeyword = "best heavy duty camping tarps";
 export const introParagraphs = [
-  "A heavy duty camping tarp earns the label with thickness and edge construction, not with the word on the title. A 14 mil polyethylene tarp, a 10 mil poly tarp and a coated Oxford vinyl tarp behave differently in sun, wind and sharp ground.",
-  "Six tarps are ranked here on listed mil thickness, fabric weight, finished size and how the corners are reinforced. Lightweight rain flys and thin 5 mil covers were left to other guides."
+  "Heavy-duty camping tarps are judged by how they fail. Polyethylene usually gives up at the grommets, where all the pull lands on a few square millimeters of plastic. It can also craze after seasons of sun, and it flaps itself to pieces if it never draws tight. The six tarps here answer those failure modes in different ways: thicker plastic, tighter grommet spacing, rope-stitched hems, heat-sealed seams or an Oxford vinyl base with webbing loops in place of grommets altogether. Choosing among them means deciding which failure you are most likely to meet.",
+  "Thickness is the headline number, though it is only part of the story. A mil equals 0.001 inch, so a 14 mil sheet like the Patiobay or Sunvigor is nearly half again as thick as a 10 mil sheet, and weight per square yard (about 5 ounces at 10 mil, around 6.5 at 14) tells you the same story in another unit. What a thicker sheet buys is puncture and abrasion resistance. What it cannot buy is a good tie-out, and that is where reinforcement matters most. A thick sheet with weak corners still fails at the corners, just later and more expensively.",
+  "Base camps are the natural home for this tier. A tarp that stays up for a week faces sun, wind, rain, snow load and the occasional boot. Each pick was weighed against its product specs, its stated construction and verified purchaser comments, with abuse tolerance in front and packed size far behind. Heavy duty means heavy, and none of these is for carrying far. The extra mass is what lets them survive a hard season, so weight counts for them as a virtue. They are for the camper who drives to a site, sets a tough roof once and expects it to last for years."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
-export const heroImage = "/images/editorial/home-golden-hour-campsite.webp";
-export const heroImageAlt = "Dome tent and hammock at a forest campsite at golden hour";
+export const heroImage = "https://m.media-amazon.com/images/I/41BwIxRBc0L._SL500_.jpg";
 
 export interface GuideProduct {
   id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
   imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-  take?: string; catch?: string;
 }
 
 export const products: GuideProduct[] = [
@@ -29,25 +28,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41BwIxRBc0L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CJLGVLY3?tag=rvgearlab-20",
-    "description": "The Patiobay tarp is 16 by 20 feet, 14 mil thick and about 6.35 ounces per square yard. Metal grommets sit every 23.6 inches along a hem reinforced with stitched poly rope on all sides.\n\nIt is the biggest tarp in this group and one of two 14 mil options, alongside the Sunvigor. Against the Accompagner it trades the Oxford fabric for polyethylene, and it covers far more ground than the 10 mil sets.\n\nIt suits a base camp with a big kitchen, gear pile or group shelter, where one large tarp replaces several small ones. The listing also names roofs, boats and pools among its uses.",
+    "description": "The Patiobay Large Tarp 16x20 is a 14 mil polyethylene sheet weighing about 6.35 ounces per square yard, with metal grommets at 23.6 inch intervals and a stitched poly rope hem reinforcing all four sides. That works out to 320 square feet of thick plastic, which is the scale a base camp needs for a kitchen, a gear pile and a few chairs, with ropes to spare.\n\nIt is the largest tarp in the guide and shares its 14 mil thickness with the Sunvigor Tarp 10x20, while covering far more ground than either 10 mil sheet. Compared with the Accompagner Black Tarps 7x12 it swaps coated Oxford vinyl for plastic, gaining about 236 square feet in the process and a stronger rope hem. The two share a heavy build and a work-tarp attitude.\n\nIt is built for the camper who sets up once and stays a week: a group of friends, a family reunion or a hunting camp. Its mass lets it ride out gusts that would lift a thinner sheet clean off the ropes. A big sheet like this pays back its price in the first stormy night under it, when nothing else around the fire stays dry.",
     "specs": [
-      "16 x 20 ft, 14 mil",
-      "6.35 oz per square yard",
-      "Grommets every 23.6 in"
+      "16 x 20 ft, 14 mil, 6.35 oz per square yard",
+      "Metal grommets every 23.6 inches",
+      "Stitched poly rope hem on all sides"
     ],
     "pros": [
-      "14 mil thickness is the heaviest here",
-      "Huge 16 x 20 ft coverage",
-      "Stitched poly rope reinforces the hem",
-      "Metal grommets all around"
+      "Thickest and largest sheet in the group",
+      "Rope-stitched hem runs along every edge",
+      "Grommets every 23.6 inches spread the load",
+      "Plenty of room for a kitchen and gear"
     ],
     "cons": [
-      "Heavy and bulky when packed",
-      "Highest price in the group"
+      "Heavy and bulky when you pack it",
+      "Highest price in the heavy-duty group"
     ],
-    "bestFor": "Big base camps and group shelters",
-    "take": "The largest and thickest tarp here. A solid base-camp roof or ground cover for a group.",
-    "catch": "At this size and thickness it is a car camping tarp, not a pack item."
+    "bestFor": "Big base camps and group shelters"
   },
   {
     "id": "best-heavy-duty-camping-tarps-2",
@@ -59,55 +56,51 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51TODZaW-IL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0C32J6R3P?tag=rvgearlab-20",
-    "description": "The Sunvigor tarp is 10 by 20 feet in 14 mil virgin polyethylene at about 6.5 ounces per square yard. Brass grommets run every 23.6 inches, and the seams and hems are heat sealed.\n\nIt has the same 14 mil thickness as the Patiobay in a narrower, lower-priced shape. Compared with the 10 mil Raindeway and VHESS tarps, it adds heat-sealed seams and non-recycled polyethylene.\n\nIt works as a long ridge-line shelter over a picnic table, a row of gear or a vehicle side. The long, narrow shape pitches well between trees.",
+    "description": "The Sunvigor Tarp 10x20 is a 10 by 20 foot sheet of 14 mil virgin polyethylene at about 6.5 ounces per square yard. Brass grommets run every 23.6 inches, and the seams and hems are heat sealed. The long, narrow shape suits a ridgeline strung between two trees, and the brass hardware is what you want on a tarp that spends months outdoors.\n\nIt matches the Patiobay Large Tarp 16x20 on thickness at a lower price, and against the RAINDEWAY Tarps 10x12 and VHESS Heavy Duty 10x12 it adds four extra mil of plastic. Heat sealing the seams is the mechanism that keeps water from wicking through the folds, and virgin polyethylene gives a more uniform film than recycled stock. The extra length also lets you pitch the tarp low on one side.\n\nIt is the right choice for a hunting camp, a work site or a long row of gear that wants a single tough roof. A wood stack, a utility trailer or a bunk line fits easily under a sheet this long. Brass hardware and heat-sealed seams point to a tarp meant for years of repeated setups, not a single season.",
     "specs": [
-      "10 x 20 ft, 14 mil",
-      "Virgin polyethylene",
-      "Heat-sealed seams, brass grommets"
+      "10 x 20 ft, 14 mil virgin polyethylene",
+      "About 6.5 oz per square yard",
+      "Heat-sealed seams, brass grommets every 23.6 inches"
     ],
     "pros": [
-      "14 mil thickness at a lower price",
-      "Heat-sealed seams and hems",
-      "Brass grommets resist rust",
-      "Long shape suits ridge-line pitches"
+      "Same 14 mil thickness as the biggest tarp",
+      "Brass grommets resist rust over seasons",
+      "Heat-sealed seams keep the wet out",
+      "Long shape suits a ridgeline between trees"
     ],
     "cons": [
-      "Narrow for a square shelter",
-      "Bulky and heavy for backpacking"
+      "Too narrow for a square shelter",
+      "Bulky and heavy to carry far"
     ],
-    "bestFor": "Long shelters and vehicle covers",
-    "take": "A thick, lower-priced alternative to the Patiobay in a long shape.",
-    "catch": "The 10 foot width limits side coverage without extra poles."
+    "bestFor": "Long shelters and vehicle covers"
   },
   {
     "id": "best-heavy-duty-camping-tarps-3",
     "rank": 3,
     "badge": "Best Non-Poly Option",
-    "name": "Accompagner Black Tarps Heavy Duty Waterproof 7x12ft",
+    "name": "Accompagner Black Tarps 7x12 Oxford Vinyl",
     "price": "$29.99",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Q7uFdolXL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0GXDWMFMC?tag=rvgearlab-20",
-    "description": "The Accompagner is a 7 by 12 foot heavyweight Oxford vinyl tarp with a PVC coating, weighing 4.2 pounds. It uses reinforced webbing loops in place of metal grommets and has a hydrophobic coating that sheds water.\n\nWhere the Patiobay and Sunvigor use polyethylene, this tarp uses coated Oxford fabric the listing says resists warping in high heat. It is the second smallest tarp here, and it avoids grommets that can rust or tear.\n\nIt suits truck beds, kayak covers, ground sheets and small shelters where abrasion and heat matter more than size. The listing also names roof repair and cargo covers as uses.",
+    "description": "The Accompagner Black Tarps 7x12 is a 7 by 12 foot heavyweight Oxford vinyl tarp with a PVC coating, weighing 4.2 pounds. It uses reinforced webbing loops in place of metal grommets and carries a hydrophobic coating that sheds water. Black vinyl handles heat and rubbing better than thin plastic, which makes it a work tarp as much as a camping one.\n\nWhere the Patiobay Large Tarp 16x20 and Sunvigor Tarp 10x20 are polyethylene, this tarp is a woven base with a vinyl skin, and its webbing loops stand up to load without tearing out of the fabric. It covers 84 square feet, which is plenty for a truck bed, a generator or a pile of split wood, and the Oxford vinyl shrugs off the rubbing those jobs bring.\n\nIt suits campers who cover a pickup bed, a generator or a stack of tools and want a cover that will not crack in the sun. It also works as a floor under a cot or a gear bench, and the black finish hides stains from soot and mud, which makes it look presentable season after season.",
     "specs": [
-      "7 x 12 ft Oxford vinyl",
-      "4.2 lb, PVC coated",
-      "Webbing loops, no grommets"
+      "7 x 12 ft Oxford vinyl, PVC coated",
+      "4.2 pounds with webbing loops",
+      "Hydrophobic coating sheds water readily"
     ],
     "pros": [
-      "Oxford vinyl resists abrasion and heat",
-      "Webbing loops will not rust",
-      "Hydrophobic coating sheds water",
-      "Resists deformation in high heat"
+      "Webbing loops replace grommets that rust",
+      "Oxford vinyl resists heat and abrasion",
+      "Hydrophobic coating sheds rain off quickly",
+      "Suits a truck bed or trailer deck"
     ],
     "cons": [
-      "Small 7 x 12 ft coverage",
-      "Fewer tie-out points than grommet rows"
+      "Small 7 x 12 ft area",
+      "Fewer tie-out points than a grommet row"
     ],
-    "bestFor": "Truck beds and abrasive ground",
-    "take": "A tough coated tarp in a compact size for abrasive or hot conditions.",
-    "catch": "At 7 by 12 feet it only covers a small shelter."
+    "bestFor": "Truck beds and abrasive ground"
   },
   {
     "id": "best-heavy-duty-camping-tarps-4",
@@ -119,114 +112,107 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41SD-Ux3IlL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B09VTMMP89?tag=rvgearlab-20",
-    "description": "RAINDEWAY lists a finished 10 by 12 foot tarp at 10 mil and about 5 ounces per square yard, with reinforced metal grommets spaced around all sides. The listing says the size is the actual usable size.\n\nIt is thinner than the 14 mil sets and a step above the 8 by 10 RhymBar in coverage. It undercuts the Patiobay and Sunvigor and costs slightly more than the VHESS.\n\nIt suits a campsite shelter or ground cover for two people, and works as a tent footprint or an equipment cover. The metal grommets on all four sides make several pitch shapes possible.",
+    "description": "The RAINDEWAY Tarps 10x12 lists a finished 10 by 12 foot sheet at 10 mil and about 5 ounces per square yard, with reinforced metal grommets spaced around all sides. The listing says the size is the actual usable size, a useful promise in a category where nominal dimensions often run generous. At 120 square feet it suits two campers and their gear.\n\nIt sits a step above the RhymBar 8x10 FT in coverage and below the 14 mil sheets in thickness, so it is the middle of the lineup and the sensible default for most car campers who want a tough roof. Next to the VHESS Heavy Duty 10x12 it matches the size and mil rating, and it undercuts the Patiobay Large Tarp 16x20 and Sunvigor Tarp 10x20 on price.\n\nIt suits campers who want an honest 10 by 12 base-camp roof without paying for 14 mil of plastic. Weekenders and car campers will find it just thick enough for a stationary shelter, and the stated true size means the tarp fits the frame you planned. A pair of them would roof an entire group site for the cost of one large tarp.",
     "specs": [
-      "10 x 12 ft, 10 mil",
-      "About 5 oz per sq yard",
-      "Reinforced metal grommets"
+      "10 x 12 ft, 10 mil, about 5 oz per square yard",
+      "Finished size matches the listed size",
+      "Reinforced metal grommets around all sides"
     ],
     "pros": [
-      "Actual 10 x 12 ft finished size",
-      "UV-resistant polyethylene",
-      "Grommets on all sides",
-      "Low price for the size"
+      "Finished size is the true usable size",
+      "Reinforced grommets all around the sheet",
+      "Mid-weight 10 mil body for the price",
+      "Good size for two campers and gear"
     ],
     "cons": [
-      "Thinner than the 14 mil sets",
-      "Not suited to harsh abrasion"
+      "Thinner than the 14 mil tarps",
+      "Not built for harsh, abrasive ground"
     ],
-    "bestFor": "Two-person shelter and ground cover",
-    "take": "A practical 10 by 12 foot tarp at a low price, a good first camp tarp.",
-    "catch": "The 10 mil poly is not meant for sharp rock or heavy snow load."
+    "bestFor": "Two-person shelter and ground cover"
   },
   {
     "id": "best-heavy-duty-camping-tarps-5",
     "rank": 5,
     "badge": "Best Low-Cost Shelter",
-    "name": "Tarps Heavy Duty Waterproof 10’ X 12’",
+    "name": "VHESS Heavy Duty Waterproof Tarp 10x12",
     "price": "$17.75",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Alzv8CYUL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CSYJ68DJ?tag=rvgearlab-20",
-    "description": "VHESS offers a 10 by 12 foot, 10 mil polyethylene tarp in silver and brown, with a 14 by 14 weave count and metal grommets every 24 inches. The listing mentions rain, snow and wind protection.\n\nIt matches the RAINDEWAY on size and thickness and runs slightly lower in price. Compared with the RhymBar it adds two feet in each direction, and it carries the same 10 mil rating.\n\nIt suits budget car campers who want a simple shelter roof or ground sheet that handles light use. The weave count and grommet spacing are both stated, which makes the specs easy to compare.",
+    "description": "The VHESS Heavy Duty 10x12 is a 10 by 12 foot, 10 mil polyethylene tarp in silver and brown, with a 14 by 14 weave count and metal grommets every 24 inches. The listing mentions rain, snow and wind protection, and the reversible faces let you show a dark side to the woods or a silver side to the sun.\n\nIt matches the RAINDEWAY Tarps 10x12 on size and thickness and runs a little lower in price, which makes it the better pick when two similar sheets are on the table. Compared with the RhymBar 8x10 FT it adds two feet in each direction, taking the cover from a solo shelter to a two-person camp, a jump worth the few dollars it costs, since a two-person camp needs that extra room for packs and boots.\n\nIt suits a budget-minded camper who wants a sturdy base-camp roof and a dependable groundsheet in one inexpensive package. Pair it with a few cord loops through the grommets and it holds up well in normal weather. Silver side up reflects sun over a hot afternoon, and brown side up quiets the camp. For the price, it is easy to buy two and keep one as a clean spare.",
     "specs": [
-      "10 x 12 ft, 10 mil",
-      "14 x 14 weave count",
-      "Metal grommets every 24 in"
+      "10 x 12 ft, 10 mil polyethylene",
+      "14 x 14 weave count, silver and brown",
+      "Metal grommets every 24 inches"
     ],
     "pros": [
-      "Weave count is stated in the listing",
-      "10 x 12 ft gives decent coverage",
-      "Silver and brown sides",
-      "Lowest price for a 10 x 12 ft tarp"
+      "Low price for a 10 mil tarp",
+      "Reversible faces in silver and brown",
+      "14 x 14 weave gives a tight base",
+      "Metal grommets spaced every 24 inches"
     ],
     "cons": [
-      "Same 10 mil limits as other budget tarps",
-      "Grommets every 24 in can tear in strong wind"
+      "Same 10 mil limit as other budget tarps",
+      "Grommets can tear out in strong wind"
     ],
-    "bestFor": "Budget shelter and ground cover",
-    "take": "The lowest cost 10 by 12 foot option here for light camp duty.",
-    "catch": "At this thickness, heavy use will wear it faster than a 14 mil tarp."
+    "bestFor": "Budget shelter and ground cover"
   },
   {
     "id": "best-heavy-duty-camping-tarps-6",
     "rank": 6,
     "badge": "Best Compact Heavy Tarp",
-    "name": "8 x 10 FT Waterproof Heavy Duty Tarp",
+    "name": "RhymBar 8x10 FT Waterproof Heavy Duty Tarp",
     "price": "$15.49",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411U5pKyxzL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0FRMD23GL?tag=rvgearlab-20",
-    "description": "RhymBar sells an 8 by 10 foot tarp, 10 mil thick and made from PE in a reversible silver and brown, with hot-sealed rust-proof grommets every 2 feet. The listing calls it insulated and lists 20 sizes.\n\nIt is the smallest tarp here by area, just under the 7 by 12 Accompagner, and the lowest in price. The reversible silver and brown faces give you a choice of side to show.\n\nIt fits a solo camper or a small cover, such as a woodpile or a tent entrance. Twenty size options mean you can match the cover to the job.",
+    "description": "The RhymBar 8x10 FT is an 80 square foot sheet of 10 mil polyethylene, reversible in silver and brown, with hot-sealed rust-proof grommets every 2 feet. The listing offers 20 sizes, so the line can scale up if a bigger tarp is needed later. As the entry point to the heavy-duty tier it costs the least and keeps the 10 mil body.\n\nIt is the smallest sheet by area, just under the 84 square foot Accompagner Black Tarps 7x12, and gives up two feet in each direction to the RAINDEWAY Tarps 10x12 and VHESS Heavy Duty 10x12. The grommets every two feet allow guy lines at close spacing, which helps a compact tarp stay quiet in wind and share the load evenly across its perimeter.\n\nIt suits solo campers and hunters who need a compact, tough shelter, a pack cover or a groundsheet. The low price makes it an easy spare for a tent vestibule or a bike cover, and the reversible faces let you choose how it looks in camp. It folds more easily than the larger sheets, which helps in a crowded truck.",
     "specs": [
-      "8 x 10 ft, 10 mil PE",
-      "Reversible silver and brown",
-      "Hot-sealed grommets every 2 ft"
+      "8 x 10 ft, 10 mil polyethylene",
+      "Reversible faces in silver and brown",
+      "Hot-sealed rust-proof grommets every 2 feet"
     ],
     "pros": [
-      "Compact 8 x 10 ft size packs smaller",
-      "Reversible color",
-      "Hot-sealed grommets",
-      "Lowest price in the group"
+      "Lowest price in the heavy-duty group",
+      "Grommets every two feet give many tie-outs",
+      "Rust-proof grommets suit wet and humid camps",
+      "Reversible faces suit sun or woods"
     ],
     "cons": [
-      "Too small for a group shelter",
+      "Too small to shelter a group",
       "10 mil poly dents under sharp debris"
     ],
-    "bestFor": "Solo shelter and small covers",
-    "take": "A small, low-cost heavy tarp for solo campers or gear covers.",
-    "catch": "At 8 by 10 feet it covers one person and little else."
+    "bestFor": "Solo shelter and small covers"
   }
 ];
 
 export const howWeEvaluated = [
   {
     "title": "Thickness and weight",
-    "description": "Mil thickness and ounces per square yard were compared, since 14 mil poly resists wear far better than 10 mil."
+    "description": "We read the mil rating and the ounces per square yard where listed, treating them as two views of the same fact. A 14 mil sheet near 6.5 ounces per square yard outweighs a 10 mil sheet near 5, and we gave the heavier sheet credit for abuse tolerance. Listings without a weight figure were judged by mil alone, and we noted whether the maker says virgin or recycled polyethylene, since virgin stock gives a more uniform sheet."
   },
   {
-    "title": "Material type",
-    "description": "Polyethylene and coated Oxford vinyl were compared for heat, abrasion and weather behavior."
+    "title": "Grommet and loop reinforcement",
+    "description": "Abuse almost always begins at a tie-out. We compared grommet spacing, grommet material, hem construction and whether a stitched rope or webbing loop backs the point. Brass or aluminum hardware ranked above plain metal, and webbing loops ranked above any grommet."
   },
   {
-    "title": "Edges and anchor points",
-    "description": "Grommet spacing, webbing loops and hem reinforcement were checked for how each tarp holds in wind."
+    "title": "Sun and long-term exposure",
+    "description": "A base-camp tarp lives in daylight, so we looked at what each listing says about UV treatment, silver reflective faces and sealed seams. Where a listing did not mention UV protection, we treated the coating as likely to age faster. A tarp with a stated treatment, a reflective face or sealed seams was credited for longevity, since those features slow the slow damage that sunlight does."
   },
   {
-    "title": "Finished size",
-    "description": "Stated finished dimensions were compared, as some tarp listings quote cut sizes."
+    "title": "Base-camp suitability",
+    "description": "We asked how each sheet behaves when left up for days: does it span a kitchen, does the shape fit a ridgeline, and can it take gusts. Size and shape were weighed against price. A sheet that is thick but too small for a camp was ranked below one that matches the job. Shelter area under the ridge was estimated from finished size, since pitched width runs several feet shorter than the flat dimension."
   },
   {
-    "title": "Weather features",
-    "description": "Heat-sealed seams, UV resistance and reversible colors were noted."
+    "title": "Buyer feedback themes",
+    "description": "Verified buyer reports were scanned for repeated mention of tearing at corners, stiff folds and sizes that differ from the title. A theme counted after it repeated across reviews of the listing. One-off complaints were left out of the scoring. We also checked each tarp's claims against its own listed numbers, so a promised weight or size had to agree with the thickness and dimensions beside it."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -235,80 +221,39 @@ export interface HowToChooseSection {
 export const howToChoose: HowToChooseSection[] = [
   {
     "subheading": "By Group Size",
+    "intro": "Base-camp tarps are chosen by how many people and how much gear sit under them. Each row ends at a pick.",
     "table": {
       "headers": [
         "Your situation",
-        "Recommended pick",
-        "Why"
-      ],
-      "rows": [
-        [
-          "Group base camp",
-          "Patiobay 16x20 14 Mil",
-          "16 x 20 ft covers a kitchen and gear"
-        ],
-        [
-          "Long ridge-line pitch",
-          "Sunvigor 10x20 14 Mil",
-          "Long 10 x 20 ft shape fits between trees"
-        ],
-        [
-          "Two people with budget",
-          "RAINDEWAY 10x12 10 Mil",
-          "10 x 12 ft at a low price"
-        ],
-        [
-          "Solo shelter",
-          "RhymBar 8x10 10 Mil",
-          "Compact 8 x 10 ft size"
-        ],
-        [
-          "Hot, abrasive truck bed",
-          "Accompagner 7x12 Vinyl",
-          "Oxford vinyl resists heat and abrasion"
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
         "Recommended pick"
       ],
       "rows": [
         [
-          "$10 to $20",
-          "RhymBar 8x10 10 Mil or VHESS 10x12 10 Mil"
+          "Group base camp with a kitchen",
+          "Patiobay Large Tarp 16x20"
         ],
         [
-          "$10 to $30",
-          "RAINDEWAY 10x12 10 Mil or Accompagner 7x12 Vinyl"
+          "Long ridgeline pitch between trees",
+          "Sunvigor Tarp 10x20"
         ],
         [
-          "$30 to $50",
-          "Sunvigor 10x20 14 Mil or Patiobay 16x20 14 Mil"
+          "Two campers on a budget",
+          "RAINDEWAY Tarps 10x12"
+        ],
+        [
+          "Solo shelter or hunting blind",
+          "RhymBar 8x10 FT"
+        ],
+        [
+          "Hot, abrasive truck bed",
+          "Accompagner Black Tarps 7x12"
         ]
       ]
     }
   },
   {
-    "subheading": "14 Mil Poly vs 10 Mil Poly",
-    "cards": [
-      {
-        "label": "14 mil poly",
-        "text": "Thicker 14 mil tarps resist wear and wind flapping better. Patiobay 16x20 14 Mil and Sunvigor 10x20 14 Mil are in this class."
-      },
-      {
-        "label": "10 mil poly",
-        "text": "A 10 mil tarp is lighter and cheaper, and it suits light use. RAINDEWAY 10x12 10 Mil, VHESS 10x12 10 Mil and RhymBar 8x10 10 Mil are 10 mil tarps."
-      }
-    ],
-    "note": "Choose Patiobay 16x20 14 Mil for hard use and VHESS 10x12 10 Mil for light camping."
-  },
-  {
-    "subheading": "By Budget",
+    "subheading": "By Price Level",
+    "intro": "Heavy-duty tarps scale with thickness and size, so these price bands follow the same steps.",
     "table": {
       "headers": [
         "Price level",
@@ -316,51 +261,100 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "Lowest price",
-          "RhymBar 8x10 10 Mil"
+          "$10 to $20, lowest price",
+          "RhymBar 8x10 FT"
         ],
         [
-          "Low price, bigger size",
-          "VHESS 10x12 10 Mil"
+          "$10 to $20, bigger size",
+          "VHESS Heavy Duty 10x12"
         ],
         [
-          "Mid price, 10 x 12 ft",
-          "RAINDEWAY 10x12 10 Mil"
+          "$10 to $30, mid price",
+          "RAINDEWAY Tarps 10x12"
         ],
         [
-          "Mid price, 14 mil",
-          "Sunvigor 10x20 14 Mil"
+          "$30 to $50, long 14 mil",
+          "Sunvigor Tarp 10x20"
         ],
         [
-          "Largest and thickest",
-          "Patiobay 16x20 14 Mil"
+          "$30 to $50, largest and thickest",
+          "Patiobay Large Tarp 16x20"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "14 Mil Poly vs 10 Mil Poly",
+    "intro": "The two thickness tiers in this guide behave differently under stress, and the price step reflects it.",
+    "cards": [
+      {
+        "label": "14 mil",
+        "text": "The Patiobay Large Tarp 16x20 and Sunvigor Tarp 10x20 weigh roughly 6.35 to 6.5 ounces per square yard and resist punctures, abrasion and long sun exposure. They cost more and are bulky to carry, which suits a camp you drive to."
+      },
+      {
+        "label": "10 mil",
+        "text": "The RAINDEWAY Tarps 10x12, VHESS Heavy Duty 10x12 and RhymBar 8x10 FT sit near 5 ounces per square yard. They are lighter to handle and cheaper, and they tolerate normal weather, though sharp debris will dent them."
+      }
+    ],
+    "note": "Pick 14 mil for a camp that stays up all season, and 10 mil for a camp you move."
+  },
+  {
+    "subheading": "By What Fails First",
+    "intro": "Abuse tolerance is really about the weakest link, and each pick has a different answer.",
+    "table": {
+      "headers": [
+        "The risk",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Grommets tearing in wind",
+          "Accompagner Black Tarps 7x12, with webbing loops"
+        ],
+        [
+          "Seams wicking water",
+          "Sunvigor Tarp 10x20, with heat-sealed seams"
+        ],
+        [
+          "Hems fraying at the edge",
+          "Patiobay Large Tarp 16x20, with stitched rope hems"
+        ],
+        [
+          "Rust staining the sheet",
+          "RhymBar 8x10 FT, with rust-proof grommets"
+        ],
+        [
+          "Wrong-size surprise",
+          "RAINDEWAY Tarps 10x12, whose finished size matches the title"
         ]
       ]
     }
   },
   {
     "subheading": "For Camp Shelter Setups Specifically",
+    "intro": "A base-camp tarp stays pitched, which changes what matters: sun, wind loading and sag.",
     "cards": [
       {
         "label": "Look for",
-        "text": "Look for finished size, grommets or loops at close spacing and UV treatment, so you can pitch a ridge line or lean-to."
+        "text": "Look for heat-sealed seams, grommets at close spacing, rope or webbing reinforcement and a stated UV treatment. A ridgeline strung at an angle sheds water and wind, so a sheet like the Sunvigor Tarp 10x20 that is longer than wide works well."
       },
       {
         "label": "In this comparison",
-        "text": "Sunvigor 10x20 14 Mil gives a long ridge pitch, and VHESS 10x12 10 Mil is a lower cost starter shelter."
+        "text": "The Patiobay Large Tarp 16x20 is the whole-camp roof, the Sunvigor Tarp 10x20 is the long ridgeline pick, and the RAINDEWAY Tarps 10x12 is the honest-size two-person roof. The Accompagner Black Tarps 7x12 fits a work area better than a living space."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "Abuse tolerance rises with money, but only up to the point where your site no longer demands it.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more on Patiobay 16x20 14 Mil or Sunvigor 10x20 14 Mil if you want a thick tarp that survives many seasons of sun and wind. Accompagner 7x12 Vinyl is the step up when heat and abrasion matter."
+        "text": "You leave the tarp up for weeks or camp where sun and wind are relentless. The Patiobay Large Tarp 16x20 and Sunvigor Tarp 10x20 give 14 mil bodies and hardware built for seasons, and their price is in the $30 to $50 band."
       },
       {
         "label": "Save if",
-        "text": "Save with VHESS 10x12 10 Mil or RhymBar 8x10 10 Mil for occasional camping, where a 10 mil tarp is enough for rain cover and ground sheets."
+        "text": "You camp a few weekends a year and take the tarp down each time. The RhymBar 8x10 FT and VHESS Heavy Duty 10x12 live in the $10 to $20 band and give a thick enough 10 mil sheet for normal weather."
       }
     ]
   }
@@ -368,52 +362,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "What mil thickness means",
-    "explanation": "A mil is one thousandth of an inch. A 14 mil tarp is thicker than a 10 mil tarp and takes more wear. Look for the mil number and the weight per square yard on the listing."
+    "criterion": "Mil thickness against weight",
+    "explanation": "One mil equals 0.001 inch, so a 14 mil sheet is nearly half again as thick as a 10 mil one. Weight per square yard is the companion figure: about 5 ounces for the 10 mil RAINDEWAY, 6.35 for the 14 mil Patiobay and 6.5 for the 14 mil Sunvigor. A thicker sheet resists punctures and abrasion but is bulkier and costs more. Look for both the mil number and the ounce figure, and use the pair to compare listings."
   },
   {
-    "criterion": "Finished versus cut size",
-    "explanation": "Some tarps are sold by a cut size larger than the usable size. A listing that says finished size gives the actual measurements. Read the dimensions line before buying."
+    "criterion": "Denier for fabric tarps",
+    "explanation": "Heavy-duty fabric is measured in denier instead of mil, and denier is the weight against toughness dial: a 70D ripstop nylon is markedly more puncture resistant than a 20D silnylon, at a cost in weight. The Accompagner uses a heavy Oxford vinyl base that behaves like a high-denier fabric. Two retailers may print different denier numbers for one tarp, so rely on the manufacturer sheet. Look for a denier or fabric weight in the bullets, and compare only like fabrics."
   },
   {
-    "criterion": "Grommets or webbing",
-    "explanation": "Metal grommets are standard but can tear out under load. Webbing loops spread tension and do not rust. Check the spacing and whether the edges are stitched."
+    "criterion": "Grommet spacing and reinforcement",
+    "explanation": "A grommet is only as strong as the plastic that surrounds it. Closer spacing such as every 23.6 or 24 inches lets you spread the load across more points, and a stitched rope hem or webbing loop backs each one. Bare grommets in thin sheet rip out as soon as a gust loads them. Count the spacing in the listing, and look for the words rope hem, stitched or heat-sealed next to the grommet description."
   },
   {
-    "criterion": "Poly versus coated fabric",
-    "explanation": "Polyethylene is cheap and light for its size but can warp in heat. Coated Oxford is heavier and handles heat and abrasion better. Look for the fabric on the listing and match it to your ground."
+    "criterion": "Webbing loops versus grommets",
+    "explanation": "Webbing loops are bartacked straps sewn into the tarp, and they hold far better than grommets because the load goes into stitching rather than a punched hole. The Accompagner uses webbing in place of grommets, which also removes the rust risk. The trade is fewer tie-out points to choose from around the edge. Webbing also avoids rust. Look for loops at the corners and along the edges, and decide whether you want the tear resistance or the close spacing."
   },
   {
-    "criterion": "Weight and packed size",
-    "explanation": "A 16 by 20 foot, 14 mil tarp weighs many pounds and packs bulky. A smaller 10 by 12 foot tarp is easier to carry. Compare the finished size with your car space."
+    "criterion": "UV treatment and long-term sun",
+    "explanation": "Sunlight degrades the surface of polyethylene and vinyl coatings, so a tarp left up for seasons ages fastest where it is brightest. When a listing carries no UV rating, expect the coating to go first under sustained sun. Silver reflective faces, as on the RhymBar and VHESS, bounce some sunlight away. Look for UV treatment in the bullets, and note that a missing statement is a reason to fold the tarp away between trips."
   },
   {
-    "criterion": "UV and seams",
-    "explanation": "Sun breaks down thin plastic over time. Heat-sealed seams and UV treatment help longevity. Look for named UV resistance and sealed seams."
+    "criterion": "True size against label size",
+    "explanation": "Sizes are often nominal, and a tarp sold as 10 by 12 can finish a few inches short on each side, which matters when the sheet barely covers a tent. The RAINDEWAY listing states that the size is the actual usable size, which is a rare promise. Look for finished dimensions and tolerance language in the bullets. Measure your tent or table before you buy. Allow a margin for sag if the tarp will be pitched as a roof."
   }
 ];
 
 export const faq = [
   {
-    "q": "How thick should a heavy duty camping tarp be?",
-    "a": "Fourteen mil is the top of this group, and 10 mil is fine for light use. Thicker tarps resist wear and flapping. Patiobay 16x20 14 Mil and Sunvigor 10x20 14 Mil are the thick ones."
+    "q": "Is a 14 mil tarp worth the extra weight?",
+    "a": "For a base camp that stays up all season, yes. A 14 mil sheet like the Patiobay Large Tarp 16x20 resists punctures, abrasion and long sun exposure better than a 10 mil one, and the mass helps it ride out gusts. For a camp you move every weekend, the lower weight and price of a 10 mil sheet is usually better."
   },
   {
-    "q": "Is a poly tarp waterproof?",
-    "a": "The listings describe polyethylene tarps as waterproof and UV resistant. Seams and grommet holes are the weak spots. Sunvigor 10x20 14 Mil lists heat-sealed seams."
+    "q": "Why do heavy-duty tarp grommets still tear out?",
+    "a": "Thickness protects the sheet, not the hole. A punched grommet concentrates force on a small ring, and in any poly it can pull through when the tarp snaps in a gust. Use a loop of cord or a carabiner at each grommet to spread the pull, and tension gradually. Webbing loops, as on the Accompagner, solve the problem at the design level."
   },
   {
-    "q": "What is the best way to pitch a tarp as a shelter?",
-    "a": "Run a ridge line between two trees and stake the corners at an angle. Use all grommets to spread load. Lean-to and A-frame pitches both work with the 10 by 12 foot sizes."
+    "q": "Is Oxford vinyl better than polyethylene?",
+    "a": "It is better for heat, abrasion and long life on a small tarp. The Accompagner Black Tarps 7x12 uses a PVC-coated base with webbing loops, so it handles a truck bed or a work area better than thin plastic. It weighs 4.2 pounds for 84 square feet and offers fewer tie-outs. For a large camp roof, polyethylene remains the more economical choice."
   },
   {
-    "q": "Will a poly tarp hold up in wind?",
-    "a": "A flapping tarp wears quickly. Use all anchor points and pull it tight, and keep the pitch low. A heavier 14 mil tarp such as Patiobay 16x20 14 Mil resists flutter better."
+    "q": "How do I pitch a 10 by 20 foot tarp?",
+    "a": "Run a rope between two trees at about head height and tie it off tight. Drape the Sunvigor Tarp 10x20 over the line so the sheet hangs evenly, and stake or tie the corners at a slope. Use extra cord at the mid grommets to keep long edges from flapping. Angle the ridge into the wind, and lower one side for a storm pitch."
   },
   {
-    "q": "How should I store a tarp?",
-    "a": "Dry it before folding, as moisture causes mildew. Fold it loosely and keep it out of the sun. A large tarp like Patiobay 16x20 14 Mil is easier to store in a bin."
+    "q": "How should I store a heavy-duty tarp?",
+    "a": "Let it dry fully, fold it loosely and keep it in a cool, shaded place. A thick poly sheet will crack along a crease that is folded the same way every time, so shift the fold lines each season. Brush off dirt and sap before folding, and keep it out of direct sun when you are not using it."
+  },
+  {
+    "q": "Can I use a heavy-duty tarp as a groundsheet?",
+    "a": "Yes, and thick poly is one of the better groundsheets. The VHESS Heavy Duty 10x12 or RAINDEWAY Tarps 10x12 lasts for years under a tent, and the silver face can face up or down depending on the weather. Trim or fold the edge so it sits inside the tent footprint, and avoid sharp debris that dents 10 mil poly."
   }
+];
+
+export const bottomLine = [
+  "For a base camp that has to last, the Patiobay Large Tarp 16x20 is the best heavy-duty tarp here, with 14 mil plastic, 320 square feet and a stitched rope hem on every edge. The Sunvigor Tarp 10x20 matches its thickness in a long ridgeline shape with brass grommets and heat-sealed seams.",
+  "On a tighter budget, the RAINDEWAY Tarps 10x12 gives an honest finished size at 10 mil, and the VHESS Heavy Duty 10x12 and RhymBar 8x10 FT trim the price further. The Accompagner Black Tarps 7x12 is the choice when heat, abrasion and a truck bed matter more than area."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

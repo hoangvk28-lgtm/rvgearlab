@@ -1,21 +1,20 @@
 export const guideSlug = "best-camping-tarps-under-20";
 export const guideTitle = "5 Best Camping Tarps Under 20 in 2026";
-export const metaTitle = "Best Camping Tarps Under 20 in 2026";
-export const metaDescription = "Best camping tarps under $20, compared on thickness, grommets, finished size and weave, so a few dollars covers a campsite, firewood or a tent floor.";
+export const metaTitle = "Best Camping Tarps Under $20 (2026)";
+export const metaDescription = "Five camping tarps priced under $20, compared on thickness, size and edge strength, so you know what a budget poly tarp covers and what it cannot.";
 export const mainKeyword = "best camping tarps under 20";
 export const introParagraphs = [
-  "Under $20 you can cover a camp kitchen, a woodpile or a tent floor, and the real choice is between thin and large or thick and small. Poly tarps are rated in mils, and the difference between 5 and 20 mil changes how long a tarp survives wind and abrasion.",
-  "Five tarps make the list, from a 5 mil 8 by 20 sheet to a 20 mil 5 by 7. They are ranked by how much usable coverage and durability each gives near the cap, with the best balance first."
+  "Twenty dollars buys polyethylene, and every tarp in this guide is some version of it. That is not an insult, because poly is waterproof from the first rain, tolerates mud and sap, and shrugs off the kind of abuse a ground cloth gets. What you buy at this ceiling is a choice between area and thickness: the 10 by 12 foot sheets spread eight mil of plastic across 120 square feet, while the 20 mil Xpose Safety puts the same budget into 35 square feet of armor. Most buyers should decide which of those two directions suits their camp before comparing anything else.",
+  "What you give up at this price is worth saying plainly. No sheet here is pitched by a ridgeline seam, none has webbing loops, and none is fabric that draws tight in a breeze. Plastic tarps tear where force concentrates, usually at a grommet or a corner, and then the tear runs along the hem. So the useful questions are how big the sheet is, how the edges are built and what job it will do, because a tarp that never needs to be pitched tight is often all you need, and because a sheet that is cheap enough to replace is a sensible tool for dirty work.",
+  "We evaluated five tarps between about $13 and $20 from product specs, hem and corner construction and verified buyer feedback. Cartman 8x10 sits at the bottom, around $13, Kotap near $14, Vandham around $17, Amazon Basics near $19 and the Xpose at the cap. A twenty dollar tarp is the right answer for covering wood, lining a tent floor, shading a table for a weekend or keeping a spare in the trunk. It is the wrong answer for a ridge-pitched shelter in wind, and the sections below say exactly why."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
-export const heroImage = "/images/editorial/tents-lakeside-campsite.webp";
-export const heroImageAlt = "Colorful tents pitched beside a misty mountain lake";
+export const heroImage = "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg";
 
 export interface GuideProduct {
   id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
   imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-  take?: string; catch?: string;
 }
 
 export const products: GuideProduct[] = [
@@ -29,25 +28,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/415rwuqy1NL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0FJ52LQL8?tag=rvgearlab-20",
-    "description": "The Vandham is a 10 by 12 foot, 8 mil tarp made from high-density polyethylene. Rubber triangular reinforcements strengthen the corners, and the double-layer edges carry grommets about every meter.\n\nIt is the largest 8 mil sheet in the group, with more cover than the 8 by 10 Cartman and a thicker feel than the 5 mil Kotap. The Xpose is far tougher, yet it covers only a third of the area.\n\nIt suits tent floors, picnic shelters and wood stacks for a camper who wants one general-purpose tarp. Unfold it outside first, since a new poly tarp can carry a faint smell.",
+    "description": "The Vandham Tarp 10x12FT is an 8 mil high-density polyethylene sheet with rubber triangular reinforcements at the corners and two-layer edges that carry grommets about every meter. At 120 square feet it is the biggest 8 mil sheet that fits under the twenty dollar ceiling, and the corner patches address the spot where cheap poly usually gives up first.\n\nAgainst the CARTMAN 8x10Ft it brings 40 extra square feet for a few dollars, and next to the 5 mil Kotap 8 x 20 ft it supplies a sturdier body across a more compact footprint. The Xpose Safety sheet is far thicker, yet it spreads over a third of the area, so the Vandham is the better balance of mil and size.\n\nIt suits a camper who wants one general-purpose tarp for a tent floor, a picnic shelter or a wood stack, and who would rather spend on area than on thickness. Unfold it in the sun for an hour before first use and the new-plastic smell fades, leaving a tarp that is ready for years of camp chores.",
     "specs": [
-      "10x12 ft, 8 mil HDPE",
-      "Rubber corner reinforcements",
-      "Grommets roughly every meter"
+      "10 x 12 ft, 8 mil high-density polyethylene",
+      "Rubber triangular reinforcements at every corner",
+      "Double-layer edges, grommets roughly every one meter"
     ],
     "pros": [
-      "Big 120 square foot coverage",
-      "Rubber corners resist tearing",
-      "Double-layer edges around the grommets",
-      "Flexible and light for the size"
+      "Roughly 120 square feet of cover",
+      "Rubber corners resist tearing out under load",
+      "Double-layer edges reinforce the area around grommets",
+      "Flexible and easy to fold up small"
     ],
     "cons": [
-      "Faint odor when new",
+      "Faint plastic odor when it is new",
       "Thinner than a 20 mil tarp"
     ],
-    "bestFor": "All-round camp cover",
-    "take": "The best balance of size, thickness and price, so it is the one to buy if you only want one.",
-    "catch": "A new tarp can smell like plastic for a day or two."
+    "bestFor": "All-round camp cover"
   },
   {
     "id": "best-camping-tarps-under-20-2",
@@ -59,25 +56,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51FIGhZ26zL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B089PY2LCV?tag=rvgearlab-20",
-    "description": "The Cartman is an 8 by 10 foot, 8 mil poly tarp with heat-sealed hems, nylon rope sewn into the edges and a grommet about every 36 inches. Plastic reinforcements sit at all four corners.\n\nIt costs the least here and is smaller than the Vandham, so it covers a two-person tent floor or a small gear pile rather than a full camp kitchen. The rope-reinforced hem gives it good tear resistance for the money.\n\nIt suits campers who need a low-cost ground cloth or a rain cover for a pile of wood. Buy two if you want one for the floor and one for overhead cover.",
+    "description": "The CARTMAN 8x10Ft is the entry point of the group: an 8 by 10 foot, 8 mil polyethylene sheet with heat-sealed hems, nylon rope sewn into the edges, a grommet about every 36 inches and plastic reinforcements at each corner. Around $13 buys 80 square feet of sealed, rope-edged plastic, which is more build than the price suggests.\n\nIt costs less than the Vandham Tarp 10x12FT and gives up 40 square feet to get there, so it covers a two-person tent floor or a small gear pile rather than a full camp kitchen. Compared with the Kotap 8 x 20 ft, it swaps length for a thicker 8 mil body with a rope-reinforced hem, a better pairing for ground-level work where the sheet rests on gravel.\n\nIt suits campers who need a low-cost ground cloth or a rain cover for a pile of wood. Buy two if you want one for the floor and one for overhead cover, which is a perfectly workable plan since the whole pair is cheap, and you still stay under the price of a single mid-range tarp, with a spare sheet left for the trunk.",
     "specs": [
-      "8x10 ft, 8 mil polyethylene",
-      "Heat-sealed hems, nylon rope",
-      "Grommets every 36 inches"
+      "8 x 10 ft, 8 mil polyethylene",
+      "Heat-sealed hems with rope inside",
+      "Grommets every 36 inches, plastic corners"
     ],
     "pros": [
-      "Lowest price in the group",
-      "Rope-reinforced edges resist fraying",
-      "Heat-sealed hems have no needle holes",
-      "8 mil body feels sturdy"
+      "Lowest price in this whole group",
+      "Rope-reinforced edges resist fraying and tearing out",
+      "Heat-sealed hems leave no needle holes",
+      "Thick 8 mil body feels sturdy for the money"
     ],
     "cons": [
-      "Smaller than the others",
+      "Smaller than the other wide tarps",
       "Not meant for long wind exposure"
     ],
-    "bestFor": "Tent floors and wood piles",
-    "take": "The cheapest 8 mil tarp that still has real reinforcement, and a fine pick for a spare.",
-    "catch": "Eighty square feet runs out quickly if you want shelter for four."
+    "bestFor": "Tent floors and wood piles"
   },
   {
     "id": "best-camping-tarps-under-20-3",
@@ -89,25 +84,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41IgrwKg8YL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0748HGDVD?tag=rvgearlab-20",
-    "description": "About 9.5 by 11.3 feet, this AmazonBasics sheet is a rip-stop weave with polyethylene coating on each face. Reinforced corners and edges carry grommets for tie-downs, and it is built for tents, vehicles and firewood.\n\nThe rip-stop weave keeps a small puncture from running the length of the sheet, an advantage the plain poly Kotap and Cartman lack. It costs more than both of them and sits just under the cap.\n\nIt suits campers who want a tear-resistant tarp for a vehicle cover or an overhead shelter. It is also a good second tarp for a tent floor.",
+    "description": "Roughly 9.5 by 11.3 feet in size, this Amazon Basics tarp pairs a woven rip-stop base with a polyethylene coating on each face. Reinforced corners and edges carry grommets for tie-downs, and the product is described as built for tents, vehicles and firewood, a useful range for one purchase. At around $19 it sits just beneath the ceiling and delivers roughly 107 square feet.\n\nThe rip-stop weave keeps a small puncture from running the length of the sheet, an advantage the plain poly Kotap 8 x 20 ft and CARTMAN 8x10Ft do not offer. It adds about $2 to the Vandham Tarp 10x12FT and trades a thicker plastic feel for a woven core that resists tear spread, which is a smart exchange for a tarp expected to cross rough ground, such as a campsite with roots and stones.\n\nIt suits campers who want a tear-resistant tarp for a vehicle cover or an overhead shelter. It is also a good second tarp for a tent floor, because the lamination on both faces means neither side needs to face a particular direction, and spare grommets let you rig it quickly over a tailgate or a table.",
     "specs": [
-      "About 9.5x11.3 ft rip-stop",
-      "Polyethylene laminate on both sides",
-      "Reinforced corners and grommets"
+      "Roughly 9.5 x 11.3 ft, woven rip-stop",
+      "Polyethylene laminate on both faces",
+      "Reinforced corners and grommets for tie-downs"
     ],
     "pros": [
-      "Rip-stop weave limits tear spread",
-      "Both-side lamination sheds water",
-      "Reinforced corners hold tie-downs",
-      "Fits tents, vehicles and wood piles"
+      "Rip-stop weave limits how far tears run",
+      "Lamination on both faces sheds water well",
+      "Reinforced corners hold tie-down loads well",
+      "Suits tents, vehicles and wood piles"
     ],
     "cons": [
-      "Costs more than basic poly",
-      "Thin for heavy wind use"
+      "Costs more than the basic poly tarps",
+      "Thin for sustained heavy wind exposure"
     ],
-    "bestFor": "Tear-resistant general cover",
-    "take": "A sound choice when you worry about a small hole turning into a split.",
-    "catch": "It is not as thick as the 20 mil Xpose."
+    "bestFor": "Tear-resistant general cover"
   },
   {
     "id": "best-camping-tarps-under-20-4",
@@ -119,25 +112,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51Ab-hu1sTL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0096LZJX2?tag=rvgearlab-20",
-    "description": "The Kotap is a 5 mil poly tarp with a finished size of 7 feet 4 inches by 19 feet 6 inches, sold as 8 by 20. It has tightly woven coated polyethylene, rustproof aluminum grommets every 3 feet and at each corner.\n\nIt is the longest sheet here, so it can cover a row of firewood, a boat or a long gear line that nothing else reaches. It is thinner than the 8 mil Vandham, and the finished size is smaller than the label.\n\nIt suits campers who cover long, narrow loads like a stack of logs or a canoe. Hang it with cord through each grommet to keep it taut.",
+    "description": "The Kotap 8 x 20 ft is a 5 mil polyethylene sheet with a finished size of 7 feet 4 inches by 19 feet 6 inches, sold under the 8 by 20 label. Tightly woven coated polyethylene carries rustproof aluminum grommets every 3 feet and at each corner, and at about $14 it works out to roughly 143 square feet in one long piece.\n\nIt is the longest sheet in the group, so it can cover a row of firewood, a boat or a long gear line that nothing else reaches. Compared with the 8 mil Vandham Tarp 10x12FT it spreads over a long thin strip, giving up thickness so that a single sheet spans an awkward load such as a canoe or a long run of split logs.\n\nIt suits campers who cover long, narrow loads like a stack of logs or a canoe. Hang it with cord through each grommet to keep it taut, and plan on it as a seasonal cover that is cheap to replace once winter storage ends. A second one makes a handy gear cover for the trailer deck.",
     "specs": [
-      "5 mil poly, 7'4\" x 19'6\" finished",
-      "Aluminum grommets every 3 feet",
-      "Coated polyethylene weave"
+      "5 mil poly, 7'4\" x 19'6\" finished size sheet",
+      "Rustproof aluminum grommets every 3 feet along edges",
+      "Tightly woven coated polyethylene sheet body"
     ],
     "pros": [
       "Long reach for woodpiles and boats",
-      "Rustproof aluminum grommets",
-      "Light and easy to fold",
-      "Low price for the length"
+      "Rustproof aluminum grommets last a long time",
+      "Folds light and compact for storage",
+      "Low price considering how long the sheet is"
     ],
     "cons": [
-      "Thin 5 mil material",
+      "Thin 5 mil material tears sooner than thicker sheets",
       "Finished size is smaller than the label"
     ],
-    "bestFor": "Long, narrow cover jobs",
-    "take": "Pick this one when the job is long and low, and wind is not a concern.",
-    "catch": "The sheet is thin, so use it for covering and not for tent shelter in storms."
+    "bestFor": "Long, narrow cover jobs"
   },
   {
     "id": "best-camping-tarps-under-20-5",
@@ -149,50 +140,51 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51bl4KfIO3L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CDN74YR5?tag=rvgearlab-20",
-    "description": "The Xpose is a 5 by 7 foot, 20 mil tarp with a 370 GSM 16 by 16 weave, reinforced corners and brass grommets. It is UV protected and described as fully waterproof for all seasons.\n\nIt is the thickest sheet by a wide margin and covers 35 square feet, so it protects a seat, a gear bag or an engine instead of a campsite. Next to the 8 mil tarps, it lasts longer in abrasion and sun.\n\nIt suits campers who want a long-lived ground cloth under a small tent or a tough cover for a cooler. Use it where durability beats area.",
+    "description": "The Xpose Safety 5' x 7' sheet is a 20 mil tarp with a 370 GSM 16 by 16 weave, reinforced corners and brass grommets. It is UV protected and described as fully waterproof for all seasons. At up to $20 it spends the whole budget on thickness, which is why it covers 35 square feet instead of a campsite.\n\nIt is the thickest sheet by a wide margin, and next to the 8 mil tarps it lasts longer in abrasion and sun. Where the Vandham Tarp 10x12FT spreads the budget across area, the Xpose concentrates it into a sheet that shrugs off gravel, tree roots and long sun exposure, which is the whole case for buying it.\n\nIt suits campers who want a long-lived ground cloth under a small tent or a tough cover for a cooler, a bag, an outboard motor or a seat, jobs where the thick weave pays off. Use it where durability beats area, and pair it with a bigger, cheaper sheet for overhead rain, so each tarp does the job it suits best.",
     "specs": [
-      "20 mil, 370 GSM weave",
-      "Brass grommets, reinforced corners",
-      "UV protected, waterproof"
+      "20 mil, 370 GSM 16 x 16 weave",
+      "Brass grommets with reinforced corners for tie-downs",
+      "UV protected and waterproof for all seasons"
     ],
     "pros": [
-      "Thickest sheet in the group",
+      "Thickest sheet in the whole group",
       "Heavy weave resists rips and abrasion",
-      "Brass grommets last",
-      "Good under tents and gear"
+      "Brass grommets hold up over seasons",
+      "Good under small tents and gear bags"
     ],
     "cons": [
-      "Only 35 square feet of coverage",
-      "Heavier to carry than thin tarps"
+      "Just 35 square feet of cover in total",
+      "Heavy to carry for its size"
     ],
-    "bestFor": "Durability over size",
-    "take": "Choose it for the tough small jobs and the long service life.",
-    "catch": "The 5x7 size is too small to shelter a camp table."
+    "bestFor": "Durability over size"
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Thickness in mils",
-    "description": "Compared mil ratings and weave notes, since thickness is the clearest signal of how long a poly tarp lasts in sun and wind."
+    "title": "Cost per square foot against the ceiling",
+    "description": "We sorted the five tarps by price and divided each by its covered area. The Kotap 8 x 20 ft comes to about ten cents a square foot, the Vandham Tarp 10x12FT about fourteen, the CARTMAN 8x10Ft about sixteen and the Amazon Basics sheet near eighteen. The Xpose Safety sheet costs the most per square foot by a long way, near 57 cents at the cap, and we kept it because its thickness serves a distinct job."
   },
   {
-    "title": "Finished size",
-    "description": "Compared stated sizes against finished dimensions, because label sizes run larger than the real tarp."
+    "title": "Where each sheet tears first",
+    "description": "Poly tarps fail at the edges, so we compared hem folds, corner patches and rope reinforcement instead of fabric claims. Rubber triangular corners, nylon rope along the hem and double-layer edges all spread tie-down force. A plain hem with a metal grommet punched through it was ranked lower, no matter how many grommets it carried."
   },
   {
-    "title": "Grommets and corners",
-    "description": "Looked at grommet spacing, metal type and corner reinforcement, which decide how well a tarp can be tied down."
+    "title": "Mil, weave and thickness",
+    "description": "Thickness is quoted in mils, so we compared the 5, 8 and 20 mil sheets directly. We also noted the Xpose 370 GSM weave and the rip-stop weave on the Amazon Basics tarp, because a woven base can make a thin sheet act tougher. Listings that omit a mil figure were scored as ordinary covers."
   },
   {
-    "title": "Coverage per dollar",
-    "description": "Weighed square feet of cover against price to find the best use of a $20 budget."
+    "title": "Real size against label size",
+    "description": "Several of these tarps are sold with nominal sizes, and the Kotap finished size of 7 feet 4 inches by 19 feet 6 inches is a good example. We used finished dimensions where a listing printed them. The sheets were then ranked by how well their true size fits a tent floor, a woodpile or a table."
+  },
+  {
+    "title": "Buyer feedback and ceiling fit",
+    "description": "We read verified buyer feedback for recurring comments about odor, stiffness and edge failures. A sheet needed to sit at or under twenty dollars at the time of review, since an article about a price ceiling should not drift past it. Single complaints were set aside, and repeated ones shaped the cons. Each tarp was also judged on whether it does its own job well, rather than on whether it resembles a pricier shelter."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -200,133 +192,137 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By job",
+    "subheading": "By the Job You Need Done",
+    "intro": "At twenty dollars each tarp has a clear job. Match yours first, and the pick follows.",
     "table": {
       "headers": [
-        "Your situation",
-        "Recommended pick",
-        "Why"
-      ],
-      "rows": [
-        [
-          "Tent floor protection",
-          "Cartman 8x10 Green",
-          "Low price and 8 mil body."
-        ],
-        [
-          "Overhead cover for a table",
-          "Vandham 10x12 Green",
-          "120 square feet of 8 mil sheet."
-        ],
-        [
-          "Long woodpile or canoe",
-          "Kotap 8x20 Blue",
-          "Nearly 20 feet of reach."
-        ],
-        [
-          "Heavy abrasion under a small tent",
-          "Xpose 5x7 20 Mil",
-          "20 mil, 370 GSM weave."
-        ],
-        [
-          "Tear resistance matters most",
-          "AmazonBasics 9.5x11.3",
-          "Rip-stop with reinforced corners."
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
+        "Job",
         "Recommended pick"
       ],
       "rows": [
         [
-          "$10 to $20",
-          "Cartman 8x10 Green or Kotap 8x20 Blue"
+          "Tent floor plus gear space",
+          "Vandham Tarp 10x12FT"
         ],
         [
-          "$10 to $20",
-          "Vandham 10x12 Green or AmazonBasics 9.5x11.3"
+          "Two-person footprint or small pile",
+          "CARTMAN 8x10Ft"
         ],
         [
-          "$10 to $20",
-          "Xpose 5x7 20 Mil"
+          "Tear-resistant vehicle or tent cover",
+          "Amazon Basics 9.5x11.3 rip-stop tarp"
+        ],
+        [
+          "Row of firewood, canoe or long gear line",
+          "Kotap 8 x 20 ft"
+        ],
+        [
+          "Seat, cooler or small-tent floor",
+          "Xpose Safety 5' x 7'"
         ]
       ]
     }
   },
   {
-    "subheading": "Thick and small vs thin and large",
-    "cards": [
-      {
-        "label": "Thick and small",
-        "text": "A thick tarp like the Xpose 5x7 20 Mil lasts through sun and abrasion but covers little area. It is best for protecting one item."
-      },
-      {
-        "label": "Thin and large",
-        "text": "A thin tarp like the Kotap 8x20 Blue gives long reach for the price and folds small. It suits covering loads in fair weather."
-      }
-    ],
-    "note": "Most campers should buy the Vandham 10x12 Green as a middle path, then add the Xpose 5x7 20 Mil only for tough jobs."
-  },
-  {
-    "subheading": "By budget",
+    "subheading": "By the Price Within the Ceiling",
+    "intro": "The ceiling is $20, but the five picks spread across it. These prices are the guide's rough figures.",
     "table": {
       "headers": [
-        "Pick",
+        "Price",
         "Recommended pick"
       ],
       "rows": [
         [
           "Around $13",
-          "Cartman 8x10 Green"
+          "CARTMAN 8x10Ft"
         ],
         [
           "Around $14",
-          "Kotap 8x20 Blue"
+          "Kotap 8 x 20 ft"
         ],
         [
           "Around $17",
-          "Vandham 10x12 Green"
+          "Vandham Tarp 10x12FT"
         ],
         [
           "Around $19",
-          "AmazonBasics 9.5x11.3"
+          "Amazon Basics 9.5x11.3 rip-stop tarp"
         ],
         [
           "Up to $20",
-          "Xpose 5x7 20 Mil"
+          "Xpose Safety 5' x 7'"
         ]
       ]
     }
   },
   {
-    "subheading": "For under-tent use specifically",
+    "subheading": "Big and Thin vs Small and Thick",
+    "intro": "The ceiling forces a choice between spreading plastic across area or stacking it into thickness.",
+    "cards": [
+      {
+        "label": "Big and thin",
+        "text": "A larger area at 5 or 8 mil covers more ground per dollar and folds easily. The Vandham Tarp 10x12FT, the Kotap 8 x 20 ft and the CARTMAN 8x10Ft all land here, and they fit best where the tarp sits still."
+      },
+      {
+        "label": "Small and thick",
+        "text": "The Xpose Safety 5' x 7' is 20 mil with a 370 GSM weave, so it lasts through abrasion and sun. It suits a ground cloth or a gear cover, and is a poor fit for a roof that has to span a table."
+      }
+    ],
+    "note": "Buy the Vandham Tarp 10x12FT for general use, and add the Xpose Safety only where durability is the whole point."
+  },
+  {
+    "subheading": "By What You Give Up at $20",
+    "intro": "Every ceiling hides a compromise. Here is what each pick costs you at this price and which tarp fits that compromise.",
+    "table": {
+      "headers": [
+        "If you can live without",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "Ridgeline pitching and a tight roof",
+          "Vandham Tarp 10x12FT, hung loose over a table"
+        ],
+        [
+          "Thickness, for the sake of length",
+          "Kotap 8 x 20 ft"
+        ],
+        [
+          "Area, for the sake of toughness",
+          "Xpose Safety 5' x 7'"
+        ],
+        [
+          "Rip-stop tear control",
+          "CARTMAN 8x10Ft, because its rope hem is the cheap fix"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Wood, Gear and Tent Floors Specifically",
+    "intro": "Covering and lining jobs are where a twenty dollar tarp earns its keep.",
     "cards": [
       {
         "label": "Look for",
-        "text": "Look for a finished size a few inches smaller than your tent floor so water cannot pool."
+        "text": "Look for rope or double-layer edges and corner patches, since those spread the pull around a grommet. The Vandham Tarp 10x12FT has rubber corners, and the CARTMAN 8x10Ft carries nylon rope in its hem."
       },
       {
         "label": "In this comparison",
-        "text": "The Cartman 8x10 Green and AmazonBasics 9.5x11.3 are large enough for most two to four person tents, and the Xpose 5x7 20 Mil suits a one-person tent."
+        "text": "Cover a woodpile with the Kotap 8 x 20 ft, line a tent floor with the Amazon Basics 9.5x11.3, and keep the Xpose Safety under a cooler or seat. Together they still cost less than one mid-priced shelter tarp."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "The ceiling is the story here, so the upgrade question is whether this tier is enough.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more if you want one tarp that survives repeated use, which means the Xpose 5x7 20 Mil for small jobs or the Vandham 10x12 Green for general cover. A $30 tarp with poles, such as a camp awning kit, is a bigger upgrade."
+        "text": "You want to pitch an A-frame, ride out wind or sleep under it. At that point the Vandham Tarp 10x12FT is still a fine spare, but a coated-polyester tarp with a ridgeline and a stronger set of tie-outs is the real answer."
       },
       {
         "label": "Save if",
-        "text": "Save if you only need a one-off cover, because the Cartman 8x10 Green and Kotap 8x20 Blue cost the least."
+        "text": "You mainly cover firewood, line a tent floor or shade a table for a weekend. The CARTMAN 8x10Ft and Kotap 8 x 20 ft finish those jobs well, and at their price you can replace them every couple of seasons."
       }
     ]
   }
@@ -334,48 +330,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "Thickness in mils",
-    "explanation": "A mil is one thousandth of an inch, and poly tarps typically run from 5 mil for light cover to 20 mil for heavy duty. Thin sheets cost less and fold small, while thick ones resist wind flapping and abrasion much longer. Look for the mil figure in the title, and treat unlabelled weights as the thinnest option."
+    "criterion": "What poly really is at this price",
+    "explanation": "Polyethylene is a plastic sheet or a plastic-coated weave, and it is the reason these tarps cost around $13 to $20. It is waterproof the moment you unfold it, but it is stiff, it does not drape into a taut pitch and it can rip along a hem. Expect it to behave like a heavy cover, not a fabric shelter. Look for the words polyethylene, HDPE or poly in the title, since a listing that never names the material is hiding a cheaper one. At the $20 ceiling, accept the compromise and choose by job."
   },
   {
-    "criterion": "Finished versus labelled size",
-    "explanation": "Tarps are sold by nominal size, but the finished sheet is usually an inch or two smaller per side because of the hems. A tarp labelled 8 by 20 can measure 7 feet 4 inches by 19 feet 6 inches, which is enough to leave a tent corner exposed. Look for a finished size line, and add a foot to your measurement."
+    "criterion": "Mil thickness, from 5 to 20",
+    "explanation": "A mil is one thousandth of an inch, and it is the plain measure of a poly tarp. A 5 mil sheet like the Kotap is a light cover, 8 mil is a working sheet, and 20 mil is armor that costs far more per square foot. Thicker plastic resists puncture and abrasion, but it also folds stiffer and covers less area at the same price. Find the mil figure in the title or bullets, and treat missing ones as a basic cover."
   },
   {
-    "criterion": "Grommet spacing",
-    "explanation": "Grommets are the metal eyelets where you tie cord, and tighter spacing gives you more anchor points. Spacing of about 3 feet is standard, and every corner should also have a reinforced hole. Look for rustproof aluminum or brass, and avoid plastic eyelets for any shelter use."
+    "criterion": "What tears first: grommets and hems",
+    "explanation": "Grommets concentrate every pull into a small ring of plastic, so a hem with nothing behind the grommet tears out first. Rope sewn into the hem, double-layer edges and rubber corner patches spread the load, which is the main reason the Vandham Tarp 10x12FT and CARTMAN 8x10Ft outlast plain edges. A tarp with fewer, reinforced points beats one with many bare grommets. Look for words like rope-reinforced, double layer or corner patch in the description."
   },
   {
-    "criterion": "Rip-stop or plain poly",
-    "explanation": "A rip-stop weave has thicker threads woven in a grid so a small cut does not spread. Plain poly tarps tear easily once a hole starts, especially at the edge near a grommet. Look for rip-stop or reinforced hem language if you plan to hang the tarp in wind."
+    "criterion": "Finished size versus label size",
+    "explanation": "Nominal sizes are common in this tier, and the finished sheet can come up a foot short. The Kotap sold as 8 by 20 feet finishes at 7 feet 4 inches by 19 feet 6 inches, which is a real difference on a tent floor. A tarp 8 inches short leaves a gap where rain finds the seam. Look for a finished size in the bullets, and when a title says only 8 by 20, assume the finished sheet is slightly smaller."
   },
   {
-    "criterion": "Cover or shelter use",
-    "explanation": "A tarp used as a roof flaps and strains, while a tarp used over a woodpile mainly needs to shed water. Thin 5 mil sheets suit coverage, and anything over 8 mil handles a shelter better. Decide the job first, then buy the matching thickness."
+    "criterion": "Rip-stop weave and 370 GSM weave",
+    "explanation": "Some of these sheets are a woven base coated in poly, and the weave changes how a tear behaves. A rip-stop grid like the one on the Amazon Basics sheet stops a small puncture from running, and a heavy 370 GSM 16 by 16 weave like the Xpose adds raw puncture resistance. The trade is thickness against area, since weave quality costs money you cannot spend on size. Look for rip-stop or a GSM and weave count in the bullets."
+  },
+  {
+    "criterion": "UV exposure over a full season",
+    "explanation": "Sunlight is slow poison for poly, since it embrittles and cracks the surface in a few seasons of daily exposure, and the coating goes first. The Xpose Safety is described as UV protected, but the other tarps do not make that claim, so treat them as covers you fold away between trips. A tarp left up all summer wants a stated UV treatment. Look for UV protection in the bullets, and replace a cracked sheet instead of patching it, since cracks spread each time the plastic flexes."
   }
 ];
 
 export const faq = [
   {
-    "q": "How big a tarp do I need under a tent?",
-    "a": "Choose a tarp about 2 to 4 inches smaller than the tent floor on every side so rain does not run under it and pool. The Cartman 8x10 Green and AmazonBasics 9.5x11.3 cover most four-person floors, and you can fold the edges under for a snug fit."
+    "q": "Is a $20 tarp good enough for camping?",
+    "a": "Yes, for the jobs it is built for. A twenty dollar poly tarp is a fine tent floor, a woodpile cover, a gear shield and a rain roof over a table, since it is waterproof from the first use. It is a poor choice for a ridge-pitched shelter in wind because plastic does not draw tight. If you only camp in fair weather, this tier covers almost everything."
   },
   {
-    "q": "Is a thicker tarp always better?",
-    "a": "Not always. A 20 mil tarp is tougher but heavy and stiff, so it is a poor choice if you pack by hand. The Xpose 5x7 20 Mil suits a car camper, while thinner options like the Kotap 8x20 Blue are easier to carry."
+    "q": "Why does my poly tarp keep tearing at the corners?",
+    "a": "Corners take the full pull of a tie-down, and a plain grommet punched through folded plastic tears out of the hem. Pick a tarp with corner patches or rope-reinforced edges such as the Vandham Tarp 10x12FT or CARTMAN 8x10Ft, and tie into the corner patch rather than just the grommet. Tension gradually and use a loop of cord to spread the pull."
   },
   {
-    "q": "Can I use a poly tarp as a rain shelter?",
-    "a": "Yes, if you pitch it at an angle so water runs off and use every grommet you can. Hang the ridge line tight and keep the pitch steep, because a flat tarp pools water and sags. The Vandham 10x12 Green has enough area for a small kitchen shelter."
+    "q": "Is the Xpose 20 mil worth it over an 8 mil tarp?",
+    "a": "It depends on the job. The Xpose Safety is far thicker and carries brass grommets, so it lasts longer under a tent or cooler, but it only covers 35 square feet. For a general-purpose tarp the Vandham Tarp 10x12FT gives 120 square feet of 8 mil sheet for a similar price. Choose the Xpose for durability, and the Vandham for area."
   },
   {
-    "q": "Why does my new tarp smell?",
-    "a": "Polyethylene sheets are packed soon after production and travel long distances, so they can have a plastic smell on arrival. Unfold the tarp outside for a day and the odor fades. The Vandham 10x12 Green mentions this in its own notes."
+    "q": "How should I pitch a poly tarp as a roof?",
+    "a": "Run a rope between two anchors, drape the tarp over it and tie each grommet to a stake, a tree or a rock. Add a short loop of cord through each grommet before you stake it, so the pull goes into a loop rather than the plastic. Keep one end lower so rain runs off, and expect the sheet to flap in gusts."
   },
   {
-    "q": "How do I fold a tarp so it lasts?",
-    "a": "Fold it in a long strip, then roll it, rather than creasing it into a block. Creases weaken poly over time and crack at the fold lines. Store the tarp dry and keep it out of direct sun when you are not using it."
+    "q": "How do I make a cheap tarp last longer?",
+    "a": "Keep it out of the sun between trips, fold along new lines each time and dry it before storing it. Sunlight breaks down the surface of polyethylene faster than rain or use does, and repeated folds along the same crease crack the plastic. Patch small tears with a repair tape before they run, and replace the sheet when the surface goes chalky."
+  },
+  {
+    "q": "Can a tarp this cheap work as a tent footprint?",
+    "a": "It can, and it is a common use. Cut or fold the sheet so it sits a few inches inside the tent floor, because water running off the tent onto an overhanging tarp will flow underneath. The CARTMAN 8x10Ft suits a two-person tent and the Amazon Basics 9.5x11.3 suits a family one. A thicker sheet like the Xpose Safety lasts longer against gravel."
   }
+];
+
+export const bottomLine = [
+  "The Vandham Tarp 10x12FT is the best single purchase at this ceiling, with 120 square feet of 8 mil sheet, rubber corner patches and a price around $17. It suits campers who want one tarp for a tent floor, a table roof or a wood stack and do not need to pitch it tight in wind.",
+  "If you only need a cheap floor or cover, the CARTMAN 8x10Ft at about $13 is hard to beat, and the Amazon Basics 9.5x11.3 brings a woven rip-stop core for about $19. The Kotap 8 x 20 ft handles long loads, and the Xpose Safety 5' x 7' is the pick when a small sheet must survive abrasion and sun."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

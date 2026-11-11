@@ -1,21 +1,20 @@
 export const guideSlug = "best-camping-tarps-under-50";
 export const guideTitle = "6 Best Camping Tarps Under 50 in 2026";
-export const metaTitle = "Best Camping Tarps Under 50 in 2026";
-export const metaDescription = "Best camping tarps under $50: six waterproof tarps from ripstop nylon shelters to giant poly covers, compared on coating, size and what extra budget buys.";
+export const metaTitle = "Best Camping Tarps Under $50 (2026)";
+export const metaDescription = "Six camping tarps under $50 compared by size per dollar, waterproof rating and groundsheet use, from poly sheets to 70D nylon shelters.";
 export const mainKeyword = "best camping tarps under 50";
 export const introParagraphs = [
-  "Fifty dollars is where camping tarps split into two camps: heavy poly sheets that cover a lot of ground cheaply, and ripstop shelters that actually pitch like a tent fly. The six tarps here run from about $20 to just under $45, and the gap between them is fabric, coating and what ships in the bag.",
-  "I ranked them by how much shelter you get for the money at the top of the budget, not by size alone. The pick near the cap is the one that justifies the extra spend, and the cheaper poly sheets are placed by the jobs they do well, like groundsheets and gear covers."
+  "Under fifty dollars the question changes from what you can afford to how much of the budget goes into area versus fabric. The six tarps here run from about $20 to just under $45, and they split cleanly into two camps: three polyethylene sheets that buy hundreds of square feet, and three fabric tarps that buy waterproof ratings, coatings and pitching hardware. The 20 by 30 foot MVPNET and the 14 by 20 foot Cartman return about 14 square feet per dollar, while a GoldCamp shelter returns roughly three. The real decision is which of those two returns your trip actually needs.",
+  "Waterproof ratings are the second thing to untangle at this price. The GoldCamp quotes 15,000mm of PU, six times the 2,500 rating on the FREE SOLDIER, and both sit above anything the poly sheets can claim because poly is simply waterproof by nature and is judged by thickness instead. A bigger number means the coating resists more water pressure before it wets through, which matters most when the tarp is pitched in a downpour. A tarp used as a groundsheet needs no such rating, just thickness and a tough hem, so you can ignore the number entirely when the sheet goes under a tent or over a pile of logs.",
+  "That gives the guide its theme: groundsheet duty against shelter duty. A tarp that goes under a tent needs abrasion resistance and a hem that survives being dragged. A tarp that goes overhead needs tie-out loops and a rating. We evaluated six picks from product specs and verified purchaser comments, then ranked them by which job each does best, with the three questions above as our yardstick throughout. The best use of fifty dollars is often two tarps, one for each role, rather than one that tries to be both, and the guide shows which pairs make sense, from a thick groundsheet to a storm-rated roof."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
-export const heroImage = "/images/editorial/home-golden-hour-campsite.webp";
-export const heroImageAlt = "Dome tent and hammock at a forest campsite at golden hour";
+export const heroImage = "https://m.media-amazon.com/images/I/31pGUkQ1FrL._SL500_.jpg";
 
 export interface GuideProduct {
   id: string; rank: number; badge: string; name: string; price: string; rating: number | null; reviews: number | null;
   imageUrl: string; amazonUrl: string; description: string; specs: string[]; pros: string[]; cons: string[]; bestFor: string;
-  take?: string; catch?: string;
 }
 
 export const products: GuideProduct[] = [
@@ -23,31 +22,29 @@ export const products: GuideProduct[] = [
     "id": "best-camping-tarps-under-50-1",
     "rank": 1,
     "badge": "Best Value Under $50",
-    "name": "GOLDCAMP Bushcraft Emergency Camping Tarp，70D Nylon 10X13.2FT Hammock Rain Fly ，UV 50+ and PU15000mm Tent Tarp",
+    "name": "GOLDCAMP Bushcraft 70D Nylon Camping Tarp 10x13.2ft",
     "price": "$44.95",
     "rating": null,
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/31pGUkQ1FrL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0DKNR9C5W?tag=rvgearlab-20",
-    "description": "The GoldCamp Bushcraft is a 10 by 13.2 foot tarp in 70D ripstop nylon with a 15,000mm polyurethane coating and 19 reinforced webbing loops. It is rated UV 50+ and has an aluminized layer that reflects heat, and it ships with a carry bag.\n\nIt sits at the top of this budget, about $20 above the Patiobay 12 x 16 and the Cartman 14x20, and the money buys real shelter fabric. Its 15,000mm rating is six times the 2,500 rating on the FREE SOLDIER, and the loop count gives more pitch options than the grommet-only poly sheets.\n\nIt suits solo and two-person campers who want a tarp that works as a rain fly, a lean-to or an emergency shelter. It is the one pick here you could rely on through a night of steady rain.",
+    "description": "The GOLDCAMP Bushcraft is a 10 by 13.2 foot tarp in 70D ripstop nylon with a 15,000mm polyurethane coating and 19 reinforced webbing loops. It carries a UV 50+ rating and an aluminized layer that reflects heat, and it ships with a carry bag. At about $45 it is the top of the budget, and the fabric is what the money buys: tight weave, a thick coating and a rating built for sustained rain.\n\nThe 15,000mm coating is six times the 2,500 rating on the FREE SOLDIER Waterproof tarp, and 70D nylon is markedly tougher than the 210D polyester in the CAODITU Waterproof kit. Webbing loops stand up to load far better than the plain grommets found on the poly sheets, which opens up diamond, porch and lean-to pitches.\n\nIt suits a solo or two-person camper who wants a shelter that holds up in a storm and is willing to supply cord and stakes. For a long weekend in unsettled weather, nothing else on this list is as capable, and the heat-reflecting layer helps on sunny days as well, a quiet bonus for anyone who naps under the canopy.",
     "specs": [
-      "70D ripstop nylon",
-      "15,000mm PU coating",
-      "19 webbing loops"
+      "70D ripstop nylon, 10 x 13.2 ft",
+      "15,000mm PU coating, UV 50+ rating",
+      "19 reinforced webbing loops around the sheet"
     ],
     "pros": [
       "Highest waterproof rating in the group",
-      "19 loops allow many pitch shapes",
-      "UV 50+ and aluminized heat layer",
-      "Comes with a carry bag"
+      "19 webbing loops allow many pitch shapes",
+      "UV 50+ rating protects the coating",
+      "Aluminized layer reflects heat from above"
     ],
     "cons": [
-      "Costs the most of the six",
-      "Nylon needs its own cord and stakes"
+      "Costs the most of these six",
+      "Needs your own cord and stakes"
     ],
-    "bestFor": "Serious rain shelter",
-    "take": "Spend toward the cap here if the tarp will be your rain cover, not just a groundsheet.",
-    "catch": "The 10 by 13.2 foot cut is shelter-sized, not a big basecamp cover for a whole picnic table and gear."
+    "bestFor": "Serious rain shelter"
   },
   {
     "id": "best-camping-tarps-under-50-2",
@@ -59,25 +56,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Ut5p-QJKL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B01HO15DGS?tag=rvgearlab-20",
-    "description": "The FREE SOLDIER is a 10 by 10.5 foot tarp in 210T ripstop polyester with a 2,500 PU coating and heat-sealed seams. Four guy lines with built-in tensioners and a small stuff sack come in the box.\n\nIt costs about $40, roughly $5 less than the GoldCamp, and it comes with guy lines that the GoldCamp and the poly tarps leave out. The coating is lighter than the GoldCamp, so it suits a rain fly or an awning more than a night in sustained downpour.\n\nIt suits hammock campers and weekend backpackers who want a light shelter with the cordage already included. The 118 by 126 inch size covers two people sitting.",
+    "description": "The FREE SOLDIER Waterproof tarp is a 10 by 10.5 foot sheet of 210T ripstop polyester with a 2,500 PU coating and heat-sealed seams. Four guy lines with built-in tensioners and a small stuff sack come in the box. Around $40 it is the ready-to-pitch pick: open the bag, run the lines and the shelter is up, which suits anyone who has no cord, stakes or patience for fuss.\n\nIt costs about $5 less than the GOLDCAMP Bushcraft and brings the guy lines that nylon tarp leaves for you to buy, a small convenience that adds up when you shop for a first kit. Compared with the CAODITU Waterproof kit it offers more fabric and tie-out loops for pitching a low shelter, while the CAODITU brings the poles for a flat awning roof.\n\nIt is a good match for a hiker or hammock camper who wants cord included and a stuff sack that disappears into a pack. The fabric packs down well, and the tensioners save time in the rain. It is also easy to move between campsites, so a weekend hiker can pitch it quickly and break camp before breakfast is cold.",
     "specs": [
-      "210T ripstop polyester",
-      "2,500 PU, heat-sealed seams",
-      "4 guy lines, stuff sack"
+      "10 x 10.5 ft 210T ripstop polyester",
+      "2,500 PU rating, heat-sealed seams",
+      "Four guy lines with tensioners, stuff sack"
     ],
     "pros": [
-      "Guy lines with tensioners included",
-      "Heat-sealed seams reduce leaks",
-      "Packs into a light stuff sack",
-      "Fits a hammock or two seated campers"
+      "Guy lines and tensioners are in the box",
+      "Heat-sealed seams keep stitching holes watertight",
+      "Light enough to carry on a hike",
+      "Brown finish suits a quiet site"
     ],
     "cons": [
-      "Lower waterproof rating than nylon",
-      "Brown color absorbs summer heat"
+      "Lower waterproof rating than the nylon",
+      "Dark color soaks up summer heat"
     ],
-    "bestFor": "Hammock rain fly",
-    "take": "A ready-to-hang rain fly for hammock campers who do not want to buy cord separately.",
-    "catch": "The 2,500 coating handles showers and breezy days, not storms that last all night."
+    "bestFor": "Hammock rain fly"
   },
   {
     "id": "best-camping-tarps-under-50-3",
@@ -89,25 +84,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41fxEeryGVL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0GH6WXSL5?tag=rvgearlab-20",
-    "description": "The CAODITU is a 9.8 by 9.8 foot awning in 210D ripstop polyester with a PU coating and taped seams. It arrives with two poles, stakes and guy lines, so the whole awning goes up without extra gear.\n\nIt costs about $30, close to the Patiobay 12 x 16 in price and far below the GoldCamp. Unlike the pole-free sheets it is a complete canopy kit, and it trades the larger area of the poly tarps for a proper pitched roof.\n\nIt suits car campers who want shade or rain cover at a picnic table without hunting for trees to tie to. The poles do the work of a tent frame.",
+    "description": "Think of the CAODITU Waterproof awning as a roof in a bag: a square canopy close to ten feet on a side, built from 210D ripstop polyester with a PU coating and taped seams. Two poles, stakes and guy lines arrive with it, so the whole roof stands without extra gear. At about $30 it is the budget entry to a coated-fabric shelter, with roughly 96 square feet under a PU layer.\n\nIt lands about $10 under the FREE SOLDIER Waterproof tarp while adding its own poles, so you get a flat roof on bare ground as part of the package. Next to the Patiobay Tarp 12x16 it covers 96 square feet against 192 and swaps plastic for woven fabric that folds into a bag, a good trade when the tarp is a roof and never a floor.\n\nIt suits picnic-table camps and tailgate sites where trees are scarce and a free-standing roof is welcome. A hammock camper with nothing to hang a ridgeline from will like it too, since the poles stand in for trees and the taped seams keep drips off the sleeper. Packed up, it travels with its own hardware, so nothing gets left behind in the garage.",
     "specs": [
-      "210D ripstop, taped seams",
-      "Poles, stakes, guy lines",
-      "9.8 x 9.8 ft canopy"
+      "Square 9.8 ft canopy in 210D ripstop",
+      "Taped seams, PU coating on the canopy",
+      "Two poles, stakes and guy lines included"
     ],
     "pros": [
-      "Poles included for treeless sites",
-      "Taped seams keep out rain",
-      "Works as a hammock fly too",
-      "Packs into its carry bag"
+      "Includes poles for a free-standing roof",
+      "Taped seams stay dry in steady rain",
+      "Stakes, lines and mallet come in the bag",
+      "Costs far less than shelter-grade nylon"
     ],
     "cons": [
-      "Smaller footprint than the poly tarps",
-      "Aluminum poles add weight"
+      "Footprint is modest next to the poly sheets",
+      "Aluminum poles add weight to the bag"
     ],
-    "bestFor": "Car camping awning",
-    "take": "The easiest tarp to set up on a site with no trees.",
-    "catch": "Pole weight and bulk make it a car-camp item, not a backpacking one."
+    "bestFor": "Car camping awning"
   },
   {
     "id": "best-camping-tarps-under-50-4",
@@ -119,25 +112,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/410owR1ufUL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0DX22WPZF?tag=rvgearlab-20",
-    "description": "The Patiobay is a 12 by 16 foot tarp in 8 mil virgin polyethylene with metal grommets every 23.6 inches and a stitched poly rope hem. It has no stakes or guy lines in the package.\n\nAt about $29 it is the thickest large sheet in this group, double the 5 mil Cartman 14x20 and MVPNET. It gives up the nylon strength and low weight of the GoldCamp in exchange for 192 square feet of cheap, tough coverage.\n\nIt suits campers who need a big cover for firewood, gear or a tent floor and do not carry it far. The closely spaced grommets make it easy to rig a low pitched roof.",
+    "description": "The Patiobay Tarp 12x16 is a 12 by 16 foot sheet of 8 mil virgin polyethylene with metal grommets every 23.6 inches and a stitched poly rope hem. It has no stakes or guy lines in the package. At about $29 it brings 192 square feet of thick plastic, a mid-size option that makes sense as a groundsheet or an overhead cover.\n\nIt is the thickest large sheet here, with 8 mil against the 5 mil on the CARTMAN 14x20Ft and the MVPNET 20x30Ft, and its close grommet spacing means guy lines can attach near every high-wind point. Next to the CAODITU Waterproof awning it delivers 192 square feet against 96 for a similar price, and the thick plastic takes a tent pole better than coated fabric does.\n\nIt is a good fit for a family car camper who wants one tough sheet under a tent or over a stack of gear. Rope hems and close grommets carry the force from a wind gust along the edge, so a tie-down never concentrates its pull. It is the strongest pairing for a family tent footprint in the guide.",
     "specs": [
-      "12 x 16 ft, 8 mil poly",
-      "Grommets every 23.6 in",
-      "Rope-reinforced hem"
+      "12 x 16 ft, 8 mil virgin polyethylene",
+      "Metal grommets every 23.6 inches",
+      "Stitched poly rope hem around the edge"
     ],
     "pros": [
-      "Thick 8 mil body resists tearing",
-      "Dense grommets allow many tie points",
-      "Large 192 square foot area",
-      "Reasonable price for the size"
+      "Thickest large sheet in this group",
+      "Close grommet spacing for many tie-downs",
+      "Rope hem spreads out the tie-down force",
+      "Works as a tough groundsheet for tents"
     ],
     "cons": [
-      "Heavy and bulky to pack",
-      "No cord or stakes included"
+      "Heavy and bulky when you pack it",
+      "No cord or stakes in the package"
     ],
-    "bestFor": "Basecamp cover or groundsheet",
-    "take": "The pick for a durable, oversized sheet that stays at the campsite.",
-    "catch": "Poly folds stiffly and is too heavy for backpacking."
+    "bestFor": "Basecamp cover or groundsheet"
   },
   {
     "id": "best-camping-tarps-under-50-5",
@@ -149,25 +140,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/515YYJ52PoL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B083NXHN6W?tag=rvgearlab-20",
-    "description": "The Cartman 14x20 is a 5 mil poly tarp with heat-sealed hems, rope-reinforced edges and metal grommets every 36 inches. It spreads over about 280 square feet.\n\nIt costs about $20, the lowest in this group, and covers nearly 50 percent more ground than the Patiobay. The thinner 5 mil sheet is the tradeoff against the Patiobay 8 mil, and it works best as a cover rather than a roof.\n\nIt suits families covering a woodpile, a boat or a big outdoor kitchen on a tight budget. Fold it over a tent as a rain-and-sun cover on calm days.",
+    "description": "Spread out, the CARTMAN 14x20Ft becomes a 5 mil polyethylene field of about 280 square feet, finished with sealed hems, a rope edge and metal rings at three foot spacing. At about $20 it gives the best area for the money in the guide short of the MVPNET sheet. Fourteen square feet per dollar is hard to match.\n\nCompared with the Patiobay Tarp 12x16 it provides 88 more square feet at a lower price, giving up the thicker 8 mil sheet and the closer grommet rows in exchange for a much wider span, which suits roofing more than flooring. Next to the MVPNET 20x30Ft it covers 320 square feet less, and it folds into a package that fits a trunk shelf, which makes it the easier of the two to store between trips.\n\nIt suits groups roofing a long communal table or covering a wood supply for a week. As a budget cover with big reach, it is the logical first buy for a first campsite, with a lot of cover for every dollar, and it stays useful as a spare long after you add a nicer shelter.",
     "specs": [
-      "14x20 ft, 5 mil poly",
-      "Heat-sealed rope hems",
-      "Grommets every 36 in"
+      "14 x 20 ft, 5 mil polyethylene sheet",
+      "Heat-sealed hems with rope-reinforced edges",
+      "Metal grommets every 36 inches"
     ],
     "pros": [
-      "Lowest price in the group",
-      "280 square feet of coverage",
-      "Rope-reinforced hems resist fraying",
-      "Plastic corner reinforcements"
+      "Roughly 280 square feet for about $20",
+      "Lowest price in this whole group",
+      "Rope-reinforced edges keep hems from fraying",
+      "Sealed hems leave no needle holes"
     ],
     "cons": [
-      "Thin 5 mil sheet punctures easier",
-      "Needs your own cord and poles"
+      "Thin 5 mil sheet punctures sooner",
+      "Cord and poles are your own job"
     ],
-    "bestFor": "Gear and firewood cover",
-    "take": "Maximum square footage per dollar, with modest toughness.",
-    "catch": "It flaps loudly in wind and will not last as long as the thicker sheets."
+    "bestFor": "Gear and firewood cover"
   },
   {
     "id": "best-camping-tarps-under-50-6",
@@ -179,54 +168,51 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51t976F1ADL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0D2X7JR1Y?tag=rvgearlab-20",
-    "description": "The MVPNET is a 20 by 30 foot tarp in 5 mil waterproof poly with aluminum edge buckles. It is sold for vehicles, camping mats, boats and firewood piles.\n\nIt costs about $41, more than twice the price per square foot of the Cartman 14x20, and it is the largest sheet in the group at 600 square feet. It is the only pick that can cover a pickup bed or a small trailer outright.\n\nIt suits group campers, hunters and anyone covering a vehicle or large stack of gear. It is far too big to serve as a personal shelter.",
+    "description": "The MVPNET 20x30Ft is a 20 by 30 foot tarp in 5 mil waterproof poly with aluminum edge buckles and a UV-resistant finish. It is sold for vehicles, camping mats, boats and firewood piles. At about $41 it spreads 600 square feet of coverage, the largest sheet in the guide and about 14 square feet per dollar.\n\nIt matches the CARTMAN 14x20Ft on area per dollar while covering 320 more square feet, so one sheet replaces several separate covers and saves you from juggling stakes and rope for each one. Set against the Patiobay Tarp 12x16, it gives up thickness in exchange for sheer size, and the aluminum buckles resist the rust that plain steel grommets pick up, which keeps the rim clean after a wet season.\n\nIt suits a camper who needs to cover a whole vehicle, a boat or a long supply pile in one go. Group sites with a big communal kitchen are a natural home for a sheet this wide, and its buckles give plenty of anchor points around the rim for guy lines or bungee cords, so wind has a hard time getting under the edge.",
     "specs": [
-      "20 x 30 ft, 5 mil poly",
-      "Aluminum edge buckles",
-      "UV resistant"
+      "20 x 30 ft, 5 mil waterproof poly",
+      "Aluminum edge buckles, UV resistant",
+      "600 square feet of sheet area"
     ],
     "pros": [
-      "600 square feet of cover",
-      "Edge buckles resist tearing out",
-      "UV resistant sheet",
-      "Covers vehicles and woodpiles"
+      "Largest sheet in the guide by far",
+      "Aluminum edge buckles will not rust through",
+      "UV resistant surface lasts through summer",
+      "Covers a vehicle or a big pile"
     ],
     "cons": [
-      "Very bulky when folded",
-      "Poly is thin for the size"
+      "Very bulky when folded up for storage",
+      "Thin poly for a sheet this large"
     ],
-    "bestFor": "Vehicle and group cover",
-    "take": "Buy this only when you truly need a huge cover, not a personal shelter.",
-    "catch": "Folded it takes up serious trunk space and weighs more than any other pick."
+    "bestFor": "Vehicle and group cover"
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Coating and fabric",
-    "description": "Nylon and polyester ripstop shelters were compared against poly sheets, since the fabric decides weight and strength."
+    "title": "Square feet per dollar",
+    "description": "We converted every listed size into square feet and divided by the approximate price. That put the MVPNET and CARTMAN sheets near 14 square feet per dollar, the Patiobay near 7, and the three fabric tarps at roughly 3. The ranking was a starting point, because a sheet that covers a campsite but cannot be pitched is only half the job."
   },
   {
-    "title": "Waterproof rating",
-    "description": "Where a millimeter figure exists it was used, and thick poly was judged on mil thickness."
+    "title": "Waterproof rating in context",
+    "description": "Fabric tarps quote a PU figure in millimeters, and we compared 15,000mm on the GoldCamp against 2,500 on the FREE SOLDIER and the CAODITU's PU coating. We treated polyethylene as inherently waterproof and ranked poly by thickness in mils. Because a rating tells you about water pressure and not about toughness, we paired it with fabric weight and denier."
   },
   {
-    "title": "Setup hardware",
-    "description": "Loops, grommets, poles and guy lines were checked for how fast each tarp goes up."
+    "title": "Groundsheet double duty",
+    "description": "We asked whether each tarp can sit under a tent as well as over a table. Thicker poly with rope hems and close grommets, like the Patiobay, scored highest, and 70D nylon scored well on abrasion. Thin 5 mil poly was kept in mind as a cheap spare rather than a primary groundsheet."
   },
   {
-    "title": "Size for the money",
-    "description": "Coverage area was compared against price, with the cap at $50."
+    "title": "Pitching hardware and tie-outs",
+    "description": "We looked at what each package includes and how many points hold the pitch. The GoldCamp has 19 webbing loops, the FREE SOLDIER has built-in tensioned lines, and the CAODITU adds poles. Poly sheets are bare grommets, so we priced in cord and stakes where relevant."
   },
   {
-    "title": "Pack weight",
-    "description": "Backpacking tarps were separated from camp-only sheets."
+    "title": "Buyer feedback themes",
+    "description": "Buyer reports were scanned for patterns such as stiffness, hot color, bulk when folded and sizes that run off the label. We counted a pattern only after it repeated. That is how we flagged the 5 mil poly puncture risk and the dark-color heat gain."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -234,81 +220,40 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By how you will use it",
+    "subheading": "By How You Will Use It",
+    "intro": "Match your main use first, then look at the price. Each row ends at a named pick.",
     "table": {
       "headers": [
         "Your situation",
-        "Recommended pick",
-        "Why"
-      ],
-      "rows": [
-        [
-          "Rain shelter for a solo camper",
-          "GoldCamp 70D Bushcraft",
-          "15,000mm coating and 19 loops for sturdy pitches."
-        ],
-        [
-          "Hammock rain fly with cord included",
-          "FREE SOLDIER 10x10.5",
-          "Guy lines and tensioners ship in the box."
-        ],
-        [
-          "Picnic-table awning on a bare site",
-          "CAODITU 9.8x9.8 Kit",
-          "Poles and stakes make a free-standing roof."
-        ],
-        [
-          "Groundsheet or firewood cover",
-          "Patiobay 12x16 8 Mil",
-          "8 mil sheet with close grommets."
-        ],
-        [
-          "Covering a vehicle or big pile",
-          "MVPNET 20x30 Blue",
-          "600 square feet at about $41."
-        ]
-      ]
-    }
-  },
-  {
-    "subheading": "By Budget",
-    "table": {
-      "headers": [
-        "Budget",
         "Recommended pick"
       ],
       "rows": [
         [
-          "$20 to $30",
-          "Cartman 14x20 Blue or Patiobay 12x16 8 Mil"
+          "Rain shelter for a solo camper",
+          "GOLDCAMP Bushcraft 70D Nylon Camping Tarp"
         ],
         [
-          "$20 to $40",
-          "CAODITU 9.8x9.8 Kit or FREE SOLDIER 10x10.5"
+          "Hammock fly with cord in the box",
+          "FREE SOLDIER Waterproof 10x10.5 tarp"
         ],
         [
-          "$40 to $50",
-          "MVPNET 20x30 Blue or GoldCamp 70D Bushcraft"
+          "Picnic-table roof on a bare site",
+          "CAODITU Waterproof 9.8x9.8 kit"
+        ],
+        [
+          "Groundsheet under a family tent",
+          "Patiobay Tarp 12x16, 8 mil"
+        ],
+        [
+          "Cover for a vehicle or big pile",
+          "MVPNET 20x30Ft sheet"
         ]
       ]
     }
   },
   {
-    "subheading": "Ripstop shelter vs poly sheet",
-    "cards": [
-      {
-        "label": "Ripstop shelter",
-        "text": "The GoldCamp 70D Bushcraft, FREE SOLDIER 10x10.5 and CAODITU 9.8x9.8 Kit use coated ripstop that packs small and sheds rain well, at higher cost per square foot."
-      },
-      {
-        "label": "Poly sheet",
-        "text": "The Patiobay 12x16 8 Mil, Cartman 14x20 Blue and MVPNET 20x30 Blue give far more area for the money but are heavier and stiffer."
-      }
-    ],
-    "note": "Pick the GoldCamp 70D Bushcraft if the tarp is your shelter, and a poly sheet if it is your cover."
-  },
-  {
-    "subheading": "By price tier",
+    "subheading": "By Price Tier",
+    "intro": "The tarps run from about $20 to $45, and each step buys something different. These are the guide's rough prices.",
     "table": {
       "headers": [
         "Price tier",
@@ -316,51 +261,96 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "About $20",
-          "Cartman 14x20 Blue"
+          "About $20, largest area per dollar",
+          "CARTMAN 14x20Ft"
         ],
         [
-          "About $29",
-          "Patiobay 12x16 8 Mil"
+          "About $29, thick 8 mil poly",
+          "Patiobay Tarp 12x16"
         ],
         [
-          "About $30",
-          "CAODITU 9.8x9.8 Kit"
+          "About $30, coated polyester kit",
+          "CAODITU Waterproof 9.8x9.8 kit"
         ],
         [
-          "About $40",
-          "FREE SOLDIER 10x10.5"
+          "About $40, ready to pitch",
+          "FREE SOLDIER Waterproof 10x10.5 tarp"
         ],
         [
-          "Near $45",
-          "GoldCamp 70D Bushcraft"
+          "Near $45, nylon shelter",
+          "GOLDCAMP Bushcraft 70D Nylon Camping Tarp"
         ]
       ]
     }
   },
   {
-    "subheading": "For hammock camping specifically",
+    "subheading": "Ripstop Shelter vs Poly Sheet",
+    "intro": "This ceiling is wide enough that both categories are on the table, and they solve different problems.",
+    "cards": [
+      {
+        "label": "Ripstop shelter",
+        "text": "Fabric tarps give you a waterproof rating, webbing or guy-line tie-outs and a small packed size. The GOLDCAMP Bushcraft, FREE SOLDIER Waterproof and CAODITU Waterproof kits all fit here, and they are the ones to pitch overhead."
+      },
+      {
+        "label": "Poly sheet",
+        "text": "Polyethylene gives you large area and thickness for less money, with no weight penalty on a car trip. The Patiobay Tarp 12x16, CARTMAN 14x20Ft and MVPNET 20x30Ft cover big ground or lie under a tent, and they will not draw tight like fabric."
+      }
+    ],
+    "note": "Pick the GOLDCAMP Bushcraft for a storm shelter, and the Patiobay Tarp 12x16 as the tough poly partner."
+  },
+  {
+    "subheading": "By Waterproof Rating",
+    "intro": "The rating tells you how the coating handles pressure, so use it where rain actually pools on the tarp.",
+    "table": {
+      "headers": [
+        "If you need",
+        "Recommended pick"
+      ],
+      "rows": [
+        [
+          "The highest water-pressure rating in the guide",
+          "GOLDCAMP Bushcraft, at 15,000mm"
+        ],
+        [
+          "A moderate 2,500 PU rating with heat-sealed seams",
+          "FREE SOLDIER Waterproof 10x10.5 tarp"
+        ],
+        [
+          "A PU coating with taped seams and poles",
+          "CAODITU Waterproof 9.8x9.8 kit"
+        ],
+        [
+          "No rating needed, only thickness",
+          "Patiobay Tarp 12x16"
+        ]
+      ]
+    }
+  },
+  {
+    "subheading": "For Hammock Camping Specifically",
+    "intro": "A hammock fly needs a ridge, adequate length and an angle that sheds rain, which not every tarp offers.",
     "cards": [
       {
         "label": "Look for",
-        "text": "Look for a ripstop tarp at least 10 feet long with webbing loops or tie-outs and a stuff sack."
+        "text": "A fabric tarp around 10 feet long with a ridge point and loops for a low pitch. The FREE SOLDIER Waterproof sheet with guy lines and the GOLDCAMP Bushcraft with 19 webbing loops both match."
       },
       {
         "label": "In this comparison",
-        "text": "The FREE SOLDIER 10x10.5 comes with guy lines, and the GoldCamp 70D Bushcraft offers the longest cut and heaviest coating, so it covers a hammock and gear."
+        "text": "The GOLDCAMP Bushcraft at 10 by 13.2 feet gives the most overhang and the best rating, and the FREE SOLDIER Waterproof tarp is the cheaper pick with cord in the box. Poly sheets such as the Patiobay Tarp 12x16 are too stiff to hang tight."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "The tiers inside this ceiling matter, because the step from poly to nylon is the biggest jump.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more if the tarp is your only roof: the GoldCamp 70D Bushcraft adds a 15,000mm coating and loops, and the FREE SOLDIER 10x10.5 adds guy lines at a lower tier."
+        "text": "You pitch in sustained rain, wind or snow and want the 15,000mm coating. The GOLDCAMP Bushcraft near $45 is the pick, and ripstop is worth about $15 to $20 more at this price when you carry the tarp over a mile."
       },
       {
         "label": "Save if",
-        "text": "Save if you want a groundsheet, gear cover or windbreak: the Cartman 14x20 Blue and Patiobay 12x16 8 Mil cost about $20 to $29 and cover far more ground."
+        "text": "You want a groundsheet, gear cover or windbreak. The CARTMAN 14x20Ft and Patiobay Tarp 12x16 cost about $20 to $29 and cover far more ground than a fabric tarp at the same price."
       }
     ]
   }
@@ -368,48 +358,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "Millimeter rating vs mil thickness",
-    "explanation": "A waterproof rating in millimeters measures how much water pressure coated fabric holds back, while mil thickness measures plastic sheet gauge. A 15,000mm nylon tarp and an 8 mil poly sheet are not directly comparable, so match the number to the job. Under steady rain, look for 3,000mm or more on fabric tarps, and 8 mil or more on poly."
+    "criterion": "Area per dollar",
+    "explanation": "Area per dollar is the plain math of price divided into square feet. A 600 square foot MVPNET at about $41 and a 280 square foot Cartman at about $20 return around 14 square feet per dollar, while a fabric shelter like the GoldCamp returns about three. The difference matters because a tarp that covers a vehicle is a different tool than one that shelters two people. Work out your target area first, then use the listed dimensions to find the cheapest sheet that reaches it."
   },
   {
-    "criterion": "Fabric type and weight",
-    "explanation": "Poly sheets are cheap and tough but stiff, while ripstop nylon and polyester fold small and weigh a fraction as much. If you walk more than a mile with the tarp, ripstop is worth about $15 to $20 more at this price. Check the title for 70D, 210D or 210T, which tell you the fiber thickness."
+    "criterion": "Waterproof rating and what it says",
+    "explanation": "A PU rating in millimeters describes how much water pressure the coating resists before leaking. A rating of 15,000mm on the GoldCamp is six times the 2,500 rating on the FREE SOLDIER, which is the gap between a storm shelter and a fair-weather one. The number says nothing about tear strength, so it needs pairing with fabric weight. Look for a stated millimeter rating, and treat a missing one as a basic coating."
   },
   {
-    "criterion": "Tie-out points",
-    "explanation": "Grommets spaced every 24 to 36 inches give many anchor points, while webbing loops in the middle of the tarp let you pitch peaks and lean-tos. A tarp with only corner grommets limits you to a flat sheet. Count the loops or grommets in the product details before buying."
+    "criterion": "Denier against mil",
+    "explanation": "Fabric toughness is measured in denier, and plastic toughness in mils, and the two are not directly comparable. A 70D ripstop nylon like the GoldCamp is markedly more puncture resistant than a 210D polyester at the same weight class, while an 8 mil sheet like the Patiobay is tougher against abrasion than a 5 mil sheet. Denier figures in listings can vary between retailers for one model, so trust the maker's own sheet. Compare within a material, never across materials."
   },
   {
-    "criterion": "Seam sealing and edges",
-    "explanation": "Needle holes in stitched seams leak unless they are taped or the hem is heat-sealed, and a single stitched seam can drip steadily in an hour of rain. Taped seams and heat-sealed hems matter most on a tarp used as a roof. Search the product title and bullet points for the words taped seams or heat-sealed, and skip any tarp that mentions neither when you plan to sleep under it."
+    "criterion": "Tie-out hardware",
+    "explanation": "Webbing loops, tensioned guy lines and bare grommets are three different levels of hardware. Loops and bartacks stand up to load, while plain grommets tear out of poly and thin fabric, so a GoldCamp with 19 loops holds a pitch that a bare-grommet sheet cannot. Tie-out count and placement also decide which pitches are possible. Look for the number of loops in the bullets and whether guy lines are included."
   },
   {
-    "criterion": "What ships in the bag",
-    "explanation": "A tarp without stakes, guy lines or poles needs about $10 to $15 of extra gear to pitch. Kits that include them shift the real cost, so a $30 kit can be cheaper in practice than a $20 sheet. Read the included items before comparing prices, and add the missing gear to the total."
+    "criterion": "Groundsheet performance",
+    "explanation": "A groundsheet works hard, being dragged over gravel, flexed by tent poles and pressed by weight. Thick polyethylene with a rope hem handles that better than a coated fabric, which is why the Patiobay suits the job. A 5 mil sheet works as a cheap spare, but it punctures sooner. Look for mil thickness and rope-reinforced hems, and trim or fold the sheet so its edge lands just inside the tent footprint."
+  },
+  {
+    "criterion": "Sun, color and long-term use",
+    "explanation": "The PU coating on a fabric tarp is the first thing to degrade in sustained sun, and a tarp without a UV rating degrades faster. The GoldCamp lists UV 50+ and an aluminized layer, while the MVPNET lists UV resistance on its poly. A dark tarp such as the brown FREE SOLDIER soaks up summer heat. Look for a UV statement in the bullets, and fold the tarp away between trips if there is none."
   }
 ];
 
 export const faq = [
   {
-    "q": "Can a $20 poly tarp work as a rain shelter?",
-    "a": "It can for a night or two if you pitch it taut and keep the low side to the wind. The Cartman 14x20 Blue is a 5 mil sheet, so expect it to flap and eventually tear at the grommets. For regular use, the Patiobay 12x16 8 Mil is the safer poly choice."
+    "q": "Is a 70D nylon tarp worth the extra money over polyester?",
+    "a": "It is worth it when the tarp will be your main shelter in bad weather. The GOLDCAMP Bushcraft pairs 70D ripstop nylon with a 15,000mm coating and 19 loops, so it holds a pitch under heavy rain. For fair-weather hammock use, the FREE SOLDIER Waterproof tarp does the job for about $5 less, and it includes cord."
   },
   {
-    "q": "What is the most common tarp buying mistake?",
-    "a": "Buying by size only and forgetting that poly sheets are heavy and bulky once folded. A 20 by 30 foot sheet like the MVPNET 20x30 Blue is great at camp and impossible in a backpack. Decide whether you will carry it or drive it before you pick."
+    "q": "Can a big poly sheet like the MVPNET be used as a shelter?",
+    "a": "It can, but it will not draw tight, and the 5 mil material flaps in wind. The MVPNET 20x30Ft is better as a vehicle cover, a wood pile cover or a windbreak. Use it overhead only over a calm group kitchen, and tie it down at every buckle to keep it from whipping. For a real pitched shelter, use a fabric tarp."
   },
   {
-    "q": "Is the GoldCamp worth about $20 more than a poly sheet?",
-    "a": "Yes, if you will sleep under it. Its 15,000mm coating, 70D nylon and 19 loops make a real shelter, and the poly sheets cannot match its weight or pitch flexibility. If it only covers firewood, save the money."
+    "q": "What size poly tarp goes under a tent?",
+    "a": "Pick a sheet that stops just short of the tent floor edge, so rain runs off the tarp instead of into a puddle beneath the tent. A 12 by 16 foot Patiobay suits a family tent with room to spare, and the 8 mil thickness handles gravel. Fold the extra under or trim it, since overhanging plastic funnels water below the floor."
   },
   {
-    "q": "How do I pitch a tarp in a basic A-frame?",
-    "a": "Run a ridgeline between two trees about 5 to 6 feet high, drape the tarp over it and stake the corners out at 45 degrees. The FREE SOLDIER 10x10.5 includes guy lines for this. Pitch the low end into the wind and keep the sides taut so rain runs off."
+    "q": "How do I pitch the GOLDCAMP Bushcraft without guy lines?",
+    "a": "The tarp has 19 reinforced webbing loops but no cord, so buy about 50 feet of paracord and a set of stakes, roughly $10 to $15 of extra gear. Tie a ridgeline between trees, drape the tarp, and run a line from each corner loop to a stake at about 45 degrees. Add mid-panel loops for storm pitches and tension each side."
   },
   {
-    "q": "How do I keep a tarp from degrading?",
-    "a": "Dry it fully before packing, because a damp folded tarp mildews and the coating can peel. Store ripstop loosely and keep poly out of long sun exposure. Rinse salt or mud off the grommet area to prevent corrosion."
+    "q": "Does a PU coating need maintenance?",
+    "a": "Yes, in a mild way. Keep the tarp dry before packing it, avoid long sun exposure and wipe off sap and grit, since the coating is the first thing to wear. Reproofing helps an old sheet, but the better step is shade and a loose fold. A tarp with a UV rating, like the GOLDCAMP at UV 50+, tolerates sun better."
+  },
+  {
+    "q": "Is it smarter to buy one fabric tarp or two poly tarps?",
+    "a": "It depends on the trip. One fabric tarp is the better choice for a pitched shelter, and it also works as a groundsheet in a pinch. Two poly tarps, such as the CARTMAN 14x20Ft and the Patiobay Tarp 12x16, cost about $49 together and give you a roof and a groundsheet. For car camping, the poly pair usually wins."
   }
+];
+
+export const bottomLine = [
+  "The GOLDCAMP Bushcraft is the best tarp here for real shelter work, with 70D ripstop nylon, a 15,000mm coating and 19 webbing loops near $45. The FREE SOLDIER Waterproof sheet is the pick when you want guy lines and a stuff sack in the box, and the CAODITU Waterproof kit adds poles for a flat roof.",
+  "For ground and cover work, the Patiobay Tarp 12x16 is the thickest large sheet at about $29, and the CARTMAN 14x20Ft is the best area per dollar near $20. The MVPNET 20x30Ft is the pick when one sheet has to cover a vehicle or a whole supply pile in a single piece."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
