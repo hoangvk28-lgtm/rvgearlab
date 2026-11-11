@@ -4,10 +4,11 @@ export const metaTitle = "Best 3 Gpm RV Water Pump in 2026";
 export const metaDescription = "Best 3 GPM RV water pumps for campers and travel trailers, compared by pressure, bypass design, warranty and the fittings in the box.";
 export const mainKeyword = "best 3 gpm rv water pump";
 export const introParagraphs = [
-  "A 3.0 GPM pump is the classic size for a camper with one bath: enough for a shower and a sink without the draw of a larger motor. Six pumps carry that rating here, split between 45 and 55 PSI shut-off.",
-  "Picks were ordered by what each listing documents about bypass design, run-dry behavior, certifications and included parts. Flow and pressure are not added into one score, so a pump does not climb the list just for a bigger number."
+  "A 3.0 GPM pump is the classic size for a camper with one bath, and it is the rating most factory-installed pumps carry. That makes this a replacement shopper's list first: six pumps at that flow, split between a 55 PSI group built around the 4008 series footprint and a 45 PSI group with gentler cut-out pressure. The goal is simple. Find the pump that behaves like the one you are pulling out, so the swap takes an afternoon instead of a weekend of fittings, hose runs and rewiring. Six listings, one flow rating, and a handful of details that separate them.",
+  "Most 12V RV pumps cluster near 3.0 GPM and 45 to 55 PSI, and a stock unit such as a Lippert Flow Max is rated 3.0 GPM at 50 PSI, draws up to 9.5 amps and wants a 15 amp circuit. Those four numbers, flow, pressure, amp draw and port size, are what a matching replacement has to respect. A pump that matches flow but not pressure can leak an old fitting, and one that matches both but not ports turns into a plumbing project with new hose and clamps. Treat the label on the old pump as the spec sheet.",
+  "Picks were ordered by how much each listing documents about its bypass design, run dry behavior, certifications and what ships in the box, then by price. Brand marketing such as supports up to 4 fixtures is treated as wording, not a sizing standard. Read each entry as a replacement decision: which pump to buy when the old one is a 4008-101-A65, which when it is a gentler 45 PSI unit, and which when you simply want the paperwork and a long warranty behind the purchase. The six entries below follow that order."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/318QGKjYuYL._SL500_.jpg";
 
@@ -27,23 +28,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/318QGKjYuYL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B002XM5G70?tag=rvgearlab-20",
-    "description": "The SHURFLO Revolution 4008-101-E65 is a 12V pump rated 3.0 GPM at 55 PSI with an internal bypass. Its listing highlights quiet operation, run dry protection and steadier pressure with fewer on-off cycles.\n\nAgainst the PowerMax 3.0 and Valterra Hydromax, it sits at the same flow and pressure, and its listing leans hardest on bypass-driven cycling reduction. The 4008 series is the footprint many RV makers specify, so it fits most factory bays.\n\nIt is the safe default for owners who want the name most RV technicians recognize. The matching 55 PSI shut-off suits standard camper plumbing.",
+    "description": "The PENTAIR SHURFLO Revolution 4008-101-E65 is a 12V RV fresh water pump rated 3.0 GPM at 55 PSI with an internal bypass. As the flagship of this lineup, it is the pump most owners picture when someone says a stock 3 GPM replacement, and its listing highlights quiet running, run dry protection and steadier pressure with less frequent on-off cycles.\n\nNext to the PowerMax 4008-101-A65 and the Valterra Hydromax, it delivers the same 3.0 GPM and 55 PSI, so flow is a wash and the real difference is how hard its listing leans on the bypass design. That bypass lets the pump ease off between taps instead of hammering the switch. The 4008 series bay layout is what many RV makers specify, so bolt holes and port positions usually line up.\n\nThis is the right buy for an owner swapping out a factory 4008 pump who wants the least surprising result and a name a service tech will recognize on sight. The 55 PSI shut-off matches standard camper plumbing, so the new pump behaves the way the old one did the day the coach left the dealer.",
     "specs": [
-      "3.0 GPM at 55 PSI",
-      "Internal bypass design",
-      "Run dry protection"
+      "3.0 GPM at 55 PSI with internal bypass",
+      "Run dry protection and quiet operation highlighted",
+      "Common 4008 series footprint for factory bays"
     ],
     "pros": [
-      "Internal bypass reduces cycling",
-      "Quiet operation highlighted",
-      "Run dry protection stated",
-      "Common 4008 series footprint"
+      "Internal bypass cuts on-off cycling between taps",
+      "Quiet operation is a headline feature",
+      "Run dry protection is built in",
+      "Fits the common 4008 series bay"
     ],
     "cons": [
       "Highest price among the 3 GPM picks",
-      "Listing offers little spec detail"
+      "Listing offers little detailed spec data"
     ],
-    "bestFor": "Owners wanting the recognized brand"
+    "bestFor": "Owners wanting the pump most RV technicians know"
   },
   {
     "id": "best-3-gpm-rv-water-pump-2",
@@ -55,23 +56,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41RexXi4k5L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B01CQ7DD0S?tag=rvgearlab-20",
-    "description": "The SEAFLO 42 Series (SFDP1-030-055-42) lists 3.0 GPM at 55 PSI, a 7.0A maximum draw and 6 foot self-priming. It names EPDM valves and a Santoprene diaphragm and is covered by a 4-year limited warranty.\n\nNo other pump in this group spells out its amp draw, valve material and diaphragm material, and it is the only one that cites NSF/ANSI/CAN 61 and 372 plus NSF 24 and UL 778. That paperwork places it ahead of the generic 4008-style replacements.\n\nA strong fit for full-timers who want potable water documentation and a long warranty. The 7.0A draw also makes wire and fuse planning straightforward.",
+    "description": "The SEAFLO 42 Series (SFDP1-030-055-42) is a 3.0 GPM, 55 PSI pump with a printed 7.0A maximum draw and 6 foot self-priming. Its listing names the parts that wear, EPDM valves and a Santoprene diaphragm, and attaches a 4-year limited warranty. In a lineup of near-identical ratings, that level of detail is what sets it apart.\n\nCompared with the PENTAIR SHURFLO Revolution above it, the SEAFLO 42 matches flow and pressure and adds paperwork the SHURFLO listing leaves to the brand name. It cites NSF/ANSI/CAN 61 and 372, NSF 24 and UL 778 on its own page, which gives a full-timer something concrete to point to. Against the Hydromax it trades a check valve for the documented amp draw and materials.\n\nIt suits a full-time owner or a careful DIYer who wants potable-water documentation, a long warranty and an amp figure to size a fuse against before touching any wiring. The 7.0A number turns the electrical side of a swap into simple arithmetic rather than guesswork, and the named valve and diaphragm materials make future repair parts easy to talk about with a supplier.",
     "specs": [
-      "3.0 GPM, 55 PSI, 7.0A max",
-      "EPDM valves, Santoprene diaphragm",
-      "4-year limited warranty"
+      "3.0 GPM at 55 PSI, 7.0 amp maximum draw",
+      "EPDM valves with a Santoprene diaphragm",
+      "4-year limited warranty, 6 foot self-priming"
     ],
     "pros": [
-      "Four-year warranty is stated",
-      "Potable and UL standards are named",
-      "Amp draw is published",
-      "Built-in bypass for steady pressure"
+      "Four-year warranty is spelled out in the listing",
+      "Potable water and UL standards are named",
+      "Published 7.0A draw makes fusing easy",
+      "Built-in bypass keeps pressure steady at the tap"
     ],
     "cons": [
-      "Priced above the budget pumps",
-      "Nominal 6 foot self-prime only"
+      "Priced above the budget 3 GPM pumps",
+      "Self-prime is nominal at 6 feet"
     ],
-    "bestFor": "Full-time owners wanting paperwork"
+    "bestFor": "Full-time owners wanting paperwork and a warranty"
   },
   {
     "id": "best-3-gpm-rv-water-pump-3",
@@ -83,23 +84,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41oBx6rKRpL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B071G3VLBY?tag=rvgearlab-20",
-    "description": "The Valterra Hydromax is a 3 GPM, 55 PSI RV fresh water pump with an internal bypass for low cycling, a built-in check valve and thermal overload protection. It is described as self-priming.\n\nCompared with the SHURFLO Revolution, it matches flow and pressure and adds a stated check valve, which keeps the line from draining back toward the tank. It runs a little cheaper than the SHURFLO and costs more than the generic models.\n\nA good option for owners who value a branded pump with a clear feature list. The thermal overload protection also guards the motor on a hot day.",
+    "description": "The Valterra Hydromax is a 3 GPM, 55 PSI RV fresh water pump with an internal bypass for low cycling, a built-in check valve and thermal overload protection. It is described as self-priming, and it carries a respected RV-industry brand name, which makes it a natural fit when the old pump needs a like-for-like successor.\n\nCompared with the PENTAIR SHURFLO Revolution, it matches the flow and pressure and adds a stated check valve, which keeps the line from draining back toward the tank when the pump rests. It also runs a little cheaper than the SHURFLO while still sitting above the generic 4008-style models in price, so it occupies a comfortable middle position in the lineup between the budget copies and the flagship.\n\nIt is a good option for owners who value a branded pump with a clear feature list and want one that protects itself on a hot afternoon. The thermal overload guard looks after the motor during long fills, and the check valve helps the plumbing hold its prime between uses, which is welcome in a coach that sits for days.",
     "specs": [
-      "3 GPM, 55 PSI",
-      "Built-in check valve",
-      "Thermal overload protection"
+      "3 GPM at 55 PSI with internal bypass",
+      "Built-in check valve stops backflow",
+      "Thermal overload protection on the motor"
     ],
     "pros": [
-      "Check valve prevents backflow",
-      "Thermal overload protection stated",
-      "Bypass for low cycling",
-      "Self-priming operation"
+      "Check valve keeps water from draining back",
+      "Thermal overload protection is stated on the listing",
+      "Bypass design cuts cycling noise and wear",
+      "Described as self-priming for easier startup"
     ],
     "cons": [
-      "No amp draw or lift figures listed",
-      "Priced above generic replacements"
+      "No amp draw or lift figures printed",
+      "Priced above the generic replacements in this group"
     ],
-    "bestFor": "Brand-focused replacements"
+    "bestFor": "Brand-focused replacements that need backflow control"
   },
   {
     "id": "best-3-gpm-rv-water-pump-4",
@@ -111,21 +112,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41GRaGBBDqL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CQ9VGBQR?tag=rvgearlab-20",
-    "description": "The PowerMax 4008-101-A65 is a 12V pump listed at 3.0 GPM and 55 PSI with a built-in pressure switch that starts and stops the pump as taps open and close. Its diaphragm design is aimed at reducing vibration.\n\nIt copies the same part number as the SHURFLO Revolution family at a lower price, trading that brand's detailed marketing for a plainer listing. The self-priming design helps with easier installation in campers and trailers.\n\nA practical choice for owners swapping an A65-style pump on a budget. The familiar footprint means existing plumbing usually lines up.",
+    "description": "The PowerMax 4008-101-A65 is a 12V pump listed at 3.0 GPM and 55 PSI and includes a pressure switch built in, wired so the motor starts and stops as taps open and close. Its diaphragm design is aimed at cutting vibration, and the self-priming layout helps a first-time installer get water moving without fuss. That plain approach keeps the pump simple to understand at a glance.\n\nIt shares a part number with the SHURFLO Revolution family and sells for much less, giving up that brand's detailed marketing for a plainer listing. Against the SEAFLO 42 Series it lands in the same price tier while the SEAFLO adds a printed amp draw and warranty. Where the Valterra Hydromax sits above it with a check valve, this one keeps the spec sheet simple and the footprint familiar.\n\nIt is a practical choice for an owner swapping an A65-style pump on a budget, especially one who already knows the old pump's bolt pattern and ports. Because the part number matches, existing plumbing and mounting holes usually line up without adapters, and the built-in switch means there is no separate control to wire in.",
     "specs": [
-      "3.0 GPM at 55 PSI",
-      "Built-in pressure switch",
-      "Diaphragm vibration reduction"
+      "3.0 GPM at 55 PSI, 12V diaphragm pump",
+      "Built-in pressure switch starts and stops it",
+      "Self-priming design with vibration-reducing diaphragm"
     ],
     "pros": [
-      "Matches the 4008-101-A65 part number",
-      "Automatic start and stop",
-      "Self-priming design",
-      "Lower price than branded pumps"
+      "Matches the 4008-101-A65 part number exactly",
+      "Starts and stops automatically with the tap",
+      "Self-priming design eases a first installation",
+      "Lower price than the branded pumps"
     ],
     "cons": [
-      "Sparse spec detail on the listing",
-      "No warranty terms in the title"
+      "Sparse detail on the listing beyond the basics",
+      "No warranty terms shown in the title"
     ],
     "bestFor": "Budget A65 swaps"
   },
@@ -139,23 +140,23 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/412HTQGLg2L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0F9964HJ1?tag=rvgearlab-20",
-    "description": "The Jack Boss is a 12V, 3.0 GPM pump rated 45 PSI with 6.5 foot vertical self-priming and a pressure switch. The box holds a filter, two 1/2 inch barbed adaptors, two male thread adaptors, two clamps and tape.\n\nWhere the 55 PSI pumps here match 4008-series footprints, this one runs at 45 PSI and spends its value on a generous parts bundle. Its overload protection and sealing tape are also noted.\n\nA fit for owners who want everything needed to connect the pump in the box. The lower 45 PSI shut-off is easier on older fittings.",
+    "description": "The Jack Boss is a 12V, 3.0 GPM pump rated 45 PSI with 6.5 foot vertical self-priming and a pressure switch. The box holds a filter, two 1/2 inch barbed adaptors, two male thread adaptors, two clamps and sealing tape, so most of the small parts a swap demands are already in hand. The 45 PSI rating is gentler than the usual 55 PSI figure.\n\nWhere the 55 PSI pumps in this lineup chase the 4008-series footprint, this one runs at 45 PSI and spends its value on a generous parts bundle. It lines up with the SEAFLO 33 Series in pressure and price tier, and it edges ahead on the extra threaded adaptors, which help when the old plumbing mixes barb and thread connections.\n\nIt is a fit for an owner who wants every connector needed to hook the pump up without a hardware store run. The lower 45 PSI shut-off is easier on older fittings and tired hose clamps, which suits a camper whose plumbing has seen a lot of seasons, and the overload protection and sealing tape round out a kit that is ready to install the day it arrives.",
     "specs": [
-      "3.0 GPM, 45 PSI",
-      "6.5 ft vertical self-priming",
-      "Two adaptors, clamps, tape"
+      "3.0 GPM at 45 PSI, 6.5 foot vertical prime",
+      "Pressure switch plus built-in overload protection",
+      "Filter, four adaptors, two clamps and tape included"
     ],
     "pros": [
-      "Two barbed and two threaded adaptors",
-      "Filter and clamps included",
-      "Built-in overload protection",
-      "Lower 45 PSI pressure setting"
+      "Two barbed and two threaded adaptors included",
+      "Filter, clamps and sealing tape in the box",
+      "Built-in overload protection for the motor",
+      "Gentler 45 PSI setting is kind to old fittings"
     ],
     "cons": [
-      "Not a 4008-series footprint",
-      "Brand has little track record"
+      "Not a 4008 series footprint, so mounting may differ",
+      "Brand has little track record to lean on"
     ],
-    "bestFor": "Owners wanting a full kit"
+    "bestFor": "Owners wanting everything in one box"
   },
   {
     "id": "best-3-gpm-rv-water-pump-6",
@@ -167,48 +168,51 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41-b0wvH0yL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B07DQT1FVZ?tag=rvgearlab-20",
-    "description": "The SEAFLO 33 Series (SFDP1-030-045-33) is a 12V pump rated 3.0 GPM with a 45 PSI shut-off and a 3-chamber diaphragm. It ships with a 51S01 filter and two 1/2 inch FNPT to barb fittings, and the listing says it can supply up to 4 fixtures.\n\nAgainst the SEAFLO 42, it lowers shut-off pressure from 55 to 45 PSI and trims the price, and it gives up the longer 4-year warranty angle of the 42. The 3-chamber design is aimed at smoother flow.\n\nA fine pick for lighter-use campers and older plumbing that prefers gentler pressure. Its included filter and fittings keep the install simple.",
+    "description": "The SEAFLO 33 Series (SFDP1-030-045-33) is a 12V pump rated 3.0 GPM with a 45 PSI shut-off and a 3-chamber diaphragm. It ships with a 51S01 filter and two 1/2 inch FNPT to barb fittings, and its listing says it can supply up to 4 fixtures, wording that reads as manufacturer marketing rather than a sizing rule.\n\nAgainst the SEAFLO 42 Series, it lowers shut-off pressure from 55 to 45 PSI and trims the price, and it leaves the 4-year warranty and amp figure to its sibling. The three-chamber diaphragm is aimed at smoother flow, and next to the Jack Boss it offers the same 45 PSI setting with the backing of a long-running pump family.\n\nA fine pick for lighter-use campers and for older plumbing that prefers gentler pressure, such as aging PEX joints or original fittings. The included filter and fittings keep the install simple, and the lower shut-off helps a long-owned coach stay leak-free while the three-chamber diaphragm keeps the shower from pulsing. It is also the easiest of the 45 PSI picks to recommend to a first-time owner.",
     "specs": [
-      "3.0 GPM, 45 PSI",
-      "3-chamber diaphragm",
-      "Filter and fittings included"
+      "3.0 GPM with 45 PSI shut-off",
+      "3-chamber diaphragm for smoother flow",
+      "51S01 filter and two 1/2 inch fittings included"
     ],
     "pros": [
-      "Supplies up to 4 fixtures per listing",
+      "Listing says it supplies up to 4 fixtures",
       "45 PSI is gentle on older plumbing",
-      "Filter and two fittings included",
-      "3-chamber design smooths flow"
+      "Filter and two fittings come in the box",
+      "Three chambers smooth the water flow"
     ],
     "cons": [
       "Lower pressure than the 55 PSI pumps",
       "Self-prime is rated at only a few feet"
     ],
-    "bestFor": "Gentle-pressure installs"
+    "bestFor": "Gentle-pressure installs on older plumbing"
   }
 ];
 
 export const howWeEvaluated = [
   {
-    "title": "Pressure and flow",
-    "description": "Each listing's stated GPM and shut-off PSI were read together, and neither was treated as a score on its own."
+    "title": "Match to the original pump",
+    "description": "Each listing was read for the part numbers it names, such as 4008-101-A65 or E65, because a named match is the fastest route to a drop-in swap. Flow was held at 3.0 GPM across every pick. Shut-off pressure was recorded separately so a 45 PSI pump is never confused with a 55 PSI one."
   },
   {
-    "title": "Bypass and cycling",
-    "description": "Internal bypass, check valve and switch language were counted where the listing states them."
+    "title": "Pressure switch and bypass",
+    "description": "We compared how each entry describes its pressure switch and any internal bypass or check valve. These features decide how often the pump cycles when a tap is barely open. Listings that name the mechanism ranked above listings that simply say quiet or smooth."
   },
   {
-    "title": "Documentation",
-    "description": "Warranty terms, amp draw and potable water standards were credited only when written on the listing."
+    "title": "Protection and priming",
+    "description": "Run dry protection, thermal overload and rated self-priming height were compared side by side. Rated lift varies by model, about 6 feet on some units and 6.5 feet on others, and the figure matters whenever the tank sits below the pump. A dry-run claim was treated as motor protection, not a replacement for an inlet strainer."
   },
   {
-    "title": "Fittings in the box",
-    "description": "Adaptors, strainers and clamps were compared to estimate the real installed cost of each pump."
+    "title": "Box contents and fittings",
+    "description": "Adaptors, clamps, filters and sealing tape were counted from each listing. A pump that ships ready to connect saves a trip for parts and a second round of leak hunting. Contents were weighed after fit and spec, since a bag of fittings cannot rescue a mismatched port size."
+  },
+  {
+    "title": "Price and documentation",
+    "description": "Price tiers were read from current listings and grouped so similar pumps compete fairly. Warranty length, amp draw and named standards were credited when printed. Based on product specs and buyer-facing detail, the ranking favors clear information over big claims, and every score is an editorial assessment."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -216,7 +220,8 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By your pump swap",
+    "subheading": "By the Pump You Are Replacing",
+    "intro": "The cleanest decision is the one that starts at the label of the old pump. Match its part number and cut-off pressure first, then let price break any ties.",
     "table": {
       "headers": [
         "Your situation",
@@ -225,120 +230,134 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "Replacing a 4008-101-A65 or E65 pump",
-          "SHURFLO Revolution",
-          "The same 3.0 GPM, 55 PSI footprint with bypass"
+          "Pulling a 4008-101-E65 or a similar branded 3 GPM unit",
+          "PENTAIR SHURFLO Revolution",
+          "Same 3.0 GPM, 55 PSI and bay layout with a bypass for fewer cycles"
         ],
         [
-          "Same swap on a lower budget",
-          "PowerMax A65",
-          "Same part number at a lower price"
+          "Pulling a 4008-101-A65 and watching the budget",
+          "PowerMax 4008-101-A65",
+          "Shares the part number at a much lower price"
         ],
         [
-          "Full-timing and want documented materials",
-          "SEAFLO 42",
-          "Names potable and UL standards plus a 4-year warranty"
+          "Original pump had a check valve and thermal cutoff",
+          "Valterra Hydromax",
+          "Adds a stated check valve and thermal overload protection at 55 PSI"
         ],
         [
-          "Gentler pressure for older plumbing",
-          "SEAFLO 33",
-          "45 PSI shut-off with filter and fittings"
+          "Original pump was a 45 PSI 33-series style",
+          "SEAFLO 33 Series",
+          "Keeps the 45 PSI shut-off and three-chamber smoothness"
         ],
         [
-          "Everything needed in one box",
-          "Jack Boss 3GPM",
-          "Adaptors, clamps, filter and tape included"
+          "Old pump died and the fittings are a mess",
+          "Jack Boss",
+          "Ships four adaptors, two clamps and a filter"
         ]
       ]
     }
   },
   {
     "subheading": "By Budget",
+    "intro": "Prices fall into three clear tiers, and the cheapest tier is a 45 PSI choice rather than a lesser one. Pick by the pressure you need before the price you want.",
     "table": {
       "headers": [
         "Budget",
-        "Recommended pick"
+        "Recommended pick",
+        "Why"
       ],
       "rows": [
         [
           "$50 to $60",
-          "SEAFLO 33 or Jack Boss 3GPM"
+          "SEAFLO 33 Series or Jack Boss",
+          "Both run a gentle 45 PSI and ship with filters and fittings"
         ],
         [
           "$60 to $80",
-          "SEAFLO 42 or PowerMax A65"
+          "SEAFLO 42 Series or PowerMax 4008-101-A65",
+          "The SEAFLO documents amp draw and warranty, the PowerMax copies the 4008 part number"
         ],
         [
           "$110 to $130",
-          "Valterra Hydromax or SHURFLO Revolution"
+          "Valterra Hydromax or PENTAIR SHURFLO Revolution",
+          "Name-brand 55 PSI pumps with bypass and, on the Hydromax, a check valve"
         ]
       ]
     }
   },
   {
-    "subheading": "Bypass pump vs plain switch pump",
+    "subheading": "55 PSI Footprint Match vs 45 PSI Gentle Setting",
+    "intro": "Every pick here is 3.0 GPM, so the real split is the cut-out pressure. It decides how firm the shower feels and how hard the pump pushes on aging joints.",
     "cards": [
       {
-        "label": "Bypass pump",
-        "text": "An internal bypass recirculates water at low demand and cuts short cycling. The SHURFLO Revolution, Valterra Hydromax and SEAFLO 42 state this design."
+        "label": "55 PSI, 4008-style",
+        "text": "These pumps push water to a higher cut-out point, which gives a firmer shower and matches the pressure most factory plumbing was designed around. The PENTAIR SHURFLO Revolution, SEAFLO 42 Series, Valterra Hydromax and PowerMax 4008-101-A65 all fall here. Choose this group when the pump you are replacing was 55 PSI and the lines have no history of weeping at fittings."
       },
       {
-        "label": "Plain switch pump",
-        "text": "A simple pressure-switch pump is cheaper and easier to replace, and it can cycle more at small draws. The PowerMax A65, Jack Boss 3GPM and SEAFLO 33 sit here."
+        "label": "45 PSI, gentle",
+        "text": "A ten PSI lower shut-off eases the load on barbs, clamps and PEX joints, and the pump runs a little less hard on every cycle. The SEAFLO 33 Series and the Jack Boss are the 45 PSI picks, and both ship with a filter and fittings. Choose this group for older coaches, lighter use or any plumbing you would rather not stress."
       }
     ],
-    "note": "Most buyers should default to the SHURFLO Revolution unless budget or potable paperwork points to another pick."
+    "note": "Keep the same cut-out pressure as the pump that came out, and drop to 45 PSI only if the plumbing is old."
   },
   {
-    "subheading": "By your shut-off preference",
+    "subheading": "By What the Box Includes",
+    "intro": "Once flow and pressure match, the practical difference between near-identical pumps is what you get with the pump. Parts in the box save a store run.",
     "table": {
       "headers": [
-        "Pressure",
-        "Recommended pick"
+        "You need",
+        "Recommended pick",
+        "Why"
       ],
       "rows": [
         [
-          "55 PSI to match factory plumbing",
-          "SHURFLO Revolution"
+          "A printed amp draw to size the fuse",
+          "SEAFLO 42 Series",
+          "Lists 7.0A maximum draw, EPDM valves and a Santoprene diaphragm"
         ],
         [
-          "55 PSI with lowest cost",
-          "PowerMax A65"
+          "Both barbed and threaded adaptors",
+          "Jack Boss",
+          "Two barbed, two male thread adaptors, two clamps and tape"
         ],
         [
-          "45 PSI for older lines",
-          "SEAFLO 33"
+          "Backflow control toward the tank",
+          "Valterra Hydromax",
+          "Built-in check valve plus thermal overload protection"
         ],
         [
-          "45 PSI plus a parts bundle",
-          "Jack Boss 3GPM"
+          "A filter and fittings at a low price",
+          "SEAFLO 33 Series",
+          "51S01 filter and two FNPT to barb fittings in the box"
         ]
       ]
     }
   },
   {
-    "subheading": "For a Single-Bath Travel Trailer Specifically",
+    "subheading": "For Replacing a Dead Factory Pump Specifically",
+    "intro": "A factory pump that quits at a campground needs a fast, low-risk answer. This is the shortcut for matching it.",
     "cards": [
       {
         "label": "Look for",
-        "text": "a 3.0 GPM, 55 PSI rating, a bypass or check valve and a footprint that matches your old pump"
+        "text": "The old pump's part number in the new listing title, a matching shut-off PSI and the same port style. A 55 PSI 4008 pump should be replaced by the PENTAIR SHURFLO Revolution or the PowerMax 4008-101-A65, which both keep the footprint."
       },
       {
         "label": "In this comparison",
-        "text": "The SHURFLO Revolution and Valterra Hydromax both pair 3 GPM with a bypass, so either handles a shower and sink in a typical single-bath trailer."
+        "text": "The PowerMax 4008-101-A65 is the budget way to match an A65 part number, and the Valterra Hydromax adds a check valve in the same 55 PSI class. For a 45 PSI original, the SEAFLO 33 Series is the closest like-for-like swap."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "Spending more on a pump pays only when the extra buys something you will actually use. Here is how to decide.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more if you want the SHURFLO Revolution for its familiar 4008 footprint or the SEAFLO 42 for its 4-year warranty and potable standards."
+        "text": "You live in the coach full time or want paperwork. The SEAFLO 42 Series prints its amp draw, valve materials and a 4-year limited warranty, and the PENTAIR SHURFLO Revolution gives the strongest brand name in the group with bypass cycling control."
       },
       {
         "label": "Save if",
-        "text": "Save if you only need a working 3.0 GPM swap: the PowerMax A65 and SEAFLO 33 do the job for noticeably less than the SHURFLO Revolution."
+        "text": "You camp seasonally or want a simple like-for-like swap. The PowerMax 4008-101-A65 copies the A65 part number for much less, and the SEAFLO 33 Series or Jack Boss covers gentler 45 PSI plumbing with parts included."
       }
     ]
   }
@@ -346,52 +365,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "What 3 GPM covers in a camper",
-    "explanation": "A rating of 3.0 GPM is enough for one shower and a sink running together in most small campers. Open flow in gallons per minute is measured with nothing restricting the outlet, so real flow at a tap runs lower. GPM and PSI are separate ratings and do not add up to a quality score. Compare the stated GPM, then think about how many fixtures run at once."
+    "criterion": "Original pump part number and footprint",
+    "explanation": "A footprint is the mounting hole pattern plus the position and type of the inlet and outlet ports. Port size, 1/2 inch NPS or a 3/8 inch barb, and the bolt pattern decide whether the swap is a 20 minute job or a plumbing project with new hose and fittings. Read the part number off the pump you are removing, such as 4008-101-A65 or 4008-101-E65, and match it to the number in the new listing title. If the listing names the same number, expect the bolt holes and ports to line up."
   },
   {
-    "criterion": "45 PSI versus 55 PSI",
-    "explanation": "The two shut-off ratings in this group, 45 and 55 PSI, change how hard every tap is pushed. Shut-off pressure is the point where the built-in switch stops the pump, and it sets the pressure your taps see. RV plumbing is built for modest pressure, so a higher number is a risk to fittings rather than an upgrade. Compare the listed figure with your fixtures and plan a regulator if you go high."
+    "criterion": "Pressure rating versus shut-off PSI",
+    "explanation": "The PSI in a title can be either the pressure at which the pump runs or the cut-off setting of its switch, and retailers mix them up. The same 4008 pump appears as 55 PSI in some listings and 45 PSI shut-off in others. A pump that cuts out ten PSI higher than the original stresses old barbs and PEX joints, and ten lower may leave a shower sounding limp. Find the switch cut-off number in the bullets and compare it to the pump you are replacing."
   },
   {
-    "criterion": "Matching your old pump's part number",
-    "explanation": "Many of these pumps are sold as replacements, so the model name on your current pump decides fit. Fitment is more than flow and pressure: the inlet and outlet thread, the mounting hole spacing and the wiring all need to line up. Replacement pumps often name the OEM part they copy, such as a 4008 or 2088 series number. Match that number first, then read what fittings come in the box."
+    "criterion": "Amp draw and fuse size",
+    "explanation": "Amp draw is the current the motor pulls from the battery at full load, and it rises with flow. A Flow Max class 3.0 GPM pump draws up to 9.5 amps and wants a 15 amp circuit, while the SEAFLO 42 Series prints 7.0 amps maximum. If the new pump pulls more than the old one, the existing wire and fuse may run hot or blow. Look for an amp or wattage figure in the listing, and if there is none, read it off the original pump's label."
   },
   {
-    "criterion": "Bypass design and cycling",
-    "explanation": "A bypass pump recirculates a little water at low demand, which can calm cycling at small draws. A built-in switch makes the pump demand-driven, so it idles when every tap is closed. Adjustability gives room to fine-tune, and a bypass design helps with cycling at low flow. Read whether the range is stated, such as 30 to 80 PSI, and how the switch is described."
+    "criterion": "Self-priming lift and tank position",
+    "explanation": "Self-priming lift is how far below the pump the water can sit while it still draws itself in. Published figures vary, about 6 feet on some SHURFLO and SEAFLO models and 6.5 feet on the Jack Boss, and they assume a clean, tight inlet line. If the tank sits level with or above the pump, lift is academic, but a tank under the floor may sit near the limit. Compare the stated lift with the vertical distance from the tank outlet to the pump inlet."
   },
   {
-    "criterion": "Warranty and potable standards",
-    "explanation": "Only one pump here ties its materials to published standards and a long warranty. Potable water standards, such as NSF/ANSI/CAN 61 and 372, describe materials that touch drinking water, and only some listings name them. A listing that is silent says nothing either way. Search the bullets for the standard numbers rather than loose words like food grade."
+    "criterion": "Bypass, check valve and cycling",
+    "explanation": "An internal bypass lets the pump recirculate a little water at low demand instead of shutting off and restarting every second, and a check valve stops water draining back toward the tank. Together they reduce the rapid on-off cycling that wears the switch and annoys anyone washing dishes. The Revolution and the Hydromax both name a bypass, and the Hydromax adds the valve. Search the bullets for the words bypass or check valve, since a pump that says quiet alone has told you nothing about mechanism."
   },
   {
-    "criterion": "Fittings and strainer included",
-    "explanation": "The contents of the box change what you still need to buy on install day. Kit contents change the real price: a pump with barbed adapters, a thread adapter and a strainer saves several small purchases. A bare pump needs fittings and often a strainer. Read the contents line and count what you still need to buy."
+    "criterion": "Kit contents and documentation",
+    "explanation": "A pump is only useful once it is plumbed, so adaptors, clamps, a strainer and sealing tape matter. The Jack Boss ships a filter, four adaptors and two clamps, and the SEAFLO 33 ships a filter and two fittings. Warranty and standards matter on the other end, since a 4-year limited warranty tells you the maker expects the diaphragm to last. Count the parts and warranty terms on the listing before comparing prices."
   }
 ];
 
 export const faq = [
   {
     "q": "Will a 3 GPM pump run a shower and a sink together?",
-    "a": "Usually yes in a small camper, since 3.0 GPM covers a low-flow shower head and a sink tap. A second bathroom would be better served by a larger pump. The SEAFLO 33 listing says it supplies up to 4 fixtures."
+    "a": "Usually yes in a small camper with one bath, since 3.0 GPM covers a low-flow shower head and a sink tap. There is no published formula that converts fixtures to GPM, so claims such as supports up to 4 fixtures on the SEAFLO 33 listing are marketing, not a standard. A bigger household of fixtures, such as two baths or a rain-style shower head, would be better served by a larger pump. The safest sizing method is to match the pump that came out of the rig."
   },
   {
-    "q": "What mistake do buyers make with 3 GPM pumps?",
-    "a": "They choose by flow alone and forget the PSI. A 55 PSI SHURFLO Revolution pushes harder than a 45 PSI Jack Boss 3GPM, and old fittings may not like it. Read both numbers."
+    "q": "What mistake do buyers make with 55 PSI and 45 PSI listings?",
+    "a": "They treat the headline PSI as running pressure when it is usually the switch cut-off, and they assume two listings with different PSI are different pumps. The same 4008 pump shows up as 55 PSI in some listings and 45 PSI shut-off in others. Read the bullet that describes the pressure switch, then compare that number to the old pump. Fitting a higher cut-out than the plumbing was built for is how old PEX joints start to weep."
   },
   {
-    "q": "Is the SEAFLO 42 worth it over the PowerMax A65?",
-    "a": "The SEAFLO 42 adds a 4-year warranty, a named diaphragm material and potable standards, which suit full-time use. The PowerMax A65 matches the flow and pressure for less. It comes down to how much you value the paperwork."
+    "q": "Is the PENTAIR SHURFLO Revolution worth it over the PowerMax 4008-101-A65?",
+    "a": "Both are 3.0 GPM at 55 PSI in the 4008 footprint, so flow and bolt pattern are the same. The Revolution adds a brand with technician recognition and a listing that stresses a bypass for fewer cycles. The PowerMax copies the A65 part number at a much lower price with a plainer spec sheet. If the pump lives in a hard-to-reach bay, the branded unit buys peace of mind, and if the swap is easy, the PowerMax makes financial sense."
   },
   {
-    "q": "How do I install a replacement pump?",
-    "a": "Shut off power, drain the lines, disconnect the old pump and move the fittings over, using the adaptors in the box. Mount the new one on flat, rigid feet. Fill the tank and run a tap open until the flow is steady."
+    "q": "How do I swap a dead pump without rewiring anything?",
+    "a": "Shut off the power and open a tap to drop line pressure, then note the old pump's ports, the wire polarity and the fuse rating. Buy a replacement with the same part number and a similar or lower amp draw, since a 9.5 amp class pump on a 15 amp circuit is the baseline. Reuse the existing wire if the new pump does not draw more than the old one. Clamp the lines, restore power, and run a tap until the pump holds pressure without cycling."
   },
   {
-    "q": "How do I keep the pump working long term?",
-    "a": "Clean the inlet strainer each season and winterize by draining the lines. Avoid running it with an empty tank for long, even on models with thermal protection. Listen for cycling that signals a leak."
+    "q": "How do I keep a 3 GPM pump from wearing out early?",
+    "a": "Put a strainer in front of the inlet, since a dry-run claim protects the motor when the tank empties but does not catch debris. Keep the lines tight, because a small air leak makes the switch cycle rapidly. A pump with a bypass or check valve, such as the Revolution or Hydromax, tolerates light demand better. Winterize by draining the pump head so ice does not crack a chamber."
+  },
+  {
+    "q": "What if my tank sits well below the pump?",
+    "a": "Look at the self-priming lift on the listing, since the SEAFLO 42 Series is nominal 6 feet and the Jack Boss is 6.5 feet of vertical priming. If the tank outlet is farther below the pump inlet than that, the pump may spin without drawing water. Move the pump lower, closer to the tank, rather than hoping the figure stretches. Keep the inlet hose short and kink free so the pump does not fight itself on startup."
   }
+];
+
+export const bottomLine = [
+  "For most owners replacing a factory pump, the PENTAIR SHURFLO Revolution is the least risky buy, because it keeps the 3.0 GPM, 55 PSI and 4008 footprint most coaches were built around. If the swap is straightforward and the budget matters, the PowerMax 4008-101-A65 copies the A65 part number for far less money.",
+  "Full-timers who want printed amp draw, materials and a 4-year warranty should look at the SEAFLO 42 Series, and anyone with tired plumbing or a messy fitting situation should consider the Jack Boss or SEAFLO 33 Series at a gentler 45 PSI. Match the old pump's label first and the rest follows."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

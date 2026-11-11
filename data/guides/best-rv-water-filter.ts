@@ -4,10 +4,11 @@ export const metaTitle = "Best RV Water Filter in 2026";
 export const metaDescription = "Compare six RV water filters, from Camco hose filters to dual-canister kits, and learn which type fits a campground hookup, a long stay or a tight budget.";
 export const mainKeyword = "best rv water filter";
 export const introParagraphs = [
-  "The best RV water filter depends less on brand than on where you plug it in. A hose-end cartridge protects a drinking supply for a weekend, while a dual-canister kit on a bracket suits a rig that sits on the same hookup for weeks.",
-  "This list covers both families so you can compare them side by side. Each pick is judged on the stages and micron ratings its listing names, the certifications it actually cites, how long a cartridge set runs, and how much hassle it adds at setup."
+  "Your first RV water filter does a narrower job than the packaging suggests. It trims chlorine taste and odor, stops silt and rust flakes from reaching your fixtures, and nothing more. That is plenty of value, but it helps to know the limit up front, because a hose-bib filter shields every fixture in the rig, while only a stage near the sink actually decides how your drinking water tastes. The two jobs sit at different places in the plumbing, and most first buyers need the first one before anything else.",
+  "The first decision is the format. Inline hose-end filters screw between the spigot and your hose, cost little and get thrown out whole after a few months, which usually adds up to more per season. Canister kits take replaceable cartridges that cost a few dollars each, mount on a bracket and suit a rig that sits on one hookup. This list puts three throwaway hose filters, two more hose options and two canister kits side by side so you can see where each one fits. The goal is a clear match between your habits and the hardware, with no wasted spend.",
+  "Pick by how you camp rather than by brand. A weekend traveler with city water needs a different filter from a family parked in one spot for a month on rusty well water. Read the staging, the micron figures and any certification wording below, then match the format to your habits. A first filter that fits your trips will get used, and a filter that gets used is the one that actually improves the water. Start with the format, then let the details below break the tie between close picks and settle the final choice."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg";
 
@@ -27,20 +28,20 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
-    "description": "The Camco Tastepure 2-pack is a pair of hose-end filters using GAC and KDF media. The listing says they are independently tested and listed to NSF/ANSI 42 and 53, and that the lead-free content is CSA certified.\n\nIt beats the Kohree and Hourleey 2-packs mainly on documentation, since those lean on looser NSF or material-safety wording. It gives up the replaceable cartridges of the OKBA and Filterelated canister kits, so you throw the whole unit away at the end of its life.\n\nBest for campers who want one proven, low-fuss filter on the drinking hose. The caveat is that a hose-end filter is not a sediment-handling system for muddy or rusty hookups.",
+    "description": "The Camco Tastepure 2-pack is a pair of hose-end filters built on GAC and KDF media. The listing says they are independently tested and listed to NSF/ANSI 42 and 53, and that the lead-free content is CSA certified. It is made in the USA and threads onto a standard garden hose in seconds, which is why it anchors this lineup as the default first filter.\n\nIt beats the Kohree and Hourleey two-packs mainly on documentation, since those lean on looser NSF or material-safety wording while the Camco prints both standards. It also trades the replaceable cartridges of the OKBA and Filterelated canister kits for a sealed unit, so there is nothing to mount, nothing to wrench loose and nothing to drain.\n\nIt is best for campers who want one proven, low-fuss filter on the drinking hose. A new owner can open the box, thread it on and have a documented taste filter working in under a minute, with a spare ready for the second half of the season. That simplicity is exactly what a first filter should offer.",
     "specs": [
-      "NSF/ANSI 42 and 53 listed",
-      "GAC and KDF media",
-      "Made in the USA"
+      "NSF/ANSI 42 and 53 listing wording",
+      "GAC and KDF media in a sealed unit",
+      "Two-pack made in the USA"
     ],
     "pros": [
       "Listing cites NSF/ANSI 42 and 53 testing",
       "Threads onto any standard garden hose in seconds",
-      "Two filters in the box for a full season",
-      "Lead-free content certification is named on the listing"
+      "Two filters in the box cover a season",
+      "Lead-free content has CSA certification per the listing"
     ],
     "cons": [
-      "Whole unit is disposable, not a cartridge refill",
+      "Whole unit is thrown away after use",
       "Not built for heavy sediment or rust"
     ],
     "bestFor": "Drinking hose, most trips"
@@ -55,20 +56,20 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
-    "description": "OKBA sells a two-canister system with a 5 micron sediment cartridge and a 0.5 micron carbon block, mounted on a bracket. A housing wrench is in the box.\n\nCompared with the Camco 2-Pack it handles dirtier water, because the 5 micron stage takes the sediment load before the carbon block. It costs more up front and needs a place to stand or hang, which the Filterelated kit below also demands.\n\nBest for a rig that parks on one site for weeks and wants cheap replacement cartridges. The listing names no NSF performance certification, so treat it as a sediment and taste filter.",
+    "description": "OKBA sells a two-canister system with a 5 micron sediment cartridge and a 0.5 micron carbon block, mounted on a bracket. A housing wrench is in the box, and the brass fixture gives the hookup side a firm connection. The staging mirrors the standard two-stage layout, with the coarser element protecting the finer one, so the carbon block lasts longer between changes.\n\nCompared with the Camco 2-Pack, it handles dirtier water, because the 5 micron stage takes the sediment load before the carbon block sees it. The Filterelated kit below uses a finer 1 micron first stage, so the OKBA's carbon block is the sharper taste stage of the two canister kits and sits higher on this list.\n\nIt is best for a rig that parks on one site for weeks and wants cheap replacement cartridges. The bracket keeps the housings upright, and the wrench makes cartridge changes a five minute job, which suits owners who plan a month at one campground. Replacement cartridges run a few dollars each, so the running cost stays low across a long season.",
     "specs": [
-      "5 micron plus 0.5 micron",
-      "Brass fixture, mounting bracket",
-      "Wrench included"
+      "5 micron sediment and 0.5 micron carbon block",
+      "Brass fixture with a mounting bracket",
+      "Housing wrench included in the box"
     ],
     "pros": [
       "Two stages split sediment and carbon duty",
-      "Cartridges are replaceable, so running cost drops",
-      "Bracket keeps the housings upright",
-      "Wrench makes housing changes easy"
+      "Replaceable cartridges bring running cost down",
+      "Bracket keeps the housings upright and tidy",
+      "Wrench in the box makes changes easy"
     ],
     "cons": [
-      "No NSF performance mark named on the listing",
+      "No NSF performance mark is printed, so treat it as uncertified",
       "Bulkier to store than a hose filter"
     ],
     "bestFor": "Long stays, dirty hookups"
@@ -83,11 +84,11 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41K+AAOpydL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0D7Q86LJ2?tag=rvgearlab-20",
-    "description": "Filterelated pairs a 1 micron polypropylene sediment cartridge with a 5 micron coconut shell carbon cartridge in a dual housing with 3/4 inch brass fittings. The bundle ships with both cartridges, so nothing extra is needed to start.\n\nIt is cheaper than the OKBA Dual Canister and its finer 1 micron first stage catches more fine silt, but the 5 micron carbon is a coarser carbon stage than OKBA's 0.5 micron block. That means taste improvement is probably a notch lower, while sediment protection is better.\n\nBest for budget buyers who want a canister setup without paying for a premium brand. The listing does not name a certification, so confirm cartridge availability before you commit.",
+    "description": "Filterelated pairs a 1 micron polypropylene sediment cartridge with a 5 micron coconut shell carbon cartridge in a dual housing with 3/4 inch brass fittings. The bundle ships with both cartridges, so nothing extra is needed to start. It is the value entry among the canister kits, and the brass fittings suit a permanent hookup.\n\nIt is cheaper than the OKBA Dual Canister, and its finer 1 micron first stage stops more fine silt in the sediment position. The OKBA counters with a 0.5 micron carbon block, so the Filterelated is the better sediment guard and the OKBA is the better taste stage, which tells you which problem to buy for.\n\nIt is best for budget buyers who want a canister setup without paying for a bigger name. Silty hookups are where the 1 micron first stage earns its place, and coconut shell carbon still targets chlorine and odor for the sink. Both cartridges come in the box, so the first hookup needs nothing extra and the sediment stage goes to work from the first fill.",
     "specs": [
-      "1 micron sediment stage",
-      "5 micron coconut carbon",
-      "3/4 inch brass fittings"
+      "1 micron sediment and 5 micron coconut carbon",
+      "3/4 inch brass fittings on a dual housing",
+      "Both cartridges included with the kit"
     ],
     "pros": [
       "Finer 1 micron stage catches more sediment",
@@ -97,7 +98,7 @@ export const products: GuideProduct[] = [
     ],
     "cons": [
       "Carbon stage is coarser than a carbon block",
-      "No certification named on the listing"
+      "No certification is printed, so treat it as uncertified"
     ],
     "bestFor": "Budget canister setup"
   },
@@ -111,11 +112,11 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51lDcSuwW2L._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0892YBMW4?tag=rvgearlab-20",
-    "description": "Kohree's 2-pack uses GAC and KDF with a 20 micron sediment layer, and the listing gives a 0.5 gpm flow rate and up to 1,057 gallons per filter. Those figures are rare among hose filters, which makes season planning easier.\n\nIt sits below the Camco 2-Pack because the wording is NSF certified and BPA-free without naming the exact standard. It sits above the Hourleey because the capacity and flow figures are spelled out, which makes it easier to plan a season.\n\nBest for a camper who wants numbers before buying. The 20 micron stage is a sediment screen only, so it will not trap fine silt.",
+    "description": "Kohree's 2-pack uses GAC and KDF with a 20 micron sediment layer, and the listing gives a 0.5 gpm flow rate and up to 1,057 gallons per filter. Those figures are rare among hose filters, which makes season planning easier. The wide body is meant to keep flow up, and the housing is described as food-grade plastic.\n\nIt sits below the Camco 2-Pack because the wording says NSF certified and BPA-free without naming the exact standard. It sits above the Hourleey because the capacity and flow figures are spelled out, so you can divide 1,057 gallons by your weekly use and know when a swap is due, a clarity that sets it apart from the other hose filters here.\n\nIt is best for a camper who wants published figures to compare at the point of purchase. A budget-minded owner who tracks usage gets a printed capacity to plan around, and the 20 micron layer provides a basic sediment screen for everyday city hookups. The two-pack covers a full season, and the cheapest cost per filter in the group keeps the yearly outlay low for casual campers.",
     "specs": [
-      "20 micron sediment layer",
-      "0.5 gpm flow rate",
-      "1,057 gallon capacity"
+      "20 micron sediment layer with GAC and KDF",
+      "0.5 gpm printed flow rate",
+      "Up to 1,057 gallons per filter"
     ],
     "pros": [
       "Flow rate and gallon capacity are clearly stated",
@@ -124,7 +125,7 @@ export const products: GuideProduct[] = [
       "Cheapest per filter of the 2-packs here"
     ],
     "cons": [
-      "NSF standard is not named on the listing",
+      "NSF standard is not named, only a general claim",
       "20 micron sediment stage is coarse"
     ],
     "bestFor": "Spec-minded budget shoppers"
@@ -139,21 +140,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41HLIcYCHtL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0CBJZ4238?tag=rvgearlab-20",
-    "description": "Hourleey ships two hose-end filters plus two flexible hose protectors, using GAC with KDF media and a food-grade strengthened housing. The listing says one lasts a season of up to three months.\n\nNext to the Kohree 2-Pack it adds the protectors that keep a heavy filter from kinking the hose at the spigot, but it gives up stated flow and capacity numbers. It is also less documented than the Camco 2-Pack.\n\nBest for campers whose spigots are low or awkward. The listing names no certification, so use it as a taste filter.",
+    "description": "Hourleey ships two hose-end filters plus two flexible hose protectors, using GAC with KDF media and a food-grade strengthened housing. The listing says one lasts a season of up to three months. The protectors are the standout, since a filter hanging off a spigot puts weight on the hose connection, and the strengthened housing is built to handle that handling.\n\nNext to the Kohree 2-Pack it adds the protectors that keep a heavy filter from kinking the hose at the spigot, and it trades the Kohree's printed flow and capacity numbers for that hardware. The Camco 2-Pack remains the better documented filter, while the Hourleey is the one that treats the install point kindly, protecting both the spigot threads and the hose end.\n\nIt is best for campers whose spigots are low or awkward. A flexible protector between the spigot and the filter keeps the hose from folding, so flow stays steady at pump stations and old campground posts alike, and the second filter gives a ready swap at the three month mark. For a rig that sits on a tall post or a low bib, that hardware is the practical advantage.",
     "specs": [
-      "GAC and KDF media",
-      "Two hose protectors included",
+      "GAC and KDF media in a strengthened housing",
+      "Two flexible hose protectors included",
       "Up to three months per filter"
     ],
     "pros": [
       "Hose protectors reduce strain on the spigot",
-      "Tool-free hand tightening",
+      "Tool-free hand tightening makes installs quick",
       "Two filters cover a long season",
-      "Low cost per cartridge"
+      "Low cost per filter in a pack of two"
     ],
     "cons": [
-      "No certification named on the listing",
-      "No flow rate or gallon rating given"
+      "No certification is printed, so use it as a taste filter",
+      "No flow rate or gallon rating is given"
     ],
     "bestFor": "Low spigots, kinked hoses"
   },
@@ -167,21 +168,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51snwG3Z8zL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0006IX87S?tag=rvgearlab-20",
-    "description": "This is the single-filter version of the Tastepure line, with the same GAC and KDF media and the same NSF/ANSI 42 and 53 listing wording as the 2-pack. It is simply the one-filter pack for a short trip.\n\nThe only real difference from the Camco 2-Pack is quantity, so you save money now but need a backup for a longer trip. It also lacks the hose protector some Hourleey buyers get.\n\nBest for weekenders and anyone testing a campground's water for a single trip. Buy the 2-pack if you will camp more than a few months.",
+    "description": "This is the single-filter version of the Tastepure line, with the same GAC and KDF media and the same NSF/ANSI 42 and 53 listing wording as the 2-pack. It is the one-filter pack, built for a short trip where a spare would just sit in the drawer. Made in the USA, it threads straight onto a standard garden hose.\n\nThe real difference from the Camco 2-Pack is quantity, which makes this the lowest cost way into the documented media. Against the Hourleey, it gives up the hose protector and gains the printed NSF wording, so it leans on paperwork where the Hourleey leans on hardware at the spigot. Quantity is the one variable you control here.\n\nIt is best for weekenders and anyone sampling a campground's water for a single trip. A new owner can buy one, learn how the filter behaves and decide whether a canister kit is worth the upgrade, and buy the 2-pack once trips stretch past a few months. A single filter in a hose bin also takes almost nothing from your storage, which suits a small cargo bay.",
     "specs": [
-      "NSF/ANSI 42 and 53 listed",
-      "GAC and KDF media",
-      "Single filter, Made in USA"
+      "NSF/ANSI 42 and 53 listing wording",
+      "GAC and KDF media, sealed unit",
+      "Single filter made in the USA"
     ],
     "pros": [
       "Same documented media as the 2-pack",
       "Lowest upfront cost in the list",
       "Easy to carry in a hose bin",
-      "Threads onto standard garden hose"
+      "Threads onto a standard garden hose"
     ],
     "cons": [
-      "No spare in the box",
-      "Not a sediment system"
+      "No spare filter comes in the box",
+      "Not a sediment system for dirty water"
     ],
     "bestFor": "Weekend trips"
   }
@@ -189,30 +190,29 @@ export const products: GuideProduct[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "Certification claims",
-    "description": "We compared which NSF or CSA standards each listing actually names and kept performance listings separate from material-safety wording."
+    "title": "Certification wording",
+    "description": "We compared which NSF or CSA standards each listing actually names. Standard 42 speaks to taste and chlorine, and standard 53 is the one that backs lead and cyst claims, so the two are not interchangeable. We kept performance listings separate from material-safety wording, and treated a loose mention of NSF testing as uncertified."
   },
   {
-    "title": "Filter staging",
-    "description": "We looked at how many stages each filter has, and whether the micron rating suits sediment or taste work."
-  },
-  {
-    "title": "Capacity and flow",
-    "description": "Where gallon capacity, season length or gpm is stated, we weighed it against how often a typical camper changes cartridges."
-  },
-  {
-    "title": "Setup effort",
-    "description": "We rated how much hardware, mounting and tool use each filter needs at a hookup."
+    "title": "Filter staging and micron ratings",
+    "description": "We looked at how many stages each filter has and what each stage does. Sediment elements trap silt and rust flakes, and carbon works on chlorine and flavor. Each printed micron figure was recorded, from the 20 micron layer in a budget hose filter up to the finest carbon block in the canister kits."
   },
   {
     "title": "Cost per season",
-    "description": "We estimated yearly spend from the filters included and the cartridge or whole-unit replacement model."
+    "description": "We compared what a season actually costs, not the shelf price. A throwaway hose filter is replaced whole every few months, while canister cartridges cost a few dollars each. Based on product specs and pack counts, we weighed how many filters arrive in the box against how long a typical season runs."
+  },
+  {
+    "title": "Install effort and space",
+    "description": "We looked at what the filter needs from your rig. A hose-end unit threads on in seconds and needs no mounting, while a canister kit needs a bracket, a wrench and a spot to stand. We also noted brass fittings, included wrenches and any hose protector that spares the spigot."
+  },
+  {
+    "title": "Fit for a first-time buyer",
+    "description": "We asked whether a first-time owner could unbox a system, connect it and trust the result. Clear documentation, plain pack contents and a sensible replacement path earned higher placement. A first-time buyer being able to finish the install unaided mattered as much as the specs."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -221,6 +221,7 @@ export interface HowToChooseSection {
 export const howToChoose: HowToChooseSection[] = [
   {
     "subheading": "By How You Camp",
+    "intro": "Trip length and hookup habits decide the format more than any brand name, so match how you actually travel before you compare features.",
     "table": {
       "headers": [
         "Your situation",
@@ -229,35 +230,36 @@ export const howToChoose: HowToChooseSection[] = [
       ],
       "rows": [
         [
-          "Weekend trips, clean city hookups",
-          "Camco Single",
+          "Weekend trips on clean city hookups",
+          "Camco Tastepure RV Water Filter (single)",
           "Cheap, documented media and nothing to mount."
         ],
         [
           "Season-long travel, drinking hose only",
-          "Camco 2-Pack",
-          "Spare filter in the box and NSF/ANSI 42 and 53 wording."
+          "Camco Tastepure RV Water Filter 2-pk",
+          "A spare filter is in the box and the NSF/ANSI 42 and 53 wording is on the page."
         ],
         [
-          "Parked for weeks on one site",
-          "OKBA Dual Canister",
-          "Replaceable cartridges and a bracket-mounted two-stage setup."
+          "Parked on one site for weeks on dirty water",
+          "OKBA External RV Dual Water Filter System",
+          "5 micron sediment stage ahead of a 0.5 micron carbon block."
         ],
         [
-          "Silty or rusty campground water",
-          "Filterelated Dual",
-          "1 micron first stage catches finer sediment."
+          "Low spigots or kinked hoses",
+          "Hourleey 2 Pack RV Inline Water Filter",
+          "Two hose protectors ride in the pack."
         ],
         [
-          "Low or awkward spigot",
-          "Hourleey 2-Pack",
-          "Includes hose protectors to cut strain on the connection."
+          "Want published numbers before buying",
+          "Kohree RV Water Filter",
+          "States 0.5 gpm and 1,057 gallons per filter."
         ]
       ]
     }
   },
   {
     "subheading": "By Budget",
+    "intro": "First-filter spending is modest, so these ranges come straight from the six picks, with the canister kits at the top.",
     "table": {
       "headers": [
         "Budget",
@@ -266,83 +268,87 @@ export const howToChoose: HowToChooseSection[] = [
       "rows": [
         [
           "$10 to $30",
-          "Kohree 2-Pack or Camco Single"
+          "Camco Tastepure RV Water Filter (single) or Kohree RV Water Filter"
         ],
         [
           "$20 to $40",
-          "Hourleey 2-Pack or Camco 2-Pack"
+          "Hourleey 2 Pack RV Inline Water Filter or Camco Tastepure RV Water Filter 2-pk"
         ],
         [
           "$30 to $60",
-          "Filterelated Dual or OKBA Dual Canister"
+          "Filterelated RV Dual Water Filter System or OKBA External RV Dual Water Filter System"
         ]
       ]
     }
   },
   {
-    "subheading": "Hose-End Filter vs Canister Kit",
+    "subheading": "Hose Filter vs Canister Kit",
+    "intro": "This is the central trade for any first buyer, and the right side depends on how long you stay in one place.",
     "cards": [
       {
-        "label": "Hose-end filter",
-        "text": "A sealed GAC and KDF cartridge screws onto the hose. Camco 2-Pack, Camco Single, Kohree 2-Pack and Hourleey 2-Pack follow this design and you replace the whole unit."
+        "label": "Hose filter",
+        "text": "A sealed cartridge threads between spigot and hose, so install takes seconds and nothing needs mounting. You throw the whole unit away every few months. That group is Camco Tastepure RV Water Filter 2-pk, Kohree RV Water Filter, Hourleey 2 Pack RV Inline Water Filter and Camco Tastepure RV Water Filter (single)."
       },
       {
         "label": "Canister kit",
-        "text": "Two housings on a bracket let you swap just the cartridges. OKBA Dual Canister and Filterelated Dual take this route and give a real sediment stage ahead of carbon."
+        "text": "Two housings on a bracket take replaceable cartridges that cost a few dollars each, and the 5 micron sediment stage takes the dirt load. You need a place to mount it and a wrench for changes. That group is OKBA External RV Dual Water Filter System and Filterelated RV Dual Water Filter System."
       }
     ],
-    "note": "Most campers should start with Camco 2-Pack and move to OKBA Dual Canister only if the site water is dirty or the stay is long."
+    "note": "Choose a hose filter if you move often, and step up to the OKBA External RV Dual Water Filter System once you stay put long enough for cartridges to pay off."
   },
   {
-    "subheading": "By What Matters Most",
+    "subheading": "By Water Quality",
+    "intro": "The condition of the water you usually find at campgrounds is a different question from budget or format, and it decides how much sediment protection you need.",
     "table": {
       "headers": [
-        "Priority",
+        "Typical water",
         "Recommended pick"
       ],
       "rows": [
         [
-          "Documented standards",
-          "Camco 2-Pack"
+          "Clean city supply, taste is the only complaint",
+          "Camco Tastepure RV Water Filter 2-pk"
         ],
         [
-          "Stated flow and gallon rating",
-          "Kohree 2-Pack"
+          "Silty or rusty well water",
+          "Filterelated RV Dual Water Filter System"
         ],
         [
-          "Finer sediment control",
-          "Filterelated Dual"
+          "Mixed sources with heavy sediment",
+          "OKBA External RV Dual Water Filter System"
         ],
         [
-          "Lowest cost per season",
-          "Hourleey 2-Pack"
+          "Occasional use where numbers matter",
+          "Kohree RV Water Filter"
         ]
       ]
     }
   },
   {
-    "subheading": "For Full-Time Hookup Living Specifically",
+    "subheading": "For a First-Time RV Owner Specifically",
+    "intro": "A new owner needs a filter that is easy to understand and easy to replace, so the right answer leans toward clear documentation.",
     "cards": [
       {
         "label": "Look for",
-        "text": "Replaceable cartridges and a two-stage layout, as in OKBA Dual Canister."
+        "text": "Look for named certification wording, a plain pack count and a hose-end design you can install in seconds. The Camco Tastepure RV Water Filter 2-pk is the most documented of the hose options."
       },
       {
         "label": "In this comparison",
-        "text": "OKBA Dual Canister pairs 5 micron and 0.5 micron stages with a bracket and wrench, and Filterelated Dual is the cheaper alternative."
+        "text": "The Camco Tastepure RV Water Filter (single) is the lowest-cost way to try a filter on one trip, and the Hourleey 2 Pack RV Inline Water Filter suits low spigots with its two protectors."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "Money spent on a canister kit pays off only if you stay in one place, so tie the spend to your habits.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more on OKBA Dual Canister if you stay on one hookup for weeks, because replaceable cartridges beat throwing away a Kohree 2-Pack every few months."
+        "text": "You camp on one hookup for weeks or fill from rusty sources. The OKBA External RV Dual Water Filter System and Filterelated RV Dual Water Filter System take sediment loads that would clog a hose filter in a season."
       },
       {
         "label": "Save if",
-        "text": "Save with Camco Single or Hourleey 2-Pack if you travel often, since a hose filter packs small and clean city water does not need a sediment stage."
+        "text": "You travel often on clean city water. The Camco Tastepure RV Water Filter (single) and Kohree RV Water Filter give a basic taste fix for a small outlay."
       }
     ]
   }
@@ -350,52 +356,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "Hose filter or canister kit",
-    "explanation": "A hose-end filter is a sealed cartridge that screws between the spigot and your hose, while a canister kit uses refillable housings on a bracket. The difference matters because a hose filter is cheap and quick but fully disposable, while a canister kit lets you swap only the cartridge. Check whether the listing says the cartridges are replaceable and what size they take."
+    "criterion": "Inline hose filter or canister kit",
+    "explanation": "A hose-end filter is a sealed cartridge that screws between the spigot and your hose, while a canister kit uses refillable housings on a bracket and takes replaceable cartridges. The difference matters because the hose filter is cheap and quick but fully disposable, and a throwaway unit replaced every few months usually costs more per season than cartridges that run a few dollars each. If you move every few days, the hose filter wins on convenience. If you stay on one hookup for weeks, a canister kit wins on running cost, so look at your last three trips before you buy."
   },
   {
-    "criterion": "Certification named on the listing",
-    "explanation": "NSF/ANSI 42 covers chlorine, taste and odor, while NSF/ANSI 53 covers health-related claims. A line that says NSF-certified materials is not the same as performance testing. Look for the exact standard number in the listing bullets, not only the word certified."
+    "criterion": "What the filter actually removes",
+    "explanation": "Sediment stages catch silt, rust flakes and sand, while carbon handles chlorine, taste and some chemicals. Viruses pass through both, and a basic first filter is not a purifier. That limit matters because a filter that improves taste can still pass microbes from questionable water. Read the staging on the listing and expect sediment protection plus better taste, not a guarantee of safe water."
   },
   {
-    "criterion": "Micron rating of each stage",
-    "explanation": "The micron figure is the smallest particle a stage is meant to block, so lower is finer. A 20 micron stage is a sediment screen, while a 0.5 micron carbon block is much tighter. Read the rating for every stage, since a dual kit can pair a coarse and a fine one."
+    "criterion": "Certification, named or implied",
+    "explanation": "Two NSF numbers matter on a first filter. Standard 42 is the taste, odor and chlorine standard, while standard 53 is the one behind lead and cyst claims. A listing that cites 42 alone is silent on lead, and a phrase about being tested to NSF levels is a weaker statement than a certificate. If health claims matter to you, look for 53 spelled out and treat anything vaguer as an uncertified taste filter. Check which of the two numbers the page prints before you pay."
   },
   {
-    "criterion": "Stated capacity and season life",
-    "explanation": "Gallon ratings and three-month life claims tell you how often you buy again. Carbon wears out quietly, so a cartridge that still flows is not necessarily still working. Find the gallon or month figure on the listing and set a calendar reminder."
+    "criterion": "Micron rating and flow",
+    "explanation": "Micron rating describes the smallest particle a cartridge is built to block, and tighter ratings cut flow. A common budget inline unit sits around 20 micron, while a carbon block is usually 0.5 micron, and the usual canister layout pairs a 5 micron sediment stage with a 0.5 micron carbon block. Since finer media slows the tap, a kit sitting on a low-pressure hookup can feel weak. Look for the exact micron number and any printed flow figure in the bullets."
   },
   {
-    "criterion": "Flow rate and pressure drop",
-    "explanation": "Every filter slows your flow a little, and small cartridges slow it more. A listing that states gpm helps you judge whether showers and fills will stay brisk. If none is given, expect a modest flow and avoid chaining many stages."
+    "criterion": "Replacement cost and interval",
+    "explanation": "Hose filters are normally swapped as complete units every few months, and a single unit used for a season can cost more than the cartridges for a canister kit. Over a year of use the difference becomes real money, which is why pack size matters. Add up the filters you will use per season and compare it with the cost of a cartridge pair, then check that replacement cartridges are easy to find before you commit. A cheap pack that is hard to restock costs more in the long run than a slightly pricier one you can reorder in a day."
   },
   {
-    "criterion": "Fittings and hose strain",
-    "explanation": "A filter hanging from a low spigot pulls on the threads. Brass fittings and flexible hose protectors reduce leaks and kinks. Confirm 3/4 inch garden hose threads and look for a protector or bracket."
+    "criterion": "Mounting, fittings and freeze risk",
+    "explanation": "A heavy filter hanging from the spigot can kink the hose and stress the connection, which is why some packs include a hose protector. Water that freezes inside a canister housing can split it, so plan to drain or bypass the unit before storage. Brass fittings resist cross-threading better than plastic. Look at the photos for a bracket, a wrench and the fitting material before you buy."
   }
 ];
 
 export const faq = [
   {
     "q": "Do I need a pressure regulator with an RV water filter?",
-    "a": "Yes, use one. Connect the spigot, regulator, filter, then hose, so campground pressure is limited before it reaches the filter housing and your plumbing."
+    "a": "Yes, use one. Connect the spigot, then the regulator, then the filter, then your hose, so campground pressure is limited before it reaches the filter housing and your plumbing. The regulator sits upstream of everything you buy here, whether it is a hose filter or a canister kit, and it costs little next to the plumbing it protects."
   },
   {
     "q": "What is the biggest mistake with RV water filters?",
-    "a": "Treating any carbon filter as a purifier. The media named here targets chlorine, taste and sediment, and none of these listings claims bacteria removal, so use another step for questionable water."
+    "a": "Treating a taste filter as a purifier. A hose-end GAC and KDF filter improves chlorine taste and traps some sediment, but neither media is aimed at viruses. If you worry about the source, filtering is not a substitute for other treatment. Read the certification wording and keep expectations to taste and clarity."
   },
   {
-    "q": "Is a dual canister kit worth it over a hose filter?",
-    "a": "If you camp on one site for weeks or meet dirty water, yes, because a separate sediment stage protects the carbon. For short trips on clean hookups the Camco 2-Pack is simpler."
+    "q": "Is the OKBA External RV Dual Water Filter System worth it over a hose filter?",
+    "a": "It is worth it if you stay put. Cartridges for a canister kit cost a few dollars each, while a throwaway hose filter is replaced whole every few months. The OKBA External RV Dual Water Filter System also puts a 5 micron sediment stage ahead of a 0.5 micron carbon block, which handles dirtier water. For short trips on clean water, a hose filter is simpler and cheaper to start."
   },
   {
-    "q": "How do I install a hose-end filter?",
-    "a": "Turn off the spigot, thread the filter on by hand with the arrow or inlet side toward the water source, then open the spigot slowly. Flush a few gallons first since new carbon sheds dust."
+    "q": "How do I install a hose-end filter correctly?",
+    "a": "Connect the spigot, regulator, filter, then hose, and hand tighten each joint. Flush the filter with water for a few minutes before drinking. A filter hanging straight down can kink the hose at the spigot, so a protector helps. Watch the spigot joint for the first minute of flow."
   },
   {
-    "q": "When should I replace the filter?",
-    "a": "Follow the listed gallon or month rating, usually about three months for these hose filters. Carbon wears out silently, so replace on schedule even if flow still seems fine."
+    "q": "How often do I replace the cartridge?",
+    "a": "Hose filters are normally replaced as a whole unit every few months, with a season of about three months quoted on the Hourleey 2 Pack RV Inline Water Filter listing. Canister cartridges follow the same calendar but cost a few dollars each. Replace sooner if flow drops or the water tastes off. Never judge it only by how the outlet looks."
+  },
+  {
+    "q": "What do I do with a filter housing over winter?",
+    "a": "Drain it. Ice forming in a full filter housing can split the shell, and the damage often shows up as a leak at the next hookup. Remove the cartridges, let the housing dry and store it indoors, or bypass it before a freeze. A sealed hose filter should come off the spigot and be thrown out or stored dry."
   }
+];
+
+export const bottomLine = [
+  "For most first-time owners, the Camco Tastepure RV Water Filter 2-pk is the easiest place to start because it threads on in seconds and spells out its NSF/ANSI 42 and 53 wording. If you camp on one site for weeks or fill from dirty sources, the OKBA External RV Dual Water Filter System adds a 5 micron sediment stage ahead of a 0.5 micron carbon block and replaceable cartridges.",
+  "Budget buyers who want a canister can look at the Filterelated RV Dual Water Filter System, and the Hourleey 2 Pack RV Inline Water Filter suits awkward spigots. A first filter fixes taste and silt, so pick the format that matches how long you stay."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [

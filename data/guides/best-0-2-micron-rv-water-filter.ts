@@ -4,10 +4,11 @@ export const metaTitle = "Best 0 2 Micron RV Water Filter in 2026";
 export const metaDescription = "Best 0.2 micron RV water filters compared by what the listings actually document, with step-down options for buyers who find few true matches.";
 export const mainKeyword = "best 0 2 micron rv water filter";
 export const introParagraphs = [
-  "Very few RV filters document a 0.2 micron rating, so this shortlist leads with the two that do and treats the rest as honest step-ups to 0.5 or 1 micron media. If 0.2 is a hard requirement, the first two picks are the ones to read closely.",
-  "Each filter was compared on the micron figure printed in its own title and bullets, whether that figure is nominal or absolute, and how much cartridge change the system asks of you. Fine media costs flow, so the ranking also weighs housing size and hookup type."
+  "A 0.2 micron rating is the tightest number most RV owners will ever see on a filter box, and it deserves more suspicion than excitement, because the headline hides a lot of detail. The figure describes the size of particle the element is meant to stop, and it means something different depending on whether it is absolute or nominal. Nominal means most particles of that size are caught. Absolute means effectively all of them, and listings often print the number without saying which one applies, so the fine print matters more than the number.",
+  "The rating also has a ceiling on what it covers, and that ceiling is easy to miss. A 0.2 micron filter addresses bacteria and cysts, not viruses, and it does not replace a purification step for unknown water. It also carries a flow penalty, because tighter media cuts flow in every hookup, and a lone sub-micron element behind a pump near 3 GPM can sag the shower. That is why the best examples here stage a coarser carbon or sediment element ahead of the fine one, and why the flow figure belongs next to the rating.",
+  "Five picks are compared, from a staged standalone with a described absolute 0.2 micron element to a coarser 0.5 micron step-up and a certified taste filter that prints no micron figure at all. If a listing is close to 0.2 but not exact, such as 0.5 or 1 micron, it is a different tier and should be judged on its own merits. Read the rating, the staging and the flow together, one pick at a time, and ignore the headline number when the rest is vague, because a rating with no context is only decoration."
 ];
-export const lastUpdated = "2026-10-02";
+export const lastUpdated = "2026-11-11";
 export const readTime = "10 min";
 export const heroImage = "https://m.media-amazon.com/images/I/41Wc4lHD6PS._SL500_.jpg";
 
@@ -27,20 +28,20 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41Wc4lHD6PS._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B074CNXQXQ?tag=rvgearlab-20",
-    "description": "The Clearsource Premier is a two-stage standalone system whose listing describes a 0.2 micron filter with an absolute rating, paired with a coconut shell carbon block first stage. A powder-coated standalone chassis is built for the RV hookup rather than a flimsy hose-end canister.\n\nCompared with the Purevua PHB10, it spreads the work over two cartridges, so the fine element sees pre-filtered water. That staging is the main reason it sits above the single-housing options on this list.\n\nIt is the pick for full-timers and long-stay campers who want the tightest rating on the page and are happy to invest in a permanent-style setup. The absolute rating and staged build make it the reference point for the other picks.",
+    "description": "The Clearsource Premier is a two-stage standalone system whose listing describes a 0.2 micron filter with an absolute rating, paired with a coconut shell carbon block first stage. A powder-coated standalone chassis is built for the RV hookup rather than a flimsy hose-end canister. It is the reference point for the tightest practical rating on this list.\n\nCompared with the Purevua PHB10, it spreads the work over two cartridges, so the fine element sees pre-filtered water. That staging is the main reason it sits above the single-housing options on this list, because the carbon block takes the early load and the 0.2 micron element stays clean longer. The coconut shell carbon also handles taste and smell before the fine stage.\n\nIt is the pick for full-timers and long-stay campers who want the tightest rating on the page and are happy to invest in a permanent-style setup. The absolute rating and staged build make it the reference point for the other picks, and cartridge kits are sold separately for replacement. A full-time rig gets a long-term filter that can be renewed cartridge by cartridge.",
     "specs": [
-      "0.2 micron absolute rating",
-      "Carbon block first stage",
-      "Powder-coated standalone chassis"
+      "Described absolute 0.2 micron filter stage",
+      "Coconut shell carbon block as the first stage",
+      "Powder-coated standalone chassis for RV hookups"
     ],
     "pros": [
       "Stated 0.2 micron absolute rating on the second stage",
       "Carbon block stage improves taste and smell",
-      "Standalone chassis built for RV hookups",
-      "Cartridge kits sold separately for replacement"
+      "Standalone chassis is built for RV hookups",
+      "Cartridge kits are sold separately for replacement"
     ],
     "cons": [
-      "Highest price on this list",
+      "Highest price of any pick on this list",
       "Two-stage housing needs more space than a hose filter"
     ],
     "bestFor": "Full-timers wanting the tightest rating"
@@ -55,21 +56,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/41zcqa2dFeL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0F9XF7XVD?tag=rvgearlab-20",
-    "description": "The Purevua PHB10 puts a 0.2-micron pleated polyester outer layer around a 5-micron activated carbon core inside one 10 by 4.5 inch polypropylene housing. It screws straight onto standard 3/4 inch garden hose fittings.\n\nAgainst the Clearsource Premier it trades the second housing for a composite cartridge, which keeps the setup simple and the cost far lower. It also has a detachable handle, so it travels easily between sites.\n\nA good fit for weekend campers who want a documented 0.2 micron layer without a mounted two-stage rig. The detachable handle makes moving between hookups quick.",
+    "description": "The Purevua PHB10 puts a 0.2-micron pleated polyester outer layer around a 5-micron activated carbon core inside one 10 by 4.5 inch polypropylene housing. It screws straight onto standard 3/4 inch garden hose fittings, so the install matches any backyard hose. That combination makes it the simplest way here to get a 0.2 micron layer into an RV supply line.\n\nAgainst the Clearsource Premier it trades the second housing for a composite cartridge, which keeps the setup simple and the cost far lower. It also has a detachable handle, so it travels easily between sites, and the carbon core inside the 0.2 micron layer handles taste in the same cartridge. One element does the work of two stages for a weekend traveler.\n\nA good fit for weekend campers who want a documented 0.2 micron layer without a mounted two-stage rig. The detachable handle makes moving between hookups quick, and the straight hose connection means setup takes seconds with a hose and a spigot and nothing else to mount. It suits a campsite where speed matters more than a permanent install.",
     "specs": [
-      "0.2 micron pleated outer layer",
-      "5 micron carbon core",
-      "3/4 inch hose fittings"
+      "0.2-micron pleated polyester outer layer",
+      "5-micron activated carbon core in one housing",
+      "3/4 inch hose fittings, detachable handle"
     ],
     "pros": [
       "Documented 0.2 micron layer in a single housing",
-      "Tool-free hose connection",
-      "Detachable handle for carrying",
-      "Reinforced polypropylene body"
+      "Tool-free hose connection takes only seconds",
+      "Detachable handle makes it easy to carry",
+      "Reinforced polypropylene body for the hookup"
     ],
     "cons": [
       "Composite cartridge is one piece to replace",
-      "Single housing means no separate sediment stage"
+      "Single housing has no separate sediment stage"
     ],
     "bestFor": "Weekend campers wanting fine filtration"
   },
@@ -83,21 +84,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/411bAfXiPrL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B08FHZMJH7?tag=rvgearlab-20",
-    "description": "The OKBA Dual is an external two-canister system with a 0.5 micron carbon block and a 5 micron element, thick plastic housings, a brass fixture and a mounting bracket. A wrench for loosening the housings ships in the box.\n\nIt sits one step coarser than the Purevua PHB10 and the Clearsource Premier, and it gives you separate sediment and carbon stages for a price well below either. Mounting it on the RV frame keeps the hose side uncluttered.\n\nSuited to RVers who want staged filtration at 0.5 micron and care more about budget than the 0.2 figure. The included wrench and bracket make the first install straightforward.",
+    "description": "The OKBA Dual is an external two-canister system with a 0.5 micron carbon block and a 5 micron element, thick plastic housings, a brass fixture and a mounting bracket. A wrench for loosening the housings ships in the box. It is the staged, budget way into fine filtration on this list, and the dual layout is the draw.\n\nIt sits one step coarser than the Purevua PHB10 and the Clearsource Premier, and it gives you separate sediment and carbon stages for a price well below either. Mounting it on the RV frame keeps the hose side uncluttered, and the 5 micron element takes the silt before the carbon block. Thick plastic housings keep the assembly sturdy at the hookup.\n\nSuited to RVers who want staged filtration at 0.5 micron and care more about budget than the 0.2 figure. The included wrench and bracket make the first install straightforward, and a coarser final stage keeps flow healthier on a low-pressure spigot than a finer one would. That is the practical reason to pick 0.5 over 0.2 for many campers.",
     "specs": [
-      "0.5 micron carbon block",
-      "5 micron sediment stage",
-      "Brass fixture, bracket included"
+      "0.5 micron carbon block with a 5 micron element",
+      "Brass fixture and sturdy mounting bracket",
+      "Housing wrench included in the box"
     ],
     "pros": [
       "Two separate stages in one kit",
-      "Brass fixture and sturdy bracket",
-      "Wrench included for housings",
+      "Brass fixture and sturdy bracket for mounting",
+      "Wrench is included for loosening the housings",
       "Low cost for a dual-canister setup"
     ],
     "cons": [
       "Finest media is 0.5 micron, not 0.2",
-      "Plastic housings need careful tightening"
+      "Plastic housings need careful hand tightening each time"
     ],
     "bestFor": "Budget buyers who want two stages"
   },
@@ -111,21 +112,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51oVLgBb5RL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0BWMSJXXP?tag=rvgearlab-20",
-    "description": "The SpiroPure SP-RV100-2PK is a pair of multi-stage inline filters with 1 micron media and a salt-free descaler stage. Each one connects with a standard 3/4 inch garden hose fitting.\n\nWhere the OKBA Dual asks you to mount canisters, these are disposable hose-end units, so swapping one mid-season takes seconds. The two-pack means a spare is already in the drawer.\n\nBest for travel-trailer owners in hard-water areas who want a simple swap-and-go filter with a 1 micron stage. Keeping the second filter as a spare removes the need to restock mid-trip.",
+    "description": "The SpiroPure SP-RV100-2PK is a pair of multi-stage inline filters with 1 micron media and a salt-free descaler stage. Each one connects with a standard 3/4 inch garden hose fitting. The descaler stage is the unique feature here, aimed at mineral buildup rather than particles, a different problem from the one a micron rating solves.\n\nWhere the OKBA Dual asks you to mount canisters, these are disposable hose-end units, so swapping one mid-season takes seconds, without a wrench or a drained housing. The two-pack means a spare is already in the drawer, and the 1 micron media is a step coarser than the 0.5 micron OKBA carbon block, which keeps flow easier on a modest hookup.\n\nBest for travel-trailer owners in hard-water areas who want a simple swap-and-go filter with a 1 micron stage. Keeping the second filter as a spare removes the need to restock mid-trip, and the season-long life per filter on the listing suits a calendar replacement habit. Mineral-heavy hookups are where the descaler stage earns its place.",
     "specs": [
-      "1 micron 2-stage media",
-      "Salt-free descaler",
-      "Standard 3/4 inch hose fit"
+      "1 micron two-stage media in a two-pack",
+      "Salt-free descaler stage for mineral buildup",
+      "Standard 3/4 inch garden hose fit"
     ],
     "pros": [
-      "Two filters in the pack",
-      "Descaler stage for mineral buildup",
-      "Standard hose thread, no tools",
+      "Two filters come in the pack",
+      "Descaler stage targets mineral buildup in the lines",
+      "Standard hose thread, no tools needed",
       "Season-long life per filter per the listing"
     ],
     "cons": [
       "1 micron is five times coarser than 0.2",
-      "Disposable units generate more waste"
+      "Disposable units generate more waste each season"
     ],
     "bestFor": "Hard-water campers wanting easy swaps"
   },
@@ -139,21 +140,21 @@ export const products: GuideProduct[] = [
     "reviews": null,
     "imageUrl": "https://m.media-amazon.com/images/I/51cEM+M8mIL._SL500_.jpg",
     "amazonUrl": "https://www.amazon.com/dp/B0024E6V30?tag=rvgearlab-20",
-    "description": "The Camco Tastepure two-pack uses GAC and KDF media in a 6-step filtration design, listed to NSF/ANSI 42 and 53 and made in the USA. It attaches to any standard garden or drinking water hose.\n\nIt is the only pick here that names the NSF standards it is listed to, which gives it a clearer paper trail than most hose filters. Its media is built around taste and chlorine, which makes it a different job from the 0.2 micron picks.\n\nA solid choice for campers who want a familiar, certified taste filter as the everyday option. The two-pack gives a spare for the next trip.",
+    "description": "The Camco Tastepure two-pack uses GAC and KDF media in a 6-step filtration design, listed to NSF/ANSI 42 and 53 and made in the USA. It attaches to any standard garden or drinking water hose. It is the pick on this list that puts paperwork ahead of a micron figure, and it uses media aimed at everyday camp taste.\n\nIt is the one pick here that names the NSF standards it is listed to, which gives it a clearer paper trail than most hose filters. Its media is built around taste and chlorine, which makes it a different job from the 0.2 micron picks, and it keeps flow easy because it skips a fine rating.\n\nA solid choice for campers who want a familiar, certified taste filter as the everyday option. The two-pack gives a spare for the next trip, and it pairs well as a first stage ahead of a finer element when you want both documentation and fine filtration. Weekenders get a documented filter with nothing to mount.",
     "specs": [
-      "NSF/ANSI 42 and 53 listed",
-      "GAC and KDF media",
-      "Made in the USA"
+      "NSF/ANSI 42 and 53 listing wording",
+      "GAC and KDF media in a 6-step design",
+      "Two-pack made in the USA"
     ],
     "pros": [
       "Names NSF/ANSI 42 and 53 listings",
-      "CSA lead-free content certified",
-      "Two filters per pack",
-      "Widely sold familiar design"
+      "CSA lead-free content is certified per the listing",
+      "Two filters come in each pack",
+      "Widely sold and familiar hose-end design"
     ],
     "cons": [
       "No micron rating is given in the listing",
-      "Hose-end size limits capacity"
+      "Hose-end size limits how much it can treat"
     ],
     "bestFor": "Taste-first campers wanting a certified filter"
   }
@@ -161,26 +162,29 @@ export const products: GuideProduct[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "Stated micron rating",
-    "description": "Each filter's own title and bullets were read for the micron figure, and only documented figures were credited."
+    "title": "Is the rating absolute or nominal",
+    "description": "We looked at how each listing describes its micron figure. Nominal means most particles of that size are caught, while absolute means effectively all, and many listings print a number without saying which. We gave extra weight to the one listing that describes an absolute 0.2 micron element and treated the others as stated claims."
   },
   {
-    "title": "Nominal or absolute",
-    "description": "The ranking notes where a listing says absolute and where the figure is a bare number."
+    "title": "Staging and flow penalty",
+    "description": "We compared how the fine element is protected. Tighter ratings cut flow, so a two-stage layout with a coarser carbon block ahead of a fine element clogs less. Based on product specs, a single housing wrapping a 0.2 micron layer around a carbon core trades staging for simplicity."
   },
   {
-    "title": "Stages and flow",
-    "description": "Staged systems were weighed against single housings for how they protect the fine element and hose pressure."
+    "title": "What the rating covers",
+    "description": "We kept the microbial claim honest. A 0.2 micron rating addresses bacteria and cysts, not viruses, and sediment and carbon stages neither remove viruses. We noted where a listing leans on the number and where it leans on paperwork."
   },
   {
-    "title": "Replacement path",
-    "description": "Cartridge kits, two-packs and recurring cost were compared across picks."
+    "title": "Format and install",
+    "description": "We compared standalone systems on a chassis or bracket with single housings and two-packs that thread onto a hose. A mounted two-stage kit needs space, while a hose-end unit threads on in seconds. We also noted wrenches, handles and brass fixtures."
+  },
+  {
+    "title": "Replacement and cost",
+    "description": "We looked at how each setup is renewed, such as cartridge kits sold separately, a composite cartridge or a sealed two-pack. Cartridges cost a few dollars each in the common canister format, while throwaway filters are replaced whole. Scoring weighted renewal cost alongside the rating on the box."
   }
 ];
 
 export interface HowToChooseSection {
-  subheading: string;
-  intro?: string;
+  subheading: string; intro?: string;
   table?: { headers: string[]; rows: string[][] };
   cards?: { label: string; text: string }[];
   note?: string;
@@ -188,44 +192,46 @@ export interface HowToChooseSection {
 
 export const howToChoose: HowToChooseSection[] = [
   {
-    "subheading": "By how strict your 0.2 requirement is",
+    "subheading": "By Rating Tier",
+    "intro": "Because 0.2 micron is the tightest tier, the useful question is how far down the ladder your water really requires you to go.",
     "table": {
       "headers": [
-        "Your situation",
+        "Rating wanted",
         "Recommended pick",
         "Why"
       ],
       "rows": [
         [
-          "0.2 micron is mandatory and you want staging",
-          "Clearsource Premier",
-          "Documents a 0.2 absolute stage behind a carbon block"
+          "Absolute 0.2 micron in a staged system",
+          "Clearsource Premier RV Water Filter System",
+          "Two-stage standalone with an absolute 0.2 micron element."
         ],
         [
-          "0.2 micron on a tight budget",
-          "Purevua PHB10",
-          "Single housing with a 0.2-micron layer"
+          "0.2 micron layer in one housing",
+          "Purevua PHB10 RV Water Filter System",
+          "0.2-micron pleated layer around a 5-micron carbon core."
         ],
         [
-          "0.5 micron is fine, you want two stages",
-          "OKBA Dual",
-          "Separate 0.5 and 5 micron cartridges"
+          "0.5 micron carbon block in two stages",
+          "OKBA External RV Dual",
+          "0.5 micron carbon block plus a 5 micron element."
         ],
         [
-          "Taste and certification matter more than size",
-          "Camco Tastepure",
-          "Lists NSF/ANSI 42 and 53"
+          "1 micron media in disposable units",
+          "SpiroPure SP-RV100-2PK RV Water Filter",
+          "1 micron two-stage media with a salt-free descaler."
         ],
         [
-          "Hard water and spare filters",
-          "SpiroPure 2-Pack",
-          "1 micron stage plus a descaler"
+          "No micron figure, certified taste filter",
+          "Camco Tastepure RV Water Filter 2-pk",
+          "Lists NSF/ANSI 42 and 53 instead of a micron rating."
         ]
       ]
     }
   },
   {
     "subheading": "By Budget",
+    "intro": "Prices in this guide jump sharply between simple filters and the staged standalone.",
     "table": {
       "headers": [
         "Budget",
@@ -234,83 +240,87 @@ export const howToChoose: HowToChooseSection[] = [
       "rows": [
         [
           "$30 to $60",
-          "Camco Tastepure or OKBA Dual"
+          "OKBA External RV Dual or Camco Tastepure RV Water Filter 2-pk"
         ],
         [
           "$60 to $120",
-          "SpiroPure 2-Pack or Purevua PHB10"
+          "SpiroPure SP-RV100-2PK RV Water Filter or Purevua PHB10 RV Water Filter System"
         ],
         [
           "$490 to $500",
-          "Clearsource Premier"
+          "Clearsource Premier RV Water Filter System"
         ]
       ]
     }
   },
   {
-    "subheading": "Absolute rating vs nominal rating",
+    "subheading": "Staged System vs Single Housing",
+    "intro": "Where the fine element sits and what protects it is the central design choice, and it governs flow and clogging.",
     "cards": [
       {
-        "label": "Absolute",
-        "text": "An absolute rating means nearly all particles at that size are stopped. The Clearsource Premier lists its 0.2 micron filter this way, which is the clearest claim here."
+        "label": "Staged system",
+        "text": "A coarser carbon or sediment element sits ahead of the fine one, so the fine element sees pre-filtered water and clogs later. That group is Clearsource Premier RV Water Filter System and OKBA External RV Dual."
       },
       {
-        "label": "Nominal or unstated",
-        "text": "A nominal or bare figure means most, not all, particles are caught. The Purevua PHB10, OKBA Dual and SpiroPure 2-Pack give numbers without that wording."
+        "label": "Single housing",
+        "text": "One cartridge or one sealed unit holds the whole filter, which keeps it simple and lower cost but leaves the fine layer unprotected. Single-housing picks are Camco Tastepure RV Water Filter 2-pk, SpiroPure SP-RV100-2PK RV Water Filter and Purevua PHB10 RV Water Filter System."
       }
     ],
-    "note": "Choose the Clearsource Premier when the rating is the point, and the Purevua PHB10 when a documented 0.2 layer at a lower cost is enough."
+    "note": "Choose the Clearsource Premier RV Water Filter System for full-time stays, and the Purevua PHB10 RV Water Filter System for weekend trips where simplicity wins."
   },
   {
-    "subheading": "By setup preference",
+    "subheading": "By Flow Penalty and Pump Size",
+    "intro": "Tight media costs pressure, so the right pick depends on how much pressure and pump capacity you can spare.",
     "table": {
       "headers": [
-        "Setup",
+        "Your situation",
         "Recommended pick"
       ],
       "rows": [
         [
-          "Permanent mounted rig",
-          "Clearsource Premier"
+          "Strong hookup, want the tightest rating",
+          "Clearsource Premier RV Water Filter System"
         ],
         [
-          "Carry-and-attach hose filter",
-          "Purevua PHB10"
+          "Weekend use, accept some flow loss",
+          "Purevua PHB10 RV Water Filter System"
         ],
         [
-          "Bracket-mounted dual canisters",
-          "OKBA Dual"
+          "Weak spigot or small pump, keep flow up",
+          "OKBA External RV Dual"
         ],
         [
-          "Disposable swap-in filters",
-          "SpiroPure 2-Pack"
+          "Want a swap-and-go filter at 1 micron",
+          "SpiroPure SP-RV100-2PK RV Water Filter"
         ]
       ]
     }
   },
   {
-    "subheading": "For Well or Silty Water Specifically",
+    "subheading": "For Bacteria and Cyst Concerns Specifically",
+    "intro": "A 0.2 micron rating is meant to speak to bacteria and cysts, so this is the use case where the number matters most.",
     "cards": [
       {
         "label": "Look for",
-        "text": "a coarse sediment stage ahead of any fine element, and a housing you can open"
+        "text": "Look for the word absolute, a fine element protected by an earlier stage and a clear note about what the rating covers. The Clearsource Premier RV Water Filter System describes an absolute 0.2 micron filter."
       },
       {
         "label": "In this comparison",
-        "text": "The Clearsource Premier pairs a carbon block first stage with its 0.2 micron filter, and the OKBA Dual separates 5 and 0.5 micron stages. Both protect the fine media better than a single cartridge."
+        "text": "The Purevua PHB10 RV Water Filter System documents a 0.2-micron layer in one housing. Camco Tastepure RV Water Filter 2-pk is a taste filter with no micron figure, so it leaves this concern open."
       }
     ]
   },
   {
     "subheading": "When to Spend More",
+    "intro": "The cost gap in this guide is wide, so the extra spend needs a specific reason, such as an absolute rating or a staged build.",
     "cards": [
       {
         "label": "Spend more if",
-        "text": "Spend more if you want the 0.2 micron absolute rating the Clearsource Premier documents, plan to stay for months, and want a standalone chassis made for RV use."
+        "text": "You live on the road and want the absolute 0.2 micron element with staging. The Clearsource Premier RV Water Filter System is the pick, and replacement cartridge kits are sold separately."
       },
       {
         "label": "Save if",
-        "text": "Save if a documented 0.2 layer is enough: the Purevua PHB10 delivers it at a fraction of the cost, and the OKBA Dual or Camco Tastepure cover everyday use cheaply."
+        "text": "You camp on trusted supplies and want better taste. The Camco Tastepure RV Water Filter 2-pk and the OKBA External RV Dual do that at a fraction of the cost."
       }
     ]
   }
@@ -318,48 +328,61 @@ export const howToChoose: HowToChooseSection[] = [
 
 export const buyingCriteria = [
   {
-    "criterion": "What 0.2 micron actually means",
-    "explanation": "A micron rating describes the particle size a filter is meant to catch, and 0.2 micron is among the finest ratings sold for RV use. It matters because the same number can be nominal (most particles stopped) or absolute (nearly all stopped at that size), which changes real performance. Check the listing for the word absolute rather than trusting the number alone."
+    "criterion": "Absolute versus nominal rating",
+    "explanation": "A micron rating is the particle size a filter is built to stop. A nominal 0.2 micron rating means most particles of that size are caught, and an absolute 0.2 micron rating means effectively all are, which is a much firmer promise. A listing that prints 0.2 micron without the word absolute is making a softer claim. Look for the word absolute next to the number, and for the stage the rating belongs to."
   },
   {
-    "criterion": "Flow loss at fine ratings",
-    "explanation": "Tighter pores slow water, so a fine filter in a small housing can drop pressure at the shower. This matters most on weak campground spigots. Look for a stated flow rate or a larger housing before buying."
+    "criterion": "What 0.2 micron does and does not cover",
+    "explanation": "A 0.2 micron rating addresses bacteria and cysts, but not viruses, which are smaller. Sediment and carbon stages neither remove viruses, so a tight rating does not turn unknown water into purified water. If you fill from an unknown source, treat the filter as one step in a larger plan. Read the listing for the specific claims made and for any standard behind them."
   },
   {
-    "criterion": "Pre-filter staging",
-    "explanation": "A sediment or carbon stage ahead of the fine element keeps it from clogging early. Without staging, a 0.2 micron cartridge can plug fast on silty water and need frequent replacement. Look for a two-housing kit or a composite cartridge with a coarser outer layer."
+    "criterion": "Flow penalty and pump match",
+    "explanation": "Tighter media cuts flow, and one sub-micron element fed by a pump rated near 3 GPM can sag the shower noticeably. The effect is worst on a weak hookup or a small pump, and it grows as the element clogs. Staging a coarser stage first keeps the fine element clean longer. Look for a printed flow rate, and match it to your pump GPM before buying the tightest filter."
   },
   {
-    "criterion": "Certification scope",
-    "explanation": "An NSF mark covers specific standards, such as 42 for taste and odor or 53 for health effects, and not every claim a listing makes. A mark on the filter does not extend to claims about bacteria or metals. Read which standard numbers the listing names."
+    "criterion": "Staging and cartridge order",
+    "explanation": "The usual layout puts a coarse 5 micron cartridge up front and the 0.5 micron carbon block behind it, because the coarse stage takes the silt load and spares the fine one. A fine element placed first clogs quickly on dirty water. A two-stage standalone spreads work across two cartridges, while a composite cartridge combines them into one piece. Look for the order of stages and which element is described as absolute."
   },
   {
-    "criterion": "Cartridge cost per season",
-    "explanation": "Fine cartridges are the recurring cost, and a cheap housing can hide an expensive replacement. Compare the price of the next cartridge, not only the system. Check that replacements are sold separately and in what size."
+    "criterion": "Hard water, descalers and taste",
+    "explanation": "Taste and chlorine are handled by carbon, not by a fine micron rating, and a 0.2 micron element does not improve taste on its own. A salt-free descaler stage targets mineral buildup, which is a separate problem from particles. Matching the media to the complaint avoids paying for the wrong feature. Look for carbon block or coconut shell carbon if taste is the goal."
+  },
+  {
+    "criterion": "Format, freeze risk and replacement",
+    "explanation": "A standalone chassis or bracketed canister takes replaceable cartridges, while a hose-end filter is replaced whole every few months. Water that ices over inside a canister can split it, so any housing needs draining before storage. A two-stage kit needs space beside the hookup. Look at the replacement path, such as cartridge kits sold separately, and at the housing wrench."
   }
 ];
 
 export const faq = [
   {
-    "q": "Is a 0.2 micron filter enough to make water safe?",
-    "a": "A micron rating describes particle capture, not a full safety claim. These listings do not state removal of bacteria, viruses or specific contaminants, so treat the filter as a particle and taste upgrade and use treatment where water quality is uncertain."
+    "q": "Does a 0.2 micron filter make water safe to drink?",
+    "a": "Not on its own. A 0.2 micron rating addresses bacteria and cysts, not viruses, and sediment or carbon stages leave viruses alone as well. If your source is unknown, treat the filter as one step in a larger plan. Read what the listing claims, and look for a named standard behind it."
   },
   {
-    "q": "Will a 0.2 micron filter cut my water pressure?",
-    "a": "It can, because finer pores restrict flow more than coarse ones. A staged system such as the Clearsource Premier or a larger housing reduces the effect. If your spigot is weak, test with the pressure you normally have before relying on it."
+    "q": "What is the difference between absolute and nominal ratings?",
+    "a": "Nominal means most particles of that size are caught, while absolute means effectively all of them are. Listings often print the number without saying which. The Clearsource Premier listing describes an absolute 0.2 micron filter, which is the firmest claim in this guide. Treat an unlabeled number as a nominal rating until the page says otherwise."
   },
   {
-    "q": "Is the OKBA Dual a fair substitute at 0.5 micron?",
-    "a": "It is a step coarser, so it will not match a 0.2 absolute rating. It does give separate 0.5 and 5 micron stages, which is a sensible upgrade over a plain hose filter when budget matters."
+    "q": "Is the Clearsource Premier RV Water Filter System worth it over the Purevua PHB10 RV Water Filter System?",
+    "a": "It is worth it for full-time or long-stay use. The Clearsource Premier RV Water Filter System spreads the work over two cartridges, so the fine element sees pre-filtered water, while the Purevua PHB10 RV Water Filter System wraps a 0.2 micron layer around a 5 micron carbon core in one housing. The Purevua costs far less and suits weekends. If you rarely camp on bad water, the cheaper unit covers more of your needs."
   },
   {
-    "q": "How do I install the Purevua PHB10?",
-    "a": "Connect it to the faucet end with a standard 3/4 inch garden hose fitting, then run the hose to the RV inlet. Flush with water first to clear loose carbon, and hand-tighten the housing."
+    "q": "Will a 0.2 micron filter slow my water?",
+    "a": "Probably, yes. Tighter media cuts flow, and one sub-micron element fed by a pump rated near 3 GPM can sag the shower noticeably. Staging a coarser stage first and keeping the element clean helps. If your spigot is weak, a 0.5 micron kit such as the OKBA is a more comfortable compromise."
   },
   {
-    "q": "How often should the cartridge be changed?",
-    "a": "Listings give lifespans from about a season to three months, and the true interval depends on how silty the water is. Replace sooner if flow drops or taste returns, and drain the housing before storing in cold weather."
+    "q": "How do I install and maintain a two-stage canister system?",
+    "a": "Mount the housings, connect the hose and outlet, and tighten the bowls with the wrench. Flush a few minutes before use, then look for drips. Replace cartridges on a calendar or when flow drops, and carry spares. The OKBA External RV Dual ships with a wrench and bracket."
+  },
+  {
+    "q": "What do I do with the housings in winter?",
+    "a": "Drain them. A bowl that freezes full can split, so pull the cartridges, dry the bowls and store the unit indoors, or bypass it. A hose-end unit such as the SpiroPure should come off the spigot before a freeze. A cracked bowl will leak at the next hookup."
   }
+];
+
+export const bottomLine = [
+  "If you want the tightest rating on this list, the Clearsource Premier RV Water Filter System is the reference pick, with a described absolute 0.2 micron element behind a carbon block stage. The Purevua PHB10 RV Water Filter System puts a 0.2 micron layer in a single housing for weekend campers at a far lower cost.",
+  "The OKBA External RV Dual gives two stages at 0.5 micron for budget buyers, and the SpiroPure SP-RV100-2PK RV Water Filter suits hard-water travelers who want an easy swap. Remember that 0.2 micron addresses bacteria and cysts, not viruses, and that tighter media costs flow."
 ];
 
 export const relatedGuides: { href: string; title: string }[] = [
