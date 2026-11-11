@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-season-rectangular-sleeping-bags";
-export const guideTitle = "4 Best 4 Season Rectangular Sleeping Bags in 2026";
-export const metaTitle = "Best 4 Season Rectangular Sleeping Bags in 2026";
-export const metaDescription = "Best 4 season rectangular sleeping bags under $120 compared on size, stated temperature ranges and packability, with honest caveats on the label.";
+export const guideTitle = "4 Best 3-4 Season Rectangular Sleeping Bags in 2026";
+export const metaTitle = "Best 3-4 Season Rectangular Sleeping Bags";
+export const metaDescription = "Rectangular sleeping bags rated for 3-4 season use under $120, compared on size, stated temperature range, fill type and packed bulk.";
 export const mainKeyword = "best 4 season rectangular sleeping bags";
 export const introParagraphs = [
   "Four-season rectangular bags are almost all budget synthetics, and the 4 season label stretches further than the printed ratings do. Four distinct listings pass here, and their comfort figures sit between 32 and 60 degrees F.",

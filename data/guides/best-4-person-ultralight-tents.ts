@@ -1,7 +1,7 @@
 export const guideSlug = "best-4-person-ultralight-tents";
-export const guideTitle = "3 Best 4 Person Ultralight Tents in 2026";
-export const metaTitle = "Best 4 Person Ultralight Tents in 2026";
-export const metaDescription = "Best 4-person ultralight tents compared on weight clues, pole type, floor size and weather build, for groups who want a packable four-sleeper shelter.";
+export const guideTitle = "3 Best Lightweight 4 Person Backpacking Tents in 2026";
+export const metaTitle = "Best Lightweight 4 Person Backpacking Tents";
+export const metaDescription = "Lightweight four-person backpacking tents compared on packed weight, pole type, floor size and weather build for groups splitting the load.";
 export const mainKeyword = "best 4 person ultralight tents";
 export const introParagraphs = [
   "Four-person tents seldom stay light, and the listings here confirm it. One comes from an ultralight line, one quotes a weight for its smaller model and one is simply named Ultra.",

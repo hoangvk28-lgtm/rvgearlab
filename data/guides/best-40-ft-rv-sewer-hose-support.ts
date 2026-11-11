@@ -6,7 +6,7 @@ export const mainKeyword = "best 40 ft rv sewer hose support";
 export const introParagraphs = [
   "No single support in this group is rated for 40 feet, so this guide covers the closest real sizes and how owners cover a long route with more than one support. A 40 foot sewer run is a big span, often needed at full-hookup sites where the sewer inlet sits far from your outlet, and each support's rated length is a ceiling rather than a suggestion.",
   "The reason supports matter at all is gravity. A sewer hose has to slope continuously downhill, a commonly cited guide is about a quarter inch of drop per foot, or the waste stops flowing and pools in sags. Over 40 feet that is roughly ten inches of fall from outlet to inlet, and an unsupported hose will droop, trap waste and eventually clog or split at the low spots.",
-  "Two supports are compared: a telescoping Camco Sidewinder rated for 15 feet and a polypropylene Kohree accordion for 20 feet. Because a 40 foot route needs more than one, the guide focuses on how to combine them: two Kohree supports reach exactly 40 feet, while mixing the two brands reaches about 35. The tables below tie each plan to a named support."
+  "Two supports are compared: a telescoping Camco Sidewinder rated for 15 feet and a polypropylene Kohree accordion for 20 feet. Because a 40 foot route needs more than one, the guide focuses on how to combine them: two Kohree supports reach exactly 40 feet, while mixing the two brands reaches about 35. The sections below work through each combination so you can see exactly how many of which support your run needs."
 ];
 export const lastUpdated = "2026-10-02";
 export const readTime = "10 min";

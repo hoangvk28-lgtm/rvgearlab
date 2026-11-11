@@ -1,7 +1,7 @@
 export const guideSlug = "best-30-degree-backpacking-sleeping-bags";
 export const guideTitle = "2 Best 30 Degree Backpacking Sleeping Bags in 2026";
-export const metaTitle = "Best 30 Degree Backpacking Sleeping Bags in 2026";
-export const metaDescription = "Two 30F bags for backpacking: the Kelty Galactic Down 30 for packable warmth and the VENTURE 4TH XXL for a budget car-to-trail option.";
+export const metaTitle = "Best 30 Degree Backpacking Sleeping Bags";
+export const metaDescription = "Backpacking bags rated near 30F, compared on fill type, packed size, comfort versus limit ratings and what each one suits on the trail.";
 export const mainKeyword = "best 30 degree backpacking sleeping bags";
 export const introParagraphs = [
   "Two listings fit a 30 degree backpacking brief well enough to rank: a Kelty down bag that is purpose-built for the trail, and a VENTURE 4TH 3-season bag stated for 30 to 70F. They sit at opposite ends of price and pack size.",

@@ -6,7 +6,7 @@ export const mainKeyword = "best corner cut rv mattress";
 export const introParagraphs = [
   "Many travel trailers and fifth wheels have a bunk or a sleeping platform with one corner angled off, usually where the bed meets a wall, a wheel well or a door swing. A rectangular mattress will not sit flat there: it rides up on the angle, leaves a gap, or gets crushed against the wall. A corner cut mattress is made with a diagonal slice already taken off one corner so the bed sits flush.",
   "Buying one is less simple than ordering a queen. Sizes cluster around 73 by 50 and 74 by 51 inches, the cut can be 21 or 22 inches along the diagonal, and the cut can be on the left or the right. Foam thickness ranges from about 2 inches to 8 inches, which changes both comfort and headroom in a bunk. Get the cut side or the measurements wrong and the mattress will not fit.",
-  "The five picks here cover the range: a thick 8 inch bed for daily adult use, a thinner 4 inch for guests and kids, a memory foam option with a washable cover, a right-corner model, and a custom-size mattress for odd bunks. The guide is organized by your bunk's shape and who sleeps there, and the tables below tie each case to a named product."
+  "The five picks here cover the range: a thick 8 inch bed for daily adult use, a thinner 4 inch for guests and kids, a memory foam option with a washable cover, a right-corner model, and a custom-size mattress for odd bunks. The guide is organized by your bunk's shape and who sleeps there, and Start from your bunk's shape and who sleeps in it, and the sections below narrow that down to one mattress."
 ];
 export const lastUpdated = "2026-10-02";
 export const readTime = "10 min";

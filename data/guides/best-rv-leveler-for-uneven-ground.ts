@@ -306,7 +306,7 @@ export const relatedGuides: { href: string; title: string }[] = [
     "href": "/towing-leveling/best-manual-rv-leveling-system"
   },
   {
-    "title": "Best RV Leveler For Triple Axle Trailer",
-    "href": "/towing-leveling/best-rv-leveler-for-triple-axle-trailer"
+    "title": "5 Best Leveling Blocks For Triple Axle RV in 2026",
+    "href": "/towing-leveling/best-leveling-blocks-for-triple-axle-rv"
   }
 ];

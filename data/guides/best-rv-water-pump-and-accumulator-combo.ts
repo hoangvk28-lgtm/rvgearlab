@@ -375,8 +375,8 @@ export const relatedGuides: { href: string; title: string }[] = [
     "href": "/water-plumbing/best-2-gallon-rv-accumulator-tank"
   },
   {
-    "title": "Best Stainless Steel RV Accumulator Tank",
-    "href": "/water-plumbing/best-stainless-steel-rv-accumulator-tank"
+    "title": "6 Best RV Water Pump Accumulator Tank in 2026",
+    "href": "/water-plumbing/best-rv-water-pump-accumulator-tank"
   },
   {
     "title": "Best RV Water Pump Accumulator Kit",

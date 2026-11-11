@@ -1,7 +1,7 @@
 export const guideSlug = "best-3-person-3-season-tents";
-export const guideTitle = "3 Best 3 Person 3 Season Tents in 2026";
-export const metaTitle = "Best 3 Person 3 Season Tents in 2026";
-export const metaDescription = "Best 3-person 3-season tents compared on how each listing states its season rating, floor size, weight and fly design, for groups of two or three adults.";
+export const guideTitle = "3 Best 3 Person 3-Season Backpacking Tents in 2026";
+export const metaTitle = "Best 3 Person 3-Season Backpacking Tents";
+export const metaDescription = "Three-person tents for 3-season use, compared on stated season rating, floor size, packed weight and fly design for two or three adults.";
 export const mainKeyword = "best 3 person 3 season tents";
 export const introParagraphs = [
   "Only one listing here names 3-season use, and it says 3-4 season, which is the common wording for a mid-weight dome. The other two are 3-person tents that do not state a season, so the guide says so plainly.",

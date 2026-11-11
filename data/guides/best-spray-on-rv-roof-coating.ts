@@ -404,7 +404,7 @@ export const relatedGuides: { href: string; title: string }[] = [
     "href": "/rv-care/best-rv-slide-out-roof-coating"
   },
   {
-    "title": "Best Clear RV Roof Coating",
-    "href": "/rv-care/best-clear-rv-roof-coating"
+    "title": "6 Best Clear RV Roof Sealant in 2026",
+    "href": "/rv-care/best-clear-rv-roof-sealant"
   }
 ];

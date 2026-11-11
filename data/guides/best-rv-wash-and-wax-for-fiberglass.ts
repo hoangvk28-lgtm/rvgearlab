@@ -404,10 +404,6 @@ export const relatedGuides: { href: string; title: string }[] = [
     "href": "/rv-care/best-rv-wash-and-wax"
   },
   {
-    "title": "Best RV Wash And Wax For Aluminum Siding",
-    "href": "/rv-care/best-rv-wash-and-wax-for-aluminum-siding"
-  },
-  {
     "title": "Best RV Cleaner",
     "href": "/rv-care/best-rv-cleaner"
   },

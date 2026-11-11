@@ -1,7 +1,7 @@
 export const guideSlug = "best-8-person-pop-up-tents";
-export const guideTitle = "4 Best 8 Person Pop Up Tents in 2026";
-export const metaTitle = "Best 8 Person Pop Up Tents in 2026";
-export const metaDescription = "Best 8-person pop-up tents compared on setup method, floor size, height and weather build, for large groups that need a fast shelter.";
+export const guideTitle = "4 Best 6 to 8 Person Instant Tents in 2026";
+export const metaTitle = "Best 6 to 8 Person Instant Tents in 2026";
+export const metaDescription = "Instant and pop-up tents sleeping six to eight, compared on setup method, floor size, peak height and weather build for large groups.";
 export const mainKeyword = "best 8 person pop up tents";
 export const introParagraphs = [
   "Eight-person instant tents are a narrow field, and the four listings here include a family cabin, a budget cabin, a 4 or 8 person dual-size model and an SUV tent. Capacity wording varies, so the first read is how many sleepers each really holds.",

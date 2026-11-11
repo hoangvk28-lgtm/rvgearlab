@@ -1,7 +1,7 @@
 export const guideSlug = "best-car-tents-for-tesla-model-3";
-export const guideTitle = "2 Best Car Tents For Tesla Model 3 in 2026";
-export const metaTitle = "Best Car Tents For Tesla Model 3 in 2026";
-export const metaDescription = "Best car tents for Tesla Model 3 compared on the model named, tailgate connection, fabric coating and setup kit, for owners who want shade or shelter at camp.";
+export const guideTitle = "2 Best Tesla Camping Tents and Awnings in 2026";
+export const metaTitle = "Best Tesla Camping Tents (Model 3 and Y)";
+export const metaDescription = "Camping tents and awnings for the Tesla Model 3 and Model Y, compared on the model each listing names, tailgate fit, fabric coating and setup.";
 export const mainKeyword = "best car tents for tesla model 3";
 export const introParagraphs = [
   "Few listings name the Tesla Model 3, and the two that do are car awnings, not enclosed sleeping tents. Both attach at the tailgate and give shade and weather cover for a campsite, beach day or road-trip stop.",

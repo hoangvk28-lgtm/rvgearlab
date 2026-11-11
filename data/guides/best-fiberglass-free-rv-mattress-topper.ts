@@ -6,7 +6,7 @@ export const mainKeyword = "best fiberglass free rv mattress topper";
 export const introParagraphs = [
   "Some mattresses and covers use a thin layer of glass fiber as a cheap fire barrier under the fabric. As long as the cover stays zipped and intact it stays put, but a torn seam, a washed cover or a tipped mattress can release fine fibers that irritate skin, eyes and lungs and are miserable to clean out of a small camper. A fiberglass-free topper removes that worry from a bed you sleep on every night.",
   "The catch is that many product pages never mention fiberglass at all, and a certification such as CertiPUR-US covers the foam, not necessarily the fire barrier in the cover. A trustworthy pick says outright that it is free from fiberglass, names the foam certification, and explains how the cover stays on. In an RV you also need a size that matches a short, narrow bed and a topper that does not creep around on the road.",
-  "These two picks both state that they are made without fiberglass. They differ in size, thickness, cover design and price, so the guide is organized around those differences: which one fits a full RV bed, which suits a bunk, and how to decide if the extra money buys useful features. The tables below tie each scenario to a named topper."
+  "These two picks both state that they are made without fiberglass. They differ in size, thickness, cover design and price, so the guide is organized around those differences: which one fits a full RV bed, which suits a bunk, and how to decide if the extra money buys useful features. Settle the bed size question first, because that alone decides which of the two toppers you can use."
 ];
 export const lastUpdated = "2026-10-02";
 export const readTime = "10 min";
