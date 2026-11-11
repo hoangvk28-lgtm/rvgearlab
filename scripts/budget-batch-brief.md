@@ -38,7 +38,12 @@ export default {
     cons: ["2-14 words", ...],             // 2-3 items
   }],
   howWeEvaluated: [{ title, description }],  // 5 entries, 3-4 sentences each
-  buyingCriteria: [{ criterion, explanation }], // 6 entries, 4-5 sentences each
+  criteria: [{ criterion, explanation }],       // 6 entries, 4-5 sentences each.
+                                               // NOTE: the key is `criteria`, NOT
+                                               // `buyingCriteria`. gen-p2-batch renames it
+                                               // on the way out; a module exporting
+                                               // `buyingCriteria` fails validation.
+  keyword: "<mainKeyword>",                     // required by the validator
   howToChoose: [ ...6 sections... ],
   faq: [{ q, a }],                          // 6 entries, 3-5 sentences each
   bottomLine: ["para 1", "para 2"],         // array, 45-75 words each
