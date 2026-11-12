@@ -62,10 +62,16 @@ export async function GET(request: Request) {
 
     const indexNowStatus = res.status;
 
-    if (res.status >= 500) {
+    // IndexNow answers 200 for accepted and 202 for accepted-pending-verification. Everything else is
+    // a rejection, including 403 SiteVerificationNotCompleted and 422 for a bad key or URL set.
+    // This used to treat anything under 500 as success, so a 403 was reported as
+    // { ok: true, submitted: 3441 } while IndexNow accepted nothing: the key sat unverified from
+    // 2026-11-10 until a manual submission on 2026-11-12 surfaced it. Never widen this back.
+    if (indexNowStatus !== 200 && indexNowStatus !== 202) {
+      const detail = await res.text().catch(() => "");
       return NextResponse.json(
-        { ok: false, indexNowStatus, urls: urlList.length },
-        { status: 500 }
+        { ok: false, indexNowStatus, urls: urlList.length, detail: detail.slice(0, 500) },
+        { status: 502 }
       );
     }
 

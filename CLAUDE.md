@@ -876,6 +876,16 @@ Found during the 2026-11-10 audit. These are real bugs, not stylistic nits:
    `best-rooftop-rv-air-conditioner` rendered a `howWeEvaluated` heading reading "Hardcastle's fit
    check" to readers, now "RV Gear Lab fit check" (also in its `scripts/p2-content/` source), and both
    writer briefs in `scripts/` were titled for the old site.
+10b. **IndexNow reported success while being rejected.** The cron route returned `{ ok: true }` for
+   any status under 500, so a **403 `SiteVerificationNotCompleted`** came back as
+   `{ ok: true, submitted: 3441 }`. The key was created 2026-11-10 and the daily cron ran from then
+   on, all of it rejected, with nothing in the response to say so. A manual `--all` submission on
+   2026-11-12 hit the 403 in the open; that first request is what triggered Bing's verification, and
+   a retry minutes later was accepted (Bing Webmaster Tools then showed 3.4K URLs received). The
+   route now treats anything other than 200 or 202 as a failure and returns 502 with the response
+   body. **Do not widen that check back.** `scripts/indexnow.mjs` also writes the exact URL list of
+   every accepted submission to `.work/indexnow/<timestamp>.txt` (gitignored), because the console
+   truncates long lists and a submission you cannot reconstruct cannot be audited.
 10. **The IndexNow cron is switched off, deliberately.** Removed from `vercel.json` on 2026-11-12
    because the user wanted no automatic submission. For the record, the key was **not** borrowed from
    another project when it was turned off: `93cc4d00bcba4400ad7a916061dcef95` appears only in this
