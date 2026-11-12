@@ -839,6 +839,22 @@ Found during the 2026-11-10 audit. These are real bugs, not stylistic nits:
    Dead code; verify nothing imports them before deleting.
 6. **`data/products.ts` and `data/categories.ts`** are predecessor seed data. The IndexNow route still
    iterates them. Check their contents are RV/camping before relying on them.
+8. ~~**137 guides carried the predecessor's author, and one printed its brand on the page.**~~
+   **Fixed 2026-11-12.** `data/guides.ts` had `author: "Hardcastle's RV Editors"` on 137 entries. That
+   name is absent from `data/authors.ts`, so `authorToSlug()` fell through to its slugify fallback and
+   every one of those bylines linked to `/author/hardcastles-rv-editors`, a 404 — the exact thing §5
+   forbids ("never invent an author URL that has no page"). All 137 now read `"RV Gear Lab Editors"`
+   and resolve to `/author/rvgearlab-editors`. `gen-p2-batch.mjs` wrote the old value into every new
+   guide, so it was still spreading; that default is fixed too. Separately,
+   `best-rooftop-rv-air-conditioner` rendered a `howWeEvaluated` heading reading "Hardcastle's fit
+   check" to readers, now "RV Gear Lab fit check" (also in its `scripts/p2-content/` source), and both
+   writer briefs in `scripts/` were titled for the old site.
+9. ~~**`scripts/stage-a.mjs` crashed on launch.**~~ **Fixed 2026-11-12.** It did an unguarded
+   `readFileSync` on `Guide Best Plan/HardcastlesRV-P2-P3-Content-Gap.md`, which does not exist here,
+   so every batch had to be started with `GAP=/dev/null`. The gap notes are optional and `gapEntry()`
+   already degrades to `""`, so the read is now `existsSync`-guarded and the default path is
+   `data/content-gap.md`.
+
 7. **`lib/guide-headings.ts` was already patched once** for a stale "to Your Garden or Yard" heading
    from another site (now "Your RV" / "Your Camp Setup"). When cloning a template, grep
    `components/` and `lib/` for other niches' vocabulary (garden, desk, office, chair, monitor)

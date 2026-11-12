@@ -187,7 +187,7 @@ export const products: GuideProduct[] = [
 
 export const howWeEvaluated = [
   {
-    "title": "Hardcastle's fit check",
+    "title": "RV Gear Lab fit check",
     "description": "Roof opening, ducted or non-ducted design and ceiling box compatibility were compared first, since a mismatch costs more than any spec gains."
   },
   {

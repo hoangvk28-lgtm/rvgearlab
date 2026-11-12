@@ -1,4 +1,4 @@
-# Writer brief: Hardcastle's RV "best" guide prose JSON
+# Writer brief: RV Gear Lab "best" guide prose JSON
 Write ONE JSON file per slug at <prose-dir>/<slug>.json. Read only: the facts file <facts-dir>/<slug>.json and the cluster research file. No WebSearch, no other repo files.
 Use ALL 6 picks from facts (any order; rank 1 = your top pick). Never invent specs, ratings, review counts or test results. Never write "we tested/tried/measured", "in our lab". No em/en dashes anywhere (use commas, periods, parentheses). Do not mention Amazon ratings, review counts, or popularity. Price is shown by the site; don't state exact prices in prose except budget ranges.
 Each sibling article in the cluster has a different angle (given below); write from that angle, don't produce generic regulator copy.

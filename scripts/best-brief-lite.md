@@ -1,4 +1,4 @@
-# Writer brief (LITE): Hardcastle's RV "best" guide prose JSON, about half the length of best-brief.md
+# Writer brief (LITE): RV Gear Lab "best" guide prose JSON, about half the length of best-brief.md
 Same rules as scripts/best-brief.md (no invented specs, no "we tested", no em/en dashes, no ratings/review counts/popularity, never expose the drafting process, "d" argues only FOR the pick, limitations go in cons). Only the length changes. Target: about 700-800 words of prose per guide.
 
 Write ONE JSON file per slug at <prose-dir>/<slug>.json. Read only the facts file for that slug. One Write call per file.

@@ -8,7 +8,9 @@ import { resolve } from "path";
 
 const [slugsFile, outDir] = process.argv.slice(2);
 mkdirSync(outDir, { recursive: true });
-const GAP = process.env.GAP || "Guide Best Plan/HardcastlesRV-P2-P3-Content-Gap.md";
+// Optional per-slug content-gap notes. The path below is a leftover from the cloned project and does
+// not exist in this repo, so it is only read when something actually puts a file there (or GAP is set).
+const GAP = process.env.GAP || "data/content-gap.md";
 const TMP = process.env.RV_TMP || (process.env.TEMP || "/tmp") + "/claude/rv";
 for (const l of readFileSync(".env.local", "utf8").split("\n")) { const i = l.indexOf("="); if (i > 0 && !process.env[l.slice(0, i)]) process.env[l.slice(0, i)] = l.slice(i + 1).trim(); }
 const M = "www.amazon.com", TAG = process.env.AMAZON_PAAPI_PARTNER_TAG;
@@ -113,8 +115,11 @@ for (const f of readdirSync("scripts/p2-content")) for (const m of readFileSync(
 // Prior descriptions of ASINs already reviewed elsewhere, so writers can adapt them instead of starting from scratch.
 const prior = {};
 for (const f of readdirSync("data/guides")) { if (!f.endsWith(".ts")) continue; for (const m of readFileSync("data/guides/" + f, "utf8").matchAll(/"amazonUrl": "https:\/\/www\.amazon\.com\/dp\/([A-Z0-9]{10})[^"]*",\s*"description": "((?:[^"\\]|\\.)*)"/g)) prior[m[1]] ??= { guide: f.replace(/\.ts$/, ""), text: JSON.parse('"' + m[2] + '"').slice(0, 900) }; }
-const gap = readFileSync(GAP, "utf8");
-const p2 = gap.slice(gap.indexOf("# P2 articles"));
+// A missing gap file is not a reason to refuse to source a batch: gapEntry() already degrades to ""
+// for any slug it cannot find, so every slug simply sources without a gap note.
+const gap = existsSync(GAP) ? readFileSync(GAP, "utf8") : "";
+const gi = gap.indexOf("# P2 articles");
+const p2 = gi < 0 ? "" : gap.slice(gi);
 function gapEntry(slug) {
   const i = p2.indexOf("/" + slug + "/");
   if (i < 0) return "";
