@@ -158,6 +158,18 @@ for (const line of lines) {
     if (under.length >= 4) numOk = under;
     else console.error(`  ! ${slug}: only ${under.length} picks under ${ceil}, keeping full pool`);
   }
+  // CANDS=1: dump every candidate that survives the must/ban/req/number filters, with no
+  // cross-slug exclusivity and no 6-pick selection, so the orchestrator can assign picks
+  // globally. Needed once a cluster's unused-ASIN pool is thin: per-slug exclusivity then
+  // starves later siblings of a pool they could have shared within the >2-ASIN overlap limit.
+  if (process.env.CANDS) {
+    writeFileSync(resolve(outDir, slug + ".json"), JSON.stringify({
+      slug, cluster, keyword: bestKw, numericClaim: toks.map((t) => `${t.n} ${t.u}`), ceiling: ceil ?? null,
+      candidates: numOk.map((p) => ({ asin: p.asin, brand: p.brand, price: p.price, used: used.has(p.asin), img: p.img, title: p.title.slice(0, 170), features: p.features.slice(0, 5).map((f) => f.replace(/\s+/g, " ").slice(0, 200)), ...(prior[p.asin] ? { prior: prior[p.asin] } : {}) })),
+    }, null, 1));
+    console.log(`cands ${slug}  n=${numOk.length} unused=${numOk.filter((i) => !used.has(i.asin)).length}`);
+    continue;
+  }
   let pool = numOk.filter((i) => !taken.has(i.asin) && (process.env.ALLOW_USED || !used.has(i.asin)));
   if (process.env.REUSE && !process.env.ALLOW_USED) pool = [...numOk.filter((i) => used.has(i.asin) && prior[i.asin] && !taken.has(i.asin)).slice(0, 2), ...pool];
   const reuse = pool.length < 6 ? numOk.filter((i) => taken.has(i.asin) && !used.has(i.asin)).slice(0, Math.min(2, 6 - pool.length)) : [];

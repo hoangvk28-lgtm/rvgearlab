@@ -44,7 +44,7 @@ const registry = [];
 for (const m of mods) {
   const s = m.slug;
   if (existing.has(s)) err(s, "slug already exists in data/guides (would overwrite)");
-  if (m.metaTitle.length > 48) err(s, `metaTitle ${m.metaTitle.length} > 48`);
+  if (m.metaTitle.length > 46) err(s, `metaTitle ${m.metaTitle.length} > 46 (CLAUDE.md 4: metaTitle.length + 14 <= 60)`);
   if (m.metaDescription.length < 120 || m.metaDescription.length > 160) err(s, `metaDescription ${m.metaDescription.length} not 120-160`);
   walk(m, (t) => {
     if (DASH.test(t)) err(s, `em/en dash in: ${t.slice(0, 60)}`);
@@ -166,7 +166,7 @@ export const relatedGuides: { href: string; title: string }[] = ${JSON.stringify
     subKeywords: [${JSON.stringify(m.keyword)}],
     heroImage: ${JSON.stringify(heroImage)},
     lastUpdated: "2026-10-02",
-    author: "Hardcastle's RV Editors",
+    author: "RV Gear Lab Editors",
     readTime: ${JSON.stringify(m.readTime ?? "11 min")},
     recommendedProductIds: [],
     sections: [],
