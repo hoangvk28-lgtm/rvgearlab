@@ -590,7 +590,9 @@ Do not emit `AggregateRating` schema for Fit Scores — they are editorial, not 
 - Supabase + static fallback in the sitemap.
 - `revalidate = 604800` on article routes.
 - `ItemList` schema uses only `name` + `url`.
-- Daily IndexNow cron at `/api/cron/ping-indexnow` (`vercel.json`, 03:00 UTC).
+- IndexNow route at `/api/cron/ping-indexnow`, submitting exactly what `app/sitemap.ts` advertises.
+  **The daily schedule was removed from `vercel.json` on 2026-11-12 at the user's instruction**, so
+  nothing submits automatically any more; see 13 and 20.10.
 - `prefetch={false}` on every internal `<Link>`.
 
 ---
@@ -601,7 +603,12 @@ Do not emit `AggregateRating` schema for Fit Scores — they are editorial, not 
 - **`revalidate`** is 604800; do not lower it without understanding CDN/ISR cost, and do not raise it.
 - **`typescript.ignoreBuildErrors: true`** means a green Vercel deploy proves nothing. Always run
   `npx tsc --noEmit` yourself.
-- **IndexNow** submits whatever `app/sitemap.ts` returns, capped at the 10,000-URL per-request limit. The sitemap is currently ~3,300 URLs; if it passes 10,000 the cron returns an error instead of submitting, and the request must be batched.
+- **IndexNow is manual now.** `vercel.json` no longer carries a `crons` block, so
+  `/api/cron/ping-indexnow` only runs when it is called with the `CRON_SECRET` bearer token. Submit a
+  batch with `node scripts/indexnow.mjs <slugs>` or `--auto` (use `--dry-run` first); it resolves each
+  slug's silo so the URLs match the sitemap. The route still submits the whole sitemap, capped at the
+  10,000-URL per-request limit; the live sitemap is ~3,440 URLs, and past 10,000 it returns an error
+  instead of submitting, so the request would have to be batched.
 - **`m.media-amazon.com`** is in `remotePatterns` but Amazon ToS restricts hotlinking outside PA API.
 - **`llms.txt` / `llms-full.txt`** in `public/` — keep updated when site structure or scope changes.
 - **Static vs Supabase sync** — if a guide exists in Supabase with a slug differing from
@@ -869,6 +876,20 @@ Found during the 2026-11-10 audit. These are real bugs, not stylistic nits:
    `best-rooftop-rv-air-conditioner` rendered a `howWeEvaluated` heading reading "Hardcastle's fit
    check" to readers, now "RV Gear Lab fit check" (also in its `scripts/p2-content/` source), and both
    writer briefs in `scripts/` were titled for the old site.
+10. **The IndexNow cron is switched off, deliberately.** Removed from `vercel.json` on 2026-11-12
+   because the user wanted no automatic submission. For the record, the key was **not** borrowed from
+   another project when it was turned off: `93cc4d00bcba4400ad7a916061dcef95` appears only in this
+   repo, `public/<key>.txt` serves that exact value, production returns it with a 200, and
+   `INDEXNOW_KEY` in `.env.local` matches. The borrowed-key problem was real but belonged to
+   `scripts/indexnow.mjs` before 2026-11-10 (it carried `www.deskfinds.com` and that site's key).
+   **Do not re-add the schedule without asking.** Keep `public/<key>.txt`: deleting it breaks
+   verification for manual submissions too.
+11. **`/api/cron/ping-supabase` has never been scheduled.** It exists to keep the free-tier Supabase
+   project from pausing, but `vercel.json` only ever listed `ping-indexnow`, going back to the initial
+   commit. So that protection has never actually run. Supabase is optional here, since
+   `isSupabaseConfigured()` gates every call and the app falls back to static data, which is probably
+   why nobody noticed. Decide whether the route should be scheduled or deleted.
+
 9. ~~**`scripts/stage-a.mjs` crashed on launch.**~~ **Fixed 2026-11-12.** It did an unguarded
    `readFileSync` on `Guide Best Plan/HardcastlesRV-P2-P3-Content-Gap.md`, which does not exist here,
    so every batch had to be started with `GAP=/dev/null`. The gap notes are optional and `gapEntry()`
