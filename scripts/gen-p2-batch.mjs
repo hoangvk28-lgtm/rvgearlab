@@ -6,6 +6,21 @@ import { resolve } from "path";
 import { pathToFileURL } from "url";
 
 import { statSync } from "fs";
+
+// Byline and category are decided by the silo's group, never typed per batch. CLAUDE.md 5: RV silos
+// are bylined Bowen Higgins, camping silos Danny Walker. A constant here is how 178 guides ended up
+// with an off-rule byline and 23 camping guides with categorySlug "rv"; both are invisible to tsc and
+// to the validator, so the only defence is deriving them.
+const RV_SILOS = ["power-electrical", "water-plumbing", "towing-leveling", "rv-care", "interior-comfort", "camping-travel"];
+const CAMPING_SILOS = ["tents-shelter", "sleep-gear", "camp-kitchen", "camp-power", "camp-furniture", "campsite-gear", "packs-hiking", "clothing-footwear"];
+function groupOf(silo) {
+  if (RV_SILOS.includes(silo)) return "rv";
+  if (CAMPING_SILOS.includes(silo)) return "camping";
+  throw new Error(`unknown silo ${JSON.stringify(silo)}: add it to RV_SILOS or CAMPING_SILOS in gen-p2-batch.mjs`);
+}
+function authorOf(silo) {
+  return groupOf(silo) === "camping" ? "Danny Walker" : "Bowen Higgins";
+}
 const pool = {};
 if (statSync(process.argv[2]).isDirectory()) {
   for (const f of readdirSync(process.argv[2]).filter((x) => x.endsWith(".json"))) {
@@ -159,14 +174,14 @@ export const relatedGuides: { href: string; title: string }[] = ${JSON.stringify
     registry.push(`  {
     title: ${JSON.stringify(m.title)},
     slug: ${JSON.stringify(s)},
-    categorySlug: "rv",
-    subcategorySlug: ${JSON.stringify(m.silo ?? "power-electrical")},
+    categorySlug: ${JSON.stringify(groupOf(m.silo))},
+    subcategorySlug: ${JSON.stringify(m.silo)},
     description: ${JSON.stringify(m.metaDescription)},
     mainKeyword: ${JSON.stringify(m.keyword)},
     subKeywords: [${JSON.stringify(m.keyword)}],
     heroImage: ${JSON.stringify(heroImage)},
     lastUpdated: "2026-10-02",
-    author: "RV Gear Lab Editors",
+    author: ${JSON.stringify(authorOf(m.silo))},
     readTime: ${JSON.stringify(m.readTime ?? "11 min")},
     recommendedProductIds: [],
     sections: [],

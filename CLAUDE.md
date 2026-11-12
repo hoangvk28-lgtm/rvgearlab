@@ -191,6 +191,22 @@ buildMetadata({
 - `Organization.sameAs` pointing at profiles that are not actively maintained.
 
 ### Author Schema
+
+**Byline is decided by the silo group, not per batch. This is settled; do not re-decide it.**
+
+| Silo group | Byline | Slug |
+|---|---|---|
+| `rv` (power-electrical, water-plumbing, towing-leveling, rv-care, interior-comfort, camping-travel) | **Bowen Higgins** ("RV Editor at RV Gear Lab") | `/author/bowen-higgins` |
+| `camping` (tents-shelter, sleep-gear, camp-kitchen, camp-power, camp-furniture, campsite-gear, packs-hiking, clothing-footwear) | **Danny Walker** | `/author/danny-walker` |
+
+`"RV Gear Lab Editors"` is a valid author in `data/authors.ts` and is the right byline for a site-level
+page, but it is **not** the byline for a guide. Never assign it to a guide just because it is a valid
+name, and never assign a byline by hand: `gen-p2-batch.mjs` derives both `author` and `categorySlug`
+from `m.silo` via `authorOf()` / `groupOf()`, which throw on an unknown or missing silo. Keep it that
+way. A constant there is how 178 guides shipped off-rule and 23 camping guides shipped with
+`categorySlug: "rv"`; `tsc`, lint and the batch validator are all blind to it, so deriving it is the
+only real defence. `categorySlug` follows the same group: `rv` or `camping`, matching the silo.
+
 From `getAuthorByName()` in `data/authors.ts`. `isPerson: true` → `"@type": "Person"` with
 `url: ${SITE_URL}/author/${slug}`; otherwise `"@type": "Organization"`. Current authors: Bowen Higgins
 (person), Danny Walker (person), RV Gear Lab Editors (organization). Never invent an author URL that
@@ -844,8 +860,12 @@ Found during the 2026-11-10 audit. These are real bugs, not stylistic nits:
    name is absent from `data/authors.ts`, so `authorToSlug()` fell through to its slugify fallback and
    every one of those bylines linked to `/author/hardcastles-rv-editors`, a 404 — the exact thing §5
    forbids ("never invent an author URL that has no page"). All 137 now read `"RV Gear Lab Editors"`
-   and resolve to `/author/rvgearlab-editors`. `gen-p2-batch.mjs` wrote the old value into every new
-   guide, so it was still spreading; that default is fixed too. Separately,
+   and resolve to a real author page. **Corrected the same day:** the first pass set all 137 to
+   `"RV Gear Lab Editors"`, which resolves but is the wrong byline under the standing rule in 5
+   (RV silos are Bowen Higgins, camping silos Danny Walker). All 178 off-rule rows, the 137 plus the
+   41 from b300, are now bylined by silo group, and the 23 camping-silo guides that also carried
+   `categorySlug: "rv"` from the same hardcoded template are fixed. `gen-p2-batch.mjs` now derives
+   author and categorySlug from the silo instead of hardcoding them. Separately,
    `best-rooftop-rv-air-conditioner` rendered a `howWeEvaluated` heading reading "Hardcastle's fit
    check" to readers, now "RV Gear Lab fit check" (also in its `scripts/p2-content/` source), and both
    writer briefs in `scripts/` were titled for the old site.
