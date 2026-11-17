@@ -100,9 +100,11 @@ export function InformationalGuidePage({ guide }: { guide: InformationalGuide })
   };
   const pillarLabel = isCamping ? "Camping Gear" : "RV Gear";
   const moreHowTo = getInformationalGuidesBySilo(guide.silo).filter((g) => g.slug !== guide.slug).slice(0, 4);
-  const shopGuides = guides
-    .filter((g) => g.subcategorySlug === guide.silo)
-    .slice(0, 4)
+  // Topic-matched money pages when the guide names them; otherwise the first guides in the silo.
+  const pinned = (guide.moneyPages ?? [])
+    .map((m) => guides.find((g) => g.slug === m.href.split("/").pop()))
+    .filter((g): g is (typeof guides)[number] => Boolean(g));
+  const shopGuides = (pinned.length > 0 ? pinned : guides.filter((g) => g.subcategorySlug === guide.silo).slice(0, 4))
     .map((g) => ({ title: g.title, href: canonicalGuideHref(g), description: g.description }));
 
   const breadcrumbSchema = {

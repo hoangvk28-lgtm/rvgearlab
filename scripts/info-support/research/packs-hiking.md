@@ -1,0 +1,1 @@
+Water: CDC backcountry water treatment (boil 1 min, 3 min above 6,500 ft; follow tablet label; chlorine dioxide 30 min bacteria/virus, up to 4 h crypto per CSU extension). NSF/ANSI P231 purifiers (bacteria, viruses, cysts) per EPA 1987 guide; NSF 53 health effects incl cysts; 42 aesthetic. REI: size pack by torso length, hip circumference; 30-50 L for 1-3 nights.

@@ -1,0 +1,3 @@
+UPF: rating = how much UV passes through unstretched dry fabric; UPF 50 passes about 1/50 (2%), blocks about 98%; AS/NZS 4399 (AU/NZ); US: AATCC 183, ASTM D6603, ASTM D6544 (aging). Source: arpansa.gov.au labelling sun protective clothing; cancer.org.au sun protective clothing.
+Winter boots: temperature ratings not standardized; assume brisk walking, dry feet, good socks; insulation grams = g/m2 thickness measure; add 10-15 F buffer. Source: sectionhiker.com 200g vs 400g insulated winter hiking boots; wiggys.com why boots no longer are temperature rated.
+Rain jackets: see jans.com waterproof and breathability ratings explained; advnture.com breathability ratings.

@@ -7,6 +7,7 @@ import { getGuideBySlug } from "@/lib/helpers";
 import { canonicalGuidePath, siloForGuide } from "@/lib/migrated-silos";
 import { getSiloBySlug, siloGroupOf } from "@/data/silos";
 import { guideDeks } from "@/data/guide-deks";
+import { infoSupportLinks } from "@/data/info-support-links.generated";
 import { guideSectionHeadings, type GuideSectionHeadings } from "@/lib/guide-headings";
 import { SafeImage } from "@/components/editorial/SafeImage";
 import { TrustBlock } from "@/components/editorial/TrustBlock";
@@ -495,6 +496,20 @@ export function RichGuidePage(props: RichGuidePageProps) {
             </section>
 
             <AuthorBox author={author} />
+
+            {(infoSupportLinks[slug]?.length ?? 0) > 0 && (
+              <section className="mt-14">
+                <SectionTitle kicker="Learn before you buy" title="Buying know-how" />
+                <div className="grid gap-3 sm:grid-cols-2">
+                  {infoSupportLinks[slug].map((g) => (
+                    <Link prefetch={false} key={g.href} href={g.href} className="group flex items-center justify-between gap-3 rounded-card border border-border bg-surface p-4 transition-colors hover:border-cta">
+                      <span className="text-sm font-semibold text-ink group-hover:text-cta-dark">{g.title}</span>
+                      <span className="text-cta" aria-hidden>→</span>
+                    </Link>
+                  ))}
+                </div>
+              </section>
+            )}
 
             {relatedGuides.length > 0 && (
               <section className="mt-14">

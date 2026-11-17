@@ -1,5 +1,6 @@
 
 import { campingInformationalGuides } from "@/data/informational-guides.camping.generated";
+import { supportInformationalGuides } from "@/data/informational-guides.support.generated";
 
 export type InformationalSilo =
   | "power-electrical" | "water-plumbing" | "towing-leveling" | "rv-care" | "interior-comfort" | "camping-travel"
@@ -30,6 +31,8 @@ export interface InformationalGuide {
   contentFile?: string;
   /** Original editorial diagram used for social sharing and in-article context. */
   heroImage?: string;
+  /** Topic-matched "Best X" roundups this explainer supports (rendered as the shop block). */
+  moneyPages?: { title: string; href: string }[];
 }
 
 
@@ -30008,7 +30011,7 @@ const rvInformationalGuides: InformationalGuide[] = [
   }
 ];
 
-export const informationalGuides: InformationalGuide[] = [...rvInformationalGuides, ...campingInformationalGuides];
+export const informationalGuides: InformationalGuide[] = [...rvInformationalGuides, ...campingInformationalGuides, ...supportInformationalGuides];
 
 export function getInformationalGuide(slug: string) {
   return informationalGuides.find((guide) => guide.slug === slug);

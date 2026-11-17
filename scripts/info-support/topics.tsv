@@ -1,0 +1,101 @@
+silo	slug	title	imageQuery	bestMatch
+camp-power	how-to-size-a-solar-panel-for-camping	How to Size a Solar Panel for Camping	portable solar panel camping	solar-panel
+camp-power	watt-hours-vs-mah-explained	Watt-Hours vs mAh: Comparing Power Bank and Power Station Capacity	power bank	power-bank,power-station
+camp-power	how-long-will-a-power-station-run-a-fridge	How Long Will a Portable Power Station Run a 12V Fridge?	portable power station	power-station,solar-generator
+camp-power	pure-sine-wave-vs-modified-sine-wave-inverter	Pure Sine Wave vs Modified Sine Wave Inverters	power inverter	inverter
+camp-power	lifepo4-vs-lithium-ion-power-stations	LiFePO4 vs Lithium-Ion (NMC) Power Stations	LiFePO4 battery	lifepo4,power-station
+camp-power	how-to-charge-a-power-station-from-a-car	How to Charge a Portable Power Station From Your Car	portable power station car	power-station
+camp-power	solar-generator-vs-gas-generator-for-camping	Solar Generator vs Gas Generator for Camping	portable generator camping	solar-generator,generator
+camp-power	how-many-watts-do-you-need-for-camping	How Many Watts Do You Need for Camping?	portable power station camping	power-station,generator
+camp-power	monocrystalline-vs-polycrystalline-solar-panels	Monocrystalline vs Polycrystalline Solar Panels	monocrystalline solar panel	solar-panel
+camp-power	portable-solar-panel-efficiency-explained	Portable Solar Panel Efficiency and Real-World Output Explained	portable folding solar panel	solar-panel
+camp-power	how-to-choose-a-camping-power-bank	How to Choose a Power Bank for Camping and Backpacking	power bank	power-bank
+camp-power	usb-c-power-delivery-explained-for-campers	USB-C Power Delivery Explained for Campers	USB-C charger	power-bank,power-station
+camp-power	inverter-generator-vs-conventional-generator	Inverter Generator vs Conventional Generator	inverter generator	generator
+camp-power	how-to-run-a-generator-safely-at-a-campsite	How to Run a Generator Safely at a Campsite	generator campsite	generator
+camp-power	deep-cycle-vs-starting-battery	Deep Cycle vs Starting Battery: What Campers Need	deep cycle battery	deep-cycle-batteries,deep-cycle-battery,lithium-battery,lithium-batteries
+camp-power	how-to-choose-an-outdoor-extension-cord	How to Choose an Outdoor Extension Cord (Gauge and Length)	extension cord outdoor	extension-cord
+camp-power	surge-protector-joules-explained	Surge Protector Joule Ratings Explained	surge protector	surge-protector
+camp-power	how-to-keep-cool-camping-without-ac	How to Stay Cool Camping Without Air Conditioning	camping fan tent	camping-fan,tent-fan
+tents-shelter	tent-waterproof-rating-explained	Tent Waterproof Ratings (Hydrostatic Head) Explained	tent rain	camping-tent,dome-tent
+tents-shelter	what-does-tent-person-capacity-really-mean	What Tent Person Capacity Really Means	family tent interior	camping-tent,cabin-tent
+tents-shelter	truck-bed-tent-sizing-guide	Truck Bed Tent Sizing Guide by Bed Length	truck bed tent	truck-tent
+tents-shelter	suv-tent-vs-rooftop-tent	SUV Tent vs Rooftop Tent	rooftop tent	suv-tent,rooftop
+tents-shelter	canvas-vs-polyester-tent	Canvas vs Polyester Tents	canvas bell tent	canvas-tent
+tents-shelter	instant-tent-vs-traditional-tent	Instant Pop-Up Tent vs Traditional Pole Tent	pop-up tent	instant-tent,pop-up
+tents-shelter	inflatable-air-tent-pros-and-cons	Inflatable Air Tents: How They Work and Who They Suit	inflatable tent	inflatable-tent
+tents-shelter	beach-tent-vs-beach-canopy	Beach Tent vs Beach Canopy vs Umbrella	beach shelter tent	beach-tent,beach-canopy
+tents-shelter	3-season-vs-4-season-tent	3-Season vs 4-Season Tents	winter camping tent snow	backpacking-tent,winter
+tents-shelter	tent-denier-and-fabric-explained	Tent Fabric and Denier Ratings Explained	tent fabric	camping-tent,backpacking-tent
+tents-shelter	how-to-choose-tent-stakes	How to Choose Tent Stakes for Different Ground	tent stake peg	tent-stake
+tents-shelter	how-tents-handle-wind	How Tents Handle Wind: Cabin, Dome and Tunnel Designs	tent wind	cabin-tent,dome-tent,tunnel
+tents-shelter	how-to-choose-a-backpacking-tent	How to Choose a Backpacking Tent	backpacking tent	backpacking-tent,ultralight
+tents-shelter	how-to-choose-a-screen-house	How to Choose a Screen House or Screened Canopy	screen house camping	screen-house,canopy
+tents-shelter	how-to-ventilate-a-tent-in-summer	How to Ventilate a Tent in Hot Weather	tent mesh	tent-fan,camping-tent
+tents-shelter	how-to-choose-a-camping-tarp	How to Choose and Rig a Camping Tarp	tarp shelter camping	tarp
+sleep-gear	sleeping-bag-temperature-ratings-explained	Sleeping Bag Temperature Ratings (ISO 23537) Explained	sleeping bag	sleeping-bag
+sleep-gear	down-vs-synthetic-sleeping-bag	Down vs Synthetic Sleeping Bags	down sleeping bag	sleeping-bag
+sleep-gear	what-is-down-fill-power	What Is Down Fill Power?	down feathers	sleeping-bag,down
+sleep-gear	mummy-vs-rectangular-sleeping-bag	Mummy vs Rectangular Sleeping Bags	mummy sleeping bag	sleeping-bag
+sleep-gear	how-to-wash-a-sleeping-bag	How to Wash and Dry a Sleeping Bag	sleeping bag washing	sleeping-bag
+sleep-gear	how-to-choose-a-sleeping-bag-for-kids	How to Choose a Sleeping Bag for Kids	children camping sleeping bag	kids-sleeping-bag,sleeping-bag
+sleep-gear	how-to-choose-a-winter-sleeping-bag	How to Choose a Winter Sleeping Bag	winter camping sleeping bag	sleeping-bag
+sleep-gear	sleeping-bag-liner-benefits	Do Sleeping Bag Liners Actually Add Warmth?	sleeping bag liner	sleeping-bag
+sleep-gear	how-to-choose-a-camping-hammock	How to Choose a Camping Hammock	camping hammock	hammock
+sleep-gear	how-to-choose-a-camping-pillow	How to Choose a Camping Pillow	camping pillow	pillow
+sleep-gear	camping-cot-weight-capacity-and-size	Camping Cot Sizes and Weight Capacity Explained	camping cot	cot
+sleep-gear	how-to-store-a-sleeping-bag	How to Store a Sleeping Bag Without Ruining the Loft	stuff sack	sleeping-bag
+clothing-footwear	how-hiking-boots-should-fit	How Hiking Boots Should Fit	hiking boots	hiking-boot,hiking-shoe
+clothing-footwear	hiking-boots-vs-hiking-shoes-vs-trail-runners	Hiking Boots vs Hiking Shoes vs Trail Runners	trail running shoes	hiking-boot,hiking-shoe,trail
+clothing-footwear	waterproof-vs-non-waterproof-hiking-shoes	Waterproof vs Non-Waterproof Hiking Footwear	hiking boots mud	hiking-boot,hiking-shoe
+clothing-footwear	winter-boot-temperature-ratings-explained	Winter Boot Temperature Ratings Explained	winter boots snow	winter-boot,snow-boot
+clothing-footwear	how-to-break-in-hiking-boots	How to Break In Hiking Boots	hiking boots trail	hiking-boot
+clothing-footwear	rain-jacket-waterproof-ratings-explained	Rain Jacket Waterproof and Breathability Ratings Explained	rain jacket hiking	rain-jacket
+clothing-footwear	merino-vs-synthetic-base-layers	Merino Wool vs Synthetic Base Layers	merino wool	base-layer
+clothing-footwear	how-to-layer-clothing-for-camping	How to Layer Clothing for Camping and Hiking	hiker layers mountain	base-layer,jacket,fleece
+clothing-footwear	down-jacket-fill-power-and-fill-weight	Down Jacket Fill Power vs Fill Weight	down jacket	down-jacket,puffer
+clothing-footwear	how-to-choose-water-shoes	How to Choose Water Shoes	water shoes river	water-shoe
+clothing-footwear	how-to-choose-hiking-pants	How to Choose Hiking Pants	hiking trousers	hiking-pant,convertible
+clothing-footwear	upf-sun-protective-clothing-explained	UPF Sun-Protective Clothing Explained	sun hat hiking	sun-shirt,sun-hat,upf
+clothing-footwear	how-to-wash-and-reproof-a-rain-jacket	How to Wash and Re-Waterproof a Rain Jacket	waterproof jacket	rain-jacket
+packs-hiking	water-filter-vs-water-purifier	Water Filter vs Water Purifier for Camping	water filter hiking	water-filter,water-purifier,purification-tablet
+packs-hiking	nsf-standards-for-portable-water-filters	What NSF/ANSI Certifications Mean on Portable Water Filters	water filter	water-filter
+packs-hiking	how-to-use-water-purification-tablets	How to Use Water Purification Tablets	water purification tablets	purification-tablet,tablet
+packs-hiking	how-to-use-a-filter-straw	How to Use a Filter Straw Safely	drinking from stream	filter-straw
+packs-hiking	how-to-clean-and-store-a-water-filter	How to Clean, Backflush and Store a Water Filter	water filter	water-filter
+packs-hiking	how-to-size-a-hiking-backpack	How to Size a Hiking Backpack to Your Torso	hiking backpack	backpack
+packs-hiking	backpack-liter-size-guide	Backpack Liter Size Guide for Day Hikes and Overnights	backpacking trip	backpack,daypack
+packs-hiking	how-to-pack-a-backpacking-pack	How to Pack a Backpacking Pack	backpacker	backpack
+packs-hiking	how-to-use-trekking-poles	How to Use and Adjust Trekking Poles	trekking poles	trekking-pole
+packs-hiking	hydration-pack-vs-water-bottles	Hydration Pack vs Water Bottles	hydration pack	hydration,water-bottle
+campsite-gear	lumens-explained-for-camping-lights	Lumens Explained: How Bright Should Camping Lights Be?	camping lantern	lantern,camping-light
+campsite-gear	ip-ratings-explained-for-outdoor-gear	IP Ratings Explained for Outdoor Gear	waterproof flashlight	lantern,headlamp,flashlight
+campsite-gear	how-to-choose-a-headlamp	How to Choose a Headlamp	headlamp	headlamp
+campsite-gear	rechargeable-vs-battery-camping-lanterns	Rechargeable vs Battery vs Solar Camping Lanterns	solar lantern	lantern
+campsite-gear	frs-vs-gmrs-radios	FRS vs GMRS Radios: Do You Need a License?	walkie talkie	walkie-talkie,radio
+campsite-gear	how-to-choose-a-camping-axe-or-hatchet	How to Choose a Camping Axe or Hatchet	hatchet	axe,hatchet
+campsite-gear	how-to-choose-an-insulated-water-bottle	How to Choose an Insulated Water Bottle	insulated water bottle	water-bottle
+campsite-gear	how-to-choose-a-camping-first-aid-kit	How to Choose a Camping First Aid Kit	first aid kit	first-aid
+campsite-gear	how-to-choose-a-camping-knife-or-multitool	How to Choose a Camping Knife or Multitool	multitool	knife,multitool,multi-tool
+camp-kitchen	how-to-use-a-canister-stove-in-cold-weather	How to Use a Canister Stove in Cold Weather	canister stove	canister-stove,backpacking-stove
+camp-kitchen	stove-btu-ratings-explained	Camp Stove BTU Ratings Explained	camping stove propane	camping-stove
+camp-kitchen	hard-cooler-vs-soft-cooler	Hard Cooler vs Soft Cooler	cooler camping	cooler
+camp-kitchen	alcohol-stove-vs-canister-stove	Alcohol Stove vs Canister Stove	alcohol stove	alcohol-stove,canister-stove
+camp-kitchen	how-to-choose-camping-cookware	How to Choose Camping Cookware	camping cookware	cookware,mess-kit,pot
+camp-kitchen	portable-grill-vs-camp-stove	Portable Grill vs Camp Stove	portable grill	grill,camping-stove
+camp-kitchen	how-to-use-a-propane-fire-pit-safely	How to Use a Propane Fire Pit Safely	propane fire pit	fire-pit
+camp-kitchen	how-to-store-water-at-a-campsite	How to Store Drinking Water at a Campsite	water jerrycan	water-container,jug
+camping-travel	rv-gps-vs-phone-navigation-app	RV GPS vs Phone Navigation Apps	gps navigation	rv-gps,gps
+camping-travel	how-cell-signal-boosters-work-in-an-rv	How Cell Signal Boosters Work in an RV	cell tower	signal-booster,booster
+camping-travel	how-a-campground-wifi-extender-works	How a Campground WiFi Extender Works	wifi antenna	wifi-booster,wifi-extender,wifi
+camping-travel	how-to-choose-an-rv-outdoor-rug	How to Choose an RV Outdoor Rug	outdoor rug patio	rug,mat
+camping-travel	how-to-plan-an-rv-route	How to Plan an RV Route	motorhome road	rv-gps,gps
+camp-furniture	camping-chair-weight-capacity-explained	Camping Chair Weight Capacity Explained	camping chair	chair
+camp-furniture	solar-vs-propane-camp-shower	Solar vs Propane Camp Showers	camp shower	shower
+camp-furniture	how-to-choose-a-camping-table	How to Choose a Camping Table	camping table	table
+camp-furniture	zero-gravity-chair-vs-camping-chair	Zero Gravity Chair vs Standard Camping Chair	lawn chair	gravity-chair,chair
+power-electrical	mppt-vs-pwm-charge-controller-sizing	MPPT vs PWM Charge Controllers: How to Size One	solar charge controller	charge-controller
+power-electrical	rv-converter-vs-inverter-vs-inverter-charger	RV Converter vs Inverter vs Inverter-Charger	inverter charger	rv-converter,rv-inverter,inverter-charger
+power-electrical	how-to-choose-an-rv-surge-protector	How to Choose an RV Surge Protector or EMS	rv power pedestal	surge-protector,ems
+clothing-footwear	how-to-dry-wet-hiking-boots	How to Dry Wet Hiking Boots Without Damaging Them	muddy hiking boots	hiking-boot,winter-boot,water-shoe
+camping-travel	how-to-choose-rv-internet-hardware	How to Choose RV Internet Hardware: Routers, Hotspots and Antennas	satellite dish rv	rv-router,router,hotspot,sim-router,wifi-router
