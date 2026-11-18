@@ -723,10 +723,21 @@ Build status: [tsc clean? lint clean? page rendered?]
 4. **Research once per cluster**, not per agent: 2-3 WebSearches, write findings to a short
    `research_<cluster>.md`, pass the path to writer agents. Writer agents must not run their own
    WebSearch.
-5. **Writer agents:** Sonnet for template-shaped guide writing (Opus only for tricky clusters),
-   4-6 guides per agent, grouped by cluster so one agent can keep its product sets distinct. Share one
-   brief file (`scripts/best-brief.md`) rather than long prompts. One validation run and one `tsc` at
-   the end, not per file.
+5. **Writer agents: HARD CAP of 2 concurrent Sonnet agents. User rule, 2026-11-18.** Never run more
+   than 2 writer agents at the same time, whatever the batch size; on 2026-11-18 eight were spawned at
+   once and the user had them stopped. Optimise for token usage, not wall-clock speed:
+   - **Reuse, don't respawn.** When an agent finishes a cluster, hand it the next cluster with
+     `SendMessage` (it already has the brief and rules in context) instead of starting a fresh agent
+     that has to re-read everything. Queue clusters per agent up front.
+   - Sonnet only (Opus only if the user asks). Group by cluster so one agent keeps sibling product
+     sets and angles distinct.
+   - One shared prompt file (e.g. `.work/<batch>/writer-prompt.md`) plus `scripts/best-brief.md`;
+     the per-agent message is only the slug list and angles.
+   - Agents read only the trimmed facts file and the cluster research file: no WebSearch, no repo
+     exploration, no re-reading files they wrote.
+   - Agents self-check with `node scripts/check-prose-depth.mjs` and a grep, then report in a few
+     lines. Do not ask for long summaries.
+   - One validation run and one `tsc` at the end, not per file.
 6. **Build:** `SLUGS=<cluster|slug list> node scripts/hybrid-build.mjs <facts> <prose>` (silo +
    related) → `node scripts/gen-p2-batch.mjs <pool> scripts/p2-content [--register]` (validation +
    write) → `node scripts/generate-guides-index.mjs` → `npx tsc --noEmit`.
@@ -743,6 +754,37 @@ is always safe to re-run across the whole `data/guides/` directory.
 `app/(site)/<silo>/<slug>/page.tsx` file gets eagerly rebuilt on every deploy forever; at scale this
 blew past Vercel Hobby's 45-minute build timeout. New guides render on first request via the dynamic
 `[slug]` route and are ISR-cached from then on, at zero build cost.
+
+### MANDATORY: New guides must ship at full depth, not thin
+Added 2026-11-18 after the toilet/tire batch came back from Sonnet writers at roughly 5-7k chars
+of editorial body: one-sentence "best for" paragraphs, 3-sentence criteria, 2-sentence FAQ
+answers, and one howToChoose row that misdescribed a product (OGO NOMAD called a "bag and bucket
+system"). That is the same thin tier §17 "Deepening" exists to fix, so shipping it new just
+creates the backlog again. Every new guide must meet these minimums **before** hybrid-build runs:
+
+| Field | Minimum |
+|---|---|
+| `intro` | 2-3 paragraphs, each 3-4 sentences, angle-specific |
+| product `d` | 3 paragraphs, **each 2-4 full sentences** (a 1-sentence "best for" line fails) |
+| `pros` / `cons` | 3-4 / 2-3, each 6-14 words |
+| `criteria` | 5-6 entries, **each 4-5 sentences** (what it is, concrete consequence, a real threshold or number from research, how to check it on the listing) |
+| `howWeEvaluated` | 4-5 entries, each 2-3 sentences |
+| `howToChoose` | every row's "why" cell is a full clause naming a real spec, not 3-6 words |
+| `faq` | 5-6 entries, **each answer 3-5 sentences** naming at least one pick |
+| editorial total | **≥ 11,000 chars** across intro + d + criteria + howWeEvaluated + howToChoose + faq (measure it) |
+
+Rules that go with it:
+1. **Measure, don't eyeball.** Run `node scripts/check-prose-depth.mjs <prose-dir>` (exits 1 on any
+   FAIL). After writers finish, run a length check over every prose JSON
+   (sum of the fields above, plus count of any `d` paragraph or FAQ answer under 2 sentences).
+   Any guide below the floor goes back to the writer before build.
+2. **Every product claim in howToChoose/FAQ must match that product's own features.** A row that
+   describes a pick by category guesswork ("basic bucket system") instead of its listing is a
+   factual error, not a style issue. Spot-check one row per guide against the facts file.
+3. **A slug whose facts give a pick fewer than 2 real feature bullets cannot carry a deep
+   paragraph**: drop that pick (or the slug if it falls under 4 picks) instead of padding.
+4. The writer prompt must quote these minimums; `scripts/best-brief.md` carries them under
+   "Depth floor". Do not rely on the brief's older "2-3 sentences" wording alone.
 
 ### Deepening an existing thin guide
 Thin guides are measured by the total length of the six editorial exports (`introParagraphs`,

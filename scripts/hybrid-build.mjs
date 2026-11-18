@@ -7,13 +7,17 @@ import { resolve } from "path";
 
 const [factsDir, proseDir, only] = process.argv.slice(2);
 const slugs = only ? only.split(",") : readdirSync(proseDir).filter((f) => f.endsWith(".json")).map((f) => f.slice(0, -5));
-const guides = new Set(readdirSync("data/guides").map((f) => f.replace(/\.ts$/, "")));
+// Live guides only: files still carrying the lastUpdated "2026-10-02" stub marker are treated as
+// missing by gen-p2-batch, so linking to them fails validation.
+const guides = new Set(readdirSync("data/guides").filter((f) => !readFileSync("data/guides/" + f, "utf8").includes('lastUpdated = "2026-10-02"')).map((f) => f.replace(/\.ts$/, "")));
 const content = new Set(readdirSync("scripts/p2-content").map((f) => f.replace(/\.mjs$/, "")));
-const titleCase = (s) => s.replace(/\b(rv|ac|dc|ems|ups|psi|tpms|mppt|pwm|cpap|bms|usb|lifepo4|wfco|tt)\b/gi, (m) => m.toUpperCase()).replace(/\b([a-z])/g, (m) => m.toUpperCase()).replace(/(\d+)Ah\b/i, "$1Ah").replace(/(\d+)wh\b/i, "$1Wh");
+// Small words stay lowercase mid-title ("Composting Toilet for RV", not "For RV").
+const titleCase = (s) => _titleCase(s).replace(/(?<=\S) (For|With|And|Or|Of|In|On|To|A|An|The|Vs) (?=\S)/g, (m) => m.toLowerCase());
+const _titleCase = (s) => s.replace(/\b(rv|ac|dc|ems|ups|psi|tpms|mppt|pwm|cpap|bms|usb|lifepo4|wfco|tt)\b/gi, (m) => m.toUpperCase()).replace(/\b([a-z])/g, (m) => m.toUpperCase()).replace(/(\d+)Ah\b/i, "$1Ah").replace(/(\d+)wh\b/i, "$1Wh");
 const wc = (s) => s.trim().split(/\s+/).length;
 // slug -> silo for guides already in the registry (subcategorySlug is the silo for RV guides)
 const REG_SILO = {};
-for (const m of readFileSync("data/guides.ts", "utf8").matchAll(/slug: "([^"]+)",\s*categorySlug: "rv",\s*subcategorySlug: "([^"]+)"/g)) REG_SILO[m[1]] = m[2];
+for (const m of readFileSync("data/guides.ts", "utf8").matchAll(/slug: "([^"]+)",\s*categorySlug: "(?:rv|camping)",\s*subcategorySlug: "([^"]+)"/g)) REG_SILO[m[1]] = m[2];
 
 function specsFor(p) {
   const out = [];
@@ -30,8 +34,8 @@ function specsFor(p) {
 
 function metaTitleFor(kw) {
   const base = titleCase(kw.replace(/^best /, "Best "));
-  for (const t of [`${base} in 2026`, `${base} (2026)`, base]) if (t.length <= 48) return t;
-  return base.slice(0, 48).replace(/\s+\S*$/, "");
+  for (const t of [`${base} in 2026`, `${base} (2026)`, base]) if (t.length <= 46) return t;
+  return base.slice(0, 46).replace(/\s+\S*$/, "");
 }
 
 for (const slug of slugs) {
@@ -46,21 +50,22 @@ for (const slug of slugs) {
   });
   const n = products.length;
   const kwTitle = titleCase(facts.keyword.replace(/^best /, ""));
-  // Budget table from real prices
+  // Budget table ordered by real prices, but labelled as relative bands: CLAUDE.md 7 forbids any
+  // dollar figure in page copy (it goes stale and cannot be refreshed from the API).
   const sorted = [...products].sort((a, b) => a.price - b.price);
   const tiers = [];
   const chunk = Math.ceil(sorted.length / 3);
-  for (let i = 0; i < sorted.length; i += chunk) {
+  const BANDS = ["Entry of this shortlist", "Mid of this shortlist", "Top of this shortlist"];
+  for (let i = 0, b = 0; i < sorted.length; i += chunk, b++) {
     const g = sorted.slice(i, i + chunk);
-    const lo = Math.floor(g[0].price / 10) * 10, hi = Math.ceil(g[g.length - 1].price / 10) * 10;
-    tiers.push([lo === hi ? `Around $${lo}` : `$${lo} to $${hi}`, g.map((x) => x.short).join(" or ")]);
+    tiers.push([BANDS[b] || BANDS[2], g.map((x) => x.short).join(" or ")]);
   }
   // Related: same-cluster siblings that exist
   const cluster = facts.cluster;
   const sib = readFileSync(process.env.SLUGS || process.env.TEMP + "/claude/rv/p3all.txt", "utf8").split("\n").map((l) => l.trim().split("|")).filter(([c, s]) => c === cluster && s && s !== slug && (guides.has(s) || content.has(s))).map(([, s]) => s);
-  const extra = [...guides].filter((g) => g !== slug && g.startsWith("best-") && [cluster.toLowerCase().replace(/ — .*$/, "").split(" ").filter((w) => w.length > 2 && w !== "rv").pop()].filter(Boolean).some((w) => g.includes(w.replace(/s$/, ""))));
+  const extra = [...guides].filter((g) => g !== slug && g.startsWith("best-") && [cluster.toLowerCase().replace(/ — .*$/, "").split(" ").filter((w) => w.length > 2 && !["rv", "gear", "camp", "camping"].includes(w)).pop()].filter(Boolean).some((w) => g.includes(w.replace(/s$/, ""))));
   const relSlugs = [...new Set([...sib, ...extra])].slice(0, 4);
-  const SILO = { "RV Water Pressure Regulators": "water-plumbing", "RV Water Filters": "water-plumbing", "Weight Distribution Hitches": "towing-leveling", "Sway Control Hitches": "towing-leveling", "Trailer Brake Controllers": "towing-leveling", "RV TPMS": "towing-leveling", "Weight Distribution Hitches": "towing-leveling", "Heated RV Water Hoses": "water-plumbing", "RV Fresh Water Hoses": "water-plumbing", "RV Sewer Hose Fittings": "water-plumbing", "RV Sewer Hose Supports": "water-plumbing", "RV Sewer Hoses": "water-plumbing", "RV Water Heaters": "water-plumbing", "RV Water Pump Accumulators": "water-plumbing", "RV Water Pumps": "water-plumbing", "RV Water Filters — Incremental": "water-plumbing", "RV Water Pressure Regulators — Incremental": "water-plumbing", "RV Air Conditioners": "interior-comfort", "RV Space Heaters": "interior-comfort", "RV Cleaners": "rv-care", "RV Wash & Wax": "rv-care", "RV Roof Coatings": "rv-care", "RV Roof Sealants": "rv-care", "RV Roof Repair Tapes": "rv-care", "RV GPS & Navigation": "camping-travel", "RV WiFi Boosters": "camping-travel", "RV Mattresses": "interior-comfort", "RV Mattress Toppers": "interior-comfort", "RV Vent Fans": "interior-comfort", "RV Vent Covers": "interior-comfort", "RV Catalytic Heaters": "interior-comfort", "Camping Chairs": "camping-travel", "Zero Gravity Camping Chairs": "camping-travel", "RV Outdoor Rugs": "camping-travel", "RV Routers": "camping-travel", "RV Cell Signal Boosters": "camping-travel", "Electronic RV Levelers": "towing-leveling", "RV Leveling Blocks": "towing-leveling", "RV Wheel Chocks": "towing-leveling", "RV Covers": "rv-care", "Travel Trailer Covers": "rv-care" };
+  const SILO = { "RV Storage": "interior-comfort", "RV Steps": "towing-leveling", "RV Awning Gear": "camping-travel", "RV Security": "towing-leveling", "Camp Griddles": "camp-kitchen", "Camp Sleep": "sleep-gear", "RV Racks": "towing-leveling", "Towing Mirrors": "towing-leveling", "Camping Dogs": "campsite-gear", "RV Toilets": "water-plumbing", "RV Tire Care": "towing-leveling", "RV Water Pressure Regulators": "water-plumbing", "RV Water Filters": "water-plumbing", "Weight Distribution Hitches": "towing-leveling", "Sway Control Hitches": "towing-leveling", "Trailer Brake Controllers": "towing-leveling", "RV TPMS": "towing-leveling", "Weight Distribution Hitches": "towing-leveling", "Heated RV Water Hoses": "water-plumbing", "RV Fresh Water Hoses": "water-plumbing", "RV Sewer Hose Fittings": "water-plumbing", "RV Sewer Hose Supports": "water-plumbing", "RV Sewer Hoses": "water-plumbing", "RV Water Heaters": "water-plumbing", "RV Water Pump Accumulators": "water-plumbing", "RV Water Pumps": "water-plumbing", "RV Water Filters — Incremental": "water-plumbing", "RV Water Pressure Regulators — Incremental": "water-plumbing", "RV Air Conditioners": "interior-comfort", "RV Space Heaters": "interior-comfort", "RV Cleaners": "rv-care", "RV Wash & Wax": "rv-care", "RV Roof Coatings": "rv-care", "RV Roof Sealants": "rv-care", "RV Roof Repair Tapes": "rv-care", "RV GPS & Navigation": "camping-travel", "RV WiFi Boosters": "camping-travel", "RV Mattresses": "interior-comfort", "RV Mattress Toppers": "interior-comfort", "RV Vent Fans": "interior-comfort", "RV Vent Covers": "interior-comfort", "RV Catalytic Heaters": "interior-comfort", "Camping Chairs": "camping-travel", "Zero Gravity Camping Chairs": "camping-travel", "RV Outdoor Rugs": "camping-travel", "RV Routers": "camping-travel", "RV Cell Signal Boosters": "camping-travel", "Electronic RV Levelers": "towing-leveling", "RV Leveling Blocks": "towing-leveling", "RV Wheel Chocks": "towing-leveling", "RV Covers": "rv-care", "Travel Trailer Covers": "rv-care" };
   const silo = SILO[cluster] || "power-electrical";
   if (relSlugs.length < 4) {
     // Fallback for first-in-cluster hubs: link other guides in the same silo from the slug list.
@@ -69,7 +74,8 @@ for (const slug of slugs) {
   }
   if (relSlugs.length < 3) {
     const words = slug.replace(/^best-/, "").split("-").filter((w) => w.length > 3 && w !== "rv");
-    const same = Object.keys(REG_SILO).filter((g) => g !== slug && REG_SILO[g] === silo && !relSlugs.includes(g));
+    // Only link guides that are live: gen-p2-batch treats lastUpdated "2026-10-02" stubs as missing.
+    const same = Object.keys(REG_SILO).filter((g) => g !== slug && REG_SILO[g] === silo && !relSlugs.includes(g) && guides.has(g) && !readFileSync("data/guides/" + g + ".ts", "utf8").includes('lastUpdated = "2026-10-02"'));
     same.sort((a, b) => words.filter((w) => b.includes(w)).length - words.filter((w) => a.includes(w)).length);
     for (const g of same) if (relSlugs.length < 3) relSlugs.push(g);
   }

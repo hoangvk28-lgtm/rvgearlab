@@ -43,3 +43,16 @@ Some picks carry `prior: {guide, text}`: the description that product already ha
 
 ## "d" renders as "Why it made the shortlist" (positive case only, from Round 3 batch 3)
 The 3 "d" paragraphs are shown on the page under "Why it made the shortlist". Write them as the case FOR the pick: (1) what it is and its key real specs, (2) where it beats or differs from named neighbouring picks, (3) who it is best for. Do NOT put caveats, missing specs, "costs more", "confirm/verify", "however/but/though" or other limitations in "d"; those belong only in "cons" (and FAQ/criteria where relevant). The page also filters such sentences out, so any limitation written in "d" is wasted tokens.
+
+## Price language override (CLAUDE.md §7, current rule)
+Never write any dollar figure or price range in any prose field. Position picks relatively instead: "the entry pick here", "mid-pack on price", "roughly double the entry pick", "a small step up from the <short name>", tied to what the money buys.
+
+## Depth floor (CLAUDE.md §17 "New guides must ship at full depth", hard minimum)
+- intro: 2-3 paragraphs, each 3-4 sentences.
+- each product "d": 3 paragraphs, EACH 2-4 full sentences. A one-sentence verdict paragraph fails.
+- criteria: 5-6, EACH 4-5 sentences: what it is; concrete consequence; a real threshold/number from research; how to check it on the listing.
+- howWeEvaluated: 4-5, each 2-3 sentences.
+- howToChoose rows: the "why" cell is a full clause naming a real spec of that pick.
+- faq: 5-6, EACH answer 3-5 sentences naming at least one pick.
+- Total editorial text (intro + d + criteria + howWeEvaluated + howToChoose + faq) >= 11,000 characters per guide. Measure it with node before reporting done.
+- Every description of a pick anywhere (tables, FAQ, cards) must match that pick's own features; never describe a pick by category guess.
