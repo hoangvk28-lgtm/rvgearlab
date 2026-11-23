@@ -9,7 +9,9 @@ import { matchSlugsForSilo, hasLegacyLiteralRoute } from "@/lib/migrated-silos";
 import { InformationalGuidePage } from "@/components/guide/InformationalGuidePage";
 import { getInformationalGuide, getInformationalGuidesBySilo } from "@/data/informational-guides";
 
-export const revalidate = 604800;
+
+// Unknown slugs are a static 404; there is no server to render them on demand.
+export const dynamicParams = false;
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -18,10 +20,12 @@ const matchSlugs = matchSlugsForSilo(SILO);
 
 export async function generateStaticParams() {
   const guides = await getPublicGuidesByCategory(SILO, matchSlugs);
-  return [
-    ...guides.filter((g) => !guideDataLoaders[g.slug]).map((g) => ({ slug: g.slug })),
-    ...getInformationalGuidesBySilo(SILO).map((g) => ({ slug: g.slug })),
-  ];
+  // Static export (Cloudflare Pages): every guide in this silo is prerendered at build time.
+  const slugs = new Set([
+    ...guides.map((g) => g.slug),
+    ...getInformationalGuidesBySilo(SILO).map((g) => g.slug),
+  ]);
+  return [...slugs].map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

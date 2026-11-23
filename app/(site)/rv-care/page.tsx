@@ -7,7 +7,6 @@ import { getPublicGuidesByCategory } from "@/lib/public-guides";
 import { matchSlugsForSilo } from "@/lib/migrated-silos";
 import { getInformationalGuidesBySilo } from "@/data/informational-guides";
 
-export const revalidate = 86400;
 
 const SLUG = "rv-care";
 

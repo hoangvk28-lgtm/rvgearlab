@@ -647,7 +647,7 @@ in that order (guides reference product IDs).
 
 ## 15. Deployment & Environment
 
-**Platform:** Vercel. Non-www → www redirect is handled at the application layer in `next.config.ts`.
+**Platform: Cloudflare Pages (static export), since 2026-11-23.** See `docs/cloudflare-pages.md`. `output: "export"` prerenders every page to `out/`; there is no ISR, no middleware, no route handlers, and `next.config.ts` redirects/headers do not apply. Redirects live in `cloudflare/redirects.mjs` (→ `out/_redirects`, 2,000-rule cap), headers in `cloudflare/headers.txt`, legacy `/guide/<slug>` 301s in `functions/guide/[slug].js`, non-www → www and the Bytespider/CCBot block are Cloudflare dashboard rules. Deploy: Cloudflare Pages Git integration, build command `npm run build`, output `out` (never the auto-detected `npx next build`, which skips `scripts/prune-export.mjs` and exceeds the 20,000-file cap). Sections above that mention Vercel, `revalidate`, `next.config.ts` redirects or the cron routes describe the old setup.
 
 | Variable | Purpose |
 |---|---|

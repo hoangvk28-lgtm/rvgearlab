@@ -9,7 +9,6 @@ import { categories } from "@/data/categories";
 import { silos, siloGroups } from "@/data/silos";
 import { canonicalGuideHref } from "@/lib/migrated-silos";
 
-export const revalidate = 604800;
 
 export const metadata: Metadata = buildMetadata({
   title: "RV & Camping Buying Guides",

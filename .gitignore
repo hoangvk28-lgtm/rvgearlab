@@ -8,3 +8,8 @@ design/
 # raw article batches
 /HardcastlesRV-*/
 .work/
+
+# Cloudflare Pages
+/out/
+/.wrangler/
+/functions/guide/_guide-redirects.json

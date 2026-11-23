@@ -10,7 +10,8 @@ import { buildMetadata, SITE_URL } from "@/lib/seo";
 import { formatDate } from "@/lib/utils";
 import { canonicalGuideHref } from "@/lib/migrated-silos";
 
-export const revalidate = 604800;
+
+export const dynamicParams = false;
 
 type Props = { params: Promise<{ slug: string }> };
 

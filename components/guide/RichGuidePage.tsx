@@ -471,7 +471,7 @@ export function RichGuidePage(props: RichGuidePageProps) {
               <h2 className="mb-5 text-2xl !text-white">The short version</h2>
               {props.bottomLine && props.bottomLine.length > 0 && (
                 <div className="mb-5 space-y-3">
-                  {props.bottomLine.map((p, i) => <p key={i} className="!text-white/75">{p}</p>)}
+                  {([] as string[]).concat(props.bottomLine).map((p, i) => <p key={i} className="!text-white/75">{p}</p>)}
                 </div>
               )}
               <ul className="space-y-3">

@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "NODE_OPTIONS=--max-old-space-size=5120 next dev --webpack --disable-source-maps",
-    "build": "NODE_OPTIONS=--max-old-space-size=4096 next build",
-    "start": "next start",
+    "build": "NODE_OPTIONS=--max-old-space-size=8192 next build && node scripts/prune-export.mjs && node scripts/cf-routing.mjs",
+    "start": "npx serve out",
     "lint": "eslint",
     "seed:products": "npx tsx scripts/seed-products.ts",
     "seed:guides": "npx tsx scripts/seed-guides.ts",

@@ -8,7 +8,6 @@ import { informationalGuides } from "@/data/informational-guides";
 import { SafeImage } from "@/components/editorial/SafeImage";
 import { buildMetadata } from "@/lib/seo";
 
-export const revalidate = 86400;
 
 export const metadata: Metadata = buildMetadata({
   title: "RV Gear Lab | RV & Camping Gear Buying Guides",
