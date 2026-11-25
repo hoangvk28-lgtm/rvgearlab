@@ -20,7 +20,7 @@ How to Estimate Data Use While RVing is often covered online as either a short c
 
 ## Define the job before touching the system
 
-The safest shortcut is to identify the exact system first. The decision point in **how to estimate data use while rving** is whether device updates changes while meeting hours is held constant. Approach define the job before touching the system with a dated record of signal quality, throughput, latency, data use, voltage, camera link, alert delay, battery state, coverage area and failure behavior rather than memory alone.
+The safest shortcut is to identify the exact system first. The decision point in **how to estimate data use while rving** is whether device updates changes while meeting hours is held constant. Approach define the job before touching the system with a dated record of signal quality, throughput, latency, data use, voltage, camera link, alert delay, battery state, coverage area and failure behavior rather than memory alone. For the hardware side of coverage, SenseiReview's [comparison of mesh systems and range extenders](https://www.senseireview.com/guide/mesh-wifi-vs-range-extender) explains where each one actually helps.
 
 At the campsite, a sound how to estimate data use while rving procedure follows the path through carrier service, hotspot or router, antennas, Wi-Fi, cameras, locks, alarms, emergency contacts, fire protection, sensors, power and notification paths. Complete change one variable before attempting identify the exact model. If you encounter unstable access, protect people and equipment and consult the exact manual.
 

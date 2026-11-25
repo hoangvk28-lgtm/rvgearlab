@@ -74,7 +74,7 @@ Enameled cast iron creates a nonreactive cooking surface, but it is still heavy 
 
 ## Rust, Seasoning, and Cleanup
 
-Bare cast iron is protected by polymerized seasoning, not by immunity to water. After cooking, remove food, wash by the maker's method, rinse minimally, and dry immediately. Modern guidance commonly permits mild dish soap; aggressive scraping, prolonged soaking, and leaving it wet are the larger threats. Warm it gently to remove residual moisture, let it cool safely, and apply a very thin approved oil layer if needed.
+Bare cast iron is protected by polymerized seasoning, not by immunity to water. After cooking, remove food, wash by the maker's method, rinse minimally, and dry immediately. Modern guidance commonly permits mild dish soap; aggressive scraping, prolonged soaking, and leaving it wet are the larger threats. Warm it gently to remove residual moisture, let it cool safely, and apply a very thin approved oil layer if needed. SenseiReview's [walkthrough of seasoning cast iron](https://www.senseireview.com/guide/how-to-season-cast-iron) covers the oven method for rebuilding a surface once you are home.
 
 Never pour cold water into very hot cast iron; thermal shock can crack or warp cookware and create steam burns. Do not burn food off in a campfire as routine cleaning. Salt, steel wool, or chain-mail scrubbers should be used only according to the cookware maker.
 

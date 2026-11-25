@@ -2,7 +2,7 @@
 
 To keep an air mattress warm, put a **properly insulated camping pad directly on top of the mattress**, then use dry sleep clothing and a sleeping bag or quilt suited to the overnight low. Keep the mattress away from tent walls, control drafts while maintaining ventilation, and top up pressure after the evening air cools. A blanket beneath the mattress protects the floor but does far less for your body than insulation placed immediately below you.
 
-The key problem is not that an air mattress “contains cold.” Your warmer body transfers heat into the mattress, and air moving inside its large chamber carries that heat toward the colder ground and sides. Height alone is not thermal resistance. Unless the mattress has a credible tested R-value, treat it as cushioning rather than insulation.
+The key problem is not that an air mattress “contains cold.” Your warmer body transfers heat into the mattress, and air moving inside its large chamber carries that heat toward the colder ground and sides. Height alone is not thermal resistance. Unless the mattress has a credible tested R-value, treat it as cushioning rather than insulation. Blanket coverage matters as much as loft, and SweetLivingRoom's [throw blanket size guide](https://www.sweetlivingroom.com/guide/throw-blanket-size-guide) gives the dimensions that actually cover a sleeping adult.
 
 ![Large inflatable air mattress used as a bed](/images/informational/how-to-keep-an-air-mattress-warm-while-camping/hero.webp)
 

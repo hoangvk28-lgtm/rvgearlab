@@ -2,7 +2,7 @@
 
 Choose a **camping cot** when easy entry, a stable individual surface, airflow, and usable storage underneath matter most. Choose an **air mattress** when you want a broad, cushioning surface—especially for two people—and have a level campsite, a large enough tent, and dependable inflation. Neither is automatically warm: cold air circulates beneath a cot, while an uninsulated mattress can move heat through its large air chamber. Both usually need deliberate insulation in cool conditions.
 
-This choice is primarily for car camping. Standard cots and full-size air beds are heavy and bulky compared with backpacking pads. The right answer depends on the sleeper's mobility, support preference, the tent's usable volume, and the consequences of a failure—not on which resembles a home bed.
+This choice is primarily for car camping. Standard cots and full-size air beds are heavy and bulky compared with backpacking pads. The right answer depends on the sleeper's mobility, support preference, the tent's usable volume, and the consequences of a failure—not on which resembles a home bed. The same trade-off between a frame and an inflated surface shows up indoors, where SweetLivingRoom's [comparison of futons and sleeper sofas](https://www.sweetlivingroom.com/guide/futon-vs-sleeper-sofa) covers how each one sleeps over several nights.
 
 ![Historical view of a camp cot inside a tent](/images/informational/camping-cot-vs-air-mattress/hero.webp)
 

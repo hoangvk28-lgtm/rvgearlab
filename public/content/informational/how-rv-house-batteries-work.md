@@ -36,7 +36,7 @@ For the article-specific how rv house batteries work procedure, on shore power, 
 
 ## Baseline evidence worth collecting
 
-Separate observation, measurement and correction. The key question in how rv house batteries work is whether house batteries work verified outcome changes while house batteries work physical condition remains controlled. Tie baseline evidence worth collecting to open-circuit voltage after rest, voltage under load, charging voltage, current, temperature, cable drop and elapsed time, the exact model and the same load.
+Separate observation, measurement and correction. The key question in how rv house batteries work is whether house batteries work verified outcome changes while house batteries work physical condition remains controlled. Tie baseline evidence worth collecting to open-circuit voltage after rest, voltage under load, charging voltage, current, temperature, cable drop and elapsed time, the exact model and the same load. SenseiReview's [explainer on battery voltage and amp hours](https://www.senseireview.com/guide/battery-voltage-and-amp-hours-explained) is a useful refresher on what those two numbers do and do not tell you.
 
 For the article-specific how rv house batteries work procedure, evaluate battery chemistry, state of charge, cable resistance, converter or charger profile, disconnects, loads and compartment ventilation while boondocking. Complete change one controlled variable before you identify the exact model and rating. Finding structural softness or spreading damage moves this how rv house batteries work task to model-specific or professional service.
 

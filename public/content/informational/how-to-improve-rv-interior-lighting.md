@@ -36,7 +36,7 @@ For a weekend owner, the system view for how to improve rv interior lighting inc
 
 ## Capture a useful starting baseline
 
-The safest shortcut is to identify the exact system first. The decision point in **how to improve rv interior lighting** is whether fixture voltage changes while color rendering is held constant. Approach capture a useful starting baseline with a dated record of opening dimensions, clearances, weight, fastener substrate, moisture, noise source, light output, color temperature and travel movement rather than memory alone.
+The safest shortcut is to identify the exact system first. The decision point in **how to improve rv interior lighting** is whether fixture voltage changes while color rendering is held constant. Approach capture a useful starting baseline with a dated record of opening dimensions, clearances, weight, fastener substrate, moisture, noise source, light output, color temperature and travel movement rather than memory alone. The planning idea carries over from the house, and SweetLivingRoom's [guide to layered lighting](https://www.sweetlivingroom.com/guide/layered-lighting-living-room) sets out how ambient, task and accent light divide the work.
 
 For a full-time traveler, a sound how to improve rv interior lighting procedure follows the path through sleeping surfaces, cabinets, drawers, bathroom fixtures, ventilation, lighting, travel restraints, accessibility and available payload. Complete identify the exact model before attempting record the starting condition. If you encounter unknown energized wiring, protect people and equipment and consult the exact manual.
 

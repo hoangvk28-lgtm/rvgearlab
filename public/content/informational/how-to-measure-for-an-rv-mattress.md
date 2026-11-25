@@ -20,7 +20,7 @@ How to Measure for an RV Mattress is often covered online as either a short chec
 
 ## Define the job before touching the system
 
-Treat the symptom as a clue rather than a diagnosis. A useful investigation of **how to measure for an rv mattress** separates corner shape from hinge or slide interference. Under define the job before touching the system, log opening dimensions, clearances, weight, fastener substrate, moisture, noise source, light output, color temperature and travel movement and repeat the observation after the system reaches the same load and temperature.
+Treat the symptom as a clue rather than a diagnosis. A useful investigation of **how to measure for an rv mattress** separates corner shape from hinge or slide interference. Under define the job before touching the system, log opening dimensions, clearances, weight, fastener substrate, moisture, noise source, light output, color temperature and travel movement and repeat the observation after the system reaches the same load and temperature. The same measuring habit applies to furniture generally, as SweetLivingRoom's [check on whether a sofa fits through the door](https://www.sweetlivingroom.com/guide/will-my-sofa-fit-through-the-door) shows.
 
 For a full-time traveler, use how to measure for an rv mattress to trace the connection among sleeping surfaces, cabinets, drawers, bathroom fixtures, ventilation, lighting, travel restraints, accessibility and available payload. Verify read the applicable manual before change one variable. A finding of gas odor or alarm is a stop-work boundary, not an invitation to bypass a control.
 
